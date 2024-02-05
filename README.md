@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Williamsport (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange yellow light moved up the side of the mountain, into the air and then disappeared.My husband and I was standing outside on our front porch, which faces south, when we saw a yellow light move straight up the side of the mountain on the south west side of Williamsport, Pa.  It was moving pretty fast, traveled up the mountain side from bottom to top within 1 minute, and then flew into the air, moved to the east for about 30 seconds and then disappeared into thin air.  It moved like a helicopter, but had no flashing security lights.  It was just a golden/yellowish light and was too dim and the wrong color to be a spotlight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87043.html](http://www.nuforc.org/webreports/reports/087/S87043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hotchkiss (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was there at the time of the picture and then gone by the time I looked up.Took 2 pictures of the mountains and looked at the picture a few minutes later and saw a strange dark grey circular object I'm the picture.  The first picture is was lower and then the second one was higher up.  Looked  back up at the sky and it was gone.((NUFORC Note:  We suspect a bird in flight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117178.html](http://www.nuforc.org/webreports/reports/117/S117178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
