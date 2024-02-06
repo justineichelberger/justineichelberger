@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Seven bright orange lights in the western sky.We were looking toward the west in the dark sky and observed seven orange lights lined up in a vertical pattern.  They disappeared and reappeared a couple of times.  Then four orange lights remained and arranged in a checkmark fashion.  They stayed in this pattern for a couple of minutes.  Four lights became two and they accelerated west until they disappeared.  We then observed what we believed to be two U.S. fighter jets (with blue lights) returning from the sighting.((NUFORC Note:  Because of both the location, and nature, of the bright objects, we strongly suspect that the bright objects may have been aerial flares, launched from aircraft over the Barry M. Goldwater Firing Range, located near Gila Bend, AZ.  That is what official military sources apparently reported, shortly after the event had occurred, and we have no reason to doubt that claim.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55170.html](http://www.nuforc.org/webreports/reports/055/S55170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bethel (VT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Band of 5-8 bright lights tilted and stationary in sky without any dimming, then just gone.I did a double take of a band in the sky tilted on a slight angle.  It was 5-8 bright lights all stationary and each brighter than the stars that had just come out.  I couldn't fathom what it was but I was driving so I kept glancing at it and it just stayed in position.  I first thought it was a meteor breaking up but there was no dimming of the lights or any sign of a trail- just bright stationary lights.  When I pulled over at a brightly lit gas station, I tried to see it but it was no longer there.  Spooked me.  Felt like a dream.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96219.html](http://www.nuforc.org/webreports/reports/096/S96219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
