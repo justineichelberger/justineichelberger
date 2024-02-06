@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:31 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Banks (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multiple flying objects with lights flashing, that stoped in a specific spot.The first object seen was fairly large and could easily be mistaken as a helicopter but was soon followed by two more flying objects.  They traveled left and circled around a hill for a few minutes.  We soon realized they had disappeared. Then another came from the right and flew to the same hill.  This happened multiple times for about an hour.  Suddenly, three more surrounded the one flying object and they all flew to that same hill.  It may have gone longer but I left the scene.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117221.html](http://www.nuforc.org/webreports/reports/117/S117221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright star light opject moving slowly in a giggling motion  across the sky Miller/Barnes rd Portland OregonOn Wednesday evening 2/5/14, I was lying in my bed and there was a beautiful star in the sky.  I was just watching it and it started to giggle around and move, I wasn't sure if it was my vision, because it was moving so slow.  I started to compare it to where it was against the trees.  I was tired and closed my eyes for a bit, within 15 mins it had eventually moved behind the trees and I could no longer see it.It was a bright glowing light, shaped like a star, but moving in a giggling motions across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107039.html](http://www.nuforc.org/webreports/reports/107/S107039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
