@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:55 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:31 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Woodford Green (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A fleet of ships landed in my back garden and took off again.I was woke up early by a humming noise and then large flashes of light filled the room. I suddenly felt weak and over-heated then a fleet of disks, cigars and eggs followed by balls of lightning and fire. Then balls of ice carshed into the carft and I felt frozen. The TV, PC, and other electricals were shut down and all of our magnetic devices were reapeld. They changed colours and shot what we thought were lasers or torch cutters. The objects had a magenta haze and left a cyain trail ( Or the opposit). Two helecopters and a plane were in pursuit of the objects. A gocart with no driver followed them (reason unkown). Then one landed and two weird looking creaturse came out and spoke like a cross of a crabs nipping and a dogs bark. The said the word Mars pefect and got back in there UFO and when it got back into the sky it copied itself and at the same time shrunk. There were no pilots in the aircraft (Human pilots). Then the carft rturned to space with the others. Then my computer started to work and I had emails from my friend saying they saw somthing.((NUFORC Note:  Witness indicates that the date of the event is approximate.  Probable hoax.  Source of report indicates that he is a "prep school studant" (sic). PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49632.html](http://www.nuforc.org/webreports/reports/049/S49632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Banks (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multiple flying objects with lights flashing, that stoped in a specific spot.The first object seen was fairly large and could easily be mistaken as a helicopter but was soon followed by two more flying objects.  They traveled left and circled around a hill for a few minutes.  We soon realized they had disappeared. Then another came from the right and flew to the same hill.  This happened multiple times for about an hour.  Suddenly, three more surrounded the one flying object and they all flew to that same hill.  It may have gone longer but I left the scene.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117221.html](http://www.nuforc.org/webreports/reports/117/S117221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
