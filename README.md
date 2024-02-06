@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:09 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:53 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tonawanda (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Streaking light headed North / North EastIt was a very clear night with a full moon.  I was standing in my driveway with a friend when we noticed what at first appeared to be a star, but began streaking across the sky headed in northern and slightly eastern direction.  My friend thought perhpas it was a satellite.  But as the object moved directly overhead, it appeared to grow in size (perhaps descending?) and the light became much more intense and brighter.   The object then continued moving northeast and faded in intensity, but moved in a non-linear path, curving from a norhteast path to a northwest path, until it faded from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87074.html](http://www.nuforc.org/webreports/reports/087/S87074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cape Girardeau (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1:10 - 1:10 minutes.</sub><blockquote><sub>Bright Orb in night sky flies by, then vanishes.While out filming objects in the night sky with my night vision camera, I saw this orb out of my peripheral vision.  I got the object in frame as soon as I could.  You can see it here:  https://www.youtube.com/watch?v=pV3gAgCTOFY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118069.html](http://www.nuforc.org/webreports/reports/118/S118069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
