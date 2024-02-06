@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:49 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Queens) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright red cycle over Queens County, NYC on east night skyline. Moving fast and staying on one place.On the east skyline bright red cycle for 2 min...disappeared and than again almost 2 min.  Position on one place and suddenly very fast move toward to North...again position on one place...moving fast into the distance ... disappeared to the North</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107023.html](http://www.nuforc.org/webreports/reports/107/S107023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bucyrus (6 mi. SW of) (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright star like light at 8:40 am in clear sky moving from southeast to northwest then disappearedI was driving north east on Ohio Route 4, approximately 6 miles southwest of Bucyrus in Crawford County, Ohio at 8:40 A.M., Monday, February 6, 2012.  The sky was clear with no clouds.  State Route 4 has a polar coordinate of approximately 55 degrees (or 35 degrees east of north).At approximately 40 degrees, (range unknown)I saw what I first thought was a planet, (not unlike Venus), bright star like light.  However, I saw it move to the northwest, then turn or bank upward, possibly with a then curved crescent edge like wing silhoute that was visible for maybe one second.   The light then continued to norhtwest for a few more seconds like 2 or 3) and then totally disappeared at about 55 degrees.  Although this may have been an aircraft marking light that was no longer turned in my direction when the plane banked away, I saw no darker shadow or evidence of a plane flying away.  The light totally disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87087.html](http://www.nuforc.org/webreports/reports/087/S87087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
