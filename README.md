@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Turner (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval shaped object with bright yellow lights.Saw a oval object with 3 very bright round yellow lights.  This object was about above trees in an area that also has fields.  Was right at dusk, but still light out.  It hovered motionless until I lost it behind the trees as I was traveling in my vehicle.  Was so bright that others on the road had to have seen it as there was very heavy traffic at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138776.html](http://www.nuforc.org/webreports/reports/138/S138776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Foothill Ranch (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large sized, see through shaped saucer with lights all around and within the object.On February 6, 2007 at around 6:30pm I saw an unidentified object. It was a very large object. An airplane had passed next to it, and the airplane was about 1/50 as compared to the object. It was a saucer shape. There were thousands of lights surrounding it and inside of it. The lights though were separated enough to make the saucer shape. It moved relatively slow across the sky heading north. The object made no noise. It was very close to the ground. It went no higher than seven thousand feet. Two other people witnessed this sighting. There was only one object. The lights within it were colors of green and blue with some red. The lights looked like stars almost. The lights were all moving together in unison. The lights were all the same size. It was at night and the moon was out. When the object flew through the light of the moon, there was no "metal body" or anything to bind all of the lights together. It was completely see through. It slowly got smaller as it moved away. We stood there for ten minutes and watched it float away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55172.html](http://www.nuforc.org/webreports/reports/055/S55172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
