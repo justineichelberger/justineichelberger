@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ellsworth (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Green light and buzzing soundBefore dawn: saw green light from overhead flood the bedroom window.  (Light was briefly white, then turned light and very bright green.)  The light was accompanied by a loud, vibrating pulse that lasted 4-5 seconds.  After about 10-15 seconds, the light and pulse repeated exactly as the first time.  Fog and darkness did not allow us to see into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79963.html](http://www.nuforc.org/webreports/reports/079/S79963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Turner (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval shaped object with bright yellow lights.Saw a oval object with 3 very bright round yellow lights.  This object was about above trees in an area that also has fields.  Was right at dusk, but still light out.  It hovered motionless until I lost it behind the trees as I was traveling in my vehicle.  Was so bright that others on the road had to have seen it as there was very heavy traffic at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138776.html](http://www.nuforc.org/webreports/reports/138/S138776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
