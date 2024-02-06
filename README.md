@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chilliwack (Canada) (BC) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information.  Elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106958.html](http://www.nuforc.org/webreports/reports/106/S106958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Nine Mile Falls (WA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Man & wife witness 3 lights streaking across sky for 5 min..  Pursued by mil. aircraft. Dramatic sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00129.html](http://www.nuforc.org/webreports/reports/000/S00129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
