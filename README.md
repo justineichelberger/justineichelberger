@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UPDATE TO 2/6/97 MESA, AZ SIGHTING ALREADY POSTED TO NUFORC WEBSITE..THIS REPORT IS TO SERVE AS AN UPDATE TO THE 2/6/97 SIGHTING IN MESA, ARIZONA...Per conversation with the NUFORC, provided here is a link to a g-maps pedometer map of the spot where the 2/6/97 Mesa, AZ sighting took place.  Also provided is an explination of what you will see on the map.  I encourage viewers to open the map in a new window so you may view it and the below explination at the same time.Here is the link to view the map:  http://www.gmap-pedometer.com/?r=1750635  ---------EXPLINATION OF WHAT YOU WILL SEE ON THE AERIAL VIEW MAP---------- In the aerial view we see the Mesa, Arizona apartment complex I lived in.  Notice two red markers, separated by a blue line.  Notice that the indicator to the left (outside the map) states that the distance between the two markers is .0242 KM (or 24.2 meters).  The red marker on the top is approximately where I was as I walked east.  The craft was observed flying east over the train tracks (just outside the complex) after it had flown past the silos (which you will also see in the photo).  In my original report, I estimated the lateral distance between myself and the craft to be "60 meters."  This map has helped me to provide a much more realistic distance (just 24 meters!).  As discussed with the NUFORC, the altitude of the craft could still be estimated at 100-130 meters.  But, the main point of the estimate is that the craft was VERY close and VERY low.  From the point at which the craft was observed, it made a right turn and accelerated to terrific speed as it moved south, and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63514.html](http://www.nuforc.org/webreports/reports/063/S63514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lemitar (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately all night - all night minutes.</sub><blockquote><sub>star-like light in west sky over Lemitar for past monthFor about a month now, there has been a star-like light in the west sky and it has some red and green color if you look through binoculars.  It was above the mountains west of Lemitar at first and is now moving slowly east in the sky.  If you watch it closely, you can see it move and it is seen every night unless it’s overcast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87067.html](http://www.nuforc.org/webreports/reports/087/S87067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
