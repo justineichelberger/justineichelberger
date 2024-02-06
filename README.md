@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 6 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Thetford/Bradford (between) (VT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately moment - moment minutes.</sub><blockquote><sub>I was driving south on I-91 and noticed a light in front of me ahead. It was dark so I thought maybe it was for construction but as I got closer it looked like the light was strung up over the road almost like a street light. I came up on it so quickly and it was so strange that i craned my head forward to look up being careful as I drove. I went right under it, or it went right over me. It was low, maybe 7 feet above the car. I looked in the rear view mirror while trying to be safe but could not see anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161949.html](http://www.nuforc.org/webreports/reports/161/S161949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>'Rocket boosters'  over North Pole AKI was watching a fantastic northern lights show tonight when I saw condensed light out of the corner of my eye.  I looked up to see a cigarish light moving across the sky.  I was fortunate in that I was holding binoculars at the time and was able to focus in on the object as is tracked from north to south.  The light was actually flame as one would think a pair of rocket boosters would produce.  I watched it move for maybe fifteen more seconds and then the 'boosters' went out and as they did an orangish glow remained for an instant (there was a shape momentarily visible in the afterglow that reminded me of a branding iron pointing directly at me shaped like a square with a cross through the center) and then the entire object disappeared into the night.   I can guess latXlong and make a sketch if requested via email.((QUERY TO WITNESS))Dear Ms. ((name deleted)), Thank you very much for the excellent report!  In fact, we received one other report from Fairbanks. From your description, I wonder whether the event might have been caused by a rocket launch of some kind.  Are you able to make a telephone call, or two, to establish whether that might have been the cause?  I suspect a call to the FAA would resolve the issue fairly quickly, since any facility launching a missile would have to apprise the FAA of the event. If you find out what the cause was, I would be most grateful if you could drop us a note.  We will add it to your report. ((FOLLOW-UP MESSAGE FROM SAME WITNESS))Mr. Davenport,I did phone the FAA (ATC at FAI) this evening and was told that the research facility out at Poker Flats (an atmospheric research center about 30 miles north of my home) was potentially active at that time (the NOTAM filed by Poker Flats is open-ended) though none of the same staff was on tonight so we we're unable to verify.  Poker Flats does apparently occasionally launch small rockets into the atmosphere for research.  The FAA employee also stated that the research does "effect the Northern Lights" which may have something to do with the good lights show last night (actually now I'm more interested by that...  ;)    The specs would certainly seem to line up with where and what I saw.  Thank you for your reply and suggestion.   All the best to you.  Warmly,  ((name deleted))((END FOLLOW-UP))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21703.html](http://www.nuforc.org/webreports/reports/021/S21703.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
