@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pasadena (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two orange glowing lights appeared hovering and slowly descendingTwo bright orange lights were seen hovering near each other at at or around the same altitude.  They appeared to be spherical but not sure.  They were very low and slowly descending.  At first I thought they were like those Chinese lanterns but they were slowly going down and were too big and bright and they weren’t twinkling like a fire would have appeared.  They kept solidly lit(idk how else to put that but I think you know what I mean).  I would estimate they were above somewhere between Bodkin point and Gibson Island because they were to the east or south east of where I was which was Edwin Raynor Blvd heading south.  They were close to each other and slowly descended until they were below the horizon of the trees in front of me.  Surely other people must have seen this.  Time seen was 8:55 pm est and my location was Edwin raynor Blvd and the objects were in front of me and to the left which would put them south east of me since I was heading south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106990.html](http://www.nuforc.org/webreports/reports/106/S106990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Iroquois Falls (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White, slightly bright orb seen flying at highspeed over local paper millI was driving towards Tim Horton's to go for a late night coffee. The sky was clear with the exception of the steam coming out of the stacks of the local paper mill.  When slowing down to turn into the Tim Horton's parking lot, I took a quick glance towards the mill and saw a white orb or sphere "flying" above the mill. It was moving in and out of the steam coming out of the stacks. It was moving very quickly and kept making sharp turns without slowing down. When I parked my car, I watched the orb, for approximately fifteen seconds before it made another sharp ninety degree turn towards the sky and instantly dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61452.html](http://www.nuforc.org/webreports/reports/061/S61452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
