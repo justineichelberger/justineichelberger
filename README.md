@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small white lighted disk in FL hovering right above shopping mallSaw it fly across the highway while I was driving on it, thought it was someone’s drone but it looked very big for a drone.  It stopped and hovered over a shopping mall and I saw the light moving across the center ring.  Colored lights (red and green) on top and a moving light ring going around the center. It followed in my direction, behind my car for about 5 minutes. I got uncomfortable feeling like it was following me (I was the only car on a very dark road) and told myself it was a police helicopter using speed radar until I looked at it again and it was definitely no helicopter. Underneath it were many small white lights in a formation. They moved like illuminated jellyfish tentacles (?).  After a few minutes I checked to see if it was still there and I WATCHED as the disk disappeared into the sky.  My car engine had been acting up minutes before I saw it and I was driving next to cow fields for some of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153181.html](http://www.nuforc.org/webreports/reports/153/S153181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fountain (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Triangle seen over Fountain Colorado outside Colorado Springs.I saw this triangle shape object with flicking lights just sitting in the sky not moving up or down just like it was hanging in the shy. I was in a moving car going about 35 miles a hour (on the passager side) and I was looking straight up at it just sitting there in a pitch black sky. I live outside the city limits of Colorado Springs, Colorado. I was stunned to see this out here because I have heard of the flying triangles, but this one was alone. No this was not a commercial airliner, because I see planes all the time from the nearby airport and they are big with hugh flashing lights of differnt colors and moving in a straight line ( and you can hear the engines). I heard no engines or noise from this object just flicking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22246.html](http://www.nuforc.org/webreports/reports/022/S22246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
