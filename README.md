@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Leicestershire (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red lights over Leicestershire EnglandWhilst standing outside smoking a number of people witnessed several strange lights that seemed to float above us at a very high altitude.  They seemed to be spaced at equal distances from each other, and glowed with a redish glow.  A few people managed to take photos and video on their telephones as they went over.  Once they had moved away a short space they then seemed to rise and disappear.  Although my daughter took pictures on her phone, we are unable to dowload them onto the computer as it is too old to take modern technology.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68502.html](http://www.nuforc.org/webreports/reports/068/S68502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bowling Green (KY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>cigar shaped that turned into a triangleWas outside looking at the moon when the kids asked if they could stay out an watch the stars.I looked to the right of the moon was a cigar shaped object in the sky about 2 O'Clock in the night sky, moving east it turned left towards the moon went in front an just above the moom.Then turn to the west,as it tured it changed shape from a cigar shape to a triangle shape craft.                      The light where and red an yellow,then change to blue and back again.As it went just above the Moon it looked a little bitt silver it may have been the moon reflecting off it.It stoped for two seconds an the moved again.Then it would also jump forward for a foot at one point.then in just a flash it was gone,one second it was there the next it was gone,Just that fast.The craft made no sound it was not a plane or a jet they fly over all the time I know the difference.It was 4 inches with my arm fully extended.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be quite precise in his description of the object observed by him and his children, and quite convincing.  We are confused by the time indicated, but we will attempt to clarify it with the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16350.html](http://www.nuforc.org/webreports/reports/016/S16350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
