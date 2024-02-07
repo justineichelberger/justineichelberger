@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oak Park (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Boomerang shape Green and red lights flashing over Ventura County, CaliforniaThis is my daughters account of what we saw and she is 13.  I was looking out my window at 730 pm and saw a shape that looked kind of like a cylinder shape.  It had red and green flashing lights. It kinda looked like a gigantic flashing star.  It was going up and down and then it looked like it was coming towards us  and then I saw a outline of the front of it and it looked like a U shape and it was green.  It then moved to the west and then it stopped on top of a hill and  then  I saw a red flash for at least another 30 min and then went back inside.  The object didnt make a normal plane noise but it seemed like a swooshing noise was coming from it.  My mom and I looked for other planes that may make a noise, but there were only little planes and the sound was very different then that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79980.html](http://www.nuforc.org/webreports/reports/079/S79980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dewey (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange light going south circling to west and disappearing up to west.   About 2 minutes.  Quite bright to disappearing up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125698.html](http://www.nuforc.org/webreports/reports/125/S125698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
