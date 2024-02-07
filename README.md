@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:32 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Parkesburg (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>LARGE WING SPAN, NO NOISE, SLOW MOVING AND VERY LOW. TWO OF THEM IN LINE.MY WIFE SAW UNUSUAL LIGHTS ON AIRCRAFT HEADING TOWARDS HOUSE AND SCREAMED AT ME TO LOOK OUT PICTURE WINDOW. I DID AND RAN OUTSIDE TO GET A CLEARER LOOK AT THESE WIDE SPREAD LIGHTS.  WE SEE MANY PLANES COMING TOWARDS THE G.O. CARISON AIRPORT NOT FAR FROM HERE BUT NOTHING LIKE THIS. MOVING VERY SLOW AND VERY LOW, I THOUGH  IT WAS GOING TO CRASH INTO OUR HOUSE.  I JUST COULD NOT MOVE OR TAKE MY EYE OFF OF THIS LARGE WING SPAN WITH 4 EQUALLY SPACED BIG SPOT LIGHTS ON WHAT I THINK WAS THE WINGS. AS IT APROACHED WITHIN I THINK 400 YARDS  AWAY IT TURNED RIGHT AND THERE WAS A SECOND ONE  WHAT APPEARED TO BE ONLY 20-30 FEET BEHIND IT.  THEY WERE VERY CLOSE AND IN LINE WHEN FIRST SPOTTED AND COULD NOT SEE SECOND ONE UNTILL THE FIRST TURNED RIGHT AND THE SECOND FOLLOWED.  WITHIN SECONDS THEY DROP OUT OF SIGHT BEHIND THE TREE LINE AND I WAITED FOR A CRASH. MY WIFE RAN TO BACK DOOR THAT FACES THIS AREA TO WITNESS THIS.  I RAN INSIDE TO GARAGE AND MY WIFE AND I JUST KEPT LOOKING OUT ALL WINDOW FOR THEM TO RISE BACK. NOTHING HAPPENED. BEING THIS CLOSE NOT HEARING ANY NOISE FROM THIS WAS SCARY.  NO PROP OR JET ENGINE SOUND.  A LIGHT WINE FROM THEM BUT VERY LOW. MY WIFE COULD NOT HEAR ANYTHING  BESIDES THE SPREAD OF THE 4 LIGHTS WHICH I ASUME WAS ON THE FRONT EDGE OF WINGS TO GAUGE SPAN, WE CAN NOT COMPARE WITH EVEN A CARGO PLANE.  NEIGHER OF US COULD NOT SEE ANY FUSEALAGE OR TAIL . ALSO NO OTHER LIGHTS SUCH AS CABIN, SMALL CLEARANCE, BLINKING OR TAIL LIGHTS AS OTHER PLANES. NEXT DAY WERE I WORK, A CO-WORKER WAS TELLING A GROUP OF PEOPLE WHAT HE SAW AT THE SAME APPROX. TIME.  HE LIVES APPROX. 5-6 MILES FROM HERE.  IT WAS THE SAME THING WE SAW BUT HE SAID HE SAW THEM LEAVING  FROM THAT SLOW SPEED TO A SUPER SPEED IN NO TIME . MY WIFE AND I ARE NOW TRUE BELIEVERS OF UFOS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61505.html](http://www.nuforc.org/webreports/reports/061/S61505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Saucier (MS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Was walking my dog tonight and seen some sort of craft hovering low in the trees, and then it came out and made a big loop low in the sky.  It had two red lights and a few white ones. It kept making circles behind our house for about 30 minutes, zipping east to west. I had time to run inside and find the binoculars and it definitely wasn't any kind of military aircraft because it didn't appear to be making any noise at all.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96242.html](http://www.nuforc.org/webreports/reports/096/S96242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
