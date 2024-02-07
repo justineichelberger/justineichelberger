@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Iroquois Falls (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White, slightly bright orb seen flying at highspeed over local paper millI was driving towards Tim Horton's to go for a late night coffee. The sky was clear with the exception of the steam coming out of the stacks of the local paper mill.  When slowing down to turn into the Tim Horton's parking lot, I took a quick glance towards the mill and saw a white orb or sphere "flying" above the mill. It was moving in and out of the steam coming out of the stacks. It was moving very quickly and kept making sharp turns without slowing down. When I parked my car, I watched the orb, for approximately fifteen seconds before it made another sharp ninety degree turn towards the sky and instantly dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61452.html](http://www.nuforc.org/webreports/reports/061/S61452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oak Park (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Boomerang shape Green and red lights flashing over Ventura County, CaliforniaThis is my daughters account of what we saw and she is 13.  I was looking out my window at 730 pm and saw a shape that looked kind of like a cylinder shape.  It had red and green flashing lights. It kinda looked like a gigantic flashing star.  It was going up and down and then it looked like it was coming towards us  and then I saw a outline of the front of it and it looked like a U shape and it was green.  It then moved to the west and then it stopped on top of a hill and  then  I saw a red flash for at least another 30 min and then went back inside.  The object didnt make a normal plane noise but it seemed like a swooshing noise was coming from it.  My mom and I looked for other planes that may make a noise, but there were only little planes and the sound was very different then that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79980.html](http://www.nuforc.org/webreports/reports/079/S79980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
