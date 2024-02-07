@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (MT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>green org zoomed over Hamilton while still daylight.2/7/14, tween 5:30 and 6 PM, Was on phone, glanced out the window, and saw a green orb above to the west, zoom further west, and disappear behind tree top.Conditions: Was still light out.  Cloud cover, with light blue sky showing through clouds in some areas.  Snow on the ground, 16 degree F temp.Orb was below clouds, moving so fast, I was only able to say "Whoa! what's that?" and it was gone.  The tree it disappeared behind is close enough (100ft?), and tall enough (fir), I couldn't tell if the orb continued over the mountain range, or if it came down on the mountain range.  It was about 4 inches in diameter at that distance, fluorescent, or sparkly green, with maybe a slight trail but nothing significant registered in that 2 to 3 seconds.  Think it was flying lower than the jets do, but higher than local small aircraft.Would like to know if anyone else saw this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107010.html](http://www.nuforc.org/webreports/reports/107/S107010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lamar (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Almost nightly we see this light.  It is very big in comparison to even close neighboring yard lights.  The light is very bright and changes colors from green to amber.  We watched 4 airplanes fly over our heads and surround the light.  The light traveled up and to the right for a few minutes in a bouncing motion.  Then it slowly descended to the other side of the small hill behind our home.  We have anew airport 1 mile from our home and frequently see Army planeso and Blackhawk choppers flying overhead.  The aircrafts that came from the airport surrounded the light and just stayed over it..  They are still there though the light descended out of sight 10 minutes ago.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117223.html](http://www.nuforc.org/webreports/reports/117/S117223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
