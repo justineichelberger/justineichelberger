@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Artesia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A BRIGHT RED LIGHT HOVERD AND SUDENLY   STREAKED UPWARD AND AWAY .MY GIRL FRIEND AND I TOOK A TO A LOCAL PARK WICH IS LOCATED NEXT TO THE 91FRWY. THE PARK SITS ATOP A WATER WELL AND HAS A VERY GOOD VIEW OF THE SURROUNDING AREA AND SKY.IT WAS A VERY CLEAR NIGHT AND THE MOON WAS FULL .WHEN SHE FIRST NOTICED THE BRIGHT RED LIGHT HOVERING VERY HIGH IN THE SOUTH WESTERN SKY.AS WE SAT AND WATCHED IT SEEMED TO PULSATE AND SUDDENLY MOVED AT A VERY HIGHT RATE OF SPEED DIRECTLY TOWARDS US AND UPWARD . IT THEN CAME TO A SUDDEN STOP. SITTING THERE FOR LESS THAN A SECOND AFTER WITCH IT TOTTALLY DISAPEARED ONLY TO REAPPEAR 3 TO 5  SECONDS LATER.AT WHAT APPEARED TO BE A MUCH HIGHER POSITION BEFOR IT DISAPEARED ALTOGETHER.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35516.html](http://www.nuforc.org/webreports/reports/035/S35516.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pasadena (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two orange glowing lights appeared hovering and slowly descendingTwo bright orange lights were seen hovering near each other at at or around the same altitude.  They appeared to be spherical but not sure.  They were very low and slowly descending.  At first I thought they were like those Chinese lanterns but they were slowly going down and were too big and bright and they weren’t twinkling like a fire would have appeared.  They kept solidly lit(idk how else to put that but I think you know what I mean).  I would estimate they were above somewhere between Bodkin point and Gibson Island because they were to the east or south east of where I was which was Edwin Raynor Blvd heading south.  They were close to each other and slowly descended until they were below the horizon of the trees in front of me.  Surely other people must have seen this.  Time seen was 8:55 pm est and my location was Edwin raynor Blvd and the objects were in front of me and to the left which would put them south east of me since I was heading south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106990.html](http://www.nuforc.org/webreports/reports/106/S106990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
