@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Saucier (MS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Was walking my dog tonight and seen some sort of craft hovering low in the trees, and then it came out and made a big loop low in the sky.  It had two red lights and a few white ones. It kept making circles behind our house for about 30 minutes, zipping east to west. I had time to run inside and find the binoculars and it definitely wasn't any kind of military aircraft because it didn't appear to be making any noise at all.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96242.html](http://www.nuforc.org/webreports/reports/096/S96242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (MT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>green org zoomed over Hamilton while still daylight.2/7/14, tween 5:30 and 6 PM, Was on phone, glanced out the window, and saw a green orb above to the west, zoom further west, and disappear behind tree top.Conditions: Was still light out.  Cloud cover, with light blue sky showing through clouds in some areas.  Snow on the ground, 16 degree F temp.Orb was below clouds, moving so fast, I was only able to say "Whoa! what's that?" and it was gone.  The tree it disappeared behind is close enough (100ft?), and tall enough (fir), I couldn't tell if the orb continued over the mountain range, or if it came down on the mountain range.  It was about 4 inches in diameter at that distance, fluorescent, or sparkly green, with maybe a slight trail but nothing significant registered in that 2 to 3 seconds.  Think it was flying lower than the jets do, but higher than local small aircraft.Would like to know if anyone else saw this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107010.html](http://www.nuforc.org/webreports/reports/107/S107010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
