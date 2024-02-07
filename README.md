@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Manilla (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Strange lights in Iowa skiesNorthwest of Manilla, Iowa I saw 3 orange balls of light appear right after one another from left to right,evenly spaced apart (West to East)and vanished in order they appeared one at a time.No noise and no planes in area at the time.Have been several sitings of this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49065.html](http://www.nuforc.org/webreports/reports/049/S49065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Culpeper (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two spheres move in unusual ways in early morning.I just had my very first, truly authentic UFO sighting today at 5:52 am.  I awoke for no particular reason this morning and was staring out the large bay window that dominates my bedroom and faces the Southwest.  Had been starring out this window for a few minutes, wondering why I had to wake up so early on my day off, when two relatively bright, white lights steadily appeared in the upper portion of the window.  There is a thick transom board that forms the upper sill for the bay windows below and is the base for the triangular window that is the top of the bay window group.The lights appeared from behind this board, up into the large, clear portion of the triangular window, slowly moving upward and to the right for a short period.  At first, I thought it must be a pair of light aircraft, but it was weird that they would track so steadily with each other and move so slow.  I really didn't think too much of it, I had seen similar things in the past that weren't too far out of the realm of normality, but when the lights seemingly halted, and rapidly shot upwards to tiny points of light (probably about a second to a second and a half) in a very gentle quarter twist motion), I was pretty sure I was not watching a pair of Cessna aircraft.The twin points of light glittered for about two seconds before one on the left just winked out and the one on the right shot across the window in a Northernly direction in about a quarter of a second,  After waiting a few minutes, keeping my eyes on that patch of sky to see if anything else manifested itself, I turned on the table lamp and noted the time of 5:52 am and got out my iPhone and verified the direction the window faced as South West.The lights were blue/white, steady (no-pulsing), tracked very steady and were unspectacular except for their astounding speed and precise action across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125693.html](http://www.nuforc.org/webreports/reports/125/S125693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
