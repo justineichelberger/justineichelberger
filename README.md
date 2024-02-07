@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 7 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bullhead City (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We witnessed two dark black lines in the west sky running straight down as if from twelve o'clock to six o'clock,   they were very dark in color.We were outside and noticed two lines in the sky coming straight down close to each other and they were black in color.   It almost appeared to be smoke except they didn't disapate they remained in a set position.   It lasted for about ten minutes and then there was nothing.   They were side by side coming from about twelve o'clock to six o'clock,   and they were pretty straight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11918.html](http://www.nuforc.org/webreports/reports/011/S11918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Manilla (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Strange lights in Iowa skiesNorthwest of Manilla, Iowa I saw 3 orange balls of light appear right after one another from left to right,evenly spaced apart (West to East)and vanished in order they appeared one at a time.No noise and no planes in area at the time.Have been several sitings of this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49065.html](http://www.nuforc.org/webreports/reports/049/S49065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
