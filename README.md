@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>Three lights arranged themselves into a triangle up on the sky and one by one they flashed a light; flash, flash, flash.This past weekend of the 8th while camping in the Yucca Valley area, my three girlfriends and I were admiring the full moon.  One on us wondered if certain three (3) lights in the sky were planets or shooting stars because it seemed like they were “active”. Just then, we saw them shifting, moving, arranging themselves into a triangle up on the sky; then one by one they flashed a light. Flash, flash, flash.  Then and almost impressible light kept them connected to one another.  Like one of those laser sables from Star Wars.  It was there, but you almost couldn’t see it.  They were still there, when we walked back to our camp a few minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153201.html](http://www.nuforc.org/webreports/reports/153/S153201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Craft forms Triangle, becomes portal right over 1-5Watch on the hillside across from us in the 1-5 corradore, 3 craft suddenly poped into view, forming a triangle  pointing to a red glow on the ground. the craft would fluctuate position and sometimes freeze in position. The right corner craft would leave the formation... and slowly follow the air traffic lane, whice goes right through there, then suddenly reappear near the triangle again. sometimes electricity could be seen around the red light on the ground..then a small red light would come out of it. and see to float to a craft alongside the triangle hovering amoungst the tree top level. The recieving craft and one of the triangle craft would brighten and twinkle when this would happen. then the right corner craft would slowly leave and follow the air path again... and reappear a few minutes later. This was a movement patteren repeated several times. We were building up feelings of hatred and go home... and when we would project this at them, and twice i saw them *duck* or swoop , as if avoiding a projectile. I have noticed single craft in that area for a couple of years now, but this was the 1st show and multiple craft event. I feel its some kind of portal, and i observed <what appeared to be> human aircraft fading in from the triangle area, and following the air path away. Only 1 - 2 of the saucers would fly away tho. I feel this happens at this place now and then, but the single crafy can be seen rather often.((NUFORC Note:  We do not know what a "portal" is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21766.html](http://www.nuforc.org/webreports/reports/021/S21766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
