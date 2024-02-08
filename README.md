@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:19 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riverhead (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>small silver/white light , making rapid zig-zag patterns in early morning skyI looked up at the sky this morning at 5:40, looking north, and I saw what I thought was a satellite- small whitish/silver circle, like a star.  Instead of taking a steady path like a satellite, this whitish circle began to make irregular patterns very quickly.  It almost looked like a white/silver balloon that was getting caught up in the wind and was blowing from random gusts of wind.  It remained the same color and brightness, but would zig zag, then seem to stop, then repeat the irregular rapid movement.  I watched it for approximately two minutes until I lost it to the north west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74318.html](http://www.nuforc.org/webreports/reports/074/S74318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wesley Chapel (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>floating swaying and dropping.Not sure.  Had blinking lights...red, and some other.  Could not tell.  Was floating in air dropping and swaying and jolting left to right.((NUFORC Note:  Possible "twinkling" star??  We spoke via telephone with the witness, and have encouraged to look at the same area of the sky, at the same time of night, when they have a clear sky in that area of Florida.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117235.html](http://www.nuforc.org/webreports/reports/117/S117235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
