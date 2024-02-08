@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:49 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Palatine (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Solid red lights over O'hare airport.I walked outside and noticed a plane to the southeast at approx. 10,000 feet over O'hare airport traveling north. I then noticed that the two red lights ( on the wings? ) were not blinking.  This attracted my attention, so I kept watching. As it got east of me and passed, the two red ligts (on the front?) became two white lights with a red light in the middle.  Still no blinking or strobing. As it traveled north, it had more the look of a satelite in speed and altitude.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55210.html](http://www.nuforc.org/webreports/reports/055/S55210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in North Bend (WA) reported seeing craft that fit the description of some '' over a period of approximately 105.0 - 105.0 minutes.</sub><blockquote><sub>Young couple witness very bright "diamond" w/ lights on multiple occasions.  Other reports from same area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00139.html](http://www.nuforc.org/webreports/reports/000/S00139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
