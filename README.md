@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Stacy (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : We observed something strange along the freeway with at least 5 strobe lights we thought it was going to crash, but it pulled up at the last second.My wife and I were heading home from Duluth Minnesota, south on interstate 35 on Feb. 8th 1997 at dusk, the sun was setting but there was still some light. About 2 miles north of Stacy Minnesota (North of Wyoming Minnesota) My wife said, look it's going to crash ! I looked out side window of the truck, and seen this .... I don't know what it was, it had 5 or more strobe lights lighting up one at a time around the perimeter of the object. I coundn't make out the shape because it was dusk, but I could see something. The "craft" came towards the ground at a steep angle and pulled up at the last second and went up..up..up. We watched for what seemed to be about a minute, I never did stop or pull off the freeway, I was just so amazed I didn't think of stopping ! The freeway runs parallel with state highway 61, the two roads are about 1/4 mile apart where we seen it, so it must have been about half way between interstate 35 and state hwy 61, about 1/8 mile from our truck. The freeway had alot of traffic, some one else had to see this, who would be playing in plane at this time of the evening, in the winter ? I thought plane only had one or two lights? I am only reporting this now because I have just learned about you and I am a big ufo secptic, but I also learned about a week later my in-laws, who winter in Phenoix, seen something really strang in march, which made the news. So I wanted to know if anyone else had seen what we seen ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02595.html](http://www.nuforc.org/webreports/reports/002/S02595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mashpee (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw 12 to 16 lights not blinking gliding across the sky pretty rapidly not in a consistent formation but intermittent and not equally spaced apart.  Four of them flashed a bright light for about a second in the same spot in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153158.html](http://www.nuforc.org/webreports/reports/153/S153158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
