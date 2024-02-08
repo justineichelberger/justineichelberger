@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Liberty Hill (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5:30am oval tipped object blueish glow moving very slowly northwest to east low in sky no sound almost transparent, I got very dizzy, disoriented, watched for as far as I could see, large like size of football in  air.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132516.html](http://www.nuforc.org/webreports/reports/132/S132516.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright White Circular ObjectWe saw a white circular object that flew by at an amazing speed.  It had a glowing tail behind it.  It disappeared behind a cloud.  It looked probably 4 or 5 times the size of a star to the human eye.  It was a very bright white color.  Seen 15 minutes after we saw a brown floating object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117226.html](http://www.nuforc.org/webreports/reports/117/S117226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
