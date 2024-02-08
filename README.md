@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:39 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:22 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ukiah (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Lights in the early moring sky!I went out to get some firewood for the wood stove.  I just so happened to look up and I saw a line of lights going across the night sky.  There were about three at first, but then more appeared and then went out of sight.  All traveling in a straight and perfect line.  I tried to record them with my smartphone, but that didn't work at all.  I thought they were satellites at first, but I have NEVER seen that many all at once before. If anyone else has seen this please say something!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153168.html](http://www.nuforc.org/webreports/reports/153/S153168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in River Forest (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Glowing oval object spotted south east of O'hareMy son was doing his homework and faces west in the kitchen,with windows in front of him.  He looked up from his homework and saw a glowing oval shape and it hovered for about 25 seconds. Then started to slowly move sideways, south and then took off quickly out of sight.  There was a light trail like when you waive a flash light at night.  Then about 25 seconds later a black jet a red light on the tail zoomed past in the same direction as the glowing object went.  We see air traffic from O'Hare airport all the time and we watch several more commercial jets fly by and I asked questions to determine the difference between those and the Oval object.  The oval object did not have lights that sparkle like commercial jet headlights.He saw one big glowing oval object that did not sparkle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79986.html](http://www.nuforc.org/webreports/reports/079/S79986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
