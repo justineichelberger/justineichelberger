@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mashpee (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw 12 to 16 lights not blinking gliding across the sky pretty rapidly not in a consistent formation but intermittent and not equally spaced apart.  Four of them flashed a bright light for about a second in the same spot in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153158.html](http://www.nuforc.org/webreports/reports/153/S153158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Silent triangle craft flies in straight line east to west quicly.Today I was taking Christmas lights down out of my oak tree in my yard when out of nowhere I noticed a triangle craft moving quickly though the sky.  Looking up at it, it was silver/white in color and silent.   I am not sure how high it could have been, only that I figure to measure about 1 half inch in width across  the sky.  It moved in a very straight line from east to west.  By the time I could get my wife to see what I was seeing, it was already gone. 	The thing that makes this so unusual to me is the fact it made no noise.  If it was high enough to be  inaudible to the human hear I figure I would have seen a contrail from its engine or engines.  However there was none.  Also, this object was triangular and resembled nothing like an ordinary airplane I am very used to seeing in the skies flying over the mid-west region.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68524.html](http://www.nuforc.org/webreports/reports/068/S68524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
