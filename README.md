@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Silent triangle craft flies in straight line east to west quicly.Today I was taking Christmas lights down out of my oak tree in my yard when out of nowhere I noticed a triangle craft moving quickly though the sky.  Looking up at it, it was silver/white in color and silent.   I am not sure how high it could have been, only that I figure to measure about 1 half inch in width across  the sky.  It moved in a very straight line from east to west.  By the time I could get my wife to see what I was seeing, it was already gone. 	The thing that makes this so unusual to me is the fact it made no noise.  If it was high enough to be  inaudible to the human hear I figure I would have seen a contrail from its engine or engines.  However there was none.  Also, this object was triangular and resembled nothing like an ordinary airplane I am very used to seeing in the skies flying over the mid-west region.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68524.html](http://www.nuforc.org/webreports/reports/068/S68524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Eagle River (AK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White light taveling in a circular motion.While out walking my dog, she started acting strange and kept looking up in the sky and was wagging her tail as if she was excited.  I looked up and saw a light traveling in a circular motion, there were not any sounds,, just the light.  I pulled out my Iphone and was trying to record the lights and after 12 seconds there was a fast traveling light going through the sky.  While I was looking at the footage when I got home,  I paused the traveling light and noticed two objects side by side in the frame.  The footage I have is excellent.  The light can be seen traveling in the lower right proceeding left, it starts at the 8 second mark, roughly.((ADDENDUM FROM WITNESS))Mr. Davenport,  I first saw a light maybe 50 feet in diameter and it was moving in a circular motion.  Then the light went away and I caught whatever it was soaring rather quickly upward.  I noticed only when I watched the video.  Yes, please forward it to the people you spoke of.  Thank you.((END ADDENDUM))((NUFORC Note:  Video shows two lights streaking through the field of view of the camera at very high speed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125788.html](http://www.nuforc.org/webreports/reports/125/S125788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
