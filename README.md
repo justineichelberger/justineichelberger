@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black UFO with possibly red flashing lightThis past Wednesday, Feb 8, 2006,  I was enjoying the nice weather  (clear sky, fairly warm) in the backyard. Upon opening my eyes, I looked up to see a 'black dot' simply stationary in the sky.I mean it was COMPLETELY stationary in the sky.At first it didn't register, because I couldn't figure out how it could be just HANGING there.   I continued to look at it, and either it periodically 'turned over' to reveal a red area, or else it was flashing a red light.  It seems like it was pretty far up there, but since I don't know exactly what it was, I don't know for sure how high it was.  However, if it was a conventional aircraft of some kind, then how high would it have to be to be about the size of Venus?  This was definitely NOT Venus or any other star or planet, not a helicopter, satellite, bird, or balloon.  The reason I rule out balloon is because if it WAS a balloon, then it would have to be extremely big, circular, black and red (or else black with a flashing red light)  AND have the capability of hovering.  Does this fit any known balloon?  Even if it were caught in a up draft, could it remaing ABSOLUTELY still?  It was NOT bobbing, jerking, wiggling, or doing anything else except possibly gently turning periodically to reveal another side which was red.  It could also have been a flashing red light.  I just don't know.This was about 5:30 pm, but it was still quite light, and the sun was behind me, so it could not have been in its own shadow. It was definitely black. That much I know.  What I DON'T know is what it was.After watching it for about 3 minutes, it suddenly disappeared.  Just gone.  Like that.  Poof.Not zooming, or fading out of sight.So my question is this:  Has anyone ever reported a BLACK UFO, a black/red UFO, or a black UFO with a red flashing light?  Thanks for your time.((name deleted)) PS - Right before I wrote this email, I was outside to see if I could see it again.  Well, I didn't, but I did see 2 white 'lights' (similar to stars) moving VERY fast across the sky.  At first I saw one, moving in a straight line, then zig-zagging, then back to a straight line, and a couple of seconds behind it ANOTHER one, making similar movements.  Very strange.  At least 3 UFOs in 3 days.  Should I file a different report for that?  Also, the day before (Thursday) I saw a similar 'light' or whatever, but this one was just meadering, not going fast.  In fact, it was rather slow.  This has been the weirdest few days of my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49093.html](http://www.nuforc.org/webreports/reports/049/S49093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large bright light stationary in the sky, watched for a good 8-10 min then had to run to the store real quick before 9pm.  When I got back home 20 min later there was no sign of it in the sky.  The light was 4-5 times brighter then the North Star and seemed to pulsate super bright to bright repeatedly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132521.html](http://www.nuforc.org/webreports/reports/132/S132521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
