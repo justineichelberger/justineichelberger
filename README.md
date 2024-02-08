@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:22 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in River Forest (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Glowing oval object spotted south east of O'hareMy son was doing his homework and faces west in the kitchen,with windows in front of him.  He looked up from his homework and saw a glowing oval shape and it hovered for about 25 seconds. Then started to slowly move sideways, south and then took off quickly out of sight.  There was a light trail like when you waive a flash light at night.  Then about 25 seconds later a black jet a red light on the tail zoomed past in the same direction as the glowing object went.  We see air traffic from O'Hare airport all the time and we watch several more commercial jets fly by and I asked questions to determine the difference between those and the Oval object.  The oval object did not have lights that sparkle like commercial jet headlights.He saw one big glowing oval object that did not sparkle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79986.html](http://www.nuforc.org/webreports/reports/079/S79986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>Three lights arranged themselves into a triangle up on the sky and one by one they flashed a light; flash, flash, flash.This past weekend of the 8th while camping in the Yucca Valley area, my three girlfriends and I were admiring the full moon.  One on us wondered if certain three (3) lights in the sky were planets or shooting stars because it seemed like they were “active”. Just then, we saw them shifting, moving, arranging themselves into a triangle up on the sky; then one by one they flashed a light. Flash, flash, flash.  Then and almost impressible light kept them connected to one another.  Like one of those laser sables from Star Wars.  It was there, but you almost couldn’t see it.  They were still there, when we walked back to our camp a few minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153201.html](http://www.nuforc.org/webreports/reports/153/S153201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
