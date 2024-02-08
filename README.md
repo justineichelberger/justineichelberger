@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hermosa Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Strange Light Over Palos Verdes CA from Hermosa Beach Pier 6pm [Sunset]I'm sure this can be easily debunked but still worth sharing. Today at 6pm [sunset] from Hermosa Beach Pier I saw an object over Palos Verdes peninsula.This object was brightly lit with a solid  green light that then turned into a solid red light. It was headed east [off the ocean] within 45 second it cross the Palos Verdes peninsula [20 miles]. It then landed bottom of the Palos Verdes hill.The Lights- Typically all FAA aircraft have blinking light[s] of some sort not solid bright light. also, The distance from me was approximately 10 miles and these lights were quite large. I'm down in Hermosa Beach often and it is very common to see helicopters overhead. This object's lights were larger that helicopter lights.Speed- The object traveled approximately 20 miles within 45 second then came to abrupt stop to then drop down straight down.  Although it didn't seem high off the ground it was just about parallel with the top of Palos Verdes which has a elevation of 1457ft.  It could have been easily flying at an elevation of 1300ft. where it landed close to sea level so it easily dropped over 1000ft within 4-6 seconds it landed on the edge of Palos Verdes/Redondo/Torrance area.The object could have been a drone or some known aircraft but the lights was seem to big and it's precision and speed made me skeptical.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125715.html](http://www.nuforc.org/webreports/reports/125/S125715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>Three lights arranged themselves into a triangle up on the sky and one by one they flashed a light; flash, flash, flash.This past weekend of the 8th while camping in the Yucca Valley area, my three girlfriends and I were admiring the full moon.  One on us wondered if certain three (3) lights in the sky were planets or shooting stars because it seemed like they were “active”. Just then, we saw them shifting, moving, arranging themselves into a triangle up on the sky; then one by one they flashed a light. Flash, flash, flash.  Then and almost impressible light kept them connected to one another.  Like one of those laser sables from Star Wars.  It was there, but you almost couldn’t see it.  They were still there, when we walked back to our camp a few minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153201.html](http://www.nuforc.org/webreports/reports/153/S153201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
