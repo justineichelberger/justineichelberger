@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:39 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cuyler (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 shining rays that shined down with a bright object to the right that got really bright orange/red and shot across the sky.it looked like 3 rays of sun shining down from the sky and then there was a bright star looking object to the right if it that got really bright and then dim and every time it got dim it had disappeared and lit up the sky around where it was a bright blue several times and then by the 7Th time it had done it, it got really bright looked like it had blown up got really orange and blue and then shot across the sky and didn't see it after that anywhere in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87115.html](http://www.nuforc.org/webreports/reports/087/S87115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ukiah (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Lights in the early moring sky!I went out to get some firewood for the wood stove.  I just so happened to look up and I saw a line of lights going across the night sky.  There were about three at first, but then more appeared and then went out of sight.  All traveling in a straight and perfect line.  I tried to record them with my smartphone, but that didn't work at all.  I thought they were satellites at first, but I have NEVER seen that many all at once before. If anyone else has seen this please say something!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153168.html](http://www.nuforc.org/webreports/reports/153/S153168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
