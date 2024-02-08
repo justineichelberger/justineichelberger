@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object glowing red, white, and blue, hovering above Big Creek Park, Roswell, Georgia, at pedestrian trail.While taking pictures in middle of a nature trail in Big Creek Park in Roswell, Georgia, I saw a odd, high-altitude craft, probably around 60,000 ft.  The craft looks quite amusing, shaped like bunch of balloons, colored blue and white with and red glows.  It stood still at first, then slowly moved, slowly enough that I could take a picture of it.  However, due to the fact it is very high up in the sky, after a minute and a half or so, I either lost track of it or it simply disappeared.Note:  Although object looks like a bunch of balloons, the object was too high in the sky, too fast at times, and too erratic in movement to be a bunch of balloons released by children.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117234.html](http://www.nuforc.org/webreports/reports/117/S117234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hockley (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Orbs that change colors, hide among the constellations and wave back at us!The spheres are bright.  They have red, white, blue,and green lights that pulsate and swirl around the sphere itself.  Some nights they are very large, therefore appearing close to Earth.  At times they appear to turn to and fro.  There are many of them in our sky and some appear to form a large circle with much space between them like a dot to dot color book. Others are in triangles or hide inside of constellations.This will sound silly to most, however, try waving wildly at one of them (as if they are your friend and you're very happy to see them) and see what you get in return.  I've asked several people including one person on the phone who did so as I waited for them.  The results will shock or intrigue you; perhaps both.  The result will be that they flash faster and brighter as if to answer you.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107002.html](http://www.nuforc.org/webreports/reports/107/S107002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
