@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 8 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hockley (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Orbs that change colors, hide among the constellations and wave back at us!The spheres are bright.  They have red, white, blue,and green lights that pulsate and swirl around the sphere itself.  Some nights they are very large, therefore appearing close to Earth.  At times they appear to turn to and fro.  There are many of them in our sky and some appear to form a large circle with much space between them like a dot to dot color book. Others are in triangles or hide inside of constellations.This will sound silly to most, however, try waving wildly at one of them (as if they are your friend and you're very happy to see them) and see what you get in return.  I've asked several people including one person on the phone who did so as I waited for them.  The results will shock or intrigue you; perhaps both.  The result will be that they flash faster and brighter as if to answer you.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107002.html](http://www.nuforc.org/webreports/reports/107/S107002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riverhead (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>small silver/white light , making rapid zig-zag patterns in early morning skyI looked up at the sky this morning at 5:40, looking north, and I saw what I thought was a satellite- small whitish/silver circle, like a star.  Instead of taking a steady path like a satellite, this whitish circle began to make irregular patterns very quickly.  It almost looked like a white/silver balloon that was getting caught up in the wind and was blowing from random gusts of wind.  It remained the same color and brightness, but would zig zag, then seem to stop, then repeat the irregular rapid movement.  I watched it for approximately two minutes until I lost it to the north west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74318.html](http://www.nuforc.org/webreports/reports/074/S74318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
