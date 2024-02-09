@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Budapest (Hungary) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>there was strong lightI saw an UFO. It looked like a big circle. Me and some friends were travelin in my car, and then this big flying object appeared above us.The engine of the car stopped. We can't hear any sounds, it was only flying there. After 2 minutes there was a strong light, and the object disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27624.html](http://www.nuforc.org/webreports/reports/027/S27624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wheaton (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>strange soundI am an author/editor, and live in Wheaton, Illinois, about 30 miles west of Chicago. Around 3 this morning. I awoke to a sound unlike any I have heard before in my life--the only way I can describe it is to say, if you can imagine a gigantic, hi-tech helicopter that was the size of a battleship, that might give some idea. There had been a storm earlier in the night, but this certainly was not thunder--it was a steady but pulsing drone that was so loud and extended (and very mechanical sounding, VERY unlike thunder in that respect) I felt as though it must have spanned over a distance of five or ten miles. The entire house was mildly rattling at one point. So the next morning, I wondered whether I had simply hallucinated the entire thing, and asked someone who lives about a mile away if they heard anything last night, anything odd or different from normal. They said, "As a matter of fact, around 3 in the morning, it sounded as though a gigantic helicopter was hovering right over my house. It woke me up." I regret not looking outside the window when it happened--have no idea why. I even wondered this morning if it was an earthquake of some sort, as I've heard there can be unusual sounds associated with those. By the way, I called the local police department last night and they heard nothing about this. I have seen military helicopters flying in formation over a nearby region (there are several airports around here), once during the night--but this really didn't sound quite like that (the "thump-thump-thumps" of your ordinary helicopter tend to be spaced closer together, stacatto-like) --plus, there was quite a fog around here most of the night, and I have a hard time imagining there were many flights in the air as a result--but I can't say for sure. If you happen to know of any sightings or other odd phenomena that were reported last night in the midwest, I sure would appreciate hearing about it/them. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16410.html](http://www.nuforc.org/webreports/reports/016/S16410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
