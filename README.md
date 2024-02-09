@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Covina (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>jet black blanket foating in the night sky, as welll a round sphere way out in the distance shooting out multie colored fire ballsI was sitting out side an looked above the tree line and noticed a square jet black blanket darker than the sky floating yet waving similiar to a flag but not as much just slightly waved. of in the distance over the mountains I saw a round object at the same time that was shiny but far away shooting of from the round object spitting out different color fire balls from all directions. The flag type blanket was above for two hours I caught it out of the corner of my eye otherwise I woul probably not noticed it Very hard to see if you did not happen to see it. Seemed to blend with the sky after noticing though I then observed for about two hours I stayed up late too watch it wondering if it would be around this morng at 3: o clock. I set my alarm and went back out at 3:o clock lokked closely and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61521.html](http://www.nuforc.org/webreports/reports/061/S61521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>15 - 20 yellow orange object on straight line trajectoryWhile sitting in the back yard I looked to the east and saw a group of 15 to 20 yellow orange objects travelling from the south east to the north west.  They appeared to be travelling straight and level and made no noise that we could hear.  Continued for about 2 minutes and then began to fade out.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88410.html](http://www.nuforc.org/webreports/reports/088/S88410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
