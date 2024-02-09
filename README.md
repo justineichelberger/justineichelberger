@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:21 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:26 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Moving single white light in sky that changed directions then halted until it faded from sight.I was outside doing stretching with my Soldiers during physical training and was laying on my back.  I saw a single light moving across the sky.  It was near day break and could see only a single bright star in the sky.  At first it looked as if it was a satellite moving east however, it began slowing down and started to turn north and then halted and remained in that position for several minutes.  It was high enough where it was not a distinguishable craft but just a single bright light.  One of my buddies conducting the stretch with me also saw the same light.  It then became dimmer and dimmer as if it was moving up and away into the atmosphere until it could no longer be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96273.html](http://www.nuforc.org/webreports/reports/096/S96273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wallingford (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Reported to NUFORC 2/23/2004 8:17:26 PM 08:17.  Investigated by Iowa MUFON, Beverly Trout.  At 6:00 p.m. on 2/29/04 Blue-white fireball (24 - 30 inches in diameter) near ground level approached and moved across witness' car hood, then diagonally up over his windshield (seeming to flatten slightly as it moved up the windshield), then across the roof of the car, traveling down over the right rear of the trunk, then down onto the road where witness could see it in his rear-vision mirror as it rolled for 30-40 feet, then dropped off the road and out of sight.  NOTE:  Mechanical effects from this sighting -both the car engine and the radio shut off temporarily, with presets on the radio having to be reset and the car clock was wrong.  When witness turned the key off, then on again, and with the car still rolling, it started again.((NUFORC Note:  We express our gratitude to Beverly Trout, State Director of MUFON/IOWA, for following up on the report, and for sharing the report with NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37105.html](http://www.nuforc.org/webreports/reports/037/S37105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
