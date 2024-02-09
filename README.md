@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately monroe high school - monroe high school minutes.</sub><blockquote><sub>im a high school student. you must belive me. it was moveing around and around in the cloud.it looked like a big cylinder that was coverd by a cloud.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68534.html](http://www.nuforc.org/webreports/reports/068/S68534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Danville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately :10 - :10 minutes.</sub><blockquote><sub>In the Western sky, witnessed a falling &quot;orbish&quot; &quot;soft white&quot; white light falling to Earth, lasted maybe ten secondIn the Western sky, witnessed a falling "orbish" "soft white" white light falling to Earth, lasted maybe ten seconds. In the Western sky.  A slight arc could be observed in the downward trajectory. It was very windy and a clear sky with very bright moon in the East. One bright evening star could be observed not more than 30 degrees away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153132.html](http://www.nuforc.org/webreports/reports/153/S153132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
