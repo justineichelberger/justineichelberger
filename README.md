@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Homstead (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The morning was really overcast and cloudy in Homestead 2/9/15.  Usual morning with my girls in taking them to school, left at 645am.  While driving, straight ahead of me I saw, red-orange fireballs coming out of the sky, then they would stop and maintain their altitude, hovering.  I said what is that? and one of my daughters replied, "Do you think its meteorites?  But why would they stop in the middle of the sky?"  The other daughter mentioned, "Mom, it's not a plane, the lights are not flashing, there constant."  It was one fireball after the other, the first couple of orbs that came down first already formed a square, while others kept coming out of the clouds, but they were organizing themselves, in a line, it looked like they formed some type of constellation.  The big dipper.  Meanwhile, more red orange fireballs, at this time I was really scared and asking for someone to film it and looked at the time, it was 6:48 am and started counting them, 14.  I looked in front of me at the sky and they were there but not in my camara.  I asked my daughter to zoom in, but all of the sudden, the color changed to yellowish orange.  They were all there hovering waiting for some thing.  Then they all formed a "V", bright yellow/orange lights and completely disappeared.  Five minutes have gone by and I didn't see anything,  All of the sudden I saw 2 military airplanes flying towards the same exact direction the Orbs went.  I was never a UFO believer until yesterday.  I went to work really shakey with my experience.  I called channel 7 news and reported it.  I spent most of my day looking for other answers to convince me it wasn't UFO'S.  All the pictures of other experiences looked exactly the same as what my eyes seen.  My daughters and I witnessed it together, all 3 are believers now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117254.html](http://www.nuforc.org/webreports/reports/117/S117254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>spotted bright object in clear night sky going slowly due NNW and disappearing in a fast graduating fashion.I left my apartment to visit someone and as i was warming up the car on a clear night, i looked up at the stars and suddenly noticed a brightly lit(white) object that was moving slowly NNW. I thought it might be a private, single engine plane but there was no sound of prop or engine and the light was unlike any i have seen on any aircraft(large or small).  after three soconds it disappeared. i stood outside of my car for a few more minutes to see if the object would/might make a reappearance and after four minutes heard and saw a small jet airplane with pulsing lights( could not possibly have been this object)flying due south. a few minutes later , a single engine plane flew over my vacinity going west. would like to know if anyone else might have seen similar object as i have no one else around me who witnessed this with me. I have witnessed two other anomalies in the past few years, but this is the first one i have reported officially.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27615.html](http://www.nuforc.org/webreports/reports/027/S27615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
