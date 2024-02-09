@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>She called at 2307 hrs. on 09FE96 and left a message.  I called back at 1457 on 11FE96. The caller noticed a friend/neighbor standing in the street looking up.  She looked up and witnessed four lights very close together, with three more behind them, then three more still behind the first two groups.  The formation stretched across approximately one third the distance from horizon to horizon!!  They appeared to stop, start moving again, then speed up again in erratic fashions.  He friend noted that the flashing lights were "wavering."  It appeared to both the observers that there were three lights on each "vehicle," one quite bright, and two "weaker" ones. The formation passed directly above their heads, at which point three "objects" formed a triangle, and "three of them in back lagged off."  No sound was detectable.After the objects had disappeared from sight, the observers heard an aircraft sound coming from behind them.  It turned out to be a commercial jet aircraft, which appeared to be moving very slowly, relative to the (angular) velocity of the peculiar objects they had just witnessed.She received our telephone number from the Eureka Police.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01275.html](http://www.nuforc.org/webreports/reports/001/S01275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately monroe high school - monroe high school minutes.</sub><blockquote><sub>im a high school student. you must belive me. it was moveing around and around in the cloud.it looked like a big cylinder that was coverd by a cloud.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68534.html](http://www.nuforc.org/webreports/reports/068/S68534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
