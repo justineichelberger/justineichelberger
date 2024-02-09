@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Marion/P.G. area (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Blue/green light in the P.G. area of McDowell countyI was driving west on highway 70 at approximately 7pm and was on my cell phone with a friend. I looked up and saw a blue/green colored light toward my center of vision and it moved to the right. It could have lasted longer than a few seconds, but I was driving and couldn't follow where it went. It didn't flash or pulse. I mentioned this to my friend and she said at least 2 people she works with have seen it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49076.html](http://www.nuforc.org/webreports/reports/049/S49076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Covina (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>jet black blanket foating in the night sky, as welll a round sphere way out in the distance shooting out multie colored fire ballsI was sitting out side an looked above the tree line and noticed a square jet black blanket darker than the sky floating yet waving similiar to a flag but not as much just slightly waved. of in the distance over the mountains I saw a round object at the same time that was shiny but far away shooting of from the round object spitting out different color fire balls from all directions. The flag type blanket was above for two hours I caught it out of the corner of my eye otherwise I woul probably not noticed it Very hard to see if you did not happen to see it. Seemed to blend with the sky after noticing though I then observed for about two hours I stayed up late too watch it wondering if it would be around this morng at 3: o clock. I set my alarm and went back out at 3:o clock lokked closely and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61521.html](http://www.nuforc.org/webreports/reports/061/S61521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
