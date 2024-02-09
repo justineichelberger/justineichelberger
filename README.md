@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White Light with &quot;water spray&quot; coming from it's left side.Finishing walking dogs, 2 women who are both Registered Nurses and neighbors looked up to the east sky and noticed a white light that looked as if it was spraying water or ‘rooster tailing’ water from the left side of the light. One woman told the other that she didn’t want to get sprayed with anything. This object looked as if it was approx 5 miles away. The white light was not round but more vertically oval shaped. The light never was directly straight but more pointing to the area that looked like it was spraying or rooster tailing as in water skiing.  I likened it to one of the light bulbs in the ceiling that is called an eye but the right side of the light was covered and the beam seemed directionally pointed to the left. The light looked as if it was heading west, in our direction but then suddenly disappeared. The only thing left of its location was a white cloud from the ‘rooster tail’ that was again off to the left of the light. The evening sun was setting in the west and it was a beautiful clear sky. There seemed to be a haze around this light and I asked the other woman if she thought there was fog up there but then we saw a plane flying above and behind this light that was not surrounded by 'fog'. It was very strange and both of us have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161993.html](http://www.nuforc.org/webreports/reports/161/S161993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Covina (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>jet black blanket foating in the night sky, as welll a round sphere way out in the distance shooting out multie colored fire ballsI was sitting out side an looked above the tree line and noticed a square jet black blanket darker than the sky floating yet waving similiar to a flag but not as much just slightly waved. of in the distance over the mountains I saw a round object at the same time that was shiny but far away shooting of from the round object spitting out different color fire balls from all directions. The flag type blanket was above for two hours I caught it out of the corner of my eye otherwise I woul probably not noticed it Very hard to see if you did not happen to see it. Seemed to blend with the sky after noticing though I then observed for about two hours I stayed up late too watch it wondering if it would be around this morng at 3: o clock. I set my alarm and went back out at 3:o clock lokked closely and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61521.html](http://www.nuforc.org/webreports/reports/061/S61521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
