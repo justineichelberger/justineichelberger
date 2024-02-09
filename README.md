@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Silas (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three Orange round Shapes Appear in Silas Alabama three separate timesMy wife and I was driving home from Waynesboro MS when she noticed a round yellowish orange ball amongst all the stars. I then noticed it as well right before it disappeared abruptly and another popped up to the right for two or three seconds then also abruptly disappeared followed by another one showing up farther to the right all in a line. All three looked identical. We then continued to notice them later down the road two more times just behind the tree lines.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161989.html](http://www.nuforc.org/webreports/reports/161/S161989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White cylindrical object with trailing haze, bigger than our plane, pilots don’t know what it is.United Airlines flight 301. White cylindrical object with rounded nose (like a tic tac..?), appeared as we started our descent to land.  It had no discernible lights but very luminescent in the darkness, size  bigger than our plane about twice. At first I thought it was a plane on fire or some kind of test for releasing water for fighting forest fires- but the haze kept growing.  It moved across the sky with a swirling haze behind it (have pictures too) parallel to the ground towards the ocean. The event lasted for only a few minutes before it vanished above the water leaving the smoke/haze to disperse. Pilots couldn’t figure it out what it was, they called in but it was not like anything they seen before and we had a good laugh since it was such a surprise. Working as an engineer I assumed it was new technology, or a test- but it was an odd place. If it’s a new phenomena I would love to know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161981.html](http://www.nuforc.org/webreports/reports/161/S161981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
