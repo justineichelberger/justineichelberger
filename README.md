@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blank (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was getting ready for bed and remembered i needed pay my neighbor before the morning.  I walked out of my front door and around the corner of my house and a bipedal being turned and looked at me and ran towards my neighbors.  I wasnt scared because of what im involved in but i still needed to post something and i feel quite privledged.  I was still very nervous and dont remember even walkimg to my neighbors.  I wont ever forget when it turned and looked at me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144934.html](http://www.nuforc.org/webreports/reports/144/S144934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>She called at 2307 hrs. on 09FE96 and left a message.  I called back at 1457 on 11FE96. The caller noticed a friend/neighbor standing in the street looking up.  She looked up and witnessed four lights very close together, with three more behind them, then three more still behind the first two groups.  The formation stretched across approximately one third the distance from horizon to horizon!!  They appeared to stop, start moving again, then speed up again in erratic fashions.  He friend noted that the flashing lights were "wavering."  It appeared to both the observers that there were three lights on each "vehicle," one quite bright, and two "weaker" ones. The formation passed directly above their heads, at which point three "objects" formed a triangle, and "three of them in back lagged off."  No sound was detectable.After the objects had disappeared from sight, the observers heard an aircraft sound coming from behind them.  It turned out to be a commercial jet aircraft, which appeared to be moving very slowly, relative to the (angular) velocity of the peculiar objects they had just witnessed.She received our telephone number from the Eureka Police.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01275.html](http://www.nuforc.org/webreports/reports/001/S01275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
