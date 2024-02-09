@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright ball of light shoots toward ground in Southeastern Wyoming.As my son and I were driving south in the city, I glanced to the west just as a large bright ball of light shot to toward the ground in the western sky.  It was about 8:30MST, pitch black dark with no stars out. The object appeared as a large, very bright, white/yellow ball, with no tail.  It appeared into our view, shot down at about a 45 degree angle and was lost behind the houses and trees.  It looked much brighter than any shooting star I have ever seen, and much closer.  From our view, it looked as if it must have landed maybe 30-50 miles to the west of Cheyenne, Wy.  But I do realize that actually it could have been much farther than that, maybe hundreds of miles? I am no expert on these matters, just speaking in terms of what kind of seems logical I guess. I looked over at my son, he immediately looked at me and his eyes were just huge!  I said, "did you see that?", and he said acting very excited and scared at the same time, "ya!"  So, just to test him to see if he really indeed saw the same thing I did, I said "what did you see?"  He replied, "that shooting star!", he being only 6, I knew what he meant, and knew we had both definitely seen the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21822.html](http://www.nuforc.org/webreports/reports/021/S21822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blank (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was getting ready for bed and remembered i needed pay my neighbor before the morning.  I walked out of my front door and around the corner of my house and a bipedal being turned and looked at me and ran towards my neighbors.  I wasnt scared because of what im involved in but i still needed to post something and i feel quite privledged.  I was still very nervous and dont remember even walkimg to my neighbors.  I wont ever forget when it turned and looked at me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144934.html](http://www.nuforc.org/webreports/reports/144/S144934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
