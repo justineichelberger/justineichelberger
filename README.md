@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:21 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some '' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Caller was outside smoking a cigarette after having brought his wife and mother back from the hospital.  While lying back on the hood of his car, he was watching planes fly overhead.  He lives under the flyway between Miami and Ft. Lauderdale.  Suddenly, he noted that a white-colored "star" had begun to move from the west to east.  Moreover, it appeared to be moving "from side to side.  He thought it was very high.  The object was approximately the size of a star.The caller has 20/20 vision. He called his mother outside, who observed the object for a short period of time.  He called both the local police, and the North Bay (Airport) Tower.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01280.html](http://www.nuforc.org/webreports/reports/001/S01280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Moving single white light in sky that changed directions then halted until it faded from sight.I was outside doing stretching with my Soldiers during physical training and was laying on my back.  I saw a single light moving across the sky.  It was near day break and could see only a single bright star in the sky.  At first it looked as if it was a satellite moving east however, it began slowing down and started to turn north and then halted and remained in that position for several minutes.  It was high enough where it was not a distinguishable craft but just a single bright light.  One of my buddies conducting the stretch with me also saw the same light.  It then became dimmer and dimmer as if it was moving up and away into the atmosphere until it could no longer be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96273.html](http://www.nuforc.org/webreports/reports/096/S96273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
