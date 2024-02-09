@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>spotted bright object in clear night sky going slowly due NNW and disappearing in a fast graduating fashion.I left my apartment to visit someone and as i was warming up the car on a clear night, i looked up at the stars and suddenly noticed a brightly lit(white) object that was moving slowly NNW. I thought it might be a private, single engine plane but there was no sound of prop or engine and the light was unlike any i have seen on any aircraft(large or small).  after three soconds it disappeared. i stood outside of my car for a few more minutes to see if the object would/might make a reappearance and after four minutes heard and saw a small jet airplane with pulsing lights( could not possibly have been this object)flying due south. a few minutes later , a single engine plane flew over my vacinity going west. would like to know if anyone else might have seen similar object as i have no one else around me who witnessed this with me. I have witnessed two other anomalies in the past few years, but this is the first one i have reported officially.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27615.html](http://www.nuforc.org/webreports/reports/027/S27615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sterling (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright lights approx. 1/2 mi. east of us - was still for 'bout a min. or so - no sound - and the slowly moving towards the south. I saw red lights but did not interfere w/all the bright lights. It happened so slowly yet so fast.We saw only one object - I am a former flight attendant & pilot and my husband is a park ranger/police officier. We have never seen anything like this before We are located on the Sterling quadrangle PA . USGS topographic map.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05565.html](http://www.nuforc.org/webreports/reports/005/S05565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
