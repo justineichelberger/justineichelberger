@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Covina (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>jet black blanket foating in the night sky, as welll a round sphere way out in the distance shooting out multie colored fire ballsI was sitting out side an looked above the tree line and noticed a square jet black blanket darker than the sky floating yet waving similiar to a flag but not as much just slightly waved. of in the distance over the mountains I saw a round object at the same time that was shiny but far away shooting of from the round object spitting out different color fire balls from all directions. The flag type blanket was above for two hours I caught it out of the corner of my eye otherwise I woul probably not noticed it Very hard to see if you did not happen to see it. Seemed to blend with the sky after noticing though I then observed for about two hours I stayed up late too watch it wondering if it would be around this morng at 3: o clock. I set my alarm and went back out at 3:o clock lokked closely and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61521.html](http://www.nuforc.org/webreports/reports/061/S61521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Plattsburg (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A bright yellow light follwing my car on the highway...and then just dissapeared.At around 2:30 am on March 29th 2013, I was alone in my car driving north on I 87 N in NY State aproximately 7 miles out from the Saint Bernard de Lacolle border crossing into Canada.It was dark, overcast, clear, and the forest was heavy on both sides of the road.I had my cruise control on at 63 mph, & was travelling in the left lane.  A single yellow light appeared far off in my rear view mirror so I cut out the cruise control , lowered my speed and moved into the right lane waiting to be passed.I thought it was a truck with one light out but as it got closer I could see no other lights and now figured it was a motorcycle as the single yellow light was vibrating like a bike's light would at high speed on a highway.The light was now less than 100 yards behind me and it was still gaining on me and much brighter.  It made no attempt to move into the passing lane.  It was no longer acting like another vehicle, and I focused on the road ahead waiting for it's approach.As I glanced up to look in my mirror......it was gone! I looked in all my mirrors.....and kept looking for some sign, any sign, that something was indeed behind me.At first I though the vehicle had turned off it's light, and I was scared, but the more I looked, I could see no evidence of anything following me.  There was nothing there and it stayed that way until a couple of miles later when I arrived at the border crossing.I can't explain what I saw .....but I know what I saw ! I told the border agent my story and reported it to the Plattsburg State Police,  just in case a motorcycle had indeed gone off the road....but I'm having trouble believing that myself!  I'm a ((fifties)) yr old Canadian male, with no background in any paranormal anything what so ever.  Just a normal guy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96824.html](http://www.nuforc.org/webreports/reports/096/S96824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
