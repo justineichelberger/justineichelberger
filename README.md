@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 9 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sterling (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright lights approx. 1/2 mi. east of us - was still for 'bout a min. or so - no sound - and the slowly moving towards the south. I saw red lights but did not interfere w/all the bright lights. It happened so slowly yet so fast.We saw only one object - I am a former flight attendant & pilot and my husband is a park ranger/police officier. We have never seen anything like this before We are located on the Sterling quadrangle PA . USGS topographic map.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05565.html](http://www.nuforc.org/webreports/reports/005/S05565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White Light with &quot;water spray&quot; coming from it's left side.Finishing walking dogs, 2 women who are both Registered Nurses and neighbors looked up to the east sky and noticed a white light that looked as if it was spraying water or ‘rooster tailing’ water from the left side of the light. One woman told the other that she didn’t want to get sprayed with anything. This object looked as if it was approx 5 miles away. The white light was not round but more vertically oval shaped. The light never was directly straight but more pointing to the area that looked like it was spraying or rooster tailing as in water skiing.  I likened it to one of the light bulbs in the ceiling that is called an eye but the right side of the light was covered and the beam seemed directionally pointed to the left. The light looked as if it was heading west, in our direction but then suddenly disappeared. The only thing left of its location was a white cloud from the ‘rooster tail’ that was again off to the left of the light. The evening sun was setting in the west and it was a beautiful clear sky. There seemed to be a haze around this light and I asked the other woman if she thought there was fog up there but then we saw a plane flying above and behind this light that was not surrounded by 'fog'. It was very strange and both of us have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161993.html](http://www.nuforc.org/webreports/reports/161/S161993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
