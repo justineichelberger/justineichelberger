@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Corning (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Recorded multiple lights in the sky this last Sunday they were moving and it was very unnatural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144887.html](http://www.nuforc.org/webreports/reports/144/S144887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge traingle craft with 3 light and a bright red light in the middle  that did not make any noise just floated.looking east, clear night and the moon was bright. (so the moon lite up the sky.)  seen    3 lights and a bright red in the middle.  Took a stronger look, and seen a huge triangle shape  2 lights at the end and one in the front with a strong bright red light that did not blink or flashed...  the craft did not make any sound.   when the craft passed my house and  crost the moons light i can see the outline and dame was it huge...  it just floated across the sky..    doing north .  I continued watching it  until i could not see it , yet could still see the bright red light  ..   then two  white light object's  followed the same path , they did not make any sound as well.....So wired.   Then, i  saw a normal a  commercial plane and its noise it make along with the exhaust it make.   so therefore the huge craft i saw was either a huge new military ((word deleted)) machine or a UFO,((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107788.html](http://www.nuforc.org/webreports/reports/107/S107788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
