@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:04:38 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Zimmerman (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two triangular crafts emitting a blue-silver light that "danced" in the sky before zooming eastward.I had just been dropped off by a freind after going to perkins after a concert, and i was hanging out outside because the moon was really bright and pretty.  we have chairs out by our detatched garage, and they face east.  I sat out for a few minutes, but decided to go in because of the cold MN temperatures.  On my way back into the house, i noticed a brightness coming from behind me.  I thought it may have been my neighbor's motion-activated floodlights, but when i turned around, the lights were off.  The neighbor to the east's horses were also riled up.  i coudl hear them running around and making noise.  When i brought my eyes to the sky, i saw two triangular shaped glowing objects.  there was definately light coming from them, but not from any specific source.  It was more as if the craft itself emitted the glow.  They zoomed southward across the sky, encircling each other, then zoomed  away further into the east.  They were not so much a color as they were a light.  But if there is any color they'd be, i'd say a silver, blueish color.  i can't say for sure how big they were, seeing as they were far away.  Definately bigger than any car or bus, though, i'd say.  And maybe it was because i was so fixated on them, but for some reason, when i saw them, the cold air seemed to dissappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16548.html](http://www.nuforc.org/webreports/reports/016/S16548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Paradise Valley (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Second night of two amber lights returning, flickering from exact fixed position.  This time I brought a second witness.Second night in a row.  Two amber lights, hovering in absolute fixed position over Paradise Valley -- the northern neighborhoods of Scottsdale.  Bright, faintly flickering, staying absolutely fixed in position over the neighborhood.  I asked a fellow-student to come from the drafting studio and have a look.  He saw the lights as well.  Having watched the lights the night before for twenty minutes I predicted that the second light, the one that appeared to be a little closer to us, would blink out in a minute or two, followed by the first light about a minute later.  We speculated what it might be, pointing out how it couldn't be an airplane and was really bright for a drone (and the color would be hard to make, being that drones presently shine LED lights) and other theories.  Then the lights did just as I predicted.  My friend asked how I knew it would do that, I said that it did the same thing last night.Watched for their return for an hour.  Nothing.  Will watch tomorrow night, camera ready.  If they stay up there long enough, we'll chase them down with a car, get pictures under them.  This area has a long history with these lights.  They are back.  We'll try getting shots of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125767.html](http://www.nuforc.org/webreports/reports/125/S125767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
