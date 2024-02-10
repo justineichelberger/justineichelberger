@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:19:36 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>On the tv series Fix my family episode 105  on track 22 Isawwhat appears to be a UFO.  It briefly appeared Zipping from right to left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96279.html](http://www.nuforc.org/webreports/reports/096/S96279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fortuna (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fortuna lights.Two strange whitish-yellow lights hovered in the air like fireflies, floating slowly down to earth.  At first we thought they were parachuters.  I took a video with my phone, and upon a second viewing I realized the lights were also moving sideways!  About 5 minutes later we saw the same kind of light again, only this time is was purplish and there was only one.  It also meandered about the sky before floating to the ground in the distance.Drones? Aliens?  Parachuters?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117262.html](http://www.nuforc.org/webreports/reports/117/S117262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
