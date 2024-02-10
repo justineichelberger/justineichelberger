@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw 3 large cloud like hollow circles in the very clear night sky.The clouds moved slowly until one reached the full moon and looked very interesting when it circled around the moon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03491.html](http://www.nuforc.org/webreports/reports/003/S03491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pacoima (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pulsating circular objectUFO was spotted over parking lot of market, I saw many people looking up and thought someone was on roof of market. After parking, I looked up and saw a circular object that pulsated green and blue, the bottom was very black and seem to also glow.  It spin and seemed to morph as it changed colors, had one flashing light at one end.  It hovered at about 4000 feet and just disappeared into thin air as if it had invisibility built in, was gonna video it but was gone before I could start.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96277.html](http://www.nuforc.org/webreports/reports/096/S96277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
