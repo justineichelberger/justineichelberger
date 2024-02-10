@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pacoima (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pulsating circular objectUFO was spotted over parking lot of market, I saw many people looking up and thought someone was on roof of market. After parking, I looked up and saw a circular object that pulsated green and blue, the bottom was very black and seem to also glow.  It spin and seemed to morph as it changed colors, had one flashing light at one end.  It hovered at about 4000 feet and just disappeared into thin air as if it had invisibility built in, was gonna video it but was gone before I could start.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96277.html](http://www.nuforc.org/webreports/reports/096/S96277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>On the tv series Fix my family episode 105  on track 22 Isawwhat appears to be a UFO.  It briefly appeared Zipping from right to left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96279.html](http://www.nuforc.org/webreports/reports/096/S96279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
