@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:19:36 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:04:38 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fortuna (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fortuna lights.Two strange whitish-yellow lights hovered in the air like fireflies, floating slowly down to earth.  At first we thought they were parachuters.  I took a video with my phone, and upon a second viewing I realized the lights were also moving sideways!  About 5 minutes later we saw the same kind of light again, only this time is was purplish and there was only one.  It also meandered about the sky before floating to the ground in the distance.Drones? Aliens?  Parachuters?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117262.html](http://www.nuforc.org/webreports/reports/117/S117262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Zimmerman (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two triangular crafts emitting a blue-silver light that "danced" in the sky before zooming eastward.I had just been dropped off by a freind after going to perkins after a concert, and i was hanging out outside because the moon was really bright and pretty.  we have chairs out by our detatched garage, and they face east.  I sat out for a few minutes, but decided to go in because of the cold MN temperatures.  On my way back into the house, i noticed a brightness coming from behind me.  I thought it may have been my neighbor's motion-activated floodlights, but when i turned around, the lights were off.  The neighbor to the east's horses were also riled up.  i coudl hear them running around and making noise.  When i brought my eyes to the sky, i saw two triangular shaped glowing objects.  there was definately light coming from them, but not from any specific source.  It was more as if the craft itself emitted the glow.  They zoomed southward across the sky, encircling each other, then zoomed  away further into the east.  They were not so much a color as they were a light.  But if there is any color they'd be, i'd say a silver, blueish color.  i can't say for sure how big they were, seeing as they were far away.  Definately bigger than any car or bus, though, i'd say.  And maybe it was because i was so fixated on them, but for some reason, when i saw them, the cold air seemed to dissappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16548.html](http://www.nuforc.org/webreports/reports/016/S16548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
