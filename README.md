@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Grangeville (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 separate lights, 1moved in "S" design, stop mid flight and start again, another colorful and curved flight also stopped3 different lights in 3 parts of sky.  1st one (south) shot straight up fast. 2nd (E) Appeared to be a large yellow star, then it began to move slightly at first and then moved to the left in a curved fashion, then to the right (curved) and down and then back to the left (and curved) and down much like making an S over and over would stop and hover occasionally until it was out of my range of vision.  3rd (SE) started before the 2nd was finished. - it was what appeared to be a plane at first... but instead of white/red flashing light it had a very colorful light that changed colors and it moved in an odd fashion (curving) and would slow almost stop and speed up again it flew to the South and dissapeared where the 1st one did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27636.html](http://www.nuforc.org/webreports/reports/027/S27636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Banos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>it just seems out of placeI was looking for the space station  not really thinking I would see it because  position and weather .something else caught my eye  a  pinprick of light . alternating red/white .movie about twice the speed of the space station  . headed east  just had on look about it  extremely high extremely fast  .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87134.html](http://www.nuforc.org/webreports/reports/087/S87134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
