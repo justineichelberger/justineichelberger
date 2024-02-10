@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grosse Pointe Woods (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>One circular very bright/shiny object swiftly flying over Grosse PointeIt was a great day today Feb.10, 2011 Thursday. NOT A CLOUD IN THE SKY!  And I mean not one cloud!!!!  I was driving on the street.  I was alone.  When I got to the red light I stopped the car and I looked a this circular, very shiny and bright object in the sky... It was flying fast and in diagonal manner.  There was not sound, not flares, not colors, no rotation, no aura or a haze  around the object...  Just the round super shine shape moving in the sky.  Then, it disappear! In a blink of an eye! There was no cloud for it to hide behind or anything else - I cannot emphases enough that the sky was complete clean and without a cloud...  That is actually when I thought "wait ... what was that...."  It was just so fast and then it was gone I did not have time to think anything about it until then....  I looked around to see if I could spy it somewhere else or just in case it would re-appear farther up or down... NOTHING!  It was gone for good.I looked at the clock in my car.  It was 1:50 pm.  After that I spent much of the afternoon looking up just in case I would see it again...  Later (closer to 3:30pm) I saw an airplane and then around 5pm another airplane.In comparison  these two aircrafts where leaving a white line in the sky and although,  they were significantly farther up than the first unidentified object, I could recognize the "airplane" shapes....((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80018.html](http://www.nuforc.org/webreports/reports/080/S80018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Britain (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Objects rotates positions, looked as if they were "shooting" orbs of light at each other, objects closer and further away. overObjects rotates positions, looked as if they were "shooting" orbs of light at each other, objects closer and further away over time.  Short bursts of quick speed other times stationary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132531.html](http://www.nuforc.org/webreports/reports/132/S132531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
