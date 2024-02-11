@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A color changing circle with wavy edges and a beam coming out the bottomMy fiance, brother and I had just finished watching a movie.  My fiance went to let the dog out one last time before bed and noticed an unusually bright star int he sky.  My brother and I came to look at it. We all noticed that it was flashing different colors (blue, red, yellow and white. When I looked at it through my Dad's night vision binoculars I something amazing.  Though the binoculars, it looked like a circle with wavy edges and it was the edges that were changing colors.  There was also a soft colored beam coming down from the circle.  We were all very freaked out (becasue of all of the alien movies we've seen like "War of the Worlds".  My fiance thought to check the sky on the other side of the house. The was another bright star in there too an it looked the same through the binoculars.  One of the shapes was in the SW sky, the other in the NE so that they were diagonal from each other across the sky.  We tried to get a hold of someone at the local radio station and we watched television for a while but we couldn't find an answer for what we were seeing.  I hope someone can tell us, because it was a beautiful thing to see but also VERY scarey.  The tragic part of the whole thing was that the battery on my video camera was dead.  I did record a few seconds of one of the objects with my regular digital camera, but the zoom isn't so great and all it looks like is a bright flashing ball.((NUFORC Note:  Given the length of the sighting, and given the absence of other reports, we suspect that the possibility that the witnesses may have been looking at a celestial body, possibly Sirius, would have to be ruled out, before we could conclude that they were, in fact, observing a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49099.html](http://www.nuforc.org/webreports/reports/049/S49099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Litchfield Park (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>6-7 reddish orange lights in the sky that dimmed and went out after a couple of minutes.Floating lights in the sky, orangish in color moving steadily through the sky, disappearing one by one.  There were four or five in the sky and others looked like they were coming up behind them.  Very unusual in color and formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80029.html](http://www.nuforc.org/webreports/reports/080/S80029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
