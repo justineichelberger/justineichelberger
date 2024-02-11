@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:22 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:53 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Afton (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Only what I can describe as an orb being escorted by a Schnook (sic.  Chinook) helicopter.I couldn't believe my eyes I heard the helicopter, only one helicopter that's what caught my attention. Then I saw the orb looking craft in front of the helicopter.  I got my phone out right away and got about 10 seconds on video and its pretty clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107081.html](http://www.nuforc.org/webreports/reports/107/S107081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Grey with slight sheen, right-circular cylinder with flat ends, aspect ratio 43, seen only in two photos.On 2/11/09, there were storms with high straight line winds, up to 65 mph in some places, in the Cincinnati area.  As the storms were moving out of my local area, I noticed some mammatous clouds, and went out to the entrance to our garage at about 5:45 pm,  to take some photos of them.  The garage faces a little south of due west.  I was using a Nikon D80 with a zoom lens, Nikon model DX AFS Nikkor 18-135 mm 1:3.5-5.6G ED, with no filters.  The clouds were coming straight towards the open garage, and there was a very light rain falling, so I was standing slightly inside the garage to minimize water drops on my lens.  After taking some photos to the west, I stepped out of the garage and looked back to the east, where there was a faint rainbow, which I also photographed, along with some tall clouds to the south.I noticed nothing unusual during the photo shoot, but when I went inside, downloaded the pictures to my computer and looked at them full-screen, the cylindrical object was evident in a picture taken facing due west.  At first, I thought the object had been blown into the air by the strong winds, and only made jokes about its possibly being a UFO.  I didn't remember ever having seen images of cylindrical UFOs.  But after about a week, I got curious, and found numerous web sites with images of cylindrical UFOs, which is what I now believe the object in the photos was.There was a second photo that showed probably the same object, less clearly.  It was taken from the same position as the first, but facing southwest.  The second photo was taken less than 2 minutes, but longer than 5 seconds after the first.  The first photo was taken at 1/180 of a second, the second at 1/100 of a second.  In the second image, the object appeared to be somewhat larger, but the lens was zoomed in slightly compared to the first.I am not aware of any other potential observers of this object.  I saw no objects first hand, only after displaying the photos on my computer.I am a 65 year old, retired PhD physicist, having worked as a research physicist for the National Institute for Occupational Safety and Health from 1975 to 2003, and then as a US government contractor until 2006.  I am active in community instrumental music groups and in amateur photography.  I have never before seen a UFO, to my knowledge, certainly not an unlighted cylindrical one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68826.html](http://www.nuforc.org/webreports/reports/068/S68826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
