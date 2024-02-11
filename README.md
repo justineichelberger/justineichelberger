@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hilliards (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a perfictly round shadowmoving toward my homeI was in my kitchen looking out into the yard when I saw a perfickly round shadow moving slowly across theyard moving toward the house. When reached the house my kitchen got dark.  I ran for my camera than out to the pourch but whatever it was it was gone.  No noise and it had been moving into the wind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96297.html](http://www.nuforc.org/webreports/reports/096/S96297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Amite (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Twenty one orange red objects observed over a period of 20 minutes traveling due north.The objects were orange red circular shape with a single flashing light toward the front of the craft.The trajectory was about 3/4 miles to the east and direction of travel was due north at an altitude of approximately 1,500 feet.  A relative was to come for a visit, so the camera was being watched in order to open the gate when they arrived, the lights were first noticed on the monitor.  My wife's cousin and her husband saw these objects about one mile away as they approached our road, they were traveling west on hwy 16.  They all  stood outside and watched the last three as they passed to the north.  The last pair of objects stopped forward motion for a short period of time.  I was not at home and did not see this firsthand, however a DVD copy was made from the video recorder, I counted a total of 21 objects, single, two at a time and in on group there were three in close proximity to each other.  They were observed from 19:09 to 19:25, speed was relatively slow and at a constant rate, no sound was emitted, they were silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132895.html](http://www.nuforc.org/webreports/reports/132/S132895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
