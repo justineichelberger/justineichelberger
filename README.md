@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kansas City (suburb of) (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>DRIVING HOME SAW A BRIGHT LIGHT IN SKY THOUGHT IT WAS PLANE AS IT HAD FLICKERING RED AND GREEN LIGHTS BUT MORE WHITE LIGHT THAN ANYTHING, LIKE A STAR. IT WAS STATIONARY AS I DROVE FOR ABOUT 1/2 MILE THEN AS IF IT EJECTED SOMETHING , DIM WHITE LIGHT FELL LIKE A FALLING STAR. AT THIS TIME IT STARTED MOVING. I PULLED OFF THE ROAD TO WATCH. IT MOVED SLOWLY AND BEGAN TO TAKE SHAPE A TRIANGLE WHAT I COULD SEE THEN JUST IN THE BLINK OF AN EYE IT WAS GONE. THE SMALL DIM LIGHT HAD STOPPED IN THE SKY AND WAS STILL THERE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16432.html](http://www.nuforc.org/webreports/reports/016/S16432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Shape-shifting/color changing object.It looked like a round orb at first.  It was white, standing perfectly still in sky for about 30 minutes, then turned a dark color and started moving while changing shapes for about 5-10 minutes.  Then came to another stop above a mountain south of deming and just stood perfectly still until I lost sight from driving.  After it turned a dark color, it then looked bigger, like it had stretched out.  When it started to move at first, it appeared to shapeshift into a dumbell form, like an exercise weight.  Also, lots of commercial jets flying in the area.  About 20 at a time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107078.html](http://www.nuforc.org/webreports/reports/107/S107078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
