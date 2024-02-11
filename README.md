@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ames (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three lights in a triangular formation.As my roommate was driving us home at around 2:45 AM I noticed three lights in a triangle in the northern sky.  At first I thought the lights were reflections on my window, because there could be no other light source in the area, but then I realized my window was down.  I was initially looking outside because there was supposed to be a meteor shower and eclipse that night.  It seemed that as soon as I noticed the lights, they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132554.html](http://www.nuforc.org/webreports/reports/132/S132554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sun City (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fiery lights in the south-western Phoenix sky.2 orange/yellow lights in the south western part of the sky.  4 more appeared to the west of the first 2.  There was a large space between the first and second, then the second and the last 4.  The last four appeared after the first 2 were hovering and those 4 remained in a cluster,  slightly to the right (west) of the first 2.They disappeared after about 15-20 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117265.html](http://www.nuforc.org/webreports/reports/117/S117265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
