@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was going home on a warm Florida knight and saw a weird object in the sky.I was in fl because my grand father was having heart surgery and at 8:39 we were leaving the hospital, and I looked out the car window and saw 3 lights 3 red 1 white and they were in a weird shape, and flying ready slow and low to the ground and it was moving smoothly, I do not know what the shape was but it was not manmade. This is my third sighting.((ADDENDUM FROM SOURCE OF ORIGINAL REPORT, SUBMITTED MARCH 06, 2008))A UFO IN FL RACING ACCROSS THE SKYREAD ALL THE WAY THROUGH THIS AND DO NOT DELETE UNTILL YOU HAVE READ IT AAAALLLLL.Let your BOSS READ THIS OR I WILL REPORT YOU. AND YOU WILL GET SHUT DOWN AND I DONT CARE WHAT HAPPENS TO THE PEOPLE THAT WORK THERE I AM SO PISSED AND DONT THINK THAT I WONT REPORT YOU, BECAUSE I WILL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   who ever is reading this, i would like to know why someone put this beside my report they put this: ((HOAX)), WHAT THE HECK WAS THAT FOR I SPENT TIME ON THAT REPORT AND IT IISSSSSSS 100% COMPLETLEY TRUE WHAT IS YOUR PROBLEM. IF YOU THINK I AM LIEING THAN YOU ARE WRONG I WANT THIS PIECE OF CRAP TACKEN OFF MY REPORT NNNNOOOWWW, I AM SO PISSED IF YOU DO NOT TAKE THIS OFF I WILL TELL EVERYONE NOT TO COME TO THIS WEB SITE, AND I KNOW ALOT OF PEOPLE. DO NOT EVER DO THIS AGAIN, INFACT I AM GOING TO REPORT THIS WEBSITE EMEDIATLEY, AND DONT THINK THAT I WONT. IF YOU DO NOT TAKE THE WORD HOAX OF MY REPORT I WILL HAVE THIS WEBSITE SHUTDOWN, FOR GIVING FALSE INFO TO THE PUBLIC. AND I WILL GO AS FAR AS I CAN TO GET YOU SHUTDOWN I WILL MAKE THIS A BIG DEAL I AM SSSSSOOOO PISED I WILL DESTROY YOUR REPUTATION. MY REPORT IS: 2/9/08 11:00 Frederick MD Triangle 2min ((HOAX??)) I walking my dog at eleven pm when I looked up and saw it. A UFO… 2/14/08. FIX IT NOW, IF IT IS NOT FIXED BY MARCH 10 2008 I WILL ACT IMMEDIATLY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61547.html](http://www.nuforc.org/webreports/reports/061/S61547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kansas City (suburb of) (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>DRIVING HOME SAW A BRIGHT LIGHT IN SKY THOUGHT IT WAS PLANE AS IT HAD FLICKERING RED AND GREEN LIGHTS BUT MORE WHITE LIGHT THAN ANYTHING, LIKE A STAR. IT WAS STATIONARY AS I DROVE FOR ABOUT 1/2 MILE THEN AS IF IT EJECTED SOMETHING , DIM WHITE LIGHT FELL LIKE A FALLING STAR. AT THIS TIME IT STARTED MOVING. I PULLED OFF THE ROAD TO WATCH. IT MOVED SLOWLY AND BEGAN TO TAKE SHAPE A TRIANGLE WHAT I COULD SEE THEN JUST IN THE BLINK OF AN EYE IT WAS GONE. THE SMALL DIM LIGHT HAD STOPPED IN THE SKY AND WAS STILL THERE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16432.html](http://www.nuforc.org/webreports/reports/016/S16432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
