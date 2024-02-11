@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 10 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Duluth (GA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I am a firefighter, while responding to a call, I glanced over to the full moon and the glow that it had around it.  I saw a long cylinder shaped object moving from below the moon's penumbral glow into the glow traveling vertically and along to the right side of the Moon and continued  upward out of the moon's glow.  It was a huge object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132553.html](http://www.nuforc.org/webreports/reports/132/S132553.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hugo (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three oval lights were seen in 45 degree angle line (NW Sky), displayed for about 10 seconds and vanished.Two witnesses in separate vehicles.  One large orange/yellow light appeared hovering in NW sky for aprox. 20 seconds, did not move, then vanished.  Too large to be landing lights or chopper lights.  Then aprox. 3 minutes later another was spotted and repeated same actions, but was in NE sky.  Then for the weird part, three oval lights (same attributes as others) were seen in 45 degree line (NW Sky), displayed for about 10 seconds and vanished.  All seen by two separate people in separate vehicles on HWY 271 North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41901.html](http://www.nuforc.org/webreports/reports/041/S41901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
