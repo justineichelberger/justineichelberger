@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:30 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mt. Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 119</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153616.html](http://www.nuforc.org/webreports/reports/153/S153616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Downers Grove (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two different dark color objects flying from west to north east of downers grove no lights no soundi was coming back from work i was about to enter i 355 express way went i see these 2 objects passing over mi around 300 feet hi, one of them had a cylindric shape but and each end had an circular shape, like sphere both objects were dark color no lights sky was cloudy but clouds were above these objects, the otherone was flying behind around 500 feet and lower then that first one, an other person also so them and stopped his van in front of mi and right a way he turn on also the emergency lights so no body will hit us because there was no room to park the car on the side of the road, we watch them desapered in the harrizon from west to north east of downers grove i will never forget this experience in my all life, this is the 2nd time i have seen somthing like this first time  was in 1983 in mexico in tampico city i was in front of gulf of mexico at 4:00 in the morning but it was totaly different this one had alot of orange and blue lights and a small red sphere came out straight down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27656.html](http://www.nuforc.org/webreports/reports/027/S27656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
