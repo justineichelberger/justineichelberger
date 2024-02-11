@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange object in the sky on clear, cold day in Lancaster.I'm a bit of a skeptic when it comes to aliens even though the probability of "them" existing is pretty scary but I really think I saw something today kind of strange. I was working making deliveries and when I went to make a turn into a parking lot to my destination thats when I noticed a strange object in the sky( I believe NW sky area).  The object appeared to be white or a dull light silver color and it's shape almost resembled like an airplane but I could not identify it, something  about the object just didn't look right too me ( I'm not good with distances but it was almost the size of half a dime from my perspective.).  The object also did not appear to be moving which bothered me a bit too.  I glanced at the object several times but I was also driving a small box truck so I could not keep my eyes on the object during the complete sighting.  I had to stop my truck at a stop sign in the parking lot and when I went to look up the object was gone.  I think now about it and something just seemed wrong about what I had seen earlier today, especially that it was in the clear skies and then gone within' a matter of seconds!  It was cold, sunny & clear today making the object visible if you were looking were I was you would definently be able to see it.  Anybody living in the Lancaster area see anything like what I had seen between 11:00-12:00PM today I would like to find out what it was, thankyou.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61543.html](http://www.nuforc.org/webreports/reports/061/S61543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oak Ridge (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Brightly lit chevron.Object was brightly light in the sky, hovered over a house and was a boomerang/chevron shape.  The craft had lights on each of the sides, and going down the middle.  The object appeared to be headlights in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107079.html](http://www.nuforc.org/webreports/reports/107/S107079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
