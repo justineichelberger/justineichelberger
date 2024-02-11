@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Shape-shifting/color changing object.It looked like a round orb at first.  It was white, standing perfectly still in sky for about 30 minutes, then turned a dark color and started moving while changing shapes for about 5-10 minutes.  Then came to another stop above a mountain south of deming and just stood perfectly still until I lost sight from driving.  After it turned a dark color, it then looked bigger, like it had stretched out.  When it started to move at first, it appeared to shapeshift into a dumbell form, like an exercise weight.  Also, lots of commercial jets flying in the area.  About 20 at a time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107078.html](http://www.nuforc.org/webreports/reports/107/S107078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hilliards (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a perfictly round shadowmoving toward my homeI was in my kitchen looking out into the yard when I saw a perfickly round shadow moving slowly across theyard moving toward the house. When reached the house my kitchen got dark.  I ran for my camera than out to the pourch but whatever it was it was gone.  No noise and it had been moving into the wind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96297.html](http://www.nuforc.org/webreports/reports/096/S96297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
