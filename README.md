@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:22 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hugo (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three oval lights were seen in 45 degree angle line (NW Sky), displayed for about 10 seconds and vanished.Two witnesses in separate vehicles.  One large orange/yellow light appeared hovering in NW sky for aprox. 20 seconds, did not move, then vanished.  Too large to be landing lights or chopper lights.  Then aprox. 3 minutes later another was spotted and repeated same actions, but was in NE sky.  Then for the weird part, three oval lights (same attributes as others) were seen in 45 degree line (NW Sky), displayed for about 10 seconds and vanished.  All seen by two separate people in separate vehicles on HWY 271 North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41901.html](http://www.nuforc.org/webreports/reports/041/S41901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Afton (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Only what I can describe as an orb being escorted by a Schnook (sic.  Chinook) helicopter.I couldn't believe my eyes I heard the helicopter, only one helicopter that's what caught my attention. Then I saw the orb looking craft in front of the helicopter.  I got my phone out right away and got about 10 seconds on video and its pretty clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107081.html](http://www.nuforc.org/webreports/reports/107/S107081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
