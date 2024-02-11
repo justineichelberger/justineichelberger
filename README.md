@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Summerdale (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I work in a facility that doesn't allow photography or cellphones.  Me and my superviser stepped outside (cloudy day), and to the north of us was a large perfect circle of lights that flashed all around in a synchronized fashion, me and him stared at it in amazment as it glided through the air, me and him have never in our lives seen anything like it.  It had maybe 15 to 20 lights all the way around (no physical aircraft was visible), from where we were standing the object would have had to have been rather large.  We couldn't tell how high it was but it was completely silent.  It was moving from east to the west, he called his parents and told them to get a camera and go outside as they lived about 5 miles away from where the object should have been flying directly over but they never saw anything, we still do not know what we saw and everyone we have discussed this with has not said anything about seeing this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132826.html](http://www.nuforc.org/webreports/reports/132/S132826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Diego (north coastal area) (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Seemed to have random courses and altitudes; as if piloted. Some had camera phones (not I).12.11.2012 - San Diego Area 9:00 P.M - 10:45 P.M.\P.S.T.Numerous witnesses on ground, near coast-line seeing multi-colored lights.  Varying altitudes (and sizes). Mostly moving East to West, some other directions.  White, blue, orange, yellow - some bright - some less so.  Seemingly roundish, orb shaped. Moving at different rates of speed appearing from horizon to near  or opposite horizon.  Or upward and out of sight.No sound. Like pilots having some fun!\ Probably 15 or more viewers strolling along Coast Highway 101.  People stopping and showing others (who see).  Probably 3 per minute into view for 15-20 seconds, each.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87149.html](http://www.nuforc.org/webreports/reports/087/S87149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
