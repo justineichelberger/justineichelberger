@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO's sighted Fairbanks/Murphy Dome Feb.11,2011 8:00amFeb.11,2011 8:00am  This is my 2nd sighting at Murphy Dome Fairbanks, Alaska.  I woke up and looked out my window and about 7 or 8 lights were in formation hovering horizontally above and around Murphy dome radar tracking station.  Got out the Binoc's and viewed.  I could see 2 lights on the fronts.  No noise at all.  Looked like stars with hint of pinkish orange.  Lights would fade in and out! Conditions are cloudy and overcast.  They would break formation and fly down in the valley behind Ester and back up to Murphy Dome, then back to the valley floor and then lights went out and disappeared.  This went on for about 20 minutes.  Could be our military but not sure.  So, once again here is my post.  Did anyone else see this?   Very impressive I have to say I did see a blinking white strobe light of a plane.  It seemed to be heading south and kept on going looked as though it was observing this as well.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80025.html](http://www.nuforc.org/webreports/reports/080/S80025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange object in the sky on clear, cold day in Lancaster.I'm a bit of a skeptic when it comes to aliens even though the probability of "them" existing is pretty scary but I really think I saw something today kind of strange. I was working making deliveries and when I went to make a turn into a parking lot to my destination thats when I noticed a strange object in the sky( I believe NW sky area).  The object appeared to be white or a dull light silver color and it's shape almost resembled like an airplane but I could not identify it, something  about the object just didn't look right too me ( I'm not good with distances but it was almost the size of half a dime from my perspective.).  The object also did not appear to be moving which bothered me a bit too.  I glanced at the object several times but I was also driving a small box truck so I could not keep my eyes on the object during the complete sighting.  I had to stop my truck at a stop sign in the parking lot and when I went to look up the object was gone.  I think now about it and something just seemed wrong about what I had seen earlier today, especially that it was in the clear skies and then gone within' a matter of seconds!  It was cold, sunny & clear today making the object visible if you were looking were I was you would definently be able to see it.  Anybody living in the Lancaster area see anything like what I had seen between 11:00-12:00PM today I would like to find out what it was, thankyou.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61543.html](http://www.nuforc.org/webreports/reports/061/S61543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
