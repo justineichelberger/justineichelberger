@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 11 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sun City (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fiery lights in the south-western Phoenix sky.2 orange/yellow lights in the south western part of the sky.  4 more appeared to the west of the first 2.  There was a large space between the first and second, then the second and the last 4.  The last four appeared after the first 2 were hovering and those 4 remained in a cluster,  slightly to the right (west) of the first 2.They disappeared after about 15-20 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117265.html](http://www.nuforc.org/webreports/reports/117/S117265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Ball of bright blue and white light - travelling very fast in the skyIt was dark out and few clouds.  A fast moving ball of light came from the south sky near the water then headed to the North. It was very bright Dark blue on the outside, white and then light blue in the centre.  Moved extremely fast, so not a plane or helicopter.  No sound. Raced up towards the North, came to a brief stop then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162019.html](http://www.nuforc.org/webreports/reports/162/S162019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
