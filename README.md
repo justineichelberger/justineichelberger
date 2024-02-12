@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:51 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright sphere, flashing light, changes in intensity and patterns.  Not consistent with weather balloon.A bright sphere was located in the sky near numerous contrails (314838N 1062222W).  The sphere emitted a light that changed in intensity, flashed in different patterns continuously.  The object looked to be somewhere between 35k and 40k feet (above contrails) and was moving at approximately 100-150 mph to the East/Southeast.  It stayed at approximately the same altitude for about 10 minutes before it descended to about 20k before it disappeared. I have seen weather balloons before and this object was not consistent with one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61565.html](http://www.nuforc.org/webreports/reports/061/S61565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tuktoyaktuk (Canada) (NT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Star like UFOAs I jumped out of my vehicle I noticed a brighter than usual star in the sky directly northeast. At first it looked like a star but as I concentrated on it, it immediately ( like it knew I had spotted it ) shot back directly ( directly opposite my line of vision ) up into the atmosphere at a high rate of speed. When I first noticed it it appeared to be ( best guess ) 2,000 - 3,000 feet altitude ( just hovering silently ) and when it shot back it appeared to leave the earths atmosphere and diguise itself as a star. As I continued to watch it it began to move again in a half circle ( clockwise 3 o'clock to 9 o'clock ) and sped off at a unbelievable speed ( North ) until it had disappeared. Just as it had disappeared another bright light shot in a westerly direction just as fast from the same area. I immediately looked at my watch  and it showed 11:12 pm and I desperately wanted another I witness but as I looked round there was no one else just the silence, no wind just the cold ( approximately -32 C). This sighting bothered my for approximately 5 months afterwards. Please tell me this was a military test ( holographic light from a satellite maybe ? ) If it was it was totally realistic and nervewracking. I have actually found a video mpeg on the internet of another sighting which is pretty much what saw ( dec27.mpeg  a sighting from someone else made on Dec.27, 1997 )</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16105.html](http://www.nuforc.org/webreports/reports/016/S16105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
