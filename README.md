@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in NJ Parkway (MM 121) (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>My wife and I saw a strange light Shoot across the sky as we drove down the Parkway going south.My wife and I were heading South down the Parkway in New Jersey. It was 22:00 hours the sky way full of broken clouds. On our left was the moon it was three quarters full. I was just turning around from getting something from out of the back seat. I saw a light or should I say orb due to the type of light. travel out of the clouds on our right and disappear over the treeline. I garbed at my seat because I expected a impact. There was none. I next asked my wife if she saw it and she said yes. The light was different then anything else we saw that night in color, appearance, and size. I swear it was a light green (I want to say pistachio)in color. My wife is color blind and has a problem with green and red. She says she saw orange to red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68628.html](http://www.nuforc.org/webreports/reports/068/S68628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>i was wallking back to the car and i saw a light off to my right in the night sky at about 45 degrees. it was greenish yellow in color and desended to about 35 degrees and disapered. it was travling from north to south in the southern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12030.html](http://www.nuforc.org/webreports/reports/012/S12030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
