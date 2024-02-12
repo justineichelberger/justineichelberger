@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jeffersonville (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Flying glo-stickWhile sitting by a campfire in rural central Georgia, I looked up to gaze at the stars when an object that appeared to be about the size of a bird appeared. It was a flourescent green object similar to a glow-stick. The light appeared and traveled at a very high rate of speed about 30 feet over my head. It probably went 40 to 50 feet from my right to left. The light then just vanished. I have no idea what it was. It was too close to ground to be a meteor crossing the sky. It seemed as if it were just above the tree tops. I could clearly see the outline of the object to be a small cigar shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42070.html](http://www.nuforc.org/webreports/reports/042/S42070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Russellville (AR) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Mr. Davenport,  I would like to comment on a sighting dated 2/12/09 near Russellville, Arkansas. I live very near to the described location of the reported sighting.  Based on the description furnished by the witness, I believe what was observed was a flight of three C-130 aircraft from the Little Rock Air Force Base.  These aircraft fly directly over my home every night with out fail between 8 and 10 p.m..  The usual flight path is from the northeast to the southwest. Along this flight path, the aircraft pass approximately 3-5 nautical miles west of Arkansas Nuclear One (the nuclear plant metioned in the report).  Additionally, the aircrafts' usual approximate altitude is less than 1000 feet and display the ligting characteristics described by the witness (on one occasion they were so low that they momentarily blocked the signal to my satellite television receiver). My personal opinion on the reported hovering of one of the aircraft is that if the aircraft is observed flying directly away from the observer it could appear to be motionless or hovering, as I have personally observed this with these aircraft on several occassions.((NUFORC Note:  We express our gratitude to the source of this comment.  We will post it, such that it is posted together with the original report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69646.html](http://www.nuforc.org/webreports/reports/069/S69646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
