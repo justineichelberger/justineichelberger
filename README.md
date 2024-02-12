@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:09 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:00 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Stationary red light over the Seattle area viewed from Bremerton,WaI work a swing shift at PSNS in Bremerton and was showing fellow workers and some Navy guys the ISS as it over flew Seattle at around 6:52 pm.At about 7:15 we were returning back to the ship, I showed a friend Mars witch was directly above us and then to the East we all noticed a red light coming slowly from the south and just stopped dead. We stared a few moments and began walking again. I stopped to talk with the safety guy and we watched it for at least 10 min. Others noticed us and began watching. You could see the air traffic from Sea-Tac well below the light. Once back on the aircraft carrier some of the Stennis officers and sailors had noticed it also, a couple of men maybe piolets because of their clothing said theres no way thats a hovering chopper.I figure at about 7:40 pm it flickerd twice and was gone, just blinked out. This light did not move in the slightest for up to 20 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61577.html](http://www.nuforc.org/webreports/reports/061/S61577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shelby (AL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>There were no other objects nearby, only large perfect rectangleApproximately 30 min. before sunrise I witnessed a very bright white perfectly rectangular object.The object appeared was falling long sides on right and left, the short ends top and bottom.  As I was driving south to southwest it fell straight down in the distance, maybe 5 miles ahead and I first noticed at the uppermost part of the windshield,it was extremely bright and very large and fell straight down until it disappeared behind the tree line.  I assumed it would have fell in or near Lay Lake (Coosa River).  I assumed it was a solar panel, but being so well shaped and showing no tail or flame or smoke it seemed odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138295.html](http://www.nuforc.org/webreports/reports/138/S138295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
