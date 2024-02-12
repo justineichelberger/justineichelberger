@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Five to six craft spotted flyinfg over outskirts of Sydney AustraliaMy mates and I were out one night on the outskirts of Sydney letting off some fireworks (shouldn’t have, but, well what can u do?) Anyway after letting off the last of the fireworks one of my mates happened to spot a couple of glowing lights in the not to far distance, we didn’t think anything of it at first, but then a few minutes later the lights were still there in the exact same position- it seemed as though these lights had remained stationary all this time. Then all of a sudden the two lights seemed to split into five or six objects, and then coming at us with incredible speed, they then stopped just above us, now I was scared. The lights were emitting a sort of strange glowing feel above us, then two of the craft flew over some nearby hills going out of sight and then a large beam of light was seen coming up from over the hills. The rest of the crafts still hovered over head performing amazing maneuvers seeming as if to defy gravity with there smooth twists and turns- and then they shot up and disappeared. We ran up a large hill to see if we could spot the craft- but we couldn’t. The craft were never seen again.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60150.html](http://www.nuforc.org/webreports/reports/060/S60150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in NJ Parkway (MM 121) (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>My wife and I saw a strange light Shoot across the sky as we drove down the Parkway going south.My wife and I were heading South down the Parkway in New Jersey. It was 22:00 hours the sky way full of broken clouds. On our left was the moon it was three quarters full. I was just turning around from getting something from out of the back seat. I saw a light or should I say orb due to the type of light. travel out of the clouds on our right and disappear over the treeline. I garbed at my seat because I expected a impact. There was none. I next asked my wife if she saw it and she said yes. The light was different then anything else we saw that night in color, appearance, and size. I swear it was a light green (I want to say pistachio)in color. My wife is color blind and has a problem with green and red. She says she saw orange to red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68628.html](http://www.nuforc.org/webreports/reports/068/S68628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
