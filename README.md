@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:00 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shelby (AL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>There were no other objects nearby, only large perfect rectangleApproximately 30 min. before sunrise I witnessed a very bright white perfectly rectangular object.The object appeared was falling long sides on right and left, the short ends top and bottom.  As I was driving south to southwest it fell straight down in the distance, maybe 5 miles ahead and I first noticed at the uppermost part of the windshield,it was extremely bright and very large and fell straight down until it disappeared behind the tree line.  I assumed it would have fell in or near Lay Lake (Coosa River).  I assumed it was a solar panel, but being so well shaped and showing no tail or flame or smoke it seemed odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138295.html](http://www.nuforc.org/webreports/reports/138/S138295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright, distinct, orb moved quickly west over the horizon. Not a plane, helicopter, or shooting starTraveling North on Dean Rd witnessed orb in western sky which appeared to be traveling west/southwest. It appeared to be very low in the sky. We quickly lost sight of it over the western horizon. All we could see was one, clear, white light. It was clearly moving too fast to be a plane, helicopter, blimp, etc. It did not look like a shooting star. There was no ionization trail. It was very crisp, almost crystal clear, no flickering, shimmering, or breaking up of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55266.html](http://www.nuforc.org/webreports/reports/055/S55266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
