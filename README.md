@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Palmyra (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright green sphere with red trailI drive a truck hauling US Mail.  While driving south on highway 61 about 3 miles north of Palmyra, MO, I saw a bright green colored sphere fall in an arc from the west to east and toward the ground. The object appeared very bright and as it fell it the color gradually dimmed until just before hitting the horizon it went black.  The object was followed by a bright red tail.  The object was about the size of a pea from my vantage point and the ending location was South-South-East of highway 61.  The sky was very clear.  I've seen falling stars before, and this was no falling star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05575.html](http://www.nuforc.org/webreports/reports/005/S05575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Eagle (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>A large, bright, stationary white light in the western sky, not a star or plane, observed for nearly 30 minutes.I am a retired college admissions advisor with a Master's Degree. My wife is an educational consultant with a private school system, possessing a Bachelor's Degree.We have lived in our current area for just over 20 years.As I walked down our driveway after taking the garbage cans to the road late in the evening, I saw a very bright light in the western sky. The light was approximately 30 degrees above the horizon and appeared stationary. It caught my attention because of it's brightness, clearly much brighter and larger than any stars in the sky.I initially thought it might be a passenger jet with landing lights on as we are on a glide path to the major airport to the east. After 5 - 10 minutes of observation it was clear it was not a plane. It did not change position in the sky, however the light appeared to fade and return periodically.After 10 plus minutes of observing I went into the house and asked my wife to look at the object with me. It was cold and she did not wear a coat so her observation was limited to about 3 minutes. She confirmed it was not a star or a plane and that it appeared stationary.I then picked up my binoculars and viewed the object with those. I was able to determine the object was round or oval, had multiple flood or spot lights emitting the light I saw, and appeared to have at least one red and one green light. The white lights were spread across the oval/round diameter of the object in such a manner as to appear to be "wall to wall". As I watched with the binoculars, it appeared the object was turning in some way as the white lights would nearly disappear and then reappear. This occured approximately every 3 to 4 minutes. I never heard any sound associated with the object.Unfortunately my video cam was not serviceable. I watched the object for approximately 25 minutes in total, and during that time it never moved. I was then becoming cold, there was no apparent movement or action with the object so I came inside. I have not seen the object again since that evening.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68712.html](http://www.nuforc.org/webreports/reports/068/S68712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
