@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:46 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>i was wallking back to the car and i saw a light off to my right in the night sky at about 45 degrees. it was greenish yellow in color and desended to about 35 degrees and disapered. it was travling from north to south in the southern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12030.html](http://www.nuforc.org/webreports/reports/012/S12030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in McVeytown (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>daylight sighting,no wind, crescent-shaped objectMy daughter had a snow day off from school, and I was outside shoveling while she played in the snow. At the time, the sky was clear with only a few clouds. There was little or no wind. She was laying down, making a snow angel, when she suddenly yelled excitedly for me to come over. I ran over as she pointed to the sky. I looked up, as she craned he necked backward to look behind her. I saw nothing. She described seeing something shaped like a "slice of watermelon" move in a straight line from west to east (I determined this from her position in relation to the front of the house). She said it was "wobbling funny." When pressed, I asked what color it was, and she said it wasn't green and red like watermelon, but gray with black holes along the bottom edge. I later had her draw a picture and she depicted a crescent-shaped object with porthole-like objects along the bottom. She also remembers a reddish glow around the object that then changed to either green or blue. This was a daylight sighting with little or no wind, and my daughter said it was "not as high as a jet but way higher than a bird up in the sky." She also admitted that she watched it for quite a few seconds in stunned silence before she was able to open her mouth and call for me.((NUFORC Note:  We will request a copy of the witness's illustration, and we may post it at a future date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28223.html](http://www.nuforc.org/webreports/reports/028/S28223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
