@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wadsworth (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red lights on a triangular object with 2 others hovering paralleOn Feb 12,2001, my family and I were reeturning from visiting family in Canton, OH.  We were traveliing state route 261 west, as we crested the top of a hill and I notice a triangular shape hovering over several houses.  At first thought it was a tower because of the light configuration and the height off the ground, approx 300 ft. high. Then my wife asked if I seen the lights.  She said, "I didn't know they put a tower up there."  I responed by saying there is no tower there, only houses.  As we got closer,  We could clearly see the triagle shape.  My wife looked to the north and notice a similar light configuation not to far away hovering.  I then looked the the south, I noticed the same thing to the south.  With out thinking, we came up to the road near to the lights, I turned down the road to get a better look.  We came about 500 ft from the object and could clearly see the object was grey and had three red lights on the corners with a white light in the middle.  It was completly silent.  When we got closer and object slowly moved to the east.  My wife noticed the other object to the north moved in a paralle line to the large object.  Then the radio went out.  As we went around the circle at the end of the road, the object began slowly moving west.  We past under the object.  My wife said we should go staight home.  We were only several min. from home.  My wife continued to watch the object until she could not see it any more.  We also noticed the other objects were also gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16511.html](http://www.nuforc.org/webreports/reports/016/S16511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Palmyra (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright green sphere with red trailI drive a truck hauling US Mail.  While driving south on highway 61 about 3 miles north of Palmyra, MO, I saw a bright green colored sphere fall in an arc from the west to east and toward the ground. The object appeared very bright and as it fell it the color gradually dimmed until just before hitting the horizon it went black.  The object was followed by a bright red tail.  The object was about the size of a pea from my vantage point and the ending location was South-South-East of highway 61.  The sky was very clear.  I've seen falling stars before, and this was no falling star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05575.html](http://www.nuforc.org/webreports/reports/005/S05575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
