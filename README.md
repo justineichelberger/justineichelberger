@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tuktoyaktuk (Canada) (NT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Star like UFOAs I jumped out of my vehicle I noticed a brighter than usual star in the sky directly northeast. At first it looked like a star but as I concentrated on it, it immediately ( like it knew I had spotted it ) shot back directly ( directly opposite my line of vision ) up into the atmosphere at a high rate of speed. When I first noticed it it appeared to be ( best guess ) 2,000 - 3,000 feet altitude ( just hovering silently ) and when it shot back it appeared to leave the earths atmosphere and diguise itself as a star. As I continued to watch it it began to move again in a half circle ( clockwise 3 o'clock to 9 o'clock ) and sped off at a unbelievable speed ( North ) until it had disappeared. Just as it had disappeared another bright light shot in a westerly direction just as fast from the same area. I immediately looked at my watch  and it showed 11:12 pm and I desperately wanted another I witness but as I looked round there was no one else just the silence, no wind just the cold ( approximately -32 C). This sighting bothered my for approximately 5 months afterwards. Please tell me this was a military test ( holographic light from a satellite maybe ? ) If it was it was totally realistic and nervewracking. I have actually found a video mpeg on the internet of another sighting which is pretty much what saw ( dec27.mpeg  a sighting from someone else made on Dec.27, 1997 )</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16105.html](http://www.nuforc.org/webreports/reports/016/S16105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Torhout (Belgium) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green light shipIt was a ship in form of a circle with a lot of light around it. It became green after +- 6 sec after that it disappeard in the sky like a falling star</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21776.html](http://www.nuforc.org/webreports/reports/021/S21776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
