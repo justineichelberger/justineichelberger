@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:09 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Las Brisas (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We were having dinner facing the beach at night. It was so dark, all one could see was stars and helicopters/planes flying by. A ufo with a bright light flew by at a much faster speed than an airplane or helicopter. As if flew by, it suddenly “disappeared” or the lights turned off mid air. We have seen shooting stars or falling stars before and it definitely was NOT that. Coincidently, an airplane was flying above us at the same time so we knew it could not have been a plane. Very shocking and exciting at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162032.html](http://www.nuforc.org/webreports/reports/162/S162032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Stationary red light over the Seattle area viewed from Bremerton,WaI work a swing shift at PSNS in Bremerton and was showing fellow workers and some Navy guys the ISS as it over flew Seattle at around 6:52 pm.At about 7:15 we were returning back to the ship, I showed a friend Mars witch was directly above us and then to the East we all noticed a red light coming slowly from the south and just stopped dead. We stared a few moments and began walking again. I stopped to talk with the safety guy and we watched it for at least 10 min. Others noticed us and began watching. You could see the air traffic from Sea-Tac well below the light. Once back on the aircraft carrier some of the Stennis officers and sailors had noticed it also, a couple of men maybe piolets because of their clothing said theres no way thats a hovering chopper.I figure at about 7:40 pm it flickerd twice and was gone, just blinked out. This light did not move in the slightest for up to 20 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61577.html](http://www.nuforc.org/webreports/reports/061/S61577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
