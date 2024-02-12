@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright, distinct, orb moved quickly west over the horizon. Not a plane, helicopter, or shooting starTraveling North on Dean Rd witnessed orb in western sky which appeared to be traveling west/southwest. It appeared to be very low in the sky. We quickly lost sight of it over the western horizon. All we could see was one, clear, white light. It was clearly moving too fast to be a plane, helicopter, blimp, etc. It did not look like a shooting star. There was no ionization trail. It was very crisp, almost crystal clear, no flickering, shimmering, or breaking up of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55266.html](http://www.nuforc.org/webreports/reports/055/S55266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rancho Palos Verdes (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>During my rounds around the property I observed a triangle shaped craft flashing multiple lights at a low altitude.  The craft came from the north of the mountain.  Was visible for 4 minutes until it vanished seemed to be some sort of cloaking.  My background is graveyard security officer.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132567.html](http://www.nuforc.org/webreports/reports/132/S132567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
