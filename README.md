@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:24 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:27 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Hartford (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two lights separated into three, then four, as they flew overhead.two very bright consistent lights, at first thought they were stars very close together. as i watched, they separated into three (bowling-ball hole shaped). as i made a remark, the lights separated into four, box shaped.  nudged my boyfriend to get his attention at a red light and we watched it fly overhead and into the distance. seemed lower as i watched it more, unlike anything i have ever witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87181.html](http://www.nuforc.org/webreports/reports/087/S87181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix area (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>reddish orange lights over Palo Verde Nuclear Plant following a vehicle with new technology.I am writing this because I have read several reports about these same objects on your site.The lights we witnessed were first spotted coming over the Palo Verde Nuclear plant coming in from the west around 20;00. At this time the two lights were glowing a deep reddish orange (very scary). The lights would turn on and off silently. No other identifiable lights and behavior ruled out airplanes and baloons.  These objects  continued on an easternly path directly toward Phoenix.  As we drove through Phoenix on I-10 the lights again reappeared south of Phoenix, as we headed towards Tucson. Now the lights changed to a bright solid yellow, in formation,and turning off and on.As we approached a small town or suburb, to the east these two objects hung in the sky, over the town and this time they were metallic gold and round in shape. They reflected light and appeared to be metallic.  They also lit up the entire sky around them and you could see the clouds above (high ceiling) and were certainly very visible from the ground. You could not miss them.  We had been traveling 70 mph or better on the interstate and the lights not only kept up the pace but were ahead of us and waiting?  The lights then turned again to bright yellow and continued their turning off and on wobbly manuevers as we headed towards Tucson. Then just as we were about to reach the first lights north of Tucson (suburb) the lights turned towards the southwest and disappeared out over the Papago indian reservation and towards the Kitt Peak area.My husband is the second witness.  We were on our way from Seattle,Wa. to a place in New Mexico with a device involved with new technology.  The lights were a bit un-nerving as well as the length of time.  I am estimating it to be four hours or so.I wish I had reported this at the time but I could not do so.  Now I can.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31967.html](http://www.nuforc.org/webreports/reports/031/S31967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
