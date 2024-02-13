@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 12 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:24 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two horizontal rows of 4-5 shimmering spots or lights in formation  - it rumbledSaturday 2.12.11 between 9:00 am and 9:15 am  I was returning from the grocery store and had parked in my garage.  I was waiting for my husband because we had both vehicles.  I heard a louder than usual rumble from what I thought were jets, so I stepped out of my garage and looked up at the sky.  We live close to our Intl Airport and within 1-2 miles of our Natl Guard, so jets are common in our part of the city.I looked up but didn’t see anything at first.  Then I caught a glimpse of something shiny.  While I was focusing on the shiny object, several more became evident.  There were 4 -5 shiny/shimmering spots in a horizontal row.  While I was watching 4-5 more appeared, also in a row, but quite a distance from the first row.  In the shape of a rectangle.  You could see the sky between the rows, but the spots were not well defined.The noise sounded like a regular military jet, but much louder.  It reminded me of the rumble of the battle cruiser in the beginning of Star Wars.By the time my husband pulled up they were almost completely out of sight.  He never did see it, but he could hear it in the distance.1.  The sky was clear 2.  There were two rows of something shiny or shimmering.3.  It sounded like a rumble from the battle cruiser.4.  I watched it/them for 4-5 minutes 5. The direction was from West to East  this is unusual because our jets take off from North or South.I suppose it could have been military jets, but I’ve never seen them fly in a row like that.  The shape of each shiny thing (light or reflection) was not well defined.  They didn’t appear to be planes, no wings, no exhaust, no contrails etc..  Just shiny spots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80037.html](http://www.nuforc.org/webreports/reports/080/S80037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Hartford (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two lights separated into three, then four, as they flew overhead.two very bright consistent lights, at first thought they were stars very close together. as i watched, they separated into three (bowling-ball hole shaped). as i made a remark, the lights separated into four, box shaped.  nudged my boyfriend to get his attention at a red light and we watched it fly overhead and into the distance. seemed lower as i watched it more, unlike anything i have ever witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87181.html](http://www.nuforc.org/webreports/reports/087/S87181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
