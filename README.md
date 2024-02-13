@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:51 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in St. Albans (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A green ball of gas, somewhat resemblant of a meteor, fell through the sky 2 days ago and disappeared after approximately 2 seconds.I witnessed what I would describe as a green ball of gas passing through the sky towards the ground. It did not accelerate or change direction, but merely fell toward the ground and disappeared behind the mountainous/hilly landscape.  It was foggy outside and dark so the object was bright in the center and the color dissipated from the center (bright in center, fading on the outer edges).I couldn't tell how far away the object was, but it was large to the eye and easy to see.  It appeared large enough that the object would have struck the earth's surface, and it was definitely enough to startle me.  It was moving very fast and did not leave a long trail/tail of fire like I would expect from a meteor, but I'm no expert.The object caught my eye while I was outside with a friend. I looked over and, as I saw it falling through the sky, I pointed and said something like "((deleted)), look!"  Unfortunately, my friend did not see it as it disappeared rather quickly.I'm not convinced this was anything unnatural from a cosmic perspective, but it was certainly unusual and I would like to know what it was. I'm glad that this service exists to report UFO's because it definitely helps to be able to tell someone who doesn't necessarily think you're crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68658.html](http://www.nuforc.org/webreports/reports/068/S68658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Long Point (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White light moveing fast and out of normal flight patterns.I was sitting in the car facing the east. I had seen a white light far away behind the clouds. It was like seeing a normal aircraft.  Except it was moveing fast especially for being so far away. I lost sight of it at times because of the clouds.  Then saw it in another spot in a completley wrong flight of path for any of our known aircraft.  It would move in another direction and it would jump around.  It wasn't because of the clouds.  The clouds were moving and not even there at some points.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107126.html](http://www.nuforc.org/webreports/reports/107/S107126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
