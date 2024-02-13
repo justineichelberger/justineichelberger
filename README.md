@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The three craft where flying with very little sound,  low and slow.This observation involved 3 aircraft while walking from my car to the house. From the east and also the direction of Ft Jackson I observed 3 groupings of lights in perfect formation, flying very slow at an altitude of approx 1500 ft with only the faintest stir of jet engines.All 3 had several bright landing type lights on and were super quiet for the slow speed and altitude. Just before approaching my location all three begain a perfect 90 degree right turn. As they rolled I noticed the plane closest to me banking and its wings had the normal light formation of green-right red-left as did the plane on the far side but the craft in the middle was different. It had green lights in the front and the back with what looked like a line of white lights from nose to tail similar to an airliner with cabin lights on. I could not make out any shape but also could not percieve any roll or change of the lights as would have occured in banking and leveling from a greater than standard rate 90 degree turn.  Also, I work at an airport so I know approach speeds and all three of these were traveling amazingly slow and quiet and also away from Metro. You will probably note that this was the same time as the code orange situation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28733.html](http://www.nuforc.org/webreports/reports/028/S28733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Coal Valley (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Ball of Light Moving at Extreme SpeedsI saw what appeared to be a ball of light above some trees.  I figured it was an airplane because we live next to the Quad City Airport.  However, as I entered a clearing between the trees I found that this object was moving at an extreme rate of speed.  It so happens that there was another airplane in the sky at the time and this object flew by the airplane like it was standing still.  My first thought was that maybe it was a fighter plane....but there was no sound and it was moving 2-3 times the speed of a fighter plane.  Second, I thought maybe a shooting star or meteorite.  Just as the object was disappearing into the horizon it shot straight upward.  So much for the shooting star or meteorite theory.  I have no idea what that thing was.  I've never seen anything like it before.  All I know is that it freaked me out!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61594.html](http://www.nuforc.org/webreports/reports/061/S61594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
