@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:51 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:48 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Long Point (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White light moveing fast and out of normal flight patterns.I was sitting in the car facing the east. I had seen a white light far away behind the clouds. It was like seeing a normal aircraft.  Except it was moveing fast especially for being so far away. I lost sight of it at times because of the clouds.  Then saw it in another spot in a completley wrong flight of path for any of our known aircraft.  It would move in another direction and it would jump around.  It wasn't because of the clouds.  The clouds were moving and not even there at some points.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107126.html](http://www.nuforc.org/webreports/reports/107/S107126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ashland (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>White Sphere in sky Over Ashland, KY 29th street BP.Was driving to a friends house from work, when in the distance, on the way to his house, I saw a Bright Sphere in the sky that was in place for about 5 secs and flew in excess of 100 mph and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73083.html](http://www.nuforc.org/webreports/reports/073/S73083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
