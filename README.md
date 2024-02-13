@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Coal Valley (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Ball of Light Moving at Extreme SpeedsI saw what appeared to be a ball of light above some trees.  I figured it was an airplane because we live next to the Quad City Airport.  However, as I entered a clearing between the trees I found that this object was moving at an extreme rate of speed.  It so happens that there was another airplane in the sky at the time and this object flew by the airplane like it was standing still.  My first thought was that maybe it was a fighter plane....but there was no sound and it was moving 2-3 times the speed of a fighter plane.  Second, I thought maybe a shooting star or meteorite.  Just as the object was disappearing into the horizon it shot straight upward.  So much for the shooting star or meteorite theory.  I have no idea what that thing was.  I've never seen anything like it before.  All I know is that it freaked me out!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61594.html](http://www.nuforc.org/webreports/reports/061/S61594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hillsboro (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Floating bell shaped object with pure white lights tinged with silver angel or ufo?On the early morning of February 13, 2003, we were driving along a dirt road in the middle of cottonfields.  We are familiar with these roads and drive along there occasionally just to enjoy the ride.  While riding down a straight part of this section of dirt roads we observed an orange glow behind us following at a distance and the car headlights were dimming by themselves.  I was driving and it felt like the car was held to the grounds by a magnet and didn't want to move.  We thought we imagined it so we drove back up the road and affirmed that there is no light source that could be seen from behind on that road.  We turned back around and after a few seconds the orange glow could again be seen following us.  In the meantime, there appeared a circle from the ground which encircled our view of the moon.  There were thick whispy clouds blowing in quickly, in a matter of seconds.  We went around a curve in the road and up to a clearing.  For some reason I backed the car up and my friend said, "Oh my God, look at this!  You are missing it! I jumped out of the car and flying 50 yards away from us and desceding to the height of the treetops was a bell shaped object completely covered in round white lights, separate but close together.  The light was a pure white with the effect of silver mixed in. The object floated slowing just beneath the treetop and then started ascending back toward the way it came from and then off to the right at and flew across the trees toward Highway 20.  The object seemed to float in a wobbling fashion for just a moment when changing from the descent to when it ascended.  In other words it hovered in a wobbly way.  The object was completely silent.  I am in the habit of taking my binoculars with me.  When I looked through them the object seemed to be alive, a living flying object self illuminated.  I am pondering, angel or ufo?((NUFORC Note:  Witness describes self as working in a position of responsibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27710.html](http://www.nuforc.org/webreports/reports/027/S27710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
