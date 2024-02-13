@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hillsboro (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Floating bell shaped object with pure white lights tinged with silver angel or ufo?On the early morning of February 13, 2003, we were driving along a dirt road in the middle of cottonfields.  We are familiar with these roads and drive along there occasionally just to enjoy the ride.  While riding down a straight part of this section of dirt roads we observed an orange glow behind us following at a distance and the car headlights were dimming by themselves.  I was driving and it felt like the car was held to the grounds by a magnet and didn't want to move.  We thought we imagined it so we drove back up the road and affirmed that there is no light source that could be seen from behind on that road.  We turned back around and after a few seconds the orange glow could again be seen following us.  In the meantime, there appeared a circle from the ground which encircled our view of the moon.  There were thick whispy clouds blowing in quickly, in a matter of seconds.  We went around a curve in the road and up to a clearing.  For some reason I backed the car up and my friend said, "Oh my God, look at this!  You are missing it! I jumped out of the car and flying 50 yards away from us and desceding to the height of the treetops was a bell shaped object completely covered in round white lights, separate but close together.  The light was a pure white with the effect of silver mixed in. The object floated slowing just beneath the treetop and then started ascending back toward the way it came from and then off to the right at and flew across the trees toward Highway 20.  The object seemed to float in a wobbling fashion for just a moment when changing from the descent to when it ascended.  In other words it hovered in a wobbly way.  The object was completely silent.  I am in the habit of taking my binoculars with me.  When I looked through them the object seemed to be alive, a living flying object self illuminated.  I am pondering, angel or ufo?((NUFORC Note:  Witness describes self as working in a position of responsibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27710.html](http://www.nuforc.org/webreports/reports/027/S27710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright round amber lights seen in Eastern sky in Vancouver, WAOn Feb. 13, 2019, at around 9:00 PM, at our home in West Vancouver, WA, my wife called me on her way back home to check out the two bright lights in the Eastern sky.  My daughter  and I went out side and saw the two bright round amber lights moving to the South at a slow speed.  They were brighter than stars or planets or airplane lights.  They were about the size of a street light as seen from a block away.  They  disappeared in a few minutes heading South East.  A guy in the neighborhood was waking his dogs and also stopped by to share what we were seeing.  He said that he had taken a video with his phone to verify what we saw.((NUFORC Note:  We spoke with the source of this report, and we found him to be both quite eloquent, and seemingly quite credible.  We suspect that he is a very good, and reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144889.html](http://www.nuforc.org/webreports/reports/144/S144889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
