@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:52 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At dusk 2 pulsating spheres started slowly moving towards usWell it was about 8:00 and it just started getting dark. Two friends and I were walking around talking in another friend's big open drive way when we saw two UFOs hovering a few hundred feet over the trees in the distance.  The UFOs ascended behind the trees and then only moved horizontal after that.  They both were sphere shaped, pulsating bright lights, and changed colors between orange, red, yellow, and white.  They were almost hard to look at because of how bright they were and they kept getting closer.  Neither of them made a sound even as they started getting closer and closer. They got so close they  were in the neighbors yard and then not that far from being directly over us so we darted inside fast.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101397.html](http://www.nuforc.org/webreports/reports/101/S101397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A triangle craft spotted in Edmonds washington.I was driving down Edmonds way(highway 104) around 10:00 pm to pick up some beer when i saw a triangle shaped object in the west sky. It was dark so all i could see was the light which glowed a light blue-white color. It seem to be pasted against the west sky like a giant less than sign ">". It was really strange, from just looking at it for a second i could tell that it wasn't natural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55393.html](http://www.nuforc.org/webreports/reports/055/S55393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
