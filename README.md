@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New York City (Ridgewood; Queens) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a strange steady ligth.At 7:55 pm. upon entering gate to my apartment as I looked up. I observed a large  glowing light  in the sky not moving   I ran into my apartment and told my wife what I was witnessing, grabbed my camcorder, returned outside , and object was still there. I recorded about three or four planes moving under it., appearing to descend, to in all probability getting ready to land at  laguardia airport.  Upon viewing what I had recorded, my wife and I agreed,it was to high to be a helicopter, and there was no  sounds of an Engine.  I have about six to eight minutes recorded very clearly, in both steady and zoom mode..   This  night was very clear, and cold.  We called 311, and they connected us to the police station, and reported this sighting.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68619.html](http://www.nuforc.org/webreports/reports/068/S68619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately varied - varied minutes.</sub><blockquote><sub>2 large red/orange lights on the Southern horizon, observed every night for nearly a week.Every night for approximately a week in mid February, I observed 2 large red/orange "lights" on the Southern horizon. They were, from my location on the 2nd floor apartments balcony, just above the tree tops but very far away. They would appear for 15 to 30 minutes and then fade out only to reappear a little while later. On more than one night I saw them while driving South on Highway 27 from Clermont towards my apartment which is about 15 miles South of Clermont. I have lived in this same location for 5 years and am familiar with the towers and other aerial lights in the area. I am also very familiar with aircraft and the lights associated with them. These were very different from typical tower, aircraft or other lights I am use to seeing. They were also not the typical color of military flares that are claimed to have caused the "Phoenix Lights." After seeing them every night for about a week they disappeared. I still check every night hoping I can catch them again and get some neighbors as witnesses. I wouldn't have reported this if I hadn't found three reports listed for the same time period by people in Florida. All of those sightings confirmed to me the location and strangeness of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12180.html](http://www.nuforc.org/webreports/reports/012/S12180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
