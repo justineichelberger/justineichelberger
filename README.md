@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A triangle craft spotted in Edmonds washington.I was driving down Edmonds way(highway 104) around 10:00 pm to pick up some beer when i saw a triangle shaped object in the west sky. It was dark so all i could see was the light which glowed a light blue-white color. It seem to be pasted against the west sky like a giant less than sign ">". It was really strange, from just looking at it for a second i could tell that it wasn't natural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55393.html](http://www.nuforc.org/webreports/reports/055/S55393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oroville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Amazing footage of ufo in nor caliIt started at sunset seeing red balls flashing white red blue green purple all sorts of colors, just hovering low over the horizon of the town, over our balcony we could see the whole town.  And the two lights would move, then stay still, then literally dissaper and reappear.  At some points the circle objects would look like two or more circles making sort of a shape and fly slower then they would go straight back into perfect circles again and fly off slow.  At one point the craft was visible it was metallic and had one light flashing white for a little, then the craft looks like it shape shifted into green and purple lights then back to a diskish shape with the one white light and flew off and we lost it in sight, throughout the night lights were coming from all angles, aligning, communicating, in a weird way it seemed like.((NUFORC Note:  We have not seen the footage, but we a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87202.html](http://www.nuforc.org/webreports/reports/087/S87202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
