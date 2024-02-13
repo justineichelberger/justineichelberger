@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:12 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (Outside) (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 33.0 - 33.0 minutes.</sub><blockquote><sub>Unexplained time loss, on the road, blinded by blue light from triangle object, automotic phonomenon.I was on my way to a crime scene outside of Seattle. I am a ((crime investigation specialist)) when I checked my watch to see the time it was 2:30 in the morning I had to be at the crime scene by 3:00 AM so I rushed a little. It was beginning to rain, and my car started making these weird noises the radio turned on automatically and started tuning to numerous stations a second, the lights inside and outside the car were flashing. And then I looked up and saw this huge triangle shaped thing above the car, in a few second this blue, blinding lights distracted me. It all stopped and my car was parked on the side of the road everything switched off, and I looked at my watch and it read 03:03 am. I then realised I lost 33 minutes. I turned on my car and drove to work with a lot of confusion on my mind.((NUFORC Note:  We have attempted to correspond with this witness, who has a professional degree and is a public servant, but have not heard back from him/her.  We will attempt to contact the party by telepone.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27701.html](http://www.nuforc.org/webreports/reports/027/S27701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Howell (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At 8:03 pm Tuesday, February 13, 2002, I was driving east on Marr Rd. near the intersection of Fischer Rd., which is about 3 miles north of Howell, located in southeast Michigan at the intersection of M-59 and I-96.  From the top of my windshield, I noticed a bright blue fireball streaking eastward trailing white sparks.  The length of the object and its tail was equivalent to the diameter of a golf ball held at arms length.  It appeared to be heading straight down.  The event lasted about two seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21814.html](http://www.nuforc.org/webreports/reports/021/S21814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
