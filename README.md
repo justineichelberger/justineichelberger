@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:39 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately varied - varied minutes.</sub><blockquote><sub>2 large red/orange lights on the Southern horizon, observed every night for nearly a week.Every night for approximately a week in mid February, I observed 2 large red/orange "lights" on the Southern horizon. They were, from my location on the 2nd floor apartments balcony, just above the tree tops but very far away. They would appear for 15 to 30 minutes and then fade out only to reappear a little while later. On more than one night I saw them while driving South on Highway 27 from Clermont towards my apartment which is about 15 miles South of Clermont. I have lived in this same location for 5 years and am familiar with the towers and other aerial lights in the area. I am also very familiar with aircraft and the lights associated with them. These were very different from typical tower, aircraft or other lights I am use to seeing. They were also not the typical color of military flares that are claimed to have caused the "Phoenix Lights." After seeing them every night for about a week they disappeared. I still check every night hoping I can catch them again and get some neighbors as witnesses. I wouldn't have reported this if I hadn't found three reports listed for the same time period by people in Florida. All of those sightings confirmed to me the location and strangeness of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12180.html](http://www.nuforc.org/webreports/reports/012/S12180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Carrollton (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The object was moving pretty fast, going North East, Boomarang shape, No Lights on at all, Made NO Sound!I just took my two Dogs out side to go to the bathroom.  I live in the flight path of DFW airport as well as Love Field airport In the Dallas area.  I was out side noticing how clear the night was, The stars seem extra bright.  All the sudden I saw a Aircraft shaped like a boomerang flying over my house. What really got my attention was the craft had No lights were on at all. Again I live in the flight path of 2 Airports by the time Airplanes fly over my house their lights are blanking and they have all the landing gear lights on.  As this craft got closer I got a good look at the shape.  It was not like the stealth boomer (I've seen many since I had 3 sons in the Navy) This was literally shaped like a boomerang's. It was moving across the sky going North East. It made NO Sound It was about the size of a DC10.  At the speed it was going I only saw it for a couple of minutes. However, I did get a good look at it.  With all the airplanes in the area I am wondering if a pilot might have seen this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61588.html](http://www.nuforc.org/webreports/reports/061/S61588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
