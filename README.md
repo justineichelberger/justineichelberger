@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ashland (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>White Sphere in sky Over Ashland, KY 29th street BP.Was driving to a friends house from work, when in the distance, on the way to his house, I saw a Bright Sphere in the sky that was in place for about 5 secs and flew in excess of 100 mph and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73083.html](http://www.nuforc.org/webreports/reports/073/S73083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in South Paris (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Lots of sightings in and around South paris Maine.I was riding my bike back from the store irvings mainway South paris Me.I live on a street called pine st.Right behind the store from where i live thers a good veiw over Hebron Me.from right out the front door.I was just gitting on my street coming from the store at 10:00pm.I looked left witch would have been right above Hebron and i thought i saw a star that looked like it was moving but this star was in the atmosphere.The object was pretty far away at first probley ten to fifteen miles away on the horizen above Hebron going away from me and down wards by this time i had already stoped and been sitting tere looking at it for about 3 minutes.Then it started going right by then it was about 1,000 feet above the trees on the horizen then i lost veiw of it behind some houses and trees so i went home and told my uncle i saw another ufo.whene i rode home after i lost site of it i knew it was going to show up on the horizen in front of our house cause thats the way it was going whene i lost sight of it.it was not going to fast but faster thene the little plains we have around here.so after i told him what i saw as fast as i could i said come out side quick if you want to see it so he came out side and we had to watch that area of the sky right in front of the house right on the horizen whitch looks right over Hebronfor about 5 minutes then there it was taking the same flight path as whene i lost it same speed bright like a star but closer to the trees. Then i said see i told you there were ufos in the winter cause we were argueing earleier that we see a lot more in the summer then in the winter.Thene the bright light on it went out and it went away very fast towards Hebron all you could see whene it left was a small red light like it was trying to look like a plain but no plains have bright lights like that bright white light that it had.so my uncle went inside as fast as he could cause it was about 15.below zero out there.Then ten minutes later i was looking out the window and there it was taking the same f! light pa th like it was doing big circles over Hebron like looking for somthing maybe in the woods cause Hebron mostley woods anyway it made the same flight path four more times ass long ass i looked out  i could probley have seen it all night if i wanted but it did not impress me our my uncle anough to stay out in the cold to look at it.Not like alot of the ones we saw in the summer that were pretty close so many sightings last summer that i could not put in a report every time i just know thers alot of activity in the summer in and around South paris Maine.Thankes for listienig</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27693.html](http://www.nuforc.org/webreports/reports/027/S27693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
