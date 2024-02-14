@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black dot in sky breaks into 4 pieces--then collapses back into a single dot.  Then disappears.We were at Best Buy (electronics store).  We just arrived in the car (parked south of the store and looking southwest)when we saw a black dot in the sky floating about 45 degrees above the horizon. The dot temporarily split into four parts for about twenty seconds and then collapsed back into a single circle. It started floating again and appeared to get smaller and smaller as though moving away (or shrinking upon itself).   Finally, as we were watching, it disappeared into the sky. Although it was late afternoon and the sun was setting, the sky was still bright.  The object definitely visible.  There were no jet trails or other characteristics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68822.html](http://www.nuforc.org/webreports/reports/068/S68822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Merlin (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multi colored light in the sky .........Went out side to the car coming back from the car looked in the sky and somthing caught my eye it looked like a star . but was changing colors red blue purpl green orange got my wife to come and look at it and she said it was somthing other than a star . went and got my cam corder and filmed about 20 min. of it on the tv it looked like the earth spining out of control and it got big and then small like a ligt bulb way off the get big again and you could see the colors chang when it was big . you could also see little lights come from off the screen into and towords the object that we was looking at then leave again ..... dont know what it was but sure was neet to watch .…((NUFORC Note:  First of two reports from the same source of the same incident.  We post both versions here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22248.html](http://www.nuforc.org/webreports/reports/022/S22248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
