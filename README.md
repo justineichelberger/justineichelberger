@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Red blinking lights over Los Angeles, Thurs. Feb 14th, 2013.The craft was moving in a southern direction from Burbank airport across North Hollywood over the Hollywood Hills.  There were two red lights that were blinking in unison, and one was higher than the other.  The two lights were locked in position as the flew and never changed their proximity to one another.  There was no sound and a random traffic/police helicopter flew under it at a different course at one point.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96321.html](http://www.nuforc.org/webreports/reports/096/S96321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>An unforgettable witness to a ufoI happened to wake up on the night of Februray 13th or the morning of the 14th. I saw an airplane flying with the ufo behind it. I couldnt describe the movement of the ufo because the physics of it is speechless. This all happened in some time between 1 and 3 seconds. I was going  to get up and see it but something "forced" me back to sleep. It was like a ringing sound. I woke up again still thinking about what I saw then the ringing sound occurred again and forced me back to sleep. But I woke up the next morning still remembering the physics of this object. I know it wasnt a dream because I never could have imagined something moving so fluidly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21936.html](http://www.nuforc.org/webreports/reports/021/S21936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
