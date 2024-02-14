@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Alamo (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Noticed a light hovering too bright too low to be a star , filmed object for app.5 mins zoomed in appeared to be a spinning bluish light with an outer ring of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154455.html](http://www.nuforc.org/webreports/reports/154/S154455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange, bright lights seen in Pueblo, Colorado, skies.7 or 8 fireballs in the sky.  They were very dim lights, then all of a sudden they all turned bright orange and moved and vanished.  It was dark outside, and they seemed very close.  They were out west of Pueblo, Colorado.  I didn't hear any sound and couldn't see any shapes to the bright orange lights.  There was nothing in the background but the dark sky so the bright orange fireballs were very noticeable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107143.html](http://www.nuforc.org/webreports/reports/107/S107143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
