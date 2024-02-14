@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>An unforgettable witness to a ufoI happened to wake up on the night of Februray 13th or the morning of the 14th. I saw an airplane flying with the ufo behind it. I couldnt describe the movement of the ufo because the physics of it is speechless. This all happened in some time between 1 and 3 seconds. I was going  to get up and see it but something "forced" me back to sleep. It was like a ringing sound. I woke up again still thinking about what I saw then the ringing sound occurred again and forced me back to sleep. But I woke up the next morning still remembering the physics of this object. I know it wasnt a dream because I never could have imagined something moving so fluidly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21936.html](http://www.nuforc.org/webreports/reports/021/S21936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At just past 21:00  on Feb 14, I stepped outside to view the evening sky.  Orion is usually up at this time.  As I looked up I noticed two lights moving from East to West South West.  The lights were In a forward and aft  arraignment, and there seemed to be some distance between the two.  Soon the aft light, swung to the left of the forward light and were about even with each other, then they just disappeared into the night sky.I heard no engine sound, and I saw no navigational lights.I could not tell at what altitude the lights were but they seemed very high.At about this same time a single engine monoplane came from the West, and it had navigation lights that I could see, although I don’t remember hearing it’s engine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132625.html](http://www.nuforc.org/webreports/reports/132/S132625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
