@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Forest (MS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>50 to 80 Light spheres in the skyToday I could see 50 to 80 gray lights (light spheres) that were in the sky for less than 2 seconds as they appeared they disappeared in less of 2 seconds.  The sky was blue without no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153279.html](http://www.nuforc.org/webreports/reports/153/S153279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>UFO sighting in Plantation, FL.First saw (with naked eyes) object in the northern sky.  Object then with great speed exited the atmosphere to the western sky.  But I also have a dash cam that picked it up at least a minute before I noticed it, so from the video it was first noticed in the eastern sky and in under a minute it was past me really low like within 10k feet then it exits to the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153280.html](http://www.nuforc.org/webreports/reports/153/S153280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
