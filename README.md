@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:16 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 light blue lights and an oval shaped craft hovering over columbia sc interstate 26Driving NE on Interstate 26, evening traffic.  Noticed cars applying brakes more than usual. Pulled up along side of some cars and noticed the persons pointing into the air.  Saw what looked liked 3 light blue lights and the outline of and oval craft.  It was still light out and the clouds were flat. It hovered for about 30 seconds and acted like it noticed us seeing it and in a flash it backed up into the cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107129.html](http://www.nuforc.org/webreports/reports/107/S107129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of  balls of light travelling across the sky, one behind the other, early in 1997.I went out to feed the horse at about 6 or 7 pm - Feb.? 14? 1997 - and looked up to the sky. It was a cripsy clear calm night with cotton ball clouds. I could see the stars behind the clouds. The lights of the city were slightly illuminating the clouds.Suddenly I saw one ball of light pass above the clouds moving in a South-Westerly maybe more Southerly direction. It looked odd so I kept watching. Then another ball of light exactly the same size and distance moved the same direction following the first, completely silent. I kept watching and there was another and another. I ran in to get my video camera and started taping this. There were several more. They seemed to be spaced the same distance apart and travelling the same rate of speed, like in some kind of formation, though the patches of clouds made it difficult to be exact.My first thought was that they were satellites, but then do satellites travel in this manner? I've seen many satellites before, but these were closer, or a lot larger-if they were out in space! These balls of light were about the size of a small green pea if you held it in-between your forefinger and thumb in an out-stretched arm. I think I counted about seven to ten seconds between each ball of light. Also, they just seemed too perfect for shooting stars - and there were too many of them.I saved the tape it's on (I hope!) Though I only got the last few of the formation on tape. I have other family 8mm tapes I've been meaning to go through to put on disc. Hopefully, I'll find this footage. When I do, I'll send you a copy.I've seen other unexplained things in the Nevada sky, and yes I've seen F-117 and the B-2 bomber, both stealths, amoung other military jets. Nothing I've seen looks like any of these.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57540.html](http://www.nuforc.org/webreports/reports/057/S57540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
