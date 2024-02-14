@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:53 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>flash of lightDriving home (headed s.east)from Ephrata to Moses lake at night. Saw a small flash of pale green light come down like shooting star, but stopped and immediatley the light "shot" oppisite direction and disappeared,the light was like a streak in a "v" or "check mark" formation, never seen a shooting star do that yet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46020.html](http://www.nuforc.org/webreports/reports/046/S46020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Forest (MS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>50 to 80 Light spheres in the skyToday I could see 50 to 80 gray lights (light spheres) that were in the sky for less than 2 seconds as they appeared they disappeared in less of 2 seconds.  The sky was blue without no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153279.html](http://www.nuforc.org/webreports/reports/153/S153279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
