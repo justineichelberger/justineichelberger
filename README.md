@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 13 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Watford (Hertfordshire) (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>object was red and orange and looked to be on firemy mum was drying her hair when she said look outside your window . the object was about 100ft away and was red and orange in colour like burning then moved of in a straight direction for i would guess a few miles then was out of sight within 30 to 45 seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74361.html](http://www.nuforc.org/webreports/reports/074/S74361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mt. Popocatepetl (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Watching Live Video Cam of Popo at http://www.cenapred.unam.mx/UltimaImagenVolcan2.htmlSpherical object moved just above the peak from right to left along the diagonal of the peak always just above it... image refreshed every 30 seconds... I watched it for over an hour than it moved straight up above the clouds in the background. Disapeard for awhile and than reapeared in the jpg I will send. The second one appeared on the left flank on the volcano only when I captured the picture... never saw it move.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05555.html](http://www.nuforc.org/webreports/reports/005/S05555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
