@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At just past 21:00  on Feb 14, I stepped outside to view the evening sky.  Orion is usually up at this time.  As I looked up I noticed two lights moving from East to West South West.  The lights were In a forward and aft  arraignment, and there seemed to be some distance between the two.  Soon the aft light, swung to the left of the forward light and were about even with each other, then they just disappeared into the night sky.I heard no engine sound, and I saw no navigational lights.I could not tell at what altitude the lights were but they seemed very high.At about this same time a single engine monoplane came from the West, and it had navigation lights that I could see, although I don’t remember hearing it’s engine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132625.html](http://www.nuforc.org/webreports/reports/132/S132625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Folsom (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two UFO’s reported in paAt 6:57 pm est i video recorded two glowing fireballs flying @1600’ right behind one another, with constant speed 300mph right behind each other in the same pattern. Never changing altitude or course very straight in the flight pattern. We watched until they disappeared in the clouds i checked with my phones siri to check on flights above me and nothing was scheduled. As a drone pilot  these made no noise and am very familiar with drones and flights of them. This was not two drone flying the same flight pattern and speed and direction impossible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162035.html](http://www.nuforc.org/webreports/reports/162/S162035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
