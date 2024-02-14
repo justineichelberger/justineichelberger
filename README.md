@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light over LA county disappearsIt started as something that looked like a helicopter light shining down, then it got way too bright to be a helicopter it turned into a spiral and dissapered, find YouTube videos it's there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132623.html](http://www.nuforc.org/webreports/reports/132/S132623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Mercedes (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>In the way to schoolIn the morning at 8.15am in a classroom in second grade. We as a class were solution the USA flag. I remember that the teacher ask us to get up of the chear. I stand up of the chear and the movement, I open my mouth I look up to the wind and a white object was out side the wind. It looks like the object was staring at me. I looked at the classroom and everyone in the classroom didn't move. It looks like everyone in the classroom was frozen. I tried to call the girl next to me, but the girl didn’t answered not thing . The next thing l did was look up to the wind the object was in the wind. The object was moving and roadteding it seem that it lasted only a few sec.. Sololy the object moves to the right and left and dispper in the claud. The was back to normal the bell ring and everyone in the classroom went to lunch. In fourth grade, I saw a student in a UFO’s book and I tolled the student that I seen a object like at. He said, That I was cerise.((NUFORC Note:  Date is approximate.  The witness does not provide contact information, so we are unable to communicate with him for clarification, or supplementary reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27270.html](http://www.nuforc.org/webreports/reports/027/S27270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
