@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some '' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Saw with a friend, very large comet/meteor-like object, streaking slowly across the sky.  It was red and orange,  it took quite a while to get out of sight behind some apartment buildings.  It flashed four extremely bright lights (in a square) right before it went behind the building.I searched for it, but it had disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135379.html](http://www.nuforc.org/webreports/reports/135/S135379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1942, an anonymous witness in Panama City (Panama) () reported seeing craft that fit the description of some 'Disk' over a period of approximately several days - several days minutes.</sub><blockquote><sub>THIS HAPPENED TWO OR THREE MONTHS AFTER PEARL HARBOR. US ARMY HAVE SEVERAL MILITARY BASES IN PANAMA. AFTER DEC. 7 WE WERE SENT INTO BLACK OUT REGULATIONS AND THE ALL CITY WAS UNDER TREMEOUS PANIC ATTITUDE.   I USE TO WORK IN A 4 STORY HIGH BUILDING. ONE DAY IN FEB. 1942, I SAW MANY PEOPLE IN THE STREETS LOOKING UP IN THE SKY. MEMBERS OF OUR OFFICE RAN TO THE ROOF TO SEE.  VERY HIGH WAS A UNNOWNG OBJECT THAT LOOKED LIKE A DOLLAR USA MONEY. SHINNING IN THE SUMMER MORNING.  THIS THING WAS SAW ALSO BY HUNDRED OF AMERICANS LIVING VERY NEAR TO PANAMA CITY. FROM MY OFFICE A WALK OF 500 HUNDREDS METERS AND YOU WERE INSIDE THE PANAMA CANAL ZONE. THESE SIGTHINGS LASTED SEVERAL DAYS. THE OBJECT USED TO STAY STANDING STILL FOR MAYBE AN HOUR OR TWO, THEN MOVING VERY FAST FROM A POSITION EAST WEST INSIDE THE PERIMETER OF THE CANAL ZONE WERE THOUSANDS OF AMERICAN SOLDIERS WERE SECURING THE LOCKS OF THE PANAMA CANAL.  ALL THESE YEARS I HAVE READ ABOUT UFO. NO ONE OF THE THOUNSANS OF CIVILIANS AND ARMY PEOPLE EVER HAVE MENTION THIS INCIDENT.  I ALWAYS THOUGH IT WAS A BALLON HOLDING A PLANE AT HIGH ALTITUDE AND LETTING THE PLANE LEAVE IT IN FAST FLIGHT.  OTHERS PEOPLE THOUGT IT WAS A SECRET AMERICAN FLYING PLANE.  THIS IS A TRUE HISORY.   SACRAMENTO((NUFORC Note:  Date is approximate.  We have requested that the witness attempt to locate other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24836.html](http://www.nuforc.org/webreports/reports/024/S24836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
