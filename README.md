@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rosarito (Baja)(Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Look like  small Moon over waterAs standing in balcony looking toward Pacific Ocean , I noticed a light reflection on the water looking like a small moon light reflection as I followed the reflection I saw a bright light hovering over the water with some kind of circles of diamond lights under I called my wife to variety and she did acknowledge that is not a star, plain, we took some photos and the UFO was there for about 10 minutes and just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153330.html](http://www.nuforc.org/webreports/reports/153/S153330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large "Gulf Breeze" type object seen over Boston at about 10,000 feet in WinterI was a passenger with a window seat(F) on the Boston MA to Newark NJ shuttle.  We were climbing out of Boston through large thick clouds that had open spaces between them.  We were at about 10,000 to 15,000 feet when we flew by a gap between clouds and I saw clearly a large object that struck me at first as being the shape of a hot air balloon (with no gondola), but it appeared to be solid and the diameter of the bottom narrower part was bigger and had a kind of flange shape at the bottom.  The object was mostly light colored with regularly spaced raised geometric shapes in several bands around the object.  (Seven years later when I first saw the Gulf Breeze photos, I blurted out "That's what I saw!") The gap in the clouds closed in about five seconds.  I looked up and down the interior of my plane to see if any other passengers had been looking out the window and showed signs of having seen the object, but no one appeared to have been looking.  I clearly remembered that it had been just below freezing on the ground as I entered the airport, so at 10,000 feet it would have been extremely cold.  The object appeared to be motionless, relative to the clouds, and it was BIG.((NUFORC Note:  Date is approximate.  One of two serious-minded sounding reports from same witness.  Please see other report for February 15, 1967, in Andover, Massachusetts.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41592.html](http://www.nuforc.org/webreports/reports/041/S41592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
