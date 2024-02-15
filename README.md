@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newport Beach (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Sitting on Balboa Island looking in the direction of the pavilion which is north west two objects started out being too sets of red lights in a triangle they were about a hundred feet apart but they kept moving in sequence up and down away from each other and then back together at some point they would probably be 2000 feet in the air other points they were down to about a hundred feet off the ground I pointed him out to two ladies who were taking pictures of the pavilion building they didn't see them until I pointed them out their remarks were they must be airplanes I pointed out that no airplane could drop from 2000 feet to 100 feet stop and go back up like a tennis ball these have to be either military drones or there something else UFO what amazes me is nobody noticed them until I pointed them out the way they were zipping around the sky that could not have been an airplane because they stopped they could not have been a helicopter because they move too fast up and down they would take off in opposite directions and then they would return and be within a foot of each other my guess is these crafts were over the ocean because behind the pavilion building you would have the open ocean once or twice I have reported things similar but not the same color when I was in Northern California I saw a blue light red light but that was a couple years ago And on this last incident trying to take a picture of it with a cell phone was impossible they move too quickly and they were not there when you snap the picture all you could get was the glow of the pavilion lights aircraft moving this quickly would have to have some sort of slow film like motion film to get it((NUFORC Note:  One of four reports, submitted by same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125902.html](http://www.nuforc.org/webreports/reports/125/S125902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hopulikit (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was outside on the porch, because I don't smoke in the trailer, and I was looking at the moon.  Then I saw a bright green glowing light, smaller than the moon, but moving fast.  It dropped down below the pines and turned white.  Went left to right real quick like.  I went in to get my granddaughter ((name deleted)).  It was gone.  Quick as a wink.  I was scared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132637.html](http://www.nuforc.org/webreports/reports/132/S132637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
