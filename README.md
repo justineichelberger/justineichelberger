@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 14 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Illuminated gold/yellow Chevron traveling from East horizon to West horizon in seconds.Gold\yellow Chevron-shaped something was seen in the North East horizon, approximately at a 10 o'clock placement to the Earth if there Earth were at 6 and directly overhead was a 12.  It traveled from East to the West covering the entire horizon in a matter of 10 seconds.  It traveled faster than anything that humanly exist.  It was very big.  The size of the Moon on any given average night.  It was a Chevron-shaped, triangle with another triangle offset directly behind and the triangle behind tip of triangle splitting the middle of the one in front.  Never seen any thing like it and no question of it possibly belonging to this planet.  Absolutely not of this world.  Moved faster than any thing we have on this planet. Unbelievably fast.  One horizon to the other (East to West) in a matter of less than 10 seconds.((NUFORC Note:  We have attempted to contact the source of the report, in order to establish the correct date of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145959.html](http://www.nuforc.org/webreports/reports/145/S145959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Holetown (Barbados) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>6-7 Orange Lights in BarbadosAround midnight I had spotted 6-7 orange lights traveling from north to south at a faster pace that of a plane.  They were bright orange and a strange formation, some in the back formation caught up to the front.  I went to get someone else to witness it and they had no idea what it was.  We watched it for at least 5 min, till they reached a spot in the sky and started to disappear a few at a time or one at a time.  The final one slowed down in the same area as the other and almost like flickered out.  Then they were gone.…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87205.html](http://www.nuforc.org/webreports/reports/087/S87205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
