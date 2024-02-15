@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:09 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:24 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One bright light moving silently east of Reno NevadaFrom my back porch in South Reno I was looking east towards the desert foothills and noticed a bright light (about the size of the planet Venus on a clear night) moving slowly south eastward. The light was unblinking and I could not hear any sound. I glanced downward for about 10 seconds (I was cleaning the barbecue) and looking back up it was entirely gone. There were a number of identifiable airplanes farther east of where I saw the object.  Maybe as many as 8 planes in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61636.html](http://www.nuforc.org/webreports/reports/061/S61636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pownal (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large dark helicopter at treetop level follows orange light thru rural community.I was preparing dinner when I looked out of my kitchen window and saw a small orange light (basketball-sized ?) zig-zag at treetop level making very sharp turns, and thought for a moment that maybe it was reflections of cars in my window...but it was so unusual visually my thoughts were focused on what was it that I didn't hear the low rumble...and as soon as I recognized that it was a helicopter... and damn low...I ran to my deck and saw the orange light make a beeline to the north followed...not too closely...by a huge (relatively) 'copter ALSO at treetop level and the copter was flying so slowly...like it was keeping it's distance from the orange light. You must understand that this is a very small community nestled in the hills with no airports within 20 miles. While on my deck watching this event my next door neighbor came running out...this copter was SO LOW and so LOUD that the house was shaking...and asked me what was happening...at least 2 children were in the doorway watching...we exchanged a couple of words on the matter and he asked me what I thought it was and I told him "I dont want to say" as I glanced at the children. From the perspective of the movies the helicopter sounded large and POWERFUL...like a 'huey'...the only light on the copter was a single small red light...I'm not sure of the location on the copter because my attention was fully focused on the orange light which by then had moved completely out of sight. This 'circus' of light and sound seemed to be following Vt. Rte 346 in a 'northerly' direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16492.html](http://www.nuforc.org/webreports/reports/016/S16492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
