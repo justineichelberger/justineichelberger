@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:24 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pownal (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large dark helicopter at treetop level follows orange light thru rural community.I was preparing dinner when I looked out of my kitchen window and saw a small orange light (basketball-sized ?) zig-zag at treetop level making very sharp turns, and thought for a moment that maybe it was reflections of cars in my window...but it was so unusual visually my thoughts were focused on what was it that I didn't hear the low rumble...and as soon as I recognized that it was a helicopter... and damn low...I ran to my deck and saw the orange light make a beeline to the north followed...not too closely...by a huge (relatively) 'copter ALSO at treetop level and the copter was flying so slowly...like it was keeping it's distance from the orange light. You must understand that this is a very small community nestled in the hills with no airports within 20 miles. While on my deck watching this event my next door neighbor came running out...this copter was SO LOW and so LOUD that the house was shaking...and asked me what was happening...at least 2 children were in the doorway watching...we exchanged a couple of words on the matter and he asked me what I thought it was and I told him "I dont want to say" as I glanced at the children. From the perspective of the movies the helicopter sounded large and POWERFUL...like a 'huey'...the only light on the copter was a single small red light...I'm not sure of the location on the copter because my attention was fully focused on the orange light which by then had moved completely out of sight. This 'circus' of light and sound seemed to be following Vt. Rte 346 in a 'northerly' direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16492.html](http://www.nuforc.org/webreports/reports/016/S16492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Andres, Boca Chica, Santo Domingo () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.18333333333333332 - 0.18333333333333332 minutes.</sub><blockquote><sub>Nigh time angular object reflecting street lights below it.I was on our house roof looking north.  Saw, what I thought, was a helicopter.  But it made no sound, and had no lights.  The object seemed flat-bottomed and reflected the orange street lights below it - no points of light reflected, just a reflected glow.  Due to the brightness of the light reflection I estimated the silent object to be about 800 feet high.  I guess it was the size of a small truck.  Appeared flat but not round - somewhat angular.  I flew straight to the west, where there is an international airport there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154996.html](http://www.nuforc.org/webreports/reports/154/S154996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
