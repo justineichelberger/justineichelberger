@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Andres, Boca Chica, Santo Domingo () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.18333333333333332 - 0.18333333333333332 minutes.</sub><blockquote><sub>Nigh time angular object reflecting street lights below it.I was on our house roof looking north.  Saw, what I thought, was a helicopter.  But it made no sound, and had no lights.  The object seemed flat-bottomed and reflected the orange street lights below it - no points of light reflected, just a reflected glow.  Due to the brightness of the light reflection I estimated the silent object to be about 800 feet high.  I guess it was the size of a small truck.  Appeared flat but not round - somewhat angular.  I flew straight to the west, where there is an international airport there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154996.html](http://www.nuforc.org/webreports/reports/154/S154996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rosarito (Baja)(Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Look like  small Moon over waterAs standing in balcony looking toward Pacific Ocean , I noticed a light reflection on the water looking like a small moon light reflection as I followed the reflection I saw a bright light hovering over the water with some kind of circles of diamond lights under I called my wife to variety and she did acknowledge that is not a star, plain, we took some photos and the UFO was there for about 10 minutes and just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153330.html](http://www.nuforc.org/webreports/reports/153/S153330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
