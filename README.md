@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:35 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Blue and red lights over Delray Beach, Florida.i was driving by the Turnpike North an Delray Beach and my wife and i saw in the sky two blue lights and in the center a red light, the object pass over us and turn to the east and i saw two red lights on the back (like the cars) and later dissappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61631.html](http://www.nuforc.org/webreports/reports/061/S61631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some '' over a period of approximately 40320.0 - 40320.0 minutes.</sub><blockquote><sub>THREE FLIGHTS OF FOUR CONTACTS ON RADAR IN 1970 AS SEEN AT NORAD, CHEYENNE MOUNTAIN.I WORKED FOR NORAD INSIDE CHEYENNE MOUNTAIN IN COLORADO SPRINGS. I WAS IN U.S.ARMY. I WORKED SHIFT WORK SUPPORTING THE COMMAND DIAS. AT NIGHTS ON WEEK ENDS IT IS ALWAYS QUIET. WE MONITORED REPORTS FROM ALL RADAR STATIONS MAKING UP THE EARLY WARNING SYSTEMS. THE NEXT TO THE LAST WEEKEND IN MARCH OF 1970 DURING THE HOURS AFTER MIDNIGHT, WE STARTED RECEIVING REPORTS OF FOUR CONTACTS CROSSING THE BERING SEA AND THEN FOLLOWING THE COAST OF ALASKIA AND BRITISH COLUMBIA AT AN ALTITUDE OF OVER 25,000 FEET AT SPEEDS IN EXCESS OF 2500 MPH. A FLIGHT OF 2 FIGHTER WERE LAUNCHED IN ALASKIA, THEY NEVER INTERCEPTED THE CONTACTS. THE CONTACTS WERE THE SIZE OF FOUR ENGINED BOMBERS. SHORTLY BEFORE REACHING VANCOVER THEY TURNED AND EXCELERATED STRAIGHT UP AND OUT THE TOP OF OUR D.E.W. SYSTEMS. THERE WERE CONTINIOUS REPORTS FROM THE THEN NAMED SPACE DEFENSE CENTER, OTHER THAT NOTICE OF THE REPORTS WE (THE DEPARTMENT WHERE I WORKED: FORCSTAT/MDARS-MILITARY DAMAGE ACCESSMENT REPORTING SYSTEM) DID NOT RECEIVE THE INFORMATION IN THE REPORTS GIVEN TO THE DIAS. THE NEXT WEEKEND I WAS NOT ON DUTY, BUT IT HAPPENED ALL AGAIN, JUST THE SAME WAY. THE THIRD WEEKEND(THE FIRST WEEKEND IN APRIL) NOTHING HAPPENED. THE FOURTH WEEKEND IT HAPPENED AGAIN, WHILE I WAS ON DUTY. FOUR CONTACTS CROSSING THE BERING SEA AND DOWN THE COAST. I WAS 19 AT THE TIME AND NAIVE. ALL THE OLD TIMERS WHO WERE MOSTLY RADAR TECHS AND FORMER RADAR SYSTEM TECHS WHO HAD WORKED DIRECTLY ON THE D.E.W. LINE RADAR STATIONS LET ME IN ON THE SECRET. THIS KIND OF THING HAPPENED ALL THE TIME. BUT YOU LEARNED TO NEVER REPORT IT IN ANY WRITTEN REPORTS. AND TO NEVER QUESTION IT. ONE MAJOR WHO WAS A FRIEND (AS MUCH AS A 19 YR OLD SGT CAN HAVE A MAJOR FOR A FRIEND) TOLD ME OF THE TIME HE WAS ASSIGNED TO WORKING IN GREENLAND. THEY WERE UPDATING AND EXPANDING THE THULE GREENLAND BASE. THEY HAD COLORED LIGHT DISPLAYS ON AN ALMOST DAILY BASIS. ORANGE BALLS WERE THE LARGEST; FOOTBALL FIELD SIZE IN DIAMETER, REDS WERE HALF THAT SIZE. BLUES WERE TWENTY TO THIRTY FEET IN DIAMETER AND G! REEN AND YELLOWS WERE BASKETBALL SIZE. THE SMALLER ONES ACTUALLY ENTERED AND FLEW DOWN THE LARGE CORRIDORS OF THE BASE. THIS WAS THE TIME THAT A NUCLEAR REACTOR WAS INSTALLED TO SUPPLY POWER. IF I COULD GET ANY OF THE TECHS TALKING THEY ALL HAD THEIR OWN STORIES. I HAVE NEVER REPORTED THIS TO ANYONE OR PUT THIS INTO WRITING BEFORE, KNOWING ALL THE TRUTH WILL NEVER BE OUT THERE IN PRINT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25777.html](http://www.nuforc.org/webreports/reports/025/S25777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
