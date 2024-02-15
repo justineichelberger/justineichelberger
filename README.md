@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:09 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Holetown (Barbados) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>6-7 Orange Lights in BarbadosAround midnight I had spotted 6-7 orange lights traveling from north to south at a faster pace that of a plane.  They were bright orange and a strange formation, some in the back formation caught up to the front.  I went to get someone else to witness it and they had no idea what it was.  We watched it for at least 5 min, till they reached a spot in the sky and started to disappear a few at a time or one at a time.  The final one slowed down in the same area as the other and almost like flickered out.  Then they were gone.…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87205.html](http://www.nuforc.org/webreports/reports/087/S87205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One bright light moving silently east of Reno NevadaFrom my back porch in South Reno I was looking east towards the desert foothills and noticed a bright light (about the size of the planet Venus on a clear night) moving slowly south eastward. The light was unblinking and I could not hear any sound. I glanced downward for about 10 seconds (I was cleaning the barbecue) and looking back up it was entirely gone. There were a number of identifiable airplanes farther east of where I saw the object.  Maybe as many as 8 planes in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61636.html](http://www.nuforc.org/webreports/reports/061/S61636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
