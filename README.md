@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Light that move like a canon shot, then like a yo-yo..transforming from light to bright red.Started as a flash light in the sky, then shot across the valley and stopped.  Turned the coolest color of metalic red I have ever seen than back to light again.  Then Shot off towards the sun.  About 10 minutes later, it reappeared and would drop from the sky like a yo-yo. Stop.  Then shoot back out of site.  Repeated about 4 times over a 15 minute period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61627.html](http://www.nuforc.org/webreports/reports/061/S61627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some '' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Saw with a friend, very large comet/meteor-like object, streaking slowly across the sky.  It was red and orange,  it took quite a while to get out of sight behind some apartment buildings.  It flashed four extremely bright lights (in a square) right before it went behind the building.I searched for it, but it had disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135379.html](http://www.nuforc.org/webreports/reports/135/S135379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
