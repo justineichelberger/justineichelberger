@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in UK/England () reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>egg shaped object big red flashing lightme and my friend was walking to my house and i saw a bright red bright light in the sky it was there for about 30sec then the light turn off then 15sec later bright red bright light came back and start to move up slowly then to right increasing in speed then red light start to fade away and turned into a small white light increasing in speed move up  and right then the light start to came toward us and was turning then we saw the shape of it it was like a egg shape and on the bottom was 3 light on the left 1 small white then in the middle the big red light and on the right 1 small white light then it started to increase in speed and shoot off with the red bright flashing and went out of hour site</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61629.html](http://www.nuforc.org/webreports/reports/061/S61629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Blue and red lights over Delray Beach, Florida.i was driving by the Turnpike North an Delray Beach and my wife and i saw in the sky two blue lights and in the center a red light, the object pass over us and turn to the east and i saw two red lights on the back (like the cars) and later dissappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61631.html](http://www.nuforc.org/webreports/reports/061/S61631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
