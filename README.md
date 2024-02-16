@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Alpharetta (GA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A boomerang shape that disappeared in the night skyI was sitting with my sister on the back porch of her apartment about 8 in the evening.  She pointed to the sky and said look at those birds.  But as we looked we realized that those were not birds because the formation was wrong and there was a light coming from them.  They clustered together in a boomerang shape but we could tell there were about 50 individual lights to the cluster.   As it headed towards us from the North West area it started to gracefully arch towards the North and broke into a triple arch shape and disappeared.  It was something we have never seen before!  We are both very logically people I am a college advisor and she is a fashion designer.  We wanted to report this because it was unbelievable!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55309.html](http://www.nuforc.org/webreports/reports/055/S55309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kasilof (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Unidentified brilliant green/blue light appeared at children's bus stop.Light appeared in the trees just off the main highway.  Brilliant blue/green light. Similar in color to the Northern Lights.  Object divided into 3 lights, quickly disappearing to the north.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125886.html](http://www.nuforc.org/webreports/reports/125/S125886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
