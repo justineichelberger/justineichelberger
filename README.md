@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:48 on 15 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dasuya (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>It was the festival of Dipawali in India. I was just standing on the top of my roof firing crackers. suddenly I noticed a triangle shaped object flying too low there is a poultary farm near to our house. it flew towards the farm becoming low in height and suddenly it became too low that it dissapeared. I did nt knew about your site, I found it today so I am writing it to you because I found many resembling things in your report what i saw.((NUFORC Note:  We do not know if this is intended to be a serious report.  Report apparently was not submitted from an address in India.  Witness provides minimal personal information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61622.html](http://www.nuforc.org/webreports/reports/061/S61622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was outside when a weird looking object showed up a few miles from my house. Cylinder shaped with flashing lights at top and bottom.I was standing outside in my driveway when I noticed A large metallic, cylinder shaped object about 3.5 to 4 miles away. I ran inside to get my video cam. to film it but the batteries were dead. I then went back outside to find it. It was still in the same place as before but had what seemed to be "bright white lights" coming from it. A jet then flew over my head. I turned back to look for it but it was gone. It was very sunny outside so it was a little hard to look at it.((NUFORC Note:  Date is approximate.  Source is a middle school student.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28711.html](http://www.nuforc.org/webreports/reports/028/S28711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
