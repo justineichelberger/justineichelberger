@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:59 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was outside when a weird looking object showed up a few miles from my house. Cylinder shaped with flashing lights at top and bottom.I was standing outside in my driveway when I noticed A large metallic, cylinder shaped object about 3.5 to 4 miles away. I ran inside to get my video cam. to film it but the batteries were dead. I then went back outside to find it. It was still in the same place as before but had what seemed to be "bright white lights" coming from it. A jet then flew over my head. I turned back to look for it but it was gone. It was very sunny outside so it was a little hard to look at it.((NUFORC Note:  Date is approximate.  Source is a middle school student.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28711.html](http://www.nuforc.org/webreports/reports/028/S28711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Object floating in sky in far distance.I was looking through some digital pictures, just to see if I had anything in my images that could be a UFO.  This is what I found in my images.  I did not see the object when I took the pictures.On this day my wife and I were driving south on i-270 toward Manchester Blvd. from I-70.  I took pictures of the sky because of the clouds and sun.  I was not trying to find UFO'S.  You can contact me if necessary, but if not then don't.I will email the pics.((NUFORC Note:  We have viewed the photos.  One object is a lens flare; the other is a tiny, blurry dark object.  We have no reason to believe that it is a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68687.html](http://www.nuforc.org/webreports/reports/068/S68687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
