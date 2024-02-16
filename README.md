@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153788.html](http://www.nuforc.org/webreports/reports/153/S153788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Richland (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Feb 16, 8:30PM, Blue / Green fireball moving NW to SE over Southeastern Washington StateWhile driving home around 8:30pm on Sunday 2/16/03 a flash caught my attention.  I observed a blue green fireball moving roughly from the NW toward the SE and possibly desending.  It was quite bright and had a firey tail.  It dimmed momentarily and then was bright again.  I lost sight of it behind a hill.  The reason I thought it may be desending is I never saw it reappear from behind the hill. After the sighting I took a better look at the sky.  The sky had a thin layer of clouds with some stars showing. In my opinion the object was below the cloud layer.  My two daughters were in the car with me.  They saw a bright flash which got their attention but did not have a clear view of the object.((FOLLOW-UP COMMUNICATION WITH WITNESS))Mr. Davenport,I was looking toward the south.  It was moving from right to left.  I would say it's angle of descent was 30 to 40 degrees  ((name deleted))((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27730.html](http://www.nuforc.org/webreports/reports/027/S27730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
