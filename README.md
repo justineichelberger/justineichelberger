@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:59 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:08 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Object floating in sky in far distance.I was looking through some digital pictures, just to see if I had anything in my images that could be a UFO.  This is what I found in my images.  I did not see the object when I took the pictures.On this day my wife and I were driving south on i-270 toward Manchester Blvd. from I-70.  I took pictures of the sky because of the clouds and sun.  I was not trying to find UFO'S.  You can contact me if necessary, but if not then don't.I will email the pics.((NUFORC Note:  We have viewed the photos.  One object is a lens flare; the other is a tiny, blurry dark object.  We have no reason to believe that it is a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68687.html](http://www.nuforc.org/webreports/reports/068/S68687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Cracked windshields reported in at least 10 - 15 planes. Pilots reported no debris while in flight. Bad weather in midwest and in/near Denver Colo...but nothing out of the normal for them.  Mystery to people in Avaiation and pilots, etc.   UFO's playing games again?...they have been very active of late.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  We have no reason to believe that this peculiar incident is related to UFO's, but it is quite interesting.  Hence, we will post it.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55316.html](http://www.nuforc.org/webreports/reports/055/S55316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
