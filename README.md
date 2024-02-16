@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:35 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Enterprise (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A large white fireball with a smoke or vapor trail flew Northwest.At first I thought I was just seeing a jet with a large contrail, but the plume got wider and the object was a white ball with the streaming plume, which seemed to get larger as it flew from SE to NW.  It disappeared behind clouds.  I waited to see if I'd hear a sonic boom or anything, as I have seen space junk and a large meteor another time which made sonic booms, but nothing.  This was approx. 5 PM, I was walking my dogs which are a handful, so didn't think of looking at time.  I did snap a couple of pics, and will look to see how they came out.  That's all neighbor. ((NUFORC Note:  We have requested copies of the photos.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125887.html](http://www.nuforc.org/webreports/reports/125/S125887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small bright light observed flying in close proximity to what looked like a plane.After concluding a game of golf (Mt. Douglas Golf Course), my brother and I were returning to our car when to the east approximately 30 degrees above the horizon and 10 - 15 km away we witnessed what looked like a plane (typical cylindrical shape) flying in a southerly direction towards the Olympic Mountains. Obviously a plane flying along the Straight of Georgia in a path towards Seattle is normal, however the 'plane' was quite low in the sky (approximately 2000m) AND HAD ANOTHER CRAFT VERY CLOSE IN FRONT AND ABOVE THE NOSE OF THE PLANE SEEMINGLY GUIDING IT. The secondary craft was small...circular and white and it was approximately 50-100 metres in front and above the nose of what I believed to be a plane. For the duration of the event, the secondary craft remained at the same distance from the 'plane' except for a brief moment when the gap seemed to close...this may be due to a quick manouvre to the southeast; however the original distance between the two craft was soon recovered. After observing the craft for a few minutes, the craft were soon too far away to be seen in great detail, so my brother and I drove away. I am a 23 year old, home on vacation from working for a cruiseline in the Caribbean. I have a criminology degree and policing aspirations.My brother is 25 years old and a banker with a local credit union.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41983.html](http://www.nuforc.org/webreports/reports/041/S41983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
