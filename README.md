@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kill Devil Hills (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Looked like a ball of fire going fast across sky and disappear into the west sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125884.html](http://www.nuforc.org/webreports/reports/125/S125884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Barstow (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I know what i sawA guy i was working with spotted something in the sky.  I walked over and he said that stars strange.  I said why and he said.  It looks like its going straight up.  I started laughing at him and then that object kind of flipped over.  It started coming towards us and then the lights kind of dimmed out.  Then you could see the structure of the object.  It was huge. It was shaped like a skateboard from the late 80's.  It had 1 light (white) in the front middle with three lights in the back kind of triangle.   The three on the back were either two red one white or two white one red  There was tanker truck that flipped his truck within 5 minutes of the sighting.  We didn't talk to him.  We don't eve know if he is alive.  I bet he saw the ufo</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80104.html](http://www.nuforc.org/webreports/reports/080/S80104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
