@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A thin, jet stream like cloud appeared, along with stars that weren't previously visible.As I walked my dog down the street, I could only see 3 or 4 stars in the sky, the moon (about ¾ full), but the rest was just blackness.  I walked back down the street and glanced back up at the sky at the base of the driveway. Still, only those few stars and the moon were out. I walked about 5 steps up my driveway, taking about 6 seconds to do so, and I happened to glance back up. Out of nowhere, a jet stream-like cloud (?) had appeared and the sky had opened up to reveal 20-30 more stars, including the full constellation of Orion. The whole sky had seemingly opened up with light from the moon (which seemed much brighter for some reason). The line passed across the sky horizontally, slightly curved and bended in some places, but tightly packed and not dispersing. I quickly realized that it was moving to the left, and it was moving quite quickly. I saw that the band of cloud was below Orion’s belt and moving slightly upwards as it continued to move to the left.  Within another minute or so, it was directly on the belt, and not more than a minute or two later, it was above the entire constellation, and still moving fast, not at all like anything I’d ever seen before. On the right, I could see the end of it clearly now, which was dispersing slightly. Looking to the left, I could see that it went on for some while in a solid line, bending here and there, but remaining entirely and completely tight and not spreading out or fading away like a normal jet stream would. I continued to watch it for another minute and tried to get a picture, but it didn’t come out, even with the use of a very strong flash. I saw that the line was starting to look a bit fuzzier than when I’d first glimpsed it, and the end of the line had passed over the house now, leaving all those bright glittering stars as the only things in the sky directly above my house. I walked out into the street for a better view and saw in the distance that the line was very fuzzy now, but somehow still remaining in a distinct squiggly fas! hion, li ke it’d only been blurred, not smudged or erased. I ran inside and tried to look out the back balcony and see if the cloud (or whatever it was) was still moving in the same direction. It was gone, the sky looked slightly fuzzier and not as clear and sharp as when I’d first looked up, but the stars that weren’t there 10 minutes ago were still twinkling shining brightly as ever.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61653.html](http://www.nuforc.org/webreports/reports/061/S61653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Fe/Eldorado (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately pm - pm minutes.</sub><blockquote><sub>slow moving white light low altitude,no sound8slow moving big white light,no flash, no sound,about 500 ft in air, moving east, not a chopper, not a plane, way too low to be a sat.  planes were passing west much higher!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132666.html](http://www.nuforc.org/webreports/reports/132/S132666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
