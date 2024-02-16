@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright orange light cruising over Denver!!!  The orb went lights out and looked like a giant bubble. Silent too!My son saw the bright orange light in the sky going West to East in the sky.  I looked up and saw the same thing.  It appeared to be moving fast straight toward us with no sound.  We yelled for a person in house to come see.  The light went off and the altitude dropped just above tree top level.  We could still see it when it went lights out.   At that point it looked like a big bubble that was changing shape.  The thrid person saw it with lights off.  The orb Changed shape like a bubble blown with soap. The size was hard to tell but it looked to be 8 or 10 feet around.  Even though it drop in altitude it kept going directly in the path of the street until it was out of sight.  There was no wind, no noise and before it went black it was bright orange.  Most bizarre thing I have seen flying through the sky.  I hope I see one again.   :)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96356.html](http://www.nuforc.org/webreports/reports/096/S96356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153788.html](http://www.nuforc.org/webreports/reports/153/S153788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
