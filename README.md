@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:44 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Barstow (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I know what i sawA guy i was working with spotted something in the sky.  I walked over and he said that stars strange.  I said why and he said.  It looks like its going straight up.  I started laughing at him and then that object kind of flipped over.  It started coming towards us and then the lights kind of dimmed out.  Then you could see the structure of the object.  It was huge. It was shaped like a skateboard from the late 80's.  It had 1 light (white) in the front middle with three lights in the back kind of triangle.   The three on the back were either two red one white or two white one red  There was tanker truck that flipped his truck within 5 minutes of the sighting.  We didn't talk to him.  We don't eve know if he is alive.  I bet he saw the ufo</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80104.html](http://www.nuforc.org/webreports/reports/080/S80104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Glasgow (Ayrshire) (UK/Scotland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 lights in the sky stopping from high speed to 0 then moving across the sky eraticly no sound.i was standing doing the toilet next to a big security fence, waiting on a coach to come in for repair when i seen 4 round balls of light travelling across the sky at a good speed no noise, when they suddenly stopped and the outside lights travelled at great speed in diffirent directions in a sort of zig zag motion that is not possible for aircraft to do. i work in the automotive trade and i have never seen anything like this or cant explain what actually happened that night.  when the outside lights came back into the other 2 they stayed still for maybe 2 mins then shot away at great speed and no sound whatsoever.I am totally convinced that what i saw that night was not from this planet and would like some sort of recognition that what i saw was real.  i would like to hear back from anyone of similar situs thank you.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59718.html](http://www.nuforc.org/webreports/reports/059/S59718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
