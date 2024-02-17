@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw 2 lights over some tree tops in our back yard.we had a cookout for my father's 50 th birthday and before we lit up the birthday cake, my son ran out side we went after him and we seen that he was looking up at something.  When we looked, we saw 2 lights.  After a few minutes, they dissapeared on after another.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17866.html](http://www.nuforc.org/webreports/reports/017/S17866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>SUMMARY:  A LARGE CRAFT WITH FIVE SMALL FLOATING LIGHTS SURROUNDING IT, HOVERED OVER EDGEWOOD FOR A SHORT AMOUNT OF TIME THEN SEEMED TO VANISH.THE CRAFT HAD TWO SMALL ENGINES ON THE SIDES AND A LARGE HOLE IN THE MIDDLE.  IT HAD DISTINCTMARKINGS ON THE ENTIRE SHIPS HULL.  THEY ARE BELIEVED TO BE SOME KIND OF WRITING.  IT WAS ABOUT TEN FEET LONG AND FIVE FEET WIDE.  IT MOVED IN AN INTRICATE PATTERN AND SEEMED TO PUT ON A SHOW.  THE SHAPE WAS NOT DISK LIKE, IT WAS SHAPED LIKE A LARGE TAPE DISPENSER.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01994.html](http://www.nuforc.org/webreports/reports/001/S01994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
