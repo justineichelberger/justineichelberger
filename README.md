@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:37 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mukwonago (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Witnessed a strange light in the sky, a dark bright blue that blended with the sky.I was out side waiting to go for walks with my family, when in the distance i saw a light, at first i thought it was a airplane because they fly in and out of here all the time so its not unusual.  The thing that made me question whether it was an airplane or not is that the craft had no blinking lights, was a very odd dark bright blue color that seemed unatural, it was almost blending in with the sky.  It came from the distance first moving like an airplane, then it moved uncharacteristically of an airplane, it changed directions very fast and erractically.  What happend next made me feel uneasy, it accellerated so fast it went accross the sky and literally disapeared, just shot across the sky faster than any plane i've ever seen.  The whole time i heard not a thing, and whenever something is that close i always hear it, except this time.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43557.html](http://www.nuforc.org/webreports/reports/043/S43557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Crestview Hills (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange lights moving from south to north over northern Kentucky.At about 1130pm, as I took the dog out back to do his business, I saw 2 bright orange circular lights moving from south to north, close together, then another one, then 2 or 3--randomly at intervals of 30 seconds or so apart- for a total of 10-12.   They moved silently, at first at a low steady altitude.  They were to the west of me, not directly overhead.  We live close to a major airport (CVG) but these were not moving in an usual direction for normal air traffic patterns and also there is not any commercial air traffic at 1130pm on a Sunday night at CVG.  Plus, they were too close together to be aircraft.  I thought for a moment they might be helicopters, but they were completely silent.   And the lights were steady, bright orange-not blinking.  I ran inside to get my husband and my phone and binoculars.  By the time my husband got up to join me, we had to go out to the front to see them.  They were much higher in altitude by then, still moving steadily and! directly (not erratic) in movement, still to the north.  They were spread apart at various altitudes. We observed them moving away for a couple minutes and then returned inside.  I was not able to get any pictures of them.I am a 59 year old woman, married for 34 years to a now 61 year old man.  We are both college graduates.  I have worked for a major airline for 35 years.  My husband works part time.  We have lived in our current place for 2 1/2 years.  Neither of us has ever witnessed these lights before.  I frequently walk the dog late at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96354.html](http://www.nuforc.org/webreports/reports/096/S96354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
