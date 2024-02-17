@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:43 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anacortes (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>while viewing Washington state aviation camera of Anacortes airport from 7:15 am the camera captured these images((NUFORC Note:  We have looked at the photos.  One of the objects appears to us to be a great blue heron in flight.  We do not know what the other object is, but it has the general appearance and color of a seagull.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87233.html](http://www.nuforc.org/webreports/reports/087/S87233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Huntsville (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>I have been watching these lights...  One was different colours that was straight down like 4 or 5 colours to it then all of sudden I seen a bright light going in behind my bf house down  behind the trees now it's like , it looks like it is searching for something,  I have been looking thou the binoculars n I see different types of colours , this is so freaky, I have been watching this since 4:30 am and this isn't the first time I seen it, we live on North Portage Rd, Huntsville, Ontario n it's south east of the house, I don't have a camera only on my iPhone but it's too far away to take</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107195.html](http://www.nuforc.org/webreports/reports/107/S107195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
