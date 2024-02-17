@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Tilted object with lights in the night sky hovering, and traveling low.The object we saw was very low and proceeded to get lower as it passed.  It was shaped like an x, and on each side was two headlights.  We also spotted a red blinking light in the middle.  The object was turning to the left and proceeded to spin in the same direction.  It was traveling pretty quickly and it felt really close to us. It was hovering in one spot for a minute and as we got closer it tilted and was going downward progressing its speed.When we spotted it we were driving in the car and saw it in front of us and stopped to look at it.After about 5 minutes it was out of our sight. It went behind some houses.  Some other people I talked to said that they had seen it also.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87256.html](http://www.nuforc.org/webreports/reports/087/S87256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Portage (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It was a black figure almost like a "V" it had at least 60 lights it came down low I got a good look then took off in a blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125903.html](http://www.nuforc.org/webreports/reports/125/S125903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
