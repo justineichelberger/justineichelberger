@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:37 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:37 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Crestview Hills (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange lights moving from south to north over northern Kentucky.At about 1130pm, as I took the dog out back to do his business, I saw 2 bright orange circular lights moving from south to north, close together, then another one, then 2 or 3--randomly at intervals of 30 seconds or so apart- for a total of 10-12.   They moved silently, at first at a low steady altitude.  They were to the west of me, not directly overhead.  We live close to a major airport (CVG) but these were not moving in an usual direction for normal air traffic patterns and also there is not any commercial air traffic at 1130pm on a Sunday night at CVG.  Plus, they were too close together to be aircraft.  I thought for a moment they might be helicopters, but they were completely silent.   And the lights were steady, bright orange-not blinking.  I ran inside to get my husband and my phone and binoculars.  By the time my husband got up to join me, we had to go out to the front to see them.  They were much higher in altitude by then, still moving steadily and! directly (not erratic) in movement, still to the north.  They were spread apart at various altitudes. We observed them moving away for a couple minutes and then returned inside.  I was not able to get any pictures of them.I am a 59 year old woman, married for 34 years to a now 61 year old man.  We are both college graduates.  I have worked for a major airline for 35 years.  My husband works part time.  We have lived in our current place for 2 1/2 years.  Neither of us has ever witnessed these lights before.  I frequently walk the dog late at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96354.html](http://www.nuforc.org/webreports/reports/096/S96354.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bunschoten (Netherlands) () reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>it moved up and down and changed light-colorI looked from the roofwindow to the east and I saw some kind of a star flickering different colors of light, I thought it was kind a weird so I quickly got my binoculars and watches the "star", I thought it stood still but it moved very slowly up and down. After 15 minutes I quited watching.((NUFORC Note:  We suspect the individual may have been looking at a twinkling star, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27749.html](http://www.nuforc.org/webreports/reports/027/S27749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
