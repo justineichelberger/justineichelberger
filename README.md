@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10:40 - 10:40 minutes.</sub><blockquote><sub>Two blinking objects connect and then fly away togetherWas taking Dog out in yard to do his thing and as I looked up in the Eastern part of sky I saw a blinking object fly toward another blinking object and attached itself to the first blinking object.  For as long as I could see them the stayed attached until out of sight.  They were close enough to see what was happening but I could not tell what shape they were since I did not have my binoculars with me.  First time I have seen this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153363.html](http://www.nuforc.org/webreports/reports/153/S153363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw 2 lights over some tree tops in our back yard.we had a cookout for my father's 50 th birthday and before we lit up the birthday cake, my son ran out side we went after him and we seen that he was looking up at something.  When we looked, we saw 2 lights.  After a few minutes, they dissapeared on after another.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17866.html](http://www.nuforc.org/webreports/reports/017/S17866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
