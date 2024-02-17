@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Barrington (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Just before snow storm in Barrington  NH, 10+ orange glowing lights moving through sky, making no sound whatsoever.I stepped outside for a smoke last night at exactly 8:33pm, and when I looked in the sky, I saw a light moving from the eastern sky, moving tward the north, about 20-30 degrees from the horizon.  I then noticed that ther was another one coming up behind it. Then came another, and another, and they just kept coming. They where just bright, orange (almost shimmering) bright lights.  There was no flashing lights, and there was no landing / take off head lights on these.  Then there was two, almost on top of each other, and the one on top moved up and away (much too fast for conventional aircraft) and then I couldn’t see it.  But I could still see the one below it, moving at the same speed as before.  Then, to my amazement, one of these things shot down (out of nowhere) and stopped right on top of one of the lights (that was following the same path as the rest of these) and continued at the same speed as the one next to it.  Again, no conventional aircraft can make t! hese movements. I know how fighter jets, and helicopters move, very well. It was not any of those.Now, I saw these lights just minutes before a snow storm started.  It actually started to snow just seconds after I saw the last light disappear.  So, since it was extremely cloudy, with a very low ceiling, these objects couldn’t have been too far away, and they where completely silent. In fact, it was strange how quiet it became when these where passing by.  I say that, because I live near an Airforce base, and after I saw these objects, I could hear all kinds of military jets flying all around me overhead, but I could NOT see any of the lights from the aircraft flying over me.  The air base is only about 20 miles from my house, and they are very low when they fly over.  It's very strange, that I could see all of these lights, with no sound; and then right after, hear jets over me, but not see any of the lights from them. (Just minutes apart) I did take a video with my phone, but it’s very poor in the dark, and you can only see bits and pieces of what I was seeing. After I came back inside,  I went through the video, and at times when my camera picked up the lights, I went through frame by frame.  When I snapped screenshots of the frames where these where visible, I actually captured  blue lights around these orange lights. I didn’t see them when I was out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138854.html](http://www.nuforc.org/webreports/reports/138/S138854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Atwater (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange occuranceI'm sitting here having a cigarette and I look up at what my mind automaticllly thinks is a prop plane passing by but the only odd erie thing was it made absolutely no sound...? When I noticed that It was moving silently across the night sky, I shouted to my brother and he didn't think much of it at first until he also realized it made no noise...  It had  red and white blinking lights and seemed about 2,000 ft off the earth in elevation!? Are they just private aircraft contractors building silent planes or are they from alien worlds?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107197.html](http://www.nuforc.org/webreports/reports/107/S107197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
