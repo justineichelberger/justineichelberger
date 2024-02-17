@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 16 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:49 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Starkville (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright dot shot to the middle of the sky, stopped for 2 seconds and Shit away in a completely different directionI was driving home passing through Starkville, a very bright dot of light shot to the middle of the sky and stopped for about 2 seconds then shot in a different direction not to be seen anymore</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153369.html](http://www.nuforc.org/webreports/reports/153/S153369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mukwonago (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Witnessed a strange light in the sky, a dark bright blue that blended with the sky.I was out side waiting to go for walks with my family, when in the distance i saw a light, at first i thought it was a airplane because they fly in and out of here all the time so its not unusual.  The thing that made me question whether it was an airplane or not is that the craft had no blinking lights, was a very odd dark bright blue color that seemed unatural, it was almost blending in with the sky.  It came from the distance first moving like an airplane, then it moved uncharacteristically of an airplane, it changed directions very fast and erractically.  What happend next made me feel uneasy, it accellerated so fast it went accross the sky and literally disapeared, just shot across the sky faster than any plane i've ever seen.  The whole time i heard not a thing, and whenever something is that close i always hear it, except this time.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43557.html](http://www.nuforc.org/webreports/reports/043/S43557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
