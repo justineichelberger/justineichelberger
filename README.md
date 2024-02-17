@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Paradise Valley (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4:45am driving to work and got right under it to study,3 lights in a triangle, starting flying away when I started studing itI was driving to work at 4:45 am and saw these two lights from maybe a mile away. Getting closer i realized that these lights were not moving or blinking.  So I new it was not a plane.  When I got to where I needed to turn to go to work I pulled into the parking lot where the aircraft was hovering.  Then when looking at the ship closer and trying to get a better understanding of it, it started flying away from me. It didnt fly to fast but quick enough to get from where I was.  There was no noise and there were 3 lights on it in a triangle form.  It didnt disappear just maybe went about 5 miles easst of where I was, and got there in maybe 20 sec. Then I had to go to work before I was late. Creepy and weird.  I believe it to be nothing else but a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41994.html](http://www.nuforc.org/webreports/reports/041/S41994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Haslett (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Friend and I were coming back from picking her check up when we noticed a big triangle shaped object flying slow and very low over some trees. It had 5 or so green, red and white flashing lights on the bottom. There was a car in front of us that must have seen it too because they seemed to slow down as it was going over the trees to our right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61719.html](http://www.nuforc.org/webreports/reports/061/S61719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
