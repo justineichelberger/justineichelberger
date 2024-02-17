@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>SUMMARY:  A LARGE CRAFT WITH FIVE SMALL FLOATING LIGHTS SURROUNDING IT, HOVERED OVER EDGEWOOD FOR A SHORT AMOUNT OF TIME THEN SEEMED TO VANISH.THE CRAFT HAD TWO SMALL ENGINES ON THE SIDES AND A LARGE HOLE IN THE MIDDLE.  IT HAD DISTINCTMARKINGS ON THE ENTIRE SHIPS HULL.  THEY ARE BELIEVED TO BE SOME KIND OF WRITING.  IT WAS ABOUT TEN FEET LONG AND FIVE FEET WIDE.  IT MOVED IN AN INTRICATE PATTERN AND SEEMED TO PUT ON A SHOW.  THE SHAPE WAS NOT DISK LIKE, IT WAS SHAPED LIKE A LARGE TAPE DISPENSER.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01994.html](http://www.nuforc.org/webreports/reports/001/S01994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Streamwood (IL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object was first seen over the tree line coming down Schaumburg Rd before crossing barrington rd. The light was mostly bright blue with some red, which is something I hadn't even seen in a plane.  It also was not seeming to move hardly at all.Pulled over to parking lot of a market to get a closer look.  The shape of the lights seem to be solid, in a cross and continued to hover.  Hadn't ever seen anything like it.  Could not identify what shape what may have been with the lights.  Took a picture with my phone through the car window, most of which ended up being the window itself.  You can see a bright blue light, but no other detail.Before I could snap another picture, it started to very slowly lower down before it was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87234.html](http://www.nuforc.org/webreports/reports/087/S87234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
