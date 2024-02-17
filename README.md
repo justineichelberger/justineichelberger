@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Haslett (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Friend and I were coming back from picking her check up when we noticed a big triangle shaped object flying slow and very low over some trees. It had 5 or so green, red and white flashing lights on the bottom. There was a car in front of us that must have seen it too because they seemed to slow down as it was going over the trees to our right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61719.html](http://www.nuforc.org/webreports/reports/061/S61719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I looked out my window and there was a dancing circular object which then dissapered.About 10:30 PM I was sittin on my computer which is right by the window. I looked to my left out the window and I saw an extremely bright circular light. At First I though it was a reflection from our glass ball hall light projecting onto the window, until I discovered that the hall light was turned off. The object the began to move in wierd patterns. After about 1 minute it suddenly dissapered. At this point I my heart was racing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26966.html](http://www.nuforc.org/webreports/reports/026/S26966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
