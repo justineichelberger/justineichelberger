@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright ball of light seen flying above us no more than 50 feet away in Calgary Alberta.I was playing basketball out in Abbeydale this evening and it was getting dark. It was quite cloudy and you coudlnt see any stars. I was with 2 other friends, and I passed the ball to one of them for him to shoot. As I did, i turned the other way and looked at my friend who was looking up. I looked up as well and saw a white ball of light that was gliding across the sky with such perfection. This lasted for about 3 seconds, and then the light seemed to fade away really quick, as if the light scattered across the sky. I have seen meteor showers, and this looked nothing like it. Whats scarey is that It was so cloudy, that if this ufo was above the clouds we would not see it. I could tell that the object was no more than 50 feet above us when if flew by. The way it moved is undescribable. It moved in a straigh line, but with perfection. It was so bright, but did not have a tail behind it. It was so close to us though, and it did not make any noise as it floated across. Whats also very wierd is that there is a sighting posted by a man from Calgary in the January section on this sight. His sighting is very similar to ours, and whats really odd is that he saw it exactly one month before we saw ours. (His sighting occured January 17th, ours was February 17th) One other thing I should add is , the reason I have the exact date AND time of the sighting is because my cell phone rang as soon as we witnessed the object, and my phone recorded the time and date of the call.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21914.html](http://www.nuforc.org/webreports/reports/021/S21914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my rightA single bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it in les than .5 seconds, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my right</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05638.html](http://www.nuforc.org/webreports/reports/005/S05638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
