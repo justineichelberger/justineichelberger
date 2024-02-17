@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Panama City beach,east (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.17 - 4.17 minutes.</sub><blockquote><sub>Driving east side of the beach.saw four fire ball orbes the size of a pinky finger nail.  The event started when the first ball floated towards me two miles away three K high.  Each one came across an the count of 10 and straight up into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132703.html](http://www.nuforc.org/webreports/reports/132/S132703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Alpharetta (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Disc shaped object seen. It had small white lights circling around  it. It flashed for five seconds. Light,dark, light, dark pattern, and then one bright red light, then suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162099.html](http://www.nuforc.org/webreports/reports/162/S162099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
