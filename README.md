@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:37 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two clusters of orange flashing/flickering objects over Chandler.From Apache Junction, two clusters of bright orange lights could be seen approximately over the Chandler area.  One was higher than the other, and the lower was about level with the mountain.  The objects appeared square in nature, though the lights shimmered in a random fashion. Soon after spotting them initially, the lower faded away, and minutes later the other one did the same.  They faded away slowly, as if they were turned off. An image was captured, though low in quality, it clearly shows multiple sources of the same orange light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125914.html](http://www.nuforc.org/webreports/reports/125/S125914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lantana (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Constant streak of light in the westward sky, too high up to be in normal airspace, 6:20pmIt was about 6:20pm and my friend and I were leaving work when she noticed someting in the western sky. At first it looked like the backdraft of a jet, but there was no smoke and it was traveling all together, no trail of smoke was left behind. It was reddish orange and there seemed to be a small black dot in front of the red line. The best way to describe the object itself is it looked like a constant streak of light. It was moving southward, too high to be in normal airspace. It was moving very slowly at first, but then gradually sped up, slowed back down, and faded away. The colors never changed, and the object remained intact.((NUFORC Note:  If the witnesses were not looking at a contrail, illuminated by the setting sun, then we don't know what they witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35194.html](http://www.nuforc.org/webreports/reports/035/S35194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
