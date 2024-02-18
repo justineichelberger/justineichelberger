@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:18 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Glens Falls (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Erratic lights seen which exchanged position and flashed out and on again.At 10pm last night, 2/18/16, I observed two points of light jumping around a small portion of the sky.  A red light at 2:00 o'clock and a white light at 8 o'clock if we use the clock face illustration.  When I first focused my binoculars on them they immediately exchanged positions -the red went to the 8 o'clock position and the white to the 2:00 position.  Then they began do jump back and forth like for 30 to 45 seconds.  I could not tell if the moved between the intervening spaces or if they disappeared and re-appeared.  It was happening too fast to adjust my eyesight.  At one point the white light seemed to the circle the clock face.  I had to look away after 45 sec or so because it was straining my eyes.  I couldn't track one light without it becoming the other, but they seemed to return those same clock positions, and pause for a second or two.  This was the ultimate in watching erratic lights in the sky.  I don't know what the point of this activity would be, other than to attract attention and "show off".  I looked away again and looked back and the red light seemed to be lower in the sky, and the white light was higher, as if the clock face moved 15 degrees higher in the sky.  I went back and forth to the window for about twenty minutes and the 2 lights were still there, but "dancing" more slowly at the end.  I stopped watching before they disappeared.  Up to last night I had only witnessed white lights like this--the color red was new to my skywatching.  I had the "feeling" I would see something in the sky last night when at around 6pm,  I looked outside and saw it was a clear sky.  I've had that feeling before, and saw lights those times, too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125923.html](http://www.nuforc.org/webreports/reports/125/S125923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Glowing Globe of Lighti was going to my bed when i looked out the window and seen a large glowing globe out my window. at first it caught my eye as maybe an airplane as i do live near a military base. but the object lingered and it the glowing would get larger then it would go smaller then larger again. i grabbed my camera and popped the screen out of my window to try to take some pictures. the object was present for around 15 minutes. i went thru my parents room to the balcony to get better pictures. i woke my dad up and told him he needed to see this object. my dad thought it was just a helicopter and i told him no this doesnt look like any helicopter i have ever seen. he came outside and looked and he thought it looked kind of odd as well. i showed the pictures i took to my husband who is in the military thru the computer and he had no idea what they were of and said i should do some research to find out what i was looking at. please note the time on my camera is 1 hour ahead as i do not know how to change the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68793.html](http://www.nuforc.org/webreports/reports/068/S68793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
