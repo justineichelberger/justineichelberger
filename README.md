@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Levittown (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Red Light in the sky, got brighter glowing, then turned white and shot away through the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87264.html](http://www.nuforc.org/webreports/reports/087/S87264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>14 objects with bright red/orange lightsThe following event occurred between 9:15PM and 9:45PM on 2/18/19 at Birmingham, AL:To set the stage for what my wife and I observed, I need  to mention that our bedroom has a large bay area with seven windows which have plantation type shutters, covering the lower half of the windows, leaving  the upper portions open to the sky.  We can lie in bed and look out at the stars or passing aircraft in the sky.  On this particular night, the sky was clear.During the above time  frame, I was watching TV when my wife remarked, “What in the world is that? I looked out of one of the windows to observe something moving in the sky from a northwestern direction toward the southeast.  What we were looking at was something with a very bright red light on top of an orange light.  We at first thought it was a helicopter but I have never seen a helicopter with that type lighting.  My wife then said, “Look, there is another one.”  I remarked that there must be a bad wreck, and they are sending two helicopters.  (It is noted that we live near a hospital, and it is not unusual for us to see and hear helicopters at night).  We the saw a third object ; and then a fourth; fifth and sixth.  All of these objects looked alike with the same red and orange lights.  All six of  these objects were visible at one time.My wife jumped out of bed and went to the other end of our house to see where these objects were going.  They kept coming about fifteen seconds apart.  We observed a total of fourteen of these object, all with the same lights.All of these objects followed the same path and seemed to be traveling at  about  the speed of a helicopter. Some of them seemed to be at an altitude of about 2,000 feet and some at about 1000 feet although this is only a guess.  As they passed not far from our house, they seemed to climb to the southeast and then disappear.The fact that we never heard any sound from these objects caused us to think they might be  drones but why would there be fourteen of them all going the same route?  We were never able to see any frame as all we could focus on were the bright red and orange lights.There is nothing of interest known to us that would be on the course that these objects took.((NUFORC Note:  We spoke via telephone with the husband, and we found him to be exceptionally eloquent and serious-minded.  We suspect that both he and his wife are unusually reliable witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145014.html](http://www.nuforc.org/webreports/reports/145/S145014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
