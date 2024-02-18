@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lebanon (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>wierd craft hovering over state route 48 in lebanonon my way to school i saw two white lights in the distance. i was confused because i drive that route every day and dont remember those lights on the horizon. did they put up a new radio tower? as i got closer the lights proved to be attached to something. i pulled up to a red light. there was a car next to mine with a man and his teenage son inside. they were both looking up and i saw the man mouth to his son "what is that?" it was hovering right over the road. it was about the size of a suv. a dark charcoal gray color, it was a wierd shape. almost like a turtle. it had a pointed front end, then coming off the sides were rectangular 'wings' that had the lights i saw from the distence attached to either end. at the back were two smaller pointed protrusions. i dont know how long the craft had been there when i got there or who else mightve seen it. i had to get to school so i slowly drove away.i dont know how long it stayed after i left but it was hovering ov! er state route 48 at the intersection after cook road if youre going towards wal mart. i rolled down my window and it was completely silent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85319.html](http://www.nuforc.org/webreports/reports/085/S85319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hingurakgoda (Sri Lanka) () reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Golden, shining object in the  Sri Lanken sky -18th sept 03 at 1715hrson that evening we were playing soft ball cricket on the Air force grounds.At about 1715hrs one of the player had showed some thing in the sky in the last light moving slowly to the left side of the mountains it was a stick shaped shining object in gold colour.to my knowledge it was about 50 km away from us hight will be about 5000ft we checked from the radar & there were no air crafts air boned at that time.((NUFORC Note:  We have inquired whether the witness, a military officer, might have witnessed a distant airliner, with a contrail behind it.  However, eight minutes probably is longer than an airliner cruising at altitude would be visible from one point on the Earth's surface.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27857.html](http://www.nuforc.org/webreports/reports/027/S27857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
