@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:50 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Toney (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>UFO sighting in hazel green, Toney, Alabama.I was taking a walk when i looked up and noticed a ufo approaching me overhead about tree line.  Then there were bright lights that were shown down in a column shape.  The light shown directly on me for quite awhile.  And then it started moving away shinning its light all over the ground in all directions.  It made absolutely no noise as it moved away. The center under ufo was very bright.  I was very scared and got on my knees and prayed before it started moving away.  It headed in a northerly direction.((NUFORC Note:  Witness elects to provide no contact information.  We suspect that the sighting may have during the evening, not the morning.  We have amended the time above, to reflect a sighting at 20:15 hrs. on February 18, 2014.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107240.html](http://www.nuforc.org/webreports/reports/107/S107240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Short - Short minutes.</sub><blockquote><sub>Bright turquoise light in Sacramento, CAOn the way home from performing a gig, I saw a bright turquoise object drop very fast from the top of my windshield to below the tree line.  I was on the east side of the Sacramento river, facing west, having just come off Sutterville road and about turn on Riverside. It appeared to be just on the west side of the river, not quite straight ahead, and it was just a little to the right. My first guess was that it was a meteor, and I looked all over the local news next day for stories of a meteor hitting the ground somewhere in west Sacramento, but there was no story. According to a map of the area, the most probable area of impact was in a place with very few streets, which probably means very few houses. It may have struck and not been noticed, or it may not have hit the ground at all. That is what makes it interesting. It should have struck the ground after it went below the top of the trees. It wound seem unlikely for a meteor to evaporate just a couple of hundred feet before it reaches the ground. They usually do so while still high in the atmosphere. I have seen a few of them do just that. It crossed the entire arc of visibility (to me) in less than a second, and did not fade or slow down as it went, as it would have if it was going straight across the sky from behind me. If it was farther away than west Sac, or moving horizontally at high altitude, it had to be huge, and going at an unimaginable speed. It appeared round, and I estimate its size to be about half the diameter of a dime held at arms length. It appeared a little bit fuzzy, so I can't be more exact than that. These flashes in the sky are interesting, but I have never seen anything I can positively identify as an alien vehicle of any sort. I will watch this site to see if anyone else saw this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55376.html](http://www.nuforc.org/webreports/reports/055/S55376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
