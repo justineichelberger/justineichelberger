@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:42 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Lighted object observed strobing red, white & blue while completely stationary for apx. 20 mins. at altitude. Visual confirmation by ATC.On 02-18-99, at 0200, I observed an object in the sky approximately 30 degrees above the horizon, northwest (approximately 315 degree magnetic)of the intersection of US 1 and Edgewood Ave. in Jacksonville, FL. Initially the object appeared to be a brighter than normal star and was noticed to shift colors, thought to be due to atmospheric distortion; however, it was determined to be otherwise.  It was noticed that the object was strobing or changing from red to blue to white in a random order, but was clearly not a star or a planet.  It was observed through binoculars by myself and several other police officers, which verified the color changes, but no definitive shape of the object could be determined, because of the distance.  I made telephone contact with the tower at Jacksonville International Airport (JIA) and a controller visually confirmed the object west of his position (240 to 270 degrees), but informed me that he had no radar returns in that area, indicating that it was not an aircraft. (The airport was about 8 miles north of my location.)  The controller even joked that it could be a "UFO".  Because the object remain completely motionless at altitude for an extended period, we ruled out a helicopter or fixed-wing aircraft.  The tower also assisted in ruling out a antenna, tower, or balloon.  After watching the object for several minutes I was distracted by more immediate business and when I return my attention to looking for it, it was gone.  I have not idea in which direction it proceeded.  If needed I can provide more specific directional and angle information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08394.html](http://www.nuforc.org/webreports/reports/008/S08394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange orb with some intelliganceI'm a licensed guard working at night, driving thru a gated community.  When facing west and looking up, I noticed a orange sphere in the sky.  It looked like it was 400 ft. up.  I shined my bright flash light on it and it slowed down and bobbed up and down.  Then I grabbed my cell phone to record the scene, but in my panic I forgot to push play.The strangest thing, it looked to be intelligent, because it slowed down behind the tree tops to where it stayed at of my site.  I walked a few steps to get a view of the orb and it vanished to the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107255.html](http://www.nuforc.org/webreports/reports/107/S107255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
