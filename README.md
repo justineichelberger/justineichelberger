@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lantana (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Constant streak of light in the westward sky, too high up to be in normal airspace, 6:20pmIt was about 6:20pm and my friend and I were leaving work when she noticed someting in the western sky. At first it looked like the backdraft of a jet, but there was no smoke and it was traveling all together, no trail of smoke was left behind. It was reddish orange and there seemed to be a small black dot in front of the red line. The best way to describe the object itself is it looked like a constant streak of light. It was moving southward, too high to be in normal airspace. It was moving very slowly at first, but then gradually sped up, slowed back down, and faded away. The colors never changed, and the object remained intact.((NUFORC Note:  If the witnesses were not looking at a contrail, illuminated by the setting sun, then we don't know what they witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35194.html](http://www.nuforc.org/webreports/reports/035/S35194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Massena (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White cylinder seen in Massena, New York.On our way home from the store, my friend and I thought we saw a ufo.  It was a bright white cylinder. It was going pretty fast and disappeared a few times.  When we got to the house, I tried to get a picture with my phone, but it couldn't zoom in enough.  I went in the house to get my camera, but it was gone by the time I got back.  In the same area, there was now what looked like a star, but it elongated into a cylinder, then two stars.  I thought my eyes were playing tricks because its the same location of the north star.  I figure it may have just appeared to be doing these things.   did take a picture and it is a cylinder.  Not from camera movement because nothing else has motion blurs in the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148980.html](http://www.nuforc.org/webreports/reports/148/S148980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
