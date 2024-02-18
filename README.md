@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:15 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:37 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bradford (West Yorkshire) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright orange ball of light see in Allerton, BradfordI was at my kitchen window when I saw, what can only be described as a bright orange ball of light coming towards us.  At first I got scared thinking it was a meteorite or something so I shouted my grandmother to come and look.The object then seemed to slow down, changed direction then carried on moving.  There was no noise whatsoever, so I don’t believe it was an aircraft of any sort.  It was very bright; it was almost difficult to see the shape properly although it did look circular.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96372.html](http://www.nuforc.org/webreports/reports/096/S96372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two clusters of orange flashing/flickering objects over Chandler.From Apache Junction, two clusters of bright orange lights could be seen approximately over the Chandler area.  One was higher than the other, and the lower was about level with the mountain.  The objects appeared square in nature, though the lights shimmered in a random fashion. Soon after spotting them initially, the lower faded away, and minutes later the other one did the same.  They faded away slowly, as if they were turned off. An image was captured, though low in quality, it clearly shows multiple sources of the same orange light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125914.html](http://www.nuforc.org/webreports/reports/125/S125914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
