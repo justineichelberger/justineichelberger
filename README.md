@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hingurakgoda (Sri Lanka) () reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Golden, shining object in the  Sri Lanken sky -18th sept 03 at 1715hrson that evening we were playing soft ball cricket on the Air force grounds.At about 1715hrs one of the player had showed some thing in the sky in the last light moving slowly to the left side of the mountains it was a stick shaped shining object in gold colour.to my knowledge it was about 50 km away from us hight will be about 5000ft we checked from the radar & there were no air crafts air boned at that time.((NUFORC Note:  We have inquired whether the witness, a military officer, might have witnessed a distant airliner, with a contrail behind it.  However, eight minutes probably is longer than an airliner cruising at altitude would be visible from one point on the Earth's surface.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27857.html](http://www.nuforc.org/webreports/reports/027/S27857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chandler (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lighted object larger than a commercial a/c hovering above a tree line.Witness had walked outside to his truck, then noticed something unusual above the field at the end of the road.  A lighted object, much larger than a commercial aircraft, was hovering over the tree line.  He lost the object behind the trees for a moment when he took some items from the truck, inside.  When he went back outside, the object had started ascending upward slowly like a leaf falling, sometimes zig zagging back and forth as it ascended.  He yelled for his wife to check it out and she witnessed it traveling upward in a zig zag fashion.  It finally disappeared behind a cloud.  After his wife went back inside,  When he turned around on the porch to go inside he saw an identical object in the sky to the NW ASCENDING in the same leaf like manner. 10 mins. (MUFON 54145)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139692.html](http://www.nuforc.org/webreports/reports/139/S139692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
