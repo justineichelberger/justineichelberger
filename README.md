@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Reflective solid object hung motionless in the sky before shooting off at an extremely high rate of speed.Around 12:30 in the afternoon, I and one other person noticed a round metallic object hovering in the sky.  I'm making an educated guess based on the cirrus clouds in the sky with the object, that it was around 17000 feet in the air.  Although it was so high it was very easy to notice because it had a very shiny, metallic surface (like tin foil or stainless steel) and reflected the sunlight.  It appeared to be a single, solid object.  I am unable to to determine how large it was, only that it was very easy to see, as the sky was almost totally clear.  The object made no sound as it hung there motionless for about 1 minute.  I had enough time to point the object out to my friend and give him at least 20 uninterrupted seconds to observe it too.  The object then took off so fast that it almost seemed to have disappeared.  It left so quickly that I would have missed it had been blinking.  At that point I realized what we saw wasn't an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119362.html](http://www.nuforc.org/webreports/reports/119/S119362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Repeated sightings.This is the third time I have witnessed this craft. It had the exact same flight pattern in the same area as my last sighting a few months prior, but at a different time. First off in the distance it looked like a flashing star, but the movement was surreal. It was moving wild and zigzagging. At this point it has a very strange and eerie sound... a vibration type noise like wubwubwubwub. As it got closer into view it revealed the same red blinking light on its black frame as i observed in the previous sighting. But also as it came close into view the eerie sound faded and was gone and gracefully glid in the air and off into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49179.html](http://www.nuforc.org/webreports/reports/049/S49179.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
