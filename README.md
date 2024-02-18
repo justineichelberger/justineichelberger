@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Repeated sightings.This is the third time I have witnessed this craft. It had the exact same flight pattern in the same area as my last sighting a few months prior, but at a different time. First off in the distance it looked like a flashing star, but the movement was surreal. It was moving wild and zigzagging. At this point it has a very strange and eerie sound... a vibration type noise like wubwubwubwub. As it got closer into view it revealed the same red blinking light on its black frame as i observed in the previous sighting. But also as it came close into view the eerie sound faded and was gone and gracefully glid in the air and off into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49179.html](http://www.nuforc.org/webreports/reports/049/S49179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Massena (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White Cylindrical ufoOn our way home from the store, my friend and I thought we saw a ufo. It was a bright white cylinder.  It was going pretty fast and disappeared a few times.  When we got to the house, I tried to get a picture with my phone, but it couldn't zoom in enough.  I went in the house to get my camera for a better picture, but it was gone when I returned. In the same area, there was now what looked like a star, but it elongated into a cylinder, then two stars. I thought my eyes were playing tricks because its the same location of the north star. I figure it may have just appeared to be doing these things.  I did take a picture and turns out it is a cylinder.  Not from camera movement because nothing else in the picture has motion blurs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132691.html](http://www.nuforc.org/webreports/reports/132/S132691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
