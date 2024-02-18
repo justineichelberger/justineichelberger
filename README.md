@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 17 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Streamwood (IL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object was first seen over the tree line coming down Schaumburg Rd before crossing barrington rd. The light was mostly bright blue with some red, which is something I hadn't even seen in a plane.  It also was not seeming to move hardly at all.Pulled over to parking lot of a market to get a closer look.  The shape of the lights seem to be solid, in a cross and continued to hover.  Hadn't ever seen anything like it.  Could not identify what shape what may have been with the lights.  Took a picture with my phone through the car window, most of which ended up being the window itself.  You can see a bright blue light, but no other detail.Before I could snap another picture, it started to very slowly lower down before it was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87234.html](http://www.nuforc.org/webreports/reports/087/S87234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Toney (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>UFO sighting in hazel green, Toney, Alabama.I was taking a walk when i looked up and noticed a ufo approaching me overhead about tree line.  Then there were bright lights that were shown down in a column shape.  The light shown directly on me for quite awhile.  And then it started moving away shinning its light all over the ground in all directions.  It made absolutely no noise as it moved away. The center under ufo was very bright.  I was very scared and got on my knees and prayed before it started moving away.  It headed in a northerly direction.((NUFORC Note:  Witness elects to provide no contact information.  We suspect that the sighting may have during the evening, not the morning.  We have amended the time above, to reflect a sighting at 20:15 hrs. on February 18, 2014.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107240.html](http://www.nuforc.org/webreports/reports/107/S107240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
