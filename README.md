@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:15 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Glowing Globe of Lighti was going to my bed when i looked out the window and seen a large glowing globe out my window. at first it caught my eye as maybe an airplane as i do live near a military base. but the object lingered and it the glowing would get larger then it would go smaller then larger again. i grabbed my camera and popped the screen out of my window to try to take some pictures. the object was present for around 15 minutes. i went thru my parents room to the balcony to get better pictures. i woke my dad up and told him he needed to see this object. my dad thought it was just a helicopter and i told him no this doesnt look like any helicopter i have ever seen. he came outside and looked and he thought it looked kind of odd as well. i showed the pictures i took to my husband who is in the military thru the computer and he had no idea what they were of and said i should do some research to find out what i was looking at. please note the time on my camera is 1 hour ahead as i do not know how to change the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68793.html](http://www.nuforc.org/webreports/reports/068/S68793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bradford (West Yorkshire) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright orange ball of light see in Allerton, BradfordI was at my kitchen window when I saw, what can only be described as a bright orange ball of light coming towards us.  At first I got scared thinking it was a meteorite or something so I shouted my grandmother to come and look.The object then seemed to slow down, changed direction then carried on moving.  There was no noise whatsoever, so I don’t believe it was an aircraft of any sort.  It was very bright; it was almost difficult to see the shape properly although it did look circular.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96372.html](http://www.nuforc.org/webreports/reports/096/S96372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
