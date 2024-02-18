@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 18 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange orb with some intelliganceI'm a licensed guard working at night, driving thru a gated community.  When facing west and looking up, I noticed a orange sphere in the sky.  It looked like it was 400 ft. up.  I shined my bright flash light on it and it slowed down and bobbed up and down.  Then I grabbed my cell phone to record the scene, but in my panic I forgot to push play.The strangest thing, it looked to be intelligent, because it slowed down behind the tree tops to where it stayed at of my site.  I walked a few steps to get a view of the orb and it vanished to the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107255.html](http://www.nuforc.org/webreports/reports/107/S107255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Reflective solid object hung motionless in the sky before shooting off at an extremely high rate of speed.Around 12:30 in the afternoon, I and one other person noticed a round metallic object hovering in the sky.  I'm making an educated guess based on the cirrus clouds in the sky with the object, that it was around 17000 feet in the air.  Although it was so high it was very easy to notice because it had a very shiny, metallic surface (like tin foil or stainless steel) and reflected the sunlight.  It appeared to be a single, solid object.  I am unable to to determine how large it was, only that it was very easy to see, as the sky was almost totally clear.  The object made no sound as it hung there motionless for about 1 minute.  I had enough time to point the object out to my friend and give him at least 20 uninterrupted seconds to observe it too.  The object then took off so fast that it almost seemed to have disappeared.  It left so quickly that I would have missed it had been blinking.  At that point I realized what we saw wasn't an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119362.html](http://www.nuforc.org/webreports/reports/119/S119362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
