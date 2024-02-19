@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:59 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:02 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stevensville (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Moving bright object over St. Mary's Peak.Around 06:50, I was looking to the west at St. Mary's Peak. I saw a bright object appear over the peak.  It moved straight to the right a small distance, then vanished.  The skies were clear.  It was white in color.((NUFORC Note:  Dramatic meteor at 05:28 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61701.html](http://www.nuforc.org/webreports/reports/061/S61701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vienna (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light that began to dim, it was rotating and flashing orange, yellow and red colors then picked up speed and it was gone.Driving down the road, I noticed a big glowing light.  I watched the light cause I have never seen such a big bright light like that in the sky before.  It was very dark outside, and as I watched this light get closer it began to dim.  It was now behind us and you could see it rotationg with orange, yellow, and red lights flashing and moving on this object.   As it began to move into the distance it picked up speed, and it was gone within 6-7 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87368.html](http://www.nuforc.org/webreports/reports/087/S87368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
