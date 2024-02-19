@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Tan Valley (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Travelling south in San Tan valley, AZ, I saw 5 lights low in the western sky.  3 were linear and 2 were cross/star shaped and bright.  The linear lights were fading in and out to the point it was hard to see them, one of the star shaped faded out to a bright linear and the biggest "star" stayed for about 10 minutes before turning into a bright linear, brighter than the others.  After about 15 minutes only 4 were visible, one traveling south (the direction I was headed and followed the same direction.  I should note that there were two airplanes in the sky as well, both traveling toward it but turned around and headed the opposite way as it got closer to the 5 lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144947.html](http://www.nuforc.org/webreports/reports/144/S144947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Churchville (PA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>After hearing helicopter in area for approx 5 minutes, I looked out window and coming from South to North is a helicopter.  As it flys slowly over my house, I notice flying object with only one bright, steady light, heading in same direction but east of helicopter.  At this moment I then notice 3 other flying objects with traditional lights similiar to helicopters.  These 3 other crafts were at different altitudes and spread out and appeared to be following this craft with the steady, single white light.Due to my vantage point, I could only observe the craft with the bright white light for approx 3-5 seconds.  The original helicopter continued in a northerly path until it faded away.What stood out to me was that I heard the original helicopter hovering in area for approx. 5 minutes, prior to looking out window and then seeing it moving over my house as the craft with bright white light came into view moving in same direction, "leading the pack" if you will.I am an adult, with a trained professional background.((NUFORC Note:  Source provides not information about sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125946.html](http://www.nuforc.org/webreports/reports/125/S125946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
