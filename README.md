@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:38 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Churchville (PA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>After hearing helicopter in area for approx 5 minutes, I looked out window and coming from South to North is a helicopter.  As it flys slowly over my house, I notice flying object with only one bright, steady light, heading in same direction but east of helicopter.  At this moment I then notice 3 other flying objects with traditional lights similiar to helicopters.  These 3 other crafts were at different altitudes and spread out and appeared to be following this craft with the steady, single white light.Due to my vantage point, I could only observe the craft with the bright white light for approx 3-5 seconds.  The original helicopter continued in a northerly path until it faded away.What stood out to me was that I heard the original helicopter hovering in area for approx. 5 minutes, prior to looking out window and then seeing it moving over my house as the craft with bright white light came into view moving in same direction, "leading the pack" if you will.I am an adult, with a trained professional background.((NUFORC Note:  Source provides not information about sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125946.html](http://www.nuforc.org/webreports/reports/125/S125946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Aircraft-size disk hovering in sky soundlessly with blue lights on its perimeter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05627.html](http://www.nuforc.org/webreports/reports/005/S05627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
