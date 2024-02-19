@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seatac (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An extremely bright light in the sky very high up and moving west to east.I am currently a lead crew chief mechanic with a major airline at Seatac airport and have commercial instrument and multi engine pilot ratings with an air taxi and airline pilot background.The object appeared as an extremely bright light. It was much larger than any nearby star and also much brighter.  It appeared to move at about the speed of a jet aircraft at high altitude. It was so bright as to be almost painful to look at. It lasted perhaps 10 seconds and then blinked off. When my eyes readjusted to the night I could see a very dim white light moving in the same direction and at the same speed. My position was on Seatac airport, the night was a rare, clear, cold night and no one else in my area saw it that I know of. I have tried to resolve my sighting by compairing the time and position of this object with data in the "heavens-above" website data for satellites in my area but can not resolve the time of the sighting to corespond with the timing in that data. There is aproximatley a 40 min difference involved with my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12083.html](http://www.nuforc.org/webreports/reports/012/S12083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Golden (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange Noise In Golden CO AreaStrange noise in the area of Golden.  It could have been an airraid siren, but I haven't heard of any reports that were given about an airraid siren test.  This happened around 2pm MST on 02/19/2002, we were standing outside of one of the Federal buildings when the so called 'noise' started.  It sounded like wind going through a tight crack but then it changed to sounding like a siren, we couldn't tell.  We were out in the open, and the wind never ever sounded like that.  I was looking for possible aircraft that might have flown overheard but saw nothing. Weather was partly cloudy/mid 50s and a little breezy.  Other than the wind, it was a perfect day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21940.html](http://www.nuforc.org/webreports/reports/021/S21940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
