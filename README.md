@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light above the mountians north of Rancho CucamongaThere was a very bright light hovering above part of a mountain north of Rancho Cucamonga. It was an orange/yellow light that would change to red and green. I first saw it when I was some 10 miles away and I drove right past it. It was to high off the mountain to be a communication tower, there is none there. It was to slow to be an airplane, and it was far and to windy in the Cajon Pass to be a helicopter. I drove on three sides of the mountain and the light never dimmed, nor did it look like it struggled to move in the wind like an aircraft would in such high wind. I watched it move slowly a few miles when I lost sight of it behind another mountain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68919.html](http://www.nuforc.org/webreports/reports/068/S68919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Decatur (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>light above eastern horizon moving slowly south about 4 clicks up, due southeast.from my position its about 3 to 5 clicks above eastern horizon heading south slowly.  its either turning or dimming and brightening.  i can still see it.  No other lights or stars are out, its cloudy or foggy.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80129.html](http://www.nuforc.org/webreports/reports/080/S80129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
