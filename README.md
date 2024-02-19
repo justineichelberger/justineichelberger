@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shrewsbury (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 lights appeared right in front of airplane I was watching in the sky.  They were close together, then moved apart and further from airplane as it passed by them, then 5 more lights appeared.  One larger with a smaller light on opposite sides, another one a little smaller and  the rest same size as the first 2.  They moved in regards to each other a little, didn't make a symmetrical formation, flew from north-west to south-east at steady speed.  I ran home to get the camera, when I got back, they disappeared except 1 small one.  It disappeared within a minute or so.  I didn't get a good shot.  :(</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132707.html](http://www.nuforc.org/webreports/reports/132/S132707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Smithland (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright blue sphere near Smithland, IAI saw a blue light to the south of the highway.  It was a ways away so I thought it may be an emergency vehicle on a gravel road.  As I was nearing the hill, the blue light got closer.  In the blink of an eye it went directly over the top of me.  It was so bright, I could not see out of my car!  All of the lights on my car went out including my headlights and all interior lights just for a second but my car engine did not stall.  It was going from south to north, when I looked to the north to see where it went, it was gone.  I have seen other objects near this same area, I don't know if it is a "hot spot" or I am just so special I get to see all these things.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61803.html](http://www.nuforc.org/webreports/reports/061/S61803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
