@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:38 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Aircraft-size disk hovering in sky soundlessly with blue lights on its perimeter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05627.html](http://www.nuforc.org/webreports/reports/005/S05627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shrewsbury (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 lights appeared right in front of airplane I was watching in the sky.  They were close together, then moved apart and further from airplane as it passed by them, then 5 more lights appeared.  One larger with a smaller light on opposite sides, another one a little smaller and  the rest same size as the first 2.  They moved in regards to each other a little, didn't make a symmetrical formation, flew from north-west to south-east at steady speed.  I ran home to get the camera, when I got back, they disappeared except 1 small one.  It disappeared within a minute or so.  I didn't get a good shot.  :(</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132707.html](http://www.nuforc.org/webreports/reports/132/S132707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
