@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Malo (Ferry County) (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>My 19 Year old son saw this from his room window while he was up late doing homework.My 18 yr ol boy came down to me the minute it happened. He asked if we had just see that? I said what. He said I dunno? It was a bright, green and red fireball like thing. He said it appeared to be moving in a downward direction from West to East...and he said it wasn't real fast but seemed slower than a meteorite might have been and way bigger. We speculated later as to whether it might be the satellite which was supposed to enter earth on the 19th or so.....but decided that it was probably wrong trajectory and direction. My son is gone off for State B Basketball Championships. He may be able to describe it more when he gets home in a few days. You may contact us via email. Our email address may be given out as may this note, but not our private address or phone number. You may use the City name, and state name.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12182.html](http://www.nuforc.org/webreports/reports/012/S12182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light above the mountians north of Rancho CucamongaThere was a very bright light hovering above part of a mountain north of Rancho Cucamonga. It was an orange/yellow light that would change to red and green. I first saw it when I was some 10 miles away and I drove right past it. It was to high off the mountain to be a communication tower, there is none there. It was to slow to be an airplane, and it was far and to windy in the Cajon Pass to be a helicopter. I drove on three sides of the mountain and the light never dimmed, nor did it look like it struggled to move in the wind like an aircraft would in such high wind. I watched it move slowly a few miles when I lost sight of it behind another mountain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68919.html](http://www.nuforc.org/webreports/reports/068/S68919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
