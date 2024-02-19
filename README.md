@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Clinton Township (MI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large, intense fiery orange light centered in a chevron, moving silently and slowly in the low night sky.Large, intense fiery orange light centered in a chevron, that appeared to move silently and slowly towards us (from southwest to northeast) in the low night sky. Changed course, then slowly disappeared in the southeast direction.  Fourth sighting in six months.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74427.html](http://www.nuforc.org/webreports/reports/074/S74427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Tan Valley (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Travelling south in San Tan valley, AZ, I saw 5 lights low in the western sky.  3 were linear and 2 were cross/star shaped and bright.  The linear lights were fading in and out to the point it was hard to see them, one of the star shaped faded out to a bright linear and the biggest "star" stayed for about 10 minutes before turning into a bright linear, brighter than the others.  After about 15 minutes only 4 were visible, one traveling south (the direction I was headed and followed the same direction.  I should note that there were two airplanes in the sky as well, both traveling toward it but turned around and headed the opposite way as it got closer to the 5 lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144947.html](http://www.nuforc.org/webreports/reports/144/S144947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
