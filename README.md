@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Springfield (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Light shoots quickly across the sky.At around 7, I was at a scout event taking place outside.  Then, randomly, there was this light shooting across the sky. I didn't think anything of it then.  But, afterwards, I realized it shot across the whole distance of the sky in about 2-3 seconds.  It had no noticeable shape, just some kind of light.  There was also a noise that sounded light a car passing by at a fair distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87066.html](http://www.nuforc.org/webreports/reports/087/S87066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Atchison (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Object appeared to be at extremely high altitude moving from north to south without sound and at 2500+ mph.  I could see it moving south for about 15 miles in less than 10 seconds then suddenly taking abrupt right turn heading west and disappearing from view in 2-3 seconds.  It had one visible non flashing dim white light as it approached and two dim red lights as it flew west and vanished.  Appeared to be flying near outer space.  Sharp west turn seemed impossible for piloted flight within earths atmosphere at the incredible speed object was traveling.  I guess it to be some type of space survellance craft because no sound detected.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132739.html](http://www.nuforc.org/webreports/reports/132/S132739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
