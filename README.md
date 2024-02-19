@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Falling Waters (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 23:18 - 23:18 minutes.</sub><blockquote><sub>Starlike object which dissapeared very strangely.The sighting took place sometime between 11:00 and 11:18 pm.The time of the sighting is unsure.I only saw it for about 45 to 90 seconds.It then dissapeared.The object was a little larger than an average sized star that was in the sky.It was white and yellow colored and was outlined in green at certain times.It was a very clear night with lots of stars in the sky and a full moon.My dog was acting very out of character and hyper all night so I went to check on him and thats when I seen it.Other dogs in the neighborhood were also barking.When it dissapeared it got smaller and smaller turning very dark yellow before eventually dissapearing all together.I don't think it was an alien space craft or anything but it was surely a strange sight.It was spotted in the northern sky towards hagerstown md along interstate 81 near a radio tower.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61727.html](http://www.nuforc.org/webreports/reports/061/S61727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Malo (Ferry County) (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>My 19 Year old son saw this from his room window while he was up late doing homework.My 18 yr ol boy came down to me the minute it happened. He asked if we had just see that? I said what. He said I dunno? It was a bright, green and red fireball like thing. He said it appeared to be moving in a downward direction from West to East...and he said it wasn't real fast but seemed slower than a meteorite might have been and way bigger. We speculated later as to whether it might be the satellite which was supposed to enter earth on the 19th or so.....but decided that it was probably wrong trajectory and direction. My son is gone off for State B Basketball Championships. He may be able to describe it more when he gets home in a few days. You may contact us via email. Our email address may be given out as may this note, but not our private address or phone number. You may use the City name, and state name.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12182.html](http://www.nuforc.org/webreports/reports/012/S12182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
