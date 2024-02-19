@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Elk Mountain (WY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I deliver mail for my job from salt lake city to denver and back again.  Same route weekly, but this week was different.  The sky was partly cloudy, and the temperature was about 36 degrees.  I was headed east on I80 just north of elk mountain Wyoming about 515am.  When I looked southeast towards elk mountain, I notice a dark cloud over it.  The second time I looked, I seen 3 to 4 purple or blue flashes that flashed within the cloud in a sequence that lasted about a second which illuminated the cloud to a greenish color.  I've never seen anything like this before.  The event startled me so much I almost lost control of my vehicle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132708.html](http://www.nuforc.org/webreports/reports/132/S132708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Clinton Township (MI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large, intense fiery orange light centered in a chevron, moving silently and slowly in the low night sky.Large, intense fiery orange light centered in a chevron, that appeared to move silently and slowly towards us (from southwest to northeast) in the low night sky. Changed course, then slowly disappeared in the southeast direction.  Fourth sighting in six months.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74427.html](http://www.nuforc.org/webreports/reports/074/S74427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
