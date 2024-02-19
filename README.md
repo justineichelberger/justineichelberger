@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:02 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vienna (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light that began to dim, it was rotating and flashing orange, yellow and red colors then picked up speed and it was gone.Driving down the road, I noticed a big glowing light.  I watched the light cause I have never seen such a big bright light like that in the sky before.  It was very dark outside, and as I watched this light get closer it began to dim.  It was now behind us and you could see it rotationg with orange, yellow, and red lights flashing and moving on this object.   As it began to move into the distance it picked up speed, and it was gone within 6-7 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87368.html](http://www.nuforc.org/webreports/reports/087/S87368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seatac (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An extremely bright light in the sky very high up and moving west to east.I am currently a lead crew chief mechanic with a major airline at Seatac airport and have commercial instrument and multi engine pilot ratings with an air taxi and airline pilot background.The object appeared as an extremely bright light. It was much larger than any nearby star and also much brighter.  It appeared to move at about the speed of a jet aircraft at high altitude. It was so bright as to be almost painful to look at. It lasted perhaps 10 seconds and then blinked off. When my eyes readjusted to the night I could see a very dim white light moving in the same direction and at the same speed. My position was on Seatac airport, the night was a rare, clear, cold night and no one else in my area saw it that I know of. I have tried to resolve my sighting by compairing the time and position of this object with data in the "heavens-above" website data for satellites in my area but can not resolve the time of the sighting to corespond with the timing in that data. There is aproximatley a 40 min difference involved with my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12083.html](http://www.nuforc.org/webreports/reports/012/S12083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
