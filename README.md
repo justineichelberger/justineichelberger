@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:59 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>9 craft one after the other looked like a satellite at first.My girlfriend and I were outside and I happened to look up and saw what appeared to be a satellite.  We watched it for approx 30 seconds until it was obscured by a huge poplar tree in our yard.  About 10 seconds later another one was spotted coming from the same direction as the first one and seemed to be closely following the path of the first one.  This went on until we saw 9 total of these things go by.  They were about the same brightness and appearance as a medium bright star.  The color never blinked or changed much and didn't resemble any aircraft that I've seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153390.html](http://www.nuforc.org/webreports/reports/153/S153390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stevensville (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Moving bright object over St. Mary's Peak.Around 06:50, I was looking to the west at St. Mary's Peak. I saw a bright object appear over the peak.  It moved straight to the right a small distance, then vanished.  The skies were clear.  It was white in color.((NUFORC Note:  Dramatic meteor at 05:28 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61701.html](http://www.nuforc.org/webreports/reports/061/S61701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
