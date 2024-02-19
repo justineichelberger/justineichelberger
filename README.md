@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 19 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a bright light at a distance. When it got closer I noticed 5 lights on it. It was shaped like a blimp going approx 100-200 mph and flew right over my head (no sound).I was driving down a country road approx 55 mph. I saw a light in the distance which I thought was a plane. As I drove the light was not getting closer just dimmer then brighter. I came to a "T" in the road. The object was very close now. I got out of my car and noticed a white light in front of the aircraft then 4 red lights in a row along the right side underneath. I thought it was some sort of blimp until I estimated it going 100-200 mph (approx 5000 ft high). The object flew straight over my head with no sound. I chased it in my car. The object then vanished. I thought I saw it reappear miles ahead of me for about 2 seconds. It was dark but not pitch black. No stars were in the sky yet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05965.html](http://www.nuforc.org/webreports/reports/005/S05965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Falling Waters (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 23:18 - 23:18 minutes.</sub><blockquote><sub>Starlike object which dissapeared very strangely.The sighting took place sometime between 11:00 and 11:18 pm.The time of the sighting is unsure.I only saw it for about 45 to 90 seconds.It then dissapeared.The object was a little larger than an average sized star that was in the sky.It was white and yellow colored and was outlined in green at certain times.It was a very clear night with lots of stars in the sky and a full moon.My dog was acting very out of character and hyper all night so I went to check on him and thats when I seen it.Other dogs in the neighborhood were also barking.When it dissapeared it got smaller and smaller turning very dark yellow before eventually dissapearing all together.I don't think it was an alien space craft or anything but it was surely a strange sight.It was spotted in the northern sky towards hagerstown md along interstate 81 near a radio tower.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61727.html](http://www.nuforc.org/webreports/reports/061/S61727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
