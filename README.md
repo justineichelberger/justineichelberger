@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The overcast north-eastern sky was flashing like a strobe light, lighting up the entire horizon.This is not a report of a craft sighting, rather, it is a report of an unusual event seen in the sky.  The event was witnessed from San Jose, California, just north of the Almaden Valley.  It was exactly 8:20 pm, Pacific time, on Saturday, February 20, 1999.  The sky was overcast. I was inside the office in my house, and I happened to glance out the office window, which faces due East.  In the nort-eastern sky, I noticed that the entire sky was flashing quickly and regularly, like a strobe light, only slower.  The flashes were bright enough to have been lightening, but I doubt they were, because they were too frequent, and too regular in frequency.  I would estimate the frequency of the flashes to be around 4-5 flashes per second, evenly spaced in time. The entire duration of my sighting was approximately 10 seconds.  The entire portion of the sky that I could see was lighting up, but it definitely appeared as though the source of the flashing lights was in the north-eastern sky, which happens to be the approximate direction of the Mount Hamilton observatory (I think that's the name of it -- during the day, the telescope is visible on the mountain top).  Just for reference, the San Jose airport is north-west of my house, and would have been roughly at my back at the time of this incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05608.html](http://www.nuforc.org/webreports/reports/005/S05608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hercules (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sphere heading from West to East first with a fire trail but later a reddish orange sphereI went outside from our house into our backyard and noticed a fireball heading from west to east.  Immediately, I called my son and wife to come out thinking it was a large meteorite flying by.  The object looked like it had a fire trail and was fairly large.  I told my son to run in the house and grab my cellphone and as soon as he brought it out I started filming with the phone's video camera.  Object was moving fairly fast and had a very shallow approach angle but seemed to slow down later.  I turned on the phone's video camera and caught some footage of the object.  The other thing that we all agreed on later that there was no sound (no prop or engine noise).  As I was filming, our trees where in the way so I briefly lost video of the object but then got the camera back on it.  Object looked reddish orange with some yellow. I have video but it's 52 mbytes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97269.html](http://www.nuforc.org/webreports/reports/097/S97269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
