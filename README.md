@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I had walked out to get something from my car,when on the way back in,I looked up at the moon that was out.It was a clear cloudless day.A light just left of the moon caught my eye.Then,in a mater of less than 15 seconds,there were 7 orb shaped bright white objects floating in the sky.I watched as 3 of them formed a triangle,while the other 4 took up formation on either side of the triangle,2 on each side.The objects were about the size of a BB when held at arms length.As I looked at the objects,I noticed that 1 of the orbs actually looked to be 3 maybe 4 orbs either right next to each other,or were actually attached.There is the possibility of there being at least 10 orbs.The sighting lasted for 15+ minutes. The objects were definately out over the atlantic ocean,directly off of Hollywood beach.Ive been trying for the last few years to see if anyone else saw these objects.I find it hard to beleive that nobody else did.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58230.html](http://www.nuforc.org/webreports/reports/058/S58230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Light on a dimmer switchIt was a clear night in Feb.1967. I was outside just looking at stars when I noticed a small light going south to north at 7:30pm. Watched it stop in sky and was about 5,000 feet high.  Suddenly it got bigger ,the size if Jupiter ,maybe even brighter & bigger.  Walked out to the middle of my yard & stood underneath it looking up.  It then got dimmer but was not falling down it was going straight up & getting dimmer like on a dimmer switch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89817.html](http://www.nuforc.org/webreports/reports/089/S89817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
