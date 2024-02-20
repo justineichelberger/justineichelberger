@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jeddah (Saudi Arabia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Early morning photo outing, taking photos of buildings with sun behind me.  Only saw this through the viewfinder for a second.  Have the RAW file untouched.((NUFORC Note:  We wonder whether the lights above a parked airliner might have been due to the reflection of ceiling lights in the terminal, where the photographer was located.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118805.html](http://www.nuforc.org/webreports/reports/118/S118805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Markham (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I work as an elementary teacher in a french school. I was getting ready to leave like I do every morning to take the bus. I just remember that it was in the winter and that it was still dark outside. We had a snowfall the night before and therefore each of my neighbors on both sides ( left and right) were busy shoveling the snow. I happened to look in the sky and there it was in front of me. Strangely enough, I did not say anything to my neighbors and I was not scared.  I was awed and I just stood there for a while and observed it. It did not have the shape  usually  reported in the newspapers. It was huge and grey. Its was like two rectangles forming an obtuse angle of 130 degrees and below it, there was like a globe with some shadows.  It was standing still in the sky right in front of me. I looked at my neighbors but I didn’t want to say anything. I decided to cross the street to have a better look. As soon as I did, I turned around to glance once more at the strange object and it was gone. It was just as if there had never been anything there in the first place. I am not making this up. I never told anyone but family and friends all this time. By the way, when I was a child, my parents did see a UFO. They always told me about it. It was then in the province of Quebec and it happened in the early evening.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57259.html](http://www.nuforc.org/webreports/reports/057/S57259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
