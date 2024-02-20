@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Dear Mr. Davenport, Had problems filing the report I promised in our phone conversation, and I do not know if it went through, so I decided to email to you - just in case. Here is the report I attempted to file: While driving North on 43rd Ave just before Thunderbird Rd. my wife, my oldest son, and my self saw an object streaking across the sky, East to West, with incredible velocity, before it vanished into thin air. It looked like a giant fireball (25% to 50% the size of a full moon) burning green, such as a computer monitor LED green. It came in at a very low angle to the ground maybe 20 degrees, at the most, and traveled an arc of at least 45 degrees (I had mentioned 30 to 35 degrees in my phone call, but using the reference points of the windshield it was at least 45 degrees) in a second or two, with what appeared to be a long fire trail. The object then disappeared. It did not seem to burn out, but just extinguished. It appeared so close I rolled my window down to listen to the impact, but I never heard one.Sincerely, ((name and e-address deleted))((NUFORC Note:  We spoke with both the husband and wife, and they sounded exceptionally credible and sincere to us.  We forgot to ask the time of the incident, but will verify that issue in the near future. PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27800.html](http://www.nuforc.org/webreports/reports/027/S27800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The overcast north-eastern sky was flashing like a strobe light, lighting up the entire horizon.This is not a report of a craft sighting, rather, it is a report of an unusual event seen in the sky.  The event was witnessed from San Jose, California, just north of the Almaden Valley.  It was exactly 8:20 pm, Pacific time, on Saturday, February 20, 1999.  The sky was overcast. I was inside the office in my house, and I happened to glance out the office window, which faces due East.  In the nort-eastern sky, I noticed that the entire sky was flashing quickly and regularly, like a strobe light, only slower.  The flashes were bright enough to have been lightening, but I doubt they were, because they were too frequent, and too regular in frequency.  I would estimate the frequency of the flashes to be around 4-5 flashes per second, evenly spaced in time. The entire duration of my sighting was approximately 10 seconds.  The entire portion of the sky that I could see was lighting up, but it definitely appeared as though the source of the flashing lights was in the north-eastern sky, which happens to be the approximate direction of the Mount Hamilton observatory (I think that's the name of it -- during the day, the telescope is visible on the mountain top).  Just for reference, the San Jose airport is north-west of my house, and would have been roughly at my back at the time of this incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05608.html](http://www.nuforc.org/webreports/reports/005/S05608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
