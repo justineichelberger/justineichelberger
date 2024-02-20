@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:28 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:17 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Blue Springs (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Long object with no lights and birds seen underneath during a lunar eclipse about 35 feet above the groundThe object I saw was about 20 minutes before the lunar eclipse was in the earth's shadow. I was looking out my window facing east and a object appeared about 15 feet above the trees and was flat on the front, and long, longer than my house.  I could distinctly see an outline but there were no lights or sound. about 1 foot inside and under the edges, were many birds. These birds were white and flying into each other and in no kind of formation, almost like they were confused.  I saw many other birds all around, but the other birds were flying in a "V".  The object was moving about 35 to 40 m.p.h. heading west about a mile south of I-70 headed directly for downtown Kansas City. I yelled at my wife after about 15 seconds of looking directly at it and she came into the bedroom and looked and saw the end of the object.  She explains that when she saw it, it was like a perfectly straight object, almost like a giant ruler.  I am convinced that what I saw was genuine, and to the best of my ability, true.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61761.html](http://www.nuforc.org/webreports/reports/061/S61761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lewiston (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>While playing ball with my children at a local airport park. we observed a small dot in the Northwest sjy. thinking it was a small plan coming into the Airport. We watched the object turn into three black dots, then into a cloud, then back into one large dot. The object appeared to transform into three small dots, going to horizontal, then vertical shape. The objects then went back into the large dot again. While watching the object, I looked up at the tower and observed the control tower personnel also looking into the direction of he object. They were watching with a very large pair of binoculars. Approximately 10 minaues into watching the object. Two small planes landed from different locations. the object then faded out and was not seen after that</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21950.html](http://www.nuforc.org/webreports/reports/021/S21950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
