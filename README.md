@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Parachute (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A bright light that hovered in the sky and seemed to emit different colors.  The shape seemed to change and the colors changed from green to blue and back etc.  Sometimes the light would dim then get bright again.  Then suddenly disappeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132738.html](http://www.nuforc.org/webreports/reports/132/S132738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Porterville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright orange lights turn into slow moving saucer shaped object in the night sky.At 9:00 my daughter and I went out for our evening walk and had been walking for about an hour when we came back to my house.  We were standing at the end of my drive looking at the stars when my daughter pointed out what at first looked like a bright orange fire ball but it was quite a ways away.  At first it was sitting in the same spot but after a few minutes it started moving in our direction which would have been north.  It moved very slow and as we watched the lights started flashing.  We watched to see if it was an airplane but it did not look like an airplane as there were no red lights and the lights that were on it had started flashing and seemed to be moving around the object.  The object was nearly over us and it slanted as it turned and the top of the object had what I can only describe as a dome.  It then began moving faster and as it went over us we could see the lights that were orange and moved around the outside of the object.  It never got! close to us or close to the ground but close enough that we could see the lights and the dome.  Finally after about 15 minutes of watching the object sped up and we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107339.html](http://www.nuforc.org/webreports/reports/107/S107339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
