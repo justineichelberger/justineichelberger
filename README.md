@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Light on a dimmer switchIt was a clear night in Feb.1967. I was outside just looking at stars when I noticed a small light going south to north at 7:30pm. Watched it stop in sky and was about 5,000 feet high.  Suddenly it got bigger ,the size if Jupiter ,maybe even brighter & bigger.  Walked out to the middle of my yard & stood underneath it looking up.  It then got dimmer but was not falling down it was going straight up & getting dimmer like on a dimmer switch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89817.html](http://www.nuforc.org/webreports/reports/089/S89817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jeddah (Saudi Arabia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Early morning photo outing, taking photos of buildings with sun behind me.  Only saw this through the viewfinder for a second.  Have the RAW file untouched.((NUFORC Note:  We wonder whether the lights above a parked airliner might have been due to the reflection of ceiling lights in the terminal, where the photographer was located.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118805.html](http://www.nuforc.org/webreports/reports/118/S118805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
