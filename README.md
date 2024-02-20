@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Markham (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I work as an elementary teacher in a french school. I was getting ready to leave like I do every morning to take the bus. I just remember that it was in the winter and that it was still dark outside. We had a snowfall the night before and therefore each of my neighbors on both sides ( left and right) were busy shoveling the snow. I happened to look in the sky and there it was in front of me. Strangely enough, I did not say anything to my neighbors and I was not scared.  I was awed and I just stood there for a while and observed it. It did not have the shape  usually  reported in the newspapers. It was huge and grey. Its was like two rectangles forming an obtuse angle of 130 degrees and below it, there was like a globe with some shadows.  It was standing still in the sky right in front of me. I looked at my neighbors but I didn’t want to say anything. I decided to cross the street to have a better look. As soon as I did, I turned around to glance once more at the strange object and it was gone. It was just as if there had never been anything there in the first place. I am not making this up. I never told anyone but family and friends all this time. By the way, when I was a child, my parents did see a UFO. They always told me about it. It was then in the province of Quebec and it happened in the early evening.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57259.html](http://www.nuforc.org/webreports/reports/057/S57259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Geneseo (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Observed a strange circular spotlight on ground in rural areaI was on my way to work, driving along a rural route between Conesus Lake and Geneseo, NY. That area is pretty much all farm country, and at the time there was at least 8" of snow on the ground from a previous snowfall. The night was clear and very cold...around 20 degrees Fahrenheit. I came to a stop at a remote four-way intersection, and sat at the intersection, and carefully looked both ways for traffic. While looking to the left, a circular light suddenly appeared on the snow, as if someone was shining a spotlight straight down. The light was approx. 30 feet in diameter, and was about 150 feet from my position. There were no houses in the immediate area, and there was no sound being made. I was driving my winter car, an old Camaro, and the curvature of the window restricted me from looking up to see the source of the light, and the window handle was broken, so I couldn't roll the window down in order to put my head outside to get a better view.  At this point I sensed that something very strange was happening, and pretty much floored the accelerator to exit the area as fast as possible.  When I got to work, I was relating the incident to a few of my co-workers, when another worker (an off-duty policeman) arrived and announced that his police radio was bristling with reports of strange lights and ufo's all over the region.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50890.html](http://www.nuforc.org/webreports/reports/050/S50890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
