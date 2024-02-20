@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Geneseo (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Observed a strange circular spotlight on ground in rural areaI was on my way to work, driving along a rural route between Conesus Lake and Geneseo, NY. That area is pretty much all farm country, and at the time there was at least 8" of snow on the ground from a previous snowfall. The night was clear and very cold...around 20 degrees Fahrenheit. I came to a stop at a remote four-way intersection, and sat at the intersection, and carefully looked both ways for traffic. While looking to the left, a circular light suddenly appeared on the snow, as if someone was shining a spotlight straight down. The light was approx. 30 feet in diameter, and was about 150 feet from my position. There were no houses in the immediate area, and there was no sound being made. I was driving my winter car, an old Camaro, and the curvature of the window restricted me from looking up to see the source of the light, and the window handle was broken, so I couldn't roll the window down in order to put my head outside to get a better view.  At this point I sensed that something very strange was happening, and pretty much floored the accelerator to exit the area as fast as possible.  When I got to work, I was relating the incident to a few of my co-workers, when another worker (an off-duty policeman) arrived and announced that his police radio was bristling with reports of strange lights and ufo's all over the region.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50890.html](http://www.nuforc.org/webreports/reports/050/S50890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mequon (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 triangular shaped white circles with no propulsion on the back.I didn't see any real body of the craft because it was night. What I did see was 3 white, bright circles in a triangular formation and a fading red light between the back 2. I didn't see any propulsion on the back so the white circles must have been making it hover. I also didn't see the standard flashing red and green lights on airplanes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55382.html](http://www.nuforc.org/webreports/reports/055/S55382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
