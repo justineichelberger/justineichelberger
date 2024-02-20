@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Union (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>Huge, white, circular shape hanging low in night sky in Union, NJI witnessed what I thought at first was a star in the sky. But then I realized it was not blinking so it could not be a star and didn’t have red and blue lights so it couldn’t have been an airplane. It was one singular circle in the sky. It was bizarrely low in the sky. It was the shape of a perfect circle and was the same color as a star but it was massive in size relative to the stars. It was maybe 4x the size of a star or larger. It didn’t appear to be a planet because there was no reddish tint and it was too low in the sky. It was perfectly still and I unfortunately lost sight of it because I was in the backseat of a car and we passed by some tall buildings. When the view reappeared the object had seemingly disappeared into thin air. Unfortunately, I was the only witness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162167.html](http://www.nuforc.org/webreports/reports/162/S162167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Parachute (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A bright light that hovered in the sky and seemed to emit different colors.  The shape seemed to change and the colors changed from green to blue and back etc.  Sometimes the light would dim then get bright again.  Then suddenly disappeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132738.html](http://www.nuforc.org/webreports/reports/132/S132738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
