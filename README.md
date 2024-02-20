@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:33 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jeddah (Saudi Arabia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Early morning photo outing, taking photos of buildings with sun behind me.  Only saw this through the viewfinder for a second.  Have the RAW file untouched.((NUFORC Note:  We wonder whether the lights above a parked airliner might have been due to the reflection of ceiling lights in the terminal, where the photographer was located.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118805.html](http://www.nuforc.org/webreports/reports/118/S118805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Light was moving erraticly in the evening sky.Unknown  Sighting  (February 2013)   On either Tuesday, February 19th or February 20th, at 7:15 p.m., from my yard,  west of Olympia, WA.   I noticed two bright stars in the Southern sky, at about 65 degrees above the horizon, just above the tree tops.One star started moving at about the speed of an airplane to the East for about two or three seconds, and then it started moving around the sky in erratic movements.  It covered approximately 10 to 12 degrees of sky.By now, it was obscured by the trees, and I could not see it very well anymore.The whole incident lasted perhaps 10 seconds.((NUFORC Note:  We spoke via telephone with this witness, and she seemed to us to be a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96444.html](http://www.nuforc.org/webreports/reports/096/S96444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
