@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>6 White and Red Spheres Suddenly Appear and Disappear Below February's Lunar Eclipse -- Eastern U.S.Photographing Lunar Eclipse with 10 PX Digital Canon camera without flash. Upon loading pictures into laptop, picture frame number 2389 revealed six spherical objects in a definite formation: 2-white spheres (one brightly lit sphere above a dimmer sphere) - 1 red sphere, 2-white spheres, then 1 red sphere.  All were perfectly aligned and distanced. Reviewing the enlarged image, the red spheres appear to have 2 red objects or lights attached. The 2-white spheres bypassed the other spheres, taking the lead.  All spheres and flight paths were captured in the image.  Photo frames 2388 and 2390 did not contain the spheres which means they had to appear/disappear within 2 minutes. Since on the Eastern U.S. at 22:35, the spheres unlikely to have been related to the Pacific shooting down of the spy satellite -- spheres traveling in opposite  direction -- satellite was shot down at 22:30 Pacific time, not Eastern. Only one missile used -- 6 spheres shown.  One speculation it could be satellite remnants re-entering atmosphere but unlikely due to the exact alignment, precision of distance between objects, and mere number of objects. Other possibility would be meteors but precisioning of objects and containing white as well as red spheres may rule that out. Cannot be stars since there are no formations of that type below the moon.  In addition, they do not appear before or after frame 2389.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61760.html](http://www.nuforc.org/webreports/reports/061/S61760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The object was a silver craft and vanished without a trace in a clear blue sky.As I was driving south on freeway 101, I noticed way up in the clear blue sky a silver craft like object. As I was watching this object, it was not moving, then it was like it just vanished. Keep in mind the sky was clear and there was no clouds in the sky at all. It was as clear as a sky can get. What do you think? Is it possibble it could have been a ufo?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35845.html](http://www.nuforc.org/webreports/reports/035/S35845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
