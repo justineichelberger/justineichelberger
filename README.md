@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hercules (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sphere heading from West to East first with a fire trail but later a reddish orange sphereI went outside from our house into our backyard and noticed a fireball heading from west to east.  Immediately, I called my son and wife to come out thinking it was a large meteorite flying by.  The object looked like it had a fire trail and was fairly large.  I told my son to run in the house and grab my cellphone and as soon as he brought it out I started filming with the phone's video camera.  Object was moving fairly fast and had a very shallow approach angle but seemed to slow down later.  I turned on the phone's video camera and caught some footage of the object.  The other thing that we all agreed on later that there was no sound (no prop or engine noise).  As I was filming, our trees where in the way so I briefly lost video of the object but then got the camera back on it.  Object looked reddish orange with some yellow. I have video but it's 52 mbytes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97269.html](http://www.nuforc.org/webreports/reports/097/S97269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Driving home from work spotted a large yellow/orange light, thought it was maybe a planet.  Changed shape from circular to oval. had blinking lights underneath. Was moving very very slow, and hovering.  Kept changing shape.  Followed to Herkimer, NY, then the light got distant, could not see anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153509.html](http://www.nuforc.org/webreports/reports/153/S153509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
