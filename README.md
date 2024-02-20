@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:17 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:49 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lewiston (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>While playing ball with my children at a local airport park. we observed a small dot in the Northwest sjy. thinking it was a small plan coming into the Airport. We watched the object turn into three black dots, then into a cloud, then back into one large dot. The object appeared to transform into three small dots, going to horizontal, then vertical shape. The objects then went back into the large dot again. While watching the object, I looked up at the tower and observed the control tower personnel also looking into the direction of he object. They were watching with a very large pair of binoculars. Approximately 10 minaues into watching the object. Two small planes landed from different locations. the object then faded out and was not seen after that</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21950.html](http://www.nuforc.org/webreports/reports/021/S21950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sharon (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>saw a big round lighted object with bright colors and no sound 500ft away   and 400ft off the ground it looked like a ferriswheelhi, i was sitting on my couch in my house and i look to my left out the window and i saw about 500ft away a  big  object with bright  lights colors were orange white silver ,it was over my trees about 400ft? off the ground , no sound and it moved slowly i only saw this object for about   3 seconds . it took a minute for me   to realize what had happened.   all the lights  on this big object  did not have a reflection, no lighting up the whole area , i did not see the object approach which was strange  becuz i have skylites windows and lots of big windows in my living room and i did not  see the object pass through   which i should have seen.  it was not that far up. i have dogs and my dogs did not bark. i still cannot believe what i saw. i am kinda beside myself about this. this happened a couple of days ago and i was not sure what to do..my camera was  was at hands reach  and i could  grab  it  I froze in that moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61807.html](http://www.nuforc.org/webreports/reports/061/S61807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
