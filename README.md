@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green light.I was drivig home heading up the Steese Hwy. towards Fox.  I was about 1/2 from the Chena Hot Springs exit when off to my left I saw an incredibly bright light falling.  It looked just like a shooting star only much brighter and much closer and it was green.  It looked as if it would hit the ground in the valley behind Curry's Corner.  I had my 3 children in the car with me and they were just as amazed as I was.  It looked white as it was falling then the closer it got to the ground the brighter green it seemed to get.I believe it was debris that had entered our atmosphere.The strange thing is that a couple of weeks ago less than 6 miles away a friend of mine reported the exact same sighting on her way to work.  There were many witnesses in both incidences.Any clues as to what is falling from the sky here?  Satellite debris maybe?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68838.html](http://www.nuforc.org/webreports/reports/068/S68838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I had walked out to get something from my car,when on the way back in,I looked up at the moon that was out.It was a clear cloudless day.A light just left of the moon caught my eye.Then,in a mater of less than 15 seconds,there were 7 orb shaped bright white objects floating in the sky.I watched as 3 of them formed a triangle,while the other 4 took up formation on either side of the triangle,2 on each side.The objects were about the size of a BB when held at arms length.As I looked at the objects,I noticed that 1 of the orbs actually looked to be 3 maybe 4 orbs either right next to each other,or were actually attached.There is the possibility of there being at least 10 orbs.The sighting lasted for 15+ minutes. The objects were definately out over the atlantic ocean,directly off of Hollywood beach.Ive been trying for the last few years to see if anyone else saw these objects.I find it hard to beleive that nobody else did.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58230.html](http://www.nuforc.org/webreports/reports/058/S58230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
