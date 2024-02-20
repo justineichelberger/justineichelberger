@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mequon (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 triangular shaped white circles with no propulsion on the back.I didn't see any real body of the craft because it was night. What I did see was 3 white, bright circles in a triangular formation and a fading red light between the back 2. I didn't see any propulsion on the back so the white circles must have been making it hover. I also didn't see the standard flashing red and green lights on airplanes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55382.html](http://www.nuforc.org/webreports/reports/055/S55382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Groton (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Circle of lights which then spun around and dissapeared.Groton, CT 06340 7:23 P.M.Saw a semi circle of bright lights hovering in the distance. Vantage point was standing on our back porch looking towards Long Island Sound with no city or residences between us and the ocean. The object hovered for 3 minutes. It then appeared to come closer to the house. Then it spun around or did some sort of acrobatics and disappeared. After this we waited for an hour and it didn’t come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68827.html](http://www.nuforc.org/webreports/reports/068/S68827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
