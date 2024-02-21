@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:52 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wellington (Canada) (PE) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>bright lights moved very fast hovered up and down side to side lost our power pets went nuts and skidoos shut offHi im a 17 year old buy from prince edward island and last night i saw something that caused my dogs to go bizzerk. my 4 four friends and i were starting up our skidoos to let them warm up and we came inside my house as soon as we came in the skidoos turned off and the streetlight went out and the power to the house went out my parents who were is the shower thought i was playing tricks on them but they then found out where we were at that time. about 5 seconds later my 2 dogs petey and thomas went nuts even my moms cat the dogs were yelping and the cat was hissing at the window then there was tihs bright light in the yard that was as bright as a camera flash we then saw three objects that hovered like a yo yo for 5 minutes after the lights dimmed and these objects kept changing shape and formation they went from circle to a square then triangle formation and they moved up fast turned on likea 90 degree angle like a dime and then came lower to the ground when my mom tryed to use the cordless phone it wouldn't work and my cell kept ringing but when i answered it i just got static and weird noises like banging and humming sounds. after 25 minutes had passed a bright light appeared again and these three objects then shot up to the sky fast as hell. the the power went back on the dogs and cat settled down and everything turned back on except the skidoos. It even left a melted area in the snow of a triangle with circles on each tip and a strange sign like it melted the drift of snow in 25 minutes.Could you please tell me,my friends,and my family that im not insane and that what we saw was hopefully from earth orgin.((NUFORC Note:  We do not know what the witness observed.  We do not know whether the sighting occurred on February 21, or February 22; we have requested that the witness clarify.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27831.html](http://www.nuforc.org/webreports/reports/027/S27831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in  (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>On Feb 21, 2021 at 1918 zulu American 2292 was at the TBE180030 (lat 36.8/ long -103.56) at FL360 westbound.  The pilot observed a long cylindrical, cruise missile looking thing, fly right over the top of them eastbound.  The report was reported to air traffic control who showed no traffic above the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162176.html](http://www.nuforc.org/webreports/reports/162/S162176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
