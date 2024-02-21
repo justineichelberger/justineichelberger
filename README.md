@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ayrshire (UK/Scotland) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orange orb flying south to north across west coast ayrshire scotlandi am an amatuer astonomer,and live near an airport '  i know planes and helicopters when i see them' it was dusk when i opened back door to let cat in ,i seen an bright orange orb flying from south to north ,changing slightly in size at moments.there was no noise although it was a fair distance away it seemed,travelling very quickly.there was no contrails or smoke and was travelling very quickly.i also mananged to film it and take a photo.ps it wasnt a flare,it was moving horizontily.it also vanished instantly?.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74441.html](http://www.nuforc.org/webreports/reports/074/S74441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Colville Reservation (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Colville Police Disp. repts. "blue, shimmering thing" observed.  Then it "blew up," and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00194.html](http://www.nuforc.org/webreports/reports/000/S00194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
