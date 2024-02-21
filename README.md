@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 20 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colerain Township (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cylandrical object in the southern sky with glowing red and white lights in the lower half.I got up at 5:07 am to observe the five planets (Mercury, Venus, Mars, Saturn and Jupiter) that were to be visible in a 45 degree upward slanting line in the southern sky from June 20th to February 20th before daybreak.  The cloud cover made it impossible to observe this phenomenon.  HOWEVER, I observed a cylinder shaped object above the tree line about a mile south of my second story window that was stationery and glowing pulsating red lights on the lower right two-thirds and glowing pulsating white lights on the lower left third.  The upper part of this craft was dark.  I watched this object for two minutes, finally determining that this must be a cell tower that had not been there before.  I went back to bed.At 6:11am, I got up to see if the cloud cover had dissipated but it was still present so the planetary alignment was still not visible.  There were no pulsating red or white lights in the distance either. The cylindrical shaped object was gone.  No cell tower was visible either.  I'll have another look at daybreak.At 8:33am I looked out, the sun was breaking through and there was NO cell tower in that object's position or anywhere in the southern sky.  You tell me what it was......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125944.html](http://www.nuforc.org/webreports/reports/125/S125944.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 bright star like objects near Canis MajorMy nephew and I left to go out to eat.  When we got outside I instantly seen 2 bright white "star" like objects magnitude 1 or brighter near Canis Major.  I instantly knew they did not belong in the sky having seen the Orion Constellation many times.  In approximately 30 seconds these 2 objects faded out until they could no longer be seen with the naked eye.   There was no movement detected by these objects.  They just sat there and faded out.  One object was above the other in a diagonal formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107368.html](http://www.nuforc.org/webreports/reports/107/S107368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
