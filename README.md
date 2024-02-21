@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palmer (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/Amber lights over the Hatcher Pass areaOn February 21st 2014 at approximately 11:30 PM while driving on Palmer Fishhook Road travelling towards Hatcher Pass from Palmer, Alaska, I and two others observed three amber/orange lights above the area of Government Peak and the Arkose Ridge, near Hatcher Pass.  The lights were still and formed an upright equilateral triangle; each leg of the triangle was approximately a mile in length.  The light that formed the peak of the triangle disappeared, as if a switch and been turned off, and the other two remained until we lost sight of them because of obstructions just before we reached our destination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107404.html](http://www.nuforc.org/webreports/reports/107/S107404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Turrialba (Costa Rica) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Captured image from government owned, fixed base volcano observation camera  - Costa RicaThis is a website with a camera mounted on a volcano just a couple of miles from where I live.  I look at the updated images often, but had never seen anything like this.  It may just be a reflection, given the location of the sun, maybe you can tell.  Here is the link to the camera. I will send the captured image by e-mail.  http://www.ovsicori.una.ac.cr/index.php?option=com_content&view=article&id=43&Itemid=74Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96416.html](http://www.nuforc.org/webreports/reports/096/S96416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
