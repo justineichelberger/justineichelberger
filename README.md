@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw two different bright orange oval objects in the sky.I was on my way back from dinner at 11:34 pm on Friday, February 21, 2014, and I looked to my right and out of my window   I saw a bright orange oval shaped object in the night sky. For a second I just thought it was a plane flying over the sky.  I soon began to study the flying object and notice that it was moving in circles and was very bright.  I turned into my neighborhood and behind my house up in the sky I noticed another orange flying object moving in a circular motion as I pulled into my garage.  I went inside to get my father and my brother.  About 2 minutes later, we ran back outside across the street and by that time, the object had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107338.html](http://www.nuforc.org/webreports/reports/107/S107338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palmer (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/Amber lights over the Hatcher Pass areaOn February 21st 2014 at approximately 11:30 PM while driving on Palmer Fishhook Road travelling towards Hatcher Pass from Palmer, Alaska, I and two others observed three amber/orange lights above the area of Government Peak and the Arkose Ridge, near Hatcher Pass.  The lights were still and formed an upright equilateral triangle; each leg of the triangle was approximately a mile in length.  The light that formed the peak of the triangle disappeared, as if a switch and been turned off, and the other two remained until we lost sight of them because of obstructions just before we reached our destination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107404.html](http://www.nuforc.org/webreports/reports/107/S107404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
