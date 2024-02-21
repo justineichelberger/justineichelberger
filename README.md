@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 128</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153820.html](http://www.nuforc.org/webreports/reports/153/S153820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Augusta (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black triangle with white lights at corners hovering over Furys Ferry Road in Augusta, Ga.Driving home from dinner with my wife and son, saw two bright white lights maybe 500 feet off the ground ahead of us.  I asked my wife what she thought and she said "new cell tower."  I said they normally had red lights not white and we continued to watch.  As we got underneath it, we could see it was a dark triangle with bright white lights at the corners and a small blinking red light in the middle.  It was hovering just over to the side of the road, not moving, not making any sound.  I slowed down and watched it, it seemed to be tilting as I watched.  There was a median so I couldnt turn around right away, came back at it from the other direction less than a minute later and it had sped off, quickly heading north, if I'm not mistaken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117446.html](http://www.nuforc.org/webreports/reports/117/S117446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
