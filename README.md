@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Teardrop shaped, gold metallic in color, clear sky, 13:38 afternoon, did not roll, tumble,or change directionDate of sighting Feb. 21, 2008.  I was standing on a train platform in San Jose California, I had just checked my radio controlled Casio wristwatch watch, it was 1:38 pm, when my coworker our engineer said hey look there, he was pointing up in the sky towards the east by south east. I looked where he was pointing, the sky was very clear there were a lot of clouds as we were having rain showers that day, which made the sky very clear and free of dust and pollutants. What I saw, at first glance, I and my coworker thought to be a weather balloon moving from east by south east towards north by north west in a straight line, moving at a high rate of speed. However, I quickly realized it was moving against the prevailing winds which were pushing the clouds in a northeasterly direction. The object I believe to be small about the size of a midsized compact car. The object appeared to have a shape similar to a light bulb. The front was round and it tapered to a small almost pointed tail. The object was brightly polished gold metallic in color as the front bulbous area reflected the sun as it moved away from us. The object was well above the clouds, its speed did not vary, and the object did not tumble or roll or vary its direction.We are just about one mile from the San Jose International Air Port. The jet planes that were crossing over at this time were moving much slower than the object. The object did not leave a trail behind it, neither was there a flame coming out its tail end, it did not have wings, and it did not have a tail that would control its movement. As the object was moving directly over us its bottoms color seemed to very in intensity like waves in a darker shade that moved from the front to the rear. From the time we started to observe the object the object remained in sight for about 40 to 45 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61899.html](http://www.nuforc.org/webreports/reports/061/S61899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Darlington (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately ufo - ufo minutes.</sub><blockquote><sub>this was a alien vesseli was on my way to daddy house which is a place were go sometimes to relaxe when soon ufo sighting 8:30 pm it had just came in to view under rail road bridge afther not much futhur from complex building going toward hideaway which is a old abanding club it was there about 500 feet above me what look very surphisticated and round setting still not making sound((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Hoax, possibly?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75518.html](http://www.nuforc.org/webreports/reports/075/S75518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
