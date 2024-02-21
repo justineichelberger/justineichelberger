@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:03 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rothbury (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Early morning skies were cear and stars bright and so was what i thought was Mars..can someone tell me what i saw.The puppy woke me up by licking my face wanting to go potty...so i got all my winter apparel on an out we went.As my pup was doing her business i noticed the skies were clear and the stars were shining bright..i noticed what i thought was mars west of me towards lake mi.It was a small yellow round circle sitting next to a star..i thought it looked odd for some reason...my pup peed for a few moments and then i saw it move.I pulled on leash to stop pup from pulling me as i watched it head south possibly muskegon Mi.It wasnt moving fast however fast enough to go some distance and then it slowed right down almost to a stop but it turned and headed straight down...i couldnt see it anymore the trees were in my view...I just stood their dumb founded and as this was my first encounter with an unidentified flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153487.html](http://www.nuforc.org/webreports/reports/153/S153487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 128</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153820.html](http://www.nuforc.org/webreports/reports/153/S153820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
