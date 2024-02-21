@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:00 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Somerset (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangular lighted object spotted hovering in Pennsylvania.I was driving home from a friends home, and i saw bright blue lights in the sky. I pulled over because i knew it was not an airplane.  I looked up at it and it was going fairly fast, sideways.  It had a rectangular shape with about 4 or 5 rows of small rectangular lights. The lights were blinking vey fast.  The road I was on was coming down from a ski resort and there were not many homes around, just a few farms , and lots of fields. When I stopped to look at this object, it was hovered about a mile from the ground, and then it took off sideways again.  I could not tell where it went because it went so fast.I have had dreams about ufos but this was the first time I ever saw any.  I am sure of what i saw, my heart has never raced like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55408.html](http://www.nuforc.org/webreports/reports/055/S55408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Highwood (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flying Disk  North of ChicagoAt about 8:40PM February 21, 2012, I took my dog out side to run around and go to the bathroom. I had decided to bring my pair of binoculars along to see Venus which was quite bright.  I saw Venus in my binoculars and saw what I thought was a private jet or small airplane.  I focused in on the object and I noticed it was the shape of a classic 1940s-50s 'Flying Saucer.'  It was a dark metallic color with about 5-7 porthole windows in the middle/side of the craft.  It was relatively close to the ground and there was no sound.  I believe there was a white strobe light on the top but the bottom of the craft did have a slow pulsing red light.  I moved slightly from west to the east towards Lake Michigan then I lost sight of the U.F.O.  I have seen (and reported) strange things in the sky that were simply unexplained...and I guess this is one too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87326.html](http://www.nuforc.org/webreports/reports/087/S87326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
