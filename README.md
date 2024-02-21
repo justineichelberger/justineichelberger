@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in  (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>On Feb 21, 2021 at 1918 zulu American 2292 was at the TBE180030 (lat 36.8/ long -103.56) at FL360 westbound.  The pilot observed a long cylindrical, cruise missile looking thing, fly right over the top of them eastbound.  The report was reported to air traffic control who showed no traffic above the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162176.html](http://www.nuforc.org/webreports/reports/162/S162176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Stockbridge (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Star-like object hovering in place for 20 minutes in daytime sky; seen by one witness in Stockbridge, GA.Facing South, I was watching a plane leaving a trail through the sky when I spotted what looked alot like a star in the daytime sky.I watched it hover in the same place for well over 15 minutes.  Several planes passed during this time but this object stayed still.  Then slowly moved very slightly toward the West and I lost sight of it in a dark grey cloud, in an otherwise clear sky with occasional white puffy clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107309.html](http://www.nuforc.org/webreports/reports/107/S107309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
