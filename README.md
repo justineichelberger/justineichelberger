@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Colville Reservation (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Colville Police Disp. repts. "blue, shimmering thing" observed.  Then it "blew up," and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00194.html](http://www.nuforc.org/webreports/reports/000/S00194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw two different bright orange oval objects in the sky.I was on my way back from dinner at 11:34 pm on Friday, February 21, 2014, and I looked to my right and out of my window   I saw a bright orange oval shaped object in the night sky. For a second I just thought it was a plane flying over the sky.  I soon began to study the flying object and notice that it was moving in circles and was very bright.  I turned into my neighborhood and behind my house up in the sky I noticed another orange flying object moving in a circular motion as I pulled into my garage.  I went inside to get my father and my brother.  About 2 minutes later, we ran back outside across the street and by that time, the object had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107338.html](http://www.nuforc.org/webreports/reports/107/S107338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
