@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Woodward (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>loud boom and big flash of lightI was on my way to lunch when i heard a loud boom and a big flash of light. it looked like a bomb exploded in the sky but then it soared off into space</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42044.html](http://www.nuforc.org/webreports/reports/042/S42044.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Somerset (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangular lighted object spotted hovering in Pennsylvania.I was driving home from a friends home, and i saw bright blue lights in the sky. I pulled over because i knew it was not an airplane.  I looked up at it and it was going fairly fast, sideways.  It had a rectangular shape with about 4 or 5 rows of small rectangular lights. The lights were blinking vey fast.  The road I was on was coming down from a ski resort and there were not many homes around, just a few farms , and lots of fields. When I stopped to look at this object, it was hovered about a mile from the ground, and then it took off sideways again.  I could not tell where it went because it went so fast.I have had dreams about ufos but this was the first time I ever saw any.  I am sure of what i saw, my heart has never raced like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55408.html](http://www.nuforc.org/webreports/reports/055/S55408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
