@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:24 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Light moving across sky and then dissipates and disapears within 15-20 seconds.I have been living in Chico since 1977. In 1987 I was laying in a field of grass and looking up at the sky and it was evening about 11pm.  I noticed a small light moving among the stars.  The light moved in every direction impossibly.  It moved in circles and up and down and side-ways and it made no sound. It looked like a star or satellite but like I said it moved im-possibly. It did not move across the entire sky as it only covered a little space in the sky.  It continued for a few minutes and then dissipated. It was soon out of my vi-sion.  This has happened 10 times in my life the recent being In February this year 2014 seeing 6 lights within a two week period and one night seeing 2.  It always happened at nightmore frequently around 7pm. I was in upper Bidwell park. 1 light was more orange than the usual yellow/white star looking light.  There was never any sound.  Some moved irratically and dissipated quickly while others moved straight and very fast and dissipated (at least 1000mph based on time and distance travelled) or turned slightly and dissipated. It felt as if when I noticed them is when they dissapeared.  There is an airport near where I have seen most of these lights.  I have been walking at night in the park for years and am very aware of all of the different air traffic including satellites.  No other craft like airplanes or other lights followed the lights.  1 time one of the lights turned from white to orange as it dissipated</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108908.html](http://www.nuforc.org/webreports/reports/108/S108908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Odessa (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On February 22, 2016, at approximately 13:00 hours, this object in the picture flew by in a northeast direction.  A round glowing blue circular object with six lights and a vapor trail.  I was able to capture two pictures of the object.((NUFORC Note:  Lens flare.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126010.html](http://www.nuforc.org/webreports/reports/126/S126010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
