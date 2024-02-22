@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 21 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Saltsburg (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Immense triangular craft accompanied by vibrational rumbling upon departure.Began as white light seen through pine trees for a duration of ~15 seconds.  At first was believed to be an aircraft with landing lights on.  Initially the light was fairly dim but I noticed a gradual increase in intensity through the trees.  After about 15 seconds a triangular shaped craft ~100yards in length emerged from behind the trees into clear skies traveling west to east.  The craft had three large, bright incandescent to slightly bluish colored lights at each point of the triangle.  The craft was completely silent and appeared to be ascending at a gradual rate.  After about 5 seconds of observation the craft simply disapeared as if it was realized that it was being watched (accompanied by a low vibrational rumbling).  I scanned the skies for an additional 15 minutes to see if i could hear the sound of jet engines overhead but no additional noises could be heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21965.html](http://www.nuforc.org/webreports/reports/021/S21965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southampton (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Cross of lights with streams at ends covering the center of my binocular's field of vision.  Apparently stationary--moved with stars.Insomniac me was up at 4:30.  I happened to look out our front window--and saw a very bright light shining like a flashlight in the sky but seemingly not moving in the southeastern quadrant.  Much too bright for a star.  Apparently not one of those cargo planes that land at a nearby AF base.  I looked through my 15x70 astronomical binoculars--and what I saw was a plus-sign shaped arrangement of bright lights covering the center of the binocular's field of vision--perhaps a half dozen or so each way with streams of light coming from the four ends. Sort of like a cross of headlights.  Steady, not flashing, yellow-white.  My wife watched it too--she told me not to go outside!  I watched it on and off for over an hour until it disappeared with daybreak.  As I kept watching it appeared to move very slowly westward--as if it was stationary in the sky, but changing its apparent position with the Earth's rotation as the stars do.  That would mean it was very high up above the reach of our gravity and therefore given its appearance in the binocs, very large. Perhaps an object reflecting the rising Sun?  But the Sun was well below the horizon, the lights were facing my direction, and they hardly looked like reflections. Anyway, what kind of object could it be?  Space station?  Doesn't look like that.  Satellite?  No way. "Craft"?  Well, it was evidently not a natural phenomenon.Of course, I e-mailed the relevant authorities and media, and of course they will ignore it.  I have no way of knowing who else might have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107359.html](http://www.nuforc.org/webreports/reports/107/S107359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
