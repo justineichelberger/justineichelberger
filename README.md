@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:42 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:33 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Minnetonka (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Bright light moving rapidly across night sky, leaving a trail, but slower than a meteor and it didn't burn out.A bright white light appeared in the sky traveling rapidly from SW to NE.  For a second I thought it was a meteor, but it was not moving as fast (but much faster than an airplane) and it kept going until I couldn't see it over the hill.  It didn't burn out like a typical "shooting star."  It did have a tail, however, so it clearly wasn't a plane.  I couldn't hear any sound.I am not a scientist, but I'm not a nut, either.  I've never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107379.html](http://www.nuforc.org/webreports/reports/107/S107379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sarawak (Malaysia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>UFO bird style.We thought it was a bird at first. It kind of circled around and look as though it wa flapping its wings and flying. But when we looked at it closer, we discovered that it was in quite different to the way we had imagined it. It was shape like a bird yes, but made out of this... optical fibre type material, with all these colours running through it. Pink, red, purple all ran through it. No bigger than the palm of a hand, we thought it was really interesting. Then we looked around and discovered heaps more, all flying around us an making this high-pitched buzzing sound.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous; we cannot guarantee that the report was, in fact, submitted from Malaysia.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38620.html](http://www.nuforc.org/webreports/reports/038/S38620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
