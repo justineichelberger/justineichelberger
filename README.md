@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Otway (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My girlfriend and I were just leaving to go out of town, when I noticed two large glowing  orbs above my  small lake. They seemed to just hover there. We watch them for a good ten minutes until they stared to move away. One was about 150 feet across while the other was about 100 feet across.We new we had to follow to see which direction they were headed. We followed down the mountain I live on and continued to keep visual  contact with these two orbs . They seemed to be several miles away from us.The roads in my area are very snakey andup and down hilly areas. We were still able to keep them in sight for a good half an hour. When we reach St Rt.32 They seem to pick up speed and in North-East direction was lost  in the dark nite skys. The nite was clear and it was a cold  calm nite for the records .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14845.html](http://www.nuforc.org/webreports/reports/014/S14845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>heran las 2 pm cuando salimos del restaurant donde estabamos comiendo mi companero y yo cuando mire al cielo  por un momento pense que heran globos con helio porque heran mas de ocho pero se movian en diferentes direcciones hasta quedar fijos en un solo lugar  sobre mi cabeza y alos lados despues llegaron dos mas del suruno tras  otro y se quedaron parados mucho tiempo cerca de 45 minutos despues desapareciero  rapidamentequedando uno que despues se fue alejando rapidamente estaban bajos  heran color metalico y brillaban</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22030.html](http://www.nuforc.org/webreports/reports/022/S22030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
