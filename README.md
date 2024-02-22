@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southampton (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Cross of lights with streams at ends covering the center of my binocular's field of vision.  Apparently stationary--moved with stars.Insomniac me was up at 4:30.  I happened to look out our front window--and saw a very bright light shining like a flashlight in the sky but seemingly not moving in the southeastern quadrant.  Much too bright for a star.  Apparently not one of those cargo planes that land at a nearby AF base.  I looked through my 15x70 astronomical binoculars--and what I saw was a plus-sign shaped arrangement of bright lights covering the center of the binocular's field of vision--perhaps a half dozen or so each way with streams of light coming from the four ends. Sort of like a cross of headlights.  Steady, not flashing, yellow-white.  My wife watched it too--she told me not to go outside!  I watched it on and off for over an hour until it disappeared with daybreak.  As I kept watching it appeared to move very slowly westward--as if it was stationary in the sky, but changing its apparent position with the Earth's rotation as the stars do.  That would mean it was very high up above the reach of our gravity and therefore given its appearance in the binocs, very large. Perhaps an object reflecting the rising Sun?  But the Sun was well below the horizon, the lights were facing my direction, and they hardly looked like reflections. Anyway, what kind of object could it be?  Space station?  Doesn't look like that.  Satellite?  No way. "Craft"?  Well, it was evidently not a natural phenomenon.Of course, I e-mailed the relevant authorities and media, and of course they will ignore it.  I have no way of knowing who else might have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107359.html](http://www.nuforc.org/webreports/reports/107/S107359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i was driving down the highway and saw a blue orb that disappeared when i focused on it.I was going down 2818 (which is a highway by my house) and I looked up in the sky to see if any planes were going to land,because its by an airport.  I looked up and saw nothing,and kept driving.  I then looked up again and saw a blue circular light, first thinking it was a small airplane landing, then taking a second look.When i focused on the light with my eyes it sped away to fast for me to see where it was going.  The light seemed to just disappear into nothing. My eyes immediately began to water, i wasn't crying and my eyes weren't irritated;they just started watering.  I got goosebumps and called my mom. When she tried to call me back there was a call failed message,and then a weird sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68856.html](http://www.nuforc.org/webreports/reports/068/S68856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
