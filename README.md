@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Front Royal (VA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>while headed north on route 522 i noticed a silver orb , at first I thought it was a high altidude ballon with a milar coteing . while I watched the "ballon" mad a quick move to the right and stopped then to the left and stopped. I was distracted while I made a turn to family dollor wharehouse , after making the turn I looked back and the orb was gone . The weather conditions where perfectly clear taht day and route 522 runs along a ridge and at that point has almost a 180 dgree horizan. This location is also in the landing control area of dulles international airport. I later asked a friend of mine who had retired from the airforce as a pentagon empolyee[ what dept?? no clue] he kinda grinned and told me the upper level winds can do some unusual things . I later asked yet another friend that worked at Greenbelt navigation center . The reply I gaot was " I am not allowed to coment om any thing that related to my work at green belt or any other clasified prodgect " HUMMMM seems wierd to me how bout you guys((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38769.html](http://www.nuforc.org/webreports/reports/038/S38769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pretty large, very bright, white ball with flames coming out, caused power to go out in friend's house.I heard all the dogs in my neighborhood start to bark a lot, so I went outside to see what had happened. There was a big white ball, very bright. There was what looked like flares of fire coming out of it. The object was smaller than the moon, but bigger than a planet. I don’t really know how to describe the size. It lit up the whole sky. There was a very slight flashing to the light. I called my friend (who lives about 10 minutes away) and began telling him about it. About 30 seconds into the call, the UFO disappeared. At that moment, my friend’s lights flickered and all his electronics stopped working. However, everything in my house was fine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61791.html](http://www.nuforc.org/webreports/reports/061/S61791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
