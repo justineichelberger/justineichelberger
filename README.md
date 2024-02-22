@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:24 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>it just stayed in one spot, i watched one the entire drive from the moment i saw it on the express way, in plain view. the town of Webster is very suburban with few lights and has an open bay so it is a great view into the sky. and also a quiet area.  this light was dense as they usually are when i see them.  pulsating and changing color. if it even did move, it moved very slow and at different times of staying still. then it disappeared (turned lights off)  then appeared again. did this for about 10 minutes...as 2 others were doing the same thing but lower and flying around the general area this was in. one was low enough to see partial shape in a busy plaza with lights in it.this is the first of MANY MANY MANY sightings/encounters. i will be sure to report now that i know where to do so.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80191.html](http://www.nuforc.org/webreports/reports/080/S80191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Light moving across sky and then dissipates and disapears within 15-20 seconds.I have been living in Chico since 1977. In 1987 I was laying in a field of grass and looking up at the sky and it was evening about 11pm.  I noticed a small light moving among the stars.  The light moved in every direction impossibly.  It moved in circles and up and down and side-ways and it made no sound. It looked like a star or satellite but like I said it moved im-possibly. It did not move across the entire sky as it only covered a little space in the sky.  It continued for a few minutes and then dissipated. It was soon out of my vi-sion.  This has happened 10 times in my life the recent being In February this year 2014 seeing 6 lights within a two week period and one night seeing 2.  It always happened at nightmore frequently around 7pm. I was in upper Bidwell park. 1 light was more orange than the usual yellow/white star looking light.  There was never any sound.  Some moved irratically and dissipated quickly while others moved straight and very fast and dissipated (at least 1000mph based on time and distance travelled) or turned slightly and dissipated. It felt as if when I noticed them is when they dissapeared.  There is an airport near where I have seen most of these lights.  I have been walking at night in the park for years and am very aware of all of the different air traffic including satellites.  No other craft like airplanes or other lights followed the lights.  1 time one of the lights turned from white to orange as it dissipated</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108908.html](http://www.nuforc.org/webreports/reports/108/S108908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
