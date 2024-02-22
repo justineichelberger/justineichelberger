@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i was driving down the highway and saw a blue orb that disappeared when i focused on it.I was going down 2818 (which is a highway by my house) and I looked up in the sky to see if any planes were going to land,because its by an airport.  I looked up and saw nothing,and kept driving.  I then looked up again and saw a blue circular light, first thinking it was a small airplane landing, then taking a second look.When i focused on the light with my eyes it sped away to fast for me to see where it was going.  The light seemed to just disappear into nothing. My eyes immediately began to water, i wasn't crying and my eyes weren't irritated;they just started watering.  I got goosebumps and called my mom. When she tried to call me back there was a call failed message,and then a weird sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68856.html](http://www.nuforc.org/webreports/reports/068/S68856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>it just stayed in one spot, i watched one the entire drive from the moment i saw it on the express way, in plain view. the town of Webster is very suburban with few lights and has an open bay so it is a great view into the sky. and also a quiet area.  this light was dense as they usually are when i see them.  pulsating and changing color. if it even did move, it moved very slow and at different times of staying still. then it disappeared (turned lights off)  then appeared again. did this for about 10 minutes...as 2 others were doing the same thing but lower and flying around the general area this was in. one was low enough to see partial shape in a busy plaza with lights in it.this is the first of MANY MANY MANY sightings/encounters. i will be sure to report now that i know where to do so.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80191.html](http://www.nuforc.org/webreports/reports/080/S80191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
