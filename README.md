@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:53 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Valley City (ND) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  93</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153789.html](http://www.nuforc.org/webreports/reports/153/S153789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Have you ever been abducted?   I have.  My story in detail.This is the truth though scary.  I was in my room grading my students papers when all of sudden I noticed a bright light outside my apartment.  I stepped outside to see what all what the comotion was when I felt a warm sensation come over my body.  The next thing I can remember is being alone on a cold hard table with people in Docter like masks above me. I can swear they were at least 8 feet tall.  They were slimy.  I knew this because they touched me in places I'd rather not share.  They stuck a needle in me but for some reason I felt no pain.  In the backround there were more people that appeared to be the female versions of the people.  The people talked in a foreign language that could not be understood.  It was a series of clicks and mumbled speech.  The room grew cold and I felt something being pulled out of me.  My apendix I believe.  Then I was knocked out once again.  I woke up right where this adventure had started.  I thought it to be a dream but then I felt the scar on my side. It looked as if someone had split me open with a machete. It was stitched closed as if a surgeon had performed the strange operation.((NUFORC Note:  We have inquired whether the witness would be willing to have the scar examined, and perhaps photographed, by a physician, and whether she would like to meet with an investigator.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27828.html](http://www.nuforc.org/webreports/reports/027/S27828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
