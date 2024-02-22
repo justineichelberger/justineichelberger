@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lebanon (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Several Orange Globe Fireball Lights Low in the Sky, Winking Out and Coming Back In Other Locations.My teenage son roams our 2 acre property every evening, looking at stars and playing with our cats.  He came in to get me a few minutes before 7 and told me he saw some strange orange globe lights in the sky and that he didn't know what they were.  I immediately went out, looked in the northwest sky, just over the horizon and I saw an orange globe fireball light that suddenly split apart and was 3 globes, but they were very very close together and I couldn't tell if it was one or three.  My son said the same.  He couldn't tell if it was four or one.  They stayed in the sky for 15 seconds or so, and then just went out.  Over the next hour and a half the lights came back, all in similar areas, but not exactly the same place.  Sometimes the globes were further apart, other times, closer.  They were in a straight line.  I went inside for a while and my son said they were arranged in a triangle shape at times.  I came back out and saw them one more time.  My son caught a 3 second video, but his battery went dead.  There was no sound at all.  My son said they looked to be about 3 miles away.  I could not tell.  The dogs in the neighborhoos were going crazy barking.  Our two cats were acting very odd.I am not sure if this is significant enough to warrant being contacted by an investigator, but you may contact me if desired.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125999.html](http://www.nuforc.org/webreports/reports/125/S125999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Front Royal (VA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>while headed north on route 522 i noticed a silver orb , at first I thought it was a high altidude ballon with a milar coteing . while I watched the "ballon" mad a quick move to the right and stopped then to the left and stopped. I was distracted while I made a turn to family dollor wharehouse , after making the turn I looked back and the orb was gone . The weather conditions where perfectly clear taht day and route 522 runs along a ridge and at that point has almost a 180 dgree horizan. This location is also in the landing control area of dulles international airport. I later asked a friend of mine who had retired from the airforce as a pentagon empolyee[ what dept?? no clue] he kinda grinned and told me the upper level winds can do some unusual things . I later asked yet another friend that worked at Greenbelt navigation center . The reply I gaot was " I am not allowed to coment om any thing that related to my work at green belt or any other clasified prodgect " HUMMMM seems wierd to me how bout you guys((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38769.html](http://www.nuforc.org/webreports/reports/038/S38769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
