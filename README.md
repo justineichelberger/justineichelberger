@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:19 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dothan (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Very bright flashes near big dipper.  Like nothing ever seen by us before.UFO was seen near the big dipper.  it would flash very bright about every 15 seconds like a camera flash.  It was not an Iridium flare; we see those all the time.  Because it was doing a zigzag pattern and then it went straight north.  This is my second report on the exact same object seen last year on June 23, 2016.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132930.html](http://www.nuforc.org/webreports/reports/132/S132930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southampton (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Cross of lights with streams at ends covering the center of my binocular's field of vision.  Apparently stationary--moved with stars.Insomniac me was up at 4:30.  I happened to look out our front window--and saw a very bright light shining like a flashlight in the sky but seemingly not moving in the southeastern quadrant.  Much too bright for a star.  Apparently not one of those cargo planes that land at a nearby AF base.  I looked through my 15x70 astronomical binoculars--and what I saw was a plus-sign shaped arrangement of bright lights covering the center of the binocular's field of vision--perhaps a half dozen or so each way with streams of light coming from the four ends. Sort of like a cross of headlights.  Steady, not flashing, yellow-white.  My wife watched it too--she told me not to go outside!  I watched it on and off for over an hour until it disappeared with daybreak.  As I kept watching it appeared to move very slowly westward--as if it was stationary in the sky, but changing its apparent position with the Earth's rotation as the stars do.  That would mean it was very high up above the reach of our gravity and therefore given its appearance in the binocs, very large. Perhaps an object reflecting the rising Sun?  But the Sun was well below the horizon, the lights were facing my direction, and they hardly looked like reflections. Anyway, what kind of object could it be?  Space station?  Doesn't look like that.  Satellite?  No way. "Craft"?  Well, it was evidently not a natural phenomenon.Of course, I e-mailed the relevant authorities and media, and of course they will ignore it.  I have no way of knowing who else might have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107359.html](http://www.nuforc.org/webreports/reports/107/S107359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
