@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>heran las 2 pm cuando salimos del restaurant donde estabamos comiendo mi companero y yo cuando mire al cielo  por un momento pense que heran globos con helio porque heran mas de ocho pero se movian en diferentes direcciones hasta quedar fijos en un solo lugar  sobre mi cabeza y alos lados despues llegaron dos mas del suruno tras  otro y se quedaron parados mucho tiempo cerca de 45 minutos despues desapareciero  rapidamentequedando uno que despues se fue alejando rapidamente estaban bajos  heran color metalico y brillaban</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22030.html](http://www.nuforc.org/webreports/reports/022/S22030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cold Spring (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Drove underneath two triangular crafts that made no sound.On February 22nd, 2012, my wife and I headed off to Ash Wednesday Mass at about 6:40 pm.  As we drove through downtown Cold Spring Minnesota, we traveled east towards Rockville, Minnesota where our church is.  As we drove through downtown, we both noticed two crafts flying to our south about two blocks away and at about the height of the water tower.  The two crafts were south of the water tower.  So they were to our right as we were driving.We were both transfixed on them because it seemed so strange two crafts flying that low and slow.  At first we thought they might be helicopters, but they there were flying very close to each other.  They were in a formation with the lead craft slightly ahead of the other and stayed locked into that pattern.  They both had flashing lights on them which then again made us think they were helicopters.  They were flying way to slow and low to be planes, and planes would never fly that close together.  I have seen the Blue Angels perform and they would be the only ones who could pull off a maneuver like that.As we traveled along main street, we intersected with Hwy 23 that runs through town.  Hwy 23 runs east/west and the crafts were flying parallel to the Hwy.  When we reached the intersection (probably 20 seconds from once we first saw the crafts), the traffic light was green for us and we crossed onto Hwy 23 and we were now traveling East on Hwy 23 to Rockville.  Just then the two craft made an abrupt turn to the North East and slowly traveled right over our car.  This is where it gets really strange.  We immediately rolled down our windows to see if we could make out the crafts.  We noticed that there was no noise.  A helicopter at that altitude would sound very loud, but these did not make a sound.  Also, I can’t be 100% sure because it was the end of twilight, but we both thought we saw the shapes of the craft and they looked like triangles.  In addition we saw a dark blue light underneath one of the crafts.  This dark blue light did not flash.  We’ve never seen anything l! ike this before.  We watched as they drifted off towards the northeast.  Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91382.html](http://www.nuforc.org/webreports/reports/091/S91382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
