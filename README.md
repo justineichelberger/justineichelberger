@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:36 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pretty large, very bright, white ball with flames coming out, caused power to go out in friend's house.I heard all the dogs in my neighborhood start to bark a lot, so I went outside to see what had happened. There was a big white ball, very bright. There was what looked like flares of fire coming out of it. The object was smaller than the moon, but bigger than a planet. I don’t really know how to describe the size. It lit up the whole sky. There was a very slight flashing to the light. I called my friend (who lives about 10 minutes away) and began telling him about it. About 30 seconds into the call, the UFO disappeared. At that moment, my friend’s lights flickered and all his electronics stopped working. However, everything in my house was fine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61791.html](http://www.nuforc.org/webreports/reports/061/S61791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kintnersville (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20160.0 - 20160.0 minutes.</sub><blockquote><sub>Bright light in sky that can change direction or drop instantly and has red lights on when it travelsFor the last 2 weeks we have seen a bright white light in the sky.  We were thinking it was a planet but then we saw it drop dramatically and go to the right and as it traveled away from us, we saw red lights on it and then we saw it hover over trees. Even when it has been cloudy and there are no stars out, this bright white light is still there. We got our telescope out and the next night we looked at it and the way to describe it best was it was shaped like a round fried egg, sunny side up.  I think that is the best way to describe the shape of what it looked like.  The rim of the cylinder was solid and it outlined the cylinder.  Then last night when we were traveling on Rt. 113 in Comar, PA, we saw another bright white light the same as the one we looked at with our telescope.  Usually about 9 PM everynight, the bright light, UFO, drops and travels away from our sight and it always has red lights on as it travels away from us.  We live in Bucks County, PA and there have been many recent sitings of UFO's here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68916.html](http://www.nuforc.org/webreports/reports/068/S68916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
