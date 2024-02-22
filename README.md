@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 22 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Duanesburg (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval shaped flying object in the night skyI saw a flying object right after the midnight.  The approximate appearance was symmetrical and oval from the point of view if looking straight in the sky; with several flashing/blinking lights spread horizontally of the lower part of the object.  The object was moving slowly horizontally, from North to South, at the height where helicopters fly and with the similar speed; the lights were blinking or flashing interchangeably.   It moved through the part of the sky and then disappeared, either behind the cloud or it was simply gone.   It was not a helicopter, nor a plane - I observed it long enough to see the difference, and the distance allowed no confusion.  I was so taken by the sight that didn't think to try to attempt to record the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96398.html](http://www.nuforc.org/webreports/reports/096/S96398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Otway (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My girlfriend and I were just leaving to go out of town, when I noticed two large glowing  orbs above my  small lake. They seemed to just hover there. We watch them for a good ten minutes until they stared to move away. One was about 150 feet across while the other was about 100 feet across.We new we had to follow to see which direction they were headed. We followed down the mountain I live on and continued to keep visual  contact with these two orbs . They seemed to be several miles away from us.The roads in my area are very snakey andup and down hilly areas. We were still able to keep them in sight for a good half an hour. When we reach St Rt.32 They seem to pick up speed and in North-East direction was lost  in the dark nite skys. The nite was clear and it was a cold  calm nite for the records .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14845.html](http://www.nuforc.org/webreports/reports/014/S14845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
