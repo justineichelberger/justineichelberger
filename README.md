@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:35 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dracut (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Extremely strange ships in Massachusetts skies.I have been noticing a strange light in the sky that lasts all night.  Sometimes I don't see it for almost a month after it disappears but tonight I saw it and this time a second one was with it.  The both are exactly the same, they seem to have two orangey reddish lights in the center and what looks like an X directly behind them and a horizontal diamond shape behind that.  I thought they were planes but the don't move for hours.  I've tried several times to take pictures but it always comes out to dark and you can't see them.  I've used several different applications on my phone to try and identify them as possibly being a star, planet, satellite, or anything that makes sense but when I point my phone at then it just shows up as empty space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107385.html](http://www.nuforc.org/webreports/reports/107/S107385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Temple City (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ten diamond shape objects floating in the sky.It was ten at night and the sky was dark shade of pink.  We  were on a dark quiet neighborhood.  We were parked on the towards the south side and I seen an object through the trees.  It was brown and a diamond shape.  Floating through the sky side to side.  I thought it could be a bird or a kite but it was too high in the sky.  Then ten more diamond objects floated behind it doing the same thing.  It was heading towards north and disappeared.  The dogs on the neighborhood were barking and no more than five minutes a helicopter came and went in the same direction looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107474.html](http://www.nuforc.org/webreports/reports/107/S107474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
