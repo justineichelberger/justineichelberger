@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>13 to 15 bright reddish/orange orb shaped objects seen flying in the skyI was outside in my back yard last night when I saw around 13 to at least 15 large orb shaped like objects in the sky flying in some sort of pattern.  They were extremely  bright in color and moved around each other.  They also seemed to change in color as they moved around, from yellowish to bright orange/red.  After a few minutes these objects seemed to fly straight up into the night sky and just disappear, however, 3 of the orbs hung longer than the rest but eventually they to just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96415.html](http://www.nuforc.org/webreports/reports/096/S96415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-7 orange/red lights traveling in linear pattern just above tree.  They traveled slowly from South West to North West across the foggy night sky.  They paused for 15-30 seconds and began to ascend, that's when they faded out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96440.html](http://www.nuforc.org/webreports/reports/096/S96440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
