@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:47 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Williston (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Large orange fireball, exceptional speed and low altitude; observed by at least two people.  AWESOME!Fireball traveling in low atmosphere.....below flight paths entering into BTV airport.It was exceptionally close and large. reported to local authorities Williston P.D. who verified radar contact with the Burlington International airport.Startling, bright, heart jumping, and exhilarating moment!  Are we alone???  Do they come and go???  Are they just utilizing our planet with us?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107658.html](http://www.nuforc.org/webreports/reports/107/S107658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3 months - 3 months minutes.</sub><blockquote><sub>First time I saw it I ignored it.  Thought it was an airplane or some flickering Star that would go away.  But every night now for about 3 months there has been at least one and up to three UFO of some sort.  They fly in every direction and at hyper speed.  They like to do little flips and know when people are watching.  They dance in the sky and shoot from left to right.  It's become a ritual now, every time me and my fiance go smoke a cigarette we see the little "alien" we call it.  And we watch it and then go inside and come back out a few ours later and do it all over again.  We have had many friends over and they have all just sat and watched them too.  Very cool anyone else see these guys over downtown meridian????  Please tell me.  I think we are are being watched and observed. and I don't mind it.  Do you?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126016.html](http://www.nuforc.org/webreports/reports/126/S126016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
