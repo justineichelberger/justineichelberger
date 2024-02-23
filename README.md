@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Here is the info I tried to submit on your site- I got a fatal error. Bright green light heading to earth at about 45 deg angle Northeast of Oakland Airport, appearing to come down just to the east of the Oakland hills.  The object moved very fast and I saw no light/explosion from impact.  I thought it was a plane crashing at first but it was a distinct, very bright green light that left no trail/flames/debris.  We flew over the area about 1 hr later and saw no signs of impact.This appears very similar to the light that some folks saw in Napa in December of 2001 (in your database).I'm a professional and was very clear when I saw the light.  I was heading to the Oakland airport for an early flight.  This light was in the opposite direction of the airport and was definitely not a plane.((NUFORC Note:  Time and date of event are unknown.  The witness anonymously submitted the above text, but provided no details as to time and date.  The party has not responded to our queries via e-mail, although the report appears to us to be serious minded in nature.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28734.html](http://www.nuforc.org/webreports/reports/028/S28734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a silver spinning  football shaped object going across the sky during the day.I saw something out my kitchen window. I thought it was a large mylar football floating into the sky at first. That was the shape it was. It was moving horizontally to the left and spinning in a clockwise direction. My daughter says it had a light flashing on it, but it looked to me like the sun reflecting as it spun. It was spinning pretty quickly. It was silver in color. It went across the sky and then up. It was daylight and we tried very hard to figure out what it was. About 20 minutes later there were 2 helicopters in sight out the same window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42083.html](http://www.nuforc.org/webreports/reports/042/S42083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
