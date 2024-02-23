@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:28 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red bright orbs flying in formation then three flew past us climbing up into the night!while driving down the 101 west just before 51st ave in Glendale we initially saw 10-12 bright red orbs hovering in a formation of the big dipper.   We wanted to get closer so we exited 51st and drove back towards the lights on the frontage road.  The lights began to disappear higher into the sky till there were none left.   We turned on 35th ave and saw another one moving past us at a high altitude.  We then pulled into a driveway that went into a open desert area and one came from the tree line heading towards us.  As it got closer it began climbing higher and was straight ahead of us and stopped.   From the same tree line a second ball of red light that had a cone of light shining from the top of the ball began to follow the first.  Once the second ball got closer to the first the first one began to take off again heading away from us and climbing higher into the night.  As the second ball followed the first ones path turning away from us a THIRD one began to fly towards us from the same tree line.  This one seemed closer and even bigger.  It turned away in a large turn and quickly sped behind the other two.  All three got to such an altitude that they disappeared.   Someone else had to see these flying they were right next to the highway!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96411.html](http://www.nuforc.org/webreports/reports/096/S96411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Galveston (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Myself and 2 others observed a neon blue meteor fall into the ocean off of Galveston island.  It was on 2/23/10 at approximately 11:00 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74453.html](http://www.nuforc.org/webreports/reports/074/S74453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
