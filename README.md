@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:47 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sahuarita (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Glowing orbs over Southern Arizona5 circular orange "balls" appeared, 3 initially in a straight line, one following to the west approximately 5 miles away and another in between the two that started out as a single ball and then like a lava lamp split into two.  At the same time far off in the distance there were 4 small stationary flashing lights that were much higher and further to the south than the "balls", they did not move and would stop flashing and then start again all at the same time, when the event of the "balls" ended the flashing lights just disappeared.  The balls did not have any smoke trails like fireworks would, they just emerged and then went out as a light bulb does, no dropping or any other movement other than the one splitting into two.  I called the police who said there were no aircraft in the area.  I was on the phone with my sister when it started and called my family out to see it.  It freaked out my youngest son to the point he ran inside and started turning on all the lights. Did anyone else in this area see this?  I am getting nowhere with any news station or newspaper.  I have to believe that someone saw this since it was such an obvious sighting, and odd at that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49313.html](http://www.nuforc.org/webreports/reports/049/S49313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Williston (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Large orange fireball, exceptional speed and low altitude; observed by at least two people.  AWESOME!Fireball traveling in low atmosphere.....below flight paths entering into BTV airport.It was exceptionally close and large. reported to local authorities Williston P.D. who verified radar contact with the Burlington International airport.Startling, bright, heart jumping, and exhilarating moment!  Are we alone???  Do they come and go???  Are they just utilizing our planet with us?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107658.html](http://www.nuforc.org/webreports/reports/107/S107658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
