@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fallon (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Four lights forming a parallel line transformed into a triangle, and then blinked out.Driving North on Lovelock Highway near Coleman Rd, I noticed 4 lights in a parallel line which seemed to be coming toward me from the North-Northeast.  They appeared to be near the Fallon Airport and I initially supposed them to be one of the large Navy jets heading toward the base.  As they continued to approach, I could see that there was no body to the aircraft, but four separate lights which then changed from a parallel line to a triangle, with the 2nd light from the left forming the apex.  After about 5 seconds, the lights simultaneously blinked out.  I was unable to see any other sign of them.  When I made it home a few minutes later, only the brightest starts and Venus were visible in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117462.html](http://www.nuforc.org/webreports/reports/117/S117462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morganville (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 80.0 - 80.0 minutes.</sub><blockquote><sub>a very bight shaped object slowly moving over the western sky  Hi,  I live in Monmonth couty NJ. Today is Feb 23,2009. At about 7:15 pm I saw a very bright object over the western sky. It was about 40 degree above the horizon. I used a telescope to look and found it has a shpae of arc, the entire body is very brigth. It definetly is not a plane (moving too slow) and not a star or planet (moving too fast). Now is 8:20 pm, the brigth object is still over the sky, but about 15 degree above the horizon. I asked my wife and a couple of friends to look, all they saw it and feel strange.((NUFORC Note:  Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68907.html](http://www.nuforc.org/webreports/reports/068/S68907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
