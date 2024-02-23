@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in La Habra (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge Dark/Black rectangular object in the sky.We were taking a walk when I looked up and saw a huge dark/black rectangular shaped object that seemed to be floating through the air. The object did not make any sound what so ever that I could tell. This thing was the biggest thing I have ever seen in the air, and it was probably several miles away. I noticed a small Cessna aircraft in the vicinity and the object dwarfed the aircraft. The Cessna aircraft look as big as a pinhead next to this object. The object then moved in a southerly direction and disappeared behind a building. I went around the building to maintain my view and the object seemed to have just disappeared. There were several other people out walking and saw this object as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61808.html](http://www.nuforc.org/webreports/reports/061/S61808.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fillmore (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>See for your self, here is the address:              http://((URL deleted))I was taking pictures of my kids playing at a field and saw something in the sky. I didnt hear anything and the thing just seemed to go across. I took some pictures of it and put them on a free website service. I couldnt tell anything about it and am a little worried about getting involved in this stuff.((NUFORC Note:  We will visit the website to inspect the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16868.html](http://www.nuforc.org/webreports/reports/016/S16868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
