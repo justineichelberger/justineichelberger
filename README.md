@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Temple City (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ten diamond shape objects floating in the sky.It was ten at night and the sky was dark shade of pink.  We  were on a dark quiet neighborhood.  We were parked on the towards the south side and I seen an object through the trees.  It was brown and a diamond shape.  Floating through the sky side to side.  I thought it could be a bird or a kite but it was too high in the sky.  Then ten more diamond objects floated behind it doing the same thing.  It was heading towards north and disappeared.  The dogs on the neighborhood were barking and no more than five minutes a helicopter came and went in the same direction looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107474.html](http://www.nuforc.org/webreports/reports/107/S107474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Madison (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 bright whitish lights that changed formation moved slowly above the tree-line toward Lake Erie then disappeared.2/23/15, 8:30 pm.  Madison/Perry/Painesville, OH.My son and I saw a very large triangular formation very low in the western sky.  Three bright whitish  lights seemed to change formation from a triangle to an L-shape and seemed to appear as one light at times.   Difficult to estimate size, maybe as large as a football field; and maybe a mile away at first, then it would seem closer, then move farther away again.  It was very erratic in shape, and distance.  It was probably more than one object.  We got in the car and followed it as it moved slowly northward toward Lake Erie.  It made no sound, and we kept losing sight of it due to the tree line.  We finally lost sight of it close to Painesville over Lake Erie near the Perry Nuclear Plant.  The sky is clear tonight and the quarter moon was quite high above the formation.  This thing was too large and low in the sky to be a plane or helicopter.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117467.html](http://www.nuforc.org/webreports/reports/117/S117467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
