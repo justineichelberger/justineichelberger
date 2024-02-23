@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-7 orange/red lights traveling in linear pattern just above tree.  They traveled slowly from South West to North West across the foggy night sky.  They paused for 15-30 seconds and began to ascend, that's when they faded out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96440.html](http://www.nuforc.org/webreports/reports/096/S96440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Here is the info I tried to submit on your site- I got a fatal error. Bright green light heading to earth at about 45 deg angle Northeast of Oakland Airport, appearing to come down just to the east of the Oakland hills.  The object moved very fast and I saw no light/explosion from impact.  I thought it was a plane crashing at first but it was a distinct, very bright green light that left no trail/flames/debris.  We flew over the area about 1 hr later and saw no signs of impact.This appears very similar to the light that some folks saw in Napa in December of 2001 (in your database).I'm a professional and was very clear when I saw the light.  I was heading to the Oakland airport for an early flight.  This light was in the opposite direction of the airport and was definitely not a plane.((NUFORC Note:  Time and date of event are unknown.  The witness anonymously submitted the above text, but provided no details as to time and date.  The party has not responded to our queries via e-mail, although the report appears to us to be serious minded in nature.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28734.html](http://www.nuforc.org/webreports/reports/028/S28734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
