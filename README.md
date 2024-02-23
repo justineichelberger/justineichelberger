@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3 months - 3 months minutes.</sub><blockquote><sub>First time I saw it I ignored it.  Thought it was an airplane or some flickering Star that would go away.  But every night now for about 3 months there has been at least one and up to three UFO of some sort.  They fly in every direction and at hyper speed.  They like to do little flips and know when people are watching.  They dance in the sky and shoot from left to right.  It's become a ritual now, every time me and my fiance go smoke a cigarette we see the little "alien" we call it.  And we watch it and then go inside and come back out a few ours later and do it all over again.  We have had many friends over and they have all just sat and watched them too.  Very cool anyone else see these guys over downtown meridian????  Please tell me.  I think we are are being watched and observed. and I don't mind it.  Do you?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126016.html](http://www.nuforc.org/webreports/reports/126/S126016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in La Habra (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge Dark/Black rectangular object in the sky.We were taking a walk when I looked up and saw a huge dark/black rectangular shaped object that seemed to be floating through the air. The object did not make any sound what so ever that I could tell. This thing was the biggest thing I have ever seen in the air, and it was probably several miles away. I noticed a small Cessna aircraft in the vicinity and the object dwarfed the aircraft. The Cessna aircraft look as big as a pinhead next to this object. The object then moved in a southerly direction and disappeared behind a building. I went around the building to maintain my view and the object seemed to have just disappeared. There were several other people out walking and saw this object as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61808.html](http://www.nuforc.org/webreports/reports/061/S61808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
