@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Madison (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 bright whitish lights that changed formation moved slowly above the tree-line toward Lake Erie then disappeared.2/23/15, 8:30 pm.  Madison/Perry/Painesville, OH.My son and I saw a very large triangular formation very low in the western sky.  Three bright whitish  lights seemed to change formation from a triangle to an L-shape and seemed to appear as one light at times.   Difficult to estimate size, maybe as large as a football field; and maybe a mile away at first, then it would seem closer, then move farther away again.  It was very erratic in shape, and distance.  It was probably more than one object.  We got in the car and followed it as it moved slowly northward toward Lake Erie.  It made no sound, and we kept losing sight of it due to the tree line.  We finally lost sight of it close to Painesville over Lake Erie near the Perry Nuclear Plant.  The sky is clear tonight and the quarter moon was quite high above the formation.  This thing was too large and low in the sky to be a plane or helicopter.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117467.html](http://www.nuforc.org/webreports/reports/117/S117467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Berkley Heights (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two UFO's? northeast 19:10 02/23/2011I was looking into the East Southeast sky at approximately 19:10.What caught my attention was the closeness(to each other) and extreme brightness of what appeared to be stars.  While I am in no way a trained astrologer, the positioning of these two objects in the sky did not in anyway look familiar to me.I turned and called my family to come and take a look, but as soon as I turned back the stars(objects) were gone. The entire time of this sighting was maybe 30 secconds.I am writing this to one have it documented and two to find out if anyone else witnessed this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80204.html](http://www.nuforc.org/webreports/reports/080/S80204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
