@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a silver spinning  football shaped object going across the sky during the day.I saw something out my kitchen window. I thought it was a large mylar football floating into the sky at first. That was the shape it was. It was moving horizontally to the left and spinning in a clockwise direction. My daughter says it had a light flashing on it, but it looked to me like the sun reflecting as it spun. It was spinning pretty quickly. It was silver in color. It went across the sky and then up. It was daylight and we tried very hard to figure out what it was. About 20 minutes later there were 2 helicopters in sight out the same window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42083.html](http://www.nuforc.org/webreports/reports/042/S42083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fallon (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Four lights forming a parallel line transformed into a triangle, and then blinked out.Driving North on Lovelock Highway near Coleman Rd, I noticed 4 lights in a parallel line which seemed to be coming toward me from the North-Northeast.  They appeared to be near the Fallon Airport and I initially supposed them to be one of the large Navy jets heading toward the base.  As they continued to approach, I could see that there was no body to the aircraft, but four separate lights which then changed from a parallel line to a triangle, with the 2nd light from the left forming the apex.  After about 5 seconds, the lights simultaneously blinked out.  I was unable to see any other sign of them.  When I made it home a few minutes later, only the brightest starts and Venus were visible in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117462.html](http://www.nuforc.org/webreports/reports/117/S117462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
