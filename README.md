@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:42 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strong light, unusual shape, consistent speed glide.I was on my phone in my bad and something caught my attention in my peripheral vision and I sit up and there is a light flashing and I look a little closer and notice almost a circle shape but not just one 3 combined and it was gliding away with a very powerful light and I do not know what it was but I do know it was not a aircraft I've seen or heard of it managed to capture a zoomed in video after I managed to snap out of my nervous shocked faze.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132776.html](http://www.nuforc.org/webreports/reports/132/S132776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salina (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 bright lightsMy wife and I went outside to smoke a cigarette around 9:06 p.m.  It was very dark outside and wife ask me what is that.  I looked west of our driveway and could see three horizontal, equally spaced bright lights hovering the next street over just above the tree line.   I walked to the end of driveway for a better view and it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87340.html](http://www.nuforc.org/webreports/reports/087/S87340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
