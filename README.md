@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salina (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 bright lightsMy wife and I went outside to smoke a cigarette around 9:06 p.m.  It was very dark outside and wife ask me what is that.  I looked west of our driveway and could see three horizontal, equally spaced bright lights hovering the next street over just above the tree line.   I walked to the end of driveway for a better view and it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87340.html](http://www.nuforc.org/webreports/reports/087/S87340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Millinocket (ME) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My husband was getting dropped off at our home by his father.  I was in the car in the driveway, when they pulled up.  They had talked for about a minute when my father-in-law screamed my name.  He told me to get out and look at the sky.  It was and egg shaped craft fully lit up, as if it was glowing.  It had a small trail, but nothing like a comet.  It flew very low over the tree line, horizontally across the sky.  30 seconds later, it couldn't be seen.   Heading towards East Millinocket.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144973.html](http://www.nuforc.org/webreports/reports/144/S144973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
