@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:02:30 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chambersburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>Bright unmoving star light object observed in lower sky where no astrological object should beAt around 8 PM on the evening of the 24th - i was pointing out stars and formations in the sky to my grandchildren.  In the western sky - fairly low - but above the mountains - was a bright object - second in brightness to the moon - at first i thought it was the planet Venus - but upon observing the light blinked like a star's light and i found Venus in the eastern (sic.  Jupiter?  Venus is in the western sky, at the time indicated.  NUFORC) sky.  Upon further observation - i saw a small reddish hue to the lower left side of the bright object.  The sky was perfectly clear without clouds, there was no noticeable noise, and the object was not moving.  I placed a point of reference in the ground to make sure the object was not moving.  After watching some 5-10 minutes - i got my wife and son in law to observe as well.  We took a few pictures on the cell phone - but nothing really of note - After observing off and on for 30 minutes - i went to the computer to see what might be so bright in the western sky - and found nothing of note for that t! ime and date.  I went to get my camcorder to film the object - came back outside and the object was gone.  This whole process consisted of some 30 minutes in duration.  I have been watching the sky as weather allowed the last several nights since- around the same period and have not seen anything - except for the 27th - when around the same time i observed a similar light in brightness in the western sky - but higher than the previous night.  I observed for about 10 minutes - when i went inside to get the camcorder I emerged to an empty sky again.  We are in a rural area with a very clear sky with little light residue.  We are also near a military depot - around 7 miles away.  A friend observed the brightness in the western sky on the 24th as well - but assumed it was a star and did not watch it for any period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117529.html](http://www.nuforc.org/webreports/reports/117/S117529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Glasgow (Canada) (NS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>strange object noticed in sky, 4 distinct lights, diamond shaped.I noticed an object in the sky when i was out for a walk on Feb 24, 2009, around 9:00pm in Nova Scotia, Canada.i looked up as i was walking down my hill and saw four strange distinct lights in the sky.the 4 lights moved as a whole, proving that it was one UFO and not 4 seperate ones. It moved rather quickly and stopped suddenly and after about 8-10 seconds started moving again until it dissapeared out of sight behind trees. the object was in the shape of a diamond with one light clearly a red colour and the other 3 were white flashing yellow in a rotational cycle.the first 1-3 seconds of the digital video clip show the object before i zoomed in to get a closer look. the shakiness of clip was when the object was moving. it was hard to capture until it stopped.the object made no distinct sound. as showed in the video, the only noise present is the wind from being outdoors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68989.html](http://www.nuforc.org/webreports/reports/068/S68989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
