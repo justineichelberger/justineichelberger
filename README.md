@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:47 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:18 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pigeon Forge (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw a dark triangular object with bright red lights that flew over us.On the night of Febraury 24th, 2013, my husband and I picked up my daughter from my parents house in Walden Creek.  Instead of going home through Pigeon Forge, we took the back roads home.We turned onto Goose Gap Road and went around the 90% turn to the right and started up the hill on the limited straight away.Upon the straight away I immediately saw two bright red lights in the sky just above the power line pole coming up in the next curve.  I said, "Oh my gosh! What is that?! It's not an airplane!"We drove through the curve and lost sight for a few moments as we dipped and the trees were blocking our view.  As we started back up the hill again the craft appeared just above the trees and was leisurely moving along.  It was very large and in that moment I could see the third bright red light. It was triangular.We were awe struck.  My husband was driving and I leaned up over the dash to watch it fly directly overhead and head towards Knoxville.  At this point we made it to a little church on the right side of the road and could watch for a distance.  It continued on its path.  Underneath the triangular craft I could see the craft was dark in color.  We heard nothing.  We felt nothing.  We have yet to tell our families as we thought no one would believe us.  I decided to do research and see how many sightings were located in this area and there has been none.  However other people have reported other sightings in the Knoxville area.  We were the only car on the road that night.  It was the most amazing and inquisitive moment to say the least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98059.html](http://www.nuforc.org/webreports/reports/098/S98059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Chester (near) (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three lights in the sky over route 202 near West Chester, PA.There were three bright lights that appeared in a row.   All three were very bright. We've seen them multiple times before while driving home from work.  They always appear in the exact same spot.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107447.html](http://www.nuforc.org/webreports/reports/107/S107447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
