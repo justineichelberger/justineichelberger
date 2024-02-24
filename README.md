@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>black mass hovering/circling slowly in sky with white lights &white aura.We noticed a bunch of black objects in the sky.  one up close and 3 or 4 more in the distance, the ones in the distance proceeded to go off and up into the distance/sky and disappear. the one larger one got closer to where we were and it looked as though it was like a person standing and squatting....but in like a aircraft shape ,reminded us of like a man with a cape or a demeanor from Harry potter, but not because it was all black with white lights on it and it gave off a white aura/force field looking glow around it.and it just spun in circles "opening and closing" .I'm assuming it was quite large from the side I was seeing it and where it was in the sky.  and it slowly as it spun moved counter clockwise.  it was in the southern area of my yard and when it finally started going outward into the distance it had moved to the eastern side of my yard. the other ones that started with it never returned nor did we see this again. and my friend was recording on his phone also and his phone would go blurry when mine would, also even thru binoculars it would at times appear blurry when it would cause the blur on the phones also there was an occasional red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154036.html](http://www.nuforc.org/webreports/reports/154/S154036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in winter harbor (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Blue light hovering over ocean or islandIt’s 9:20p.m.  A bright light blue light was coming over the ocean towards Scoodic Point. The light seemed to pause over one spot just behind an island.  At first I thought it was a boat steaming in, but then the light jumped up, did a zig-zag, and went back to where it had been hovering.  The light was shining around a spot that seemed to be in an area approximately the length of a football field.  The light was still stationary went I went back inside at about 9:40p.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132915.html](http://www.nuforc.org/webreports/reports/132/S132915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
