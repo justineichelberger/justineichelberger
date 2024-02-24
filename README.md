@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gent, Oost Vlaanderen (Belgium) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It seemed to be flying very low, without making noise. It was very big and it seemed to be that the front of the saucer was lighting up 'caus of the resistance with the air .  So the front lighted up (quarter of a) moonshaped .It moved very smooth thrue the air.We (me and my girlfriend) were walking home, we were looking at the hyades, when suddenly my girlfriend shouts and points out to something I could not identifie.  I could get a good look at it when it slided thrue the air  There was no tail (like a comet) it was too big to be an airplane flying so high that we couldn't hear the engines.  It wasn't an airplane, it wasn't a comet, it wasn't a sky tracer nor a sattelite.  I'm very sceptic about this all and I really didn't believe in et's but now I do.  I am sure that it was something we don't know , it might have been a strange nature effect, but I am sure that it is unknown.  I already have read a lot of books about weird things in this life on earth, I know alot of weird nature effects, but this one is unknown!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05754.html](http://www.nuforc.org/webreports/reports/005/S05754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Val-des-Monts (St-Pierre) (QC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Illuminated lights and an oval shadow were cast on wall inside bedroom late at night.I was awoken in the middle of the night by bright colored lights flashing against the wall above our closet (cathedral ceilings).  I laid in bed an opened my eyes to see the shape of the object reflected off the wall, which was oval with pointed ends and several round lights.  There was also a faint humming sound.  I was not scared, but it felt like, as soon “it” realized I was awake, it left instantly.  I didn’t even have time to sit up in bed, or run for my camera.  I had been in deep sleep, and was able to fall right back alseep (how odd).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153628.html](http://www.nuforc.org/webreports/reports/153/S153628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
