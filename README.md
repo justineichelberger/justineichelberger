@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Val-des-Monts (St-Pierre) (QC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Illuminated lights and an oval shadow were cast on wall inside bedroom late at night.I was awoken in the middle of the night by bright colored lights flashing against the wall above our closet (cathedral ceilings).  I laid in bed an opened my eyes to see the shape of the object reflected off the wall, which was oval with pointed ends and several round lights.  There was also a faint humming sound.  I was not scared, but it felt like, as soon “it” realized I was awake, it left instantly.  I didn’t even have time to sit up in bed, or run for my camera.  I had been in deep sleep, and was able to fall right back alseep (how odd).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153628.html](http://www.nuforc.org/webreports/reports/153/S153628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Poughkkepsie (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I noticed objects in the sky that appeared to be hovering, glowing lights that were red and white in color.On February 24, 2013 at approximately 9:30PM Eastern Standard time at Poughkeepsie, New York, I cited UFO’s in the night sky.  The night sky was overcast.  I was looking towards the southeast when I noticed objects in the sky that appeared to be glowing lights, red and white in color.  At first I saw approximately three of four glowing objects (they were not twinkling like a star but constant light) lined in an indiscriminate pattern resembling a box.  The sizes of the objects were similar to planets that are seen with the naked eye in the winter night sky of the northeast.  The angle that I first sighted the objects was about 30 degrees.  I then witnessed another four objects that seemed to rise up from the horizon and then join the other objects.  The objects then rose to approximately 45 degrees in the southeast sky where they silently hovered.  I turned from the objects for about one minute.  Turning to see the objects again, they had disappeared.  Taking a short car ride to find them, I could not locate them again anywhere in the night sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96422.html](http://www.nuforc.org/webreports/reports/096/S96422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
