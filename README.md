@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Circlular rotating lighted low flying craft west of Ina at Silverbell Rd, object moved slowly then instantly disappeared.I was driving west on Ina coming to the Silverbell Rd. when I saw what I thought was an extremly large plane.  It had three lights, then another came on, and another, it was them I realized it was a circle of rotating lights.  I made sure to keep my eye on it as I was coming to the light at Ina & Silverbell, I watched it, then right before my eyes it disappeared.  There were no clouds that it could have gone behind because it was flying to low.  It was heading east, planes here don't usually head that way as the airport is to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35260.html](http://www.nuforc.org/webreports/reports/035/S35260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carmel-by-the-Sea (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two white orbs over Carmel, CAI was looking west, toward the Pacific from my hotel balcony.  The sky was partly cloudy.  I saw two white orbs in front of the moon, one after the other.  First one moved left halfway accross the face of the moon and abruptly moved up then disappeared.  The second one followed the same path.  I couldn't tell how far away they were but they must have been very far because they did not illuminate anything close to the groud.  They didn't reflect off of any of the clouds and it was quite cloudy and as seen through my binoculars, they did not appear to block any earthshine on the moon.  They appeared to travel vey fast since the whole incident, that is time from when first object moved form left to right and then up over the top of the moon to when the second one followed the same path and was no longer visible.  The whole incident took less than one minute.  Because of the poor "sseing" conditions (clouds, intermitent rain followed by visible stars and then clouds again), distance was quite hard to gauge as was the size of the objects.  Both objects were quite clear in my binoculars and when they crosed the moon they were brighter than the background.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55432.html](http://www.nuforc.org/webreports/reports/055/S55432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
