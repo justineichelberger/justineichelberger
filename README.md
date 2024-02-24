@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Glasgow (Canada) (NS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>strange object noticed in sky, 4 distinct lights, diamond shaped.I noticed an object in the sky when i was out for a walk on Feb 24, 2009, around 9:00pm in Nova Scotia, Canada.i looked up as i was walking down my hill and saw four strange distinct lights in the sky.the 4 lights moved as a whole, proving that it was one UFO and not 4 seperate ones. It moved rather quickly and stopped suddenly and after about 8-10 seconds started moving again until it dissapeared out of sight behind trees. the object was in the shape of a diamond with one light clearly a red colour and the other 3 were white flashing yellow in a rotational cycle.the first 1-3 seconds of the digital video clip show the object before i zoomed in to get a closer look. the shakiness of clip was when the object was moving. it was hard to capture until it stopped.the object made no distinct sound. as showed in the video, the only noise present is the wind from being outdoors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68989.html](http://www.nuforc.org/webreports/reports/068/S68989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Payson (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On 2/24/17 between 20:30 and 21:00 when leaving a resturant in Payson, Arizona, what appeared to be a very bright star was visible in the westrn sky.  In the car we headed west on Highway 260.  The star was high in the sky directly in front of the car.  After going about 1/4 mile we stopped for a traffic light, the light or star made a horizontial movement, then a vertical descent and stayed low on the horizon, my thought was it is a helicopter.  We made a right turn on Highway 87, north bound.  I continued to watch the light out the drivers side window.  We both observed what appeared as though the light was moving parallel to us.  After travelling 1/2 mile I asked the driver to pull into a gas station, the movement of the light also stopped.  The driver exited the car and started videoing the object for several minutes, using the wide angle/ telephoto feature back and forth.  During the video the object changes colors from a solid to multicolor and the shape changes while maintaining a hexagon shape.  Reentering the car and again heading north, another 200 yards, I again asked the driver to stop in a parking lot as it seemed, beyond logic, the light again moved as we did.  After watching for short time and taking more videos I asked the driver to drive the car south while I stood in the parking lot and kept it under observation, it appeared to remain stationary.  Again getting back in the car we drove another block and made a right turn toward my home, stopping in the middle of the road to look behind us, the light was no longer visible.Attached are (3) still photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132892.html](http://www.nuforc.org/webreports/reports/132/S132892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
