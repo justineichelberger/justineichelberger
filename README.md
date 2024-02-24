@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Arlington (3-4 miles East of) (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Come! Come Here Quick! See That up there???.....We pulled over for ((a short period of time)), turned off the lights in and out of the truck.  Needless to say my ad is a certified aircraft mechanic, and has had his MPC and A&P liscence for oer 11 years. Quality Control Inspector as of now. When he said "Hey, ((name deleted)), get out here and look at this!".  I then got out of the truck, and left the door open (the light in the cab was the only one on),  He pointed up and showed me a light pointing over the ridge, a yellow-ish light, going over a ridge he had been watching for 10-15 seconds. He then said that it definately wasnt an aircraft that he knew of, and I watched the first go over the ridge, and then looke up again, and say another, sitting still, about that time it shot straight upward a few thousand feet, and just dissappeared.  I immediately got back in the truck and discussed what we saw as I drove away as fast as possible, and he said it was the first time he'd seen anythign like it. What makes me believe these weren't Airplanes is:1) They each had ONE YELLOW light all the way around them, that covered the bottom of the crafts; 2) They flew slow, and sped up right before the eyes, in a way an airplane isnt capable of; 3) The one that shot straight up, went completely verticle, and just dissappeared; 4) When it went up, I thought if it were a plane, I'd be able to see the other lights, but it was just one continuous glow of yellow; AND, 5) THIS IS THE DAMNDEST THING I'VE SEEN IN MY 16 YEARS OF LIFE!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16620.html](http://www.nuforc.org/webreports/reports/016/S16620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Berlin (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My son and I were returning home from the Showcase Cinema in Berlin heading south towards Meriden when we noticed a bright light in the sky.  At first we thought it was a helicopter with a spot light but as we got closer it appeared to have what looked like three extremely bright headlights.  It was flying at a slow speed as we got closer and were directly under it we could see it actually had two additional bright lights on its belly.  All five lights were round, the same color and were steadily lit.  The aircraft was black and triangular.  It was a clear night. We didn't hear any sound come from the aircraft but of course our windows were up.  The reason I’m reporting this is because I’ve seen planes fly by in the nighttime sky and they usually have green and red blinking lights.  This aircraft did not.  It seemed to be moving Northeast.   We were so amazed that I pulled into a parking lot, but when we looked back it had disappeared.  How can an aircraft with such bright lights and flying at such a low altitude disappear so suddenly?   I mentioned this incident to a friend and he said that they were probably landing lights, but there are no airports in the area.((NUFORC Note:  Witness elects to remain anonymous; provides only e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55430.html](http://www.nuforc.org/webreports/reports/055/S55430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
