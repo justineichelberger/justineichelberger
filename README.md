@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:36 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Branford (CT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright green slow flashes (2) one after another lasting 2-3 secs. through solid cloud deck.  No aircraft heard in vicinity.Walking while looking directly north (clouds deck overhead no visibility of stars) first one slow 2 to 3 sec flash GREEN like maybe a meteor, but extremely bright to be able to see thru clouds, followed by a second slow 2-3 sec flash of equal brightness.Best guess 2 green meteors coming down.  Both were lighting the sky from horizon up to 60' above north horizon and from northwest to northeast expansion.  No sound or blast wave followed.  But they did look close to be so bright through a solid cloud deck.  I was standing just 50 yards north of highway 80 and totoket road intersection walking north in RV park.  I am a pilot and amatuer astronomer and well versed in sky phenomenon.  I only saw the flashes which were green and lit up the cloud deck above me as described above.  No other visible indications.  I waited but nothing followed.  I can say by the color of flash etc... it was not a ground vehicle lights or any ground based lights causing this.  Nothing to north but trees and countryside.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144993.html](http://www.nuforc.org/webreports/reports/144/S144993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange glowing object seen over Riverside County, releasing small glowing red objectsI saw a small "craft" with an orange glow, moving slowly (maybe 100 to 200 MPH) through the sky last night.  It was heading from west to the north-east, moving fairly slow and about at a height of maybe 40,000 FT.  I noticed it right away, in that it didn't have the same glow of a commercial or private plane.  Not to mention, the entire object was luminescent/glowing (it wasn't the headlight of an airplane, but just as bright).  Anyhow, as it began to head north, I started noticing small red glowing objects were being released from the craft.  These small objects would propel themselves and an incredible high rate, straight down, or in a 90 degree angle and then just disappear.  These red glowing objects were being released, every 5 seconds or so.  After 3 of these glowing-red objects were released, the craft then released 3 more objects, all at once, then begin to accelerate and incredible rate of speed.  As it was accelerating, it begin to lose it's orange glow and literally began to disappear! Before it disappeared, it seem to accelerate to over a 2 thousand miles an hour (from 200 MPH to 2000 MPH with in 2 or 3 seconds).  I watched this object for approximately 5 minutes (from start to finish).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61922.html](http://www.nuforc.org/webreports/reports/061/S61922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
