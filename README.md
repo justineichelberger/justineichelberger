@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Billerica (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular object in sky with lights, accelerated out of view quickly.On the night of Feb 24th, my girlfriend and I were traveling down a local main road close to where I live.  She pointed out something in the sky that I initially thought was a low flying plane, but soon we both realized that it was not moving, but staying in the same exact spot.  It looked extremely low, and had 3 lights that did not blink.  It was night out, so we could only make out a basic shape, which look triangular, with a dip in the side. I stopped and turned a corner to my right. My girlfriend saw the shape accelerate and move out of sight, while I turned.  As soon as I slowed down I looked and saw nothing there anymore, whatever was there had left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68928.html](http://www.nuforc.org/webreports/reports/068/S68928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellowish sphere, with light and a haze to it, stopped went back the direction it came from.Around 04:30 while out on patrol I took a break and was doing some stargazing using the binoculars we carry in our patrol vehicles.  I was watching one star in particular and noticed on the corner of my lens that there was something moving left to the right way out.  I looked up from the binoculars to see if it was a plane that I could see with the naked eye and I could not.  i looked back into my binoculars and kept following it for about five or six minutes another minute goes by and the object stops I try to focus in on it more but its so far out that i cannot see any full detail on what it could really be i get on my phone and check the twenty four hour plane radar to see if there is any planes going up to the slope or coming back i see none at all on my phone.  i look back at the object for another two minutes, its sits there a second or two longer then starts flying back the way it came after about one minute the object just flat out disappears.  The object was about one quarter the size of the star i was watching before i spotted it.  It also emitted a rather bright light, traveled very fast and had a light haze to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153560.html](http://www.nuforc.org/webreports/reports/153/S153560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
