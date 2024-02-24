@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:05:22 on 23 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sumter (SC) reported seeing craft that fit the description of some 'Cross' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White cross shaped craft streaks near Shaw AFB and vanishes in thin air.Walking through a wooded path I stopped to admire the stars. In the southern sky I witnessed a cross shaped craft glowing white streak across the sky.  The angle of flight was horizontal traveling much faster than the jets which frequently train in the area.  The jets sometimes break the sound barrier nearby and make a tremendous amount more noise than the jets flying slower.  The craft I saw tonight made no sound. It also had no fire-trail while the light it emitted was very bright white with the same aura as LED lights.The craft quickly vanished leaving nothing but a light misty trail in its wake.  The trail moved with the wind which was coming from the south at around twelve knots.  The cloud passed overhead two minutes later.  A small passenger plane flew around 2000 feet above the trail which was about 2000 feet overhead, much lower than the clouds above.  The craft was well within the atmosphere when it began its sprint and exited from view in plain sight. The trail it left behind was about half a mile in length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87316.html](http://www.nuforc.org/webreports/reports/087/S87316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Interstate 8 (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>Bright light north of Interstate -8  east of Yuma lasting over 2 hoursI have decided to report this now, I may be nuts, but I’ve been seeing strange stuff for 20 plus years. Starting with my last sighting.On 02/24/2010.At 1330 while driving on Interstate 8 going west, we were about 30 miles out of Gila Bend, I was traveling with my fiancé,  I had told her on one occasion I had seen a UFO on this same stretch of road, back in 2002, It was a relatively clear sky , as I remarked that we were getting close to the location of my first sighting on this road, I told her that just north  in the foot hill’s is where it was, so she looked and  remarked in a hushed voice, “ Yea I see it”, and so I looked harder and there it was, a  bright white ball of light, it looked to be on the far side of the hill’s to the north, 15-20 miles away. I was driving around 75 mph. It remained visible  out the side window  “as if traveling in pace with us” this could just be a trick of distance, but  it remained visible to us while we stopped in Yuma for a snack,  and on till we passed El Centro Ca.  It never changed its Altitude or distance, to any extent visible to us, but did remain out the passenger window till about 1600, and we were going into the foothills.The first time I had this happen on this road was 8 or 9 years ago in November, and I was going East, My first sight of it was around 10:00 the sun was on my right the object was North by North East I was just going into the curves that drop you out of the foothills, my guess at that time was it was 50 miles away, I watched it as I was traveling on my motorcycle, I stopped for gas 2 times and it remained steadily visible till I was almost to Phoenix, that sighting lasted for over 4 hours, it “shrunk into the distance N.xNe.”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74982.html](http://www.nuforc.org/webreports/reports/074/S74982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
