@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in winter harbor (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Blue light hovering over ocean or islandIt’s 9:20p.m.  A bright light blue light was coming over the ocean towards Scoodic Point. The light seemed to pause over one spot just behind an island.  At first I thought it was a boat steaming in, but then the light jumped up, did a zig-zag, and went back to where it had been hovering.  The light was shining around a spot that seemed to be in an area approximately the length of a football field.  The light was still stationary went I went back inside at about 9:40p.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132915.html](http://www.nuforc.org/webreports/reports/132/S132915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yachats (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A 'fiery ball' motionless over the Pacific OceanAt 6:07 am, I was looking over the Pacific Ocean, to the northwest, and noticed far in the distance a fiery ball in the sky.  Too low to be a star or plan, too high for a boat light.  I notice it was in one spot then would move very slowly to the left, stop, move slowly more left, stop.  I even saw it go up in a circle and to the right a little. I watched it for almost 15 minutes (till 6:22 am), and it faintly disappeared in the west. Again, this object was motionless- Wasn't moving (hardly) at all. The ISS was suppose to be flying over our area (fit the sunlit description), but not until 6:40 am, viewing in the south and I am sure it wouldn't just 'stop' and hang out.  I was thinking maybe coast guard, but it seemed to be too high to search and rescue; No jet or airplanes fly over that early and wouldn't stop mid-flight?!  What else,  A falling star?-  wasn't moving fast enough!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117473.html](http://www.nuforc.org/webreports/reports/117/S117473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
