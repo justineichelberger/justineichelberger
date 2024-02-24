@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carmel-by-the-Sea (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two white orbs over Carmel, CAI was looking west, toward the Pacific from my hotel balcony.  The sky was partly cloudy.  I saw two white orbs in front of the moon, one after the other.  First one moved left halfway accross the face of the moon and abruptly moved up then disappeared.  The second one followed the same path.  I couldn't tell how far away they were but they must have been very far because they did not illuminate anything close to the groud.  They didn't reflect off of any of the clouds and it was quite cloudy and as seen through my binoculars, they did not appear to block any earthshine on the moon.  They appeared to travel vey fast since the whole incident, that is time from when first object moved form left to right and then up over the top of the moon to when the second one followed the same path and was no longer visible.  The whole incident took less than one minute.  Because of the poor "sseing" conditions (clouds, intermitent rain followed by visible stars and then clouds again), distance was quite hard to gauge as was the size of the objects.  Both objects were quite clear in my binoculars and when they crosed the moon they were brighter than the background.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55432.html](http://www.nuforc.org/webreports/reports/055/S55432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gent, Oost Vlaanderen (Belgium) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It seemed to be flying very low, without making noise. It was very big and it seemed to be that the front of the saucer was lighting up 'caus of the resistance with the air .  So the front lighted up (quarter of a) moonshaped .It moved very smooth thrue the air.We (me and my girlfriend) were walking home, we were looking at the hyades, when suddenly my girlfriend shouts and points out to something I could not identifie.  I could get a good look at it when it slided thrue the air  There was no tail (like a comet) it was too big to be an airplane flying so high that we couldn't hear the engines.  It wasn't an airplane, it wasn't a comet, it wasn't a sky tracer nor a sattelite.  I'm very sceptic about this all and I really didn't believe in et's but now I do.  I am sure that it was something we don't know , it might have been a strange nature effect, but I am sure that it is unknown.  I already have read a lot of books about weird things in this life on earth, I know alot of weird nature effects, but this one is unknown!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05754.html](http://www.nuforc.org/webreports/reports/005/S05754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
