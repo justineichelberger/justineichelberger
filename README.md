@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yachats (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A 'fiery ball' motionless over the Pacific OceanAt 6:07 am, I was looking over the Pacific Ocean, to the northwest, and noticed far in the distance a fiery ball in the sky.  Too low to be a star or plan, too high for a boat light.  I notice it was in one spot then would move very slowly to the left, stop, move slowly more left, stop.  I even saw it go up in a circle and to the right a little. I watched it for almost 15 minutes (till 6:22 am), and it faintly disappeared in the west. Again, this object was motionless- Wasn't moving (hardly) at all. The ISS was suppose to be flying over our area (fit the sunlit description), but not until 6:40 am, viewing in the south and I am sure it wouldn't just 'stop' and hang out.  I was thinking maybe coast guard, but it seemed to be too high to search and rescue; No jet or airplanes fly over that early and wouldn't stop mid-flight?!  What else,  A falling star?-  wasn't moving fast enough!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117473.html](http://www.nuforc.org/webreports/reports/117/S117473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Circlular rotating lighted low flying craft west of Ina at Silverbell Rd, object moved slowly then instantly disappeared.I was driving west on Ina coming to the Silverbell Rd. when I saw what I thought was an extremly large plane.  It had three lights, then another came on, and another, it was them I realized it was a circle of rotating lights.  I made sure to keep my eye on it as I was coming to the light at Ina & Silverbell, I watched it, then right before my eyes it disappeared.  There were no clouds that it could have gone behind because it was flying to low.  It was heading east, planes here don't usually head that way as the airport is to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35260.html](http://www.nuforc.org/webreports/reports/035/S35260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
