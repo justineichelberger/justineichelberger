@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:45 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange glowing object seen over Riverside County, releasing small glowing red objectsI saw a small "craft" with an orange glow, moving slowly (maybe 100 to 200 MPH) through the sky last night.  It was heading from west to the north-east, moving fairly slow and about at a height of maybe 40,000 FT.  I noticed it right away, in that it didn't have the same glow of a commercial or private plane.  Not to mention, the entire object was luminescent/glowing (it wasn't the headlight of an airplane, but just as bright).  Anyhow, as it began to head north, I started noticing small red glowing objects were being released from the craft.  These small objects would propel themselves and an incredible high rate, straight down, or in a 90 degree angle and then just disappear.  These red glowing objects were being released, every 5 seconds or so.  After 3 of these glowing-red objects were released, the craft then released 3 more objects, all at once, then begin to accelerate and incredible rate of speed.  As it was accelerating, it begin to lose it's orange glow and literally began to disappear! Before it disappeared, it seem to accelerate to over a 2 thousand miles an hour (from 200 MPH to 2000 MPH with in 2 or 3 seconds).  I watched this object for approximately 5 minutes (from start to finish).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61922.html](http://www.nuforc.org/webreports/reports/061/S61922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>black mass hovering/circling slowly in sky with white lights &white aura.We noticed a bunch of black objects in the sky.  one up close and 3 or 4 more in the distance, the ones in the distance proceeded to go off and up into the distance/sky and disappear. the one larger one got closer to where we were and it looked as though it was like a person standing and squatting....but in like a aircraft shape ,reminded us of like a man with a cape or a demeanor from Harry potter, but not because it was all black with white lights on it and it gave off a white aura/force field looking glow around it.and it just spun in circles "opening and closing" .I'm assuming it was quite large from the side I was seeing it and where it was in the sky.  and it slowly as it spun moved counter clockwise.  it was in the southern area of my yard and when it finally started going outward into the distance it had moved to the eastern side of my yard. the other ones that started with it never returned nor did we see this again. and my friend was recording on his phone also and his phone would go blurry when mine would, also even thru binoculars it would at times appear blurry when it would cause the blur on the phones also there was an occasional red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154036.html](http://www.nuforc.org/webreports/reports/154/S154036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
