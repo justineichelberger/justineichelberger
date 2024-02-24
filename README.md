@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:36 on 24 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Berlin (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My son and I were returning home from the Showcase Cinema in Berlin heading south towards Meriden when we noticed a bright light in the sky.  At first we thought it was a helicopter with a spot light but as we got closer it appeared to have what looked like three extremely bright headlights.  It was flying at a slow speed as we got closer and were directly under it we could see it actually had two additional bright lights on its belly.  All five lights were round, the same color and were steadily lit.  The aircraft was black and triangular.  It was a clear night. We didn't hear any sound come from the aircraft but of course our windows were up.  The reason I’m reporting this is because I’ve seen planes fly by in the nighttime sky and they usually have green and red blinking lights.  This aircraft did not.  It seemed to be moving Northeast.   We were so amazed that I pulled into a parking lot, but when we looked back it had disappeared.  How can an aircraft with such bright lights and flying at such a low altitude disappear so suddenly?   I mentioned this incident to a friend and he said that they were probably landing lights, but there are no airports in the area.((NUFORC Note:  Witness elects to remain anonymous; provides only e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55430.html](http://www.nuforc.org/webreports/reports/055/S55430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Branford (CT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright green slow flashes (2) one after another lasting 2-3 secs. through solid cloud deck.  No aircraft heard in vicinity.Walking while looking directly north (clouds deck overhead no visibility of stars) first one slow 2 to 3 sec flash GREEN like maybe a meteor, but extremely bright to be able to see thru clouds, followed by a second slow 2-3 sec flash of equal brightness.Best guess 2 green meteors coming down.  Both were lighting the sky from horizon up to 60' above north horizon and from northwest to northeast expansion.  No sound or blast wave followed.  But they did look close to be so bright through a solid cloud deck.  I was standing just 50 yards north of highway 80 and totoket road intersection walking north in RV park.  I am a pilot and amatuer astronomer and well versed in sky phenomenon.  I only saw the flashes which were green and lit up the cloud deck above me as described above.  No other visible indications.  I waited but nothing followed.  I can say by the color of flash etc... it was not a ground vehicle lights or any ground based lights causing this.  Nothing to north but trees and countryside.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144993.html](http://www.nuforc.org/webreports/reports/144/S144993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
