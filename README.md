@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately dunno - dunno minutes.</sub><blockquote><sub>three lights apeered in the sky for 30 minutes and then shot out in different directions and disapeered in the darkness.three blue lights formed a triangle and kept that shape for about a half hour.  just after it changed colors and left a green trail. then in an instant the shot out in different directions and disapeered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05984.html](http://www.nuforc.org/webreports/reports/005/S05984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately From the east over to wes - From the east over to wes minutes.</sub><blockquote><sub>I WAS SETTING  IN MY CAR EATING MCDONALD'S,  A ORANGE LIGHT CAME OUT OF NOWHERE, AND TRIVIAL WEST I BEGIN TAKE  PICTURES GLOW GOING OUT THEN A BLUE COLOR  AND WENT OUT.  I SEIT THERE DIDN'T KNOW WHO TO CALL.  BUT I HAVE PICTURE OG WHAT I SAW.  IT CAM DOWN A D MOVE  WRST NORTH.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138954.html](http://www.nuforc.org/webreports/reports/138/S138954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
