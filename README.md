@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green laser lights in the sky simutaneosly and evenly shooting parallel to eachotherIt was approximately 0620 hrs  and I was looking in the sky I noticed 2 geese flying together which was weird I usually see geese in the bundles...  I thought nothing much after I lt sort of followed the geese with my eyes I turned and that's  when I saw what I saw it was shocking but exciting at the same time I saw a light which was white really bright not like a plane and it wasn't blinking then like 3 seconds later I sort of took of straight and while it did that the  light turned green as if there was a green laser it was super fast so fast I couldn't keep up with it with my eyes no plain or jet is that fast I have common sense but after that I saw something even more surprising I saw another similar light coming in the opposite direction as the other one before it and then I saw two of the same white lights going left to right simultaneously with the green laser looking thing there's no aircraft in the world that can go that fast and turn back 180degrees! instantly back and forth that fast it was beautiful it was like some thing you see in a movie after several seconds it just vanished in the air  it sounds funny but that's what  I saw and not only that this isn't the first time I've seen it I've seen it years ago about maybe 9 years ago coming out a factory in the early morning by again a green laser looking UFO flying back and forth then disappears I wasn't the only one who saw it actually about 4-6 other people saw it I was scared to say something but this time I googled how to report a UFO sighting which lead me to this form  I hope other people saw it To.. Thanx</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87346.html](http://www.nuforc.org/webreports/reports/087/S87346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Queen Creek (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red light over Queen Creek, ArizonaThere is a red rapid flashing light over the sky in Queen Creek. Is stationary and has been so for the past 30min. It is up in the Sky. It is not a tower, or aircraft.((NUFORC Note:  Sirius or Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55431.html](http://www.nuforc.org/webreports/reports/055/S55431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
