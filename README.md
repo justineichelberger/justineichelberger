@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Florence (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.45 - 0.45 minutes.</sub><blockquote><sub>Bright sphere was seeing over the Florence around 19:00 for less than .45 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132887.html](http://www.nuforc.org/webreports/reports/132/S132887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw a large bright red light descend from the sky to the earth.  It must have been large because it was pretty far away landing in a heavily wooded reserved area.  Very strange. Never seen anything like it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138965.html](http://www.nuforc.org/webreports/reports/138/S138965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
