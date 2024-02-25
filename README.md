@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:42 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Horseshoe (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A fireball burning a bright greenish-yellow streaked across the road I was driving on.Was driving down South Rugby Road to take a friend home when my friend and I spotted this ball of fire streaking toward the ground. The flames were green and yellow looking.It was 200-300 feet in the air maybe more but close enough to make out the details.Unfortunately it went out of our sight before it landed or crashed.It went over some trees and we lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55443.html](http://www.nuforc.org/webreports/reports/055/S55443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately dunno - dunno minutes.</sub><blockquote><sub>three lights apeered in the sky for 30 minutes and then shot out in different directions and disapeered in the darkness.three blue lights formed a triangle and kept that shape for about a half hour.  just after it changed colors and left a green trail. then in an instant the shot out in different directions and disapeered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05984.html](http://www.nuforc.org/webreports/reports/005/S05984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
