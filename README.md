@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 ufo no picture Georgetown txUnknow objects observed....Location: Georgetown,Texas Date: 02-25-11 Time: approximate 4:00 am  Description of event: The cat rattles the door to get in. This woke me at 3:47am. I did not let the cat in. The cat rattled the door till almost 4:00am. I went to the sliding glass door and made the following observation.Two object seen in the Eastern sky. At first they were the same intensity as surronding  stars. They increased in brightness and and went directly up. This was not a matter of the object going off towards the horizon.One object was smaller and displayed a red tint with flashes of white.  The other was larger and solid white.No sound was noted.The lights had grown so small they were getting hard to see.... One object then made a change in direction and headed South. The other remained in position for a minute or two then also headd south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80219.html](http://www.nuforc.org/webreports/reports/080/S80219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Seeley Lake (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Unusual ball(s) of light in Montana skyAt about 2 AM last night my husband observed a bright light in the western sky, and saw that it appeared to be flashing red and blue.  After watching it for awhile, he thought it looked like there were actually two objects dancing around each other.  He came and woke me up, and we tried looking at it with my binoculars (which are better than some telescopes).  I too thought it looked like there were two separate things.  It looked like a ball of light, about the size of a very large star, and sometimes it would separate into two balls of light.  Even through the binoculars it still only looked like balls of light with red and blue parts.  Sometimes the two things were so close together it looked like one, and sometimes they looked like they were circling around each other.  Their position in the sky did not change.  We watched it for about a half hour total, and since it wasn't doing anything different we went to bed.  We are going to see if it's there again tonight.  My husband does not know how long it was there before he saw it; he had been on the computer and noticed it out the window when he got up to go to bed.((NUFORC Note:  We have amended the date above to 2005.  We suspect a sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42369.html](http://www.nuforc.org/webreports/reports/042/S42369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
