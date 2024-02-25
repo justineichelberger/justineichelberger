@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Margate (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Green ,red,light not moveing Standing in one spot for a half Hour.  i have a video of it.  I was freaking out.  This is my therd video and my second picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144990.html](http://www.nuforc.org/webreports/reports/144/S144990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Evanston (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8 ORANGE orbs seen flying in single file formation about 750ft up.One ORANGE orb caught my eye, out my living room window, where I sit with the coach under the window.  Looking S/E about 1mi away from me, a bright orange orb was coming towards me in a right to left direction.  Then I saw another orange orb, approx 1/4mi behind the first one.  Then another appeared. Then another.  Looking back at Orb#1, it was now closer...maybe .5mi away.  These orange orbs were solid in nature, no blinking, flashing, or dimming.  At any one time...my son and I saw 4 lights all in a row...stringing from left to right...with the left light being the closest and the far right being the farthest away.  It was already sundown, as this occurred just after dusk. Now the wierd part.  All 4 of these orbs were moving slowly and smoothly, then the first orb light faded out...then orb #5 appeared.   Then orb #2 faded out and #6 orb appeared, and so on.  Until all 8 orbs eventually appeared and faded just before hitting the town limits.  These orbs did NOT change direction ever, so it's not like the 1st orb turned, and that's why I couldn't see the light.  Again, at any one time, we saw 4 or 5 of the orbs...all bright orange.   We walked out front and watched....it was dead silent....no sound at all. We should have heard sound from that distance. All orbs flew at the same altitude....I would say at about 750ft up. No trail, smoke, or fire around the orbs. Just pure orange light.  Missed out on getting a camera.  We have one now, and will look for more events, in case of repeat visit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109111.html](http://www.nuforc.org/webreports/reports/109/S109111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
