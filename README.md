@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>rumbling roaring sound from unseen jets((NUFORC Note:  Sound might have been caused by military aircraft.  They are lound, and sometimes can be very difficult to see, if they are at high altitude.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22006.html](http://www.nuforc.org/webreports/reports/022/S22006.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Tallmadge (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>Slow moving triangular shape---at least the light pattern,seen in tallmadge ohio  2-5-793 white hemisheres (one in each corner) Slow pulsing red light in the middle. No sound audible. Moving with a 'slow-motion'quality. When first appeared saw an amber light. Then during approach to witnesses saw the triangular light pattern.This was on the night of 2-5-79. Though heard nothing in the media about other seeing this object. If it was a real structure or a possible hologramic projection from an aircraft or satellite is unknown. Twenty days after this we saw--2-25-79 a brilliant copper colored ray--more rar than beam--extend out so far--but the source of this light could not see. Was above a power line. Television was on but picture went radically off the vertical-horizontal. Reported this to the Fling Saucer Investigating Committee Akron, Ohio 9-5-80. 9-11-80-Unmarked military helicopter fly-by,low, at 12:15pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40846.html](http://www.nuforc.org/webreports/reports/040/S40846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
