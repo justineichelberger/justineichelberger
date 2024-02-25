@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw a large bright red light descend from the sky to the earth.  It must have been large because it was pretty far away landing in a heavily wooded reserved area.  Very strange. Never seen anything like it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138965.html](http://www.nuforc.org/webreports/reports/138/S138965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Glendive (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>02/25/2017 around 2100hrs, my son and I were near the fairgrounds in Glendive, MT.  He spotted a single orange light that appeared to travel from north to south then veered sharply sharply to the west.  We initially thought it was a helicopter, so I rolled my window down and turned my pickup off.  There was no discernable noise.Within minutes we saw 3 more lights.  They were also orange and appeared to be flying in a triangle type formation.  One was in the lead and 2 were following.  I started videoing them with my cellphone.  They also appeared to travel north to south before disappearing.   We observed them for approximately 5 minutes.   The final one (we saw 5 total) lasted about 30 seconds and was also orange in color.  It also travelled north to south, then veered sharply west before disappearing.My initial reaction to the first one was it was a helicopter or drone.  Then I thought maybe the lights we saw were chinese lanterns.  It should also be noted that our cellphone batteries drained approximately 20% during this encounter which lasted approximately 15 minutes total.  I am prior military and law enforcement officer and have never seen lights like these before.There is an anomaly in the video that is a white light that dances around.  That is what I assume is glare from the streetlight. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132843.html](http://www.nuforc.org/webreports/reports/132/S132843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
