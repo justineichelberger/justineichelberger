@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Queen Creek (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red light over Queen Creek, ArizonaThere is a red rapid flashing light over the sky in Queen Creek. Is stationary and has been so for the past 30min. It is up in the Sky. It is not a tower, or aircraft.((NUFORC Note:  Sirius or Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55431.html](http://www.nuforc.org/webreports/reports/055/S55431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Stouthill (community, nearest city 30 miles, TN) (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>AN OBJECT OF ABOUT 150FT IN LENTH[ESTAMETE]WITH 4 BRIGHT LIGHTS IN PERFECT ALIGNMENT ALONG ITS BOTTOM.IT WAS HOVERING APP. 100FTABOVE TREE LEVEL.WHILE PICKING UP MY CAR POOL BUDDIES THEY DREW MY ATTENTION TO A ROW OF BRIGHT LIGHTS ABOVE THE TREELINE THAT THEY HAD OBSERVED FOR APPROX.20 MINUTES.MY WIFE AND I EXITED THE CAR TO A SMALL BANK ON THE ROAD SIDE WHERE WE COULD GET A BETTER VIEW.IT WAS OVERCAST SKIES WITH VERY LITTLE LIGHT,EXCEPT FOR THE VERY BRIGHT LIGHTS OF THE OBJECT.WITH WHAT LITTLE LIGHT THERE WAS AGINST THE CLOUDS,THE OBJECT APPEARED TO BE A CYLINDER SHAPE.THERE WERE 4 LARGE LIGHTS ALONG IT BOTTOM,WHICH APPEARED TO BE IN PERFECT ALIGNMENT,APPROX. 30FT. APART.THERE WAS NO SOUND EXCEPT THE WIND BLOWING AT A BRISK GUST.MY FIRST THOUGHT WAS OF A BLIMP?BUT THE OBJECT MOVED SLOWLY AGINST THE WIND AND A PERFECTLY STRAGHT FLIGHT PATH.I WAS LATE FOR WORK SO WITH THE OBJECT STILL SLOWLY GOING THROUGH THE SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03423.html](http://www.nuforc.org/webreports/reports/003/S03423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
