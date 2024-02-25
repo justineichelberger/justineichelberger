@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:27 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lewisville Lake (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While observing an aircraft laying a broad contrail in daylight, I saw first a light and then an oval craft hover then move slowly south.I was out at the lake enjoying the views when an aircraft flying at about 10,000 feet flew overhead from south to north spewing out a broad white contrail. As I observed the plane and the contrail with my binoculars I noticed a small light above the contrail which looked like a large star. It was still daylight and too light outside for it to have been a star. I continued observing this light from my car looking overhead slightly to the south. It suddenly disappeared. I kept looking for it in the same general area to no avail. Then, at about 17:52, I spotted a white oval craft (definitely a craft) hovering around 5,000 feet overhead slightly to the south. It began to move north very slowly (in the direction of the plane). It appeared to reflect the sun on its side toward the west and had what appeared to be a silver band around its midsection. It began to move over my car so I had to get out to find it again -- and it was nowhere to be seen. I do not know whether the light was this oval craft descending to a lower position or the light and the oval craft were two separate objects.((NUFORC Note:  We have received a number of reports of anomalous objects in, or near, normal contrails behind aircraft.  We do not know what these objects are.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10294.html](http://www.nuforc.org/webreports/reports/010/S10294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Changing colors oval shape object over Las VegasOn February 25, 2013, around 30:30pm I was at the stop light by the McCarran Airport, Las Vegas.  I looked into north-west direction torts the mountains and noticed a huge oval shape object seating on top of the mountain.  The color was pink, and then changed a few times really fast, into silver and blue. I was able to pull my iPhone out and take a picture of the object.  The street light turned green and I started driving.  When I turned around to see it one more time it was not there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96436.html](http://www.nuforc.org/webreports/reports/096/S96436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
