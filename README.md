@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Carlisle (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange flying lights; plane's don't do that.I am making this ufo report, in hopes that if others seen it, they might be more like to report what they seen.	I was walking into where I work, I was walking east, and saw 2 rows of 5 lights moving from north to south, each set of lights was about 2 fingers  widths at arms length, and about 8 fingers width between the 2 separate objects.  It was about 7:20 pm February 26th.  28 years working here, I know the view very well.  I noticed these two lights, but took them to be airplanes, flying toward me.  They looked big, but this is how the mind rationalized what I saw.  As I walked, things didn’t look right.  I stopped and used a distant light pole to see the direction or flight.That’s where things didn’t line up.  I could see 5 lights on each, so if it was a plane, it has to be moving toward me.  Such that I would be seeing headlights of a big plane. But I was due east, and they were going south.  There motion was slow, but not unremarkable for planes at a distance of several miles, at about 4 fingers, at arm's length, above the ground.What happened next, is the thing that puts this into ufo category.  This 1st set of lights, turns near vertical, to about 80 degrees.  Which is nuts for any airplane that big and that low. But even more odd, is that the forward leading light tilted down.  Such that if this were a plane, it would be turning very sharply south.  Because I am thinking it moving toward me” because of the lights”, but it was already moving south before the turn.  What I saw, was the light go out or turn from view, going north not south.  How can a plane, moving south, turn to go north, where the leading light go down to 80 degrees, they didn’t go back to level, just “looked” to turn out of view.  The turn was too sharp, and the tilt was in the wrong direction, the plane were too close to each other, and too low.  This turn was in about 8 finger widths, and I’m being generous.  Then the other set of lights followed, but faster.If a plane was going south, I should not have seen so many lights.  If the plane were moving east “ which it wasn’t” then to turn north, the northern most light tilt down to bank north.  I just can’t see how a normal plane can do what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117595.html](http://www.nuforc.org/webreports/reports/117/S117595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Twinkling string like light high up in the sky not surrounding by anythingWe both looked up into the sky and noticed that there was a large (it seemed it could be miles long) string like golden light that twinkled and seemed to be getting longer as seconds passed.  It had no obvious source and the sky was clear at the moment.  Then suddenly it completely dissappeared at once without any sound, and without fading.  The light that was seen did not seem to be like anything that could oocur in nature.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107554.html](http://www.nuforc.org/webreports/reports/107/S107554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
