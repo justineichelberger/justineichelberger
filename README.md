@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:07 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:44 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in ?? (OH) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright pulsating lights moving near the ground matching airplanes speedThis was while I was on a commercial flight from Florida to Ohio. Traveling at cruising altitude on plane going S to N. this was filmed from the east side of the plane, the sun was setting in the west. The light appeared to be close to the ground. At first i thought it might be a spotlight on a helicopter shining on the ground, but the lights matched our speed and there was multiple lights. I watched this for nearly 15 minutes.  What is it?  https://youtu.be/wSflcKEiQr8</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162283.html](http://www.nuforc.org/webreports/reports/162/S162283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Northeast of Mar Vista, Los Angeles (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Teardrop, low, short-lived light stream seenSaw a flash of light appear and disappear within 3-5 seconds or less much like a shooting star.  It was too  bright and close to the ground to be a shooting star or meteor.  My logical initial conclusion was a helicopter, but the speed and quick loss of visibility  suggests otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153627.html](http://www.nuforc.org/webreports/reports/153/S153627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
