@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Carpentersville (IL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flash and stationary light flashing.Saw a flash while watching the north east part of the sky,  next thing I see is a stationary blinking light in the same location after the flasg 4 times,  I call my wife outside she saw two more blinks and that was it.  Total time was less than 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132852.html](http://www.nuforc.org/webreports/reports/132/S132852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I've never seen something moving so fast and so large, and then to simply disappear.2 very fast moving solid lights, one blue and one red.  They seemed to be as belonging to one craft.  It went from 45 degrees to 30 degrees off the horizon in the 4 seconds I witnessed it in.  It simply disappeared!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107511.html](http://www.nuforc.org/webreports/reports/107/S107511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
