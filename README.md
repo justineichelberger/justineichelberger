@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 25 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Maryborough (Queensland) (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange round glowing shapes that movedTo Whoever interested.Myself and J were in the car where I was on Kent street facing towards the centre of town.  I looked to my top left and saw what looked to me at that point was a pole with orange lights, then I thought, no, theres no poles with orange lights around here!, so I slowed the car down, and said to james, “What the fuck is that?”,  he saw it too, I said, quick get ya mobile phone and record it!, he tried and it did not get anything,.  As this banter was happening, We saw there was five lights, three fairly close together and two further down to horizon.I was going for late night shopping at approx. 8 28 pm Australia time, and j came too to check his bank balance.The orange lights started to move and started to spread apart.  One of the orange lights fizzled, and could no longer be seen.  I turned around behind me and there was 2 that I focused on.  Initially there was five, and I only saw one fizzle, to then turn behind to see the two in sky.  From the right hand side of kent street facing to the right, I spotted an aeroplane high with the red and blue lights, I am wondering if they saw it too.What we thought was strange was that they wernt glowing like shining light, it was more like orange round embers floating really fast. When the one I saw fizzed, it was like when you break up a fire ember on the ground, but in the sky.There was no sound at all. And the orange ‘blobs’/embers were in front of the stars, like closer than the stars, if you get what I mean.All of this happened within 5 minute span.I am reporting this because I have never seen such strange colour and movement in sky before.  I saw on the news today about the discovery spaceship going up, I wonder could it be residue?, or what?, AND has anyone else seen this orange display.I will do a photoshop pic to show depth of color and proximity b4 they dissipated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80217.html](http://www.nuforc.org/webreports/reports/080/S80217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While setting in our living room watching tv a bright green light caught my eye  When I looked threw the window I saw a bright green egg shaped object quickly move across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145010.html](http://www.nuforc.org/webreports/reports/145/S145010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
