@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:13 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jetmore (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange bright multi-colored object that slowly hovers to the ground in the west sky in small KS townI would say for the last 4 weeks there has been a strange circular shaped object that we see slowly hovering to the ground out of the sky in the west it does not happen every night and the first sighting was seen by me a 25 yr old mother of 3 as i saw this light slowly landing with red flashing lights i called my dad who is a 54 yr old feedmill supervisor at a coop in our small community into the kitchen to look out the screen door at this as i thought it was maybe a rescue helicopter coming to our area of the country as we watched it it appeared to never land and sort of hover so we called my husband into the kitchen who is a 31 year old who has seen UFO's before in Mexico he thought it was strange so we jumped in our car and began down the dirt road and it seemed to get further away as we tried to drive closer until it eventually vanished we came to the house and just dicarded it as a strange occurance the following day at work my dad asked a co worker who is called if there is ever a helicopter that goes out as he works for the fire dept also if they had heard of the lifewatch helicopter in the area and explained why and he said no there was no rescue in the area so we were stumped but said no more then it occured again dad looked out the window and ran to the kitchen to look out the screen door and called us all in there anxiously and we were amazed at the sighting again once again we jumped in the car and headed up the road and again it just vanished so again we said nothing as we still kept seeing it appear and slowly vanish over the next few weeks not knowing what this object is dad got a scope out on the night of FEB 26th and was amazed at the sighting he said it was like a disk shaped object with a octogon center with red green blue yellow lights lite up sorta in line shapes it rotated slowly and eventually vanished my husband also looked through the scope and they both drew what they seen and they both saw the same thing and described the exact same thing i tried to look throug! h the sc ope but it vanished before i had time to focus in so this strange occurance has prompted us to search the internet for anwsers which lead us to this site</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68965.html](http://www.nuforc.org/webreports/reports/068/S68965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ontario (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>from rt. 104 looking north saw bright orange light that faded away into a clear starlit night. traveling north toward lake ontario saw three bright orange lights,lighting up a saucer shaped object. 1/2 mile away.the object was about 1/2 mile away and 1/4 mile high and appeared at first as three big, bright, orange lights around a saucer shaped "something". The lights got very bright and then slowly faded away. My husband pulled over and rolled down the window but we heard no sound.About 5 min. later we saw the single bright orange light farther out over lake Ontario and to the east. That too slowly faded away.There were no clouds in the sky this night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03311.html](http://www.nuforc.org/webreports/reports/003/S03311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
