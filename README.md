@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:44 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Northeast of Mar Vista, Los Angeles (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Teardrop, low, short-lived light stream seenSaw a flash of light appear and disappear within 3-5 seconds or less much like a shooting star.  It was too  bright and close to the ground to be a shooting star or meteor.  My logical initial conclusion was a helicopter, but the speed and quick loss of visibility  suggests otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153627.html](http://www.nuforc.org/webreports/reports/153/S153627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ridgecrest (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>orange light drops what looks like asteroidsorange light (looked like a campfire in the sky) in the skymoving at a hight rate of speed then it stopped. appeared to move up then it stopped again. then it slowly moved again and started dropping what looked like asteroids. it dropped about 10 in total. everytime it dropped one the light from the craft went dim then regenerated to bright. my wife and I watched until we couldnt see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43180.html](http://www.nuforc.org/webreports/reports/043/S43180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
