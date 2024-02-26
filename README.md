@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:37 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Twinkling string like light high up in the sky not surrounding by anythingWe both looked up into the sky and noticed that there was a large (it seemed it could be miles long) string like golden light that twinkled and seemed to be getting longer as seconds passed.  It had no obvious source and the sky was clear at the moment.  Then suddenly it completely dissappeared at once without any sound, and without fading.  The light that was seen did not seem to be like anything that could oocur in nature.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107554.html](http://www.nuforc.org/webreports/reports/107/S107554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>1:15am Feb 26 2001 red & white strobe like object moving rapidlyAt 1:15am Feb. 26 2001 we were standing on our second floor patio and saw a red & white strobe like flasing object.  It was very far away and about the size of a dime from our view point.  It crossed our horizen in about four minutes.  Moving much too fast to be an air craft. We were facing in a southwest ward direction.((NUFORC Note:  It seems to us that a high-flying aircraft would be visible for the amount of time indicated by the witnesses.  However, we do not know what it was they witnessed.  A dime at arm's length is approximately the percieved size of a full moon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16640.html](http://www.nuforc.org/webreports/reports/016/S16640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
