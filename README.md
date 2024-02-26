@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 26 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pacific Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>i was  looking  in direction of the ocean  when i noticed this 2 very strong red light in the sky ..it seems not far up  was making no noise and flying slowly ..i think it stop at one point..  what strike me  is the size of the  red light and intensity, the glowing round large shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80253.html](http://www.nuforc.org/webreports/reports/080/S80253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Goshen (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A light that approximated a full moon in appearance above the tops of tress that are approximately 200-300 yards from observation point.  Watched light for estimated 10 minutes when it got dimmer and faded away.As reported to me by my mother.  She looked out her back window (east) around 23:30 on 2-26-00, and saw a milky-white light low on the horizon that approximated a full moon.  It appeared to be just above the tops of trees that are about 200-300 yards from her observation point. Thinking that it was a reflection, she moved to another window for a different angle of sight, but found the light was still apparent from her new vantage point.  She continued to watch the light; it gradually became dimmer and eventually completely faded away.  She approximates that the sighting lasted for 10 minutes.  She reported a haze around the light, and a milky-white color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12150.html](http://www.nuforc.org/webreports/reports/012/S12150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
