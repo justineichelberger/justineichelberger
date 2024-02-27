@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a triangular shaped object moving across the sky.We were walking our dogs and observed a triangular-shaped, white object moving in the sky.  It resembled a wing. It was luminous. It was moving in a straight line in a NNW direction. It moved out of our range of view (distance). There was no sound.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61971.html](http://www.nuforc.org/webreports/reports/061/S61971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Oak Ridge (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 Fireballs slowly crossing the night sky in Oak Ridge Tennessee.  About 10 seconds long.I was stargazing from the pool area of the Doubletree Hotel in Oak Ridge Tennessee on the 27th of February 2006, when I witnessed three fireballs flying slowly through the clear night sky.  They kept an equal distance from each other until the moment before they disappeared when one of the fire balls on the outside of the formation made a quick and unnatural turn towards the other two.  It was at that very moment when the three disappeared.  I tried to point them out to my friend but he was not able to see them.  I thought that I might have hallucinated it until I web searched "UFO sightings Oak Ridge Tennessee." It seems that there were a lot of sightings from that area back in the 50's.  About me:  I am a 29 year old man who lives in New York.  I'm a photographer by trade.  I do not drink alcohol nor do I use drugs of any kind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49375.html](http://www.nuforc.org/webreports/reports/049/S49375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
