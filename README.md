@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:34 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Benton (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Red/Orange orb, moves in strange waysI saw an orange-red orb floating high in the sky.  It zipped by at a fast speed, then slowly did a ‘figure eight.’  It would then stay put for a few seconds before slowly hovering, sometimes in a straight line, and other times in odd directions.  It was still there when I decided to go inside.This my fourth sighting of this same phenomena.  They date back to the summer of 2009. The sightings are always in the same spot in the sky (from my vantage point), and on at least one other occasion, there were several of these same orbs, floating together--the most I’ve ever seen were four orbs at a time.  During two of these sightings, the orbs disappeared and reappeared in unison.At a glance, this orb could easily pass for a very bright star, but if observed for more than five seconds, it is plain to see that it is definitely not a star.  It is the same color as the sun, dims and brightens in a pulsating fashion, and moves in odd ways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107508.html](http://www.nuforc.org/webreports/reports/107/S107508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Plam Bay (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange glowing lights over Palm Bay.Heard some loud bangs outside that the city of Palm Bay reported as fireworks.  While investigating the noise, my wife and I saw 2 glowing fireballs/orange in color.  My best guess is they would have been flares, but they were moving with the horizon, not falling out of the sky.  After watching about 2 minutes, one of them burned out and the other remained bright until it flew out of sight.  There was never any of the green/red navigational lights or anti-collision lights that one would expect to see on an airplane.  Also, no sound.  However, the lights never made any strange/extraordinary movements you hear about in other UFO reports.  They also did not explode into a brilliant fireworks display, so if they were fireworks they were - again - unlike any I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126128.html](http://www.nuforc.org/webreports/reports/126/S126128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
