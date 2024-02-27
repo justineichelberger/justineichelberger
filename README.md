@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>OK, I saw a flashing at very high altitude with a faint red light moving with it.I was in my back yard doing weights to keep healthy, and a flashing caught my eye. The moon was not present, neither were than any clouds in the sky. I immediately fixated on the flashing and it continued to flash about every 3 seconds while moving, then a second object caught my eye but was extremely hard to see but it was a red light. The red light was moving with the flashing white light but then did a 180 degrees turn and proceeded back the same way when i first saw it. The flashing stopped and disappeared from my sight, even though it was only visible while flashing, and the red light faded from my eyesight, it was actually hurting my eyes trying to focus but that was it and it lasted about 15 seconds. My opinion is that there was some kind of conflict because it looked as though they were aggressive menouvres by the objects. About 8 minutes after, a sattelite orbited exactly near to where this conflict took place as i kept looking near the area for any more activity. Quite incredible and i felt kind of scared and nervous after seeing such a thing happen, quite scary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12132.html](http://www.nuforc.org/webreports/reports/012/S12132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it was triangular with white lights on the side and red in the back.it was going north over my house it sounded like 30 jet airplanes and there were a ton of dogs barking there were red lights in the back and white on the sides of the triangle it was grey,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62358.html](http://www.nuforc.org/webreports/reports/062/S62358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
