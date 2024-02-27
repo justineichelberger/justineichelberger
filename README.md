@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clayton (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Mysterious Diamond ObjectI pulled over to on the road talking to my girlfriend and we sat there for about 20 min talking, and all of a sudden we herd the sound of a jet engine my girlfriend decided to look up to see what it was but surprisingly there was a huge diamond object with lights that consisted of indigo pink and orange,  the craft hovered over my car not to fast but not too slow.  I was such in panic I decided to speed off with out the thought of snapping a picture.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107529.html](http://www.nuforc.org/webreports/reports/107/S107529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Unityville (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Home - Home minutes.</sub><blockquote><sub>A low humming noise woke me up.  I looked from my porch to see a dark craft moving through the clouds.  It covered the moon as it move slowly by.((NUFORC Note:  Report is submitted by anonymous source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22037.html](http://www.nuforc.org/webreports/reports/022/S22037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
