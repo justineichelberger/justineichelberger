@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:00 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Azusa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I! I found out!We went camping to the top of the East fork in Azusa Canyon.  Me and my friend were unloading the firewood then asked me what is that?  I looked up to what he pointed to and I saw stars and what looked like a star but moving at a steady pace. I told him it was probably a satellite and just as soon as the words left my mouth it changed directions and hyper spaced away.  It was at first traveling from East to West and then shot off North.  At the time I was susceptible about other life forms. That day changed my mind.  With all these sitings, even the one in Riverside, CA.  I witnessed three orbs that early evening and so did 100's of people, but Uncle Sam told us it was weather balloons!  The next day they appeared again this time instead of lights they were clear orbs but did not move like the afternoon before.  Our government is being secretive.  Why did they stop investigating UFO's  and abduction?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78511.html](http://www.nuforc.org/webreports/reports/078/S78511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>OK, I saw a flashing at very high altitude with a faint red light moving with it.I was in my back yard doing weights to keep healthy, and a flashing caught my eye. The moon was not present, neither were than any clouds in the sky. I immediately fixated on the flashing and it continued to flash about every 3 seconds while moving, then a second object caught my eye but was extremely hard to see but it was a red light. The red light was moving with the flashing white light but then did a 180 degrees turn and proceeded back the same way when i first saw it. The flashing stopped and disappeared from my sight, even though it was only visible while flashing, and the red light faded from my eyesight, it was actually hurting my eyes trying to focus but that was it and it lasted about 15 seconds. My opinion is that there was some kind of conflict because it looked as though they were aggressive menouvres by the objects. About 8 minutes after, a sattelite orbited exactly near to where this conflict took place as i kept looking near the area for any more activity. Quite incredible and i felt kind of scared and nervous after seeing such a thing happen, quite scary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12132.html](http://www.nuforc.org/webreports/reports/012/S12132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
