@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ostersund (Sweden) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>blue round light with darker blue round light in the interior, with a tail almost like a comet but pure blue coming out of the rear end</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42523.html](http://www.nuforc.org/webreports/reports/042/S42523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Aurora (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white light, jets out from high in the sky. (looked like a spotlight)My Brother and I, were sitting in my hot tub in my backyard, looking up at the stars for a while when we saw one very bright white light jet out from the sky. We saw no apparent craft. The light was visible for 5 seconds, and then the light dimmed out and disappeared. I would characterize the light as looking like a spotlight.  It was approximately 60 degrees in the sky.  I am 16 and go to high school my brother is 12 and attends junior high school</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61961.html](http://www.nuforc.org/webreports/reports/061/S61961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
