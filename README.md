@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:00 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pontiac (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>four horizontal lights, dimly lit and flying in a unusual waySometime between 10:30 p.m and 10:50 p.m., we were looking at the sky, while outside in the yard.  The Big Dipper was in the eastern sky.  My husband was looking up and told me to look at the Big Dipper, that he could see something.  I observed four lights in a straight horizontal line, lights that looked like stars, because they seemed so high up in the sky.  The lites were moving towards the south, then they turned widely in an arc, then were heading west.  The lights were softly lit or "dim", not  bright and stayed in a straight line the whole time I saw them.  They flew over our house heading west.  I couldn't see anything besides the lights, although the area around the lights seemed to be darker than the rest of the sky.  I've seen planes in the night skies and I know what they look like...this wasn't anything I had seen before.  And the pattern, or rather lack of pattern of the flight seemed erractic, not in a regular "airplane-way".((NUFORC Note:  Please see husband's report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35372.html](http://www.nuforc.org/webreports/reports/035/S35372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Azusa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I! I found out!We went camping to the top of the East fork in Azusa Canyon.  Me and my friend were unloading the firewood then asked me what is that?  I looked up to what he pointed to and I saw stars and what looked like a star but moving at a steady pace. I told him it was probably a satellite and just as soon as the words left my mouth it changed directions and hyper spaced away.  It was at first traveling from East to West and then shot off North.  At the time I was susceptible about other life forms. That day changed my mind.  With all these sitings, even the one in Riverside, CA.  I witnessed three orbs that early evening and so did 100's of people, but Uncle Sam told us it was weather balloons!  The next day they appeared again this time instead of lights they were clear orbs but did not move like the afternoon before.  Our government is being secretive.  Why did they stop investigating UFO's  and abduction?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78511.html](http://www.nuforc.org/webreports/reports/078/S78511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
