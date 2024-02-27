@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:22 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:18 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Waynesburg (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Diamond craft in SW Pa.On February 27, I was getting ready to go to bed and I happened to look out the window of my downtown Waynesburg apartment.  Above the First National Bank building something caught my eye.  There are several towers from the energy industry around but they are predominantly stationary and more to the far left of my window.I thought the object was weird because it did not have the appropriate lights for an airplane or helicopter.  As I peered closer, I saw it was a diamond shaped craft, with an undulating pulse of green, red and blue lights.  It moved slowly in a circular motion but for the most part just hovered.The next morning, I double checked to make sure they didn't just put another tower up and beheld that above the bank building and in the distance, there are no towers viewable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107546.html](http://www.nuforc.org/webreports/reports/107/S107546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wilbur (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Circle of non rotating lights  heading E to W over grand coulee damI'm in seattle and my wife is in Wilbur. She said she seen a circle of lights to the north By Grand Coulee dam on the horizon moving west to east. If you held a quarter @ arms length it was that size. She is an avid astronomer so it was nothing that should be there. She was pretty excited when she called. She will write everything down that she observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16662.html](http://www.nuforc.org/webreports/reports/016/S16662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
