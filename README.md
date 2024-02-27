@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Erlanger (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red triangular shape bouncing and hovering in the sky.In the northwest sky there was a red light, shaped like an "A".   It hovered a few seconds and then appeared to bounce left and right while also changing colors.  Then it headed in a northerly direction, stopping again to bounce around.  Finally it got brighter and "shot" across the sky and up.     There is a short video and picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126081.html](http://www.nuforc.org/webreports/reports/126/S126081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sioux City (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My husband and I were grilling when I saw a boomerang shaped object that was translucent and very dimly lit in a peachy/pink color.  It took a minute for my husband to see it because it was so dim.  It made no noise and then just took off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126079.html](http://www.nuforc.org/webreports/reports/126/S126079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
