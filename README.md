@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 27 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Unityville (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Home - Home minutes.</sub><blockquote><sub>A low humming noise woke me up.  I looked from my porch to see a dark craft moving through the clouds.  It covered the moon as it move slowly by.((NUFORC Note:  Report is submitted by anonymous source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22037.html](http://www.nuforc.org/webreports/reports/022/S22037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pontiac (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>four horizontal lights, dimly lit and flying in a unusual waySometime between 10:30 p.m and 10:50 p.m., we were looking at the sky, while outside in the yard.  The Big Dipper was in the eastern sky.  My husband was looking up and told me to look at the Big Dipper, that he could see something.  I observed four lights in a straight horizontal line, lights that looked like stars, because they seemed so high up in the sky.  The lites were moving towards the south, then they turned widely in an arc, then were heading west.  The lights were softly lit or "dim", not  bright and stayed in a straight line the whole time I saw them.  They flew over our house heading west.  I couldn't see anything besides the lights, although the area around the lights seemed to be darker than the rest of the sky.  I've seen planes in the night skies and I know what they look like...this wasn't anything I had seen before.  And the pattern, or rather lack of pattern of the flight seemed erractic, not in a regular "airplane-way".((NUFORC Note:  Please see husband's report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35372.html](http://www.nuforc.org/webreports/reports/035/S35372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
