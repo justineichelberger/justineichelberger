@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:44 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I and my girlfriend watched a silvery luminous football shaped object.I felt drawn outside around 4 pm on 2/27/08(Thursday).  I was looking at a few jets spewing out chemtrails when I noticed a silvery football shaped orb (w/no exhaust nor features).It was a very clear, blue bird sky with the exception of the chemtrails.  I yelled for my girlfriend to come outside and she spotted it also.  We both agreed it looked more like an oval, football shape with a silvery luminosity that stood out in contrast compared to the chemtrail jets that were close to it.At one point in the beginning, I thought the object was going to crash into or nearly miss a chem trail jet as they approached each other from opposite directions.  I caught one good photo with my digital binoculars as it faded into the distance.  I and my girlfriend have filled reports with MUFON and I have spoken with the West Virginia MUFON investigator.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62346.html](http://www.nuforc.org/webreports/reports/062/S62346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spring City (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-8 ufo's waiting on one ufo to reach the group.i was driving south on highway 27 and it was about 6:50 p.m the sky was getting dark but still clearly visable there was one dark object in the sky. it did not move very fast at all and it did not leave an exhaust line behind it and it had no lights on it at all and when i looked east of it to see where it was heading i seen a group of 6-8 more of similar objects. none of them had lights and it seemed the group was waiting on the one to reach it.  i was able to see all of it for about one minute then trees got in my way</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74504.html](http://www.nuforc.org/webreports/reports/074/S74504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
