@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:44 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spring City (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-8 ufo's waiting on one ufo to reach the group.i was driving south on highway 27 and it was about 6:50 p.m the sky was getting dark but still clearly visable there was one dark object in the sky. it did not move very fast at all and it did not leave an exhaust line behind it and it had no lights on it at all and when i looked east of it to see where it was heading i seen a group of 6-8 more of similar objects. none of them had lights and it seemed the group was waiting on the one to reach it.  i was able to see all of it for about one minute then trees got in my way</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74504.html](http://www.nuforc.org/webreports/reports/074/S74504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were looking SouthEast when in the sky we saw around oval shape object that was changing colorI was in my bedroom when my brother called out to me to come over into the living room and into the backyard to check out this oval round object in the night sky   Southeast of us changing colors,but standing very still for about 10 minutes.  Then it started moving and i saw luminous colors coming from the craft ranging from yellow,red,green,white,and blue.  It went towards the sierra mountains and left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80264.html](http://www.nuforc.org/webreports/reports/080/S80264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
