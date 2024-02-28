@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Eastaboga (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large white UFO spotted over Eastaboga, AlabamaAt 9 am on Feb 28th I Mr. Roper observed a large white object about three times the size of a commercial jet airliner in the Northern sky .  When I first looked up and spotted the craft.  I thought it was a large white bird, as I continued watching the craft I noticed that it was a white, rectangular boxed shaped with two large tear like ends.  No cloud trail, no sound, and no reflectivity , and no lights. It also had a dark black boxed center. The object was spotted in the northern sky moving from east to west.  The day was a very bright clear day with blue skys, no wind, no clouds.  It moved at a rapid speed, faster than a commercial jet airliner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55486.html](http://www.nuforc.org/webreports/reports/055/S55486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Puget Sound (10-miles south of Canada) (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Fishing in the sound just north of the catalina islands. looked north to see a bright light orange in color shooting up going in a southerly direction. it had a smoke plume behind it,and seemed to explode. there was no noise to this event.We were fishing just north of the santa catalina islands. At 0844 in the morning we looked up to see a bright orange fireball arching  up from the canadian border..it was moving south...it had a black smoke plume..when it was approximately 40degrees above the horizon it seemed to explode and broke apart in a shower of smaller lights. we thought it may be a missile,but then it would have been heading out to sea..and also would have had a white plume,not black. it was fairly large ,about the size of a pea. I am a manager for a jewelery store in Salem ,Oregon. My friend works for MSN in Washington. This may not apply,but I became very ill after the incident. I am still feeling the effects today as I write this message. I dont know how my friend is feeling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06105.html](http://www.nuforc.org/webreports/reports/006/S06105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
