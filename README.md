@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jamestown (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>At 12:00 a large yellow spherical fireball appeared in the sky directly overhead.((NUFORC Note:  The witness may be alluding to the Sun.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132812.html](http://www.nuforc.org/webreports/reports/132/S132812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Washingtonville (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>green fireball-like object observed in the night skyFebruary 28th Approximately 7:30 p.m.I was riding in the passengers seat of a car as my friend was driving me home on Toleman Rd at about 7:30 p.m. There was three people in the car, a friend of mine was driving, and another friend was in the back seat. Never before have a seen anything close to what I witnessed that night about a week ago.I was looking up at the sky when I noticed what looked like a shooting star. I was about to even say "Hey, look at that shooting star in front of us!," but before I said anything I noticed it had dramatically slowed down but had not disappeared. The object came to a halt and began to turn green, it started to grow and looked like a green fireball in the sky. It was round, and bright. It sort of began to look like a green traffic signal, but up in the sky. Then very suddenly it disappeared.For a few more seconds I thought about what I had just seen in amazement. Then I proceeded to say "Please tell me, I was not the only person who just saw that."My friend who had been driving immediately replied that he saw it too, and that he could not believe his eyes. The third person claimed to have not seen anything, but admitted he was not looking forward where the event took place, but to the side out the window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62050.html](http://www.nuforc.org/webreports/reports/062/S62050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
