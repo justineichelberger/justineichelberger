@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:07 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Flower Mound (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>huge flashing light formation moving slowly across the skyApproximately 7:10 this evening, I was outside in my driveway looking up, noticing what a beautiful night it was.  From the corner of my eye, I noticed a flashing or blinking light, so I looked up in that direction and saw what appeared to be lights flashing at either end of a long straight line.  The lights were white. The flashing went from side to side and seemed to travel briefly the length of the rod before flashing from the other end and back.  The lights were small and the object had to be huge, as the distance between the lights was much longer than any wingspan of any plane I've seen flying around here.  It was silent and slow moving and I could see no shape of an object between or along the lights.  The object was tilted at a diagonal of about 45 degrees as it traveled away from me in a Northwest direction.  The angle increased a bit as it moved further away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80260.html](http://www.nuforc.org/webreports/reports/080/S80260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Brookfield (WI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Was driving on the highway, when a very bright orange trail of light appeared.  It was like a shooting stat, but much much larger.  It got brighter orange as it got larger and the bottom turned to a bright lime green ball of light, and then it disappeared.((NUFORC Note:  Possible meteor??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138986.html](http://www.nuforc.org/webreports/reports/138/S138986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
