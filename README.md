@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:01 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Very low red and green lights alternating, sequencing as if sending a code.  Hoovering for minutes at a time changing to stagnant white light.  Craft had no visual form...only light. A notable buzzing sound was clearly heard.  However, the sound was not a machine or robot buzz it was more organic like a bug.  It was able to be silent as well.  Also, a strong but pleasant smell of flowers was emanating from the lights.  The smell abruptly stopped when the lights disappeared into the clouds.  I was able to video numerous segments.  However, it appears that the red light is not always present in the video.  Strange, because it could be seen with a naked eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145143.html](http://www.nuforc.org/webreports/reports/145/S145143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Flashing lights changing pulse sequence, no soundDriving home and saw initially slow flashing light at approximately 30 degrees heading west toward ocean.  Once I arrived home I saw the same lights blinking slowly then faster heading west then turning S.E at the same altitude.  Lights went approximately 5 miles SW near I-75 in Bradenton and has been hovering with lights flashing.  There was no sound and I have enough aircraft knowledge to know this wasn’t an aircraft, or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153696.html](http://www.nuforc.org/webreports/reports/153/S153696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
