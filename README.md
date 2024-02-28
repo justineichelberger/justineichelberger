@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Joseph City (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright disc descended behind flying rock mountainBright circular object as bright as the moon and 100 feet in diameter traveling west south west over flying rock when it reached a point half way from the top of the mountain to the West side of the mountain it descended vertically with disc shape facing north and leading edge descending vertically behind flying rock which is 1 mile east of black rock and about 6 miles north of Holbrook AZ</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162249.html](http://www.nuforc.org/webreports/reports/162/S162249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Woodburn (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 19:40 - 19:40 minutes.</sub><blockquote><sub>Bright light just west of Woodburn was seen for 30 minutes then was gone in a blink of an eyeOn 2/28/07 around 7:12 pm I noticed a bright light in the sky above Woodburn.  I told two other people that our friends are back. I decided to go outside to see if it was a plane heading towards us.  The bright light was about 30 stories high and maybe a half mile away (west of woodburn.)   The item was stationary in the sky.  I went back in side and asked the girls to come to the window.  We observed the bright light for about 30 minutes.  Durring this time my sister in law recieved a phone call and left the room.A few minutes later a neighbor went into his backyard and the bright light went away from and started to fade. As soon as the neighbor went back inside the bright light came back and was bright again.About 4 minuter later the object shot away from us and was gone.  It was gone in a blink of an eye.This bright light has been seen many times in the last two months in the same location.((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55481.html](http://www.nuforc.org/webreports/reports/055/S55481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
