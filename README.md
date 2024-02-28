@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw what seemed to be 5 separate lights in the eastern sky. One bright light and 4 smaller and less bright lights. The lights were in a "V" shape equadistant from each other with the bright light at the point of the "V". The lights were moving together at the same speed. As I watched the lights moved north at a slow rate of speed and the "V" seemed to stand on one "wing" as the lights turned east from the former northern heading. As I watched all lights moved together and kept the same relative spacing. The lights were fairly low in the sky and if connected would have outlined a fairly large craft. I would estimate several hundred feet per side.5 lights in a "V" formation (appx 90degrees), one bright light at the point of the "V" and 2 smaller less bright lights on either side. The lights were low on the horizon and were moving slowly in a northerly direction, then turned and began to move in an easterly direction. In executing the turn it was as if the lights were connected as the lights seemed to execute a steep bank to the right with the "V" seeming to stand on one leg as an airplane would to make a sharp turn. The lights did not change speed as they turned. The lights were white and round. The distance to the lights I would estimate at a maximum of one mile The size of the "V" I would estimate to be several hundred feet per leg. I could not see any connection between the lights. There was no sound associated with the sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12212.html](http://www.nuforc.org/webreports/reports/012/S12212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Binghamton (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>2 groups or 4 orange lights that individually interchange in a non-cyclical pattern. Also, instant 90 degree turning ability.There were 2 groupings of 4 orange lights that within each grouping would cross over one another. It appeared to be a cyclic pattern, but once they were closer to being over head, there was the same pattern of movement over and over. It took only 30 seconds or so for the crafts (or whatever) to go from one horizon to the other. As they got further away, and closer to the opposite horizon, they took an immediate 90 degree turn, without slowing and rapidly sped out of viewable sight. My brother and I witnessed this. We could make out no "craft" only the lights. The odd part about this was that they were no more than 300 to 400 yards above us. Another interesting observatyion that my brother brought to light was the fact that there were no clouds in the sky before we noticed these objects. Upon reeling from what we had both just witnessed, we realized that there were now thick clouds on the original horizon, and fog was now moving in . Very wierd. I do not think that this is anything more han coincidence, but thought I would state the fact. Let me say for the record that I mearly beleive that the possibility for other life in the universe "could" exist. After that event, I beleive that it does. At least something does.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18684.html](http://www.nuforc.org/webreports/reports/018/S18684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
