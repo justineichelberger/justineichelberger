@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Montego Bay (Jamaica) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 19:30 28/2/2007 while at a local pub sighted about 18 small lights moving at a slow speed towards the west.I am not one to believe in U.F.O. But on this night I now believe they are real.  We went for beer after work at a local bar near to the sea side, after about ten minutes somone beside me said what is that in the sky above the sea.  I looked over towards the sea then sighted about 18 small low lights orange in colour all moving at exactly the same speed and all the same in size.  We moved closer towards the lights to get a better look it seemed to me that it was one very big object then it sunddenly went dark</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55537.html](http://www.nuforc.org/webreports/reports/055/S55537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I and my girlfriend watched a silvery luminous football shaped object.I felt drawn outside around 4 pm on 2/27/08(Thursday).  I was looking at a few jets spewing out chemtrails when I noticed a silvery football shaped orb (w/no exhaust nor features).It was a very clear, blue bird sky with the exception of the chemtrails.  I yelled for my girlfriend to come outside and she spotted it also.  We both agreed it looked more like an oval, football shape with a silvery luminosity that stood out in contrast compared to the chemtrail jets that were close to it.At one point in the beginning, I thought the object was going to crash into or nearly miss a chem trail jet as they approached each other from opposite directions.  I caught one good photo with my digital binoculars as it faded into the distance.  I and my girlfriend have filled reports with MUFON and I have spoken with the West Virginia MUFON investigator.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62346.html](http://www.nuforc.org/webreports/reports/062/S62346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
