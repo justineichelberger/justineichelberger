@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:03 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Man called to report just having witnesseed a "huge ball of fire, 1/2 the diameter of the moon," streak from south to north.  It appeared to him to be a blend of red, blue, and bright white in color.  It left no trail in the sky the way he would expect a meteor or a burning aircraft to do.  The caller was looking to the northwest when he observed the object, and he estimated its angle of elevation above the horizontal plane at "38 degrees."  He added that he is "a pilot," and that he estimated its speed at not less than Mach 3.  He called again at 2230 hours to report that he had seem the same thing at 2230 hours!  It had gone directly over his head, and it was traveling to the northwest at a very high rate of speed.  He estimated its size as bigger than a nickel held at arm's length.He volunteered that "something is awry?"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01361.html](http://www.nuforc.org/webreports/reports/001/S01361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Eastaboga (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large white UFO spotted over Eastaboga, AlabamaAt 9 am on Feb 28th I Mr. Roper observed a large white object about three times the size of a commercial jet airliner in the Northern sky .  When I first looked up and spotted the craft.  I thought it was a large white bird, as I continued watching the craft I noticed that it was a white, rectangular boxed shaped with two large tear like ends.  No cloud trail, no sound, and no reflectivity , and no lights. It also had a dark black boxed center. The object was spotted in the northern sky moving from east to west.  The day was a very bright clear day with blue skys, no wind, no clouds.  It moved at a rapid speed, faster than a commercial jet airliner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55486.html](http://www.nuforc.org/webreports/reports/055/S55486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
