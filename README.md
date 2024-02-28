@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Binghamton (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>2 groups or 4 orange lights that individually interchange in a non-cyclical pattern. Also, instant 90 degree turning ability.There were 2 groupings of 4 orange lights that within each grouping would cross over one another. It appeared to be a cyclic pattern, but once they were closer to being over head, there was the same pattern of movement over and over. It took only 30 seconds or so for the crafts (or whatever) to go from one horizon to the other. As they got further away, and closer to the opposite horizon, they took an immediate 90 degree turn, without slowing and rapidly sped out of viewable sight. My brother and I witnessed this. We could make out no "craft" only the lights. The odd part about this was that they were no more than 300 to 400 yards above us. Another interesting observatyion that my brother brought to light was the fact that there were no clouds in the sky before we noticed these objects. Upon reeling from what we had both just witnessed, we realized that there were now thick clouds on the original horizon, and fog was now moving in . Very wierd. I do not think that this is anything more han coincidence, but thought I would state the fact. Let me say for the record that I mearly beleive that the possibility for other life in the universe "could" exist. After that event, I beleive that it does. At least something does.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18684.html](http://www.nuforc.org/webreports/reports/018/S18684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Montego Bay (Jamaica) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 19:30 28/2/2007 while at a local pub sighted about 18 small lights moving at a slow speed towards the west.I am not one to believe in U.F.O. But on this night I now believe they are real.  We went for beer after work at a local bar near to the sea side, after about ten minutes somone beside me said what is that in the sky above the sea.  I looked over towards the sea then sighted about 18 small low lights orange in colour all moving at exactly the same speed and all the same in size.  We moved closer towards the lights to get a better look it seemed to me that it was one very big object then it sunddenly went dark</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55537.html](http://www.nuforc.org/webreports/reports/055/S55537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
