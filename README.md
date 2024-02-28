@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Washingtonville (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>green fireball-like object observed in the night skyFebruary 28th Approximately 7:30 p.m.I was riding in the passengers seat of a car as my friend was driving me home on Toleman Rd at about 7:30 p.m. There was three people in the car, a friend of mine was driving, and another friend was in the back seat. Never before have a seen anything close to what I witnessed that night about a week ago.I was looking up at the sky when I noticed what looked like a shooting star. I was about to even say "Hey, look at that shooting star in front of us!," but before I said anything I noticed it had dramatically slowed down but had not disappeared. The object came to a halt and began to turn green, it started to grow and looked like a green fireball in the sky. It was round, and bright. It sort of began to look like a green traffic signal, but up in the sky. Then very suddenly it disappeared.For a few more seconds I thought about what I had just seen in amazement. Then I proceeded to say "Please tell me, I was not the only person who just saw that."My friend who had been driving immediately replied that he saw it too, and that he could not believe his eyes. The third person claimed to have not seen anything, but admitted he was not looking forward where the event took place, but to the side out the window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62050.html](http://www.nuforc.org/webreports/reports/062/S62050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw what seemed to be 5 separate lights in the eastern sky. One bright light and 4 smaller and less bright lights. The lights were in a "V" shape equadistant from each other with the bright light at the point of the "V". The lights were moving together at the same speed. As I watched the lights moved north at a slow rate of speed and the "V" seemed to stand on one "wing" as the lights turned east from the former northern heading. As I watched all lights moved together and kept the same relative spacing. The lights were fairly low in the sky and if connected would have outlined a fairly large craft. I would estimate several hundred feet per side.5 lights in a "V" formation (appx 90degrees), one bright light at the point of the "V" and 2 smaller less bright lights on either side. The lights were low on the horizon and were moving slowly in a northerly direction, then turned and began to move in an easterly direction. In executing the turn it was as if the lights were connected as the lights seemed to execute a steep bank to the right with the "V" seeming to stand on one leg as an airplane would to make a sharp turn. The lights did not change speed as they turned. The lights were white and round. The distance to the lights I would estimate at a maximum of one mile The size of the "V" I would estimate to be several hundred feet per leg. I could not see any connection between the lights. There was no sound associated with the sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12212.html](http://www.nuforc.org/webreports/reports/012/S12212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
