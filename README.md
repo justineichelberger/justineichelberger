@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Woodburn (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 19:40 - 19:40 minutes.</sub><blockquote><sub>Bright light just west of Woodburn was seen for 30 minutes then was gone in a blink of an eyeOn 2/28/07 around 7:12 pm I noticed a bright light in the sky above Woodburn.  I told two other people that our friends are back. I decided to go outside to see if it was a plane heading towards us.  The bright light was about 30 stories high and maybe a half mile away (west of woodburn.)   The item was stationary in the sky.  I went back in side and asked the girls to come to the window.  We observed the bright light for about 30 minutes.  Durring this time my sister in law recieved a phone call and left the room.A few minutes later a neighbor went into his backyard and the bright light went away from and started to fade. As soon as the neighbor went back inside the bright light came back and was bright again.About 4 minuter later the object shot away from us and was gone.  It was gone in a blink of an eye.This bright light has been seen many times in the last two months in the same location.((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55481.html](http://www.nuforc.org/webreports/reports/055/S55481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jamestown (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>At 12:00 a large yellow spherical fireball appeared in the sky directly overhead.((NUFORC Note:  The witness may be alluding to the Sun.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132812.html](http://www.nuforc.org/webreports/reports/132/S132812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
