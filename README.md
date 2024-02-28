@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 starrish kind of things, orangish, in a formation of a triangle.It was Thursday the 28th around 10 o’clock pm and I was getting ready to go upstairs.  Before I did I went to the back door to make sure its locked and I saw 3 bright reddish orangish things in the sky flickering like a candle. They were in the formation of a triangle and at first I thought it was the big dipper. Then I ran upstairs really quick and showed my uncle out his bathroom window and there were only two left but really spaced apart, yet they still kept flickering. We watched for about 5 minutes and one of them slowly disappeared then the last one.  I left when they all vanished but my uncle said there were planes chasing them.  And that was the end of the night. Until the next morning I forgot totally about it and one of my classmates brought it up. We talked about the sighting and we had the same exact description. She said she was with her boyfriend and a car full of people, so she knew she wasn’t crazy. Once we talked about them, we knew they were UFO’s.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62049.html](http://www.nuforc.org/webreports/reports/062/S62049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ft. Myers (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 03:00 - 03:00 minutes.</sub><blockquote><sub>A light in the sky that traveled at a very high speed and then dissaperedThere was a light in the sky that moved at a high rate of speed vertically then flew over head faster than an airplane that was also present in the sky, then the light just dissapeared ((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87412.html](http://www.nuforc.org/webreports/reports/087/S87412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
