@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Four orbs flying over Plantation, FL flying N-NW from FLL airport area.I stepped outside to make a phone call. Look straight out to the horizon,  S-SE, looking towards FLL [Fort Lauderdale Airport about 10 miles away (I google mapped it)] From that direction I saw four Orbs.  The orbs appeared to begin from the ground, perhaps since they were coming from a distance. At first I thought they were rockets or perhaps fireworks, because they were flying almost straight up. The altitude was, I believe about that of a helicopter hovering.  The orbs where headed our direction, I would say N-NW from the airport area (I guess).  They began to fly over head, gaining altitude. At first they were flying in an unorganized manner.  But as they came closer, and gained altitude, they made a U formation.  We took a video of this.  By the time we took the video, they were in the U formation and high over head.  They slowly began ascending until they were out of sight.  The orbs themselves had a reddish orange glow and were whiter toward the middle of the orb.  There was four individual orbs, they moved independently but still in a formation.  There seemed to be one that was almost, mockingly, zigzagging a couple of times.  To note, there was a commercial airline that was either landing or taking off when I first saw the orbs.  (This was seen from the community houses on Peters RD and University DR)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87431.html](http://www.nuforc.org/webreports/reports/087/S87431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Metallic cigar shaped objects.  Changed to round or were pulling away upwards.Very high altitude.  Traveling south just left of overhead.  Much higher than planes coming into airport.  Cigar shaped.  Easily visible with sun setting on metallic form.  No wings or lights.  Heading south and turning toward SSE.  Came back after a couple of minutes and crossed paths with a second identical object.  Both disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126124.html](http://www.nuforc.org/webreports/reports/126/S126124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
