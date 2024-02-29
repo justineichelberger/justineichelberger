@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wasilla (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Went to walk my dog and a UFO was not very far away.I decided to take my dog on a walk in a gravel pit down by the hay flats in Wasilla one evening.  Everything was normal with the walk and about 20 min into the walk my dog was getting cold and let me know he wanted back into the car. We walked back to the car and I let him in and as I unhooked his leash off of his collar I seen out of the corner of my eye 3 bright lights in the sky about 500 yards away and 250 feet in the sky.  The sky was clear and stars were out but these lights were dramatically brighter.  I turned my head and looked right at it and it was just hovering in one spot. I knew exactly what I was looking at and couldn't believe it.  Since I was out with my dog in an area with known wildlife that can attack people I did have my AR15 on my back but no way was I tempted to fire at it.  I set my rifle in my car and grabbed my Cannon DSLR camera and as soon as I had the camera the craft slowly started my way. To my luck my camera didn't have a memory c! ard so I found one as fast as I could. When I looked back up at it I seen a dark colored triangle with bright white lights at each corner of the triangle. At this time it was right in front of me making a gradual left hand turn. It had to be at least as wide as a Boing 727. Next it did something I never would have guessed. As it was turning right in front of my eyes I watched it shift from a huge triangle and turn into a military C5 Galaxy yet there was zero sound. It was about 100 feet away and now pointed away from me gaining altitude. It must have tried to camouflage itself but way too late. I had totally forgotten about my camera till this point so I raised my camera and couldnt find anything at all in the viewer. I took three hail Mary pics and watched the thing slowly disappear high into the sky. My 3 pics were shaky and blurry of corse but it showed the back of a craft with lights at each corner and also 2 red large engine looking things along the flat craft's back s! ide. I've never heard of a UFO changing into something more co! mmon for a viewer to understand but it makes sense it would disguise itself. One thing that I'm concerned about is that when I first seen it it wasnt fully dark out yet and when I took the pics and it was headed away from me it was pitch black out. I'm not kidding.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158440.html](http://www.nuforc.org/webreports/reports/158/S158440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Superior (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a green glowing object streaking through the sky in a way that a shooting star would, or a meteor, or something crashing.  It was green almost lime glowing circular shape with the same color trailing behind it as if it was on fire.  That is why I gave the example of a shooting star or meteor.  It was further up North as falling through the sky towards Duluth MN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153803.html](http://www.nuforc.org/webreports/reports/153/S153803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
