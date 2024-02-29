@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 28 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Man driving to west witnesses a very bright, white ball of light streak from S to N directly ahead of him 20 deg. above horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01096.html](http://www.nuforc.org/webreports/reports/001/S01096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spring Branch (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was just above tree line and was moving first seemed fast then seemed to stop or hover. Glowing round light captured on phone 3 times.  It seemed to brighten & glow.  Moving but not leaving area as if it was just above tree line facing south of where video taped but long ways away.  First I thought it was star and I guess it could be but I’ve never seen star so low and moving.  Very odd what we saw and no one could tell what it was.  After viewing for 25-30 min I went inside.  I came back out 30 min later and some cloud cover had showed but not enough to cover moon or other stars in the sky.  It  was then gone from sight.  This object was below moon and to the right when we filmed but you could not see both in video.  Not sure what it was and that’s why I reported.  I’ve never seen this website until I google searched to see if anything else came up about glowing and moving light in the sky tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153741.html](http://www.nuforc.org/webreports/reports/153/S153741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
