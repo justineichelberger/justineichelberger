@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Celta (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fireball sighting report on  Police/Fire scannerI did not witness this myself. Thursday evening, 21:00 hrs my scanner on channel 8830 Delta Vol. fire company, was alerted to a report of a large ball of fire falling to the ground and causing a surrounding fire. Delta VFD responded and the 911 dispatcher said that the PA State Police had received 3 calls reporting a large ball of fire falling to the ground. The 3 callers also reported that they thought they heard a low flying aircraft in the area just before the fireball was sighted. I dont know what the flying object was:but I thought you may be interested. The map corrdinates are appox. Lat 39.7 lon 76.3 elev. 397 ft.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61988.html](http://www.nuforc.org/webreports/reports/061/S61988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Four orbs flying over Plantation, FL flying N-NW from FLL airport area.I stepped outside to make a phone call. Look straight out to the horizon,  S-SE, looking towards FLL [Fort Lauderdale Airport about 10 miles away (I google mapped it)] From that direction I saw four Orbs.  The orbs appeared to begin from the ground, perhaps since they were coming from a distance. At first I thought they were rockets or perhaps fireworks, because they were flying almost straight up. The altitude was, I believe about that of a helicopter hovering.  The orbs where headed our direction, I would say N-NW from the airport area (I guess).  They began to fly over head, gaining altitude. At first they were flying in an unorganized manner.  But as they came closer, and gained altitude, they made a U formation.  We took a video of this.  By the time we took the video, they were in the U formation and high over head.  They slowly began ascending until they were out of sight.  The orbs themselves had a reddish orange glow and were whiter toward the middle of the orb.  There was four individual orbs, they moved independently but still in a formation.  There seemed to be one that was almost, mockingly, zigzagging a couple of times.  To note, there was a commercial airline that was either landing or taking off when I first saw the orbs.  (This was seen from the community houses on Peters RD and University DR)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87431.html](http://www.nuforc.org/webreports/reports/087/S87431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
