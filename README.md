@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed a bright orange glowing light in controlled flight which abruptly disappeared, replaced by spark like lights which continued on and slightly downwardI am a middle aged college educated male familiar with astronomy and modern technology.At around 10:40 in the evening on the 29th of February,I got up to turn off the table lamp in my front room.I observed through the window a bright orangish light coming from the north, over the Islands, on the other side of the San Joiquin river,across from the town I live in.Lights from this direction are not abnormal as transport jets from nearby Travis Airforce Base often use this approach in their training.The color and shape of the light was unusual.As it turned to the East at the northern edge of the town, I noticed the lights on the object did not lessen in intensity as it turned away from me.It moved approximatly 1 mile more to the east before abruptly disappearing.As soon it did, spark like lights dropped from the same spot in the sky and continued onward and slightly downward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12210.html](http://www.nuforc.org/webreports/reports/012/S12210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sturgeon lake (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Very crazy need to read whole thing to understand itSaw light in sky thought it was a star or plane.  Then watched it for a while and it started zipping around the sky going to the left and right and up and down stopping suddenly.  Started zig zagging and started getting dimmer and brighter.  Then little amber lights like fire flys would briefly appear and go away in a second and happen every few minutes.  Then started moving away and then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153740.html](http://www.nuforc.org/webreports/reports/153/S153740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
