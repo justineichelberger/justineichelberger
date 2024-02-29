@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The  bright  light stayed there for 5 minites than took off extermly  fast and vanished.As I was sitting in my backyard I was looking at the stars to the east of my position. I noticed what I thougt was one of the planets that has been in the sky lately. I was looking at it for roughly 5 minites tring to figure out which plant it was, it than moved very fast to the south and faded out of view. I tried to reason what it could have been and given the facts, that it was as bright as one of the planets that I've been watching, staying in the same place for at least 5 minites, then taking off at a very high rate of speed there's no queston in my mind that it was a UFO. It was a extremly clear night here on the west coast in northern Californa.I could not make out a shape because of how high it was in the sky. I could only see the very bright white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36171.html](http://www.nuforc.org/webreports/reports/036/S36171.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
