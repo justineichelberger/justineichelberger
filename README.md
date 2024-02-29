@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mission (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A very large, bright white object in the northwestern sky.Date: February 29, 2004 Time: 9:30 p.m.Location of Sighting: Northwestern sky. Number of witnesses: 2 Number of objects: 1 Shape of objects: Round  Full Description of event/sighting: a very large, bright white object in the northwestern sky, stayed in one place for about ten minutes, then appeared to fade in brightness slowly, then it gradually moved north over the period of about 15 minutes. it then slowly disappeared from view, it was far to bright to be a star, and did not move in the fashion of any satellite that I have ever seen. I'm sure that other people must have seen it, as it was to bright and long to miss    Additional Information Below:  I will answer your questions in order. (1) The movement appeared to stay in one place for about ten minutes, then very slowly moved north until moving out leaving my view. It was a very clear night except for a low cloud line, about the altitude of the object. (2) the altitude , if it was in the atmosphere, was about the same as the Grouse mountain range if being viewed from Vancouver. (3) The color was bright white, just like a very bright star, although it was about twice to three times the size of Venus to the naked . Very big and very bright. The brightness faded slightly as if it were moving away when it appeared to be stationary. (4) I did see one plane fly right in line with the object, although the plane appeared to be very far away, probably a commercial line,( the blinking red light) was faint. (5) No trail of any kind  (6) the second witness only viewed the object for about 5 min. but I can assure you that her interpretation would be similar as we discussed the object. I am very interested an fairly well informed on these matters as I have been the witness to several sightings and in occurrences throughout my life, please let me know if you find anything out. I'm sure that YVR must have noticed this object. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35496.html](http://www.nuforc.org/webreports/reports/035/S35496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tumwater (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO moving rapidly across the sky.  Large sudden movement up,down and then up again.  Possible twirling.  Loss sight of ufo due to obstruction.  The object was definitely in our atmosphere.UFO had slow blinking lights.  It appeared to be close like seeing an airplane with its shape just barely visible.  Then the UFO's shape started to fade where only the light was visible.  Once it got further away, it started to run parallel across the mountains.  It continued to run parallel to the mountains until we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12167.html](http://www.nuforc.org/webreports/reports/012/S12167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
