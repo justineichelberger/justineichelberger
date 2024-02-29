@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:35 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:04:42 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Port Hope (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange glowing lights, approximately 4, moving in circular motion through the clouds lighting up behind the clouds.  White glowing from behind clouds and moving very fast in all directions.  These glowing lights where fairly big in the sky and where in tight formation criss-crossing at times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126112.html](http://www.nuforc.org/webreports/reports/126/S126112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Superior (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a green glowing object streaking through the sky in a way that a shooting star would, or a meteor, or something crashing.  It was green almost lime glowing circular shape with the same color trailing behind it as if it was on fire.  That is why I gave the example of a shooting star or meteor.  It was further up North as falling through the sky towards Duluth MN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153803.html](http://www.nuforc.org/webreports/reports/153/S153803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
