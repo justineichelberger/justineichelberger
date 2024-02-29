@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alpharetta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I just went to my backyard and watched 2 lights flying with abnormal way, similar to an insect, one behind the other.  No sound and so fast!  WoW!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126107.html](http://www.nuforc.org/webreports/reports/126/S126107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Windsor (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>OBSERVED TRIANGULAR FORMATION OF LIGHTS AT EST'D 30,000 FEET TRAVELLING S.E. TO N.W. AT A TREMENDOUS RATE OF SPEED. ASSUME IT WAS A TRIANGULAR SHAPED VEHICLE AS THE LIGHTS TRAVELLED IN PERFECT UNISON WITH ONE LIGHT AT THE LEAD POS'N AND TWO LIGHTS FLANKING IT BUT LOCATED BEHIND IT.  SKY WAS DARK AND NO STARS VISIBLE THRU THE AREA WITHIN THE THREE LIGHTS.THIS REPORT IS SUBMITTED BY A SECOND INDIVIDUAL, AS THE PERSON WHO ACTUALLY WITNESSED THE LIGHTS DID NOT WISH TO DO SO HIMSELF. HE FEARS RIDICULE AND HAS NOT EVEN TOLD HIS WIFE ABOUT IT.  HE ONLY TOLD THE WRITER ABOUT IT BECAUSE THE WRITER IS A LISTENER OF THE ART BELL PROGRAM.  HE APPEARED QUITE SINCERE AND ABOUT, AND DISTURBED BY THE EVENT. I HAVE KNOWN HIM FOR APPROX. 3 YEARS AND HE DOES NOT APPEAR TO BE A PERSON PRONE TO FLIGHTS OF FANCY. I HAVEN'T HEARD OF MANY REPORTS OF THIS NATURE FROM THIS AREA AND THOUGHT EVEN AN INDIRECT ACCOUNT OF THIS TYPE OF EVENT FROM THIS AREA MIGHT BE WORTHY OF NOTE. N.B.  AS THIS OCCURRANCE WAS NOT WITNESSED BY THE WRITER, AND THE ACTUAL WITNESS DOES NOT WISH TO PARTICIPATE IN ANY ATTEMPT TO PURSUE FURTHER INFO REGARDING HIS OBSERVATIONS, I DO NOT FEEL IT SERVES ANY PURPOSE TO PROVIDE CONTACT INFO, AND WILL THEREFORE FEFRAIN FROM DOING SO. I DO ASSURE YOU, HOWEVER, THAT THIS REPORT HAS NOT BEEN FABRICATED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12177.html](http://www.nuforc.org/webreports/reports/012/S12177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
