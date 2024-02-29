@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tumwater (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO moving rapidly across the sky.  Large sudden movement up,down and then up again.  Possible twirling.  Loss sight of ufo due to obstruction.  The object was definitely in our atmosphere.UFO had slow blinking lights.  It appeared to be close like seeing an airplane with its shape just barely visible.  Then the UFO's shape started to fade where only the light was visible.  Once it got further away, it started to run parallel across the mountains.  It continued to run parallel to the mountains until we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12167.html](http://www.nuforc.org/webreports/reports/012/S12167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two bright orange orbs were moving west to east, one behind the other.  They seemed to have a "gassy" look and sparks were falling.Two bright orange orbs were moving west to east, one behind the other.  They seemed to have a "gassy" look and sparks were falling down from them occasionally.  The one in the back would gain speed and get closer briefly then fall back.  This went on til they went NE out of sight.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126180.html](http://www.nuforc.org/webreports/reports/126/S126180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
