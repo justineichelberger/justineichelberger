@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:49 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 29 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Solon (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red Pulsating light left, white on right, much larger red appears fast rate across Horizon and joins red pulsating,into oneOn the Horizon, Red pulsating  light on left white to the right... Appearing out of nowhere, much Larger red light traveling right to left, along the Horizon enters the pulsating Red Light and they become one.... It now appears as two white lights with a slight red affect much further away....I have resided here for 9 years with many Visual Encounters and saw a Hudson Bay UFO 1981 on Rt. 84 in New York with 3 others... 2 of us not remembering anything after that until walking into a home the following morning to a town in Pa.  No mention of what we had encountered to anyone that morning.  Tonight this is the Second most interesting sighting I have seen since 1981.   Also, somewhat fearful..  I reside halfway between the North Pole and the Equator ...Native American Dig Sites are well known here...only fate white light appears now flashing.  Occurance of a landed Aircraft appeared 8 miles North from me in the 1960s Bingham Maine.  Was investigated, photos, little girls interviewed.  Girls also claimed to see being in Craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153746.html](http://www.nuforc.org/webreports/reports/153/S153746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Miami Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 9.00 PM - 9.00 PM minutes.</sub><blockquote><sub>20 lighted objects orange color vertical shape flying over Miami BeachAt 8.30 pm I was on Collins Avenue and 26 Street having a coffee outside a coffee shop.There were around 15 other persons. 3 of them began to shout : look at that!! I even called the manager of the coffee shop to come out.20 (another person looking at them counted 21)orange color lighted UFO´s began flying slowly and far, from south to North.Since tonight is very cloudy, the objects began disappearing once they reached heavy clouds.They were all going slow, so we could look at them for a space of maybe 4 minutes? But the last object was going faster than all others.A small plane was going the opposite way (morth to south), and I guessed they were checking those objects.  I continued checking from my balcony, and did not see them again yet.Very, very strange.They were NO planes. My balcony looks at the airport, and I am accustomed to watch planes all the time.By other hand, comparing the speed of them to the small plane and 1 big plane leaving the Miami Int´l Airport allowed us to compare speed: planes were going faster.  (The small one and commercial one),  These objects where lighted, dark orange, in the shape of an ¨l¨or thin cigar, vertical shape.If anybody saw them , or have an explanation, pls. inform.THanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87435.html](http://www.nuforc.org/webreports/reports/087/S87435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [81](http://www.nuforc.org/webreports/reports/153/S153739.html)
-- [80](http://www.nuforc.org/webreports/reports/153/S153723.html)
-- [79](http://www.nuforc.org/webreports/reports/153/S153746.html)
-- [78](http://www.nuforc.org/webreports/reports/153/S153747.html)
-- [77](http://www.nuforc.org/webreports/reports/153/S153741.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
