@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vernon (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Bright Orange pulsing lights, possibly connected,  hover and rotate around Vernon BCI was relaxing listening to Music with my two buddies.  I looked out the window down the valley towards Okanagan Lake when I spotted two lights in the sky approximatley 100m away from eachother.  The two lights were orange and were growing brighter and dimmer, almost like a flickering fire in the distance.  The lights never grew further or closer apart from eachother and hovered slowly through the valley rotating end over end and staying the same distance away from eachother.  I went outside to see if I could hear hellicopter blades, but there was no noise.  The object or objects would move and rotate and for about 30 seconds it just stayed stationary.  We watched in awe as we discussed the possibilites of a UFO sighting, whatever we saw we all agreed it wasn't normal.  The Lights continued down the valley no faster than a hellicopter and no higher than the valley mountain tops untill one light went out of vision and then 20 seconds later the second one foll! owed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96484.html](http://www.nuforc.org/webreports/reports/096/S96484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in El Centro (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>It was about 8:30 pm.  My mom and I was traveling N.E. on hwy 11 from El. Centro and I saw 3 bright orange triangle or arrowhead shaped ship.  They were in straight line then went to a triangle shape.   Then it disappeared. About 15 mins later I was in Brawley at my house in the country and I was looking up at the sky to see if  anything else would appear.  Then 3 orange bright triangle or arrowhead shape lights reappeared. Stayed stationary for about 5 mins.  Then one by one they disappeared in the night sky. I have photos of the ones in Brawley which I will email to you.  The whole entire sighting ended at 9:05 pm.It was seen my mother and myself.((NUFORC Note:  Flawed date is indicated above.  We spoke via telephone with the mother, and she informed us that the sighting occurred on either March 1st, or 2nd.  We have amended the date above, to indicate a sighting on Friday, March 1st, and may amend it again, once we receive the exact date.  The time of the sighting is unclear, as well.  We suspect that the sighting began at 2030 hrs., and ended at 2105 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96579.html](http://www.nuforc.org/webreports/reports/096/S96579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
