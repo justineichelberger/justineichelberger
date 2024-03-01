@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Solid triangular lights or light on the underbodyI am sorry I do not rememeber the exact date, it has been a few weeks back, and it was cold out, I work evenings and went out to smoke, and I always " Look- up" I seen a few planes high up, (dots of light) and then I noticed a large bright one flying NE- SW, and it looked "low " for an airliner etc, as it got closer, I seen it just above the clouds ( moon was out and clouds were illuminated) and it looked huge to be above the clouds and so low at the same time etc... the under body looked as though it had a complete triangle of lights, (it was black or dark in the center of the triangle) and then 2 small flashing lights about  45 degrees or so out from the broadest end or back end points of the object, not touching the triangle, and flashing alternately.  I live near an airport, and a national guard location, and I have never seen a craft like this.  It made no sound at all.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97160.html](http://www.nuforc.org/webreports/reports/097/S97160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Princeton (WI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>The observer was 8 miles south of Ripon, WI, when he noticed an orange ball of light in the northwest sky.  He drove on another 4 miles and witnessed a cluster of lights in the sky that looked like "the flashing lights on a pinball machine."  The object looked like a cluster of lights, that were flashing sequentially.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01091.html](http://www.nuforc.org/webreports/reports/001/S01091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
