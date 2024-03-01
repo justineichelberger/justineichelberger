@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>9 red dots hovering  low in the sky moving very slowly to the west.My fiancé told me to look out our bedroom window because he could see little red lights in the sky hovering really low and it didn't look like an airplane.  I looked and noticed there was 5 red dots and then it looked like the dots dimmed and then became bright again and 4 more dots appeared flying in no particular pattern but moving west towards the mountains very slowly and then they just disappeared.  They also made no noise at all.  I was able to get a video and take a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107589.html](http://www.nuforc.org/webreports/reports/107/S107589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Acworth (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Four or five disc shapes in the sky.  Very strange!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107559.html](http://www.nuforc.org/webreports/reports/107/S107559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
