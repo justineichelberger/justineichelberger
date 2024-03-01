@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Humble (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Mr Davenport....I periodically visit your site and even though I have never seen a ufo....I do believe very much in their existence....I really wanted to say thank you very much for keeping this site active and realistic.  One day, as we all know, we will see the physical proof of the truth and perhaps until that day you will be the bridge from our so called dark age that will help us keep a finger into the esoteric aspect of existence.   As it is, so many of us already know the truth, we just would love it if the truth would physically manifest for the disbelievers and nay sayers not in retaliation for their riteous repudiations but simply so that we can finally say that we live in a universe of multi civilizations ,both from physical planes of existences and other dimensional worlds.  Thank you again for your valiant efforts and energies and I wish for us all and you especially the very best.  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42631.html](http://www.nuforc.org/webreports/reports/042/S42631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My girlfriend and I saw a strange ORANGE orb about 800-1000 feet above us flying at a normal speed.  It made no sound and flew into the everglades from around 92nd street and 167th ave.  It was larger than a plane and was traveling upwards.  We see planes all the time but this was like nothing we have seen before and was in a pattern no where near the planes we see on a daily basis.  We ran inside to follow it through the back yard, but when we went inside (10-15 seconds) it vanished.  I have a video but it only shows an orange light - nothing spectacular.  It was solid orange and had a white aurora that you could see fluxing behind the orange light.  It caught my eye because I have never seen anything so orange in my life flying in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107573.html](http://www.nuforc.org/webreports/reports/107/S107573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
