@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My girlfriend and I saw a strange ORANGE orb about 800-1000 feet above us flying at a normal speed.  It made no sound and flew into the everglades from around 92nd street and 167th ave.  It was larger than a plane and was traveling upwards.  We see planes all the time but this was like nothing we have seen before and was in a pattern no where near the planes we see on a daily basis.  We ran inside to follow it through the back yard, but when we went inside (10-15 seconds) it vanished.  I have a video but it only shows an orange light - nothing spectacular.  It was solid orange and had a white aurora that you could see fluxing behind the orange light.  It caught my eye because I have never seen anything so orange in my life flying in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107573.html](http://www.nuforc.org/webreports/reports/107/S107573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cloquet (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving down the road and look up to see three lights form a triangle which stayed for roughly 30 seconds to a minute.  Then slowly they faded away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132805.html](http://www.nuforc.org/webreports/reports/132/S132805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
