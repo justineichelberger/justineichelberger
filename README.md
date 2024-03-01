@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Maitland (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>aqua blue lights in maitland, floridaI didnt want to write this, but on 03-01-13 on the corner of keller rd and maitland blvd in maitland, florida. i was leaving work at 8:25pm i seen a plane flying on my right side of my front windshield, then all of a sudden on my left side a ufo flys by me at amazing speed, it cross the my path of view from my car and headed towards the plane, the plane trys to vear off the the left but the ufo slows down and goes underneath the plane then shoots off into space. i'm sure others seen this, it happen so fast about 6 yo 8 seconds. im sure others seen this including the pilot. i could only see the lights, but i felt that the ufo was cloaked with the atmosphere, it didnt fly like a animal or plane, which uses the air to create lift. this thing seems to fly with no resistance to gravity, and it slice through the air as if it was nothing. i'm not making this up, i didnt want to actually go online about this, but my friends to me to report it. i don't have footage, ! i can only tell you what i saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96540.html](http://www.nuforc.org/webreports/reports/096/S96540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vernon (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Bright Orange pulsing lights, possibly connected,  hover and rotate around Vernon BCI was relaxing listening to Music with my two buddies.  I looked out the window down the valley towards Okanagan Lake when I spotted two lights in the sky approximatley 100m away from eachother.  The two lights were orange and were growing brighter and dimmer, almost like a flickering fire in the distance.  The lights never grew further or closer apart from eachother and hovered slowly through the valley rotating end over end and staying the same distance away from eachother.  I went outside to see if I could hear hellicopter blades, but there was no noise.  The object or objects would move and rotate and for about 30 seconds it just stayed stationary.  We watched in awe as we discussed the possibilites of a UFO sighting, whatever we saw we all agreed it wasn't normal.  The Lights continued down the valley no faster than a hellicopter and no higher than the valley mountain tops untill one light went out of vision and then 20 seconds later the second one foll! owed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96484.html](http://www.nuforc.org/webreports/reports/096/S96484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
