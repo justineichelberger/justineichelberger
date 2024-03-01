@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>The witness was traveling on I075 north from Venice when he saw a fireball that was 1/2 the size of an aspirin at arms length and it was 45 degrees above the horizon.  It was traveling south to north and was visible for approx. 3-4 seconds when it finally disappeared over the horizon.  He did not experience any electrical problems and his car continued to operate at all time.  His parents were in the car and witnessed the event also.At the witness was driving he noticed this orange fireball passing and thought he also saw a small trail, which at arm's length, was approx. two inches long.  The object continued across the sky at an extremely rapid speed, but he had enough time to call to his parents to look at it.  They both saw the fireball and described it in the same manner.  It did not change its path.  They were traveling north on I-75 past Venice, going towards Sarasota County from Charlotte County when they saw it traveling from the south to the north, disappearing over the horizon.  They were not affected physically from the experience nor did they notice any electro-magnetic disturbances.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12186.html](http://www.nuforc.org/webreports/reports/012/S12186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Solid triangular lights or light on the underbodyI am sorry I do not rememeber the exact date, it has been a few weeks back, and it was cold out, I work evenings and went out to smoke, and I always " Look- up" I seen a few planes high up, (dots of light) and then I noticed a large bright one flying NE- SW, and it looked "low " for an airliner etc, as it got closer, I seen it just above the clouds ( moon was out and clouds were illuminated) and it looked huge to be above the clouds and so low at the same time etc... the under body looked as though it had a complete triangle of lights, (it was black or dark in the center of the triangle) and then 2 small flashing lights about  45 degrees or so out from the broadest end or back end points of the object, not touching the triangle, and flashing alternately.  I live near an airport, and a national guard location, and I have never seen a craft like this.  It made no sound at all.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97160.html](http://www.nuforc.org/webreports/reports/097/S97160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
