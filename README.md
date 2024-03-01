@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:40 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My friend and I were in a parking lot (there was a moon) heading to our vehicle.  I looked up and saw what I thought at first were meteors  coming down but I quickly realized they were coming down too uniformly and not burning out (not leaving a trail).  At first I was seeing two 'burns' then, looking for more, I looked ahead of the direction they were going and seen a third 'burn'.  I didn't think of them as lights, they were more like a friction burn .  These three burns against the starry sky outlined a huge triangular object.  We were heading to work therefore didn't wait for it to go out of sight.  I called the local TV station the next day and was told they were meteors. I told them I had seen them and they were not meteors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08737.html](http://www.nuforc.org/webreports/reports/008/S08737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Woman walking dog, witnesses a large, oblong obj., very bright yellow-orange, streak overhead at "incredible speed."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01116.html](http://www.nuforc.org/webreports/reports/001/S01116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
