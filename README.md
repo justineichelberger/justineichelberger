@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Circleville (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5-6 strange "Phoenix" lights in a row west of Chillicothe.I was heading south on St. Rte 104, about a half mile south of  762. I noticed 5-6 lights in a line west of Chillicothe. I remember looking for a plane thinking that they were flares, but saw none. They exactly like the Phoenix lights and as I got closer to Circleville they started to disappear.((NUFORC Note:  Source indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67856.html](http://www.nuforc.org/webreports/reports/067/S67856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Gates (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangles seen flying in thin layer of clouds.Hello.   I want to come forward with a complete report of my sightings which occurred on 3/1/01 at 04:50. I am a construction contractor, 43 years old and have lived at ((town deleted)), Oregon all of my life. I spend much time out doors, camping out hiking and star gazing. My home elevation is 1100 feet and I see passenger jets fly over all the time. (and military) I see them fly over in various cloud formations and at night I have studyied them with their fog lights on, rays pointing downwards at the forward angle. The luminance is yellow in the cloud ceiling and one inch long at arms length. During the day, passenger jets average 1/4" to 1/8" inch at arms length. The speed of the passenger jets is quite slow. The object I saw that early morning was 2" inches at arms lenght and was moving fast in the ceiling at about eleven thousand feet. I saw the clouds passing under it and the brightness was like a white sixty watt flourescence with a hue of blue. And a faint red was glowing at the center through the mist. I heard no sound, it was traveling North with one light in the forward position. The three lights were about 3/8" inch in diameter at arms length. After seeing this thing I immediately went out side with a flash light and saw to my West other lights at an angle of about 30 degrees. They were an odd arrangement of lights, 2" inches at arms length. Small bright green lights one red, and I saw a white light not flash but pulse only once at the trailing end as it moved behind the tree tops. As it moved North, I heard a faint low rumble. I continued studying the sky and could see the brightest stars shining through the ceiling and there were small breaks in the clouds. I saw a triangle of lights directly over my head, 1 1/4" inch at arms length, brighter than the other stars and I was suspicious of this and watched them for about 15 seconds when suddenly a bright flash occurred at the center of the triangle. all three lights just blinked out. I studyied the sky for about a half hour after that, but saw no oth! er movin g objects. At day break I noticed the clouds to be at about eleven thousand to thirteen thousand feet above the surrounding mountains. In my back yard, Mt Horeb is directly North of my house at two and a half miles and is 4212' feet high. The object I saw that early morning, flew directly over its position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18104.html](http://www.nuforc.org/webreports/reports/018/S18104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
