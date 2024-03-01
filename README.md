@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed unexplained multiple lights/orbs traveling east to west in clear daylight.  First impression was that they might be balloons.  However, a smaller group of two broke off from the others and traveled in the opposite direction at a rapid speed.My neighbor was outdoors at the time, so I called out to him to confirm the sighting.  He could not distinguish what the objects where, so he went to his garage and brought out binoculars.  We both observed the objects through the binoculars.  The objects appeared to be indistinguishable (reflected?) lights or orbs.Unable to clearly make out forms we came to differing conclusions.  He believed  that what we observed must rationally be birds flying at high attitude.  I could not come to a definitive conclusion, fore I have often in my 50 plus years observed birds in flight and never did they appear like this.  I only know that I witnessed glowing lights or orbs in an asymmetrical formation.  To me, they are unexplained.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62072.html](http://www.nuforc.org/webreports/reports/062/S62072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Humble (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Mr Davenport....I periodically visit your site and even though I have never seen a ufo....I do believe very much in their existence....I really wanted to say thank you very much for keeping this site active and realistic.  One day, as we all know, we will see the physical proof of the truth and perhaps until that day you will be the bridge from our so called dark age that will help us keep a finger into the esoteric aspect of existence.   As it is, so many of us already know the truth, we just would love it if the truth would physically manifest for the disbelievers and nay sayers not in retaliation for their riteous repudiations but simply so that we can finally say that we live in a universe of multi civilizations ,both from physical planes of existences and other dimensional worlds.  Thank you again for your valiant efforts and energies and I wish for us all and you especially the very best.  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42631.html](http://www.nuforc.org/webreports/reports/042/S42631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
