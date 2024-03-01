@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Cluster of UFO's with a big silver craft in the middleWe were at the Gateway Mall parking lot, just came out of Target.  Walked to the car and saw them because the sun was reflecting off of the big silver one in the center. Kennedy airport is nearby cause the Mall is right off the Belt PKWY. We looked at the big silver one and saw about 20-30 little ones circling it.  Making "formations" and moving into each other and toward the big silver one and more came out.  Some were stationary.  They moved slowly and then moved fast.  They would "drift" In any direction. We knew it was not ballons.  We tried to convince ourselves that it was snow stuck up there with a big silver blimp in the center because we didn't want to believe we were seeing what we did. We tried to get other people to witness it but they were in a rush to get home since a snow storm is heading here slated to hit tomorrow morning. My friend thought she was looking at a constellation until she noted that you cannot see stars in broad daylight and they are not accompanied by a big silver ball.  We stood there for awhile and we saw planes flying in the other direction away from it.  Helicopters showed up about 10 minutes later, they were black and it looked like they were "chasing" it but they backed off and flew away from the silver one. We drove off and tried not to see anymore.  It left us quite nervous and excited.  But more nervous than anything else.  I wish I had had a camera, video or film butI didn't.  I plan to carry one from now on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49364.html](http://www.nuforc.org/webreports/reports/049/S49364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We was in the parking lot close to mco and a super orange bright light show up from the horizon disappearing way up... I know the pattern of flight of the airplane I lived her since 2010 and is a unusual route to se a craft... The weird thing looks like is coming from north-east (cape Canaveral) I check the nasa launch schedule and nothing come up for today....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117539.html](http://www.nuforc.org/webreports/reports/117/S117539.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
