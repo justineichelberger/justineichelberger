@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Annapolis Basin (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I woke at 6:15 stood up to look out the window as it had been snowing, it was still dark and the window was slightly open,  there was no sound.  The window faces northeast and has a full view of the water, I saw a red light on the beach just at the water line skimming along.  It was a steady light about 6 ft high moving at about 15 miles per hour, the beach is full of rocks and I immediately dismissed the thought of a person running with a light or drving an atv - the ball of red light moved steadily from left to right at the same altitude right along the beach until I lost sight of it.  The mind is remarkable as I was in the 30 seconds discarding all plausible options</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96474.html](http://www.nuforc.org/webreports/reports/096/S96474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Circleville (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5-6 strange "Phoenix" lights in a row west of Chillicothe.I was heading south on St. Rte 104, about a half mile south of  762. I noticed 5-6 lights in a line west of Chillicothe. I remember looking for a plane thinking that they were flares, but saw none. They exactly like the Phoenix lights and as I got closer to Circleville they started to disappear.((NUFORC Note:  Source indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67856.html](http://www.nuforc.org/webreports/reports/067/S67856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
