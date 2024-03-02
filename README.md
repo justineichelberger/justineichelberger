@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Perth (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Constant visitorIt was 4 am an i went outside for a smoke, i usually see weird things in the sky that move nt like any normal craft - planes etc, anyway i joked to myself an said come on one of you guys move.  Then as soon as i said that , to my left a bright orange light lit up an scared the crap out of me.  It was probably a 100 meters away from me about 2oo meters up.  After the intinal shock i jst watch as it seem to come closer then back alittle bit an keep doing this for a while while glowing real bright then low then bright, like playing around.  As it started getting light it wasn't leaving?  I was thinking surely someone else could see this?  I even heard a helicopter an it went in oppersite direction. Finally it started to leave around 6ish in which then i quickly ran inside to wake flatmate.  My flatmate came outside an was like wtf is that, an she watched probably another 2o mins before it disappeared into the clouds.  Since then from this date to nw im seeing it nearly every secound night an showed more friends, even when im in a different location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107839.html](http://www.nuforc.org/webreports/reports/107/S107839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middlesex (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 130-2 AM - 130-2 AM minutes.</sub><blockquote><sub>UFO may have been seen taking off..'Middlesex N.y. Area,((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108220.html](http://www.nuforc.org/webreports/reports/108/S108220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
