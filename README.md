@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Andover (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I viewed 50 to 60 orbs dropping out of a hole in the sky and moving northeast from my location.	On the morning of March 2, 2020 I was sitting in my living room listening to music. It was 4:45 am. I noticed a light moving northeast from my area. My first thought was that it was a plane. I saw 10 more in succession and got up to move to the window. These lights continued to cross my sight line going northeast. After seeing about 30 of them, I stepped out on my front porch to get an idea of where they were coming from. It seemed that they were dropping down from the same point in the sky. About one half mile east and south of my house. They would first appear as a dull orb, drop down and become much brighter and then move northeast in a straight line behind the others. I continued to watch until the last one, which was at a longer interval than the others dropped down and took off following the others. I would estimate between 50 and sixty of these lighted orbs continued northeast in a straight line. As the moved farther away they took on the appearance of a long line of! light due to the regular distance between each vehicle. The sky was clear at this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161200.html](http://www.nuforc.org/webreports/reports/161/S161200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>lights over Northern VAconditions: , slight overcast 51° Fahrenheit 50% humidity visibility greater than 10 miles  Observed an object traveling west to east at a very high rate of speed (similar to that seen during a typical meteor shower) the object presented with a corkscrew pattern and changed color from a red to a brilliant blue color before seemingly turning upward and disappearing.. my son of 9 also observed the object. one final note: I do not believe that we are being visited by alien beings i however cannot explain this.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62148.html](http://www.nuforc.org/webreports/reports/062/S62148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
