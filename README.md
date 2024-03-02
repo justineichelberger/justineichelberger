@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Marshall (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At 19:30 of Mar 2, 2007, my neighbor and I observed a very bright light west of Marshall, Missouri.  It was 5 to 10 miles west of town, brighter than Venus has ever been, but the light did not move for 30 minutes.  After 30 minutes, the bright light flickered on a very cloudy night, disappeared for 30 seconds, then came back on for approximately 2 miutes, then disappeared for good.  There had to be other witnesses, but there was no report to Marshall Police in a community of 15 thousand, one hour east of Kansas City, Missouri, along I - 70.  I am used to watching the B-2 bombers fly over Marshall on take off and final approach to their home at Whiteman AFB, 30 miles south at Knob Noster, Missouri.  This bright light did not move and come closer to the city limits.  It just hung in the western night sky. There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55786.html](http://www.nuforc.org/webreports/reports/055/S55786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Andover (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I viewed 50 to 60 orbs dropping out of a hole in the sky and moving northeast from my location.	On the morning of March 2, 2020 I was sitting in my living room listening to music. It was 4:45 am. I noticed a light moving northeast from my area. My first thought was that it was a plane. I saw 10 more in succession and got up to move to the window. These lights continued to cross my sight line going northeast. After seeing about 30 of them, I stepped out on my front porch to get an idea of where they were coming from. It seemed that they were dropping down from the same point in the sky. About one half mile east and south of my house. They would first appear as a dull orb, drop down and become much brighter and then move northeast in a straight line behind the others. I continued to watch until the last one, which was at a longer interval than the others dropped down and took off following the others. I would estimate between 50 and sixty of these lighted orbs continued northeast in a straight line. As the moved farther away they took on the appearance of a long line of! light due to the regular distance between each vehicle. The sky was clear at this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161200.html](http://www.nuforc.org/webreports/reports/161/S161200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
