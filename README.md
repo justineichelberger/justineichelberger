@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 1 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Princeton (WI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>The observer was 8 miles south of Ripon, WI, when he noticed an orange ball of light in the northwest sky.  He drove on another 4 miles and witnessed a cluster of lights in the sky that looked like "the flashing lights on a pinball machine."  The object looked like a cluster of lights, that were flashing sequentially.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01091.html](http://www.nuforc.org/webreports/reports/001/S01091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Farmingville (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Object looked like a shooting star, however, came low to tree line and lifted as if it "swooped" and then flash disappeared.Object looked like a shooting star, however, came low to tree line and lifted as if it "swooped" and then flash disappeared entirely.  Was unlike anything I've witnessed before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126154.html](http://www.nuforc.org/webreports/reports/126/S126154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
