@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 76.0 - 76.0 minutes.</sub><blockquote><sub>I observed and filmed a brilliant bright blue sphere moving in the night sky, as I stood outside my house in Ft. Worth, TXLocation:  Fort Worth, TX, 76114  On Friday March 2, 2018 at 21:10, while standing in front of my house in Ft. Worth, Texas, I observed a bright blue sphere in the night sky.  As I looked up at the brightly lit full moon, my eye was immediately drawn to the brilliant blue sphere.  I immediately pulled out my phone and captured a picture, time stamps on phone show the first picture taken at 20:11.At one point I ran inside to retrieve my digital camera.  I was inside for about 3 minutes.  I rushed back outside to continue taking more pictures and video.  I continued to observe the object for approximately 20 minutes.  During this time, I observed the blue sphere moving around in the night sky (screen shot of pics on my phone shows various locations).  My attention was still focused on the round blue object.I went inside and downloaded the images on to my computer to review.After spending time on my computer, I went out to the backyard to take one last look.  To my surprise, the object was still visible in the night sky.  I took another photo at 22:27 of the blue sphere.When I later viewed my pictures and video I saw other objects, what appears to be flying metallic objects.Even though I was standing in the middle of the street taking pictures, as far as I know none of my neighbors saw anything.((NUFORC Note:  We have looked at the still photos that have been forwarded to our Center by the witness.  The small, blue-green object in those photos seems to us to be strongly reminiscent of lens flares, caused by pointing a camera at a bright source of light.  However, if the witness did, in fact, see the object with her normal vision, the objects are not lens flares, which are caused by reflections off the surfaces of the lens elements in the objective lens of a camera.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139213.html](http://www.nuforc.org/webreports/reports/139/S139213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Churchton (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>An extremely fast oval-shaped object flying at a very high altitude from a southwest to northeast direction.Looking through a skylight on a clear day.  At a very high altitude a UFO flew across in the limited view of the skylight from southwest to towards the northeast at an extremely fast rate of speed.  Unless it was some experimental craft there isn't any to my knowledge that can fly this fast.  I know that military aircraft fly at higher altitudes than commercial craft; but this was "extremely fast" for any craft.  I've also seen the shuttle pass by and that wasn't traveling near as fast as this craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55518.html](http://www.nuforc.org/webreports/reports/055/S55518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
