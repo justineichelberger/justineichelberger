@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pueblo (70 miles south of) (CO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>ASTONISHINGLY HUGE FAST BRIGHT CRAFTi was to damned scared to take in mush detail it was bright and enormous and gave off a buzzing sound, and i do mean absolutley unearthly huge in size</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16711.html](http://www.nuforc.org/webreports/reports/016/S16711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While stargazing at The Orion Nebula I heard a noise over my head like aero-braking or something. As I looked up I witnessed a jet banking hard to follow a sphere to a higher altitude then to the east.This evening I was looking at the Orion Nebula when I heard a strange noise over my head. It sounded like a short burst of claps or compress- ions.  As I looked up I noticed several aircraft before I viewed the source of the noise.Tha aircraft I observed first were a passenger jet heading West towards Love Field and a helicopter heading N/NW. As I looked  straight up I saw a military jet making a severe bank up into the sky following a sphere that was about 60 foot in diameter.The jet followed the object East to an altitude of at least 4000 feet(yes it was that low) Then the sphere was gone,into thin air. I watched as the jet leveled out and climbed gradually heading south as it slowed it's speed.Within sixty seconds two helicopters were in the vicinity,both hovering about and scanning the area it seemed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05773.html](http://www.nuforc.org/webreports/reports/005/S05773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
