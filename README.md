@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:32 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winter Park (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large object with no wings speeding up and slowing down through the sky.  Had lights like an aircraft but 100% was not a plane or helicopter.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62041.html](http://www.nuforc.org/webreports/reports/062/S62041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Millbrae (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Spotted UFO: lights in the form of a triangle ascending into the sky (Millbrae, CA)I spotted an unidentified flying object at around 7:35PM Pacific time today, March 2, 2008 in Millbrae, California (20 minutes South of San Francisco)!  I was finishing a smoke outside, looking at the Big Dipper, when I noticed a movement appear out of nowhere near the constellation.  I focussed on it and saw what looked like lights in the form of a triangle.  There were maybe 12-15 lights total.  They appeared to be a purer white color than the yellow hue of the stars.  They almost looked like a flock of birds flying in formation but steadily all together so I assumed that these lights came from one object.  If it were next to the full moon, it would be about 75% of its size.  The UFO flew for 30 seconds at about a 45-degree angle from my view before disappearing into the sky, traveling from South to North ascending at a very smooth and rapid speed without making a sound. I live near the San Francisco International Airport and have seen numerous airplanes in various stages of flight and also during take-off and landing throughout the day and into the night.  Airplanes are loud, and have different colored lights.  What I saw tonight was nothing like the planes I’ve seen departing or arriving from SFO Airport.  It was faster and silent.((NUFORC Note:  We spoke with this individual, and we found him to be quite sober-minded.  We suspect that he is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62030.html](http://www.nuforc.org/webreports/reports/062/S62030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
