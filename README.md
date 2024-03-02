@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Willow Grove (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multiple unidentified objects spotted near military base.I received a report while working at dispatch (NAS Willow Grove) about a large number of objects circling over Elkin's Park area.   No Naval or Airforce flight operations were confirmed.  Report of object were "laughed off" by Airforce security watch commander.  The objects in flight moved slowly in circular formation.  They would stop and go randomly making no sounds other than "whooshing sounds" during acceleration or course change.   Lights were described as white emitted from the center and red and blue lights on outer areas of the objects.  One object was described as "spider like."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55512.html](http://www.nuforc.org/webreports/reports/055/S55512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Marshall (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At 19:30 of Mar 2, 2007, my neighbor and I observed a very bright light west of Marshall, Missouri.  It was 5 to 10 miles west of town, brighter than Venus has ever been, but the light did not move for 30 minutes.  After 30 minutes, the bright light flickered on a very cloudy night, disappeared for 30 seconds, then came back on for approximately 2 miutes, then disappeared for good.  There had to be other witnesses, but there was no report to Marshall Police in a community of 15 thousand, one hour east of Kansas City, Missouri, along I - 70.  I am used to watching the B-2 bombers fly over Marshall on take off and final approach to their home at Whiteman AFB, 30 miles south at Knob Noster, Missouri.  This bright light did not move and come closer to the city limits.  It just hung in the western night sky. There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55786.html](http://www.nuforc.org/webreports/reports/055/S55786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
