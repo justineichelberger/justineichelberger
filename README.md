@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Burbank () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00:00:10 - 00:00:10 minutes.</sub><blockquote><sub>A silvery orb high up to the east northeast.  Appeared to be moving steadily in a line.  It could still be a high flying plane I thought.  Then it made a shared clean unnatural turn to an opposing direction.  A second later I lost it. It was I think high over Edwards AFB and was similar to those in the San fernando valley in 2012 flap.  Same weather also.  High.  Wispy clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132794.html](http://www.nuforc.org/webreports/reports/132/S132794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fast moving light.This was on a crisp night, what I mean by that is there was no clouds in the sky. I was headed north after picking up my son from daycare.  As I was coming to a stop light at the intersection I noticed out of my upper peripheral suddle movement.  Nothing side to side or eratic just moving forward at a speed like a plane would heading in the same direction.When I came to a complete stop the light was blocked by the roof of my car along with the stars.  My upper peripheral catches movement again as the light moves from out of the blockage of the roof and I look up.  At this point my eyes are locked onto this light, no more peripheral.  You can see movement out the side of your eye and it could be anything but when I locked eyes on the object I saw it was too high to make out a shape with no blinking lights of a plane but low enough to know it wasn't a star, and it was moving.  Any sound that the object might of had was block out by music.After maybe 3 seconds of looking at the light I seen it cut real hard and fast at an angle away from earth.  The best way I can describe how it took off is Star Trek warp speed.  It went out in space and the only thing that was missing was the blink of light at the end.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108182.html](http://www.nuforc.org/webreports/reports/108/S108182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
