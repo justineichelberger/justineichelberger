@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Madras (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Line of 27 or more white lights traveling across sky.I saw the strangest thing, was outside at 5:45am it was still dark and I noticed what looked like a satellite passing quickly overhead, I didn't give it much thought till I saw another behind it then another.  Counted at least 27 solid white lights moving quickly in line some closer to each other but most spaced evenly.  No colored lights no flashing, all were just solid white. Travelled from west by southwest to east by north east above madras oregon. May have been more then 27 because I only stared counting after I realised there was several.  Out of the 27 counted, one was flying parallel but slightly north of main line, and aproximatly two were travelling directly behing another one which was in the evenly spaced line.  I Watched for about 5 minutes till I didn't see any more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153761.html](http://www.nuforc.org/webreports/reports/153/S153761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Willow Grove (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multiple unidentified objects spotted near military base.I received a report while working at dispatch (NAS Willow Grove) about a large number of objects circling over Elkin's Park area.   No Naval or Airforce flight operations were confirmed.  Report of object were "laughed off" by Airforce security watch commander.  The objects in flight moved slowly in circular formation.  They would stop and go randomly making no sounds other than "whooshing sounds" during acceleration or course change.   Lights were described as white emitted from the center and red and blue lights on outer areas of the objects.  One object was described as "spider like."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55512.html](http://www.nuforc.org/webreports/reports/055/S55512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
