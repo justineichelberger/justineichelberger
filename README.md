@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ufo entry burn over salt lake city, seen from as far as los angeles to the west and denver to the east. pointy intake valve shapeOn a Thursday evening in 1970 or 1971 about 6 pm as it had just gotten dark here in Los Angeles. My family was taking out the trashcans for Friday morning’s pickup.  My mom yelled for everybody to come quick. My sister, father and I came running.   In the sky there was a fireball that looked like an Apollo doing a reentry burn.  But it was coming out of the north.  Once the entry flair diminished you could see the object.  It looked like a huge intake valve with the small end pointed.   It traversed the sky toward the south it was still traveling at speed and went out of sight over the edge of the horizon.  There were glowing spots on the back (the large part of the object)  |)=======>     My mom told me according to new paper reports that it entered the atmosphere over salt lake city and was seen both from Denver and Los Angeles. She also described newspaper reports that thousands of people had seen it and that it landed in the South Atlantic Ocean.  She also said the papers and TV covered it Friday and Saturday but not a word on Sunday or thereafter.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58457.html](http://www.nuforc.org/webreports/reports/058/S58457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Congers (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Possible Time MachineBeautiful moonlight night, with a few scattered clouds, I was looking at the “Bee Hive” stars with naked eye as I waiting for my dog to do her business.She then ran behind my legs and cowered,  Clouds moved and revealed a craft, seemed massive .It resembled an Air Force drone except no wings and about 1000 time bigger.  It was rectangular with curved corners, a engine (?) took up about half the front then up top a long line resembling a plane cockpit, with a few lights in the windows.It was air force grey, definitely seemed man made but nothing that I have never seen , and I am a military buff.  I looked away to tend to dog, looked back and it was still there, starting to move.No noise or bright lights or trails but it disappeared in a flash.I can still clearly see the image in my mind.I said why would they travel back to this time, there’s nothing much goin on.Then today, with the market crashing, the corona virus, the illnesses in Japan and France, kind of eerie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154149.html](http://www.nuforc.org/webreports/reports/154/S154149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
