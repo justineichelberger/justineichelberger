@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 2 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lincoln County (northern part) (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellow-orange light.Sitting on porch ..bright orange light appeared over lake...it was still and then moved a short distance and disappeared...looked to be 200 ft over water</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117661.html](http://www.nuforc.org/webreports/reports/117/S117661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Monrovia (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Follow up to this one I saw on here .....I live in the D.C. area and this was on the News the night it happened and was in the paper ..but it was reported in both the Paper and the News that the Calves died from Knife Cuts ..    Occurred : 3/3/2004 22:15 (Entered as : 03/03/2004 22:15) Reported: 3/6/2004 2:05:40 PM 14:05 Posted: 3/9/2004 Location: Monrovia, VA Shape: Duration: Possible Cattle Mutilation  Reported in The Washington Post, Saturday, March 6, 2004, page B3: (e-mail jackmant@washpost.com) 4 Calves Attacked in Frederick; 2 Die Frederick County authorities are investigating an act of animal cruelty after four cows on Gladhill Brothers Road in Monrovia were attacked with a sharp object late Wednesday, a spokesman for the county Division of Animal Control said yesterday. Two 6-month old calves died of the wounds, which were discovered by the animals' owner Thursday morning. Two other calves - also about 6 months old and about 350 pounds - were severely cut but survived, said division spokesman Harold Domer. The animals' owner, Aubrey Mullineaux, told authorities that sonmething spooked the 28 animals in his herd about 10:15 PM and caused them to bolt across tha pasture, Domer said. ((NUFORC Note: If two calves survived, our suspicion would be that humans, not aliens, probably were the perpetrators of this crime. Just a guess. Subsequent investigation may resolve the issue. PD))((NUFORC Note:  The date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35473.html](http://www.nuforc.org/webreports/reports/035/S35473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
