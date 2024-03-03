@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>MARCH 3 , 2012, AROUND ABOUT 7:00 PM OVER SKY OF PHILADELPHIA My wife and I had just got back from the market WE WERE WALKING UP THE STEPS TO OUR PORCH .  I JUST HAPPEN TO LOOK UP AND THEIR WAS AIR PLANE FLYING FROM THE WEST TO THE EAST.  AT THE SAME TIME I SAW 6 TO 7 ORANGE ORBS/UFOS  {WHAT EVER YOU WANT TO CALL THEM } THESE ORANGE GLOWING OBS WAS FLYING MUCH HIGHER THAN THE AIR PLANE.  THE ORBS WERE FLYING IN FORMATION ON TOP ONE ANOTHER THEY WERE EVENLY SPACED .  THESE OBS WERE MOVING SO FAST THE AIR PLANE LOOKED LIKE IT WAS STANDING STILL .  THE ORBS WERE COMING FOR THE WEST HEADING EAST, WHEN THE ORBS GOT GREAT DISTANCE AWAY THEY ALL TURNED LEFT AND STARTED GOING NORTH UNTIL I LOST SIGHT OF THEM((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87551.html](http://www.nuforc.org/webreports/reports/087/S87551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>yellowish spheres observed by three.Circular lights eminating from 1 particular area as though launched, glowing yellow balls gradually disappearing in the distant sky in or near the same location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87472.html](http://www.nuforc.org/webreports/reports/087/S87472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
