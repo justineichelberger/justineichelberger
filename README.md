@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blinking brights lights close to the Hillsboro Airport. OregonI live close to the Hillsboro Airport, I was seating in the front porch talking on the phone, when suddenly I saw a group of blinking bright lights ( red,green ).They were moving slowly, silently and flying in circles.The altitude was of 400 to 600 ft. I could not see the shape of the object.I yelled to my husband and he came out to witness.We saw the lights going away fast.Never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96545.html](http://www.nuforc.org/webreports/reports/096/S96545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Longwood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A circle of light collapsed on the starlight, and it fled due east.Longwood Florida is 35 miles slightly due north and east of Cape Canaveral Florida.  I have lived in this area for nearly forty years, and I am very familiar with launches from the Cape, regarding the horizon location. In most likely early 2000 I had been observing what appeared to be early morning rocket launches from the eastern horizon.  Over a period of weeks I had observed maybe three or four.  At about 0400 hours, a traveling white light caught my eye.  At maybe 45 degrees up off of the eastern horizon I observed a light that had the appearance of an average size star, with an average star brightness.  The light was traveling in a due north directon.  This light appeared to be located in the same flight path area as launches from Cape Canaveral.  Just looking at it, it appeared to possibly be thirty or forty miles away, it was far. I watched the object because it was traveling the same path as the recent orange colored lights (rockets) that I had seen.  I might add here that when I observed the rockets, they all appeared to travel due north for approximately 20 seconds, then accelerate east at a fast rate until out of sight. I watched the light, it traveled due north at 45 degrees for approximately 20 seconds.  At that point the light appeared to stop in place.  At the same instant, a circle of light of the same brightness appeared to surround the small starlight.  The light circle started out at approximately twice the size of the starlight.  It immediately enlarged within less than a second to three or four times the size of the starlight.  At that instant the light circle collapsed back onto the starlight.  The starlight then appeared to head due east, away from Florida.  But this occurred at incredible speed, nearly instantly, it vanished more than flew east.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37404.html](http://www.nuforc.org/webreports/reports/037/S37404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
