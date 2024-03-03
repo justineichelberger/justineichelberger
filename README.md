@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:04 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:38 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gilroy (5 miles So of) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Very bright white/light-green light going East-West seems to expand suddenly (explode ?) and vanish in a fraction of a second. Trajectory going down at about 15-20 degrees inclination. Object itself not seen, only trail of light observed. Total length (at arm length) about 1 - 1 1/2 in.Note: This is a resubmission of earlier report with date and time corrected. While driving North on Hwy 101 in California, 5 miles So of Gilroy (about 40 miles So of San Jose), a bright light attracted my attention. Was about 45 degrees above horizon and slightly on the left of the road, traveling from right to left but descending at about a 15 degree angle. It first appeared as a very bright trail which quickly formed a blob with raggedy edges about four time the width of the original trail. Looked like it was exploding. Then everything disappeared. There was no residual trace forward. Seen at arm length, the trail (tail?) was about 1/2 inch in length, the "blob" about the same in diameter. There was some light clouds but the object light was very bright and could have been seen through them. The duration was very short, one second at most and object was gone by the time I called it to my wife's attention. Could have been satellite/rocket reentry, but direction seems wrong. Could be a meteorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05859.html](http://www.nuforc.org/webreports/reports/005/S05859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in El Segundo (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>silver  sphere over refinery by LAXAt approximately 12 noon, on or about 3 March, 2002 I saw a silver, spherical object (looked like a giant ball of tinfoil) floating over the El Segundo Refinery. The airspace over the refinery is restricted. The object hovered at approx. 1000ft and was about the size of a minivan, and was being buffeted by the 10-15mph wind blowing from the Northeast to the Southwest.(The wind normally blows from West to East). The object slowly floated up in a northern direction but generally remained over the refinery and south El Segundo, California. If it was a balloon of any type, the wind would have blown it out over the ocean. As it floated out of sight, the shape seemed to waiver(did not maintain a distinct shperical shape)((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25022.html](http://www.nuforc.org/webreports/reports/025/S25022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
