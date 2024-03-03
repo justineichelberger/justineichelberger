@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:04 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Monrovia (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Follow up to this one I saw on here .....I live in the D.C. area and this was on the News the night it happened and was in the paper ..but it was reported in both the Paper and the News that the Calves died from Knife Cuts ..    Occurred : 3/3/2004 22:15 (Entered as : 03/03/2004 22:15) Reported: 3/6/2004 2:05:40 PM 14:05 Posted: 3/9/2004 Location: Monrovia, VA Shape: Duration: Possible Cattle Mutilation  Reported in The Washington Post, Saturday, March 6, 2004, page B3: (e-mail jackmant@washpost.com) 4 Calves Attacked in Frederick; 2 Die Frederick County authorities are investigating an act of animal cruelty after four cows on Gladhill Brothers Road in Monrovia were attacked with a sharp object late Wednesday, a spokesman for the county Division of Animal Control said yesterday. Two 6-month old calves died of the wounds, which were discovered by the animals' owner Thursday morning. Two other calves - also about 6 months old and about 350 pounds - were severely cut but survived, said division spokesman Harold Domer. The animals' owner, Aubrey Mullineaux, told authorities that sonmething spooked the 28 animals in his herd about 10:15 PM and caused them to bolt across tha pasture, Domer said. ((NUFORC Note: If two calves survived, our suspicion would be that humans, not aliens, probably were the perpetrators of this crime. Just a guess. Subsequent investigation may resolve the issue. PD))((NUFORC Note:  The date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35473.html](http://www.nuforc.org/webreports/reports/035/S35473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gilroy (5 miles So of) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Very bright white/light-green light going East-West seems to expand suddenly (explode ?) and vanish in a fraction of a second. Trajectory going down at about 15-20 degrees inclination. Object itself not seen, only trail of light observed. Total length (at arm length) about 1 - 1 1/2 in.Note: This is a resubmission of earlier report with date and time corrected. While driving North on Hwy 101 in California, 5 miles So of Gilroy (about 40 miles So of San Jose), a bright light attracted my attention. Was about 45 degrees above horizon and slightly on the left of the road, traveling from right to left but descending at about a 15 degree angle. It first appeared as a very bright trail which quickly formed a blob with raggedy edges about four time the width of the original trail. Looked like it was exploding. Then everything disappeared. There was no residual trace forward. Seen at arm length, the trail (tail?) was about 1/2 inch in length, the "blob" about the same in diameter. There was some light clouds but the object light was very bright and could have been seen through them. The duration was very short, one second at most and object was gone by the time I called it to my wife's attention. Could have been satellite/rocket reentry, but direction seems wrong. Could be a meteorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05859.html](http://www.nuforc.org/webreports/reports/005/S05859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
