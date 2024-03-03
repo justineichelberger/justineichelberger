@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Crete (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>possibly many craftsI was driving home from work headed north on Rt. 50 coming through the town of Monee and headed into the Beecher/Crete area.  There is a racetrack in Crete and I frequently see lights form over that area for no reason.  These are hovering bright white lights low to the ground, they are not helicopters or airplanes.I initially saw two lights that turned into four light in the shape of a triangle but it was not a fixed object because a couple of lights would slightly move out of formation.  As I was focusing in on what this formation was I turned to the left to kind of see behind me as I was rounding a curve and I saw more lights that were bright, white and the same size and they made an even bigger formation.  I was only able to count about 10 lights but there may have been more behind me that I could not see.I had a very unnerving moment where when I looked up at the expanse of the sky it was a complete horseshoe and they were all in a line and just hovered and were bright.  I cannot believe the news did not report on it, I was not the only one on the road - there were plenty of us driving that night.  I have a feeling there were more lights behind me but my vantage point would not allow me to look as I had to concentrate on the road.When I pulled into my driveway, I got out of the vehicle hoping to see a big circle or the entire formation of the lights and half of them were gone.  Then I saw a couple more lights just go out. Then there was nothing. It was incredibly weird and I felt uneasy about it.  The duration from when I initially saw the first couple of lights was about 20 minutes-half hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74545.html](http://www.nuforc.org/webreports/reports/074/S74545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honea Path (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Four bright white lights approx. 10 miles away that looked like 2 cars 1/2 mile away, but wasn't.When driving home from work I saw 4 bright white lights (looked like they were 1/2 mile from me), but as I drove the tree line covered them.  They looked like 2 cars side by side in the road.  I drove an additional mile and realized that there were no lights like that in the trees.  I came to the top of a hill that is above the tree line and saw the white hue from the lights in the sky that looked like it could be another 8-10 miles away (in the direction of Donalds, SC).  I went home thinking I was crazy, and then my neighbor contacted me asking if I saw it as well.  She saw it coming from the same direction with her husband.  I picked her up and we retraced our path and no longer saw the lights.  I asked the Rescue Squad if they knew of any military activities in the area and they did not.  It was 9pm when we went investigating and found nothing.  I had a friend of 15 years tell me that her son and daughter saw the same thing last week.  I have an actual picture from when I first saw it.  If you zoom in, you can actually see the 4 lights and see how close it looked.  I do not know of any lights that can be that big and bright and be so far away.  The lights never moved or twinkled or any of that, but were the brightest white lights I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80316.html](http://www.nuforc.org/webreports/reports/080/S80316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
