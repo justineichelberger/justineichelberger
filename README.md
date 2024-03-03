@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:41 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Boone (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Blue/silver light,right over head,statonary,thought it was a star,The objict moved due North as it dimed to a very small light.Very clear warm night, for march,Stars all very bright infact I thought this was a star until it moved and dimed this was somithing being controled and it was no air craft that I have ever witnesed at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12195.html](http://www.nuforc.org/webreports/reports/012/S12195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bloomingdale (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shaped silver object hovering 100ft above tree line on Hwy 80 tilted downward and shot offDriving down Hwy 80, saw triangle shaped object with lights on the points of the triangle. Was hovering above the trees approxitametly 100ft.Silver looking in color, I rolled down the window and could hear a low humming noise. I turned around and as I did it tilted in a downward motion and then shot off.I had a similar sighting about 2-3 weeks ago on I-16 on the way home, but had thought I was seeing things. This time I am 100% sure of what I saw.  Once I arrived home I looked out into the night sky and saw a flickering light up in the sky.  Defintely not an airplane, because it remained still. It was changing colors, emitting an amber glow.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62053.html](http://www.nuforc.org/webreports/reports/062/S62053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
