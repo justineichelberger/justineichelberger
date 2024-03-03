@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large glowing sphere makes course change at high altitude .As I drove through an apartment complex on Davis road, I noticed an unusual bright glow approaching from the south.  I immediately stopped my truck and started recording video.  I pointed it out to my passenger who was also stunned .The object was moving from south to north, before changing to a eastern course and disappearing  behind a cloud layer 7000-10000 feet.  It was difficult to judge distance, but I believe the craft was at a much higher altitude.  Likely massive size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132964.html](http://www.nuforc.org/webreports/reports/132/S132964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Flashing bright lights at night in HillsboroI was in the front porch of my house talking to my friend on the phone and then I saw some flashing bright lights (blue, red) have no sounds,   I did not know what was that but it was going around in circles   I could not see any shape because the lights were so brights and then I called my husband and he saw it,   one more time around and disappeared going away so fast.  I still thinking what was that, it was unique experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96543.html](http://www.nuforc.org/webreports/reports/096/S96543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
