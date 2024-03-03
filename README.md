@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:38 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:41 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in El Segundo (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>silver  sphere over refinery by LAXAt approximately 12 noon, on or about 3 March, 2002 I saw a silver, spherical object (looked like a giant ball of tinfoil) floating over the El Segundo Refinery. The airspace over the refinery is restricted. The object hovered at approx. 1000ft and was about the size of a minivan, and was being buffeted by the 10-15mph wind blowing from the Northeast to the Southwest.(The wind normally blows from West to East). The object slowly floated up in a northern direction but generally remained over the refinery and south El Segundo, California. If it was a balloon of any type, the wind would have blown it out over the ocean. As it floated out of sight, the shape seemed to waiver(did not maintain a distinct shperical shape)((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25022.html](http://www.nuforc.org/webreports/reports/025/S25022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Boone (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Blue/silver light,right over head,statonary,thought it was a star,The objict moved due North as it dimed to a very small light.Very clear warm night, for march,Stars all very bright infact I thought this was a star until it moved and dimed this was somithing being controled and it was no air craft that I have ever witnesed at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12195.html](http://www.nuforc.org/webreports/reports/012/S12195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
