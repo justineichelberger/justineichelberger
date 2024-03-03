@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Weird star-like object with something dropping off of it.We were on an evening walk tonight when my wife spotted a light in the sky that looked like a really bright star which started to turn red.  She pointed it out to me and we watched it together. Again, it looked like a bright red star that was stationary in the sky. Then something fell from it and slowly disintegrated. Whatever was falling was illuminated and looked like it was on fire. We could see the trail of the falling objects. To me it looked like what you see when a meteor enters our atmosphere and is burning up with pieeces breaking off of it. The main differnce was the primary object remained stationanry in the sky while pieces dropped straight down from it. Within a minute or two the last peice dropped off and "burnt" up and the main obect just dissapeared. Weird. I have no logical explanation.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42683.html](http://www.nuforc.org/webreports/reports/042/S42683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cary (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Green turning to blue and red oval object  in western sky.I saw a bright green oval light turn to blue flying across the western sky on Saturday, March 3, 2012, at 6:30 pm.  I was inside my house at the time, sitting on the sofa, when I saw the object fly across the overcast sky.  I ran outside to look toward the direction it was flying in, but I did not see it due to houses and trees.  I came back inside, ran upstairs to see if I could get a better look above the tree line.  I spotted the object and it appeared to be bouncing (going up and down and back and forth) above the mature trees.It was moving quite fast, going above and at times, below the tree line.  It was a bright blue luminous oval object with a smaller red oval attached to the left side of the blue object.  The lights were not flashing or pulsing, but very bright and steady.  I called my mother over to the window and we both watched the object for approximately 5 minutes.  I ran to get my camera and snapped two pictures through the upstairs bedroom window, one where the object is in the picture and the other as it was leaving the frame.  After another couple of minutes, it disappeared below the tree line, and did not re-appear again.  We got into the car and drove around to see if someone was playing with some elaborate toy or light show.  We did not see anything as we drove toward the direction of the sighted object.We waited to submit this report since we wanted to see if the object was reported in the local newspaper or internet.  We did not find any information, and could not find an explanation for this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88305.html](http://www.nuforc.org/webreports/reports/088/S88305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
