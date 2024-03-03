@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in West Topsham (VT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Several orange lights moving in odd and changing patternsI stepped onto the front porch for a cigarette, and I heard an extremely loud noise that was like a snow plow on the road, but it was clear and the roads were bare.  I glanced towards the South, and I noticed that there was movement in the sky, at least 2 objects moving rapidly.  I rapped on the window to get my wife's attention so she could see the lights in the sky.  She came out, and we both began to question each other as to what they could be.  The noise had faded at this point, but we could still see the lights in the sky.  They seemed to be a reddish-orange and appeared to be solid.  They were moving towards the East in a wavy pattern.  We saw at that time there was a third trailing them.  They reached a point in the East and appeared to make a quick turn, almost like a sling-shot, and formed a triangle while they were moving back towards the West.  They then moved into a parallel line, then almost appeared to merge into one light, then separated again.  Our kids had come out at this point, and we realized that we were losing visibility, as the lights were moving back to the West.  We watched them continue to move back and forth from West to East and back, moving in different patterns, making the wavy pattern around each other, then forming a triangle, then a line, and then changing again. At this point, I noticed over the Western tree line there appeared to be a larger bluish light staying in a stationary position.  At this point, I thought to myself that if it was a helicopter, why wasn't I hearing anything, and it seemed to be very high if it was truly a helicopter.   After several minutes, the lights all disappeared over the Western horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126304.html](http://www.nuforc.org/webreports/reports/126/S126304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>For a 15 minute period, 30 to 40 crafts were seen.  15 to 20 craft flew in a formation and vanished in the sky.  Then 12-15 craft flew8 eye witnesses.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87466.html](http://www.nuforc.org/webreports/reports/087/S87466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
