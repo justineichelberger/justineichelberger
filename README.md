@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mayaguez (Puerto Rico) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>MY wife and I  driving On road # 2 PR going south in Mayaguez, Puerto Rico, at approx 8:10 pm on March 3, 2017,  My wife and I saw a blueish green fireball, streaming with a lighted tail from west to east,  It was going very fast sighting was just  of a few seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132963.html](http://www.nuforc.org/webreports/reports/132/S132963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Weird star-like object with something dropping off of it.We were on an evening walk tonight when my wife spotted a light in the sky that looked like a really bright star which started to turn red.  She pointed it out to me and we watched it together. Again, it looked like a bright red star that was stationary in the sky. Then something fell from it and slowly disintegrated. Whatever was falling was illuminated and looked like it was on fire. We could see the trail of the falling objects. To me it looked like what you see when a meteor enters our atmosphere and is burning up with pieeces breaking off of it. The main differnce was the primary object remained stationanry in the sky while pieces dropped straight down from it. Within a minute or two the last peice dropped off and "burnt" up and the main obect just dissapeared. Weird. I have no logical explanation.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42683.html](http://www.nuforc.org/webreports/reports/042/S42683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
