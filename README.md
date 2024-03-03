@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:40 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stillwater (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Hot air balloon-esque lights moving slowly	At around 8:45pm I saw a bright object in the eastern sky, lower in the sky than a plane.  It was about the brightness of a planet.  It wasn’t moving, but it appeared to get brighter then dimmer periodically.  It also seemed to have a flashing light on it, but not like a plane’s flashing lights.  After not moving for a couple minutes, it began to slowly fly south-east and eventually disappear from my sight.Another bright object appeared near where the first one was in the east sky.  It started moving south-east as well.  I thought they might be police drones or something.  I went away to get binoculars.  When I came back there were five other bright objects hovering stationary over the eastern sky (where I initially saw the first object) and there was one light object coming slowly towards the rest from the north-east.In the stationary group of lights, there was one that suddenly became much brighter than the rest.  It looked like it had just caught fire.  The rest of the objects were still about as bright as planets and white/yellow in color, but this brightest object was now a red/orange color.  This happened shortly after 9 pm.A couple minutes passed, then the brightest object dimmed back to the color it originally was (the same color as the other objects).  The objects began to slowly disperse after this.  Three of them remained stationary and just faded away, and two of them began moving towards the south-east in the same direction as the first two objects I saw.	These objects seemed to me like hot air balloons in how they changed in intensity of brightness, but they clearly were not hot air balloons because it was night.  When they were moving, they moved slowly and with constant motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153778.html](http://www.nuforc.org/webreports/reports/153/S153778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mayaguez (Puerto Rico) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>MY wife and I  driving On road # 2 PR going south in Mayaguez, Puerto Rico, at approx 8:10 pm on March 3, 2017,  My wife and I saw a blueish green fireball, streaming with a lighted tail from west to east,  It was going very fast sighting was just  of a few seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132963.html](http://www.nuforc.org/webreports/reports/132/S132963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
