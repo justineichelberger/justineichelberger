@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>As I was walking to my door, I looked up at the western sky and saw approximately 7 oval bright orange/red objects in a hook formation.  As sudden as they appeared, they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132988.html](http://www.nuforc.org/webreports/reports/132/S132988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Crete (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>possibly many craftsI was driving home from work headed north on Rt. 50 coming through the town of Monee and headed into the Beecher/Crete area.  There is a racetrack in Crete and I frequently see lights form over that area for no reason.  These are hovering bright white lights low to the ground, they are not helicopters or airplanes.I initially saw two lights that turned into four light in the shape of a triangle but it was not a fixed object because a couple of lights would slightly move out of formation.  As I was focusing in on what this formation was I turned to the left to kind of see behind me as I was rounding a curve and I saw more lights that were bright, white and the same size and they made an even bigger formation.  I was only able to count about 10 lights but there may have been more behind me that I could not see.I had a very unnerving moment where when I looked up at the expanse of the sky it was a complete horseshoe and they were all in a line and just hovered and were bright.  I cannot believe the news did not report on it, I was not the only one on the road - there were plenty of us driving that night.  I have a feeling there were more lights behind me but my vantage point would not allow me to look as I had to concentrate on the road.When I pulled into my driveway, I got out of the vehicle hoping to see a big circle or the entire formation of the lights and half of them were gone.  Then I saw a couple more lights just go out. Then there was nothing. It was incredibly weird and I felt uneasy about it.  The duration from when I initially saw the first couple of lights was about 20 minutes-half hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74545.html](http://www.nuforc.org/webreports/reports/074/S74545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
