@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:27:33 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:19:37 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fishers (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 84</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162402.html](http://www.nuforc.org/webreports/reports/162/S162402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Soulsbyville (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>An unexplained object square in shape, floating and tumbling silently in the sky until ascending out of sight.I am currently a product-marketing manager. I have served in the US. Coast Guard.My elevation is 3500 feet above sea level in the Sierra Nevada.  I was sitting on my deck facing west, when I noticed an unidentifiable object coming in my direction from the northwest.  10:00 position from the north.  It seemed large in comparison to the houses on the ridge so that ruled out balloons.  When I first saw it the approximate size was ¼ size of the moon and appeared to be tumbling, floating slowly and ascending  as it came my direction (south east).  It was white in color, and had a primary form of what appeared to be square, but that was not the complete form.  It was unexplainable.  As it tumbled and floated closer, the shape would change and was getting smaller as it approached.  It was very silent, and did not disrupt dogs in the neighborhood.I watched for at least 5 minutes trying to figure out what it was, because the shape was so odd.  I then went into the house to get my iphone. When I came back outside it was still coming in my direction but much smaller and higher.  The sun was very bright, which made it impossible to see if I was positioned on the object when I snapped the pictures.  It stopped moving south easterly as it was  slightly over my house and sat in one position for 15 minutes.  I called the National Reporting Agency, and while on the telephone with them, it then began to ascend higher until it disappeared.Pictures attached taken with iphone (had already began to ascend and was ¼ the size that it was when it was a over 1-2 miles away and lower)  1056 below the jet slightly to the left (without zoom on the telephone) 1057- 1059 with zoom 1060-1061 – object sat stationary in this position for 5 minutes but still ascending before moving slightly to the south. Use tree for perspective. Object is center left. My neighbor stepped on his deck and I pointed the object out to him.1062, 1064. 1070 – iphone is set on full zoom .1072-1073 – Zoom is off. Object remained in this position for 10 minutes before ascending up and out of site. (zoom in to left of vent on the  roof to see the object)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87489.html](http://www.nuforc.org/webreports/reports/087/S87489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
