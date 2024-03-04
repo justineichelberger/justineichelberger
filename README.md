@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:20 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:03:23 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red pulsing light over puget soundbright red pulsating light hovering above puget sound at a low alltitude seemed to change alltitude slowly up and down had browns point for a background and slowly elevated to have sky/clouds in the background and then back down again it reapeted this four times</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69079.html](http://www.nuforc.org/webreports/reports/069/S69079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rochester (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>organized and controled group of oribtal objects, extream altiude  no lights they just looked like starsat 0445 on 3/4/2020 while out in my back yard with my dog , i was looking at the stars when i saw movement, than I started to watch around 40 moving lights that seemed to start from nowhere and move across the sky all in a very straight line , every about 10 there would be one out off to the southern side of the group the whole group was moving in a north eastern direction.  All the lights looked to be at sub-orbital or orbital height, my background is in the Air force controlling air craft in the field and now i work for the government.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153826.html](http://www.nuforc.org/webreports/reports/153/S153826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
