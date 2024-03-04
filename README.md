@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 3 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honea Path (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Four bright white lights approx. 10 miles away that looked like 2 cars 1/2 mile away, but wasn't.When driving home from work I saw 4 bright white lights (looked like they were 1/2 mile from me), but as I drove the tree line covered them.  They looked like 2 cars side by side in the road.  I drove an additional mile and realized that there were no lights like that in the trees.  I came to the top of a hill that is above the tree line and saw the white hue from the lights in the sky that looked like it could be another 8-10 miles away (in the direction of Donalds, SC).  I went home thinking I was crazy, and then my neighbor contacted me asking if I saw it as well.  She saw it coming from the same direction with her husband.  I picked her up and we retraced our path and no longer saw the lights.  I asked the Rescue Squad if they knew of any military activities in the area and they did not.  It was 9pm when we went investigating and found nothing.  I had a friend of 15 years tell me that her son and daughter saw the same thing last week.  I have an actual picture from when I first saw it.  If you zoom in, you can actually see the 4 lights and see how close it looked.  I do not know of any lights that can be that big and bright and be so far away.  The lights never moved or twinkled or any of that, but were the brightest white lights I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80316.html](http://www.nuforc.org/webreports/reports/080/S80316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albion (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disappearing Lights In The Sky...Around 10:30 PM Eastern Time, I opened my front door to let my dog inside when I noticed a red light floating in the sky over the trees in the south-east towards town. I made a comment to those who were in the house about the light. I told them I didn't think it was a plane because I saw no signs of flashing lights. My friend, who was on the phone, came out to look at what I thought was a UFO. He didn't believe it at first, but when we continued to watch for about a minute, it suddenly disappeared. The odd thing is, last night (March 3, 2005) around 7:30 PM Eastren Time, I was coming home from baseball practice when I saw the same exact thing. We watched it for about 30 seconds then when we turned the corner, it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42709.html](http://www.nuforc.org/webreports/reports/042/S42709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
