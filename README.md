@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hartsdale (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Continuing - Continuing minutes.</sub><blockquote><sub>Extremely bright triangle shaped object with green lights and an occasional red light, remaining in sky in one place.My husband and I both saw a triangular shaped object in the north western sky.  The object was simply stationary with green lights around it and an occasional red light.  It is still sitting in the sky. We have both seen planets before and meteor showers, this is neither type of siting.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69047.html](http://www.nuforc.org/webreports/reports/069/S69047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Number of red lights flying slowly across skyLet dog out and saw large number of reddish lights moving east to west. They moved slowly over a large park up a hill from my house.  There was no discernible sound. I called my husband out and he counted a total of 23 lights in the sky.  Most were in 2 main groups. A couple followed by themselves.  The lights moved behind a tree and as I moved to continue to watch the lights they were gone.  Single lights contined to appear from what seemed like one place in the sky.  The single lights were moving in a line across the sky.   They seemed to reach some point and were gone.  There would be a short break where I could see no lights.  Then a light would appear and 2 or 3 more would follow in a line. Then there would be a short break again and it would start again.  My  husband stopped watching when the large groups were gone.  I contined to watch and walk around for 15 minutes or so.  When I came in the single lights continued.  We were going to go up to the park but t! he lights were gone when I checked 15 minutes later.We are near Ft. Drum, so could be something military.  However, no sound so not helicopters.  Seems like an awful lot of drones.  I don't know if drones make noise.  No reports in the media of the lights.My husband and I are both professionals.  Never have seen anything like this before.  I took pictures of the lights -- don't show much, except 10 lights in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126212.html](http://www.nuforc.org/webreports/reports/126/S126212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
