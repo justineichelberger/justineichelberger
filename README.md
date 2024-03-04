@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:28 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Clifton Park (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights in the sky over Clifton ParkAlthough I have always been open to the possibility of extraterrestial life - I have never seen anything that I thought might be evidence of it.  My wife (the other witness) on the other hand is a staunch, hardcore disbeliever in anything of the sort.  This event has shaken her belief system.My wife and I were lying in bed when she noticed strange red lights outside our bedroom. There were 12-15 red lights.  She describes them as being in a straight line - I saw them as slightly staggered.  The lights moved across our field of vision (south to north) at what seemed like a very slow pace.  The lights seems to be fixed relative to one another - although I thought I might have noticed them moving up and down slightly (could have been my eyes playing tricks on me).  The lights were VERY low on the horizon - so low that they were hidden from view when they moved behind the house across the street.  There was no sound accompanying the lights.  It took ~ 2 minutes for the lights to disappear from view.  They seemed to move at a more or less constant speed throughout the event.After a few seconds of "what the hell is that" conversation - I ran to get my video camera and went on the front porch to see if I could capture anything on film.  I pointed the camera at the lights and filmed the last 15 seconds - but unfortunatly I can see anything on the film when I view it.I called the local new stations to see if they knew anything.  The woman in the newsroom at WNYT informed me that she had had other reports of strange lights near the Albany airport (~5 miles south of where I saw them).  Called back again in the morning and was told that they had made a few calls (meterologists, police, airport etc.) but could not provide an explanation.The only explanation I can think of for this event is that we saw navigation lights from a formation of planes way off on the horizon.  Some problems that I see w/ this explanation: -  That's just not what it looked like.  My wife and I discussed and dismissed this possibility as we were viewing the event.-  Why didn't the folks at WNYT validate this explanation when they investigated? -  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28000.html](http://www.nuforc.org/webreports/reports/028/S28000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lancaster (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright white circle seen over highwayi was driving home north on highway 27 from stanford.saw a circle of bright white light go from east to west over my car. the circle glowed on the outside as if it had a force field of some type around it. the inside of the circle was perfectly round and bright white. it blinked out of sight.it was low in the sky and at arms length it was as big as a grapefruit. it was not like anything ive ever seen or heard of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49436.html](http://www.nuforc.org/webreports/reports/049/S49436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
