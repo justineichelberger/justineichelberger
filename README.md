@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Laguna Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was looking up at a large hole in a large cloud from a north facing window of my house and within it saw a bright point of white light similar in size to the planet Venus moving East at a speed similar to a light plane.  It was behind the cloud briefly but was always visible through the cloud except for a second or two when a dense spot in the cloud obscured it completely. Another identical point of light appeared from behind the cloud trailing the first point of light at about a 2" distance at arms length.  There was no relative motion of the two points.  I noticed a third point of light trailing the second by 2" at arms length, but this point of light was definitely below the cloud and a light greenish blue in color, similar to an airport beacon.  The three points of light slowed and drew closer together, forming an equalateral triangle.  They stopped completely, but at that point the cloud blew between myself and the objects and I could no longer see them.  The motion of the objects was opposite the motion of the cloud, and the clouds were at the 5000 foot level.  Assuming the objects were at cloud level, the triangle formation would have occurred approximately between Thurston Middle School and the large S curve in highway 133.  John Wayne airport is approximately 10 miles North from that location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49429.html](http://www.nuforc.org/webreports/reports/049/S49429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bonney Lake (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>10-14 lights moving ESE in a straight line, evenly spaced, there was also an additional light mid string about half the spacing of the lights traveling the same path just north, like an escort</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153825.html](http://www.nuforc.org/webreports/reports/153/S153825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
