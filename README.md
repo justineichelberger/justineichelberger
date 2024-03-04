@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:06:44 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:14:34 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fallon (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were about 10 UFOs that were in a line.  They were only about 3 visible at a time.  One by one they started to disappear when they traveled to a certain point in the sky.  They all seemed to be going the same speed and traveling the same distance between each other and at the same elevation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153855.html](http://www.nuforc.org/webreports/reports/153/S153855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SALL A LIGHT LIGHT UP THE SKI OVER THE HILL SIDE..I WAS HAVE A SMOKE OUT ON THE BACK PORCH.AND NOTEST A FUNNY LOOKIN LIGHT COMEN FROME THE HILL SIDES ACROSS THE VALLEY.I SAW A BEAM OF LIGHT LIKE A FLASH LIGHT BEAM.LIGHTING UP THE HILL SIDE. SEARCEING FOR SOMETHANG.THEN IT STOPED IN ONE SPOT...THEN I NOTEST A STAR STARTING TO MOVE FROM LEFT TO RIGHT IN A DOWNWARD MOTION.BUT THE SPOT LIGHT DID NOT MOVE FROM THE HILL SIDE. IT HOVERD. FOR A MOMENT THE STARTED TOMOVE UP ALL THIS TIME I WAS TELLING MY WIFE WHAT IT WAS DOING SO I PICK UP THE FONE AND CALLED THE CHENO VALLEY AIR PORT AND TALK TO A FLIGHT CONTROLOR.I TOLD HIM WHAT WAS HAPPENING HE WAS LOOKIN ON RADER DID NOT SHOW ENYTHANG THERE THEN I STARTED TO TELL THEN TO LOOK OUT THE  WINDOW AND WHERE TO LOOK THA DID NOT SEE IT .I DONT THANK THAY COULD SEE THE HILLS FROM WHERE THY WERE.ALL THIS TIME WENT BUY AND THE CRAFT WAS STILL HOVERING AROUND THE HILL SIDE ..IT WAS JUST GETTING DAWN . THEN FOR SOME REASIN IT STOP IN MOTION.THEN  LIT UP IN A BRIGHT LIGHT  AND STRICK OF INTO SPACE..I SAY SPACE BECOUSE YOU COULD FOLLOW THE SHORT STREAK TO THE STARS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04063.html](http://www.nuforc.org/webreports/reports/004/S04063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
