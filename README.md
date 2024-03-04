@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lancaster (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright white circle seen over highwayi was driving home north on highway 27 from stanford.saw a circle of bright white light go from east to west over my car. the circle glowed on the outside as if it had a force field of some type around it. the inside of the circle was perfectly round and bright white. it blinked out of sight.it was low in the sky and at arms length it was as big as a grapefruit. it was not like anything ive ever seen or heard of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49436.html](http://www.nuforc.org/webreports/reports/049/S49436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bridgeport (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light appeared over truck while driving up Jack Sawyer Road one mile south of Bridgeport just after dark. Got out of the truck and watched the very brilliant light hover over us at approx. 1000 ft. for 2-3 min. It did not appear to move, their was no sound, bright light spherical, could not discern outline of any aircraft. The light then began to travel at rapid speed to the west(no sound), gaining elevation as it went. Watched for several minutes as it gradually faded from view over high mountain peaks approx. 50 km. to the southwest. A haze developed around the light as it travelled away from us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11984.html](http://www.nuforc.org/webreports/reports/011/S11984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
