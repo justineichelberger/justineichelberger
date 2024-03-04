@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:06:45 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:26:51 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A silver disk seen hovering over Mc Connel AFBAt approx. 12:15, March 4th 1999, I was picking my son up from school when my mom and I spotted a metallic disk hovering over McConnel Air Force Base. There was no sound, it was stationary though hovering in place - as we saw other planes in the airfield in motion. There was a glare to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05804.html](http://www.nuforc.org/webreports/reports/005/S05804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lashburn (Canada) (SK) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.95 - 0.95 minutes.</sub><blockquote><sub>Was travelling south of Regina when was looking into the night sky when I noticed 7 objects in the sky to the south .I started to video them as the started to dissapear across the sky at a very high rate of speed .one was to the east now one to west perfection.space was perfect one started coming from Far East travelling to the west all 3 went into a perfect dimond shape then the top one took off at a high rate of speed the other two were going back and forth at a very fast pace the far west one has now disappeared.  The other craft did a back and forth motion and went across the sky as the final one is now gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154607.html](http://www.nuforc.org/webreports/reports/154/S154607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
