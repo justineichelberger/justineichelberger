@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:50 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Plymouth (NH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>Driving west on Route 25 Tenney Mountain Highway.  There was a very large and bright object in the sky straight ahead of us (west).  We could not tell if it was a planet, but it was pulsating.  It was not flickering as a star would.  We pulled into Hannaford Supermarket parking lot and it now appeared in south west sky.  We watched it for 5 minutes.  Then, I noticed a car pulling over also looking at the object.  It was very cold out so we went into the supermarket.  When we came back out about 15 minutes later, it was no longer present in the sky. ((NUFORC Note:  Sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132977.html](http://www.nuforc.org/webreports/reports/132/S132977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hartsdale (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Continuing - Continuing minutes.</sub><blockquote><sub>Extremely bright triangle shaped object with green lights and an occasional red light, remaining in sky in one place.My husband and I both saw a triangular shaped object in the north western sky.  The object was simply stationary with green lights around it and an occasional red light.  It is still sitting in the sky. We have both seen planets before and meteor showers, this is neither type of siting.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69047.html](http://www.nuforc.org/webreports/reports/069/S69047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
