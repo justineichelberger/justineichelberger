@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:08 on 4 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albion (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disappearing Lights In The Sky...Around 10:30 PM Eastern Time, I opened my front door to let my dog inside when I noticed a red light floating in the sky over the trees in the south-east towards town. I made a comment to those who were in the house about the light. I told them I didn't think it was a plane because I saw no signs of flashing lights. My friend, who was on the phone, came out to look at what I thought was a UFO. He didn't believe it at first, but when we continued to watch for about a minute, it suddenly disappeared. The odd thing is, last night (March 3, 2005) around 7:30 PM Eastren Time, I was coming home from baseball practice when I saw the same exact thing. We watched it for about 30 seconds then when we turned the corner, it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42709.html](http://www.nuforc.org/webreports/reports/042/S42709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Silverthorne (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright green light appeared to fall from the sky in a slow arc and disappeared over a mountain to the west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145106.html](http://www.nuforc.org/webreports/reports/145/S145106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
