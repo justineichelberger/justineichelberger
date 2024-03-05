@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At about 10:00 PM on 3/5/04, I was ready for bed and went out on the lanai to check if the screen door was locked.  It was a very clear night and I glanced up toward the sky.  Very high in the sky, I saw what I first thought was an airplane, but the lights were pulsing off and on (not fast, it was on a couple seconds went by the off).  When the lights were off, I could not see anything and when they came back on, they were in the shape of a "cross" (not a plus sign -- a cross)  This object was going south.  Then I glanced over to the west and lo and behold, another one was coming from the west and made a turn south.  It was following behind the first one.  I watched until I could no longer see them. I was told by my neighbor (who is a former air traffic controller) that they probably were jets flying into Ft. Myers International Airport.  I question that though because I think the airlines have lights on their planes at all times during the night.  When these lights went off, you could see nothing.  This just didn't seem normal to me.  I couldn't hear anything either, but as I said, they were very high in the sky.  They were so high in the sky, that they looked like the size of my hand. Please feel free to contact me is you have any questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37376.html](http://www.nuforc.org/webreports/reports/037/S37376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Des Plaines (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Circular object over Des Plaines, IL, traveling south at high rate of speed.While taking out the trash early in the morning, I happened to glance up towards the northeast and noticed a circular object traveling at a high rate of speed due south.No lights, just a circular grey object moving quick.  It was out of my view behind trees after about 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55577.html](http://www.nuforc.org/webreports/reports/055/S55577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
