@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:29 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Aurora type of craft seenThis is a bit late in reporting, but two men told me about a siting, that I am relaying to you.March 5, 2001, Duluth, Minnesota.9:30 to 10 p.m.A large triangular craft, reported to be about 4 times the size of a stealth jet was seen while two men were driving north on Hwy. 53, thru the  northern suburb of Hermantown, Minn., next to Duluth.It was dark, but the color seemed to be a greyish, silvery color with a light on each corner and one in the center.  The two men were traveling in a car, watching it. It had crossed the highway from the leftside, moving to the right. It was moving very slowly, almost hanging over the highway for a while.   One of the men thought that it should be moving faster and be out of site when compared to commercial planes.  It was fairly low in the sky, a little higher than treetop level, he thought about a block high.  They pulled the car over to the side and stopped to listen. There was no sound coming from it.  It continued drifting slowly until it went past a bunch of trees and then it suddenly either took off extremely fast or just disappeared.   It was angling in the direction of the Duluth Air Force Base which has been officially closed for quite some time. (Although there is some activity, I think Air National Guard stuff happening there. There have been some fighter jet activity around there, since the Sept. ll attack.) The craft was triangluar shaped, except in the back it wasn't a straight line , like a true trianglar, but was indented some.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20932.html](http://www.nuforc.org/webreports/reports/020/S20932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Pulled in driveway looked north northeast saw a long light  N pULLED IN DRIVEWAY LOOKED NORTH NORTHEAST SAW SOME LIGHTS HANGING IN THE SKY .I FELT LIKE IT KNEW I WAS WATCHING IT ,MOVED EAST STOPPED, MOVED WEST.IN SKY  IFELT LIKE THE THING KNEW  I WAS LOOKING AT IT IT MOVED EAST BACK WEST THEN EAST STOPPED MOVED EAST DISAPEARED. THE YELLOW LIGHTS WERE UP & DOWN SMALLER RED LIGHTS RAN ACROSS THE BOTTOM.IT ONLY APPEARED FOR ABOUT TWO MINUTES.                                                                          HOME PULLED IN DRIVEWAY LOOKED NORTH-NORTHEAST SAW LIGHTS HANGING IN SKY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12216.html](http://www.nuforc.org/webreports/reports/012/S12216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
