@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:47 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Goldthwaite (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5666666666666667 - 0.5666666666666667 minutes.</sub><blockquote><sub>The light were forming a triangle, but soon enough paused with there lights turned off in the midnight.Well i was in the truck wih my parents one late night, and my step dad saw,bright lights in the sky and they were turning on and off all in a row.  Me and my mother were in shock.  the object wasn't moving,and was orange,it was also forming a triangle shape almost then the lights thurned off.  I can not explain the size in detail. The location was in goldthwaite,Tx.  We seemed to be in the middle of no where, with no sign of town lights.  We were the only ones on the road, and we were headed towards lubbock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69120.html](http://www.nuforc.org/webreports/reports/069/S69120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wheat Ridge (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Multiple craft evenly spaced perfectly in line formation.  Appeared to be coming from a portal in the west.  One right after another towards the east.  Way to high to identified shape or form but very bright.as they followed on another, they would just fade and dissipate off to the east.  We must have seen approximately 40 or more craft following in a perfect line formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153876.html](http://www.nuforc.org/webreports/reports/153/S153876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
