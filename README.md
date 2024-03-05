@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Whidbey Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Charlotte and a visiting friend saw three "huge, bright lights" hovering above the water to the west of their vantage point.  They were golden in color. The middle light dimmed, then disappeared from sight.  Then the second object disappeared, then the third. She will submit a written report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01117.html](http://www.nuforc.org/webreports/reports/001/S01117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in McCaysville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Super-bright red, orange sparkling light hovering in the sky for 20 minutes or more.Seen while driving. WAY too large to be a star.  Extremely bright "sparkling" red light that slowly became more of an orange color.  Heavily wooded, mountainous area.This was definitely NOT a cell tower, plane or star.  It seemed to have an approximate distance of that of a small plane, but was far brighter and lacked the standard airplane lights.  It was stationary and looked to be about two miles away and just over the tree tops.I saw the object when I was only a hundred yards from home and I called my husband to join me in the car to go see it.  I knew we wouldn’t be able to see it from our house as our property is quite low and heavily wooded. He jumped in the car and we drove down the road.  The object was still there and he agreed that it was not a plane, star nor a tower.  We proceeded down the road to try to get closer and, unfortunately, lost sight of it for just a few seconds due to trees in our line of sight.  As soon as we returned to high enough ground to spot it again, it was gone!  It was no where to be seen in any of the viewable sky so it had to have either left in a flash or disappeared altogether.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87543.html](http://www.nuforc.org/webreports/reports/087/S87543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
