@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:36 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in McKeesport (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 star-like objects in formation evenly spaced moving in a straight lineWe just got out of a meeting and we're heading to our car when I looked up and noticed a very bright light in the sky after a couple seconds I realized it was Venus.  While I was admiring the brightness of it I noticed other stars that were moving there were 5 of them evenly spaced moving in a straight line appearing out of nowhere.  There were no red or blue flashing lights on them and in there vicinity was another aircraft that did have flashing red and blue lights.  They looked like stars in formation is the best I can describe them.  My buddy said maybe they were military helicopters but I would think they would have some type of colored lights like planes.  At first, there was just 3, and then number 4 appeared and then 5 appeared, like just blinked in to exsistance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153902.html](http://www.nuforc.org/webreports/reports/153/S153902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Columbia (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dozen or more high altitude objects equidistance heading southeast on march 5 2020 over columbia ilAt least 12 similar Objects were at a very high altitude following each other in a line heading southeast across a clear sky. Their altitude was so high that there was no discernable color. Just white lights moving quickly across the sky at 20:15 over Columbia, Il on March 5, 2020</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153915.html](http://www.nuforc.org/webreports/reports/153/S153915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
