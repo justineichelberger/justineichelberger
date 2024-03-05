@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Des Plaines (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Circular object over Des Plaines, IL, traveling south at high rate of speed.While taking out the trash early in the morning, I happened to glance up towards the northeast and noticed a circular object traveling at a high rate of speed due south.No lights, just a circular grey object moving quick.  It was out of my view behind trees after about 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55577.html](http://www.nuforc.org/webreports/reports/055/S55577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Llangollen (UK/Wales) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge Chevron Craft Over Welsh Town in UK/Wales.Putting chickens into sheds for evening, when myself and my colleague heard a loud humming noise above us.  We looked up and saw a huge chevron shaped thing just moving real slowly towards the hills in a northerly direction.  It was solid and black with four dim lights on each side which we yellow or white.  It was huge and at least five times the size of a 747 jet.  We estimated it was about 1500 feet up in altitude.  We watched it disappear over the top of the hill out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117576.html](http://www.nuforc.org/webreports/reports/117/S117576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
