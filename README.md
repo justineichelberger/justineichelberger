@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:41 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three changing color groups of lights hovering over rooftopsI was awakened this morning about 5:40 am here in west Houston by my 17 year old daughter who was up early for school. She was sitting eating breakfast and happened to notice a strange light out the back window. She said she watched it, got her sister (15), and witnessed three distinct groups of lights hovering over the rooftops in the distance. They said they could see a dark object in the center of one, but two were just hovering as changing colored lights (at different heights),  That's when they woke me. I ran outside to see and confirmed two of these objects. At an arms length I'd say they were about the size of an aspirin or peanut.  Fairly large and distinct with 4 or 5 lights making up a cross or diamond shape.  The lights were pulsating and changing colors: red, green, blue, white, turquoise.  They were hovering at different heights above the rooftops of the next neighborhood.  One was very low, just barely over the rooftops, the other about twice the height of the homes below.I went in to get my astronomical telescope to see if I could zero in on it. While I was trying to sight it, the one I was watching reduced in size, turned orange and began to move to my right. I followed it around to the front of my house and watched it slowly move parallel to the ground just above the rooftops until it disappeared behind homes.The other light was gone when I looked back.My daughter tried to film it, but could not get it focused due to palm fronds interfering with autofocus. However, you can see the two objects and the colors that they were cycling through.We don't know, of course, what it was, but the two objects I saw were silent.About twenty minutes later I went back outside and saw an aircraft approaching from a different part of the horizon and could clearly hear that it was a helicopter.  So I use that in contrast to the silence of the first sighting. The night sky was clear, but moonless, so it was very dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62123.html](http://www.nuforc.org/webreports/reports/062/S62123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shelbyville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light traveling north to south at high speed, no sound.Orange light traveling north to south in a straight line at high speed.  No sound.  About as big as Jupiter appears in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126225.html](http://www.nuforc.org/webreports/reports/126/S126225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
