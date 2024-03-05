@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dacono (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A line of evenly spaced lights appearing at the same location then traveling through the sky and then disappearingFrom Dacono CO. looking West, I would estimate over Erie CO. a string of perfectly spaced lights about the size and shape of the stars in the sky were traveling from West Southwest to Northwest.  They appeared to be about 1/4 mile apart.  They appeared to be at the altitude and speed of jet airliners.  The lights would appear at the same location, travel through the sky for approximately 8-10 seconds each and then disappear at the same location.  There were approximatly 6 - 8 lights at a all times in the string.  I noticed this going on for about 5 minutes and then alerted a neighbor who witnessed the event for about 1 minute.  At that point there were about 4 lights in the string.  The entire time they were shining the same and moving the exact same speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153880.html](http://www.nuforc.org/webreports/reports/153/S153880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jackson (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>pair of bright blue/white lights descending rapidly next to I-75 GAA form colored electric blue white,  shaped like two egg cells touching each other and the embryos of those being brighter than the rest of the body, was seen in rapid decent at a very steep perhaps 60 degree angle towards earth on I -75 just north of Griffin, Ga. Exit at 6:45 this morning.It appeared close ( within ½ mile) and went out of view behind the crown of tree line a ¼ mile away. I expected smoke from impact.Passenger saw it only just before it went behind the tree line. Sun was up , clear skies.I was driving North to Atlanta, it appeared  in the sky on the west side of the highway</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87495.html](http://www.nuforc.org/webreports/reports/087/S87495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
