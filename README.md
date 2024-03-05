@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:07 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wheat Ridge (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Multiple craft evenly spaced perfectly in line formation.  Appeared to be coming from a portal in the west.  One right after another towards the east.  Way to high to identified shape or form but very bright.as they followed on another, they would just fade and dissipate off to the east.  We must have seen approximately 40 or more craft following in a perfect line formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153876.html](http://www.nuforc.org/webreports/reports/153/S153876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>The time of the sighting was probably sometime after 11pm on friday march the 5th.  Walking by the intersection of McCowan Rd. and Danforth Rd., I was already paying attention to the planes in the sky.   Then, incredibly a large fire trail formed across the sky, just under the constellation Orion, as some large object burned up, heading in the general direction of Buffallo.  The trail then faded after about a 4 count.  This was no garden variety meteorite or 'shooting star' that I am familiar with from camping trips to northern Ontario.  I was absolutly stunned by the sight.  There might have been some flashes from the direction of the landing, but the light pollution made it hard to discern that positively.  The sky was clear otherwise. I was besides myself.  This was the most spectacular earth entry that I have ever witnessed.  And right above scarborough.  I was watching the sky with greater intensity.  I walked on down Seminole Rd.  It's somewhere on this road that I saw what looked like a plane with a large white light speed by across the horizon.  The light was too bright for a regular sideview of a plane and the speed exceeded my expectations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42772.html](http://www.nuforc.org/webreports/reports/042/S42772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
