@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Llangollen (UK/Wales) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge Chevron Craft Over Welsh Town in UK/Wales.Putting chickens into sheds for evening, when myself and my colleague heard a loud humming noise above us.  We looked up and saw a huge chevron shaped thing just moving real slowly towards the hills in a northerly direction.  It was solid and black with four dim lights on each side which we yellow or white.  It was huge and at least five times the size of a 747 jet.  We estimated it was about 1500 feet up in altitude.  We watched it disappear over the top of the hill out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117576.html](http://www.nuforc.org/webreports/reports/117/S117576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nicholasville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 adults watched multiple star-intensity lights move south to north in western sky a couple of degrees below Venus.  No sound, moved in a straight line formation.  Very high, possibly satellites?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153912.html](http://www.nuforc.org/webreports/reports/153/S153912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
