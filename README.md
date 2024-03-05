@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nicholasville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 adults watched multiple star-intensity lights move south to north in western sky a couple of degrees below Venus.  No sound, moved in a straight line formation.  Very high, possibly satellites?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153912.html](http://www.nuforc.org/webreports/reports/153/S153912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Delta (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Greatest mass sighting of my lifeI walked outside and saw 3 objects flying from west to northeast. Evenly paced and evenly spaced. More kept coming. Seemingly appearing to the left of Venus then disappearing close to Polaris. I was trying to spot them with the telescope and binoculars.  My wife was trying to count them and got around 50 -60.  Other witnesses I the area are posting on social media who saw them.  There are some saying they are Starlink satellites but they seemed much lower as planes were also in the air and the altitude of the planes appeared just slightly lower. No strobes on the objects but they just carried on their procession then stopped. They seemed to appear then disappear.  About 5 minutes after the last in the line another appeared following the same trajectory but made a sudden hard 90 degree right turn. Much sharper than a plane can bank. Amazing experience. Just glad I have a witness. We were unable to get them on video though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153890.html](http://www.nuforc.org/webreports/reports/153/S153890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
