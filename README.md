@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jackson (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>pair of bright blue/white lights descending rapidly next to I-75 GAA form colored electric blue white,  shaped like two egg cells touching each other and the embryos of those being brighter than the rest of the body, was seen in rapid decent at a very steep perhaps 60 degree angle towards earth on I -75 just north of Griffin, Ga. Exit at 6:45 this morning.It appeared close ( within ½ mile) and went out of view behind the crown of tree line a ¼ mile away. I expected smoke from impact.Passenger saw it only just before it went behind the tree line. Sun was up , clear skies.I was driving North to Atlanta, it appeared  in the sky on the west side of the highway</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87495.html](http://www.nuforc.org/webreports/reports/087/S87495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Zonhoven (Belgium) () reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I am just a normal student and I am 15 jears old I saw a UFO it was has small like a car it looked like a plane but it hassend any weels and it was black when they landed they took some sand and gras from the ground when they saw me,they flied away very fast</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17050.html](http://www.nuforc.org/webreports/reports/017/S17050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
