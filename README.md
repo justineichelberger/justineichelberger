@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shelbyville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light traveling north to south at high speed, no sound.Orange light traveling north to south in a straight line at high speed.  No sound.  About as big as Jupiter appears in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126225.html](http://www.nuforc.org/webreports/reports/126/S126225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bessemer (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>DEATH STAR came to mind ,electrical fire colored lights really white/blueMarch 5 2021,aprox 11pm I was driving on hwy 269 from BIRMINGHAM AL when I saw what I thought was an electrical fire at a power sub station.It was a white/blue color that lite up the sky,I stopped and went to look.It was not a fire but a craft hovering about 50 feet above the sub station,I took out my phone to video the craft, triangular in shape as it sat there above the sub station, less than 500 yards away CLEARLY IN MY VIEW, and on my screen I watched as it turned and moved away the lights were cut off as it lifted farther up and was gone.The sound was like a strong wind & the size of it had to be a football field or better.The next morning I looked at my video & my screen is black nothing is there but the audio that I can clearly hear..IT WAS ON SCREEN LAST NIGHT...What happend to my video????  This is not the only time I have seen things BUT it is the only time I`ve seen something this close. When I watch my video there is a poping noise on video & you! can hear the thing as it leaves.But screen is black. Disapointed yes, surprized no.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162257.html](http://www.nuforc.org/webreports/reports/162/S162257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
