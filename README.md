@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Intense blue light in grassy fieldOn March 6,2010, I was driving South on hwy 17.  This occurrence happened somewhere between Moses Lake and Othello (Washington).  I can't remember the exact location.  My Sister and I were on our way to Othello to pick up a dog that I had adopted. It was about 11:00 a.m..  As we were driving we were engaged in conversation.  On the left side of the road, approximately 50 feet in from the edge of the roadway, an incredibly intense blue light appeared.  The intensity was that of an arc welder, but  was about the size of a dumpster.  It had a distinct shape also. I continued talking to my Sister, but was mesmerized by this light.  As I got closer, it began to diminish, fade, and eventually vanished. All the while, I'm trying to process in my mind what light was.  I finished my sentence, then paused for a moment.  Then my Sister asked "did you see that"?  I replied "the blue light?""Yes!" she said, "what the hell was that?"  I had no clue, but we both had seen it.  When we g! ot to where the light was, there was nothing but an empty field.A week later we were discussing it with my Sister's husband.  That's when I asked her if she noticed a shape of the light.  She drew a picture, and was almost identical to the one I had drawn.To this day, we still have no logical explanation of what we saw.  We can't exactly call it a UFO because it wasn't flying.  The intensity and shade of blue are beyond description.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80853.html](http://www.nuforc.org/webreports/reports/080/S80853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbia City (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>row of arange balls in the sky.I was driving home from work at about 8:oo pm when I noticed in the sky a row of orange balls not sure on the number but would say between 8 and 10 all in a straight row would guess at least 100 yrds in length. Visible for about 5 seconds and then were gone. I drove another 3 miles and saw another 3 balls much farther away in a different part of the sky for about 3 seconds and then they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62084.html](http://www.nuforc.org/webreports/reports/062/S62084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
