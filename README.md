@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Meridian (MS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was passing by Marion Rd in Meridian, Mississippi.  As I cross over the intersection, I cross over the first tracks.  Something told me to look up, and I did and what I saw zipped across the sky so fast, it was diamond in shape.  The speed was unbelievable, I watched it until it went out of sight.  I am baffled and excited at the same time.  I never thought I would see any thing like this in my lifetime.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133011.html](http://www.nuforc.org/webreports/reports/133/S133011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Loring (ME) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>70 witnesses close to Old Loring Air Force Base in Maine observed a  right circle cylinder shaped object w/ wings on either side(Picture will be emailed.)  One extremely large grayish right circular cylinder shaped object with wing shaped protrusions on either side was seen floating in a stationary manner above the distant treeline from Loring Job Corps in Maine.  Approximently seventy students of the Loring Job Corps observed this object. The photographer who took the picture observed it for about ten minutes, then ran into their dormitory to notify some other friends to come out to observe it. When they got back outside, the object was gone.((NUFORC Note:  The object in the photo looks interesting, and we are unable to identify it.  It looks like the front end of the engine nacelle on a Boeing aircraft, with two small projections connected to the periphery of the object.  We will attempt to post the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88244.html](http://www.nuforc.org/webreports/reports/088/S88244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
