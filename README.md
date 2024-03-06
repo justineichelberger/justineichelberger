@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>5-6 Sateillite LOOKING objects flying in trail formation maintaining constant speed, heading and distance. NE of Kansas CityAt 0515 CST 10 Miles North of MCI (Kansas City INT'L Airport) I witnessed 5 to 6 objects flying from the NW to NE. All objects were North of MCI airport flying in a trail formation.The Objects were a solid white with NO strobes or any dimming. Upon seeing the first in the string of 5 It appeared to be a low orbiting satellite. Then I saw number 2, then 3, 4, 5 and possibly 6. They maintained a constant speed to stay the same distance between all of them. If I was guessing (from my POV) they were at 40-60,000 FT AGL and based on their size and speed, they were ALL maintaining approximately a 2 miles separation from each other.  But again they looked like satellites and from everything I have seen and know with an 18 year career in Military Intelligence satellites do not fly in a trail formation with only minimal separation between them. They looked like satellites but were so much brighter and I have NEVER seen satellites traveling in a trail formation (especially) not traveling in a group or trail formation. Each object was maintaining the EXACT path as the previous as I was able to use a star behind them to verify the flight path . As they moved further East they dimmed until they were out of visual sight. I called the Tower at MCI and have been checking ALL flight record sites to see if anything was up at that time and have not found anything. I have NEVER seen anything that I could not explain. IF they were Military aircraft (as we have Whitman AFB East of us and Omaha North) they were NOT showing the common single red strobe or solid red light. Further more they had NO sound that one would hear upon observing a high altitude Aircraft and with the weather being cold there was NO contrail.  If I had only seen one, I would have said it was a satellite. But 5-6 in a row all maintaining a perfect trailing formation with each other leads me to believe that they were not Satellites. I am continuing to call the MCI Airport tower and see if they picked anything up on radar as well as look at every flit tracker I can find for this time of morning as I have NEVER seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154102.html](http://www.nuforc.org/webreports/reports/154/S154102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue/green streak over NOLAA long streak of a bluish-green, almost shooting star pattern, in a very smooth arc, then a flash of orange/white ballish burst, then nothing.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117609.html](http://www.nuforc.org/webreports/reports/117/S117609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
