@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:55 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Belton (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At approximately 20:40, my family witnessed what we thought was a very large bright star. This object did slightly appear to flicker in the sky and stayed in position for several minutes.  Upon going back to look at approx 2050, the object was in a completely different portion of the sky and not really appearing to move.  When I went back to look at 2100, the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117626.html](http://www.nuforc.org/webreports/reports/117/S117626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Howell (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Pack of lights in Howell, NJ skyIt was about 3:30 in the afternoon and we were cleaning up getting ready to close our store (Jiffy Lube).  My friend said "Ey what is that?" Thinking he was playing with me I didn't look at first but when I eventually did what follows is what I saw...In total at least 5 of us saw all of this and were calling our wives/girlfriends/friends to see if anyone else had witnessed it:  It was still sunny out and there appeared to be something extremely bright in the sky.. It could've been silver but it was just BRIGHT (and mind you the sun was still out)…At first I thought it was just a star or something but it was moving sorta side-to-side, up and down..just hovering around that general area..Then when we looked to the right we saw 2 more bright lights making the same movements and to the right of them, there was a pack of maybe 5 smaller (but still pretty bright) lights doing the same movements. From my job, there is an Air Force base (strategically put there I begin to wonder??) about 15-20 mins car ride away...After observing the lights for several minutes, an air force fighter jet flew across the sky from west to east and then disappeared... Within a minute or two of the fighter jet leaving, the pack of 5 smaller lights broke up and moved side-to-side up VERY quickly until they all disappeared.  (From the moment they started ascending til they were no longer visible must've been about 20 seconds)  Then the two lights that were next to the brightest one also broke away and ascended very quickly.. The last and brightest one ascended quickly but did not fully disappear...Most of my co-workers had stopped watching at this point, however I followed this bright one as it moved in the SE direction for close to 45 mins and eventually disappeared...I checked the next day the see if anyone had reported anything and I tried googling but nothing ever came up...After reading descriptions of sightings on here, I had to post because some stories are EERILY similar to mine.  Had I been the only person to witness this, I might've thought I was crazy but to have the backing of my co-workers makes me believe something was happening and my eyes weren't just playing tricks on me.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61418.html](http://www.nuforc.org/webreports/reports/061/S61418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
