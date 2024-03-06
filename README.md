@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 5 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:58 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Middleburg (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was driving to work.  The sky was a little cloudy.  The SUV in front of me briefly stopped and pulled over.  That's when I saw a small, white ball of light go across the sky the disappear.  I guess the people in front of me saw it too because they had pulled over.  Later in the evening, I made a comment about it on social media and a friend of mine in the area reported that she and her family saw the same thing, too.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126281.html](http://www.nuforc.org/webreports/reports/126/S126281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Foley (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sphere flying in formation with 4 jet aircraftsMy friends and I were eating crawfish outside in the backyard during a cloudless afternoon.  The wind was out of the NW at about 10 MPH.  I noticed 4 jets flying in formation what looked to me in the northern sky over Interstate 10, from the west to the east.  Three were in line with each other but the lead was clearly ahead of the others. My guess is that they were 30,000 feet or more in altitude, all 4 leaving contrails, and were spaced about 3000 feet apart. Everything was normal and I signaled to my friend, "Hey, look at those planes"  He said, "Yeh, gotta be the military flying in that kind of formation."  They were absolutely identifiable as jets. Then he noticed the lead aircraft had a shiney sphere under it and said "can you see that under the lead plane?"  I said "Wow! That's amazing. I never could say I saw one until today!" It was about half the size of the lead jet aircraft. He ended by saying they are probably heading to Eglin AFB, FL.  What really proved it to me is that the sphere was definately shiney, made no contrail (like the jets did) and was separate and aside the lead plane.((NUFORC Note:  We do not know what the witnesses observed.  However, we believe that the possibility of military aircraft would have to be ruled out, before we could conclude that the sighting may have been of a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35570.html](http://www.nuforc.org/webreports/reports/035/S35570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
