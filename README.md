@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Quaker Hill (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>It was a normal day when we say a strange plane or obect in the skyWe were going down Vaux hall when my dad noticed a flying object with lights that did not match any aircraft we had ever seen. The lights made a circular shape. So intrigued we turned around and stopped on the road. We pulled out the binoculars that we use for bird watching from our car. Upon closer inspect it had no visable wings but it also made no sound. So we decide to try and go under as we came closer it started to leave. Thats what else made it interesting because it speed away and disapeared in less than 10 seconds. We know that no aircraft can do that or it would have made a sound. I will also mention there we no clouds in the sky,it was a clear night. So it didnt go behind a cloud and it fly off so fast. The other thing though there was a plane near by that was flying to groton. So it defentally was flying faster than the plane. It was something that none of us could explain.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62083.html](http://www.nuforc.org/webreports/reports/062/S62083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Texas City (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Coming from Walmarts and seen 2 lights in the sky.  I was driving and I know that it wasn't going to hang around long, so I fumbled for my phone and put it on video and moved my hand back and forth hoping to capture it.  I also noticed that another truck had pulled off to the side of the road.  I passed the truck and stopped also and tried to look for the lights but I didn't see them anymore.  The black truck had left and I also left.  I don't know if they seen the lights, too, but we both stopped in the same area.  I went home got ready for work and recently looked at the 11 second film and was happy to see I did capture it.  It looks flat like when I first seen them, but in the picture (still frame) I can see the contrails of each light.  I don't want to here Chinese lanterns either.  They use that excuse for everything now.  I would like a real educated guess.  I think ufo cause it just vanished after like 30 to 40 seconds.  Do ur own still frame and tell me what it is please.  Seen in Texas City, TX.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117668.html](http://www.nuforc.org/webreports/reports/117/S117668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
