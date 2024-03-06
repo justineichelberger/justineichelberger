@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:33 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>seen about 1 mile away.  had blue/white chaser lights at the bottom with a big red light on very bottomThe object flew in a easternly direction from over the Great Salt Lake to where I was working in about 15 to 30 seconds.  Once it got to where it stoped, it stopped suddenly and hoovered in the same spot for about 1 to 1 1/2 mins.  Then it slowly went over the horizon of a hill directly in front of me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12379.html](http://www.nuforc.org/webreports/reports/012/S12379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jackson (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 19:10-19:25 - 19:10-19:25 minutes.</sub><blockquote><sub>Looking west at a bright star at about 19:10 last night. I then noticed movement to the right side of the bright star. It was another star,but this star was moving,then came another,and another,they were evenly spaced apart. I counted between 30 to 40 of these things.They moved in a straight formation.When they got to a certain point in the sky they would disappear one by one and only when they got to that one spot in the sky ? These we're not satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154028.html](http://www.nuforc.org/webreports/reports/154/S154028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
