@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbia City (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>row of arange balls in the sky.I was driving home from work at about 8:oo pm when I noticed in the sky a row of orange balls not sure on the number but would say between 8 and 10 all in a straight row would guess at least 100 yrds in length. Visible for about 5 seconds and then were gone. I drove another 3 miles and saw another 3 balls much farther away in a different part of the sky for about 3 seconds and then they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62084.html](http://www.nuforc.org/webreports/reports/062/S62084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tralee (Ireland) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Hello, a group of my friends and I were coming home from a house the last night when we noticed a bright object in the sky at first we taught it was a star or plane, but as we drive along the object seemed much bigger than we expected 7 lights on the object in question as far as we could understand this was not something from this earth.((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133234.html](http://www.nuforc.org/webreports/reports/133/S133234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
