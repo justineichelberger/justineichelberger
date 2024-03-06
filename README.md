@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Straight line flight of 8 equally spaced.Eight objects equally spaced flying at high rate of speed and at a high altitude coming from the southwest portion of the sky flying to the northeast.  Lights were solid white.  Slightly larger than a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154076.html](http://www.nuforc.org/webreports/reports/154/S154076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port-of-Spain (Trinidad/Tobago) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange glowing diamond-shaped object seen in night sky over Port-Of-Spain,Trinidad and Tobago.At about approximately 19:27 hrs on the 3/6/2013,I had just left a neighbourhood store, and was speaking to my brother on my cell phone,when something inside me said to look up,and I saw a diamond-shaped object,which could have been at an altitude of about 5,000 feet,proceeding in a north to south trajectory,and emitting an orange glow,which seemed to pulsate. I immediately told my brother what I was seeing over the phone,and I told the owners of the store,a husband and wife, to look up, and they both saw it too.  One of their friends who was seated to the front of the store also saw the object.   After about 2-3 minutes ,the orange glow that the object was emitting faded,and I saw quite clearly that the object had a distinctive diamond shape,and appeared solid,and looked white in color.   It made no audible sound,neither were there any other lights(navigation/anti-collision),so it definitely was not a conventional aircraft.  I, along with the other 3 witnesses h! ad the object under observation as it proceeded through the night sky which was very clear, and it headed in a Southerly direction over the Gulf-Of-Paria,until my view of the object was obscured by some trees on a nearby hillside.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96561.html](http://www.nuforc.org/webreports/reports/096/S96561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
