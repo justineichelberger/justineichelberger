@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:48 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue/green streak over NOLAA long streak of a bluish-green, almost shooting star pattern, in a very smooth arc, then a flash of orange/white ballish burst, then nothing.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117609.html](http://www.nuforc.org/webreports/reports/117/S117609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two sets of 3 triangular formation red lights flying northbound, no sound, chemical smell afterwards.I went to my backyard to let the dog out, and as I was standing there facing south, I saw 3 red lights flying at normal aircraft speed, but in a triangle formation, going north directly my toward me, but very high in the ski. Just as they were about 70 degrees in sight, they gradually faded out. No aircraft sounds, no blinking and the faded one by one. As the last one faded, the next set of 3 appeared, same triangle pattern, same exact flight path, same structure, same red light, same fade out. I didn’t have my cell phone, so I could not record it, but I went back outside and noticed a very strong chemical, burned plastic smell. And the smell is still happening now, 30 minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162263.html](http://www.nuforc.org/webreports/reports/162/S162263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
