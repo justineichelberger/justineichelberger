@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:48 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two sets of 3 triangular formation red lights flying northbound, no sound, chemical smell afterwards.I went to my backyard to let the dog out, and as I was standing there facing south, I saw 3 red lights flying at normal aircraft speed, but in a triangle formation, going north directly my toward me, but very high in the ski. Just as they were about 70 degrees in sight, they gradually faded out. No aircraft sounds, no blinking and the faded one by one. As the last one faded, the next set of 3 appeared, same triangle pattern, same exact flight path, same structure, same red light, same fade out. I didn’t have my cell phone, so I could not record it, but I went back outside and noticed a very strong chemical, burned plastic smell. And the smell is still happening now, 30 minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162263.html](http://www.nuforc.org/webreports/reports/162/S162263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Quaker Hill (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>It was a normal day when we say a strange plane or obect in the skyWe were going down Vaux hall when my dad noticed a flying object with lights that did not match any aircraft we had ever seen. The lights made a circular shape. So intrigued we turned around and stopped on the road. We pulled out the binoculars that we use for bird watching from our car. Upon closer inspect it had no visable wings but it also made no sound. So we decide to try and go under as we came closer it started to leave. Thats what else made it interesting because it speed away and disapeared in less than 10 seconds. We know that no aircraft can do that or it would have made a sound. I will also mention there we no clouds in the sky,it was a clear night. So it didnt go behind a cloud and it fly off so fast. The other thing though there was a plane near by that was flying to groton. So it defentally was flying faster than the plane. It was something that none of us could explain.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62083.html](http://www.nuforc.org/webreports/reports/062/S62083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
