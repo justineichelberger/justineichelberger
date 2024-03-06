@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Woodland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange lights moving slowly south to north over Woodland - not blinking on/off - not a plane- not a satelliteUFO moving south to north aprox 50-60 degrees above western horizon. UFO appeared as two bright orange lights one above and one below smaller less intense orange lights. UFO appeared to move slowly crossing our field of vision in approx 5-7 minutes. Altitude 10,000-20,000 ft (?).  Lights flickered and disappeared before leaving our field of view.  Lights did not flash on and off like aircraft and were none of the standard red, green or white.  I've observed a lot of things in the night sky - planes, satellites, meteors etc.- nothing like this though.  Anybody else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49473.html](http://www.nuforc.org/webreports/reports/049/S49473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>seen about 1 mile away.  had blue/white chaser lights at the bottom with a big red light on very bottomThe object flew in a easternly direction from over the Great Salt Lake to where I was working in about 15 to 30 seconds.  Once it got to where it stoped, it stopped suddenly and hoovered in the same spot for about 1 to 1 1/2 mins.  Then it slowly went over the horizon of a hill directly in front of me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12379.html](http://www.nuforc.org/webreports/reports/012/S12379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
