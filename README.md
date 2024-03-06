@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Texas City (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Coming from Walmarts and seen 2 lights in the sky.  I was driving and I know that it wasn't going to hang around long, so I fumbled for my phone and put it on video and moved my hand back and forth hoping to capture it.  I also noticed that another truck had pulled off to the side of the road.  I passed the truck and stopped also and tried to look for the lights but I didn't see them anymore.  The black truck had left and I also left.  I don't know if they seen the lights, too, but we both stopped in the same area.  I went home got ready for work and recently looked at the 11 second film and was happy to see I did capture it.  It looks flat like when I first seen them, but in the picture (still frame) I can see the contrails of each light.  I don't want to here Chinese lanterns either.  They use that excuse for everything now.  I would like a real educated guess.  I think ufo cause it just vanished after like 30 to 40 seconds.  Do ur own still frame and tell me what it is please.  Seen in Texas City, TX.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117668.html](http://www.nuforc.org/webreports/reports/117/S117668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Meridian (MS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was passing by Marion Rd in Meridian, Mississippi.  As I cross over the intersection, I cross over the first tracks.  Something told me to look up, and I did and what I saw zipped across the sky so fast, it was diamond in shape.  The speed was unbelievable, I watched it until it went out of sight.  I am baffled and excited at the same time.  I never thought I would see any thing like this in my lifetime.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133011.html](http://www.nuforc.org/webreports/reports/133/S133011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
