@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lawrence (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I live in the 3rd floor and I have access to the roof and I live alone and that  night I went up cause it was A full moon I love to look at the sky and wonder.I was there for like one hour just resting on the roofs floor and there it was a very stranged light across the clouds then it seams like it control the clouds beacuse a lot of red clouds formed in seconds after it was there and coverd it  you don't have trust in me but thats what was there!((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35455.html](http://www.nuforc.org/webreports/reports/035/S35455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>4 lights at a perfect angle slowly moving south.possible triangle formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133017.html](http://www.nuforc.org/webreports/reports/133/S133017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
