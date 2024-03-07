@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 objects, light gray egg shaped.Clear sunny day,light breeze coming out of the East.  Four light gray egg-shaped objects moving in formation across prevailing winds from North West to South East no noticeable sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35469.html](http://www.nuforc.org/webreports/reports/035/S35469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Callahan (Bahamas) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Driving down Lem Turner Rd just past 12:30am going toward airport saw a bright orange cigar shaped light no flashing just solid reddish orange light in cigar shape tilted top to left maybe 10 to 15 degrees top to right appeared not to be moving as road turned and bent object got blocked by trees drove about one and half mins till had good view again tilted orange oblong was gone but big white smoke half circle shape was left night sky was dark but could see the white smoke good against black back ground of night sky like a big engine took off and left white smoke behind now there was what looked like 3 small lights around white smoke not sure may have been stars may have been something else the whole thing was only couple minutes and when we stopped driving trying to see orange light thing it looked like it would've been over airport smoke looked over airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154141.html](http://www.nuforc.org/webreports/reports/154/S154141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
