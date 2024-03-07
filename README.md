@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>4 lights at a perfect angle slowly moving south.possible triangle formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133017.html](http://www.nuforc.org/webreports/reports/133/S133017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Mnichovo Hradiste (Czech Republic) () reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Circle object, made of regular white light shapes ( rectangles ) for cca 1 hour it followed up our car...We made a way home after midnight with hard broken lorry ( electric alternator )and we have just seen that object. It was a craft included many shapes ( squares, rectangles ) made of light and it was flying over us. We drove nearly 45 minutes, but it was still over our heads. After we stopped on our field nearby home, we were seeing that more acurately. It was exactly the circle made of white light´s squares or rectangles. Together they made cca. 15 - 20 meters diameter round. It   rotated around its central line, but it was only the light, but very regular. ... It is strange, that we could arrive home, after this happened, we asked an expert mechanic and he said, that it was unpossible to go with so broken charging -up)((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50806.html](http://www.nuforc.org/webreports/reports/050/S50806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
