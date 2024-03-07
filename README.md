@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Callahan (Bahamas) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Driving down Lem Turner Rd just past 12:30am going toward airport saw a bright orange cigar shaped light no flashing just solid reddish orange light in cigar shape tilted top to left maybe 10 to 15 degrees top to right appeared not to be moving as road turned and bent object got blocked by trees drove about one and half mins till had good view again tilted orange oblong was gone but big white smoke half circle shape was left night sky was dark but could see the white smoke good against black back ground of night sky like a big engine took off and left white smoke behind now there was what looked like 3 small lights around white smoke not sure may have been stars may have been something else the whole thing was only couple minutes and when we stopped driving trying to see orange light thing it looked like it would've been over airport smoke looked over airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154141.html](http://www.nuforc.org/webreports/reports/154/S154141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Ashland (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Hovering craft over houses with several bright  white  and red flashing lights,picked up speed and disappeared into a fieldWhile driving to Columbia MO. at approximately 10:00 pm we spotted a bright figure, like a bright star in the sky just above the tree lines.  At this point we were probably no more than 7 or 8 miles away from it.  The object did not appear to move the entire distance we were watching it. As we got closer to the object it appeared to have several white lights and not just one anymore, which were extremely bright.  When we came right up beside it or what would be parallel to it, the object seemed to be hovering over a field and had what looked like a faint light protruding off one side of the object that resembled a spot light.  As we passed the object we turned to view it from our back window a bright red light flashed on the top of the object and one on the bottom, then after a minute or so the lights began to flash all around the bottom of the craft, which made it appear to be spinning.  We continued to watch when all the sudden the craft quickly crossed the highway to what would be the passengers side of the vehicle, and caught up with us instantly.  After a couple minutes the craft disappeared behind the trees no longer in our sight, after doing so there was a glow of light beyond the area it disappeared.Thats what we saw!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28027.html](http://www.nuforc.org/webreports/reports/028/S28027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
