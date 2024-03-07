@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White, Shimmery, Oval, very Large Hovering objectWalked outside to unpack car, and suddenly felt as if I was being watched.  Looked up and saw a large bright white oval shape in the southern direction.  Stared at it for several seconds, but it didn't appear to move.  Bent down into car, then back up, and it was still there.  Then I pulled a few more things out of the car, and when I stood up it was gone.  It looked like a "full moon" that had been pushed into an oval disc.  It was very large and shimmery white.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133014.html](http://www.nuforc.org/webreports/reports/133/S133014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fireball over Eugene July 3rdI actually did not see it, but I talked to two separate people who did. I think something weird passed over Eugene Or, at 11:00 pm on July 3rd.  My friend knows I am into UFO's (but does not believe himself)  called me on the 4th of July to tell me he and his girlfriend saw a silent fireball slowly moving across the sky from north to south around 11:00.  Not an airplane, firework, rocket , etc. It was "flaming" and it faded out he said. About 2 weeks later I was having lunch with my brother and he said he, his wife and his whole neighborhood who was out shooting off fireworks saw the same thing fly over around 11:00 on the 3rd of July.  They all said the same thing, it looked like a silent, slow moving fireball and just crossed the sky, definitely was not a plane, fireworks, or Chinese lantern.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84156.html](http://www.nuforc.org/webreports/reports/084/S84156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
