@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbus (140 mi ESE of) (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15s - 15s minutes.</sub><blockquote><sub>Bright lights in triangular pattern 'hang' in sky, then accelerate and fade from view.I was flying as co-pilot in a Cessna Citation II (am myself an ATP-rated Learjet captain) westward at 39000 feet when I saw three bright lights in a triangular pattern (not equilateral -- more like a right triangle, though that may be a matter of orientation of the object) simply hanging in the sky to the north near Cassiopeia, at an estimated altitude of 45-49000 feet.  I asked my partner if he was watching it and he said yes.  The lights were all of a greater relative magnitude than Sirius -- perhaps equalling or greater than Venus in brightness.  After about 5 to 10 seconds, the lights began to move eastward, accelerating rapidly and fading from view simultaneously (may have been receding?).  No aircraft in my experience has ever accelerated so quickly.  We believe it was one object -- though no details could be made out between the lights -- else the three separate objects would have had to have been maintaining a precise formation during acceleration.  Each of the observers have been flying aircraft for over 15 years, and neither of us had ever seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28073.html](http://www.nuforc.org/webreports/reports/028/S28073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Decker Lake (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>An elongated shaped object with a ring of blue lights around it.A witness observed a bright white light and thought at first it might have been an airplane due to the elongated shape. Shortly afterwards it changed into a more round or oval shape and came to a complete stop. As the witness watched the object traveling along over Pauline Mountain it flashed an extremely bright blue light. The object did this a couple of times and what came next surprised the lady. She clearly was able to see a ring of blue lights which ran horizontally around the center of the object. The woman reported there were a large number of lights, and said it was hard to estimate how many. But she figured there had to be a dozen or more. She was able to observe the object for approximately 25 minutes. As it moved slowly further away the lady lost sight of it. The lady said it grew smaller and dimmer in size due to the distance away until it disappeared. She grabbed her video camera and ran outside, but she explained at this time into the sighting the object was already at a good distance away and she failed to get any footage. The witness did mention that if she'd thought of the camera at the time of the sighting she was confident that she'd have been able to film it. No sound was heard. No reaction from the pets. HBCC UFO foot note: This sighting sounded similar to the December 8, 2003 sighting entitled, Houston, British Columbia Frightening Encounter. Decker Lake is approximately a 45 minute drive east from my home here in Houston, British Columbia. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35481.html](http://www.nuforc.org/webreports/reports/035/S35481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
