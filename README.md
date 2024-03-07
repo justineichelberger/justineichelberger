@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO event I witnessed with my husband 03/07/201103-07-2011  Last night, Monday March 7, 2011, at about 9:00 p.m. my husband called me at the residence I was working at on Nth 60th Ave. In Yakima, WA. He was very excited and said step outside and look at the sky towards West Valley. I stepped out and looked up and there were several bright orange lights flying in formation. I thought at first that they were helicopters because of the altitude they were flying and at the speed they were going.  They were flying in a way that made them look like they were floating.  I carefully listened but could hear no noises I would normally hear from a plane or from a helicopter.  One started to veer to their left as they were flying eastward looking as if they were going to fly over the location I was.  It immediately got back into formation.  It was very spooky no knowing for sure what they were or what they were doing.I ran back inside the house and waited for my husband to arrive, which was only a few moments since he was only a block away.Thank You,   ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80544.html](http://www.nuforc.org/webreports/reports/080/S80544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Princeton (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>several lights dancing erratically in the western sky.  3/7/17In the western sky, there appears a red light moving erradically just to the left of Orion. as it moved further to the left it was joined by 4 other lighta dancing in the sky and interacting with it.  It settled due west of my position and continued moving erratically, dancing up and down and left and right.  It was still there visibly at 11:30 pm as I came in to write this report.  I have attempted to record the lights, but it is not a good quality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133022.html](http://www.nuforc.org/webreports/reports/133/S133022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
