@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Desert Hot Springs (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Twin  OrangeTriangles flying at extrememly high speed from south to north at high altitude.I saw two Triangle/Chevron shaped objects, which were orange/silver in color, flying together in  formation, one just off the others wing. They were shiny, with no visible lighting. They appeared to be shimmering, either due to their speed, or their altitude.They appeared to be at very high altitude, and streaked across the sky from straight due south to due north. It took them approximately two to three seconds to cover my entire field of vision, which was the whole sky from horizon to horizon. There is no such plane, rocket, or man-made vehicle which could cover this huge distance that fast....I know for a fact, this could not have been a meteor or fireball, this was no atmospheric phenomena, these were definite objects.Besides UFO's the only other explanation would be the space station, but I have seen that before, and these were very different.....plus there were two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50464.html](http://www.nuforc.org/webreports/reports/050/S50464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbus (140 mi ESE of) (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15s - 15s minutes.</sub><blockquote><sub>Bright lights in triangular pattern 'hang' in sky, then accelerate and fade from view.I was flying as co-pilot in a Cessna Citation II (am myself an ATP-rated Learjet captain) westward at 39000 feet when I saw three bright lights in a triangular pattern (not equilateral -- more like a right triangle, though that may be a matter of orientation of the object) simply hanging in the sky to the north near Cassiopeia, at an estimated altitude of 45-49000 feet.  I asked my partner if he was watching it and he said yes.  The lights were all of a greater relative magnitude than Sirius -- perhaps equalling or greater than Venus in brightness.  After about 5 to 10 seconds, the lights began to move eastward, accelerating rapidly and fading from view simultaneously (may have been receding?).  No aircraft in my experience has ever accelerated so quickly.  We believe it was one object -- though no details could be made out between the lights -- else the three separate objects would have had to have been maintaining a precise formation during acceleration.  Each of the observers have been flying aircraft for over 15 years, and neither of us had ever seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28073.html](http://www.nuforc.org/webreports/reports/028/S28073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
