@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:33 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Decker Lake (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>An elongated shaped object with a ring of blue lights around it.A witness observed a bright white light and thought at first it might have been an airplane due to the elongated shape. Shortly afterwards it changed into a more round or oval shape and came to a complete stop. As the witness watched the object traveling along over Pauline Mountain it flashed an extremely bright blue light. The object did this a couple of times and what came next surprised the lady. She clearly was able to see a ring of blue lights which ran horizontally around the center of the object. The woman reported there were a large number of lights, and said it was hard to estimate how many. But she figured there had to be a dozen or more. She was able to observe the object for approximately 25 minutes. As it moved slowly further away the lady lost sight of it. The lady said it grew smaller and dimmer in size due to the distance away until it disappeared. She grabbed her video camera and ran outside, but she explained at this time into the sighting the object was already at a good distance away and she failed to get any footage. The witness did mention that if she'd thought of the camera at the time of the sighting she was confident that she'd have been able to film it. No sound was heard. No reaction from the pets. HBCC UFO foot note: This sighting sounded similar to the December 8, 2003 sighting entitled, Houston, British Columbia Frightening Encounter. Decker Lake is approximately a 45 minute drive east from my home here in Houston, British Columbia. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35481.html](http://www.nuforc.org/webreports/reports/035/S35481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fireball over Eugene July 3rdI actually did not see it, but I talked to two separate people who did. I think something weird passed over Eugene Or, at 11:00 pm on July 3rd.  My friend knows I am into UFO's (but does not believe himself)  called me on the 4th of July to tell me he and his girlfriend saw a silent fireball slowly moving across the sky from north to south around 11:00.  Not an airplane, firework, rocket , etc. It was "flaming" and it faded out he said. About 2 weeks later I was having lunch with my brother and he said he, his wife and his whole neighborhood who was out shooting off fireworks saw the same thing fly over around 11:00 on the 3rd of July.  They all said the same thing, it looked like a silent, slow moving fireball and just crossed the sky, definitely was not a plane, fireworks, or Chinese lantern.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84156.html](http://www.nuforc.org/webreports/reports/084/S84156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
