@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 6 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Plano (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dim grouping of lights that changed shape as it moved over our house.We went outside to see the mini moon and looked up and saw a grouping of very dim lights moving through the sky.  The arrangement of the lights shifted and had a very organic feel to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117620.html](http://www.nuforc.org/webreports/reports/117/S117620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in North Fort Myers (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two glowing objects staionary in the eastern sky. Skys were clear. One object lower on the horizon than the other. One object disappears leaving a ring cloud. 15 second later the 2nd does the same.My wife and I were going out for dinner on Saturday evening, 6:40 PM. Three blocks from our home, we turned east onto Skyline. I observed two glowing lights clouded in a haze about 40 degrees from the horizon. Both objects appeared to be stationary and it was difficult to tell the distance. The objects as they appeared to us were about ten times  the size of a star. The object on the left was slightly lower and equally spaced from the object on the right. We had an unobstructed view. We stoped the car and observed both of the objects for about 20 seconds. The object on the right then disappeared, leaving behind a donut shaped cloud. The second object remained for about 10 seconds, and then disappeared like the first.((NUFORC:  Probable missile launch at sea from U. S. submarine.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03310.html](http://www.nuforc.org/webreports/reports/003/S03310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
