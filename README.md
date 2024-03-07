@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Moon Township (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Large blue light emmiting orb that split into severle smaller onesWhile taking a photo of the moon Saturday evening on 3/7/2020, I was zoomed in on the moon and noticed a large blue glowing object, I took a picture, * at 5x zoom on my I-Phone 11, I then took another picture on the live setting and captured the blue mass split into 3 or 4 balls moving away then back together again. They were moving before the flash went off and also during and after flash. then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153955.html](http://www.nuforc.org/webreports/reports/153/S153955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Washington Court House (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very bright orb looking light.My mom and I were looking up at the sky, when suddenly we saw this bright light coming down.  We stared at it for 2 or 3 min then it shot strait up.  10 min later a friend of mine text me out of the blue to tell me he had just seen a similar thing where he lives in Columbus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107688.html](http://www.nuforc.org/webreports/reports/107/S107688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
