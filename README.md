@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The lights were triangular shaped, object appeared invisable except for lights, then flew off quicklyThree lights were seen in a triangular shape that identified or appeared to be one object.  The lights were white and then turned blueish as it flew away.  It was dark and we were unable to see what color it was.  The craft seemed to be cloaked except for the lights, I know that sounds strange but thats how it appeared.  When we first saw the lights they were at an angle like it was tilted, then it straightened out to become level, and then quickly took off in a horizonal fashion, not appearing to go up, but traveling at the same height off the groung.  We were about 200 yards away, and the craft appeared to be approxiately 75 yards wide.  It took off very very quickly and no noise or sound was noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28081.html](http://www.nuforc.org/webreports/reports/028/S28081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in La Luz (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large Oval shape above tree line, move slow than darts fast, hover, move slow, red light & green lights blinkingMy dog woke me up to take her outdoors about 2:45am on March 8, 2008.  I went with her outdoors. After she finished I picked her up to go inside. As I walked up the back stepped I noticed a large oval object blinking red above the tree line, moving North to South. The red light was toward the front. At first, I thought it was an airplane.  The object was not moving, hovering, above the tree line. As I was watching a green light went on toward the center of the object and started blinking. Two lights were blinking at the same time, a red and green.  I was getting concerned because it was very large and I could not figure out how it stayed in the air and darted so fast and then did a complete stop.  It started to move very slowly, then darted fast toward my direction, now it was moving from West to East, and hovered.  Because I was standing near the back porch light. I thought this object seen me. I backed up in the dark shadows to try and figure it out.. The object seem to hover over the tree line. I got a very concerned, I went in the house Before I went in the object moved again from North to South. I did not hear any noise, it was quiet like it was gliding.  As far as size, it was above the tree line and with New Mexico’s clear skies the stars clearly showed the outline of the object.  Not knowing the exact distance, I thought it was in my neighbors back yard at first above his trees. But it had to be further, 150 to 200 yards, I’m not sure. It just seemed close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62137.html](http://www.nuforc.org/webreports/reports/062/S62137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
