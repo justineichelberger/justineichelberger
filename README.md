@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:23 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Williams Bay (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Steady light like large star over Walworth County.It was like a large star at distance very bright it would stay steady then move left slowly then go back to the right slowly and stay steady again was there for a while then it disappeared towards the distance like going higher it was very sparkly like a diamond it was not a star or air plane it was a ufo unkown flying object.((NUFORC Note:  Sighting of a star or planet, we suspect.  PD))((NUFORC Note:  For some reason witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117715.html](http://www.nuforc.org/webreports/reports/117/S117715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Argos (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>So this morning I was searching for the parameters of Grissom's Military Operations Area north of the base. My search rapidly digressed and I found myself reading UFO reports for Indiana filed over the last year.I found the reports for Kokomo, March 2006 most interesting.As some of them describe what I've seen near there previously this time of year, but with a few more twists.Funny thing is....if I hadn't seen what I've seen for the past two years and this sighting tonight I'd probably remark.'What a bunch of Looney Toons.'  Based on the past. I expect the Plymouth,IN to Grissom AFB sightings to occur now through April when we have...Clear Air with Visibility Unlimited and little to no moon illumination.Flight appears to be less than 2000 AGL and within 5 miles of US 31 out to the west.Most of my own sightings have occured between Argos and Mexico after sunset and prior to 22:00 local.The UFO reference in this case does not imply craft from another world, dimension or whatever. More likely our own military on night training maneuvers in the MOA.Do I think these are Top Secret craft capable of flight previously not realized? Hmm......It's highly unlikely they would adhere to a schedule so predictable over a populated area such as this. I am a 30+ year licensed pilot, so I have some familarity with aircraft....... I have witnessed some pretty remarkable moving light arrays out there that I find myself wondering what the hell I just saw. Know what I mean?  The thing is many have seen exactly what I have seen, it's been briefly covered in the local media. It occurs with regularity, so why does not somebody associated with this occurance come forth and set the public mind of these communities at ease?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55607.html](http://www.nuforc.org/webreports/reports/055/S55607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
