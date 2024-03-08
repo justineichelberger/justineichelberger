@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:49 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:23 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in East Detroit (eastpoint0 (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Summary :  I called my name is ((name deleted)). Me and 3 friends went out to go to somone's house  we looked at the sky we saw a UFO it had four lights in a diamond shape and they blinked every once and a while  when they blinked off you could see the disk shaped outline it was going incredibly fast it circled about 5 times each sighting was about 5 min. apart.then after it circled 5 times about 5 min. later we saw two of them they went so close we thought they were going to crash.we live near a airport but we lived here for 13 years this was no plain it went so fast and the disc shape it was no plain</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02054.html](http://www.nuforc.org/webreports/reports/002/S02054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Williams Bay (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Steady light like large star over Walworth County.It was like a large star at distance very bright it would stay steady then move left slowly then go back to the right slowly and stay steady again was there for a while then it disappeared towards the distance like going higher it was very sparkly like a diamond it was not a star or air plane it was a ufo unkown flying object.((NUFORC Note:  Sighting of a star or planet, we suspect.  PD))((NUFORC Note:  For some reason witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117715.html](http://www.nuforc.org/webreports/reports/117/S117715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
