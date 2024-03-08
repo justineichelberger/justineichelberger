@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Arvada (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Rather large saucer shaped craft spotted over Denver.This took me awhile to report but I have taken photos to analyze the data of what I have seen.It was almost sundown and I was driving along Wadsworth Blvd southward.  When I noticed that this craft was sitting in the air still.  It was incredibly huge because I could see it at such a far distance (maybe 20+ miles away).  It stood there still for 20-30+ minutes because that's how long I've been driving.This looked to be more disk/saucer shaped object rather than anything else.  It didn't move erratically only just sat in one place.  But by the time sundown came, I lost sight of it due to its lack of light.There must have been hundreds of witnesses that day because Wadsworth Blvd is a rather busy street.  I'm hoping its true.  I will send the photos along with the enhanced version I have managed to detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28160.html](http://www.nuforc.org/webreports/reports/028/S28160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>7-8 orange lights 3/8/2014 over TampaThere were approximately 8 orange lights moving southbound over the Carrollwood Citrus Park area.  No particular formation.  No particular order.  No flashing or blinking lights.  All uniform in color.  I have lived in the area for years.  This was not an aircraft headed to TIA.  Smallish in size.  The shape was probably round. It was about 9:30pm.We were in the parking lot at the Pizza Place near Sheldon and Citrus Park drive.  Four members of my family, and about six members of the other party.  Both groups questioned what the light were.  Some jokingly called the Home Depot buckets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107730.html](http://www.nuforc.org/webreports/reports/107/S107730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
