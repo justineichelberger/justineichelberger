@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:40 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Williams Bay (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Steady light like large star over Walworth County.It was like a large star at distance very bright it would stay steady then move left slowly then go back to the right slowly and stay steady again was there for a while then it disappeared towards the distance like going higher it was very sparkly like a diamond it was not a star or air plane it was a ufo unkown flying object.((NUFORC Note:  Sighting of a star or planet, we suspect.  PD))((NUFORC Note:  For some reason witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117715.html](http://www.nuforc.org/webreports/reports/117/S117715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights in triangle shape, flew due north; completely silent.9 white lights, arranged in 3 groups of triangles.  The three triangles formed a larger triangle.  Craft was swift and silent, headed almost due north.  Came over house, watched as it moved out of view.  Airliners in the sky as normal, moving east to west.  UFO was much lower to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126269.html](http://www.nuforc.org/webreports/reports/126/S126269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
