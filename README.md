@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:54 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lucedale (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately baseball game - baseball game minutes.</sub><blockquote><sub>A circle of lightMy friend and I were walking around at a thursday night baseball game.  I was fixing to leave when I looked up and notice a light in the sky.  I thought at first that it was a star but I notice that it was kind of cloudy and you wouldn't be able to see any stars that night. I told my friend to take a look he just said it was porbably just a plane.  But it just stayed in that one spot for at least 5 to 10 min. Then it started to move in an upward movement and gradually picked up speed intill it was out of site. I don't know much about planes but from the ones I've seen they have more than just one light on them and they have on e that flashes. The object I saw was just a circle of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16800.html](http://www.nuforc.org/webreports/reports/016/S16800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Van Buren (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Football-field size triangular object--low and silent.My son came into my bedroom around 9:30 pm, very excited, asking why I hadn't answered his phone call.  I told him my phone was charging in the living room.  He told me that as he was driving to his grandfather's house, he noticed 3 lights, and at first thought they were military aircraft flying in formation.  Then, he noticed something was odd with the lighting and took a closer look.  He stopped his truck and got out of the vehicle to observe a large triangular object.  He described it as 2-3 football fields big.  He said he was scared and his heart was racing.  He said it was completely silent as it slowly passed overhead.  I talked to his grandfather this evening.  His grandfather said when he arrived at his house he was excited and told him the entire story.  I asked why he didn't get pics or video, but his reply was that he was too busy calling me, trying to get me to come outside so I could see it.   Today, my son tells me he can't believe what he saw and ! seems very reluctant to talk about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126268.html](http://www.nuforc.org/webreports/reports/126/S126268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
