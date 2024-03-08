@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Portsmouth (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>a leaf green comet-like flying object at least 100 feet up 300 ft. max came shooting in the sky at speeds faster than an airplane.looking out of a car window into the Northwest sky, i saw a green fireball.  it was like a green comet with a short tail, but i knew it wasnt an airplane or a heliocopter.  it was traveling faster than an air plane.  hwn i first saw it, it was very visible and deep green.  the object picked up speed and then started to get duller and the tail started to get shorter.  after about 5 seconds the object vanished from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28032.html](http://www.nuforc.org/webreports/reports/028/S28032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in W. Sacramento (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Slightly elongated  brite white light  silently  traveling west to east then blacked out rapidlyslightly elongated brite white light..possible space shuttle?  Traveling west to east then blacked out rapidly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80406.html](http://www.nuforc.org/webreports/reports/080/S80406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
