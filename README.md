@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lucedale (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately baseball game - baseball game minutes.</sub><blockquote><sub>A circle of lightMy friend and I were walking around at a thursday night baseball game.  I was fixing to leave when I looked up and notice a light in the sky.  I thought at first that it was a star but I notice that it was kind of cloudy and you wouldn't be able to see any stars that night. I told my friend to take a look he just said it was porbably just a plane.  But it just stayed in that one spot for at least 5 to 10 min. Then it started to move in an upward movement and gradually picked up speed intill it was out of site. I don't know much about planes but from the ones I've seen they have more than just one light on them and they have on e that flashes. The object I saw was just a circle of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16800.html](http://www.nuforc.org/webreports/reports/016/S16800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Belfair (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My hot tub has a wood grid overhead that basically lets me see satellites and any other moving objects easily.  Last night I saw a triangle with a light on each corner of the craft, and it was very high in altitude and it was huge is size.  It had to be at least 40,000 feet up if not higher and it was moving slowly from west to east.  It was located slightly west of the big dipper and soon cloud cover obscured it's sight.I doubt that most people would see something like this because it was so high up and the lights on each corner were like dim stars.  If I didn't have a grid above me that allows me to track movement, I would have never seen it. I can't possibly say what they were doing except maybe they were going to check out Mt. Saint Helens as it erupted yesterday evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42831.html](http://www.nuforc.org/webreports/reports/042/S42831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
