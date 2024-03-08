@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lockwood (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was outside checking our cattle, and, as always, I look into the sky.  It seemed so bright out.  I look to the west, and in the sky was a very low flying triangle craft with white lights throughout the middle and red lights on the sides and top of tingle..  At first, I thought maybe it was a small Cessna or something but continued watching come right above me and there was hardly any sound from it.  I know the only airport or strip in this immediate are was north of me about a mile and it's a grass airstrip.  Can't land there at night.  But it was so quiet and stayed the same height and speed heading east.  I watched it dumbfounded until I lost sight and just stood there kind of dazed it seemed.  I cannot believe I didn't get my phone out of my pocket and video this thing but I never even thought of it.  I just watched.. and then snapped out of it and stood there trying to figure out what just happened.. wow…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133041.html](http://www.nuforc.org/webreports/reports/133/S133041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Arvada (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Rather large saucer shaped craft spotted over Denver.This took me awhile to report but I have taken photos to analyze the data of what I have seen.It was almost sundown and I was driving along Wadsworth Blvd southward.  When I noticed that this craft was sitting in the air still.  It was incredibly huge because I could see it at such a far distance (maybe 20+ miles away).  It stood there still for 20-30+ minutes because that's how long I've been driving.This looked to be more disk/saucer shaped object rather than anything else.  It didn't move erratically only just sat in one place.  But by the time sundown came, I lost sight of it due to its lack of light.There must have been hundreds of witnesses that day because Wadsworth Blvd is a rather busy street.  I'm hoping its true.  I will send the photos along with the enhanced version I have managed to detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28160.html](http://www.nuforc.org/webreports/reports/028/S28160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
