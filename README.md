@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Argos (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>So this morning I was searching for the parameters of Grissom's Military Operations Area north of the base. My search rapidly digressed and I found myself reading UFO reports for Indiana filed over the last year.I found the reports for Kokomo, March 2006 most interesting.As some of them describe what I've seen near there previously this time of year, but with a few more twists.Funny thing is....if I hadn't seen what I've seen for the past two years and this sighting tonight I'd probably remark.'What a bunch of Looney Toons.'  Based on the past. I expect the Plymouth,IN to Grissom AFB sightings to occur now through April when we have...Clear Air with Visibility Unlimited and little to no moon illumination.Flight appears to be less than 2000 AGL and within 5 miles of US 31 out to the west.Most of my own sightings have occured between Argos and Mexico after sunset and prior to 22:00 local.The UFO reference in this case does not imply craft from another world, dimension or whatever. More likely our own military on night training maneuvers in the MOA.Do I think these are Top Secret craft capable of flight previously not realized? Hmm......It's highly unlikely they would adhere to a schedule so predictable over a populated area such as this. I am a 30+ year licensed pilot, so I have some familarity with aircraft....... I have witnessed some pretty remarkable moving light arrays out there that I find myself wondering what the hell I just saw. Know what I mean?  The thing is many have seen exactly what I have seen, it's been briefly covered in the local media. It occurs with regularity, so why does not somebody associated with this occurance come forth and set the public mind of these communities at ease?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55607.html](http://www.nuforc.org/webreports/reports/055/S55607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wendell (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Observed unexplained object(s) in the sky near Raleigh, NCWhat began as an my observing an unbelievably bright "Venus" soon gave way to my thinking that the object was possibly a jetliner w/ landing lights traveling toward my location.  I was driving at the time and could not discern movement until after observing for about ten minutes. My route was on winding country roads, so as I constantly changed direction, the light stayed consistent.  I began to suspect this wasn't a jetliner.Oddly, as I drove I saw two jetliners on approach to RDU to the west of my location (about 30 miles away), and could see their flashing beacon lights.  The object I was observing did not have flashing beacon lights.  The object I had been observing seemed to be about the same altitude but farther west of the jetliners on approach, and the object shown much brighter than the jetliners. I lost sight of the object as my view was blocked by trees.  When the tree line ended to my surprise I saw three idenical objects in a razor sharp straight line appearing to head north beyond the RDU approach the jetliners had taken.  Military?  Satellite?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69270.html](http://www.nuforc.org/webreports/reports/069/S69270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
