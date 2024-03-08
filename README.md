@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights in triangle shape, flew due north; completely silent.9 white lights, arranged in 3 groups of triangles.  The three triangles formed a larger triangle.  Craft was swift and silent, headed almost due north.  Came over house, watched as it moved out of view.  Airliners in the sky as normal, moving east to west.  UFO was much lower to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126269.html](http://www.nuforc.org/webreports/reports/126/S126269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The lights were triangular shaped, object appeared invisable except for lights, then flew off quicklyThree lights were seen in a triangular shape that identified or appeared to be one object.  The lights were white and then turned blueish as it flew away.  It was dark and we were unable to see what color it was.  The craft seemed to be cloaked except for the lights, I know that sounds strange but thats how it appeared.  When we first saw the lights they were at an angle like it was tilted, then it straightened out to become level, and then quickly took off in a horizonal fashion, not appearing to go up, but traveling at the same height off the groung.  We were about 200 yards away, and the craft appeared to be approxiately 75 yards wide.  It took off very very quickly and no noise or sound was noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28081.html](http://www.nuforc.org/webreports/reports/028/S28081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
