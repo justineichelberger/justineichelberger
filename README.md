@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 7 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saw 2white lights in the sky about 300 yards apart and 30 feet in diameter. One was close to a cloud, and dissapeared behind the coud. The other just went out. We thought they were rocket boosters from the Cape, but there was no con or smoke trail.We were part of a group of German Folkmusik enthusiasts, in a tour bus, from Stylus Transportation, traveling from the Riand Continental Hotel to the Disney's Wide World of Sports Field house, to see an Austrian music show called The Musikantenstadl. I am sure of the time because we were about five minutes from the event, and we exited the bus at the event at 18:50. I looked out the window of the bus and saw the 2 fairly bright white lights, that looked to be about 30 feet in diameter in the sky to the left of the bus. I told my wife to look, and she asked what are those lights. The other people sitting on the left side of the bus also saw them. I thought as did other people on the bus, that they were rocket boosters from Cape Canaveral, although I made the comment that these are the first rockets I ever saw that have no propellant or con trail. It looked exactly like looking directly into the tail end of a rocket booster. We didn't give it any more thought until we returned to Los Angeles and saw a news report of the event on the Monday evening news and found out that there were no missiles fired from the cape. We saw both objects for about 2 minutes. The seemed to be about 300 yards apart, and one was next to a cloud, the other in the open sky.The light away from the cloud just went out about 5 seconds before the other light moved behind the cloud and disappeared. There was very little lateral movement, if any, on either object.((NUFORC:  Consistent with missile launch.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03312.html](http://www.nuforc.org/webreports/reports/003/S03312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lucedale (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately baseball game - baseball game minutes.</sub><blockquote><sub>A circle of lightMy friend and I were walking around at a thursday night baseball game.  I was fixing to leave when I looked up and notice a light in the sky.  I thought at first that it was a star but I notice that it was kind of cloudy and you wouldn't be able to see any stars that night. I told my friend to take a look he just said it was porbably just a plane.  But it just stayed in that one spot for at least 5 to 10 min. Then it started to move in an upward movement and gradually picked up speed intill it was out of site. I don't know much about planes but from the ones I've seen they have more than just one light on them and they have on e that flashes. The object I saw was just a circle of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16800.html](http://www.nuforc.org/webreports/reports/016/S16800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
