@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:56 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Spotted a bright white light in the sky that was moving around, didn't get closer or farther away.  We put some binoculars on it seemed saucer shaped with what looked liked windows on it but light was coming out of them.  It moved left and right in the sky and would get bright then dim , then bright again.I have no explanation of what it may have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117688.html](http://www.nuforc.org/webreports/reports/117/S117688.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Estacada (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Red orb over Clackamas County, OregonI was lying in my bed trying to go to sleep. It was around 11:00 PM. I repositioned my body to face the window. I was having trouble sleeping so I got out of bed to close the window because the coyotes were outside howling. As I closed the window I looked outside and saw a solid red orb shaped object coming from the west. It was moving very fast. I am pretty sure that the object I saw was the one that was seen in Port Orchard, Washington. It came from the west and kept going east. It was not blinking or leaving a trail. It made no sound that I heard. It was much lower in elevation than the picture that was taken in port orchard. It stayed in my sight for about 5-8 seconds.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55807.html](http://www.nuforc.org/webreports/reports/055/S55807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
