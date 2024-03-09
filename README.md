@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aliquippa (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  68</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154696.html](http://www.nuforc.org/webreports/reports/154/S154696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Sound only, mechanical/celestial in nature, consistent, indoors.Not a sighting.  Only sound.  Inside home - slider door open, house backs up to wetland/forest.  Sound volume was between a conversational voice volume and a whisper.  It was 'machine-like' but undulated.  It was extremely rhythmic and consistent in volume.  It started close and very slowly moved from bedroom to hall and to living area and down stairs to daylight basement (with no obvious exit) until it finally disappeared.  No possible chance of 'dreaming' - I was sitting up and fully awake but dared not make a sound.  'Height' of sound off the floor stayed consistent.  Sound did vary at one point as it moved away.  It was not seen.  There was no change in odor or temperature.  It sounds stereo-typically like an alien humming that you might see in a movie.  There was no light emitted.   The sound implied a size like a bowling ball.  It made no noise on the hard wood floors as it moved away.  It could be distinctly heard for more than 5 minutes.  It moved very slowly.  Nothing like this has been heard by me ever before.  Weather outside is a dense fog.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We wonder whether the date is correct, but we have no way of contacting the source of the report to confirm.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133051.html](http://www.nuforc.org/webreports/reports/133/S133051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
