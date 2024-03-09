@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Belleville (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>I have reported 3 other sightings (3/4/01, 3/5/01 and 3/6/01) and during 3/7/01 and 3/8/01 there were clouds in the sky and we didn't see anything like what we had seen previously.  The object was again west to northwest and stood out with bright colors of blue, orange, red and white.  The object moved very little, had a circular white thing with orange and bluish flames on the right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16777.html](http://www.nuforc.org/webreports/reports/016/S16777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Warthen (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I am reporting another eyewitness account of the strange craft in Washington County on March 9, 2004.I filed a report on last week.  I recently revealed my sighting to a neigbor and he reported seeing the same thing around the same time period.  He states that the craft acted as if it was going to cross the road and did not.  Instead it increased its altitude from just above the tree line to an increase of about 2000 feet in a blink of an eye.  He also said that one of the lights had streaks coming from it, and with in minutes they all disappeared and the sky became darker in a matter of seconds.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36841.html](http://www.nuforc.org/webreports/reports/036/S36841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
