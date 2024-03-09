@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 8 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Everett/Snohomish (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three lights were HOVERING closely or together over Everett/Snohomish flatlands in early AM, as seen from I-5.I was driving southbound I-5 off of Broadway Exit in Everett, WA, at approx 3:00 am on Saturday, 3/8/14, when I saw were 3 lights hovering over the flatlands of Snohomish.  These lights did not move, nor did they change color or shape.  They were in a triangular setup, with one light and two others directly below.  I am not sure if they were connected, or just very close together.  They just hovered there,  a hundred feet or so off the ground.  I could see them the entire time I passed them on the freeway.  There were other cars travelling on the road as well, hence the multiple witness question.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107899.html](http://www.nuforc.org/webreports/reports/107/S107899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw 7 to 9 gold rectangular objects all identical moving in the same direction for about 12 to 15 seconds in the night sky.I was outside observing the night sky with a telescope from my deck. It was a clear night with plenty of stars. I spent some time focusing on different parts of the sky. At about 9:15 pm I put the telescope away, went back outside and I saw what appeared to be 7 to 9 rectangular gold objects, all traveling north in a formation like birds might do, but in one diagonal line.  These objects were below the clouds and appeared to be very large in size.  From where I was standing, I could cover one of them with my thumbnail.  It appeared that the objects were equal size and distance from each other, perfectly parallel. These objects were identical: gold and almost transparent in color, and they seemed to be speckled and have a rough texture. There was a constant light coming from each of them, like a glow or illumination.  The objects were illuminated but there were no singular lights on the objects. I did not hear any noise or sound coming from the objects in the sk! y like you might hear from a plane, jet, or helicopter.  I watched these objects move until they were out of sight, about 12 to 15 seconds.  I have not been able to explain what I have seen as it is nothing like I have experienced before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96709.html](http://www.nuforc.org/webreports/reports/096/S96709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
