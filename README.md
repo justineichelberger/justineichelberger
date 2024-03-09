@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:18:51 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw 7 to 9 gold rectangular objects all identical moving in the same direction for about 12 to 15 seconds in the night sky.I was outside observing the night sky with a telescope from my deck. It was a clear night with plenty of stars. I spent some time focusing on different parts of the sky. At about 9:15 pm I put the telescope away, went back outside and I saw what appeared to be 7 to 9 rectangular gold objects, all traveling north in a formation like birds might do, but in one diagonal line.  These objects were below the clouds and appeared to be very large in size.  From where I was standing, I could cover one of them with my thumbnail.  It appeared that the objects were equal size and distance from each other, perfectly parallel. These objects were identical: gold and almost transparent in color, and they seemed to be speckled and have a rough texture. There was a constant light coming from each of them, like a glow or illumination.  The objects were illuminated but there were no singular lights on the objects. I did not hear any noise or sound coming from the objects in the sk! y like you might hear from a plane, jet, or helicopter.  I watched these objects move until they were out of sight, about 12 to 15 seconds.  I have not been able to explain what I have seen as it is nothing like I have experienced before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96709.html](http://www.nuforc.org/webreports/reports/096/S96709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Graham (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately Still going on - Still going on minutes.</sub><blockquote><sub>My husband and I are watching a yellow gold light above a cell tower in our local vicinity. We've been watching it for 10 minutes so far.  The light appears to be dancing up and down, left and right.  The night sky out here is very dark; we are at least 5 miles from town.  It's hard to see, but there appears to be a black triangular shape around the light.  Again, this is difficult to completely discern because the night sky is so black.This is not the first time we've seen the dancing yellow light.  We've seen it on at least 2 occasions before, always between the hours of 1:30 and 4:00 am.  The first sighting was in January 2016.  This sighting will be the third in 3 months.The light has now been there for about half an hour.  There's no sound and the general position has not changed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126279.html](http://www.nuforc.org/webreports/reports/126/S126279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
