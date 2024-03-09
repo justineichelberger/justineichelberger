@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:18:51 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:03:21 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Graham (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately Still going on - Still going on minutes.</sub><blockquote><sub>My husband and I are watching a yellow gold light above a cell tower in our local vicinity. We've been watching it for 10 minutes so far.  The light appears to be dancing up and down, left and right.  The night sky out here is very dark; we are at least 5 miles from town.  It's hard to see, but there appears to be a black triangular shape around the light.  Again, this is difficult to completely discern because the night sky is so black.This is not the first time we've seen the dancing yellow light.  We've seen it on at least 2 occasions before, always between the hours of 1:30 and 4:00 am.  The first sighting was in January 2016.  This sighting will be the third in 3 months.The light has now been there for about half an hour.  There's no sound and the general position has not changed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126279.html](http://www.nuforc.org/webreports/reports/126/S126279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Dark dome shaped object over house.March 11, 2015 2035 pm Florence, Or 97439     We had just arrived home and were getting out of the vehicle when we spotted an object overhead.It was 40 degrees overhead moving on a south to north steady path.  Altitude was approximately 100-200' above us and it was the size of 4 full moons.The object was black in color, dome shaped on top with a flat bottom.  The dome area had what appeared to be louvers evenly spaced throughout and an antenna with a very bright white light at the top.The object made no noise and the light from the antenna left a small trail as it moved.We watched it for about 10 seconds and it dropped over the tree line out of sight.((NUFORC Note:  We have spoken via telephone with the source of the report, and she seemed to us to be quite serious- and sober-minded.  We suspect that she and her grandson are quite reliable witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117716.html](http://www.nuforc.org/webreports/reports/117/S117716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
