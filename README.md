@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>3/9/ 13  0:00  Columbus, OH  Sphere  7 minutes  Orange   Silent    Slow - almost hoveringA bright orange sphere which moved very slowly, almost hovering.   At first I thought it might be a helicopter, but it was silent and much larger than any orange lighting device. At one point it seemed to become a little larger and much brighter for about 3 or 4 seconds.   It eventually very slowly sort of floated out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97095.html](http://www.nuforc.org/webreports/reports/097/S97095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Burnaby (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Never seen befor.. A Solid Black Craft.....On the 9th of March, 1995, around 3 PM, I was sitting in the kitchen of my home drinking coffee and savouring the impressive view of the north shore mountains that border the city of Vancouver.Suddenly my attention was drawn to a triangular formation of three dark objects slowly approaching from a valley in the distance. Taking somewhere between 5 - 10 minutes to approach my location. As they did, two of the objects moved away to the east along the mountain range, the third coming to a halt almost directly in front of where I had now relocated myself on the verandah.I rememberd a camera in the house that had a telephoto lens so I ran in and got it and proceeded to note further details through the lens. In the clear blue sky the black craft had 2 distinct "bumps" on the upper surface, and though apparently stationary, was clearly rotating.It was so black no shadows on the craft at all. Not only was I awestruck , but also scared, though not quite sure why. At this point the UFO appeared to be the size of a dollar coin (Loony) held at arm's length. At no time during the lengthy observation did the craft reflect light from the brilliant sunshine. It was later assumed that as the object was visually just below the height of the distant snowline, then its altitude could have been around 3000 feet or less. No accompanying sound was heard.Suddenly realizing additional witnesses were close by, I called out to them and I was joined by 5 others. This group watched the craft through binoculars. It wasn't until the object began to move away to the west did I realize that the camera was not empty and had only 1 picture to take left on it!! Trying to time a profile shot befor it got too far ..being unaware that all three UFOs were within the view finder I snapped a shot of it and when I got the photo back I could see all 3 in the shot.The total observation of this sighting was approximately 45 minutes..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64608.html](http://www.nuforc.org/webreports/reports/064/S64608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
