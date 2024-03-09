@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>A silvery oval-shaped object was seen shadowing two jetliners, suddenly changing directions, and flying in other parts of the sky south of Fort Smith, Arkansas.Looking towards the horizon to the south-southwest, an oval, silvery object was seen by both of us as we walked along the sidewalk.  The object was flying parallel to a jetliner in a southerly direction for a few minutes, then abruptly turned west and disappeared.  About five minutes later the object was again seen in the same general area of the southern sky, flying by itself towards the south.  The object then shadowed a jetliner that was flying from the east to the southwest, at first keeping a parallel path and then slowly veering west until it disappeared entirely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12292.html](http://www.nuforc.org/webreports/reports/012/S12292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lancaster (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fast moving orange orbs 400 feet in the sky.lancaster, freeway  redish orange orbs that was on one ship about 400 feet in the air. it cruised horizontally across the freeway we was on then came to a sudden stop, physically impossible for modern aircrafts.  after its standstill it then shot off and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96597.html](http://www.nuforc.org/webreports/reports/096/S96597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
