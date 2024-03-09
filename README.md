@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hillsville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A bright cigar shaped UFO seen over Huntsville, NC, USAMy girlfriend and I were driving down from Pittsburgh, PA, to Myrtle Beach, Florida, for a quick detour on our way to Daytona Beach, Fla.  It was dsl out and there only a few clouds in the sky that were observed.  On route I-74 East, approximitely 20 miles south of Hillsville, NC she observed a strange bright cylinder/cigar shaped light west of the interstate.  She woke me up and pointed it out to me.  We both observed the object together as being stationary.  The time of occurance was 6 am. The object was approximately 200 feet off of the ground (seen from a distance of roughly 2 miles away).  We observed the UFO for about 5 minutes and we both saw the object disappear as if someone had turned off a light.  We did not see the UFO again.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107747.html](http://www.nuforc.org/webreports/reports/107/S107747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Detroit Lakes (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>When looking at sirus as it was the brightest star in the sky, I noticed one after another, a hand span behind each other in a staight line.  My friend from Brainerd called me and was seeing the same thing many miles away.  Another friend saw it at the same time in Indiana! A literal ring around the mid west!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153945.html](http://www.nuforc.org/webreports/reports/153/S153945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
