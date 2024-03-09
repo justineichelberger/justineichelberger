@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Warthen (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I am reporting another eyewitness account of the strange craft in Washington County on March 9, 2004.I filed a report on last week.  I recently revealed my sighting to a neigbor and he reported seeing the same thing around the same time period.  He states that the craft acted as if it was going to cross the road and did not.  Instead it increased its altitude from just above the tree line to an increase of about 2000 feet in a blink of an eye.  He also said that one of the lights had streaks coming from it, and with in minutes they all disappeared and the sky became darker in a matter of seconds.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36841.html](http://www.nuforc.org/webreports/reports/036/S36841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Coto de Caza (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Quick orangish flash, less then a second in duration but repetitive.Towards the southern (Dana point) sky from my perspective.  I have  seen this flash before. It is only one quick bright orangish flash.  Less then a second long but apparently repetitive.  Saw it three times tonight in the same  spot in about 3-4 minute intervals.  On several occasions now I have seen this while in my jacuzzi.  I would describe this as  seeing mars but  only in one quick  repetitive flashes.  The  first flash was at dusk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107765.html](http://www.nuforc.org/webreports/reports/107/S107765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
