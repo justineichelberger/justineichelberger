@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:41 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sugar Grove (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Green light in skyWas looking out my window and saw a green light hovering in the sky.  It then managed to drop, go up extremely high and fast, go left and right, then just disappeared. Police then came down all the streets afterwards.  It looked like it dropped pretty low to the ground at one point too.((NUFORC Note:  We assume an evening sighting, and have changed the time above to reflect that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107797.html](http://www.nuforc.org/webreports/reports/107/S107797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hong Kong (China) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ufo seen in hong kong victoria Peak  , 24 witnesses seen sphere shape with low hum , and bright light over head .Me and my friends went out to the peak to look at the famous night view of hong Kong , We came in three days ago , We walked with our flash lights , suddenly a bright light and a low hum suddenly appeared , It blinded us . We were so scared that we dropped our flash lights and ran . The object followed us overhead , suddenly when we looked back the object was fading into the darkness then suddely gone .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35520.html](http://www.nuforc.org/webreports/reports/035/S35520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
