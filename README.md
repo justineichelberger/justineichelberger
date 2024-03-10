@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Orange Sphere Travels From East to WestBright orange sphere traveled from east to west approximately 300 ft off the ground.  Object floated silently overhead at a constant rate of speed, maybe accelerating slightly.  Considered it may be a drone, but it was extremely silent.  Consulted a friend that is a drone enthusiast and they stated that "orange" is not a common color for drone illumination.  They contacted other drone enthusiasts to see if any of them knew of/had an orange illuminated drone. No one had orange lights or knew of anyone with orange lights on their drones.  I had seen the exact same object a year ago hovering over 410 and NW Military Hwy about 150-200 ft off the ground.  There were 2 of them at that time, and both orange, but exactly the same as this recent sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139156.html](http://www.nuforc.org/webreports/reports/139/S139156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sheboygan (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Light formationSmall circles of light, flying in formation, high up in the sky.From a west to east direction, they faded one at a time, as they proceeded further east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154249.html](http://www.nuforc.org/webreports/reports/154/S154249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
