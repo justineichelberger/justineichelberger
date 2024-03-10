@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Los Altos (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Greenish glowing craft flies over Peninsula Bayland/Palo Alto areaSighting occurred at 01:45 on 3/10/03 I was awake and looking out the bedroom window with an unobstructed view of the night sky towards the NE. Suddenly, there appeared this strange craft, (I swear it had the appearance of  NCG-1701 'Star Trek'). I say suddenly because 'poof' - there it was where there had just been empty night sky. The ship's forward area (the round construction) was glowing a fuzzy lime green, while the rest of the ship seemed dark - that is, no lights were noticed on the periphery. I would estimate that the size of this thing was very large, in that if  I held my hand at arm's length, the object would almost have filled in the space of 4 fingers (thumb tucked). Unfortunately, the sighting lasted for less than 5 seconds because it just as suddenly disappeared -- 'poof'-- again.The craft flew in a northerly direction (direction San Francisco) extremely fast, faster than a normal jet on approach to SFO. I would estimate that this craft was approximately 6-8 miles away, and flying between 3,000 to 5,000 feet over the baylands or Bay. I have a good feel for this as we live on the flight path into SFO, on what the controllers call the "Peninsula" approach. That is, jets are vectored over the Peninsula from the SW, flying over Palo Alto at between 3K-5K feet. However, after 11:00 pm, jets usually vector out over the Bay, staying away from the Peninsula area.  (See http://www.uproar.org/cached/SFChron.8.6.98.html for the whole article.) I thought later that the green I saw on the craft might have been regular starboard/port side lights, but that made no sense as the side that was facing me was the left of the craft (I assume) and therefore the light should have been red. But in any case, the fuzzy greenish light enveloped the whole front section of the craft's construction - the round part.Career wise, I am a professional secretary and hobby wise, a percussionist. I am trained to observe and memorize details. I hope that other people on the Peninsula saw this brief passing of the strange greenish glowing craft and will report it as well. No need to contact me. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28054.html](http://www.nuforc.org/webreports/reports/028/S28054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ipswich (Suffolk; UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>The object seem to move with glowing white not a plane moves faster been there for ova a hour.White glow with dark wings.((NUFORC Note:  We have amended the date, in order to reflect a sighting during the month of March, not April, 2016, as the witness indicated in the original report.  PD))((ADDENDA FROM THE SOURCE OF THE REPORT))#1--Don't know what to write to explain not good with words say it how it was #2--Not sure myself me and my partner had spotted it when we returned home and it just seemed to stay there been for a shower and came back object has gone sorry to bother you ((END ADDENDA))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126298.html](http://www.nuforc.org/webreports/reports/126/S126298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
