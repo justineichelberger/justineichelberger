@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:53 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hendersonville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Huge V shaped object seen in Hendersonville TNI went out side to see how much the temp had dropped when I noticed how clear the sky was and how bright the moon was and while I was looking straight up I noticed a v shaped object coming toward me and very high in the sky but it was huge and looked like a formation of geese maybe 10 to twelve objects flying in formation but it was way to big and high and moving very fast with no sound or lights, the color looked off white or grey. As I watched it fly over and head away from me all the objects took off in separate directions really fast and really far away from each other only to instantly come back together in a v shape and fly away until I could no longer see it.  This thing or things were big Im thinking at least 200 yards of length on both sided of the V.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107766.html](http://www.nuforc.org/webreports/reports/107/S107766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des Moines (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four lights in the sky.I was driving south on 405 with my friend, where I noticed lights in the sky, flashing at the right side of my front windshield at about 7:15 pm.  First, I thought it was reflection of the headlights of the cars that was following me.  But suddenly this object moved to the left side of my car and started flying at the same speed with me.  Now I and my friend saw it clearly. There were four lights of blue colour, egg form (colour could have changed because of the clouds) that moved quickly towards center where they met and then separated evenly in opposite directions.  My friend said it was projector but I said it couldn't have crossed freeway.  After I dropped off my friend I got to my home.  I spent there about 20 minutes and  drove to meet with friends in Bellevue.  Google layed route through interstate 5 where I've met these lights again.  I don't believe in coincidence and I also do not want to think it was helicopter chasing me with some kind of unusual projectors.  The lights did not even touch the ground and did not have beams.  I understood that this object was possibly changing it's altitude because the lights changed it's size.  Second time I saw it, it was about 8:00 pm.  It all happened on 03/10/2017.  Finally after I got home at about 11 pm and parked the car.  I've seen the reflection of the lights on the house I live in.((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be quite serious and sober-minded.  He added that he now believes that the reflection of lights on the house were due to headlights of vehicles on a nearby roadway, and that they did not have anything to do with his sighting, earlier in the evening.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133071.html](http://www.nuforc.org/webreports/reports/133/S133071.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
