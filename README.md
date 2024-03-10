@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:48 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ainsworth (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>TRIANGLE CRAFT SEEN AGAIN IN AINSWORTH!I was getting ready for work shortly before 4am when i felt as if the house was vibrating.  I instinctively looked out the south window because that is area ive seen strange lights & objects in the sky before.  I seen a single triangle shaped craft approximately 350yrds from my home slowly rising up from the field.  The redish yellow lights were slowly flashing.  I asked my wife to come witness this & she made the comment of having a harsh metal taste in her mouth.  My two dogs were acting very franrtic & scratching  at the front  door.  As the craft lifted slowly into the sky the house was pulsating or vibrating.The craft lifted to approximately 500ft. the lights on the craft went dark & with a slight boom sound it was gone.  I assume it went in the direction the craft was pointing in which was south.  I have reported this activity twice before to this web site with no results.  Should i lie & say i seen little green people running around in my yard so it sounds more believable ?  Sorry if the truth is boring & i will not doctor it up to make it more appealing !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107780.html](http://www.nuforc.org/webreports/reports/107/S107780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wentzville (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three orange fireballs in Wentzville, MO.I was driving home, it was a very clear dark night.  I first saw one orange light hovering & thought it was a helicopter.  Then I saw two more.  One dissappeared behind some trees, one seemed to go stright up until it was gone & the third one stayed a couple of more minutes before it just fanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87601.html](http://www.nuforc.org/webreports/reports/087/S87601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
