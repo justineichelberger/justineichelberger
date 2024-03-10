@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 9 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in China Spring (or surrounding communities) (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Ships form Triangle in DaylightObjects formed a Triangle and then Disapeared. At first there was to be a sound like an Airplane in the sky, looked around and found 5 ships in a line then stop in mid-air and form a Triangle</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49501.html](http://www.nuforc.org/webreports/reports/049/S49501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hendersonville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Huge V shaped object seen in Hendersonville TNI went out side to see how much the temp had dropped when I noticed how clear the sky was and how bright the moon was and while I was looking straight up I noticed a v shaped object coming toward me and very high in the sky but it was huge and looked like a formation of geese maybe 10 to twelve objects flying in formation but it was way to big and high and moving very fast with no sound or lights, the color looked off white or grey. As I watched it fly over and head away from me all the objects took off in separate directions really fast and really far away from each other only to instantly come back together in a v shape and fly away until I could no longer see it.  This thing or things were big Im thinking at least 200 yards of length on both sided of the V.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107766.html](http://www.nuforc.org/webreports/reports/107/S107766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
