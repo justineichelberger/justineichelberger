@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Plain Dealing (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Extremely bright light stationary in the west.  Would dim then brighten. We were standing at front door watching it.  Looked almost like a cell tower light but much brighter.  Could see other air craft flying in near vicinity of this but not chasing or approaching it.  I shut the door for a few minutes and reopened it and it was gone and a few minutes later it reappeared.  It finally disappeared, didn’t fly away where you could follow it, just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154128.html](http://www.nuforc.org/webreports/reports/154/S154128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately hours. - hours. minutes.</sub><blockquote><sub>Round ball of flashing lights for three nights, then vanished as I was looking at the light, returned with a beam of light.I was outside on our deck three nights ago when I first noticed the lights.It was a round sort of ball of flashing lights.  I asked my friends if they were seeing it as well, and they were.  The lights stayed in one spot for three nights now, and didn't move at all.  At first I assumed it was a satellite, but tonight as I was looking directly at them, they just vanished WAIT, they were gone for maybe ten minutes as i started writing this, but now they're back in the exact same spot as before but there's a light shining down from the bottom of it.  A beam of light if you will. I have cold chills telling that actually.  The lights just vanished.  They flashed from a red to white to sometimes green. The red was very dominant though.  I sat outside and looked up at it for like I said three nights without them moving one time.  The lights were coming from over a hill so I also ruled that it was a cell tower maybe, but after I tought about that I realized that there was no cell towers of any kind in that direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74649.html](http://www.nuforc.org/webreports/reports/074/S74649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
