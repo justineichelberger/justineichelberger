@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:48 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Dayton Ohio Area Pale Orange/White Circular Light in Night Sky.I was finishing a walk of the block with my dog and was thinking about walking her a bit farther down a street running to the south so turned to look down that street and noticed the light from what I assumed was a plane flying high above treetop level to the south. Living in one of the flight paths sometimes used by the Dayton International Airport, I didn't think much of it until I realized (as I waited for my dog to finish sniffing the ground) it didn't appear to be moving either horizontally or any closer or farther away.  I watched the light and there was only a solid, steady pale orange glow -- the blinking lights I anticipated would appear never did.  Maybe most noticeable was the total absence of sound that always accompanies the aircraft I see at this approximate distance.  I did see a flight cross in the distance from west to east, its lights appearing smaller indicating it was probably either smaller or farther away than whatever it was I had noticed! which remained stationary as the aircraft passed behind it to the south; the aircraft was easily identifiable by the blinking of its lights.  The brightness of this light varied just slightly in intensity, getting a bit brighter or growing more dim for a few seconds.  The color remained the same.  It never seemed to move, but I glanced down at my dog for a second, looked up, and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145057.html](http://www.nuforc.org/webreports/reports/145/S145057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ainsworth (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>TRIANGLE CRAFT SEEN AGAIN IN AINSWORTH!I was getting ready for work shortly before 4am when i felt as if the house was vibrating.  I instinctively looked out the south window because that is area ive seen strange lights & objects in the sky before.  I seen a single triangle shaped craft approximately 350yrds from my home slowly rising up from the field.  The redish yellow lights were slowly flashing.  I asked my wife to come witness this & she made the comment of having a harsh metal taste in her mouth.  My two dogs were acting very franrtic & scratching  at the front  door.  As the craft lifted slowly into the sky the house was pulsating or vibrating.The craft lifted to approximately 500ft. the lights on the craft went dark & with a slight boom sound it was gone.  I assume it went in the direction the craft was pointing in which was south.  I have reported this activity twice before to this web site with no results.  Should i lie & say i seen little green people running around in my yard so it sounds more believable ?  Sorry if the truth is boring & i will not doctor it up to make it more appealing !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107780.html](http://www.nuforc.org/webreports/reports/107/S107780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
