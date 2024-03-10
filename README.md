@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 78</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154693.html](http://www.nuforc.org/webreports/reports/154/S154693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>March 97 0r 98   4-5 seconds    Alexandria, VA  Chevron shaped  and huge glide overhead then suddenly  go out of sight...It was night I was getting out of my car to go in my house and I looked up and saw this giant thing in the sky.  It was shaped like a > It had almost square plates spaced out evenly on the giant V.  I saw about 7 of them, one was on the point or say the vertex of the V.  It was flat and it was silent and swift. It was like it came into the range of sight and went right out or the lights were suddenly turned off.  It was so big that if I put my arms up into a wide V that was how much space it took up in the sky when you looked up at it.  Like when you see a plane you can put your thumb and finger next to each other about 1/3 of an inch and that's how it seems to be from where you are standing. It was silent and it just glided by so fast and went out of sight. Now my son was with me and he didn't see it, he only saw me run.  I ran to the back of our townhouse building, from front to back and on the side of the building was a young couple and they were kissing and the young man saw it, I'd guess he was around 18 and I said "What was that?!" and he said "I don't know did you see it, too.?" and I said "I sure did." and we didn't know what it was.  It was the most fascinating thing I've ever seen in the sky.  I wish I would have talked to him more about it and found out his name and where he lived.  I kept waiting to hear something about it on the news but I never did.  A week or two later I was watching TV and this UFO show came on (I forgot the name of it) and they said that in the desert they had spotted something in the sky that was similar to what I saw and it was supposedely a big sighting they had found.  One more thing about the squares they weren't really shiny but they silverish and luminescent.  I never reported this, but I did tell a few people about it through the 6 0 7 years since I've seen it.  I don't discount UFO's, I'm also not a person who studies them.  I wish I could find somebody who is interested in this story and may have also seen the same thing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35913.html](http://www.nuforc.org/webreports/reports/035/S35913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
