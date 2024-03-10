@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Great Yarmouth (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disc/Saucer shaped object seen in early morning night sky over Great  Yarmouth, EnglandI saw one small disc or saucer shaped object which was moving fast but smoothly through the sky early in the morning at 3am. It seemed to glow with one light that was bright and lit up the disc/saucer. I observed it for about 30 seconds and then it went out off with a terrific burst of speed.  Now we have RAF and USAF bases here in Norfolk, England but nothing that is disc shaped or with one light that does not flash but is constant and does not look like any known aircraft.((NUFORC Note:  Date may be approximate, although witness does not indicate that fact.  Witness is affiliated with a local church.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39697.html](http://www.nuforc.org/webreports/reports/039/S39697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garrett (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>An elongated star with mutiple colors and a tail of lights.  Blue, then red/orangish tint. Many witnesses and photographic evidence.Had a tail of lights, hovered for at least 2 hours, began moving back and forth.  Red and Blue colors.  From certain angles looked like it was flashing.  Was seen in the south eastern portion of the sky.   U.S. Air Force had been in Eastern Kentucky for unexplained reasons and is still here currently. "Elongated star with multicolored lights with a tail of lights, red and blue." "Moves and returns to exact location."  "Seems to have a blue, then red/orange tint to it."  There is photographic evidence and many witnesses.  Only seen in Garrett and surrounding area.  Television in Garrett went out for many hours, and came back in just a few minutes before this was spotted.  Will be checking again tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107772.html](http://www.nuforc.org/webreports/reports/107/S107772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
