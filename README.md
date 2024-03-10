@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a silver cigar in a clear blue sky over Marietta, GA.My husband and I were driving north on Johnson Ferry Road at about 2:20 in the afternoon. I was on the passenger side and looked east out the window into the clear blue spring sky. Due east, at about 45 degrees, I saw what looked like a silver airplane with no wings (just a silver tube). The sky around it shimmered in kind of a circular pattern. It didn't seem to be moving at all, and there was no sound. After watching a couple of minutes, I wondered why I couldn't see the wings. I'm slightly nearsighted (20/40) so I put on my glasses to see it better. It looked the same - still no wings. I watched about another 30 seconds or so; then it disappeared as I watched. It didn't get smaller like it was going away, nor did it go behind a cloud. It just kind of clicked off. I told my husband that I think I just saw a UFO. We got home about 5 minutes later. After a couple of minutes, I heard military jets overhead. I don't know if the two events were connected. (Don't know if they scrambled to chase or if the jets were coincidentally there a couple minutes later.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35507.html](http://www.nuforc.org/webreports/reports/035/S35507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Great Yarmouth (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disc/Saucer shaped object seen in early morning night sky over Great  Yarmouth, EnglandI saw one small disc or saucer shaped object which was moving fast but smoothly through the sky early in the morning at 3am. It seemed to glow with one light that was bright and lit up the disc/saucer. I observed it for about 30 seconds and then it went out off with a terrific burst of speed.  Now we have RAF and USAF bases here in Norfolk, England but nothing that is disc shaped or with one light that does not flash but is constant and does not look like any known aircraft.((NUFORC Note:  Date may be approximate, although witness does not indicate that fact.  Witness is affiliated with a local church.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39697.html](http://www.nuforc.org/webreports/reports/039/S39697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
