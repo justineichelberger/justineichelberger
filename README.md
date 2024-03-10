@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw a hub-cab-shaped disc at 2AM 10 Mar 2012, hovering over corner of 4th Ave & 27th St in Yuma, AZCannot remember exact date; it was either March 9 or March 10 of 2012, but I am posting this now just to record it somewhere, as I've only just found out about this site.I woke up at approximately 2:00 AM (unsure of the exact time) and got out of bed to get a drink of water.  While in my kitchen I saw a flash of light through the curtains and it startled me. I went to open the door to look outside and saw storm-clouds rolling by overhead, so I figured the flash must have been from lightning.  As I shut the door, I saw a bright flash light up the window again, but this time it was sustained for a few seconds, much like car headlights in the window (which was impossible because window isn't facing a road or any cars) but a lot more brilliant.  I reached for the door and went outside, walked to the front of the building where I lived and looked out up the street to the main thoroughfare (4th avenue). At the corner of 4th and and 27th street, just above a restaurant that is there, a hub-cap shaped object hovered roughly 40-45 feet above the street.  It was silver in color, had some small lights on the edge of it and on the top, ranging from red, green and white.  I'd estimate the disc itself approximately 75 feet in diameter.  Underneath it looked like a series of pulsing lightning bolts firing inward to a central point, similar to spokes on a bicycle tire.  The "lightning bolts" were an odd color, like the blue of a gas flame.  There was a misty blue "aura" on the underside of the object as well.  Object was quiet and I don't recall hearing any sound with it, but I felt a strong sense of static in the air.I don't know why, but I only watched the object for a few seconds, then I turned around,  went back to my apartment and went back to bed.  For some reason I have a dream-like partial memory of seeing the same object hovering over my apartment building, blotting out a portion of the cloudy night sky.  I wrote the details of the sighting down in my diary the next morning.  There were no other witnesses (to my knowledge) and I haven't mentioned this to anyone until now.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100201.html](http://www.nuforc.org/webreports/reports/100/S100201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 78</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154693.html](http://www.nuforc.org/webreports/reports/154/S154693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
