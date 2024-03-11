@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:28 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:59 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Davie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Yellow/green just hovering over neighbor's House.  Plane is approaching from the west And it just took off south at lighting speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145052.html](http://www.nuforc.org/webreports/reports/145/S145052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Random sighting over W. Los Angeles at midnightAt midnight precisely I witnessed what I initially believed to be a shooting star based off of the high trajectory and brightness.  I quickly realized the shiny, silver tear drop shape was in fact descending at a rapid rate over West Los Angeles.  I witnessed this event over the course of approximately 4-7 seconds on a balcony with a view of town standing beside my dog and when the object got within eye-sight after descending quickly I lost it or if you prefer, it vanished for lack of better explanation.  I wish this was a hoax, but it isn't and I'm just hoping it's a classic 'downed weather balloon'.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80428.html](http://www.nuforc.org/webreports/reports/080/S80428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
