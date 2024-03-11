@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:52 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Havre (MT) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 Bright yellow lights and 2 small red onesMultiple sightings over appoximately 30 minutes  On March 11th 2010 around 7:30pm My boyfriend and I were walking up the steps to my cousin's house when he noticed something in the sky. When I looked up I saw one big bright light with multiple smaller lights surrounding it (they all were the color yellowish orange, resembles a street light), a couple of seconds later the vanished. There was no sounds coming for the lights. We went inside got my cousin and decided to head out of town to see if we could find anything else. 7:48pm- When heading out of town I look out my window and notice another bright big light and a smaller one shot out of it. I informed everyone then a hill blocked our veiw. After we pasted the hill the lights were gone. 7:53pm- We pull over the car appoximately 10-15 miles out of town, and notice 3 bright lights. They were there for about 3 seconds and faded out quickly. 7:58pm- Noticed small red lights flying around then seconds afterwards 3 lights appear above town east from us.  They all appeared at different times, all same color shape and size. Two of the were right above the town and the third one was further away.  Then about 3 seconds after they all appeared the faded out at different times.  They did this 3-4 times before all dissappeared. Once again we see small red lights, but this time they were heading south west.  They stayed the same distance apart the whole time they were in view.  We had the windows rolled down and didn't hear any noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74632.html](http://www.nuforc.org/webreports/reports/074/S74632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145172.html](http://www.nuforc.org/webreports/reports/145/S145172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
