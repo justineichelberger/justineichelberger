@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:51 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portchester (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>NO SOUND JUST A RED TRIAGLE OBJECT  I LIVE BY  THE LONG ISLAND SOUND AND ABOUT 9:10 OCLOCK SUNDAY MARCH 11TH I SAW A RED TRIANGLE COMING FROM THE WATER PASSING BY ME, THERE WAS NO SOUND WENT OVER MY HOUSE THAN DISSAPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55701.html](http://www.nuforc.org/webreports/reports/055/S55701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Citrus Heights (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange in color, seem to be spinning very fast, and moving at a great deal of speed, and height. We have seen this before in January 2000.We know they were not stars, or planets due to how fast they moved across the sky, and how orange they were, and our friends from the Sunrise Mall in Cirtus Heights, also witness the same account. Thank you for your time, please let us know if this was the Air force, we have seen this before, but they stood still and lasted ten minutes and then one by one disappeared. T hank you.  ..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12242.html](http://www.nuforc.org/webreports/reports/012/S12242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
