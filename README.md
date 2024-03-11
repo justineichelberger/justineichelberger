@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:28 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in ATH () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>VERY large Chevron shaped craft, low to ground, no noise, no lights.  Visual contact for 30 seconds.Standing on our back porch I noticed that some of the stars were consistently disappearing and then reappearing.  Focusing our eyes we could see that the reason was because of a large flying object. Slowly moving north to south .  The flying object was low to the ground. My husband has a large amount of experience with planes.  He said that it was flying steady at about 2000 feet.  I extended my arm to the sky stretching my thumb and pinky finger out until I could fit the unusually large object in between the empty space.  There was about 6 inches of space between thumb and pinky.  Approximately 30 seconds had gone by and the large object disappeared into the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88187.html](http://www.nuforc.org/webreports/reports/088/S88187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Davie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Yellow/green just hovering over neighbor's House.  Plane is approaching from the west And it just took off south at lighting speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145052.html](http://www.nuforc.org/webreports/reports/145/S145052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
