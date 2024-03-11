@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Citrus Heights (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange in color, seem to be spinning very fast, and moving at a great deal of speed, and height. We have seen this before in January 2000.We know they were not stars, or planets due to how fast they moved across the sky, and how orange they were, and our friends from the Sunrise Mall in Cirtus Heights, also witness the same account. Thank you for your time, please let us know if this was the Air force, we have seen this before, but they stood still and lasted ten minutes and then one by one disappeared. T hank you.  ..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12242.html](http://www.nuforc.org/webreports/reports/012/S12242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed 10-12 metallic spheres, flying in formation, during daylight flying from Santa Cruz Mtns toward Monterey Bay.I was outside in my back yard talking on the phone to my daughter who said my 4 yr old granddaughter wanted to talk to me.  I heard a low roaring sound like a jet and instinctly looked up toward the east for the plane, while I listened to my granddaughter ramble.  I saw a metallic flash through the tree branches and thought "there's the plane".  But then, I saw several other metallic flashes and I stepped out into the open looking up.  There was a configuration of 10-12 metallic-type balls.  At first I thought they were balloons, but that didn't make sense.  Then I thought they must be birds which also made no sense.  The sky was clear blue but was surrounded by heavy clouds to the east over the Santa Cruz mountains.  I watched as they seem to "float" across the sky and I kept trying to figure out what they were.  There were no fins, appendages or moving parts.  They were perfectly spherical and silver.  Then I realized they were flying in a formation of several groups of three to four in each group.  The center group consisted of three.  They seemed perfectly spaced.  Suddenly, the left sphere in the lead group instantly "dipped" towards the lead sphere and then darted back into its previous location.  I watched them move from northeast to southwest heading towards the Monterey Bay.  I called the newspaper to find out if anyone else had reported seeing spheres in the sky flying in formation. They told me no.  I live approximately four blocks from West Cliff Drive in Santa Cruz City.  The weather had cleared, the sun had been shining for a couple of hours and so I know there had to be lots of people jogging, surfing and walking their dogs.  I can't believe I am the only one who witnessed this phenomena.  I talked to my husband, who has a Ph.d in quantum physics and chemistry.  He suggested balloons..maybe someone let a bunch of balloons go at the same time---but as I told him  "  Since when do balloons fly in formation?"  I used to work on the original F/A-18 program at Patuxent Naval Air Station.  I know a little something about aircraft.  These were no aircraft and were definitely metal or metallic.  They were so bright with the sun shining on them.  The only other observation I found weird was the silence.  The air was still, there were no birds singing, everything was just quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49591.html](http://www.nuforc.org/webreports/reports/049/S49591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
