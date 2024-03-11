@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 10 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ipswich (Suffolk; UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>The object seem to move with glowing white not a plane moves faster been there for ova a hour.White glow with dark wings.((NUFORC Note:  We have amended the date, in order to reflect a sighting during the month of March, not April, 2016, as the witness indicated in the original report.  PD))((ADDENDA FROM THE SOURCE OF THE REPORT))#1--Don't know what to write to explain not good with words say it how it was #2--Not sure myself me and my partner had spotted it when we returned home and it just seemed to stay there been for a shower and came back object has gone sorry to bother you ((END ADDENDA))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126298.html](http://www.nuforc.org/webreports/reports/126/S126298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in ATH () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>VERY large Chevron shaped craft, low to ground, no noise, no lights.  Visual contact for 30 seconds.Standing on our back porch I noticed that some of the stars were consistently disappearing and then reappearing.  Focusing our eyes we could see that the reason was because of a large flying object. Slowly moving north to south .  The flying object was low to the ground. My husband has a large amount of experience with planes.  He said that it was flying steady at about 2000 feet.  I extended my arm to the sky stretching my thumb and pinky finger out until I could fit the unusually large object in between the empty space.  There was about 6 inches of space between thumb and pinky.  Approximately 30 seconds had gone by and the large object disappeared into the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88187.html](http://www.nuforc.org/webreports/reports/088/S88187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
