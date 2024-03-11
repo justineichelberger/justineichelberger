@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Mother & two sons followed strange obj. "hanging in sky" for 20 min.  Obj. did not seem to move. Sons scared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00327.html](http://www.nuforc.org/webreports/reports/000/S00327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Loud Noise Along with UFO flashing lights aircraftApproximately 6:35 am Tuesday, March 11, 2014, I was in my room studying for a test while it was still dark out, with the sun just barely making the bottom of the horizon a lighter shade of blue.  Out of nowhere I heard an extremely loud humming noise coming from the sky unlike any noise I had heard before.  The noise was extremely loud and continuous and when I went outside I saw a dark aircraft with numerous blinking lights (many more than an airplane) flying over my house toward to Flatiron Mountains.  It was flying high enough that it eventually disappeared over the mountain, though it was pretty low to just go over the mountain top.  It came from the East and headed toward the West over the Flatiron Mountains.  I watched it pass over me for about a minute or so and the loud noise continued until it was no longer in sight and earshot. It was dark which made it hard to tell the shape but rather the many blinking lights on the craft were more distinguishable!  Eventually it disappeared over the mountains and the noise faded away along with the flashing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107819.html](http://www.nuforc.org/webreports/reports/107/S107819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
