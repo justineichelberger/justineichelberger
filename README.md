@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gold Bar (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two volunteer investigators from the Bigfoot Field Research Organization observed a glowing green/blue sphere hovering over a ridge that multiplied and reduced themselves and winked out and reappeared in another area.  Objects also were seen zipping around, and a white beam that came from one object was seemingly searching the vacinity.On March 11, 2000 at approximately 1945 My colleuge and myself were parked at a lake at the end of a logging road investigating an incident that had occurred in the area.  We sat with the lights out just listening and watching.  Suddenly at approx 2100 I saw a glowing object that was green/blue in color, as it hovered over a ridge. I also seen a spotlight type beam come from the center of the sphere that was seemingly searching the area.  later the object sank behind the trees, and I could see the object shining through the trees.  The object at certain times would wink out and reappear at another location.  The object also, would multiply & reduce back into one object.  After watching this light show for about 20-30 minutes we decided to vacate the area for fear of our safty.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12347.html](http://www.nuforc.org/webreports/reports/012/S12347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metallic cylinder with no lights hovering then moved rapidly West and up into clouds.A stationary cylinder shaped object was seen hovering just below cloud level.  It was metallic looking with no exterior lights.  At first I took it for a flock of birds, but then realized it was a single object of undetermined size.  It did not move for approximately 1 minute, it then moved rapidly laterally to the West and then rapidly up into the clouds in a motion impossible for any aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139143.html](http://www.nuforc.org/webreports/reports/139/S139143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
