@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 11 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metallic cylinder with no lights hovering then moved rapidly West and up into clouds.A stationary cylinder shaped object was seen hovering just below cloud level.  It was metallic looking with no exterior lights.  At first I took it for a flock of birds, but then realized it was a single object of undetermined size.  It did not move for approximately 1 minute, it then moved rapidly laterally to the West and then rapidly up into the clouds in a motion impossible for any aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139143.html](http://www.nuforc.org/webreports/reports/139/S139143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two objects leading a third, or was the two  objects being followed ?( I am in my 50’s ), and at approximately 9:15 p.m. CST on Friday, March 11th 2005, I took my dog out into our back yard. It was a very clear night and the stars were bright.  Maybe 10-15 minutes had passed by and I looked up at the sky just to gaze at all the stars.  Then something caught my eye.  Coming from the East was a pair of objects that looked about as bright as a star and traveling side by side and maybe 100-200 yards across from each other.  Both were a steady white color and traveling at what seemed like a high altitude.  But, behind them, and maybe at a slightly lower altitude, was also another object.  It almost looked as if the front two objects were leading the back object, or the back object was following the front two. I could not see a shape or anything other than the white lights of the first two objects. The back object had what looked like three colors that rotated and they appeared to be towards the bottom. It had red on the starboard side, white in the center, and blue on the port side.  These lights were all about the same intensity as far as brightness. To me, it reminded me of a toadstool. That is, it looked like a disc on top and then like a short stem in the center and that is the area which the lights appeared to be coming from.  As I watched these three objects approaching the Des Moines area, the two white objects traveling together made a gradual turn and took a new heading of SSW.  As they made the turn, I could see stars in between them so this seemed to rule out the idea of them as one large object. No contrails could be seen. The object with the rotating lights continued on its east to west path and as it passed over head I did not see any lights, but once it passed over, I could once again see these rotating colors.  The first time I saw it I was going to dismiss it as a jet that maybe had its landing lights on, because that would explain the white light in the middle. But on planes, the lights are apart and you see a black gap between them.  These lights appeared to be side by side and reminded me of the lights on top of a police car, only larger. At no time was noise ever heard.  Between the time I first spotted these objects until the time they passed out of sight was probably 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42957.html](http://www.nuforc.org/webreports/reports/042/S42957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
