@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:47 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Columbus (MS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I walked outside for a smoke break on my nightshift and looked at the sky (to clear my head) and saw a blue orb zip across the sky.Blue Orb that zipped across the sky.  Very clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133357.html](http://www.nuforc.org/webreports/reports/133/S133357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately drive by - drive by minutes.</sub><blockquote><sub>we had went to grand rapids to drop off some parts from work on the way back you could see these to big triangle shape ships just flotting off in the corn field they were about 40 feet off the ground they were big like football sized the speed limit on i69 is 75 miles an hour and every body that day was going like 20 looking at these thing as they drove by there were alot of people to .((NUFORC Note:  Date is approximate.  We would welcome other reports about this alleged incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18409.html](http://www.nuforc.org/webreports/reports/018/S18409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
