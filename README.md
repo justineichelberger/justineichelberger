@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Keighley (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A string of 38 white lights following each other in a perfect line at a measured distance apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151245.html](http://www.nuforc.org/webreports/reports/151/S151245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in York (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>bright light hanging in sky near nuclear plantlet me start off by saying i am not completely sure this was a ufo. for the last couple of months i have been doing a lot of sky watching hoping to see something. seen a lot of planes and a few helicopters. I was letting the dog out the back door when i noticed  what looked like a single star or maybe the light of a plane. I watched for about 5 minutes and the light did not move, so i went and woke up my daughter and told her to come and look at it. I also got the telescope out onto the back porch and got it in my sites. It appeared to be a perfectly round sphere. orange/yellow in color. it did not appear to pulsate. I was facing east and as the sum came up i was not able to see it any longer but i think it was still there. This morning i got up and thinking it was probably a star would be in the same place. nothing. when sighting the sphere though the telescope I used the crosshairs on the little quick align scope and put the crosshairs right on the sphere an hour later they were still right on the sphere. which shows there was no movement of the object.i have a small telescope and it does not bring the stars very close but when looking at this object it filled the view finder. I am around 8 miles from a nuclear plant.next time i will have a camera with me.((NUFORC Note:  Witness may have been looking at Venus, which currently is in the eastern sky during the morning hours.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28115.html](http://www.nuforc.org/webreports/reports/028/S28115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
