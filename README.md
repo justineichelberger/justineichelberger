@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We seen two orange lights in sky which other people who were in a different part of town seen 6 orange lights.Me and my husband was driving down the road when I saw two slowly moving bright orange lights in the sky.  I asked him to look up..   He seen the lights as well.  I was pretty sure they wore moving yet my husband says they were staying still. when I came home my mom asked me if I seen.. I interrupted her and said the glowing orange lights in the sky?   She said yeah and that she was talking to her boyfriend who explained he and a friend seen 6 orange lights in the shape of a pyramid that were slowly moving.  So 4 people in different spots of the same town seen the almost the same thing.  There were clouds in the sky which were brightly lit up glowing orange.  Where my moms boyfriend was standing he did not see the clouds yet he seen more lightsH</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74638.html](http://www.nuforc.org/webreports/reports/074/S74638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Merrimack (NH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large chevron shaped object flew over car.  Was dark red, green and dark grey in color.. Had no blinking lights and moved very slowly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117765.html](http://www.nuforc.org/webreports/reports/117/S117765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
