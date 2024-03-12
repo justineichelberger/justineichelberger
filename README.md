@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately drive by - drive by minutes.</sub><blockquote><sub>we had went to grand rapids to drop off some parts from work on the way back you could see these to big triangle shape ships just flotting off in the corn field they were about 40 feet off the ground they were big like football sized the speed limit on i69 is 75 miles an hour and every body that day was going like 20 looking at these thing as they drove by there were alot of people to .((NUFORC Note:  Date is approximate.  We would welcome other reports about this alleged incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18409.html](http://www.nuforc.org/webreports/reports/018/S18409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Friendswood (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SLOW MOVING AIRCRAFT /  LARGE ROUND WHITE LIGHTS  PULSING IN UNISON ACROSS BACK OF CRAFTAT APPROX. 20:00 HRS WHILE LOOKING TO THE NORTH EAST, AN AIRBORNE OBJECT WAS OBSERVED BY MY WIFE AND I. NO VISABLE CRAFT STRUCTURE COULD BE SEEN, OTHER THAN THREE VERY LARGE WHITE LIGHTS RUNNING HORIZONTAL ACROSS THE BACK OF THE CRAFT. THE LARGE WHITE LIGHTS WERE PULSING FROM DIM TO BRIGHT SIMULTANIOUSLY EVERY 2 SECONDS.  A RED & WHITE STROB WAS OBSERVED ON THE RIGHT SIDE OF THE TRAILING EDGE OF THE CRAFT CLOSEST TO US. THE CRAFT AS IT TRACKED FROM THE NORTH EAST TO THE SOUTH WEST APPEARED TO BE APPROX. 2 MILES DISTANCE AT AN ALTITUDE OF APPROX. 2500 FEET AND AT AN ANGLE OF VIEW OF APPROX 45 DEGREES. WHAT IS INTERESTING IS, THAT THERE WAS NO NOISE DETECTED FROM THE CRAFT AND IT WAS TRAVELING AT A MUCH SLOWER RATE, THAN OTHER AIRCRAFT HAVE BEEN OBSERVED FLYING IN THE AREA.  WE ARE IN THE FLIGHT PATH FOR HOUSTON HOBBY AIRPORT AND OBSERVE AIRCRAFT ALL THE TIME DAY AND NIGHT ARRIVING AND DEPARTING THE AIRPORT. WE ARE ALSO CLOSE TO ELLINGTON FIELD AND NASA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16814.html](http://www.nuforc.org/webreports/reports/016/S16814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
