@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>My adrenaline was extremely elevated and my mind was seeing with unbelief.To give a brief description of one of the observers,she is employed by a security dept. She has over 20yrs of service and I feel very truthworthy.  I feel myself to be a very honest person .  I felt this subject a bit difficult to discuss until I pulled up this website and realized that there are thousands of witnesses to this somewhat unbelieveable subject.  I did video what i witnessed and i hope to share it.  The object seemed to do many things from changing color, shape, and size.  The object had many lights around the spaceship looking object and one larger and brighter light in the center.  It did hover for adleast two hours but moved slowly.  AT times it would move quickly and seem to maybe try to camouflage itself by blowing up or getting much larger.  I must say i have never witnessed such a remarkable item in my life.  It also spinned and changed colors.  There is much more that i could say but i hope this will give you some idea to what I'am describing.((NUFORC Note:  We believe the report is consistent with a sighting of a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35584.html](http://www.nuforc.org/webreports/reports/035/S35584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Borrego Springs (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Gigantic Triangle directly overhead, moving silently...I was visiting Borrego Springs in Desert State Park, CA.  Being from the East Coast, I'd never seen the stars so clearly, so I was staring up at the Milky Way around 10 PM in a garden with a full 360 degree view of the sky.  I had been studying the stars for a few minutes when the leading point of something intruded into my field of vision.  The object was passing from behind me, directly overhead, and continued to slowly pass over for a long time, widening out steadily to a size which appeared large enough to cover the entire town.  There was no sound whatsoever. When the rear of the vessel came into my view I was startled, as I abruptly saw the straight line of stars reappearing behind it.  I did not go inside to get the others in the house because I did not want to lose sight of the craft in the night sky. I continued to keep my eyes on it as it slowly crossed the valley and went over the mountains.  Those mountains are thirty miles from Borrego (facing toward San Diego), and the vessel was still quite large (my thumbnail size at arm's length) as it passed over the mountains and out of sight.  Very impressive and unmistakable UFO sighting.  Quite a first for me!! Thank you very much for creating and maintaining this website.  It is a very dedicated and impressive undertaking, and gives people a way of sharing these experiences when there is no other logical method available.  Again, Thanks!!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17851.html](http://www.nuforc.org/webreports/reports/017/S17851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
