@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port Orange (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Hovering lights, apparently a helicopter, with very dim lights and no discernible sound.I saw a strange set of lights which seemed to be hovering over Dunlawton Avenue near the intersection of Clyde Morris Blvd.  I was driving west on Dunlawton.  I saw them above and in front of me.  They drew my attention because they seemed unusually dim for an aircraft that apparently low. I first tried to determine if the apparent lack of motion was because the craft was moving away or coming toward me, but  I drove under it without it seeming to move. As I drove under, I lowered my window and listened for the sounds of the engine or rotors of what I assumed at that point was a helicopter.  I couldn't hear anything over the street sounds of the traffic on the road.  I lost sight of the lights as I continued to drive west. The night sky was cloudy.  The lights were muted, about 4or 5 of them, white and blue I think.  The altitude of the lights was such that I could see the lights clearly, but not the craft they were on. My best w.a.g. is 1000 feet or so.This may be nothing unusual. I just wanted to report it in case it corroborates a better report of the same object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96716.html](http://www.nuforc.org/webreports/reports/096/S96716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately drive by - drive by minutes.</sub><blockquote><sub>we had went to grand rapids to drop off some parts from work on the way back you could see these to big triangle shape ships just flotting off in the corn field they were about 40 feet off the ground they were big like football sized the speed limit on i69 is 75 miles an hour and every body that day was going like 20 looking at these thing as they drove by there were alot of people to .((NUFORC Note:  Date is approximate.  We would welcome other reports about this alleged incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18409.html](http://www.nuforc.org/webreports/reports/018/S18409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
