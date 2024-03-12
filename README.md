@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Circular disc with two lights viewed over st. johns river jacksonvilleI seen a circular disc appear over the st. johns River by Naval air station. It had two bright orange lights on the bottom of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49609.html](http://www.nuforc.org/webreports/reports/049/S49609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hood River (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I sighted VERY large blue-green meteor of extended duration in the sky near Portland ORi recently reported on this site that my brother saw two large meteors, on bluish, on the same evening  last night, 3/12, i was travelling south by car down the Columbia Gorge, Interstate 84, near Hood River and the Yakima Indian res  i saw a very large meteor, trace downward thru the sky, seeming to break up and disappear over portland (but, i assumed, perhaps in the Pacific Ocean)  the meteor appeared to be about the size of the moon -- that is, not its showing crescent, but the entire moon  it was blue-green, shading more strongly towards blue  i detected no sound, but it might have been over-ridden by my engine noise  i have seen a number of large meteors, but never one that large, nor that color  this sighting will correpond with my brother's recent sighting near Kettle Falls, WA, and also with increased tectonic activity on the Pacific coast, including increased sub-marine mini-eruptions((NUFORC Note:  Probable dramatic meteor at 19:45 hrs. on this date.  We have amended the time above to the correct time of the incident.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42943.html](http://www.nuforc.org/webreports/reports/042/S42943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
