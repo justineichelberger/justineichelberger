@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately drive by - drive by minutes.</sub><blockquote><sub>we had went to grand rapids to drop off some parts from work on the way back you could see these to big triangle shape ships just flotting off in the corn field they were about 40 feet off the ground they were big like football sized the speed limit on i69 is 75 miles an hour and every body that day was going like 20 looking at these thing as they drove by there were alot of people to .((NUFORC Note:  Date is approximate.  We would welcome other reports about this alleged incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18409.html](http://www.nuforc.org/webreports/reports/018/S18409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>My adrenaline was extremely elevated and my mind was seeing with unbelief.To give a brief description of one of the observers,she is employed by a security dept. She has over 20yrs of service and I feel very truthworthy.  I feel myself to be a very honest person .  I felt this subject a bit difficult to discuss until I pulled up this website and realized that there are thousands of witnesses to this somewhat unbelieveable subject.  I did video what i witnessed and i hope to share it.  The object seemed to do many things from changing color, shape, and size.  The object had many lights around the spaceship looking object and one larger and brighter light in the center.  It did hover for adleast two hours but moved slowly.  AT times it would move quickly and seem to maybe try to camouflage itself by blowing up or getting much larger.  I must say i have never witnessed such a remarkable item in my life.  It also spinned and changed colors.  There is much more that i could say but i hope this will give you some idea to what I'am describing.((NUFORC Note:  We believe the report is consistent with a sighting of a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35584.html](http://www.nuforc.org/webreports/reports/035/S35584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
