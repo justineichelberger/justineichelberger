@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:33 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Texoma (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A BLUE LIGHT WENT DOWN EXTREMEMLY FAST INTO THE LAKE AREA.  I AM WONDERING IF ANYONE ELSE SAW IT.  MY WIFE AND I SAW IT TOGETHER.DEFINITLEY NOT A SHOOTING STAR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80481.html](http://www.nuforc.org/webreports/reports/080/S80481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sunset Hills (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Iridescent sparkly glittery silent cloud or haze that was silent, without solidity, varied in opacity, moving cloud-like objects.Something in the sky above Sunset Hills, MO, on March 12th, 2012, at 11:54AM.I was driving Northbound, and saw something moving across the sky.  It looked kind-of like a cloud at first.  I pulled over because it was a very clear day, no clouds were in sight, and it struck me as odd.  I was amazed when I got out of my car, immediately began filming and even tried to capture what I saw by putting my sunglasses over the lens.  It was iridescent, glittery, sparkly, and free forming, silent, non-solid, varying opacity, fluctuating size and essentially shapeless.  The form was too high up for me to gauge if the wind was affecting it or not.  The wind (on ground level) was moving South-East, and the form seemed to move East North-East.  Initially, I only saw one form, then suddenly another appeared.  The forms were offset, and near one another; however, I cannot calculate the actual distance.  The forms dissipated and reappeared a few times.  About 10 minutes after seeing it, I stopped filming (I filmed just over 7 minutes).  Once I had stopped filming it seemed to mo! ve too far out of my visual range and started moving South. It appeared as two fading, alive shapes.I filmed this from a parking lot off Lindbergh Ave/highway 67 going north between Chrisann Ln and Court Dr.  The nearest airports are 10-30 miles away.  There are no military bases within 35 miles from the location.  There is a National Weather Station about 15 mi from the location.I am a musician, photographer, artist, jewelery designer, and poet.  I have dogs, I play video games, and I live to watch the sky.  So far I can't figure out what this is.  This happening has worn on me for over three years and I remember it as though it just happened moments ago.  A recent sighting has brought me here, this sighting happened in Philly on July 5th, 2015.  When I heard of this, I knew I was not alone and felt more comfortable with sharing my story.  My imagination, even as an artist, is lost on this.  I have a few theories, but they're just that; theories.  I have studied what I can, and am still at a dead end road.  Whatever this was, I would love to know what it actually is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120430.html](http://www.nuforc.org/webreports/reports/120/S120430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
