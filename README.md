@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:30 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:33 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Arroyo Grande (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>triangular shape with colorful lights hovering above oceano dunes, oceano, californiaoutside my bedroom window i noticed a very bright light, very still, yet hovering in a slow motion type movement. i called my 20 year old son to come into my room and see what i was seeing.  he and i both were totally amazed and quite excited to see such a sight. we then awoke his 19 year old girlfriend to see. my son got his binoculars and we agreed that this was a triangular shape with bright colorful lights; bright orange, green, purple, red and blue.  it hovered up, down, and would move to the left in a very slow pace. this sighting was southwest of where we lived, approximately over oceano dunes, in oceano, california above the ocean.  it did not seem too high up in the sky, as it just seem to hover for about an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55690.html](http://www.nuforc.org/webreports/reports/055/S55690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Texoma (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A BLUE LIGHT WENT DOWN EXTREMEMLY FAST INTO THE LAKE AREA.  I AM WONDERING IF ANYONE ELSE SAW IT.  MY WIFE AND I SAW IT TOGETHER.DEFINITLEY NOT A SHOOTING STAR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80481.html](http://www.nuforc.org/webreports/reports/080/S80481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
