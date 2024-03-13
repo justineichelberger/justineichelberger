@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Haven (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 4:00 - 4:00 minutes.</sub><blockquote><sub>White light thought was a star until it moved slowly then shot off into space.Looking up at the stars as I often do at night, I saw a bright white light I thought was a star over the horizon.  Until it started to move in a clockwise motion from about 11:00 to the 2:00 position.  I thought it was a satellite as it was too high to be a plane when it just stopped at the 2:00 position. It stayed there for about 3 or 4 minutes when it shot out of the sky so fast, it streaked and was gone in less than 3 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117784.html](http://www.nuforc.org/webreports/reports/117/S117784.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Keaau (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Looked like a moving medium size star, high altitude, no sound.I had gone outside with my coffee to look at the half moon setting in the east. The sky was clear and it was nice outside. I turned around to look at the stars in the northern sky when I saw that one of the them was moving. It kept going, and went across the whole sky in a couple minutes. It did not move erratically. No sound. Very high up, it looked same size as a medium star. Looked like yellow star, with flashes of other colors. Just last month I saw a similar object, about the same time in the morning. It was coming from the opposite direction. Are these planes, or satellites or what? How can I find out?((ADDENDUM SUBMITTED BY VIGILANT READER))------------------------http://www.nuforc.org/webreports/035/S35581.html                                   Start                    Max Altitude              EndName                 Mag    Time      Alt. Az.    Time       Alt. Az.       Time       Alt.  Az.Resurs 01 Rocket 2.7    05:09:39 10Â° N      05:14:04 75Â° WNW    05:18:30 10Â° SSW http://home.earthlink.net/%7Ezeus001002/keaau5.jpg((END COPIED MATERIAL))((NUFORC Note:  Hence, possible satellite.  We express our gratitude to the individual who provided the added information, and who wishes to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35581.html](http://www.nuforc.org/webreports/reports/035/S35581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
