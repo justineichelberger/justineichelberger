@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:00 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Manville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>circle manville nj 3 13 15 red and white lightsa friend and I were sitting outside and saw an object that was round fly in the air and turn around with such ease and then flew off very fast came back about 5 minutes later and another craft was there they sat in the air just covering over for about 15 minutes and then they disappeared they had white and red lights going around in a circular motion</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117791.html](http://www.nuforc.org/webreports/reports/117/S117791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stationary Light with lights shooting down to groundAbout 6:50 AM CST this morning I was outside have my morning coffee.. It was still very dark the sun was not yet rising.  I was looking SW in the sky. I saw a stationary light just above the horizon..  At first I thought it was maybe a helicopter because it was not moving. I saw another light approach the stationary light then suddenly 4-5 lights dropped out of the stationary light straight down to the ground.  The stationary light disappeared. I watch the sky for another 20 minutes but saw nothing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96713.html](http://www.nuforc.org/webreports/reports/096/S96713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
