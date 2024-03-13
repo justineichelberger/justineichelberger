@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:39 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mt. Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 119</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154689.html](http://www.nuforc.org/webreports/reports/154/S154689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We watched approximately 15 dimly lit white spheres that pulsed brightly together in different colors while slowly rising towards the skyMy girlfriend and I were staying at the Marriott Residence Inn on the evening of March 13th 1998 in the city of Tukwila Washington just south and east of Seattle. At very close to 9:50pm as we were walking around the hotel complex (to get some exercise) we spotted something very strange just north and west and maybe 45 degrees up in the sky from our location. It appeared to be a tight cluster of very dimly lit white spheres that were rising out in the distance (south and maybe west of downtown Seattle near SeaTac Airport). The cluster was slowly rising straight up in the air over a period of about 4 minutes. The entire cluster also pulsed a total of three times within about a minute and a half of first spotting them while they were rising.  Even though the objects were a dimily lit white, they pulsed in very bright colors (mostly red) and at exactly the same time. They were also moving around in their tight cluster in such a way that made the whole of the objects seem to change shape and sort of wave around in the sky. Although it appeared to be just to the east of SeaTac Airport we had been watching most of the airplane activity in the area and this was nothing even comparable to any air activity that I had ever seen in my life! The cluster continued to rise until it climbed up into some higher cloud cover and we couldn't see it anymore. I'm really curious if any one has ever seen such a site especially in the Seattle area?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03405.html](http://www.nuforc.org/webreports/reports/003/S03405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
