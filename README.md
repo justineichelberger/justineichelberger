@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 12 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Borrego Springs (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Gigantic Triangle directly overhead, moving silently...I was visiting Borrego Springs in Desert State Park, CA.  Being from the East Coast, I'd never seen the stars so clearly, so I was staring up at the Milky Way around 10 PM in a garden with a full 360 degree view of the sky.  I had been studying the stars for a few minutes when the leading point of something intruded into my field of vision.  The object was passing from behind me, directly overhead, and continued to slowly pass over for a long time, widening out steadily to a size which appeared large enough to cover the entire town.  There was no sound whatsoever. When the rear of the vessel came into my view I was startled, as I abruptly saw the straight line of stars reappearing behind it.  I did not go inside to get the others in the house because I did not want to lose sight of the craft in the night sky. I continued to keep my eyes on it as it slowly crossed the valley and went over the mountains.  Those mountains are thirty miles from Borrego (facing toward San Diego), and the vessel was still quite large (my thumbnail size at arm's length) as it passed over the mountains and out of sight.  Very impressive and unmistakable UFO sighting.  Quite a first for me!! Thank you very much for creating and maintaining this website.  It is a very dedicated and impressive undertaking, and gives people a way of sharing these experiences when there is no other logical method available.  Again, Thanks!!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17851.html](http://www.nuforc.org/webreports/reports/017/S17851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle of white lights above trees.  Silent and perfectly still.  Central red blinking light. Vanished within a few seconds.Driving home Friday 13th March, 2015, with my dad, when I spotted 2 lights that looked like car headlights, but were extremely bright.  We continued driving and discovered a central, dimmer red blinking light and one other white light behind it, the object was not symmetrical.  It hovered perfectly still above the trees a few hundred feet above the ground. I rolled the window down to listen for helicopter blades but heard nothing.  Convinced we had seen something very out of the ordinary, we turned around as soon as possible, when we got to where it had been, it had vanished.  We eliminated the possibility of the object being the nearby cell tower because it was too high up, and too far away from the school that the tower stands next to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117782.html](http://www.nuforc.org/webreports/reports/117/S117782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
