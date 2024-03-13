@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately short - short minutes.</sub><blockquote><sub>4 saucer like objectsOn 3/13/09 from the 10th fl of the fallsview casino hotel, my window faced the american falls.With my Samsung Digimax 6.0 mega pixel camera at 4x zoom, I took a pic in the direction above goat island.I know there is no land mark to tell where this pic was taken.But when i got home and uploaded the pic to my computer I found these 4 saucer like object with a light or reflective light in the center of them......I added some warm filters to bring out the highlights of the objects....Darryl</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70124.html](http://www.nuforc.org/webreports/reports/070/S70124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Manville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>circle manville nj 3 13 15 red and white lightsa friend and I were sitting outside and saw an object that was round fly in the air and turn around with such ease and then flew off very fast came back about 5 minutes later and another craft was there they sat in the air just covering over for about 15 minutes and then they disappeared they had white and red lights going around in a circular motion</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117791.html](http://www.nuforc.org/webreports/reports/117/S117791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
