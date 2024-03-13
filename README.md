@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Gila Bend (20 miles east of, on I-8) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 large, bright orange/pinkish lights seen south of I-8 over the desert. Went from 2 to 3 to 4 lights.  Small bright objects quickly left and returned to the larger lights.  These smaller lights lit up the background clouds.  Wife, in-laws, nephew and son witnessed with me.20 miles east of Gila Bend, AZ on I-8 about 50 miles SW of Phoenix. I noticed two bright lights shining over the desert south of the freeway. At first I thought they were to very tall light poles.  2 then 3 then 4 lights appeared.  The lights went out and 3 more appeared lower in the sky immediatedly.  It seemed a set of lights went off and then the bottom set turned on.  Five indiviuals in my car witnessed these lights for approx. 20 mins from I-8 interstate.  I could still see the lights as we entered Gila Bend's business district. The lights always remained stationary.  Smaller lights seemed to split off from the right edge of the rightmost light, do a very quick arc and return.  The light from the small ones lit up the background clouds. No sound was heard.  We tried to take a photo but it didn't turn out. This was the same night as the famous "Phoenix Lights" were seen.((NUFORC NOTE:  Location of these lights may be important to understanding the nature of the events that took place later in the eventing, e.g. after 2100 hrs..  This is the only report NUFORC has seen to date, which indicates an earlier time.  We believe that they had nothing to do with the object(s) seen over Henderson, NV; Paulden, AZ; Prescott, AZ; Dewey, AZ; Cordes Junction, AZ; Phoenix, AZ; Casa Grande, AZ; Tucson, AZ; and Kingman, AZ. ))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09523.html](http://www.nuforc.org/webreports/reports/009/S09523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Richardson (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Object hovers over house in populated neighborhood.My wife and I were relaxing on our back patio around 9pm on the evening in question. My wife had asked why a helicopter would land off of Mimosa st-{ just a few blocks away}.When I looked to see what she was talking about I saw an object approximately 150 feet in the air and slowly descending. I would have thought it was a helicopter as well except that it made no sound and the light from what would be a spotlight was more of a greenish color than white. It continued its' descent until it was about at the roofline of the house behind us on Cherrywood and it appeared to be dull grayish in color and the shape of a football with the ends "mashed" in. It hovered for what seemed like around 10 more minutes and then it tilted and shot awy at a speed I have not seen any helicopter fly at before. I am hoping to find out if anyone else may have seen or reported anything that eve. as this is my first visit to this website.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37179.html](http://www.nuforc.org/webreports/reports/037/S37179.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
