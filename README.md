@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Richardson (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Object hovers over house in populated neighborhood.My wife and I were relaxing on our back patio around 9pm on the evening in question. My wife had asked why a helicopter would land off of Mimosa st-{ just a few blocks away}.When I looked to see what she was talking about I saw an object approximately 150 feet in the air and slowly descending. I would have thought it was a helicopter as well except that it made no sound and the light from what would be a spotlight was more of a greenish color than white. It continued its' descent until it was about at the roofline of the house behind us on Cherrywood and it appeared to be dull grayish in color and the shape of a football with the ends "mashed" in. It hovered for what seemed like around 10 more minutes and then it tilted and shot awy at a speed I have not seen any helicopter fly at before. I am hoping to find out if anyone else may have seen or reported anything that eve. as this is my first visit to this website.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37179.html](http://www.nuforc.org/webreports/reports/037/S37179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>Stationary object flashing red and green over south west coast of Florida near vacinity of Port Charlotte.From 19:00 to 23:00 each day from March 13 through 15th an object appears in the same position approximately 20 degrees up from the south west horizon over the coastal gulf.  Object is stationary and ignored by commercial craft.  Viewed with both binoculars and 600mm professional lens object can be seen illuminating red and green lights suggesting commercial or military origin.  Lights move left to right.  Center is yellow white.  To distant to photograph accurately in such low light even with high speed settings.  Object was observed stationary for duration of time by two close neighbors in South Gulf Cove and by restaurant employees in south Boca Grande.  Commercial craft fly across path between object and and observation points.  Determined by fact object is blocked out as they pass.  Completely stationary until after 24:00 when object seems to move either north west or below horizon.  Uncertain as ambient light begins to interfere with view. Local news was contacted had nothing on "their scanners probably military"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87690.html](http://www.nuforc.org/webreports/reports/087/S87690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
