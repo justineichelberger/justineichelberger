@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bossier City (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I have not told anyone, afraid of being labelled a nut.about 40 lights moving in a southward position, some moved in a 90 degree angle.  One was a triangular shape.  It was cloudy, but in a break in the clouds gave us vision to the lights.  my wife and I and another couple saw it.  I am a history buff, and I do not know of any craft that can turn like they did.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58252.html](http://www.nuforc.org/webreports/reports/058/S58252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Four Oaks (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>to fast moving shiny objects beside passenger plane over n.c.a passenger flight path  is where the two objects were sighted with a passengrer jet. noticed two objects behind the plane and they sped up to the plane , slowed beside it and one object  on the right turned to the left in front of the object on the left. the object on the left did a complete 360 around the the object on the right and they  lined up beside each other beside the plane. the right objected fliped up to expose a shiny metal triangle shape and the sun reflected off the metal boby. it turned back down and the two objects sped off to the left and disspeared .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80532.html](http://www.nuforc.org/webreports/reports/080/S80532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
