@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:48 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Mt. Springs (Cooke County) (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>Seven lights in a row 45 degrees  above horizon in early night sky, disappeared one at a time.I can not be sure of the exact time but it had turned dark as my daughter and I were walking along F.M. 922.  We were walking west when something caused us to look north and up into the sky at approx 45 degrees above the horizon.  There were seven lights equally spaced in a row parallel to the horizon.  They were equally illuminated and approximately the color of stars but larger.  They were stationary in the sky. They seemed to be further away than what an airliner would be but not like a distant planet or star.  We watched then for 5 or 6 seconds then they disappeared one at a time from west to east.  I believe it was the next morning on t.v. there were reports about lights the night before in Arizona and maybe New Mexico.  My daughter and I have told many people about this but have never officially reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37697.html](http://www.nuforc.org/webreports/reports/037/S37697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Gila Bend (20 miles east of, on I-8) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 large, bright orange/pinkish lights seen south of I-8 over the desert. Went from 2 to 3 to 4 lights.  Small bright objects quickly left and returned to the larger lights.  These smaller lights lit up the background clouds.  Wife, in-laws, nephew and son witnessed with me.20 miles east of Gila Bend, AZ on I-8 about 50 miles SW of Phoenix. I noticed two bright lights shining over the desert south of the freeway. At first I thought they were to very tall light poles.  2 then 3 then 4 lights appeared.  The lights went out and 3 more appeared lower in the sky immediatedly.  It seemed a set of lights went off and then the bottom set turned on.  Five indiviuals in my car witnessed these lights for approx. 20 mins from I-8 interstate.  I could still see the lights as we entered Gila Bend's business district. The lights always remained stationary.  Smaller lights seemed to split off from the right edge of the rightmost light, do a very quick arc and return.  The light from the small ones lit up the background clouds. No sound was heard.  We tried to take a photo but it didn't turn out. This was the same night as the famous "Phoenix Lights" were seen.((NUFORC NOTE:  Location of these lights may be important to understanding the nature of the events that took place later in the eventing, e.g. after 2100 hrs..  This is the only report NUFORC has seen to date, which indicates an earlier time.  We believe that they had nothing to do with the object(s) seen over Henderson, NV; Paulden, AZ; Prescott, AZ; Dewey, AZ; Cordes Junction, AZ; Phoenix, AZ; Casa Grande, AZ; Tucson, AZ; and Kingman, AZ. ))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09523.html](http://www.nuforc.org/webreports/reports/009/S09523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
