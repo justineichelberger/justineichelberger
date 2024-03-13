@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:08 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chugiak (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 sets of lights  one solid red one oval shape light.report this to nuforc last year i seen them again with my daughter while going to the store a little different tho we followed a red light going north up old glen hwy it stopped over road  we drove under it we both had our windows open it made no sound   i couldnt stop  we were both scared  we did stop a lil farther down rd  stuck our heads out the window and there was nothing in the sky i turned truck off to listen   ten fifteen minutes later a helicopter flew over low with its spot light on going north  i did here it coming up the road fron eagle river  i did run outside to see where it was heading idk what it is  but it was weird  the size of the white light i seen first was about the size my index finger nail tip about a half mile away  second time i seen that light in a week that light wasnt round streched out oval shaped please dont share my email or number  i tried tell my daughter it was a helicopter    she said but it didnt make any noise might of been airbase idk   but when we were following it i started to flash my lights  it did start to slow  thats when we started to get scared  after we were home  i felt a lil sick hot on inside idk  my fillings hurt like i bit down on foil   idk  i dont believe in aliens  but im seeing weird things flying around here  i look but i dont see anything    it started firtst when we were leaving our house for the store  she says hey dad look those to planes i turned and she says the other took off fast  the one i watched was flying straight then zigzag realy fast  she ask can planes fly that fast idk  u can contact me here  but like i said  dont share my email or number i look at my map on phone  theres weird color in mountains around eklutna glacier  yellow green  u follow trail to glacier u on map u might see it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117928.html](http://www.nuforc.org/webreports/reports/117/S117928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Mt. Springs (Cooke County) (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>Seven lights in a row 45 degrees  above horizon in early night sky, disappeared one at a time.I can not be sure of the exact time but it had turned dark as my daughter and I were walking along F.M. 922.  We were walking west when something caused us to look north and up into the sky at approx 45 degrees above the horizon.  There were seven lights equally spaced in a row parallel to the horizon.  They were equally illuminated and approximately the color of stars but larger.  They were stationary in the sky. They seemed to be further away than what an airliner would be but not like a distant planet or star.  We watched then for 5 or 6 seconds then they disappeared one at a time from west to east.  I believe it was the next morning on t.v. there were reports about lights the night before in Arizona and maybe New Mexico.  My daughter and I have told many people about this but have never officially reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37697.html](http://www.nuforc.org/webreports/reports/037/S37697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
