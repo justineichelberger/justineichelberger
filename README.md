@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:13 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:08 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>10:56 p.m. 03-13-06 3 U.F.O's fly across Manhattan's Citicorp, Metlife, and Chryler Buildings.My friends and girl friend were on top the Empire State building observation deck when we took 2 digital photo's of 3 Triangle shaped disk (U.F.O's) coming the south of the city, heading north across the city of Manhattan N.Y.The color of the objects were yellowish orange, the first object change shape as if turning or rolling simutaniouly. The background of the photo's consist of the Met life building, Citi- bank/ City Corp building and the Chrysler building in Manhattan N.Y. as the objects flew right above and across the buildings... I have the pictures to prove it.....I will not send them over the internet!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50874.html](http://www.nuforc.org/webreports/reports/050/S50874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chugiak (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 sets of lights  one solid red one oval shape light.report this to nuforc last year i seen them again with my daughter while going to the store a little different tho we followed a red light going north up old glen hwy it stopped over road  we drove under it we both had our windows open it made no sound   i couldnt stop  we were both scared  we did stop a lil farther down rd  stuck our heads out the window and there was nothing in the sky i turned truck off to listen   ten fifteen minutes later a helicopter flew over low with its spot light on going north  i did here it coming up the road fron eagle river  i did run outside to see where it was heading idk what it is  but it was weird  the size of the white light i seen first was about the size my index finger nail tip about a half mile away  second time i seen that light in a week that light wasnt round streched out oval shaped please dont share my email or number  i tried tell my daughter it was a helicopter    she said but it didnt make any noise might of been airbase idk   but when we were following it i started to flash my lights  it did start to slow  thats when we started to get scared  after we were home  i felt a lil sick hot on inside idk  my fillings hurt like i bit down on foil   idk  i dont believe in aliens  but im seeing weird things flying around here  i look but i dont see anything    it started firtst when we were leaving our house for the store  she says hey dad look those to planes i turned and she says the other took off fast  the one i watched was flying straight then zigzag realy fast  she ask can planes fly that fast idk  u can contact me here  but like i said  dont share my email or number i look at my map on phone  theres weird color in mountains around eklutna glacier  yellow green  u follow trail to glacier u on map u might see it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117928.html](http://www.nuforc.org/webreports/reports/117/S117928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
