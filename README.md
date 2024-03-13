@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:05 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a "Flying wing" which fley over my car as i was on I10 heading weston 3-13-97 my grandmother and i were driving home from my aunts house. as we were at 67th ave on I10 we saw a flying wing heading in our direction. it looked like a airplane about to crash with ist lights on, but it made no sound of any kind. we got off the freeway at 83rd and followed the craft. we then heard a polie siren followng the craf when it suddenly blinked and was not visiable. we didn't know what to think until we got home and watched the 10:00 news. I would have posted this sonner but i only learned of this site a week ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12271.html](http://www.nuforc.org/webreports/reports/012/S12271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>20-30 orange, flame colored objects seen for 15 minutes by 20 persons.The report is a second-hand account of the below witness’ experience.On Saturday, March 13, 2010, at 7:15 p.m, a witness reported a number of orange colored circular objects were seen for about 15 minutes in Edmonds, Washington State.  Eventually, a group of about 20 persons in a large apartment complex gathered to witness these movements.First some background explanations, the witness used the term “low” to mean that the orange objects were larger than the stars in the sky, so the witness felt like they were at a lower level.  These objects were not close to ground level.  Also, the apartment complex pool is used as a reference point to describe the movement of these far. way objects The witness reported that initially 3-4 objects that looked like the color of fire were coming in “low”, moving from south to north. Then one orange circular object broke away this initial group.  This single orange object moved further north until it was seen over the apartment complex pool.  Then, after a few seconds that object disappeared. During this time, the witness said “little by little” other orange objects kept moving from the south to north, and when they got by the pool they disappeared. The approximate viewing time was said to be 15 minutes Then the sky was clear. The witness guessed there were more than 20 orange objects, but not more than 40.Approximately 20 people in the complex saw these orange objects.  Many were out because they were smoking.  They attracted more viewers because they were saying loudly, “Look up in the sky!”.  The witness went outside because the dog was barking and upon checking outside the apartment the third time the witness saw this group of people looking orange objects in the sky.It was reported from another person in the apartment complex that the emergency phone number 911 was called. The 911 operator was reported as saying that a massive amount of calls were received from all over.  Some of the questions asked by the 911 operator were:  “Was anything burning?   Did it hit anything?  Where did it come from?”  It was also reported that the 911 operator said  that a request would be put out for cars out investigate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74651.html](http://www.nuforc.org/webreports/reports/074/S74651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
