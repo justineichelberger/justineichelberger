@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>Stationary object flashing red and green over south west coast of Florida near vacinity of Port Charlotte.From 19:00 to 23:00 each day from March 13 through 15th an object appears in the same position approximately 20 degrees up from the south west horizon over the coastal gulf.  Object is stationary and ignored by commercial craft.  Viewed with both binoculars and 600mm professional lens object can be seen illuminating red and green lights suggesting commercial or military origin.  Lights move left to right.  Center is yellow white.  To distant to photograph accurately in such low light even with high speed settings.  Object was observed stationary for duration of time by two close neighbors in South Gulf Cove and by restaurant employees in south Boca Grande.  Commercial craft fly across path between object and and observation points.  Determined by fact object is blocked out as they pass.  Completely stationary until after 24:00 when object seems to move either north west or below horizon.  Uncertain as ambient light begins to interfere with view. Local news was contacted had nothing on "their scanners probably military"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87690.html](http://www.nuforc.org/webreports/reports/087/S87690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately short - short minutes.</sub><blockquote><sub>4 saucer like objectsOn 3/13/09 from the 10th fl of the fallsview casino hotel, my window faced the american falls.With my Samsung Digimax 6.0 mega pixel camera at 4x zoom, I took a pic in the direction above goat island.I know there is no land mark to tell where this pic was taken.But when i got home and uploaded the pic to my computer I found these 4 saucer like object with a light or reflective light in the center of them......I added some warm filters to bring out the highlights of the objects....Darryl</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70124.html](http://www.nuforc.org/webreports/reports/070/S70124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
