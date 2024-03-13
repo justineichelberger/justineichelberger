@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:13 on 13 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle of white lights above trees.  Silent and perfectly still.  Central red blinking light. Vanished within a few seconds.Driving home Friday 13th March, 2015, with my dad, when I spotted 2 lights that looked like car headlights, but were extremely bright.  We continued driving and discovered a central, dimmer red blinking light and one other white light behind it, the object was not symmetrical.  It hovered perfectly still above the trees a few hundred feet above the ground. I rolled the window down to listen for helicopter blades but heard nothing.  Convinced we had seen something very out of the ordinary, we turned around as soon as possible, when we got to where it had been, it had vanished.  We eliminated the possibility of the object being the nearby cell tower because it was too high up, and too far away from the school that the tower stands next to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117782.html](http://www.nuforc.org/webreports/reports/117/S117782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>10:56 p.m. 03-13-06 3 U.F.O's fly across Manhattan's Citicorp, Metlife, and Chryler Buildings.My friends and girl friend were on top the Empire State building observation deck when we took 2 digital photo's of 3 Triangle shaped disk (U.F.O's) coming the south of the city, heading north across the city of Manhattan N.Y.The color of the objects were yellowish orange, the first object change shape as if turning or rolling simutaniouly. The background of the photo's consist of the Met life building, Citi- bank/ City Corp building and the Chrysler building in Manhattan N.Y. as the objects flew right above and across the buildings... I have the pictures to prove it.....I will not send them over the internet!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50874.html](http://www.nuforc.org/webreports/reports/050/S50874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
