@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carmel-by-the-Sea (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Stationary intermitient flashesAt approximately 6 a.m. at beach in Carmel enjoying clear sky, bright stars, looking to SW.  During period of about 5-7 minutes noticed approximately 7-9 flashes, southerly direction (S), approx. 45-55 degree inclination.  Flashes (white) were of greatly varying magnitude of brightness.  Not of steady rhythm, but intermittent and confined to one small area of sky.  Definitely not moving as were several satellites seen from approximately 6 to 6:20 a.m.Am 59 y/o healthy individual.  Enjoy stargazing.  Familiar with general appearance of most man made and celestial bodies.  “Not normal” by personal experience.Have seen this same phenomenon once before, several years ago, approximately same area of sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74654.html](http://www.nuforc.org/webreports/reports/074/S74654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sicklerville (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>At 11:57pm i was walking up the stairs and through the window i saw a bright star and i looked at it for approximately 5 minutes and after i take my eyes off it i see this light from a far and when i first notice it, it looked like an airplane. Definitely.So, i stare at it for about a couple minutes because the funny thing about this was that the airplane was not coming straight across like 99% of all planes do around my house.  So, this time the light was traveling vertically not horizontal and that's when i placed a strong concern of what this craft is. So, once i see the light coming above the trees where i can get a better look of what this is, i start to notice that this was not an airplane. As it began to raise velocity over the trees where i could see it better, it looked nothing like a airplane, it looked like a prymaid-like craft that had four likes under it one was red, another, was yellow, and another was white.I new this wasn't a plane because pla! nes don't directly travel through the sky. It didn't shoot up in the sky like normal UFO craft's do because at this time it was late, so no one would have noticed it.  But its a pyrmaid- like craft and it had four lights and it started to travel pretty fast through to the sky.  But the weirdest thing beyond this was that there were three stars in the sky and they were aligned. And as the craft is traveling up, the aligned stars begin to shift to the left of the sky, and its the best way i can describe it. Because the craft was moving at a fast but steady pace, definitely faster than a normal plane or jet fighter or whatever you call it. Fortunately, prior to my evidence, our town doesn't have a jet fighter air crafts. Just nearby airplane cruising areas. But this was amazing, I've never seen anything like this, because i know it had to be something else other than any aircraft that we posess here on this earth. So, ill be more than happy to describe to you more about this hap! pening and we can continue to get the real story behind it. Th! ank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87681.html](http://www.nuforc.org/webreports/reports/087/S87681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
