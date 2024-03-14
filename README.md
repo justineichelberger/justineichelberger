@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Old Bridge (NJ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 21:00--? - 21:00--? minutes.</sub><blockquote><sub>Low cloud haze over entire sky,  unable to determine exact shape, however the unnatural motion caught my eyeLow cloud cover tonight.difficult to see an exact shape.  At first glance, it looked like the moon, but not round, egg-shape is what it seemed to be.However, it moved onto"jerky" motion, making sharp right angles or long Linear motions at rapid speed.  outdoor temperatures were in the low 40s, so I only observed this structure for about 1/2 hour.  3 neighbors and had them observe as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145179.html](http://www.nuforc.org/webreports/reports/145/S145179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Man & son witness blue-green ball streak S to N in eastern sky.  Son frightened by observation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00337.html](http://www.nuforc.org/webreports/reports/000/S00337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
