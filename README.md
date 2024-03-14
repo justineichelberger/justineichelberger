@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:57 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Shady Grove (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>7 lights in south and 2 in west sky.I stepped out back door to smoke. Facing south as walked out. I saw what appeared to be big dipper but it was very big and bright and i know big dipper is in north sky.  There were 4 making up the square and 3 made the tail.  It was very quiet night and there was no sound.  I looked to the west and saw 2 more moving toward the lights.  (South) the 7 lights started moving around slowly at first and then took off quickly.  The lights in the west were gone by this time and only one remained.  It was very bright with a bright red blinking light in middle.  It was FANTASTIC!  My sister got video after I hollered for her to get phone.  You can see the last one left.  I can send video if needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117812.html](http://www.nuforc.org/webreports/reports/117/S117812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Matawan (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>gigantic light over fieldi was driving with a friend of mine on the garden state parkway and we looked to our right in an open field and saw a very low gigantic light. very low to the ground. the field is swamplands. the light was so big we couldnt make out a shape although we were going about 65mph.i slowed down a bit before the trees got in the view and couldnot see the object anymore. it was just hovering as far as we could tell and about 75-100 feet off the ground. there was no blinking lights, no FAA lights, just one solid light. we couldnt believe it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42973.html](http://www.nuforc.org/webreports/reports/042/S42973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
