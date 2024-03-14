@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white light in the north eastern sky of Claifornia High Desert,changes to small red light , disapears.The UFO that my husband and I witnessed was a bright white light.  We thought it was a planet at first.  We continued to watch it though and it continued to descend slowly downward for about 3 minutes, at about the 4th minute it changed from being large white light to a small red light, and then it shot out towards the Southern desert of Nevada. Our location was the high desert of Southern California.  We were located in Hesperia, CA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69240.html](http://www.nuforc.org/webreports/reports/069/S69240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 disc objects with circular haze around them, red, blue and white lights on them. 2ft diameter, hovering 50 ft off ground.I went out my front door at about 11:30pm to let my dog out. I was looking around while waiting for him to come in when I noticed an object hovering about 20ft above my cherry tree in my front yard. The tree is about 40ft from my house. I then noticed another object of same size and characteristics hovering over the house across from mine- about 80ft away. The first one flew over to the second one and I stood and observed the second one move quickly in four lateral directions randomly over my neighbor's house while the first slowly hovered around the second, no more that a couple feet away. The objects were small and appeared to be about 2ft in diameter, with a translucent haze around them and red, blue, and white lights on and inside them. They then moved on the the next house together, doing the same thing. I then went in the house to grab my camera and get my husband. He came with me outside and I noticed the objects above a house further (300-400ft) down! the street. I went to follow them with my camera but as soon as I got closer and tried to take a picture they seemed to react and moved quickly down the street out of sight.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88156.html](http://www.nuforc.org/webreports/reports/088/S88156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
