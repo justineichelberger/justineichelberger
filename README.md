@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light or small object, drifting slowly E-W on a clear afternoon. No sudden maneuvers, flew v. slowly.I observed a possible UAP (UFO) over S. Boulder, Colorado about 1415 MDT (GMT - 6) on 14 Mar 09.  I was out enjoying the sun when I noticed a light or silvery object (a point) drifting very slowly to the W.  It passed overhead about 1415 and finally disappeared behind the trees.  It did not perform any of the sudden maneuvers often reported of UAPs, such as darting off at extreme speed; it just slowly traversed the sky.  Size, height, speed unknown. It left no trail, did not flash, etc.A star or planet, or even a spacecraft such as the ISS?  Not likely.  It was too bright to be the former; and S/C are usually launched to the E. to take advantage of the Earth's rotation, so fly W-E.  They also usually go much faster, in angular velocity.  Not a jet; it went too slowly.Weather balloon?  Possibly.  Wind here has been light NE all day (as usual); but winds are usually W. at higher altitudes.  It did not seem to slow down or get fainter as it would if it had been climbing.  It could also have been a UAV (pilotless drone airplane), very high or flying very slowly.  It jogged to the N. a bit then continued drifting W.Location observed from: ~Lat. 40° N., Long. 105° 15' W. (just N. of Baseline Road near 29th Street in S. Boulder), el. ~1625 m. (5330'). Weather: clear, light NE wind, 15° C. (59° F.).My background: A.B. in Applied Physics, MSEE in weather radar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69193.html](http://www.nuforc.org/webreports/reports/069/S69193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fellsmere (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A group of us watched one large center light brighter than the surrounding 100 to 200 other light formations in the sky.  2 planes flew near the objects over the duration of the event.  Each of the smaller lights slowly gravitated towards the bright center light until they became one.  When they all connected it grew very large and bright then slowly drifted down/away from our vision.  The lights could be seen if you were facing east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145176.html](http://www.nuforc.org/webreports/reports/145/S145176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
