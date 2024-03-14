@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Great Falls (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Mysterious light in the sky looked like something was shot off or fired off still on going even after 11 mintues 3 lights fast moving moving side to side like its hovering</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154182.html](http://www.nuforc.org/webreports/reports/154/S154182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white light in the north eastern sky of Claifornia High Desert,changes to small red light , disapears.The UFO that my husband and I witnessed was a bright white light.  We thought it was a planet at first.  We continued to watch it though and it continued to descend slowly downward for about 3 minutes, at about the 4th minute it changed from being large white light to a small red light, and then it shot out towards the Southern desert of Nevada. Our location was the high desert of Southern California.  We were located in Hesperia, CA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69240.html](http://www.nuforc.org/webreports/reports/069/S69240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
