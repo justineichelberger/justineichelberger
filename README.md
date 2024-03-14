@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:48 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hartland (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>BIG AND BRIGHTOK THIS WAS WEAR FOR ME BECUSE I AM ONLY 14 BUT N/E WAY I JUST GOTOFF THE WEB AND WES GOING TO BED WEN I LOOKED OUT THE WINDO TO SEE ALL THE STARS. THER WAS JUST 1 RO SO I THOUT AT THE TIME IT START TO MOVE UP AND DNE THEN IN A LARG O. IT STOPED 4 ABOUT 5 MIN THEN IT CAME RATE AT ME IT STOPED AT 300YARK RO SO AND GOT RELLY BRITE THEN DINE TILL I COUD NOT SEE IT N/E MORE . IT GOT BRITE 1 MORE AND WENT AS FAST AS I HADE EVER SEEN N/E THING GO IN TO THE NIGHT. I GOT UP THE NEXT MORINING AND TOLD DAD HE SED THAT HE HAD SEEN 1 3 WEEK AGOIN THE SAME SPOT.((NUFORC Note:  Student indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22702.html](http://www.nuforc.org/webreports/reports/022/S22702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Oval shaped craft over CanadaWhile locking up the house at approx 2235 hrs, I noticed a brigh orange light over the roof of my neighbours residence.  I was'nt surprised by this since our area is in the flight path of he local airport.  At this hour though, it is typically courier flights inbound from the US.  One other oddity was the fact that the oblect was going paralell to the flight path normally used by the aircraft.  The orange light was moving away from my position, slowly and did not appear to change altitude.  I did not see anyother craft at first and would estimate that it was around 2 miles from my position.As I watched, another orange light approached from the south and flew paralell to the first object.  The two craft then changed color to a dull red and seemed to elongate into an oval shape befor they sped off out of sight within seconds.  The red effect trailed out behind them and appeared to, "wave" as if in turbulance, (sic).  The sky was cloudly with an outside temperature of ) degrees celsius.  I watched the news and heard nothing of anyother reports in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49654.html](http://www.nuforc.org/webreports/reports/049/S49654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
