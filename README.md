@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:55 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Miami Beach (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small black object slowly moves in various directions off Florida's coast.On Friday morning 3/14/03 two friends and myself were watching the sunrise on the beach.  It was a nice clear morning above but off the coast to the east there was a giant thunder cloud looming.  There was a spectacular lightning show going on inside the clouds.  We watched for a few moments when I noticed a small black dot that seemed to hover just outside of the storm.  There were no visible lights coming from the craft.  I expected to see flashers if it was a plane or helicopter but there was nothing.  Just a black dot and it was far away, too far to tell what shape it was.  The black dot was slowly moving north to south with the dark grey cloud as a backdrop.  The black dot did not seem to be going away or coming toward us for it stayed constant.  Venus was very bright and just to the right of the clouds in the clear sky and served as a good refernce point for the objects direction of flight.  The object moved north to south until it appeared directly below venus then the object slowly changed direction and went straight up toward venus and then changed direction again moving from south to north in a perfect line with venus and hovering above the clouds, like it was observing the storm.  The object moved very slowly, so slow you really had to concentrate on the spot in the sky as it moved.  We watched for 15-20 minutes as the black dot moved from the backdrop of the cloud to the backdrop of the sunny sky.  If it was a plane it would have disappeared out of sight or flown over our heads, and I couldn't imagine a helicopter being much different except for its hovering ability.  this object did not get smaller or larger, but it was definately a long way away.  A tiny hole in the sky that moves!  I am really curious to know what this might have been or if anyone saw something similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28158.html](http://www.nuforc.org/webreports/reports/028/S28158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Dongen (Netherlands) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was full moon and a little bit cloudy when I had fotografed these 3 things.I was standing on the coordinates N 51 39.029  E 455.955 and I was taking a picture in the south direction. The objects ware above the village Dongen. I haven't seen them with my eyes, but I saw them on my pc later on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49690.html](http://www.nuforc.org/webreports/reports/049/S49690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
