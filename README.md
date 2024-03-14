@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Oval shaped craft over CanadaWhile locking up the house at approx 2235 hrs, I noticed a brigh orange light over the roof of my neighbours residence.  I was'nt surprised by this since our area is in the flight path of he local airport.  At this hour though, it is typically courier flights inbound from the US.  One other oddity was the fact that the oblect was going paralell to the flight path normally used by the aircraft.  The orange light was moving away from my position, slowly and did not appear to change altitude.  I did not see anyother craft at first and would estimate that it was around 2 miles from my position.As I watched, another orange light approached from the south and flew paralell to the first object.  The two craft then changed color to a dull red and seemed to elongate into an oval shape befor they sped off out of sight within seconds.  The red effect trailed out behind them and appeared to, "wave" as if in turbulance, (sic).  The sky was cloudly with an outside temperature of ) degrees celsius.  I watched the news and heard nothing of anyother reports in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49654.html](http://www.nuforc.org/webreports/reports/049/S49654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carmel-by-the-Sea (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Stationary intermitient flashesAt approximately 6 a.m. at beach in Carmel enjoying clear sky, bright stars, looking to SW.  During period of about 5-7 minutes noticed approximately 7-9 flashes, southerly direction (S), approx. 45-55 degree inclination.  Flashes (white) were of greatly varying magnitude of brightness.  Not of steady rhythm, but intermittent and confined to one small area of sky.  Definitely not moving as were several satellites seen from approximately 6 to 6:20 a.m.Am 59 y/o healthy individual.  Enjoy stargazing.  Familiar with general appearance of most man made and celestial bodies.  “Not normal” by personal experience.Have seen this same phenomenon once before, several years ago, approximately same area of sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74654.html](http://www.nuforc.org/webreports/reports/074/S74654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
