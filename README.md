@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alhambra (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was round and highlighted green with an outer light green layer.  Weasel it up close then disappear n within 2 seconds it appeard in the fists nve in the mountain around 5 this morning.  I should have taken a picture /:</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80466.html](http://www.nuforc.org/webreports/reports/080/S80466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nacogdoches (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Flying lights over Nacogdoches,  TXMy neighbors from 2 separate houses, my children, partner and myself watched as just over the trees 3 sets of lights came through.  One flew ahead of the other two.  One back tracked the other one just froze in the air.  Then they all carried in as another set of 2 came around, then another, again and again till 1 had passed by.  They would eventually wrap around together til they were in a group and then vanish individually.  It was really interesting.  We called the sheriff's department but they insisted there were no scheduled flights near by at all which again makes us even more curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117814.html](http://www.nuforc.org/webreports/reports/117/S117814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
