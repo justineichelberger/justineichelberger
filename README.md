@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:48 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fellsmere (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A group of us watched one large center light brighter than the surrounding 100 to 200 other light formations in the sky.  2 planes flew near the objects over the duration of the event.  Each of the smaller lights slowly gravitated towards the bright center light until they became one.  When they all connected it grew very large and bright then slowly drifted down/away from our vision.  The lights could be seen if you were facing east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145176.html](http://www.nuforc.org/webreports/reports/145/S145176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hartland (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>BIG AND BRIGHTOK THIS WAS WEAR FOR ME BECUSE I AM ONLY 14 BUT N/E WAY I JUST GOTOFF THE WEB AND WES GOING TO BED WEN I LOOKED OUT THE WINDO TO SEE ALL THE STARS. THER WAS JUST 1 RO SO I THOUT AT THE TIME IT START TO MOVE UP AND DNE THEN IN A LARG O. IT STOPED 4 ABOUT 5 MIN THEN IT CAME RATE AT ME IT STOPED AT 300YARK RO SO AND GOT RELLY BRITE THEN DINE TILL I COUD NOT SEE IT N/E MORE . IT GOT BRITE 1 MORE AND WENT AS FAST AS I HADE EVER SEEN N/E THING GO IN TO THE NIGHT. I GOT UP THE NEXT MORINING AND TOLD DAD HE SED THAT HE HAD SEEN 1 3 WEEK AGOIN THE SAME SPOT.((NUFORC Note:  Student indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22702.html](http://www.nuforc.org/webreports/reports/022/S22702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
