@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Matawan (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>gigantic light over fieldi was driving with a friend of mine on the garden state parkway and we looked to our right in an open field and saw a very low gigantic light. very low to the ground. the field is swamplands. the light was so big we couldnt make out a shape although we were going about 65mph.i slowed down a bit before the trees got in the view and couldnot see the object anymore. it was just hovering as far as we could tell and about 75-100 feet off the ground. there was no blinking lights, no FAA lights, just one solid light. we couldnt believe it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42973.html](http://www.nuforc.org/webreports/reports/042/S42973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wentzville (MO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Five dim blue chevron lightsIt was late and a large group of my friends were sitting in a circle just talking.I decided to look up seeing as the stars were out bright and it was a clear night, when a very dim, but very distinct chevron figure flew across the sky, too fast for a plane to be moving.I blurted out "Holy sh*t, look at that!", to which my quickest witted friend looked up and was just as astonished to catch the five dim lights moving across the sky at a rapid speed.Seeing as they were so dim I'm not completely sure if it was one ship with multiple lights or multiple ships synchronously moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87687.html](http://www.nuforc.org/webreports/reports/087/S87687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
