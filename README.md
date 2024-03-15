@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>huge saucer seen hovering and flying very low which made no noisei saw this saucer above me driving home around 10:40. I stopped my car and looked up... It was huge.. It had 2 white lights on each side then a red and green light at the front and back. it was right over me and was a saucer shape... It made no noise and hovered for about 2 minutes then traveled slowly away from my car</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50180.html](http://www.nuforc.org/webreports/reports/050/S50180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Etobicoke (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>silver disk, hovering in the sky approx. 1 minuteComing off the highway, a silver disk was hovering in the clear blue sky.  I pulled over to make sure I was seeing what I was seeing.  Sure enough as I tried to keep my eye on it and pull over, it had just disappeared with no trace of it in sight.  Again, the sky was extremely clear blue that day and it was sunny so I’m guessing that’s how it hid itself so good.  Because of its distance (approx. 1 km away and fairly high in the sky) all I can say is that it was in the shape of a disk and it appeared to be silver due to the colour of the sky (no clouds) and the brightness of the sun that day.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56754.html](http://www.nuforc.org/webreports/reports/056/S56754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
