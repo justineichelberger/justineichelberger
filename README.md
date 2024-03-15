@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>color changing light that made no engine noise and dissappeared in a clearskywhile sitting on my aunts porch me, my cousin, and a friend were goofing around when i looked above the house across the street and seen a red light in the distant sky changing colors from red to white. at first we thought it was a plane till we noticed there was no blinking beacon light or any engine noise comming from it. we stared at it for about ten minutes. when it got to where our street ended it dissappeared. the only thing is that there wasnt a cloud in the sky when it dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12608.html](http://www.nuforc.org/webreports/reports/012/S12608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Volcano (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Light above the tree line.Saw a bright light in the sky above the tree line.  Light appeared to change colors.  Smaller fainter lights blinked around the bright light and the bright light would move towards the fainter lights. This light did not appear to move with the stars and remained in the same area for two hours.  My wife and I both witnessed the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133123.html](http://www.nuforc.org/webreports/reports/133/S133123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
