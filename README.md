@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Camden (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large "sphere" shaped object sighted hovering with an up and down motion.I wanted to report this event though it happened many years ago.  I never reported it to anyone before and thought it may be of interest to someone. I was 14 years old at the time of this sighting.  I lived in a rural area, on a farm.  On a Saturday morning I left my house to do some chores.  Across the road and approximately 100 yards from me, I immediately saw a large "sphere" shaped object about 50 feet in diamater, smooth and dark gray in color.  It hovered about 4' to 6' above the ground and moved in a slight up and down movement but made no sound. Being frightened by this unexpected sight, I quickly went back into my house.  After some time, I ventured back outside to see if the sphere was gone.  After looking around I saw that it had traveled across the road, and over our large farm pond and was now down behind a row of trees on the other side.  It's up and down movement seemed to be more pronounced but otherwise remained stable.  I once again retreated back into my house.  Not untill that evening did I venture back out to find that the object was gone.((NUFORC Note:  We have assigned an arbitrary date in March 1962.  PD))((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  One of two excellent reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61670.html](http://www.nuforc.org/webreports/reports/061/S61670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Photo shows illuminated disk with illuminated cupola when object stopped moving.10pm on March 15, 2015 just as witness was leaving Lake Wales, Florida.The lit object came to an abrupt stop and hovered in the sky.  JPG photo includes inset blow-up of the object.  Witness couldn't get a clearer blowup “due to lack of pixilation” (sic).Without the cupola, the object could be a streetlight except it was moving.I learned of the sighting from a third party in Little Rock, AR.  Witness told her he doesn't know what the two right-side light sources are because he didn't notice them until I prompted her to ask.I have not spoken with the witness; as a potential publisher of his report, it’s better that he speak directly to NUFORC.  He's more than willing to discuss the sighting event.I also sent this same alert to the MUFON website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118347.html](http://www.nuforc.org/webreports/reports/118/S118347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
