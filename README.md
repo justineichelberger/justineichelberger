@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sometime in March, 1995, at 0630, facing west, l  saw a large fireball move very fast from south to north, changing colors as it movedAt 0630 sometime in March,'95 while waiting for a bus to take me to work, I saw a fireball zooming at great speed across the sky. It changed colors as it streaked across the horizon, going from south to north, parallel to the ground but seeimg to arc downward as it disappeared over the northern horizon.  I expected an implosion and braced myself but neither saw nor heard any evidence of ground impact. There was no tail, no stream, and no noise as it moved across the sky. It wasn't far away and it wasn't high above. And, it was large. Can't say how large. If it had been a meteor it would have made a tremendous expolsion.  Meteors do not, I believe, move parallel to the ground. Later, at work, I fouind out that another person, a woman, an English as a Foreign Language instructor as myself, had also seen the fireball that same morning at the same time.  In fact, she and her teenage daughter had seen it as they drove to the girl's school.There were no reports of sightings either in the newspapers or TV news broadcasts.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49650.html](http://www.nuforc.org/webreports/reports/049/S49650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sand Rock (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>I have had nearly the same experience twice, 3 to 4 days apart.  The first time, I saw a bright white light in the sky exactly opposite the moon hovering in one spot.  About an hour later, I noticed the light was gone. I laid down for the night and heard a distant explosion.  The cows (I live right in the middle of a pasture) let out one loud bellowing "moo" all in unison, then nothing else happened.  3 to 4 days later (tonight) I saw a bright flash across my living room and heard another very loud explosion and it was much closer this time.  Close enough to rattle the windows of my house.  The cows did not make any sounds this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133133.html](http://www.nuforc.org/webreports/reports/133/S133133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
