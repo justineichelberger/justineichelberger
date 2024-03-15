@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 14 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Voorburg (Netherlands) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two different shaped lights changing colors in a pattern,frequently at night during 15-20 minutes.I have seen a circular object high in the sky, about 50 degrees up from the viewpoint,the other one was bit smaller and located lower. It looked like star but was bigger and emitted much stronger lights and had some kind of sphere around it. The object blinked frequently  and changed colors every time . There was a regular pattern. From the moment I saw, it started with red, then changing to pink,green and then light blue.The other object behaved in an exactly the same way but was smaller in shape.After about 15 minutes the first light dissapeared and the other light followed soon after couple of minutes...((NUFORC Note:  Source of report elects to remain semi-anonymous; provides e-address only, which indicates that the report was submitted from an address in Russia.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55721.html](http://www.nuforc.org/webreports/reports/055/S55721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Rock Hill (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Rock Hill, SC - 1988- circle of flashing lights slowly appeared, one light at a time, then, flashing faster and faster, zoomed out of sI was awakened early one morning in my dorm room at Winthrop College, which is unlike me.  I looked out the window near my bed.  Our curtains were not drawn, as we were on the eighth floor where no one could really see in.  I noticed a flashing yellow-orange light flashing slowly.  At first I thought nothing of it, thinking it was an airplane light or a radio tower light.  Soon white, or light yellow lights began to appear one-by-one in a ring around the original light.  I was frozen, trying to understand what I was seeing.  After the last light in the outer ring appeared. the entire set  of lights began to blink in unison, faster and faster.All of a sudden, the entire object zoomed out of sight, faster than anything I'd seen before.  I'll never forget it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49306.html](http://www.nuforc.org/webreports/reports/049/S49306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
