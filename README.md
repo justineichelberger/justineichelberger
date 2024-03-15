@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:37 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Midland (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unidentified oval shape object seen in TexasClear dark sky with stars on it. No moon. Horizontal distance to object about 250-300 feet. Vertical distance from ground about 50 feet. Estimated size of object was about 15 feet (diameter). Shape was like oval but hard to detect exactly as was so bright. Object was shining brite white color light, brighter than moon normally. The light beam was seen from the object straight down toward ground. Object did not move or it moved straight away from us so that movement was not seen. Object was seen about 40 seconds from first detecting. After that light beam disappeared, the light emitted by the object started to get less bright and after about 30 seconds there was no object anymore but instead the small light emitting cloud which was spreading as a function of time and after 1 more minute was hard to see anymore. The whole process was taken to video tape by my 15 years old son.((NUFORC Note:  We would very much like to view the alleged video footage, but the witness elects to remain anonymous, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23648.html](http://www.nuforc.org/webreports/reports/023/S23648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bokeelia (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>This to elaborate on my sighting,and to confirm the date (I read the posted report and saw the remarks). One thing I failed to mention was the absence of contrails. This didn't strike me as unusual at the time, but does now. Also the sudden change of course would have imposed bone crushing G-forces. I am no expert on aircraft, but do know enough about physics and the physiology of the human body to be certain that no human could have survived that manuever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22352.html](http://www.nuforc.org/webreports/reports/022/S22352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
