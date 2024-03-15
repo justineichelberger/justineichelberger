@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Wilkesboro (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Images of unidentified &quot;object&quot; accidentally located while viewing on maps.google.com &quot;Streetview&quot; in North WilkesbGood evening,  The images you will see (a pink “spaceship” and vivid white streaks that appear to go through a hole in the sky, and when one of the streaks cannot be seen at a couple of points, there seems to be a “warp” in the sky) may be found in the same manner I found it.  Last Friday I was looking at an address located on Pumpkin Patch Road, North Wilkesboro, NC.  Using the www.maps.google.com “Streetview” while viewing the area of the address I planned to visit, I accidentally scrolled toward the sky.  What I saw was and is amazing to me.  I changed location in small increments and became even more amazed.The images are visible for “almost” the entire length of Pumpkin Patch Road and are also visible for the entire length of Woodhaven Road (an intersecting road).  I am not sure at what point the video began recording, but near the beginning of Pumpkin Patch Road the images are not visible the only thing appearing out of place in the sky is a white streak (what looks like a short vertical “line segment” at or very near the spot where the pink image appears.I am 62 years old and have never witnessed such a sight. 99.5% of all “UFO” pictures I have seen could have easily have been a hoax or simply misidentification.  I realize this is several years old and that the entire video is copyrighted by Google, but I would like to hear the opinion of someone who is much more informed than I.Thank you, ((name deleted))((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131868.html](http://www.nuforc.org/webreports/reports/131/S131868.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Volcano (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Light above the tree line.Saw a bright light in the sky above the tree line.  Light appeared to change colors.  Smaller fainter lights blinked around the bright light and the bright light would move towards the fainter lights. This light did not appear to move with the stars and remained in the same area for two hours.  My wife and I both witnessed the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133123.html](http://www.nuforc.org/webreports/reports/133/S133123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
