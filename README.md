@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dividing Lights Over Pensacola BeachMy family, girlfriend and I were in Pensacola, Fl, for spring break with some family friends.  I had actually just had a conversation a few hours prior with our hosts about UFO sightings and prevalence in the area. That night, my girlfriend and I were sitting on their deck enjoying a romantic evening when 5-6 lights appeared maybe 35 degrees above the horizon.  At first I dismissed it thinking that it was just a group of air planes from the nearby military base, but as we watch the lights go higher in the sky they began to divide into smaller points of light and dramatically change direction.  By now we were curious, knowing that neither of us had seen anything move so quickly and precisely in the sky before.  The lights came closer and closer and were just below cloud level when all of the darting points reconvened and assumed a linear shape.  The lights were at an angle that made it impossible to tell for sure, but it looked almost like a bent line (chevron?) as it veered north.What made it so peculiar and distinctively not an airplane was the in consistency of its movement and the way the lights divided themselves.  I’ve never seen anything like it and must say that it was certainly one of the most eye opening experiences I’ve ever had.((NUFORC Note:  Date is not indicated by the source of the report.  We have assigned an arbitrary date, until we hear back from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76100.html](http://www.nuforc.org/webreports/reports/076/S76100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Camden (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large "sphere" shaped object sighted hovering with an up and down motion.I wanted to report this event though it happened many years ago.  I never reported it to anyone before and thought it may be of interest to someone. I was 14 years old at the time of this sighting.  I lived in a rural area, on a farm.  On a Saturday morning I left my house to do some chores.  Across the road and approximately 100 yards from me, I immediately saw a large "sphere" shaped object about 50 feet in diamater, smooth and dark gray in color.  It hovered about 4' to 6' above the ground and moved in a slight up and down movement but made no sound. Being frightened by this unexpected sight, I quickly went back into my house.  After some time, I ventured back outside to see if the sphere was gone.  After looking around I saw that it had traveled across the road, and over our large farm pond and was now down behind a row of trees on the other side.  It's up and down movement seemed to be more pronounced but otherwise remained stable.  I once again retreated back into my house.  Not untill that evening did I venture back out to find that the object was gone.((NUFORC Note:  We have assigned an arbitrary date in March 1962.  PD))((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  One of two excellent reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61670.html](http://www.nuforc.org/webreports/reports/061/S61670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
