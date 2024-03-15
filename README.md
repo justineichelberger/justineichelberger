@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hermann (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red orb shape with no flashing lights, moving quickly across sky then disappeared very quickly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107883.html](http://www.nuforc.org/webreports/reports/107/S107883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>looking southbound on I-435, Trapezoid shaped, no lights at all. It was moving fast from left to right.I was traveling southbound on I-435, near mile marker 57.2.  I saw a moving object super far out above the tree line while I was operating my car,  I could tell it's far out because the amount of haze around the object.  Trapezoid shaped, no lights at all (not even blinking).  It was moving fast from left to right.  Than vanished behind the tree line.  I couldn't make out much . It was a greyish brown (?) metallic color, it was before sunset around 6ish.  But it was moving extremely fast but too large to be any type of plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154243.html](http://www.nuforc.org/webreports/reports/154/S154243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
