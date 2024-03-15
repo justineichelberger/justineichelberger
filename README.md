@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bokeelia (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>This to elaborate on my sighting,and to confirm the date (I read the posted report and saw the remarks). One thing I failed to mention was the absence of contrails. This didn't strike me as unusual at the time, but does now. Also the sudden change of course would have imposed bone crushing G-forces. I am no expert on aircraft, but do know enough about physics and the physiology of the human body to be certain that no human could have survived that manuever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22352.html](http://www.nuforc.org/webreports/reports/022/S22352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dividing Lights Over Pensacola BeachMy family, girlfriend and I were in Pensacola, Fl, for spring break with some family friends.  I had actually just had a conversation a few hours prior with our hosts about UFO sightings and prevalence in the area. That night, my girlfriend and I were sitting on their deck enjoying a romantic evening when 5-6 lights appeared maybe 35 degrees above the horizon.  At first I dismissed it thinking that it was just a group of air planes from the nearby military base, but as we watch the lights go higher in the sky they began to divide into smaller points of light and dramatically change direction.  By now we were curious, knowing that neither of us had seen anything move so quickly and precisely in the sky before.  The lights came closer and closer and were just below cloud level when all of the darting points reconvened and assumed a linear shape.  The lights were at an angle that made it impossible to tell for sure, but it looked almost like a bent line (chevron?) as it veered north.What made it so peculiar and distinctively not an airplane was the in consistency of its movement and the way the lights divided themselves.  I’ve never seen anything like it and must say that it was certainly one of the most eye opening experiences I’ve ever had.((NUFORC Note:  Date is not indicated by the source of the report.  We have assigned an arbitrary date, until we hear back from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76100.html](http://www.nuforc.org/webreports/reports/076/S76100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
