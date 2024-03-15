@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Photo shows illuminated disk with illuminated cupola when object stopped moving.10pm on March 15, 2015 just as witness was leaving Lake Wales, Florida.The lit object came to an abrupt stop and hovered in the sky.  JPG photo includes inset blow-up of the object.  Witness couldn't get a clearer blowup “due to lack of pixilation” (sic).Without the cupola, the object could be a streetlight except it was moving.I learned of the sighting from a third party in Little Rock, AR.  Witness told her he doesn't know what the two right-side light sources are because he didn't notice them until I prompted her to ask.I have not spoken with the witness; as a potential publisher of his report, it’s better that he speak directly to NUFORC.  He's more than willing to discuss the sighting event.I also sent this same alert to the MUFON website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118347.html](http://www.nuforc.org/webreports/reports/118/S118347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>color changing light that made no engine noise and dissappeared in a clearskywhile sitting on my aunts porch me, my cousin, and a friend were goofing around when i looked above the house across the street and seen a red light in the distant sky changing colors from red to white. at first we thought it was a plane till we noticed there was no blinking beacon light or any engine noise comming from it. we stared at it for about ten minutes. when it got to where our street ended it dissappeared. the only thing is that there wasnt a cloud in the sky when it dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12608.html](http://www.nuforc.org/webreports/reports/012/S12608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
