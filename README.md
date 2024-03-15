@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Volcano (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Light above the tree line.Saw a bright light in the sky above the tree line.  Light appeared to change colors.  Smaller fainter lights blinked around the bright light and the bright light would move towards the fainter lights. This light did not appear to move with the stars and remained in the same area for two hours.  My wife and I both witnessed the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133123.html](http://www.nuforc.org/webreports/reports/133/S133123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Report of missile launch from Vandenberg AFB.  PD))zig-zag persistent low-altitude contrailI didn't observe a craft, but rather the trail of one. I was driving home from work at about 6:30pm, heading south on San Thomas Expressway, when I noticed a thin white contrail in the south-bay sky (probably just over Los Gatos, CA). It was no ordinary contrail. First, it did not dissipate for over half an hour or longer. But most important, it was not in a straight line, but rather in extremely tight loops, zig-zags, and sharp angles. It looked like random scribbles in the sky. There's no way a conventional aircraft could produce this, and yet it was definitely artificial, and appeared to be at low altitude, I'd guess less than 4000 feet.I am definitely not the only person to observe this phenomena. It was plainly visible in the sky, and must have been observed by atleast everyone heading south on San Thomas with me. I'd love to hear from anyone in the south bay area who witnessed its formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22238.html](http://www.nuforc.org/webreports/reports/022/S22238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
