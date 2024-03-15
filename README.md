@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:24 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Rock Hill (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Rock Hill, SC - 1988- circle of flashing lights slowly appeared, one light at a time, then, flashing faster and faster, zoomed out of sI was awakened early one morning in my dorm room at Winthrop College, which is unlike me.  I looked out the window near my bed.  Our curtains were not drawn, as we were on the eighth floor where no one could really see in.  I noticed a flashing yellow-orange light flashing slowly.  At first I thought nothing of it, thinking it was an airplane light or a radio tower light.  Soon white, or light yellow lights began to appear one-by-one in a ring around the original light.  I was frozen, trying to understand what I was seeing.  After the last light in the outer ring appeared. the entire set  of lights began to blink in unison, faster and faster.All of a sudden, the entire object zoomed out of sight, faster than anything I'd seen before.  I'll never forget it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49306.html](http://www.nuforc.org/webreports/reports/049/S49306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Surprise (75 miles north of) (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately picture - picture minutes.</sub><blockquote><sub>Round disk flat bottom with a white aura around it.I was in the back county taken picture of jeeps coming down a hill.When I enlarge the picture there was a dot in the cloud I enlarge the dot to see it was a large disk in the sky and has a white aura around it and a flat bottom.I would like some one to look at this picture.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119942.html](http://www.nuforc.org/webreports/reports/119/S119942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
