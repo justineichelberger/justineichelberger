@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Peekskill (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At night in sky I saw black triangular v shape object with 3 dim lights on each side gliding for about 30 secs b4 it darted awayWestchester county Yorktowm Heights on the evening 3/15/20 we were looking up at the stars. I saw a triangular  v shaped black object with dim lights (3 on each side) boomerang like. It was very high up and moved like it was gliding but in a weird s shape path and then it darted away.  It was like 30 seconds.  The whole thing was over before I could think what it could be or if it really happened.  Weirdest thing I ever saw in my 56 years.I have seen many drones flying at night and it wasn’t one of them ; or any type of plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154585.html](http://www.nuforc.org/webreports/reports/154/S154585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>red ball of light with orange tail then vanshedHeading east bound on interstate 595 saw a ball of light with a orange tail behind it watched it for a minute or two before the orange light went away and it became a red ball of light. Then proceeded south on interstate 95 where the object stayed parallel with our vehicle. It was about 5,000 feet in the air and really bright The red ball of light stayed with our car as we were watching it to our east. All of a sudden as were staring at this ball of light we see a small orange glow from behind it and the red ball of light disappeared into thin air on a cloudless night.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62198.html](http://www.nuforc.org/webreports/reports/062/S62198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
