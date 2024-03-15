@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:24 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:43 on 15 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Surprise (75 miles north of) (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately picture - picture minutes.</sub><blockquote><sub>Round disk flat bottom with a white aura around it.I was in the back county taken picture of jeeps coming down a hill.When I enlarge the picture there was a dot in the cloud I enlarge the dot to see it was a large disk in the sky and has a white aura around it and a flat bottom.I would like some one to look at this picture.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119942.html](http://www.nuforc.org/webreports/reports/119/S119942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Danbury  (near; Carmel VOR) (CT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 00:05 - 00:05 minutes.</sub><blockquote><sub>Boomerang shaped object approached our aircraft, reamained stationary overhead, and quickly dissapeared in vertical climb until no longer visibleNight sightseeing flight over statue of liberty which departed Waterbury/Oxford airport in Oxford CT. Westbound towards New York class B airspace Hudson River VFR corridor, ident signal from Carmel VOR which was being used for navigation, became very unreadable due to static. I was within Danbury Airport class D airspace, and in contact with their control tower. Directly at twelve O'clock a large boomerang shaped object leaving a trail of what seemed vapor or fog, and a light glow around it approached our aircraft. We were flying a V35  Bonanza, altitude 3000MSL 2400AGL Groundspeed 130knots. No wake turbulence was experienced. Object flying at very slow speed. No navigation/position/anti collision lights. No traffic advisories from air traffic control. As the object positioned itself overhead, some type of observation ports or windows were noticed under the apex or tip of the boomerang. At this point the object made an incredible(as if the whole thing was not incredible enough up to this moment) high rate of speed climb until the object was no longer visible. Name is being withheld for the same reason I did not contact Danbury tower or New York approach to verify if they had seen what I just had. Did not report an incident report for a near miss. My wife who was always skeptical of these things, is now a changed person, and so am I.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03410.html](http://www.nuforc.org/webreports/reports/003/S03410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
