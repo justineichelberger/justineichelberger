@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Amber triangles over Missoula, MTThe light appeared and looked like smoke floating in the sky and I sat there watching it.  It then formed into a dim light and floated across the sky and burst into about six different lights.  As my boyfriend and I watched the lights formed two triangles each made from three lights and moved across the sky and faded out.  The colors changed also, the first color was grey almost smoke like.  Then from there a white light. At the end when it burst into the lights and triangles it turned an amber almost orange looking color.  It’s definitely nothing like we’ve ever seen before and we practice CE-5 meditation.  It also didn’t look like anything the military could have because all of this happened within seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154221.html](http://www.nuforc.org/webreports/reports/154/S154221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Six black UFO's over NE Philadelphia--blue and red lights.I saw six or more ufos flying over northeast philadelphia.  The crafts were circular but at closer expectation may have been in the shape of an aircraft.  They were black with red and blue lights flickering traveling northwest to east south.  They were flying somewhat high compared to other aircraft I've seen, human.  They were very noisey also like incredibly loins ((??)).  I'm not sure if they may have been military but still felt the urge to report.  Earlier in the day while inside a building, not my home, I heard the same noise and tried to look out a window but was unable to see anything.  This happened between 11am-3pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107898.html](http://www.nuforc.org/webreports/reports/107/S107898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
