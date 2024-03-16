@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lunenburg (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green light moved quickly overhead from WSW to ENE, transversing 30 degrees of sky in less than three seconds.Bright green spere of light, about 3 times the visual size of Venus, tranversed the sky, directly over my location, from WSW to ENE. Object was spotted out sliding glass doors. I calculate my field of view to be about 30 degrees of sky from top to horizon. The object transveresed this arc in 1 1/2 to 3 seconds in a straight line. There are pine trees about 50 yrds from my location, and as the object disappeared into that ridge line, it was not low enough to light the trees or ground, inspite of being very bright. It was about 3 to 4 times the brightness of Venus at it's brightest. Did not appear to be a flare, or meteor, although the speed seemed slower than meteors I have witnessed. I also witnessed an unreported white fireball, at least half the diameter of the full moon, from the same vantage point, EXACT same tragectory, in August 1997. Flight characteristics were similar. Although I found the first sighting very odd, I dismissed it as either a meteor, or some incindiary, because the first, August 97 gave off "sparks" as it flew. If it was a meteor in August, it seemed to large to have entered the atmosphere unreported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03351.html](http://www.nuforc.org/webreports/reports/003/S03351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Manahawkin (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>First notice two lights widely spaced apart greater than width of planes that fly by.  Saw the lights through tree line on garden state parkway south, by exit 63 at 8:35pm.  We noticed the lights were getting closer as we were driving by, a third light appeared outlining a triangular shape.  No noise occurred.  It looked like it was only flying about 100-200 feet overhead.  It crossed directly over the garden state parkway in our field of view as we were driving.  It made no sound.  Just three lights at each point of triangle and it was transparent.  It was roughly two hundred feet long by estimated 40 feet wide.  These estimations could be off due to perspective against the night sky.  It was both amazing and terrifying at same time.  It was moving relatively slow. 100% not plane or drone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145249.html](http://www.nuforc.org/webreports/reports/145/S145249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
