@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155072.html](http://www.nuforc.org/webreports/reports/155/S155072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Huron (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>red and green lights flying low over Huron High schoolI Was Watching Nick on my Tv Btw my bed is right next to a window.  So I looked outside and I saw little drone like saucers flying over Huron High School and heading towards me.   It was 3 Am in the morning so i was confused...this is all i remember.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139630.html](http://www.nuforc.org/webreports/reports/139/S139630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
