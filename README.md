@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Stoughton/Cooksville area (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>hovering mass of lights over Stoughton WIDriving to work on HWY 138 towards Stoughton.  Saw a hovering mass of white lights with small red and blue lights about 500 feet in the air.  I turned around and it moved from to side to side slanting and then started to move off.  I turned around again and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55752.html](http://www.nuforc.org/webreports/reports/055/S55752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Duluth (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two UFO's Combining and floating away in the Berkeley Lake areaHeard family dogs barking and looked outside to see two crafts with bright lights approaching each other slowly and then proceeded to come together and ascend into the sky, We want to know what we saw!((NUFORC Note:  We assume a nighttime sighting, but the source of the report elects to remain totally anonymous, and provides no contact information, so we are unable to confirm that fact.  We have changed the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107897.html](http://www.nuforc.org/webreports/reports/107/S107897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
