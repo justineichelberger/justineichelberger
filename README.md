@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:29 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in River Ridge (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>In New Orleans, approximately 7 spheres silently travel in a straight line then become triangle as they move overhead.At approximately 9:15 pm I was walking my dog in River Ridge, Louisiana.  River Ridge is a suburb of New Orleans.  I glanced over my right shoulder and noticed a group of grayish, white spheres traveling through the air.  They were silent, and fast.  The whole event took less than 10 seconds.  I continued to watch them fly overhead, and just as they did, the line broke formation and formed a triangle with one sphere in the middle.  I noticed as they moved they sort of fluttered, not much though, as if they were being knocked by slight currents in the air.  They appeared small to me, and I probably wouldn't have noticed them had there not been so many of them.  I will admit that I have never believed in these sorts of things.  I am not a sci-fi fan, or anything like that.  I am still skeptical of what I saw, but I will certainly never forget it.  One more fact to add to my skepticism, I live within 10 miles of the New Orleans International Airport.((NUFORC Note:  Sighting occurred on Tuesday night, March 16, 2004.  We have corrected the date above.  Please see other similar report for this date from Mt. Pleasant, SC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35646.html](http://www.nuforc.org/webreports/reports/035/S35646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehigh Acres/Fort Myers (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting of four redish orange diamond shaped objects in SW Florida sky heading North EastI was walking through my front yard looked up at the western sky at the cresent moon and saw 3 strange lights traveling slowly east just below the moon.  As they climbed higher (I thought they could have been firework), they stopped then one by one disappeared.  After the first one disappeared I yelled to my husband to come look.  He came and was amazed too.  I had to make sure I was seeing this right.  He saw them, then a fourth showed up and one by one they stopped, slowly disappated, then disappeared until they were all gone.  I've never seen anything like this.  They were shaped like diamonds with four fire red colored corner dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96649.html](http://www.nuforc.org/webreports/reports/096/S96649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
