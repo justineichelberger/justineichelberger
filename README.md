@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehigh Acres/Fort Myers (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting of four redish orange diamond shaped objects in SW Florida sky heading North EastI was walking through my front yard looked up at the western sky at the cresent moon and saw 3 strange lights traveling slowly east just below the moon.  As they climbed higher (I thought they could have been firework), they stopped then one by one disappeared.  After the first one disappeared I yelled to my husband to come look.  He came and was amazed too.  I had to make sure I was seeing this right.  He saw them, then a fourth showed up and one by one they stopped, slowly disappated, then disappeared until they were all gone.  I've never seen anything like this.  They were shaped like diamonds with four fire red colored corner dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96649.html](http://www.nuforc.org/webreports/reports/096/S96649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lunenburg (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green light moved quickly overhead from WSW to ENE, transversing 30 degrees of sky in less than three seconds.Bright green spere of light, about 3 times the visual size of Venus, tranversed the sky, directly over my location, from WSW to ENE. Object was spotted out sliding glass doors. I calculate my field of view to be about 30 degrees of sky from top to horizon. The object transveresed this arc in 1 1/2 to 3 seconds in a straight line. There are pine trees about 50 yrds from my location, and as the object disappeared into that ridge line, it was not low enough to light the trees or ground, inspite of being very bright. It was about 3 to 4 times the brightness of Venus at it's brightest. Did not appear to be a flare, or meteor, although the speed seemed slower than meteors I have witnessed. I also witnessed an unreported white fireball, at least half the diameter of the full moon, from the same vantage point, EXACT same tragectory, in August 1997. Flight characteristics were similar. Although I found the first sighting very odd, I dismissed it as either a meteor, or some incindiary, because the first, August 97 gave off "sparks" as it flew. If it was a meteor in August, it seemed to large to have entered the atmosphere unreported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03351.html](http://www.nuforc.org/webreports/reports/003/S03351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
