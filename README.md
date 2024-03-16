@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Noticed a bright blue light over Staten Island NY about 4am this morning.  It moved very fast and disappeared suddenly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87993.html](http://www.nuforc.org/webreports/reports/087/S87993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Amber triangles over Missoula, MTThe light appeared and looked like smoke floating in the sky and I sat there watching it.  It then formed into a dim light and floated across the sky and burst into about six different lights.  As my boyfriend and I watched the lights formed two triangles each made from three lights and moved across the sky and faded out.  The colors changed also, the first color was grey almost smoke like.  Then from there a white light. At the end when it burst into the lights and triangles it turned an amber almost orange looking color.  It’s definitely nothing like we’ve ever seen before and we practice CE-5 meditation.  It also didn’t look like anything the military could have because all of this happened within seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154221.html](http://www.nuforc.org/webreports/reports/154/S154221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
