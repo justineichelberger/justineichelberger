@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Split second - Split second minutes.</sub><blockquote><sub>Saw a fuzzy light blue orb darting through the sky at what seemed to be a high altitude, without a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139187.html](http://www.nuforc.org/webreports/reports/139/S139187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ironton (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a bright yellow/orange football shaped light low over Ironton,Ohio.3/16/07: At approximately 10:15am, I saw a bright yellowish, orange football shaped light pulse over western Ironton in Ohio. It was cloudy and raining as I was driving towards the most westerly exit of Ironton, I noticed this bright yellowish orange football shaped light in a horizontal position, low over the most westerly part of Ironton, to the south of the McDonalds’ arch I pulled off the second exit, turned left toward the Ironton Hills mall and proceeded to the nearest portion of the mall that would allow me an unobstructed view of the town below me. I thought about getting the attention of the nearest person to me who was a man smoking a cigarette alone. I let him be due to the nature of this situation as he might think I was mentally ill. I kept my mind on the task at hand: to get a good photo. I took two photos, one on the horizontal axis and the second on the vertical. I viewed the object through the viewfinder when I took the pictures as I sat in my truck facing the south. Nothing showed up the photos after they were developed but I saw it with mine own eyes. I went back to the same exact area at the Ironton Hills mall (about 11:30am), after my appointment, and I could not find what I had seen before. However, I took a third photo of the same area but of course nothing appeared on film. As a side not I saw on the news (6pm WSAZ on 3/15/07) that there was a contaminated soil removal from a closed plant in New Boston, Ohio.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55761.html](http://www.nuforc.org/webreports/reports/055/S55761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
