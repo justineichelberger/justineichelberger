@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:34 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Photographed directly into a brilliant light in early morning hours.On March 16, 2006, I noticed the clouds were shaped like building blocks with fluffy sides on them.  With my digital camera, I shot the first photo and the sky was completely blank.  The leaves of plants on my balcony were light green.  The apartments across the street were clear and lit as if it were a hot summer day.  I took more shots and all were the same.  I thought something was wrong with the camera and set it down.  About a half hour later, I noticed that the clouds were now elongated and more like storm clouds.  With the same digital camera I shot approximately 6 photos.  All were now normal for that time of day.  The leaves now were a dark color.  The apartments across the street were now dark.  I believe I was shooting straight into some sort of brilliant light, possibly a flash of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68862.html](http://www.nuforc.org/webreports/reports/068/S68862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155072.html](http://www.nuforc.org/webreports/reports/155/S155072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
