@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Manahawkin (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>First notice two lights widely spaced apart greater than width of planes that fly by.  Saw the lights through tree line on garden state parkway south, by exit 63 at 8:35pm.  We noticed the lights were getting closer as we were driving by, a third light appeared outlining a triangular shape.  No noise occurred.  It looked like it was only flying about 100-200 feet overhead.  It crossed directly over the garden state parkway in our field of view as we were driving.  It made no sound.  Just three lights at each point of triangle and it was transparent.  It was roughly two hundred feet long by estimated 40 feet wide.  These estimations could be off due to perspective against the night sky.  It was both amazing and terrifying at same time.  It was moving relatively slow. 100% not plane or drone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145249.html](http://www.nuforc.org/webreports/reports/145/S145249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Murray (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A disc fly very low, no sound 6 white lights across the center and multipal colors lights between the white lights, moving south west, at a very slow speed, used my binoculars and could tell it was disc shaped, shortly after it had disapeared another one coming from the east moving in the same direction..  It slowed to a stop for 2 minutes before travling on southwest..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have changed the time of the sighting above, in order to reflect a nighttime sighting, but we are unable to contact the source, to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126418.html](http://www.nuforc.org/webreports/reports/126/S126418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
