@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 16 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bixby (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately Light/orb - Light/orb minutes.</sub><blockquote><sub>Huge ball of changing color light.I was outside listening to music and I look up to look at the stars and I see this huge orb of light that changes from blue to purple to red and it shoots diagonal ways from the sky like it was crashing.((NUFORC Note:  We have corrected the time above to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117860.html](http://www.nuforc.org/webreports/reports/117/S117860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Split second - Split second minutes.</sub><blockquote><sub>Saw a fuzzy light blue orb darting through the sky at what seemed to be a high altitude, without a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139187.html](http://www.nuforc.org/webreports/reports/139/S139187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
