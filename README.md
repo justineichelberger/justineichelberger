@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orbs of bright light traveling tightly in formation over LI Sound.My husband called as he was approaching home to tell me to come outside with two of our children to take a look at some strange, bright lights that he observed over our area.  We live on the Long Island sound in an area called Westcot Cove.  A short walk down to the beach area, we can see clear across to Long Island.  These lights were orb shaped and very bright.  My husband initially stated that he saw about 5 at first hovering over the area at a seemingly low altitude.  By the time we ran out and approached the beach, we saw about 3.  They traveled very tightly together and made no noise, came down a bit lower over the sound and headed towards Long Island seemingly side by side.  Once over Long Island, they just hovered very brightly.  One of the lights eventually dimmed and went out as did another.  One remained bright the entire time.  I started to think maybe they were helicopters but the brightness of the lights and the way they moved so closely together confused us all quite a bit.  Even when they moved away from us towards LI, they just seemed like balls of light..  Light all around.  We wound up leaving as the one remained and continued to hover around.  Maybe someone will post what it was by morning.  Also, a dog in the area along the sound starting making a god awful howl while we were observing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126415.html](http://www.nuforc.org/webreports/reports/126/S126415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bristol (VA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>diamond pattern of round lights passing silently overheadI went outside to tend our dogs.  While out a light came across the horizon.  It caught my attention since it was brighter than an airplane.  I actually glanced up at it then did a double take when I realized it wasn't a plane.  It wasn't high enough to have been planes in formation.  It was 4 round lights in a diamond pattern.  It was completely silent, no contrail.  It passed from North to South.  We have a NASCAR event here this week.  I considered it being a blimp coming to cover the race but they're normally very loud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80502.html](http://www.nuforc.org/webreports/reports/080/S80502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
