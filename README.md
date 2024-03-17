@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Howell (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was very bright in the sky, far away I saw what I thought to be helicopter under the object , lights were green on both sides and changed to red.  i took video and sore the object spinning,  it was gone ten minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154292.html](http://www.nuforc.org/webreports/reports/154/S154292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Ysidro (Baja??) (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>March 17, 2016, 2050 through 2100 San Ysidro, CA.  I observed two bright flashing lights approximately south/southwest at about 30-degrees about horizon.  At first I assumed they were helicopters moving easterly.  They gave the "impression" that they were quite distant, which would place them well into Mexico, south of Tijuana, at 15-20 thousand feet altitude (wild guess).  The two lights were bright, orange/reddish with a flickering point source in the direction of travel.  The lights were not a "point source," but appeared to have an approximately oval and flickering shape.  The two lights moved in unison at perhaps 10-degrees separation.  The "higher" one then moved in an apparent downward direction directly toward the lower one.  In a span of about 10-seconds they appeared to merge and then separate, with the one moving down continuing the same trajectory.  It continued to move down, but started flickering in intensity over a span of about 15 seconds, after which it completely faded from sight.A third light then appeared further to the west, also moving in an easterly direction.  This would have placed it apparently well out to sea and south of the international border line.  It appeared to be about 20-degrees above the horizon.  After a minute or so it appeared to stop (hover?) and then moved south (down from my perspective) at what must have been great speed for its apparent distance, and then faded in intensity until lost from sight.The weather was clear, stars were visible, the moon was at its zenith overhead.  There might have been some haze toward the west over the ocean, at less then 5-degrees about the horizon.  Temperature was 60-degrees F, humidity 83%.Obtained a crude video using a cell phone camera.Observed during evening walk.My wife also observed the lights from home.  She didn't think anything of them, assuming they were aircraft.  She observed the apparent merging too, but assumed they were at different distances.  Her viewing location was approximately 800-feet west of my location.  The lights appeared in the same direction to her as they did to me.I am a retired federal civil servant still working for the government as a contractor at a research laboratory in San Diego CA.  This document written at 2130, 03/17/2016.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126427.html](http://www.nuforc.org/webreports/reports/126/S126427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
