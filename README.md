@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:03 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:16 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sequim (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Coming out of a friend's house, last night, 3/17/15, at exactly 10:23pm.  A very large aircraft was passing over downtown, very low.  A very large aircraft with two intermittent lights.  I could hear the engine, however, for such a large aircraft, being so low, the sound should have been waking up the whole town.  Went from west to east over the whole town.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117885.html](http://www.nuforc.org/webreports/reports/117/S117885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newbury (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>craft with 4 lights "woooooooo"'d over the skies nearbyAt around 10.45 gmt i was out setting up my table outside and this craft zoomed right by. As far as i cold see it was one craft but i may be wrong. There were four lights and two of them kept changing colours. They span around in a circle together whilst flying and it was all going so fast. It made a kind of "wooooooooo" noise as it went of. I only saw for about 10  seconds but i'm sure it wasn'ty a plane or anything as mundane as that.. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43065.html](http://www.nuforc.org/webreports/reports/043/S43065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
