@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hilo (HI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>witnessed lights in the NE sky from Hilo, HI., that moved rapidly and erratically for about 30 minutes.Looking at the early morning sky, North east from Hilo in the Waimea direction, I noticed a flickering light.  As I looked on, I noticed that it was moving erratically, up then down rapidly, then side to side and also making circular motions again rapidly.  I am familiar with standard aircraft movement of all types, these movements were too rapid and erratic to fit normal aircraft.  Also, the lights began to change, color and direction giving the impression that the aircraft was approaching but in fact never left the general location in the sky.  I have never seen anything like this so my interpretation could be vague to some, all I know is what I saw and hope that my description is familiar to anyone else who might have seen this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117916.html](http://www.nuforc.org/webreports/reports/117/S117916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Woonsocket (RI) reported seeing craft that fit the description of some 'Cross' over a period of approximately Going on an hour still th - Going on an hour still th minutes.</sub><blockquote><sub>It started around 850pm and i was sitting eating dinner at my table watching it.  By the time we were all done eating it moved to where i could not see it just from sitting.  No helicopter sound in the sky,now its moved behind the building and will move slightly but stop de ad still planes are still flying near it.  I have videos too.  Its now 941pm and its still in the sky.  Never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154247.html](http://www.nuforc.org/webreports/reports/154/S154247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
