@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver sphere like crafts seen over northern skies of PeterboroughWhile riding public transit I spotted a silver sphere like craft moving quickly then slowing right down in skies north of Peterborough. My roommate who was also a witness didn't see what I was talking about at first until one of the objects gave off a bright reflection. I then spotted another similar craft further towards the horizon. We got off the bus at the 7/11 on lansdowne street west to get a better look. The closest object at this time appeared to be hovering then a change in its reflection (brighter) then it started moving towards the west horizon very quickly. We heard no noise, saw no lights. Perhaps weather balloons but I don't believe they can stop in mid air like these objects did. All to strange for me, this is not the first time I have seen stange craft in this region of ontario either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49714.html](http://www.nuforc.org/webreports/reports/049/S49714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lemon-shaped UFO, covered with rows of lights, bigger than a helicopter, bigger than a bus.The object was described as lemon-shaped, larger than a helicopter and larger than a bus. It moved in a linear, smooth, rapid motion -- faster than a small plane. It was estimated to be 1-3 miles from the observers, traveling towards the southeast, and seemingly moving lower in altitude. It was "fairly covered" with a number of white lights, uniformly positioned. Most lights were not blinking; a few were pulsing on and off. Date: March 17, 2004 Time: 7:00 PM MST (dark sky) Viewers Location: 48th St and Warner Blvd, Phoenix AZ UFO Location: East of viewers, about 1-3 miles away, heading southeast.Viewers: my in-laws: 80 yr old male, 75 yr old female. Neither has ever reported seeing UFOs before. They reported that about 30 people were standing around the intersection, looking up at the object.((NUFORC Note:  We have requested that the witness have the others submit reports.  We do not understand how, and why, out of a group of "30 people," who apparently experienced a UFO sighting, only two would submit a report!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35710.html](http://www.nuforc.org/webreports/reports/035/S35710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
