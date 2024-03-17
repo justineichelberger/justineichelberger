@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Farmington (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw a strange light in the sky the turned from blue to white continuously and zigzagged like a snake.I was taking out our puppy to go potty and I looked up in the sky and saw what looked like a star dropping straight down from the sky.  It didn't go sideways like most shooting stars.  Then immediately after seeing that, I saw what looked like a tiny star moving like a snake through the sky.  The color gradually changed from blue to white, blue to white, continuously until it just disappeared after about 20 seconds.  It looked further than any airplane could go, because the light looked smaller than the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117880.html](http://www.nuforc.org/webreports/reports/117/S117880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hayward (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3/17/2012 -Hayward - Wisconsin.- pulsing light - 8 minutes,high altitude  changing direction instantly then speeding upWas observing the Big Dipper and the Little dipper when I notice easily a star moving very slow high up in the sky,moving from the north to south  It was pulsing light every 2 seconds.this occurred for about one minute, my first thought was a satellite since I've seen many before, but this was a bit strange, the pulse stopped and it proceeded from the little dip to the third star closest to the cup of the big dip. it reached about 3/4 of the way to the third star and it instantly change course back tracking in a V shape now heading to the north east increased in speed but no more pulse in the light.  I've seen one like this back in 1966 in Tinley Park Il. and reported it to the Air Force. this is not the only sightings my family and I have witnessed. don't know why these things keep happening to us over time.very strange. six in total.all different types.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87755.html](http://www.nuforc.org/webreports/reports/087/S87755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
