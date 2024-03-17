@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hayward (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3/17/2012 -Hayward - Wisconsin.- pulsing light - 8 minutes,high altitude  changing direction instantly then speeding upWas observing the Big Dipper and the Little dipper when I notice easily a star moving very slow high up in the sky,moving from the north to south  It was pulsing light every 2 seconds.this occurred for about one minute, my first thought was a satellite since I've seen many before, but this was a bit strange, the pulse stopped and it proceeded from the little dip to the third star closest to the cup of the big dip. it reached about 3/4 of the way to the third star and it instantly change course back tracking in a V shape now heading to the north east increased in speed but no more pulse in the light.  I've seen one like this back in 1966 in Tinley Park Il. and reported it to the Air Force. this is not the only sightings my family and I have witnessed. don't know why these things keep happening to us over time.very strange. six in total.all different types.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87755.html](http://www.nuforc.org/webreports/reports/087/S87755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orbs of bright light traveling tightly in formation over LI Sound.My husband called as he was approaching home to tell me to come outside with two of our children to take a look at some strange, bright lights that he observed over our area.  We live on the Long Island sound in an area called Westcot Cove.  A short walk down to the beach area, we can see clear across to Long Island.  These lights were orb shaped and very bright.  My husband initially stated that he saw about 5 at first hovering over the area at a seemingly low altitude.  By the time we ran out and approached the beach, we saw about 3.  They traveled very tightly together and made no noise, came down a bit lower over the sound and headed towards Long Island seemingly side by side.  Once over Long Island, they just hovered very brightly.  One of the lights eventually dimmed and went out as did another.  One remained bright the entire time.  I started to think maybe they were helicopters but the brightness of the lights and the way they moved so closely together confused us all quite a bit.  Even when they moved away from us towards LI, they just seemed like balls of light..  Light all around.  We wound up leaving as the one remained and continued to hover around.  Maybe someone will post what it was by morning.  Also, a dog in the area along the sound starting making a god awful howl while we were observing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126415.html](http://www.nuforc.org/webreports/reports/126/S126415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
