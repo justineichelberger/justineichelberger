@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lake Almanor (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>i witnessed 3 crafts, in the sky, with strange lighting, and suspicious movements, tonight at about 9:00pm over dyer mountain, near Lake Almanor, CA.At 9:00 pm, out for an evening walk, i noticed what appeared to be an airplane flying southeast over dyer mountain. It was moving quite slowly, white and red lights flashing.  i then witnessed it to completely change directions, suddenly, headed back towards where it came.  two more craft then appeared, towards the north, with red lights, not flashing. they moved suspiciously together, then apart, moving to and from, not in straight lines, neither vertically or horizontally.  the first, seemingly larger craft then "joined" the two others, and they flew off slowly over the mountain.  for about an hour afterwards, i noticed a remarkable number of planes flying over the area, about 1 every 60 seconds.  the sighting of the craft lasted about 60 seconds before they flew out of sight.  just an ordinary evening stroll turned quite curious.  this was the first sighting of this type i have ever had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05960.html](http://www.nuforc.org/webreports/reports/005/S05960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright stationary light seen in NW sky.At approximately 0155 noticed a bright light located approx 30 degrees up from the horizon in the northwestern sector of the sky. Sky was cloudy and it was snowing off and on. The light remained in a fixed position for approximately 10-15 mins and then slowly began to drift in a northly direction. The brightness of the light remained the same throughout the sighting until it just vanished. It must be noted that the drift was at a extreme slow pace. I was a law enforcement officer for 14 years and for the past 10 years have been a boiler plant operator and work shifts, which has afforded me the opportunity to observe the night sky at all different times of the night. In my company at the time of the sighting was a federal law enforcement officer and both of us agree that it was to cloudy to be a star. It must be noted that Walla Walla is a small community and although there are occasions for airplane traffic in this area, there were no scheduled flights for this time of night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22250.html](http://www.nuforc.org/webreports/reports/022/S22250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
