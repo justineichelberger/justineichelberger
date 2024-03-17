@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:35 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A strange piece of metal fell out of my daughters ear!uMy kids and I were getting ready to do some reading before bed.My 8year old daughter was rubbing her ear with a tissiue;we noticed a small amount of blood;when a object fell out of her ear, we thought it was wax, but noticed some metal.We than looked and seen it was all metal,round with about 4 holes in it.It is about the size of the "O"key on the key board.((NUFORC Note:  We express our gratitude to Barb Becker, of Missouri Investigator Group, for following up on this case.  Ms. Becker determined that the metal object was a tiny medical device, inserted into the eardrum of the young girl, in order to equalize pressure between the atmosphere, and the middle ear.  PD))((REPORT FROM BARB BECKER, MISSOURI INVESTIGATOR GROUP, http://ufomig.bravehost.com/index.html))Hi Peter: Met up with ((name deleted)). Got the piece of metal found in his childs ear.  After talking for awhile he told me she had had an ear infection and had a shunt put in. Well, I knew right then what it was.  Found this pic on the internet. The piece from the ear is the little round piece with the holes. Can you imagine a doctor left that in her ear!  Anyway, case closed.  Thought you might like to know.   http://www.ghorayeb.com/files/PEtubesOnPenny.jpg Barb((END REPORT))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49775.html](http://www.nuforc.org/webreports/reports/049/S49775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sequim (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Coming out of a friend's house, last night, 3/17/15, at exactly 10:23pm.  A very large aircraft was passing over downtown, very low.  A very large aircraft with two intermittent lights.  I could hear the engine, however, for such a large aircraft, being so low, the sound should have been waking up the whole town.  Went from west to east over the whole town.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117885.html](http://www.nuforc.org/webreports/reports/117/S117885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
