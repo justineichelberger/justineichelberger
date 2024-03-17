@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright stationary light seen in NW sky.At approximately 0155 noticed a bright light located approx 30 degrees up from the horizon in the northwestern sector of the sky. Sky was cloudy and it was snowing off and on. The light remained in a fixed position for approximately 10-15 mins and then slowly began to drift in a northly direction. The brightness of the light remained the same throughout the sighting until it just vanished. It must be noted that the drift was at a extreme slow pace. I was a law enforcement officer for 14 years and for the past 10 years have been a boiler plant operator and work shifts, which has afforded me the opportunity to observe the night sky at all different times of the night. In my company at the time of the sighting was a federal law enforcement officer and both of us agree that it was to cloudy to be a star. It must be noted that Walla Walla is a small community and although there are occasions for airplane traffic in this area, there were no scheduled flights for this time of night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22250.html](http://www.nuforc.org/webreports/reports/022/S22250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Amber colored lights in triangular formation.There were 3 reddish-orange lights in triangular formation that just hovered there, silently.   The size of the object was slightly larger than the size of a football field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126423.html](http://www.nuforc.org/webreports/reports/126/S126423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
