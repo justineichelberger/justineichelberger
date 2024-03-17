@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Eastchester (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Diamond shaped in broad daylightI am a Police Officer and was on patrol the above date, during a crossing detail when I saw an object hovering in the sky, in broad daylight at about 11:30am.I watched it for about fifteen minutes, thinking it was a hovering helicopter in the distance.  I zoomed in on it with my mounted dash patrol vehicle video camara and saw that it was a diamond shaped 'craft'.  I turned on the video and taped it for about five minutes, zooming in and out.  I had to follow it as it now began to move, so the video turns on and off during the five minutes as I re-focus and move.  Don't know who else to tell.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51628.html](http://www.nuforc.org/webreports/reports/051/S51628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Farmington (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw a strange light in the sky the turned from blue to white continuously and zigzagged like a snake.I was taking out our puppy to go potty and I looked up in the sky and saw what looked like a star dropping straight down from the sky.  It didn't go sideways like most shooting stars.  Then immediately after seeing that, I saw what looked like a tiny star moving like a snake through the sky.  The color gradually changed from blue to white, blue to white, continuously until it just disappeared after about 20 seconds.  It looked further than any airplane could go, because the light looked smaller than the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117880.html](http://www.nuforc.org/webreports/reports/117/S117880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
