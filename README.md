@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sequim (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Coming out of a friend's house, last night, 3/17/15, at exactly 10:23pm.  A very large aircraft was passing over downtown, very low.  A very large aircraft with two intermittent lights.  I could hear the engine, however, for such a large aircraft, being so low, the sound should have been waking up the whole town.  Went from west to east over the whole town.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117885.html](http://www.nuforc.org/webreports/reports/117/S117885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver sphere like crafts seen over northern skies of PeterboroughWhile riding public transit I spotted a silver sphere like craft moving quickly then slowing right down in skies north of Peterborough. My roommate who was also a witness didn't see what I was talking about at first until one of the objects gave off a bright reflection. I then spotted another similar craft further towards the horizon. We got off the bus at the 7/11 on lansdowne street west to get a better look. The closest object at this time appeared to be hovering then a change in its reflection (brighter) then it started moving towards the west horizon very quickly. We heard no noise, saw no lights. Perhaps weather balloons but I don't believe they can stop in mid air like these objects did. All to strange for me, this is not the first time I have seen stange craft in this region of ontario either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49714.html](http://www.nuforc.org/webreports/reports/049/S49714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
