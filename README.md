@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yonkers (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silent football field of lights that could be seen for milesDriving south on the Hutchinson River Parkway, from Connecticut, I noticed a light in the sky.  It didn't appear to be moving so I kept watching it.  My sister was driving and my mom was in the back seat.  I did not say anything at first because I just figured it was a plane.  As we approached the access to the Cross County Parkway, I finally asked my sister to look through the trees to see if she could see something.  We rounded the bend and it was right above us. We pulled off to the side of the road and got out.  As we did this, about 6 other card pulled off behind us. We all got out of our cars and watched this object.  It seemed to be as large as 2 football fields.  It was not moving and there was no sound.  I believe the lights were white.We all watched about 5 minutes until it began to leave.  It went north, some people tried to follow in their cars.  I went home, called the radio station, and they said they had about 80 calls so far.  The official report the next day said that it was light aircraft, flying in formation.  My mother, my sister, and myself had never really believed in UFO'S, but we know what we saw.((NUFORC Note:  Date in original report was flawed.  We have assigned an arbitrary date in 2008.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66656.html](http://www.nuforc.org/webreports/reports/066/S66656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Franklin Furnace (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights in the skyI walked outside to have a cigarette and a bright flash brought my attention to the sky.  The flashes were sporadic around a certain area in the sky and faded slowly lasting about 10 minutes.  There wasn't any sound and it seemed to be in the upper to outer atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126431.html](http://www.nuforc.org/webreports/reports/126/S126431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
