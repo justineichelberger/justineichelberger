@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in DeFuniak Springs (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two orange orb-lights under disc-shaped objectApproximately 8:15 pm, my friend and I were on Walton Rd. heading West when we saw two orange lights to the South.  A faintly visible shape was behind the lights, perhaps disc-shaped, moving steadily West.  We pulled into the student parking lot of Walton High School and exited the vehicle.  At this time we noticed that there was now only one light.  We hurried toward the stadium to see it better, whereupon the object slowly moved into a lone set of cloud cover.  We could see the single light shining and flickering in the cloud.  I ran to get my camera from the car and my friend announced the object had disappeared.  He stated it flickered and dimmed and then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74719.html](http://www.nuforc.org/webreports/reports/074/S74719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Timmins (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Many lights passing over head same directionWas shovelling my driveway looked up at clear night sky and from the North West to the South East many lights all in a line one after another crossed the sky. Not blinking lights just a solid light one after another. I counted 25 of them. Brought my wife and daughter out to see this happening. Same speed same distance apart (roughly estimated). Any ideas to what it was?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154286.html](http://www.nuforc.org/webreports/reports/154/S154286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
