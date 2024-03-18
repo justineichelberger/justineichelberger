@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Goetzville (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:45 - 00:45 minutes.</sub><blockquote><sub>We had three sightings of bright white lights shooting across the sky at extreme speeds, with the third one seeming to land/crash.While making a pit stop on the side of the road, I saw a large white light shoot across the sky.  Despite its larger than usual size, I discounted it as a meteorite.  However, when we were another mile or two down the road, heading uphill, the driver saw another one shoot across the sky in front of us.  After comparing stories, we realized both were headed in the same direction as we were now driving, having turned on to a side road.  When we had traveled approximately another three miles, we saw an intense white light shooting directly down into a slightly wooded field area, at extremely high speeds.  We attempted to see onto the property where it seemed to have come down, but were unable to see through the trees and could not proceed without trespassing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16907.html](http://www.nuforc.org/webreports/reports/016/S16907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Köniz (Switzerland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Hello Everyone, This is the first time i see such an object. We the human civilization are not capable of inventing such Circle glittering object. It was exactly 20 uhr swisstime, i went outside for a walk behind our house. Suddenly  I saw  2 circle like object which was emitting  ultra colours moving really fast from Eastern Hemisphere towards West.As an Indian in our Hindu philosphy which has written about 8000years they have mentioned about Gendarva(People from other planet)who appear in Bhumi(Earth)and disappear within fraction of seconds.So could you please tell me what exactly I have seen is  an UFO or something else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16904.html](http://www.nuforc.org/webreports/reports/016/S16904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
