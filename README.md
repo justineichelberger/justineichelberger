@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bangor (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Single very bright pulsing light, like a very low star, hovering above tree lines appearing to be several miles S/SE away from my home.  It was moving in a very tight location for over an hour, I observed this for over 40 minutes before going inside to cook.  When i went outside to see if the light was still hanging around it was no longer there.  There were no stars near this light and it is not the first time I have observed them in this area. February 3rd or 4th my girlfriend and I witnessed a lot of activity.  Lights circling unknown objects, lights dancing back and fourth, vertical then horizontal.  Direction seems meaningless to these lights.  I refer to them as dancing stars.  I have so far shown 2 family members to confirm these dancing lights.  I live on the country side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154337.html](http://www.nuforc.org/webreports/reports/154/S154337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in DeFuniak Springs (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two orange orb-lights under disc-shaped objectApproximately 8:15 pm, my friend and I were on Walton Rd. heading West when we saw two orange lights to the South.  A faintly visible shape was behind the lights, perhaps disc-shaped, moving steadily West.  We pulled into the student parking lot of Walton High School and exited the vehicle.  At this time we noticed that there was now only one light.  We hurried toward the stadium to see it better, whereupon the object slowly moved into a lone set of cloud cover.  We could see the single light shining and flickering in the cloud.  I ran to get my camera from the car and my friend announced the object had disappeared.  He stated it flickered and dimmed and then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74719.html](http://www.nuforc.org/webreports/reports/074/S74719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
