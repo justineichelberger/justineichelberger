@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Travis County (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My friend and i saw a triangle that couldn't possibly be a planeMe and my friend were coming home from a book club the night it happened.  We stepped out of the car and heard this noise that was like a plane and a helicopter at the same time.we lookeed up and saw an odd light formation (three white lights formed in a triangle and a darker red one in the center)and, assuming it was a weird new plane went one.  On our way up to my front porch my friend stopped me and we both looked up to see the "plane" go straight up in the air, rotate in the circle using the red light as the axis.  Then it zoomed across the sky way faster than any plane or helicopter could go and slowed down as it went across the moon.  It slowed down enough for us to make out its shape wich was a triangle with the white lights in each corner and the red in the dead center.  I've heard of similar events happening in belgium but this is still really weird and I'm still pretty freaked out…((NUFORC Note:  Regrettably, the witness remains totally anonymous, and does not indicate the city in Texas where the alleged sighting took place.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22365.html](http://www.nuforc.org/webreports/reports/022/S22365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jonesboro (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light /Object moving Across skyLight was solid and white and about three times larger and brighter than the stars,  Object was moving at a steady fast speed from north to south, Then appeared to change direction to sout east ,then dimming very quickly (three Seconds) as if it just took off. There was no sound ! This was witnessed by me and my Girlfriend</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74728.html](http://www.nuforc.org/webreports/reports/074/S74728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
