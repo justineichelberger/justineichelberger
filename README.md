@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:37 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately a long time - a long time minutes.</sub><blockquote><sub>Aliens being seen in the Excalabur spotlightIt was late and we were comming back from the adventure dome. we were looking at the water show and when it ended some people told us to look at the spotlights light (off of the Excalabur) and we noticed 4 white dots. they were flying around the spotlight then they crossed each others paths. then after they did that they would go to the right side of the light and form a triangle pattern to the other side. then they would repeat that again. well we went into one of the stores for about an hour and when we came out there was atleast 100 of the white dots going around the light And another thing. when they left the spotlight they like dissapeared untill they came back((NUFORC Note:  We wonder about a combination of advertising light and insect-eating birds.  We have received many such reports from Las Vegas.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16926.html](http://www.nuforc.org/webreports/reports/016/S16926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving flames that interacted with a green light.Was outside last night locking the outbuildings and having a smoke.Saw a yellow flame moving slowly from the east right at the (partial) cloud level.  Thought it was a meteor at first, but the flame kept going.It headed towards a almost stationary green thing, about as bright as a big star, and they appeared to circle each other and headed lazily south.  Then two more "flames" came from the east, one after the other, and followed the green "star" and first "flame" which was much brighter than the rest.The brightest one illuminated the clouds a little, the rest were above the clouds and didn't illuminate them.They continued slowly south until they disappeared from view due to clouds & mountains.Don't think these were Chinese lanterns (but I've never seen one) because they were moving contrary to the clouds.  Clouds were moving towards the NNE at the time.There is a commercial air corridor here, but the aircraft only go north and south.Took a phone video of the last part of the event when they were moving away, but it's poor quality, all that can be seen are white dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126447.html](http://www.nuforc.org/webreports/reports/126/S126447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
