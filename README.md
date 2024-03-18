@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:37 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:08 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving flames that interacted with a green light.Was outside last night locking the outbuildings and having a smoke.Saw a yellow flame moving slowly from the east right at the (partial) cloud level.  Thought it was a meteor at first, but the flame kept going.It headed towards a almost stationary green thing, about as bright as a big star, and they appeared to circle each other and headed lazily south.  Then two more "flames" came from the east, one after the other, and followed the green "star" and first "flame" which was much brighter than the rest.The brightest one illuminated the clouds a little, the rest were above the clouds and didn't illuminate them.They continued slowly south until they disappeared from view due to clouds & mountains.Don't think these were Chinese lanterns (but I've never seen one) because they were moving contrary to the clouds.  Clouds were moving towards the NNE at the time.There is a commercial air corridor here, but the aircraft only go north and south.Took a phone video of the last part of the event when they were moving away, but it's poor quality, all that can be seen are white dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126447.html](http://www.nuforc.org/webreports/reports/126/S126447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>This is from a video I saw on-line.  It's from the U.S. Naval Base at Norfolk, Virginia.  At 9:07, (minutes/seconds)  thru 9:10 of the video, an object can be seen flashing across the sky, perpendicular to the flight deck of the U.S.S. Harry S. Truman.  You can better judge its speed than I can, but it was booking!  Elevation looks to be under 2,000 feet.Title of the video is: Inside Navy Strategies (1), Aircraft Carrier Harry S. Truman I Full Documentary - You Tube Video.  It is by WELD, a German production company.  (They may have put it together because one of their ships, the 'Hessen' F221, is part of this NATO fleet exercise.  After seeing this UFO, I intently watched the remainder, searching for more sightings but they're were none.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154400.html](http://www.nuforc.org/webreports/reports/154/S154400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
