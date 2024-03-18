@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:51 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lakewood Ranch,Bradenton (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>cylinder object with five bright lights vertical and horizontalI saw a bright light which I thought was a star. I grabbed binoculars and looked at it. It was about the height of a low flying airplane. I saw a oblong round cylinder object that had five bright lights(like baseball diamond lights) going down the center of it vertically, then horizontally there was five rows of lights also, but not as bright as the center vertical lights. It had a rod sticking out of the top and also of the bottom of the cylinder. After watching it for awhile, it seemed to moved  from west to east and then at 6:35am it went up higho er and then went out of my sight. I am curious to know if it was a sattelite or a UFO. I also have no idea of who you call to report something like this. Maybe you could give me some information. Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49848.html](http://www.nuforc.org/webreports/reports/049/S49848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Washington (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Headed due north, then returned headed east about 2 miles, and headed north, then disappeared.  No audible engine noise.  No flashing aircraft lights.  Right before it disappeared it headed north in unrealistic supersonic speed.  When it disappeared into the horizon above in the high atmosphere several points flashed.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133189.html](http://www.nuforc.org/webreports/reports/133/S133189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
