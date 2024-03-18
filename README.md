@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:08 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>This is from a video I saw on-line.  It's from the U.S. Naval Base at Norfolk, Virginia.  At 9:07, (minutes/seconds)  thru 9:10 of the video, an object can be seen flashing across the sky, perpendicular to the flight deck of the U.S.S. Harry S. Truman.  You can better judge its speed than I can, but it was booking!  Elevation looks to be under 2,000 feet.Title of the video is: Inside Navy Strategies (1), Aircraft Carrier Harry S. Truman I Full Documentary - You Tube Video.  It is by WELD, a German production company.  (They may have put it together because one of their ships, the 'Hessen' F221, is part of this NATO fleet exercise.  After seeing this UFO, I intently watched the remainder, searching for more sightings but they're were none.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154400.html](http://www.nuforc.org/webreports/reports/154/S154400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tehran (Iran) () reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>red light which move slowly and gone rapidly  a red ligh  seen in northwest of city without any sound or noise and with slowly move.its stay for 5-7 minutes and it gone rapidly.and the red light was stoped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55772.html](http://www.nuforc.org/webreports/reports/055/S55772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
