@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ropar (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.3833333333333333 - 1.3833333333333333 minutes.</sub><blockquote><sub>Triangular shaped object with three lights witnessed my son and mother,IndiaToday at 8:50 pm Indian standard time in city Ropar Punjab, India, me and my mother witnessed triangular shaped u.f.o for at least 1 min 23 to 25 sec, but the thing is that in this time limit of 1  min 23 to 25 sec we spotted that thing thrice, i.e three times in different directions.  I don't know what that was as my father say u.f.o stuff is rubbish it may be a spy plane but i don't think it was a spy plane as the triangular shaped object has three lights and non of them where blinking as in normal airplanes it happens..  So please check out if you can find any traces of these things in radar for backgrounds of the observers i must say i am a student of engineering and the second witness was my mom that is a teacher by profession..thank you and regards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107912.html](http://www.nuforc.org/webreports/reports/107/S107912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange fast moving light in southern MichiganMy friend and me were getting ready to head back out and finish the rest of the newspaper route.  We were standing outside of the car in my driveway and were looking at the sky because we kept seeing lightning off in the distance.My friend then said, "What the hell is that?"  He pointed and we looked in a southwest direction at a light that was moving very fast.  There were no other lights on it other than the light that we watched. It moved quite fast and made no sound as it traveled in a northeast direction.  The odd thing is that this strange thing followed a straight line but was wobbling like it was caught in the wind, or something like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87768.html](http://www.nuforc.org/webreports/reports/087/S87768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
