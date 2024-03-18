@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:51 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Washington (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Headed due north, then returned headed east about 2 miles, and headed north, then disappeared.  No audible engine noise.  No flashing aircraft lights.  Right before it disappeared it headed north in unrealistic supersonic speed.  When it disappeared into the horizon above in the high atmosphere several points flashed.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133189.html](http://www.nuforc.org/webreports/reports/133/S133189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Beverly (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two square flat lights/Beverly, WashingtonI saw two stationary square shaped flat bright lights about 30-50 feet apart and approximately 500 feet above the ground over the columbia river.  The lights I spotted were near Beverly, Washington just south of the Wanapum Dam a mile or so.  The time of the sighting was 12:40 am, on March 18,2011.  I watched the lights for 3 minutes or so and then the lights appeared to just fade out one at a time.  Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80510.html](http://www.nuforc.org/webreports/reports/080/S80510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
