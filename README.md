@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Belmopan (Belize) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Glowing Orbs seen in Belmopan, Belizehttp://amandala.com.bz/news/strange-night-sightings-in-pan/ https://www.sott.net/article/151467-Strange-night-sightings-in-Belize http://files.afu.se/Downloads/Magazines/United%20States/UFO%20Newsclipping%20Service/UFO%20Newsclipping%20Service%20-%202008%2004%20-%20no%20465.pdf (Page 14)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150049.html](http://www.nuforc.org/webreports/reports/150/S150049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Toms River (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Silent Rectangular aircraft sighted mid-march, toms river, new jerseyLater to mid-day, i was standing out on my deck which faces southwest, and i saw to the right a gray rectangular-shaped aircraft, guessing about 500 feet up, silent, moving eastward, slowly, low enough that i could see it did not have landing gear, or windows, like a flying box, with lights around the perimeter, not underneath, red and green and white, AND another identical flying gray "box" on the opposite side of me, westbound, and then a third one further in distance, flying toward my house, coming from the west.  Size?  I'm guessing about the size of a conventional 747 aircraft, but rectangular with no wings.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62366.html](http://www.nuforc.org/webreports/reports/062/S62366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
