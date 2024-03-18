@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jonesboro (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light /Object moving Across skyLight was solid and white and about three times larger and brighter than the stars,  Object was moving at a steady fast speed from north to south, Then appeared to change direction to sout east ,then dimming very quickly (three Seconds) as if it just took off. There was no sound ! This was witnessed by me and my Girlfriend</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74728.html](http://www.nuforc.org/webreports/reports/074/S74728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Goetzville (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:45 - 00:45 minutes.</sub><blockquote><sub>We had three sightings of bright white lights shooting across the sky at extreme speeds, with the third one seeming to land/crash.While making a pit stop on the side of the road, I saw a large white light shoot across the sky.  Despite its larger than usual size, I discounted it as a meteorite.  However, when we were another mile or two down the road, heading uphill, the driver saw another one shoot across the sky in front of us.  After comparing stories, we realized both were headed in the same direction as we were now driving, having turned on to a side road.  When we had traveled approximately another three miles, we saw an intense white light shooting directly down into a slightly wooded field area, at extremely high speeds.  We attempted to see onto the property where it seemed to have come down, but were unable to see through the trees and could not proceed without trespassing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16907.html](http://www.nuforc.org/webreports/reports/016/S16907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
