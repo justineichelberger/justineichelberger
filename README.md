@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eloy (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I seen a massive craft in the sky that flashed a greenish light off of it and then a horn noise went off</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154433.html](http://www.nuforc.org/webreports/reports/154/S154433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red/orange ball of fire, noiseless and moving steadily for two minutes, south to north in seattle.At 8:45 PM, Sunday March 18, 2012.  My daughter and I saw a red/orange ball in sky. Moving from south to north in seattle.  The object at first looked like it was something on fire, a balloon or plane, but there were no other lights, No flashing, object made no noise. It took about 2 minutes to fly accross the sky.  It was at one point close to being directly underneath us.  Never seen anything like it. If it was a meteor it would have been announce by Nasa as a near miss to earth.  This was not a meteor. I don't know what it was.  There was also a quick flash of light across the sky at one point. I do not know if this was connected to the object.  It may have been lightning, then 10 seconds later rumbling/boom like sonic boom or thunder, but the sky was partially clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88001.html](http://www.nuforc.org/webreports/reports/088/S88001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
