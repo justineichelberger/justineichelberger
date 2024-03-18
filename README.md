@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:48 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange light drips in LONG BEACH CAi live on the second floor so i have a pretty good veiw of the sky.i live near the long beach airport and see planes fly by from there and LAX and sometimes the police helicopters. well anyway, iwent out to smoke about 11:15 pm i took a few drags and noticed an orange light coming from the north and i thought it was weird cause it didnt have any safty flashers on it and it didnt make any noise!at first it just looked like a round light in the sky but as it got closer it looked like an oval saucer type of light.i didnt want to say it was a UFO right away but when i saw it drip  thats when i knew some thing wasnt right! it dripped twice.it looked like it was goning to drip again but the drip paused right under it so it looked like two lights. right after that it switched directions it started to move west at a slower speed, so i ran in the house and got my girlfriend, by the time we got out there it looked the same as when i first saw it but not so clear cause it went through a thin cloud and i shouted in exicitement "do you see it,do you see it"she said "yeah but it s just an orange light." i said "can you hear it?" she said "no." i showed her my goose bumps and we went in the house. i told her the whole story.5 min later a helicopter flew by, 20 min after that a second flew by. i dont know if its because of the UFO though. i know i couldnt  have been the only one that saw it!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49764.html](http://www.nuforc.org/webreports/reports/049/S49764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Haylow (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>184 mies south of Macon,Ga.,bewteen Fruitland Ga.& Halow Ga.on gs&f railroad track at around 22:30,above train 3 circles.They were lite up 3 for about 30 sec, went dark,then again,then just west 30 secs later. There were 4 this time, about 30 secs((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74738.html](http://www.nuforc.org/webreports/reports/074/S74738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
