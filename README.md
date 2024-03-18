@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 17 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Woonsocket (RI) reported seeing craft that fit the description of some 'Cross' over a period of approximately Going on an hour still th - Going on an hour still th minutes.</sub><blockquote><sub>It started around 850pm and i was sitting eating dinner at my table watching it.  By the time we were all done eating it moved to where i could not see it just from sitting.  No helicopter sound in the sky,now its moved behind the building and will move slightly but stop de ad still planes are still flying near it.  I have videos too.  Its now 941pm and its still in the sky.  Never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154247.html](http://www.nuforc.org/webreports/reports/154/S154247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately a long time - a long time minutes.</sub><blockquote><sub>Aliens being seen in the Excalabur spotlightIt was late and we were comming back from the adventure dome. we were looking at the water show and when it ended some people told us to look at the spotlights light (off of the Excalabur) and we noticed 4 white dots. they were flying around the spotlight then they crossed each others paths. then after they did that they would go to the right side of the light and form a triangle pattern to the other side. then they would repeat that again. well we went into one of the stores for about an hour and when we came out there was atleast 100 of the white dots going around the light And another thing. when they left the spotlight they like dissapeared untill they came back((NUFORC Note:  We wonder about a combination of advertising light and insect-eating birds.  We have received many such reports from Las Vegas.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16926.html](http://www.nuforc.org/webreports/reports/016/S16926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
