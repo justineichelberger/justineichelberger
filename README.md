@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 18 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tehran (Iran) () reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>red light which move slowly and gone rapidly  a red ligh  seen in northwest of city without any sound or noise and with slowly move.its stay for 5-7 minutes and it gone rapidly.and the red light was stoped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55772.html](http://www.nuforc.org/webreports/reports/055/S55772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eloy (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I seen a massive craft in the sky that flashed a greenish light off of it and then a horn noise went off</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154433.html](http://www.nuforc.org/webreports/reports/154/S154433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
