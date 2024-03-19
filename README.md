@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Cleveland (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>saw 7 objects hoving in the sky for at least and hr ..theysaw some kind of planes chasingwe were coming home from birthday party on march 19 1997..as i was turning i saw something in the sky ..i told my daughter ..we went down road slow and noticed sever objects...we go to home and got out of car and found clearing and notice several object just hovering ..the they would move in directions really fast then seem to go where they orginally at..they had lights that seem to be spinning ,blue ,red and yellow...after about half hr of watching them we notice aircraft coming frome west where in conroe tx where there is army air force base...these aircraft were very fast and very silent ...they started to chase them ..but the angles the ufocraft was going these seem no to be able to do ...then all of sudden the ufos grouped and the were gone...there was 7 of us watching this ..and and the saw sherrif car come by ..they stoped then turn around ...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09830.html](http://www.nuforc.org/webreports/reports/009/S09830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Laveen (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright white (hot) light appeared in the sky, hovers, falls and drifts and Small unidentified plane shows up.Bright white (hot) light appeared in the sky as I was collecting my mail at my box that evening. My wife was also with me as I pointed it out to her then as well. I always have a steady stream of air traffic most any day. So I'm familiar with the aircraft in my sky.But this was some distance away, but it was unusually bright. It was to the west, maybe about the eleven position. So I stood and watched it to see what it might be. I then noticed it not static, some movement. I used a tree and it's branches as confirmation the object was moving, not anything with me.It hovers, falls and drifts. Too bright for helicopter, and no running lights or NAV, and not a plane. It was moving slowly from west to north west gaining then losing sometimes altitude. Also, that bright white almost appeared to cast a sort of HALO effect around it some times. Another occasion it appeared to flash sometimes red, then the white. Is it a Drone maybe? But now, I'm thinking possibly a military flare? It is in the west sky, towards (Luke AFB). A Small unidentified plane generally shows up about 10-15 minutes into this and has headed south, and sometimes the west. There have been two instances so far. Plane is small and dark black, and 2 small red NAV lights on its wing tips.It's at a Higher air traffic ceiling level, no sound either. Commercial planes are often very absent during this time, and at a lower ceiling than the unidentified plane. Any that do show up, often direct themselves to a different path, and away from the area of the plane and bright light occupies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154572.html](http://www.nuforc.org/webreports/reports/154/S154572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
