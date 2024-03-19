@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hobart (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A star like bright light disappears in the sky.Looking towards the Constellation Gemini, clear night, a third star like object  that made a triangle vanished and did not return.  Checking star walk, there should not have been a third bright light in the first place.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145264.html](http://www.nuforc.org/webreports/reports/145/S145264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Cleveland (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>saw 7 objects hoving in the sky for at least and hr ..theysaw some kind of planes chasingwe were coming home from birthday party on march 19 1997..as i was turning i saw something in the sky ..i told my daughter ..we went down road slow and noticed sever objects...we go to home and got out of car and found clearing and notice several object just hovering ..the they would move in directions really fast then seem to go where they orginally at..they had lights that seem to be spinning ,blue ,red and yellow...after about half hr of watching them we notice aircraft coming frome west where in conroe tx where there is army air force base...these aircraft were very fast and very silent ...they started to chase them ..but the angles the ufocraft was going these seem no to be able to do ...then all of sudden the ufos grouped and the were gone...there was 7 of us watching this ..and and the saw sherrif car come by ..they stoped then turn around ...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09830.html](http://www.nuforc.org/webreports/reports/009/S09830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
