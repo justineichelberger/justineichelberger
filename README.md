@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A quick moving green glowing ball seen while driving.My friend and I were driving home through a suburban area and we saw a glowing green ball move quickly across the sky.  The ball was moving very quickly and was in and out of your sight within 3 seconds.  We thought it might have been a reflection off of the windshield but the speed and direction of the ball lead us to rule out this possibility.((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74731.html](http://www.nuforc.org/webreports/reports/074/S74731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Oregon UFO spotted near I-5 North towards SalemWe were going on the highway north towards Salem.  I'm pretty sure it was around Albany, we saw a bright white light.  As we got closer we noticed it was hovering and not moving.  We passed the light and it was so close we could see intricate detail like lines on the surface.  It was extremely high tech and had three lights on each point.  After we passed it, we watched it from behind and it starting moving across the highway behind us, and had a bright white light towards our direction.  After a few minutes it disappeared.  I'm hoping someone else saw this and caught a video because my phone memory was full, and I didn't have enough time to get one</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126484.html](http://www.nuforc.org/webreports/reports/126/S126484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
