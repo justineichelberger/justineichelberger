@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Prineville (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saw a sphere shape light hovering off rimrock, it moved very fast, and was gone in an instant.I was in the high school parking lot heading out to my car when something caught my eye towards the rimrock.  It was a light that was moving very fast, I could tell that it wasn't on the ground because of how fast it was moving.  At first it was a bright white light but after about five seconds it dipped off the rimrock and turned a pale green color. As it hovered off of the rimrock I could tell that it was a sphere shape.  After that it was gone in an instant. It made no noise and I was alone, I was quite afraid of what I'd seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55847.html](http://www.nuforc.org/webreports/reports/055/S55847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145371.html](http://www.nuforc.org/webreports/reports/145/S145371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
