@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:27 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A very solid brilliant white opaque ball crosses sky, 2-3 seconds. Heading SSE over Seattle Sun. night.A large brilliant white object traversed the sky in about 2-3 seconds heading SSE. It had no tail, it was a very solid brilliant white opaque ball. It was the size of a street lamp two blocks away (about 1/8 inch at arms length). Imagine a star, then group 100 of them together, that would be the size. It was actually brighter than the street lamps that are in this area two blocks away. Absolutely white. I've never seen anything this size before, I watched Hale Bopp, I've watched the Leonid meteor showers, all smaller or dimmmer. There was no fan out of light. Just a brilliant solid ball of pure white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49732.html](http://www.nuforc.org/webreports/reports/049/S49732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red/orange orbs in the skyDriving on highway 121 with my son and happened to look up at the sky and saw 3 reddish orange orbs, unmoving in an "L" shape.  If there were more I didn't have time to see them. I pulled off the road immediately and by the time I got out all three were gone.  They were not planes, there were no small flashing lights, the shapes remained consistent and did not get smaller or larger.  The sky is clear tonight and you can see many stars, but these were three times bigger than the brightest star, and if there were planes they should have still been visible overhead or flying in the opposite direction when I got out of my car.  I looked up many videos online from across the world and were exactly what I saw tonight, and this is the first time I've ever seem anything like these.  I live near an airport and am very familiar with planes of all shapes and sizes, and what the lights look like.  Whatever these were, they were there plain as day and gone.  On my way back I also noted 3 helicopters flying in the direction I just came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107965.html](http://www.nuforc.org/webreports/reports/107/S107965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
