@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:32 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A luminous object seen in pittsburgh for over a year with distinct  bright lights that can be seen by the naked eye.The type of object that was seen was circular in shape.  It appears as a regular star from a quick look, but once you take the time to watch closely you can clearly see how intense the light coloration can be.  I recently aquired a long range telescope for Xmas so i decided to put it to good use.  As i adjusted the lense on my telescope i noticed two distinct rings around the object.  The object was luminating so brightly that it formed an outer ring around itself. It was very clear that the object was rotating very fast.  The upper half of the circle rotated to the right, and the lower half of the object rotated to the left.  The rings had a tendency to wave against eachother as if they were on some type of axis.  The object was moving at a fast rate from one side of my lense to the other.  I also had to adjust my lense down because the object was moving farther away.  The lights of the object were in very distinct colors of red, green , blue, white, and a slight orange.  The objects movements were very sporatic in the way it moved from left to right at a high rate of speed. This object has been seen by myself and my mother for quite some time now for at least a year and a half i have made various attempts to contact observatories and other support systems and have received no response or cooperation. I truly hope that this creates some type of interest and investigation.((NUFORC Note:  We suspect this may be a description of the star, "Sirius."  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16913.html](http://www.nuforc.org/webreports/reports/016/S16913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in West harrison (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Enormous thick black oval hovering above a treeProbably irreverent due to it being over tens years ago but i randomly kept searching for what I saw on the internet and finally found this website..I was traveling down I-74 towards Cincinnati around 3pm with my boyfriend, his cousin and girlfriend along with my daughter.  We got onto the interstate and not long after, we came up to cars lined up on the side of the highway for as far as you could see, miles of cars. There were hundreds of people looking up towards the sky. In an open field above a tall tree right beside the road there was an ENORMOUS thick black oval just hovering in the sky, it was at least 20ft wide.  I took pictures with my old phone for evidence.  We stood and watched it for over thirty mins it was so odd and out of place. I’ve seen smoke rings and this was not that.  It looked as if someone took a gigantic sharpie and drew a circle in the sky above this tree.  It was certainly not of this world.We finally stared to drive away and every so slowly counter clockwise it started to disappear.   This has crossed my mind thousands of times over the past ten years the curiosity of what I saw is baffling. I’d love to know what it was or where to it came from.  I feel blessed to have seen something so cool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146418.html](http://www.nuforc.org/webreports/reports/146/S146418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
