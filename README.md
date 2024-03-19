@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in West harrison (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Enormous thick black oval hovering above a treeProbably irreverent due to it being over tens years ago but i randomly kept searching for what I saw on the internet and finally found this website..I was traveling down I-74 towards Cincinnati around 3pm with my boyfriend, his cousin and girlfriend along with my daughter.  We got onto the interstate and not long after, we came up to cars lined up on the side of the highway for as far as you could see, miles of cars. There were hundreds of people looking up towards the sky. In an open field above a tall tree right beside the road there was an ENORMOUS thick black oval just hovering in the sky, it was at least 20ft wide.  I took pictures with my old phone for evidence.  We stood and watched it for over thirty mins it was so odd and out of place. I’ve seen smoke rings and this was not that.  It looked as if someone took a gigantic sharpie and drew a circle in the sky above this tree.  It was certainly not of this world.We finally stared to drive away and every so slowly counter clockwise it started to disappear.   This has crossed my mind thousands of times over the past ten years the curiosity of what I saw is baffling. I’d love to know what it was or where to it came from.  I feel blessed to have seen something so cool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146418.html](http://www.nuforc.org/webreports/reports/146/S146418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>San JoseI was doing some work at my dining room table and noticed a big green (turquoise) glow outside of my balcony.I had dismissed this first glow as “I must be crazy”.   When the second glow came, I was really surprised.  I immediately told my girlfriend in the adjacent room.I walked outside thinking that maybe a transformer blew.  There was no noise outside of the whipping wind and rain.  I waited for the familiar “pop” of a transformer while looking at the sky.  Puzzled, I thought that it could have been an airplane or something else that, if the green glow was a catastrophic event, I should be able to see something.. Anything..I returned to my PC and did a web search for the glow…  strange things.  I read up on this Thundersnow but the web sources pretty much said that the colors were blue and a sound followed.  This did not seem to fit..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80529.html](http://www.nuforc.org/webreports/reports/080/S80529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
