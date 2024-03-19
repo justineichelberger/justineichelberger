@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 02:15 - 02:15 minutes.</sub><blockquote><sub>It was about 1:46 A.M. March 19 2001 when I saw it. I was listening to Power 106, and was just about to fall asleep when I heard this weird airplane noise. Now I usually hear lots of airplanes and helicopters fly over the neighborhood as I did with the weird noise. It sounded a lot like an airplane except it also had whooshing noise, which sounded like this: woo,woo,woo, wuooo. Then I heard it stop maybe 450 feet directly in front of my window (I was in my room at the time, which is in the back of my house on the second floor). And then my curiosity got the better of me, and I got up and looked out my window. What I saw made me paralyzed - mouth open. When I finally got up my courage (it took 3 seconds) I said "Holy S@*t!!!" It appeared to look somewhat like the little dude's space ship from Space Jam. It was as big as two compact cars, one in front of the other, and one on top of the other two like a pyramid (although it wasn't in the same shape). And then it landed. This part is kind of hard to explain, so I'll do it as best I can. It flew for about 700 feet, then laned in a most peculier way. It landed kind of like the way that you see flying cars land, like the flying Delorian from Back to the Future part II.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16916.html](http://www.nuforc.org/webreports/reports/016/S16916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Prineville (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saw a sphere shape light hovering off rimrock, it moved very fast, and was gone in an instant.I was in the high school parking lot heading out to my car when something caught my eye towards the rimrock.  It was a light that was moving very fast, I could tell that it wasn't on the ground because of how fast it was moving.  At first it was a bright white light but after about five seconds it dipped off the rimrock and turned a pale green color. As it hovered off of the rimrock I could tell that it was a sphere shape.  After that it was gone in an instant. It made no noise and I was alone, I was quite afraid of what I'd seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55847.html](http://www.nuforc.org/webreports/reports/055/S55847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
