@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:34 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:27 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mays Landing (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately On going - On going minutes.</sub><blockquote><sub>Points of light in the night sky moving erratically and pulsingHello, I am currently living in Mays Landing, NJ.  For the past three months, I have watched the same UFO moving in the night sky over the Pine Barrens.  Every night without fail, it moves. It is also the brightest light in the sky, which also emits a faint pulse.  I believe it is masking itself as a star by maintaining a stationary position outside our gravity well giving the appearance of a star progressing across the night sky.Every night I watch it move in short erratic patterns, vertical, horizontal and circular, which I believe is to maintain its fixed position. In the past month I have discovered several other similar lights in the sky that I had originally thought were stars.My father, two of my sisters, my brother in-law, my mothers first cousin and her house mate and two of my friends, have all confirmed what I have been watching for the past three months. I do not drink or take any kind of mind or mood altering drugs.  All of the above mentioned people were sober at the time they confirmed my sighting.  I am not looking to be put in the public eye.  I just want somebody to come out and verify my sighting, which has been ongoing for the past three months.PS This is not a one time occurance!  It is an on going event every night.So if you decide to come out, you won't be dissapointed! If what I'm seeing is real, and if I'm right about what I believe it is I'm actually seeing.  Then the ramifications of this sighting, will be earth shattering news.((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))((NUFORC Note:  Possible stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74729.html](http://www.nuforc.org/webreports/reports/074/S74729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A very solid brilliant white opaque ball crosses sky, 2-3 seconds. Heading SSE over Seattle Sun. night.A large brilliant white object traversed the sky in about 2-3 seconds heading SSE. It had no tail, it was a very solid brilliant white opaque ball. It was the size of a street lamp two blocks away (about 1/8 inch at arms length). Imagine a star, then group 100 of them together, that would be the size. It was actually brighter than the street lamps that are in this area two blocks away. Absolutely white. I've never seen anything this size before, I watched Hale Bopp, I've watched the Leonid meteor showers, all smaller or dimmmer. There was no fan out of light. Just a brilliant solid ball of pure white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49732.html](http://www.nuforc.org/webreports/reports/049/S49732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
