@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Regina (Canada) (SK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Mirrored triangular shaped object, March 19, 2014Saw a shiny triangle shaped object in the sky - looked like a piece of mirror.  There were no jetstreams.It was still for about 5 seconds and then started moving slowly at first and then moved very fast & I watched it decrease in size rapidly.It was in the southeast part of the sky.((NUFORC Note:  We suspect an evening sighting, but cannot be certain.  The source of the report has not responded to our e-mail.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107981.html](http://www.nuforc.org/webreports/reports/107/S107981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unidentified object that did not have required flashing light travels alongside and aircraft with normal lights.Was on back porch which faces south.  Noted commercial aircrafts flying north and south at different altitudes.  All their lights were blinking normally.  Noticed one aircraft flying south at a medium altitude it was not gaining or losing altitude to land at our airport (RDU) or so it seemed.  To its left, or starboard side, was a light of medium plus intensity like a full moon light and color to match (pale yellow). This object emitted or showed no blinking lights whatsoever.  It was neither higher or lower than the aircraft and the distance from the aircraft was between 100 and 300 yards, to the best of my knowledge.  The light disappered at 7:31pm and the aircraft continued south.  The light was traveling the same speed of the aircraft.-Correction On Previous Sighting Reportcorrection is needed as written before i said i reported light on the left side of aircraft, starboard side.  it should read light on left side of aircraft, port side. I want to add that the size of the craft was approxamatly half to three quarters the size of the aircraft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16914.html](http://www.nuforc.org/webreports/reports/016/S16914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
