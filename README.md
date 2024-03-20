@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:35 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Atwater (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Spherical motionless mystery object in the daytime sky looked like a Mini Moon((NUFORC Note:  We cannot certify that this is a serious-minded report.  It sets a record for us--344 words of text, without a single punctuation mark.  PD))It was around 3:00 PM; I was finishing up my work day and looking up into the sky I was amazed at how crystal clear and blue the sky was when I noticed up in the sky a Bright white dot in the sky at approximately the 11:00 position not quite straight up but off to the side a little bit well after a few mins expecting to see it move i noticed it had not moved at all so i retrieved my Binoculars to try to get a better look but as I focus on the Object I noticed it to be very high up and perfectly spherical in shape pearl in color or the best way to describe it would be it looked very much like a Mini-Moon I estimate to be perhaps 1/10 th the size of the moon I began to think it must be a balloon but the fact that for over an Hour it had not move in any direction just totally motionless in the sky then I saw a large jet aircraft flying at a very high altitude near the object thinking i could get an idea what altitude this object may be when the jet flew near the! peripheral of the object it was evident that this object was way further up in altitude way way higher and the size of the object was almost the same size as the large jet aircraft that flew near it making me consider that this spherical object must be very large so perhaps it was a weather Balloon but why it was so motionless was a mystery after about observing this craft for about 90 minutes several other aircraft flying overhead started leaving con-trails in the clear blue sky and suddenly within another 30 mins began to haze up and become partly cloudy and the mystery object was completely obscured and no longer visible thru the sudden cloud/haze barrier that formed and remained until past sunset</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108015.html](http://www.nuforc.org/webreports/reports/108/S108015.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clatskanie (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red/white light strange maneuversRed dot turning to white back to red disappearing/reappearing...maneuvering in irregular pattern...then hovering...again quick strange moves...then faded out...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154307.html](http://www.nuforc.org/webreports/reports/154/S154307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
