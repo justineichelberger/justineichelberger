@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Cylindrical shaped very fast hovering craft..1972 sitingOn my way across the street to go babysitting at approx. 5:30 p.m. / dusk, I heard a loud buzzing tone...similar to the electrical transformers on a foggy morning.  I looked up and saw a cylindrical shaped object with rotating lights hovering over me at about the heighth of the telephone poles.  I stood in the middle of the street for about 20 seconds just watching it and it took a deep dip and sped away in 1/2 second.I continued on to my babysitting job, and while there got very ill and threw-up a couple of times.  I decided no one would believe me then, so I never told anyone until now.  I also lived very close to the Los Alamitos Air Base at the time and I decided there was some experimental stuff going on...obviously to justify what I saw.  I have since talked with many engineers who have informed me that we did not have and still do not have the technology that I describe here.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23021.html](http://www.nuforc.org/webreports/reports/023/S23021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Southern Pines (NC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Erraticly moving craft emmitting light pulses.Traveling Southbound on US Highway 1, towards Richmond County.  Light pulses coming from the southwest.  Pulses increased in intensity until last flash, then light source dissappeared.  Sourse of light moving at an indeterminate speed.  Ft. Bragg is located approximately 30 miles from the area, but the source of the light was too erratic to be military.  Light source was definetely not ground based (i.e. search lights) and the movement was not the sort a low flying helicopter would make.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16948.html](http://www.nuforc.org/webreports/reports/016/S16948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
