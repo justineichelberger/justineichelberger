@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dupont (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellowish colored sphere at north Fort Lewis, WAWe left work and were driving on the Steilacoom-Dupont road toward Steilacoom. As we came around the bend there was a bright yellowish colored sphere hovering then slowly dissapearing behind some trees on north Fort Lewis.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69323.html](http://www.nuforc.org/webreports/reports/069/S69323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bucerias (Nayarit) (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>the object over our house was huge!My husband and I observed a light that was flashing red on and off, far away in the sky, but would move very fast suddenly.  The light started getting closer, then was flashing red and white.  Very rapidly it traveled closer to us, then we clearly saw a huge, grey flatter object that was circular above us and flying over our house, we ran to the front of the house but it flew very fast away, making no noise.  We saw only the red and white lights flashing again, then it was gone.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52305.html](http://www.nuforc.org/webreports/reports/052/S52305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
