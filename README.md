@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:35 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clatskanie (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red/white light strange maneuversRed dot turning to white back to red disappearing/reappearing...maneuvering in irregular pattern...then hovering...again quick strange moves...then faded out...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154307.html](http://www.nuforc.org/webreports/reports/154/S154307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Petaluma (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>comet like sighting over 101 petaluma areaOn 3-20-13 at 1316hrs while driving south-bound on HWY 101 coming down the Cotati grade I noticed what appeared to be a white comet with two tails (about 80 meters long) high in the sky.  The object appeared to be about 4 to seven miles away and about 15,000 feet up.  It appeared to be traveling slowly heading south, as the tail was behind the object.  After a minute or two the object stated to lose altitude and seemed to face my general direction.  The tail was no longer visible during this time and only the white round cloud color could be seen.   As I exited the first Petaluma off-ramp the object appeared low about 500 to 700 feet and at a distance of about 1 mile.  The white color I had seen was gone, and for a brief moment I saw a round solid object and then I lost it behind the trees.  I kept looking in the area but could not see it again. the tail on the object would disappear after about 80 yards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96727.html](http://www.nuforc.org/webreports/reports/096/S96727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
