@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Durham (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three orange globes flying in a triangle formation were witnessed in Durham, CA.At about 8:05 pm I viewed 3 objects in the West moving to the East directly over my head--these objects glowed like a Japanese lantern but much brighter -- At first I thought someone had lit them and set them off but these objects were not rising in the sky they were traveling at a high speed with no sound.  They were orange like a fire glow or a jack-o-lantern color the speed seemed to be faster than a large jet liner.  They were traveling in triangle formation with about 1 mile distance apart from each other</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96846.html](http://www.nuforc.org/webreports/reports/096/S96846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rancho Cordova (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Nine white lights (or more) following each other equidistant north to south at 5:45 amI am a 62-year-old male. I live near Mather Field Airport and TRACON in Rancho Cordova, CA, and notice cargo jets flying and landing all the time.  I am familiar with flight times and patterns and sounds.  I began my daily morning walk from my house at 5:45 am.  The sky was clear except for some high hazy clouds creeping up from the southwest.  As I was looking up at the sky I noticed a string of lights, not blinking, coursing across the sky in a North to South direction. I realized that these were not airplanes.  They seemed to be going the same speed; not slow but not very fast either, about the speed of an airliner.  They did not change shape or color, but like dots of white in color following each other.  They did not change directions at all.  I could not tell the altitude, but it seemed they were all at the same altitude; the altitude of an airliner.  I did not hear any noise like an engine.  I began counting them.  I noticed that as I got to number 9, they were b! eginning to follow farther apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154344.html](http://www.nuforc.org/webreports/reports/154/S154344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
