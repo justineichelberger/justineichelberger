@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object was traveling at high speed from the south heading north then made a sharp turn upward and disappeared (yikes)At 8:50pm, I observed a round very bright object (one) in the western sky below two stars under the moon. The object was traveling at high speed from the south heading north then made a sharp turn upward and disappeared (yikes). The way it disappeared was really the strange part it was like the thing hit hyper drive, traveled what looked like a  short distance upward (not 90 deg more like 75deg) and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22287.html](http://www.nuforc.org/webreports/reports/022/S22287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Cylindrical shaped very fast hovering craft..1972 sitingOn my way across the street to go babysitting at approx. 5:30 p.m. / dusk, I heard a loud buzzing tone...similar to the electrical transformers on a foggy morning.  I looked up and saw a cylindrical shaped object with rotating lights hovering over me at about the heighth of the telephone poles.  I stood in the middle of the street for about 20 seconds just watching it and it took a deep dip and sped away in 1/2 second.I continued on to my babysitting job, and while there got very ill and threw-up a couple of times.  I decided no one would believe me then, so I never told anyone until now.  I also lived very close to the Los Alamitos Air Base at the time and I decided there was some experimental stuff going on...obviously to justify what I saw.  I have since talked with many engineers who have informed me that we did not have and still do not have the technology that I describe here.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23021.html](http://www.nuforc.org/webreports/reports/023/S23021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
