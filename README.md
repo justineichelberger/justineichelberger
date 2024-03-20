@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lafayette (near Denver) (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three Lights Over Lafayette, CO Near DenverWe were visiting a relatives house in Lafayette CO near Denver on Spring Break when we get a call from our relative's son at work who is a pilot in the air force telling us to look up in the sky.  We went outside and saw 3 bright, glowing (not blinking, red-orange lights in a triangle formation moving slowly from the Southwest to the Northeast.  The lights remained in a triangle formation, but spread apart and changed directions three-dimensionally.  Definitely looked like 3 separate crafts considering we did not see any other shape indicating it was lights on a single craft although it could have been transparent and moving closer to us.  The lights were also moving against the wind and no noise was emitted from them that we could hear.  When they had ended up in the Northeastern part of the sky, one of the lights faded out and then a minute or two later, another one faded out quickly followed by the last one.  I am not sure if they were lights individually faded from a craft or if the lights were individual crafts zooming back into space.  They just faded out.  We were able to capture the first few minutes on our phone cameras and the videos are on YouTube.  Realufos.net has found our videos and they can both be found here:http://www.realufos.net/2011/03/ufo-sighting-above-lafayette-near.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80550.html](http://www.nuforc.org/webreports/reports/080/S80550.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>surprise photopictures say a millions words sometimes.  and that is what i have.  while taking scenic pictures on a holiday i captured some photos of a ufo or some sort of craft ....in one picture it is very clear!   the greatest part is the pictures are taken from the 13th floor..........lol((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49869.html](http://www.nuforc.org/webreports/reports/049/S49869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
