@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 19 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Laveen (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright white (hot) light appeared in the sky, hovers, falls and drifts and Small unidentified plane shows up.Bright white (hot) light appeared in the sky as I was collecting my mail at my box that evening. My wife was also with me as I pointed it out to her then as well. I always have a steady stream of air traffic most any day. So I'm familiar with the aircraft in my sky.But this was some distance away, but it was unusually bright. It was to the west, maybe about the eleven position. So I stood and watched it to see what it might be. I then noticed it not static, some movement. I used a tree and it's branches as confirmation the object was moving, not anything with me.It hovers, falls and drifts. Too bright for helicopter, and no running lights or NAV, and not a plane. It was moving slowly from west to north west gaining then losing sometimes altitude. Also, that bright white almost appeared to cast a sort of HALO effect around it some times. Another occasion it appeared to flash sometimes red, then the white. Is it a Drone maybe? But now, I'm thinking possibly a military flare? It is in the west sky, towards (Luke AFB). A Small unidentified plane generally shows up about 10-15 minutes into this and has headed south, and sometimes the west. There have been two instances so far. Plane is small and dark black, and 2 small red NAV lights on its wing tips.It's at a Higher air traffic ceiling level, no sound either. Commercial planes are often very absent during this time, and at a lower ceiling than the unidentified plane. Any that do show up, often direct themselves to a different path, and away from the area of the plane and bright light occupies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154572.html](http://www.nuforc.org/webreports/reports/154/S154572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Whitefish (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Summary : orange lights (not shaped likeaircraft) about 1000 feet overhead followed closely by jet (wingsvisible naked eye).  Only soundsof one aircraft.While viewing Hale Bopp in NNWsky, noticed an orange light moving quickly with an aircraft following closely behind movingwest to east.  The second object was clearly an airplane with wings, fusilage, runninglights-- visible with naked eye (andbinoculars) and sound of jet engine.Only one engine noise heard.  The orange object appeared to have 3 smaller orange lights associated with it, visible in binoculars only.These orange lights were closer together than the running lights ofthe trailing airplane, and were ina straight line.  They never seemedto move relative to one another.No visible structural bodyassociated with orange lights.The sighted plane and lights wasabout 500-1000 feet above theground and maybe 1000-2000 feetaway.  The sighting was made in anarea of tall trees, and moved quicklyout of line of sight. The aircraft trailin lights was extremely close tothe lights it followed-- at arm'sdistance about as far apart aswidth of a fist.Towards end ofsighting, the space between closed a bit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02088.html](http://www.nuforc.org/webreports/reports/002/S02088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
