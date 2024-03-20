@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:49 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Whitefish (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Summary : orange lights (not shaped likeaircraft) about 1000 feet overhead followed closely by jet (wingsvisible naked eye).  Only soundsof one aircraft.While viewing Hale Bopp in NNWsky, noticed an orange light moving quickly with an aircraft following closely behind movingwest to east.  The second object was clearly an airplane with wings, fusilage, runninglights-- visible with naked eye (andbinoculars) and sound of jet engine.Only one engine noise heard.  The orange object appeared to have 3 smaller orange lights associated with it, visible in binoculars only.These orange lights were closer together than the running lights ofthe trailing airplane, and were ina straight line.  They never seemedto move relative to one another.No visible structural bodyassociated with orange lights.The sighted plane and lights wasabout 500-1000 feet above theground and maybe 1000-2000 feetaway.  The sighting was made in anarea of tall trees, and moved quicklyout of line of sight. The aircraft trailin lights was extremely close tothe lights it followed-- at arm'sdistance about as far apart aswidth of a fist.Towards end ofsighting, the space between closed a bit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02088.html](http://www.nuforc.org/webreports/reports/002/S02088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object was traveling at high speed from the south heading north then made a sharp turn upward and disappeared (yikes)At 8:50pm, I observed a round very bright object (one) in the western sky below two stars under the moon. The object was traveling at high speed from the south heading north then made a sharp turn upward and disappeared (yikes). The way it disappeared was really the strange part it was like the thing hit hyper drive, traveled what looked like a  short distance upward (not 90 deg more like 75deg) and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22287.html](http://www.nuforc.org/webreports/reports/022/S22287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
