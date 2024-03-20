@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rancho Cordova (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Nine white lights (or more) following each other equidistant north to south at 5:45 amI am a 62-year-old male. I live near Mather Field Airport and TRACON in Rancho Cordova, CA, and notice cargo jets flying and landing all the time.  I am familiar with flight times and patterns and sounds.  I began my daily morning walk from my house at 5:45 am.  The sky was clear except for some high hazy clouds creeping up from the southwest.  As I was looking up at the sky I noticed a string of lights, not blinking, coursing across the sky in a North to South direction. I realized that these were not airplanes.  They seemed to be going the same speed; not slow but not very fast either, about the speed of an airliner.  They did not change shape or color, but like dots of white in color following each other.  They did not change directions at all.  I could not tell the altitude, but it seemed they were all at the same altitude; the altitude of an airliner.  I did not hear any noise like an engine.  I began counting them.  I noticed that as I got to number 9, they were b! eginning to follow farther apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154344.html](http://www.nuforc.org/webreports/reports/154/S154344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Clara (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Constant glow fast moving object faster above the jet liners.  slower than meteor and much faster than jets.  some times moving in acute angles at a very high speed.  No tails or smoke or trials left.((NUFORC Note:  We assume an evening sighting, and we have amended the time above.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87913.html](http://www.nuforc.org/webreports/reports/087/S87913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
