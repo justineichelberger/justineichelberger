@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Petaluma (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>comet like sighting over 101 petaluma areaOn 3-20-13 at 1316hrs while driving south-bound on HWY 101 coming down the Cotati grade I noticed what appeared to be a white comet with two tails (about 80 meters long) high in the sky.  The object appeared to be about 4 to seven miles away and about 15,000 feet up.  It appeared to be traveling slowly heading south, as the tail was behind the object.  After a minute or two the object stated to lose altitude and seemed to face my general direction.  The tail was no longer visible during this time and only the white round cloud color could be seen.   As I exited the first Petaluma off-ramp the object appeared low about 500 to 700 feet and at a distance of about 1 mile.  The white color I had seen was gone, and for a brief moment I saw a round solid object and then I lost it behind the trees.  I kept looking in the area but could not see it again. the tail on the object would disappear after about 80 yards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96727.html](http://www.nuforc.org/webreports/reports/096/S96727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A ball of fire that stoped and hovered befor blinking out.I'm making this report for the men who say this as they don't speak good English.  On the night of the 20th Casar standing at the back of the restaurant that he works for.  A light in the sky caught his eye.  He first thought it was a falling star as it fell towards the ground untill it stoped in mid-flight.  It hovered for about five min. or so moving some to the right and the left and then blinking out.  He yelled for the other workers to come look at it several of them used there camera/ phone to take pictures and video of it.  I have copies of the video and pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88048.html](http://www.nuforc.org/webreports/reports/088/S88048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
