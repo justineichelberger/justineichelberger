@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>surprise photopictures say a millions words sometimes.  and that is what i have.  while taking scenic pictures on a holiday i captured some photos of a ufo or some sort of craft ....in one picture it is very clear!   the greatest part is the pictures are taken from the 13th floor..........lol((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49869.html](http://www.nuforc.org/webreports/reports/049/S49869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Minnedosa (Canada) (MB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>very bright white light and changes in color which hovered in a straight line with smaller round lights that shot out from the large onsitting in living room looking north int the sky and saw a bright star light obeject which moved a fraction which caught my attention and I kept watching and the star like object would get brighter and seemed to rotate just slightly - it almost looked like it had sort of a spotlight effect and then changed to a pink color and then changed to bright white and I could tell it was hovering because of the movement and then changed to a bluish color & back to bright light and stayed for a good 15 min - then a tiny marble shape shot out straight up and 5 min later another blue round shape out sideways - I could tell it was hovering as it seemed shaky and it was extremly windy.  After about 5 min the obect started but light stayed bright but I could it was farther away.  Parrel to the bigger light was another object (bluish) that was smaller and it appeared to be moving away also and disappeared before the larger one.  About 5 after 5 there were objects that looked like shooting stars but went extremly fast - and dissappeared.  The sky was clear no clouds - but very windy - the obect seemed to travel in a very straight line((NUFORC Note:  Witness does not indicate accurately duration of sighting, but we wonder whether she might have been looking at a celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35712.html](http://www.nuforc.org/webreports/reports/035/S35712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
