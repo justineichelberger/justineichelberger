@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bucerias (Nayarit) (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>the object over our house was huge!My husband and I observed a light that was flashing red on and off, far away in the sky, but would move very fast suddenly.  The light started getting closer, then was flashing red and white.  Very rapidly it traveled closer to us, then we clearly saw a huge, grey flatter object that was circular above us and flying over our house, we ran to the front of the house but it flew very fast away, making no noise.  We saw only the red and white lights flashing again, then it was gone.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52305.html](http://www.nuforc.org/webreports/reports/052/S52305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Durham (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three orange globes flying in a triangle formation were witnessed in Durham, CA.At about 8:05 pm I viewed 3 objects in the West moving to the East directly over my head--these objects glowed like a Japanese lantern but much brighter -- At first I thought someone had lit them and set them off but these objects were not rising in the sky they were traveling at a high speed with no sound.  They were orange like a fire glow or a jack-o-lantern color the speed seemed to be faster than a large jet liner.  They were traveling in triangle formation with about 1 mile distance apart from each other</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96846.html](http://www.nuforc.org/webreports/reports/096/S96846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
