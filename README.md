@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Southern Pines (NC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Erraticly moving craft emmitting light pulses.Traveling Southbound on US Highway 1, towards Richmond County.  Light pulses coming from the southwest.  Pulses increased in intensity until last flash, then light source dissappeared.  Sourse of light moving at an indeterminate speed.  Ft. Bragg is located approximately 30 miles from the area, but the source of the light was too erratic to be military.  Light source was definetely not ground based (i.e. search lights) and the movement was not the sort a low flying helicopter would make.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16948.html](http://www.nuforc.org/webreports/reports/016/S16948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Lights Over Lake Pueblo travel past the North StarI lived in Pueblo West from 2002 to 2016. In Early spring 2010 at about 10pm I went onto my back porch and looked at the stars which I do often. In the sky over Lake Pueblo at close to a 60 degree angle, I noticed what looked like extra stars. There was one large bright light with three smaller less bright lights.  I watched this for several minutes because I knew they didn’t belong there.  As I watched them, they started to move towards the North Star.  The large light was in front with the other three equal distances around. I watched them fly at a steady pace for fifteen minutes until they disappeared into outer space past the North Star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158147.html](http://www.nuforc.org/webreports/reports/158/S158147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
