@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Benton (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was taking long exposure pictures of Sirius/Orion's belt/Betelgeuse, when I noticed something flying near my field of view from the south.  At first glance it looked like a kite, triangular in shape and white in color. It flew northbound and when it was directly above me, I knew it wasn't a kite, drone, or bird. There were no lights on the object and no sound. It disappeared shortly after into the clouds (partly cloudy that night) and I heard the birds in that direction start to chirp wildly.My camera was mid exposure on a 30 second shot and the object flew just outside the left side of the frame.  Unfortunately, even with an ultra wide 14mm lens on at the time, I was unable to capture anything. The whole event lasted no longer than 10 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117976.html](http://www.nuforc.org/webreports/reports/117/S117976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Balloon like object rotating, dull gray in color, had a vibrating aura.I was star gazing when I noticed a balloon like object rotating right above me. It was lower then a plane but to high to be balloons. There was no sounds or lights, it was dull gray in color, camoflaged with the night sky. It looked like it had a vibrating or magnetic aura coming off of it.  It moved slowly in a straight path Eastward then disappeared into the night. The weather was clear and warm, and there wasn't any wind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36033.html](http://www.nuforc.org/webreports/reports/036/S36033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
