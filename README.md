@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:08 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:49 on 20 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Signal Mountain (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Hovering disk object lights up the woodsI can't remember the exact date, but I was about 12 or so (I’m 28 now). Snow was falling and school had been cancelled the next day already. A snowball fight broke out in the front of our house with my brother and his friend. The back of the house backs up to miles and miles of forest. I decided that there may be more snow back there to make a snowball. I went in to the back yard to (which is about 70 yds and slopes downward into the woods) and noticed the trees in the woods background were lighting up in a flashing manner. I thought there may be hunters back there but the flashing light was way too powerful for any spotlight that local raccoon hunters would use. I thought it may be lightning but only a section of the woods was lighting up. The light was like a fluorescent white color and reminded me of a strobe light color. The woods would light up for about 10 seconds and the light (or beam) seemed to be scanning the section of the woods like it was examining the trees and then would turn off for 5 secs. Then this would repeat. It was tough to see what direction that light was coming from so I just continued to walk towards the woods. Finally I saw the object just below the tree line which consisted of mostly tall pines. The tops of the trees were rustling eerily, and there was a misty object that was disk shaped and bright that slowly moved away and zoomed off fast. No sounds whatsoever.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63175.html](http://www.nuforc.org/webreports/reports/063/S63175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Whitefish (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Summary : orange lights (not shaped likeaircraft) about 1000 feet overhead followed closely by jet (wingsvisible naked eye).  Only soundsof one aircraft.While viewing Hale Bopp in NNWsky, noticed an orange light moving quickly with an aircraft following closely behind movingwest to east.  The second object was clearly an airplane with wings, fusilage, runninglights-- visible with naked eye (andbinoculars) and sound of jet engine.Only one engine noise heard.  The orange object appeared to have 3 smaller orange lights associated with it, visible in binoculars only.These orange lights were closer together than the running lights ofthe trailing airplane, and were ina straight line.  They never seemedto move relative to one another.No visible structural bodyassociated with orange lights.The sighted plane and lights wasabout 500-1000 feet above theground and maybe 1000-2000 feetaway.  The sighting was made in anarea of tall trees, and moved quicklyout of line of sight. The aircraft trailin lights was extremely close tothe lights it followed-- at arm'sdistance about as far apart aswidth of a fist.Towards end ofsighting, the space between closed a bit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02088.html](http://www.nuforc.org/webreports/reports/002/S02088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
