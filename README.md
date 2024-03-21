@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:52 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Greenfield (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The ufo had two very bright lights side by side it was moving slowly and made a hovering sound.I went to lock my door and when I glanced out the door window I saw it. It was very bright like a planet on a clear night. Exept that it had two bright lights side by side and was moving slowly. I woke my husband up and he saw it he at first thought it was a planet until he noticed it was moving. I thought I had time to get my camcorder I was gone maybe a minute by the time I got outside it was gone all there was , was a strange hovering sound and then nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22294.html](http://www.nuforc.org/webreports/reports/022/S22294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pigeon Forge (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Light moving in strange patterned flight over Pigeon Forge, TennesseeI was at work at a log cabin resort where I work nights. I stepped out on the balcony to smoke a cigarette. I looked up at the sky and saw several stars and noticed one that was particularly bright. As I watched it, I noticed that it was moving in very distinct and changing patterns. Thinking that I must be moving, I steadied myself against the railing and the object was still moving. Thinking I must still be moving, I backed up against the building and placed my back and head against the wall...still moving. I looked at the surrounding celestial objects (stars etc) and they were all standing still. As I watched, the object moved back and forth at breakneck speeds. It wouldn't curve when it changed course but, instead it would reverse direction in a straight line. Occasionally the object would stop and just hover in place, then it started moving in patterns, sometimes in a circle, sometimes in a figure eight, sometimes in a triangle pattern, always stopping and hovering before changing patterns. This went on and on, after twenty minutes, I went and got the two ladies working in the laundry and they confirmed that they saw the same thing. They also noticed that the object was changing colors, always white but sometimes bluish whate and other times a greenish/yellowish white. During the incident, a helicopter flew over, I could hear the helicopter but the object made no noise whatsoever. Still trying to disprove what I was seeing, I thought perhaps that a thermal was rising in front of the object making it appear to move but, just before dawn a heavy fog rolled in and eveything in the sky disappeared except for this object which was still faintly visible. Around 7am, two other female employees came in and I showed them and they saw the exact same thing. It was the weirdest thing I ever saw, I am going to try to take a video camera to work in case the object returns.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55845.html](http://www.nuforc.org/webreports/reports/055/S55845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
