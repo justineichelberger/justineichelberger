@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:23 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:49 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Carnsville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately :08 - :08 minutes.</sub><blockquote><sub>me and my son were driveing home, and we seen what looked like a ball of fire moving at a fast rate of speed,and it disapered behind some trees. i was trying to find a way to report this, but this is the only site my son found.((NUFORC Note:  Date may be approximate, although the source does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74243.html](http://www.nuforc.org/webreports/reports/074/S74243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Union City (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cloudy and slight fog out.  I was on my back patio smoking a cigarette like I do every night when I look to my west and see a extremely bright white light circle shape.  I live near airport so lights in the sky are normal.  This light was different was extremely bright and didn’t move.  Was too high to be a helicopter and to low to be a star.  It did not move.  I called my son to come look at what I was seeing.  At this time the light wasn’t as bright but was still white and big.  When my son came out he was seeing it as well as we watched it for a minute it started to go in and out the light then turned red and disappeared.  Was weird to say the least.Myself 37 Chick-fil-A employee Son 15 years old Daughter 16</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154318.html](http://www.nuforc.org/webreports/reports/154/S154318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
