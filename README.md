@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three blinking dots in the shape of a triangle...similar to the one sighted in pasco terxas on March 14</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62277.html](http://www.nuforc.org/webreports/reports/062/S62277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.005 - 0.005 minutes.</sub><blockquote><sub>This maybe nothing but I had to write in.  I was looking in the sky for a satelite -( I like watching them ) and I saw a britght flash almost like someone turned a liht on and off, then it wa gone.  I kept looking for it then there it was again and it blinked so I thought it was a plane but it was too high for a plane unless it was military and thats possible. but the weird thing is (and I know what plane becons look like since I'm a pilot. it was spiratic and then dissapered.My only conclusion is that it was a military jet haveing a little fun i the sky, playing with the lights.  Or a UFO.So with that said I thought I wouls send it in.It was towards the North</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87915.html](http://www.nuforc.org/webreports/reports/087/S87915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
