@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. Cloud (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We suspect that these yellow lights, which are reported to us frequently from north-central Florica, are flares over the Avon Park Firing Range.))HAVE SEEN SEVERAL TIMES. AMBER LIGHT THAT WILL STAY AROUND FOR ABOUT 15 MINUTES AND THEN WILL DISAPPEAR.  THEN APPEARS AGAIN IN DIFFERENT AREA.  WILL SOMETIMES SPLIT INTO TWO OR THREE AND THEN BACK TO ONE.ON THIS NIGHT, WE SAW ONE BRIGHT AMBER FLICKERING CIRCULAR LIGHT FOR ABOUT 15 MINUTES.  THE LIGHT STAYED STATIONARY FOR THIS TIME.  THE LIGHT THEN DISAPPEARED.  THE BRIGHT AMBER LIGHT THEN REAPPEARED ABOUT FIVE MINUTES LATER AND STAYED STATIONARY AND LIT FOR ABOUT 3 MINUTES, THEN DISAPPEARED.  MY SON AND I HAVE SEEN THESE LIGHTS SEVERAL TIMES WITHIN THE LAST YEAR.  THIS WAS SEEN IN AN AREA OF ST. CLOUD CALLED THE MANOR.  WE HAVE LIVED HERE FOR ABOUT SIX YEARS.  WE HAVE TRYED TO TAKE PICTURES OR SEE THROUGH BINOCULARS, BUT EACH TIME WE RETREIVE CAMERA IT EITHER FADES OR IS ALREADY GONE WHEN WE GET BACK OUTSIDE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12410.html](http://www.nuforc.org/webreports/reports/012/S12410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>came out for a smoke @ 9pm and caught a strobe of bright orange light from a dim light then noticed 4-5 other dim lights moving left to right then one started rising sratght up then another one followed it.  we saw the strobe 3 times.  then they stationary ones just seemed to fade off into the distance!  would guess they were a 100 miles away?  did not see anything unusual where the two rose straight up expecting a mother ship.  I hope other people were able to witness it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154367.html](http://www.nuforc.org/webreports/reports/154/S154367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
