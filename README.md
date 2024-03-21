@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>An orange sphere was seen moving quickly across the sky over Memphis.I was walking my dogs behind my house, as I do every night, and noticed an orange sphere moving very quickly across the sky in the south-southwest direction.  It appeared to be very high in the sky.  It did not have any of the characteristics of the aircraft that Memphis sees in its skies coming and going to MEMH.Firstly, it did not have flashing lights.  When the planes are headed directly towards your line of sight, you cannot see flashing lights, but they tend to appear yellowish-white; this craft was a solid, orange ball.  Secondly, it was going way too fast relative to its  apparent altitude.  Had it been a plane at that altitude, it would have been moving much slower across the sky. Thirdly, when it finally dawned on me that what I was looking at might actually be a UFO, and I reached into my pocket to take out my phone, it instantly disappeared; as if you had just flipped a switch.  It was completely gone.  Since there were no clouds in the sky during this observation, it couldn’t have gone behind a cloud.  The entire observation lasted only 10-12 seconds.For years I have made a minor hobby out of watching the FedEx planes coming and going in the Memphis skies, and I am completely certain that what I saw tonight, March 21, 2019, was not a plane or a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145367.html](http://www.nuforc.org/webreports/reports/145/S145367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It appeared with three white lights then we saw colored lights and then it went into the clouds and came back out then dissapearedAll 3 of us looked up and we saw what we looked like 3 searchlights in the sky. Then all of the sudden it began to move at tremendous speeds. We were wondering what it was since it was circiling around and the three searchlight type lights turned off and colored lights began to circle around the craft. We were all looking at each other saying "is that a ufo?". Then it went at a high speed into the clouds. We could no longer see it. Then all of the sudden it appeared in another part of the sky. By this time we were sure it was a ufo. Then it dissapeared and didnt come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43129.html](http://www.nuforc.org/webreports/reports/043/S43129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
