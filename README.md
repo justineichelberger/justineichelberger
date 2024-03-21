@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.005 - 0.005 minutes.</sub><blockquote><sub>This maybe nothing but I had to write in.  I was looking in the sky for a satelite -( I like watching them ) and I saw a britght flash almost like someone turned a liht on and off, then it wa gone.  I kept looking for it then there it was again and it blinked so I thought it was a plane but it was too high for a plane unless it was military and thats possible. but the weird thing is (and I know what plane becons look like since I'm a pilot. it was spiratic and then dissapered.My only conclusion is that it was a military jet haveing a little fun i the sky, playing with the lights.  Or a UFO.So with that said I thought I wouls send it in.It was towards the North</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87915.html](http://www.nuforc.org/webreports/reports/087/S87915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oconomowoc (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw two pairs of lights moving east to west very high and moving much faster than any aircraft I have seen. They crossed paths and were gone very quickly.they could have been after burners of two jets with no lights on but I heard no sound, if they were low I would expect to see them move that fast but, they seemed high and crossed right to left so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05972.html](http://www.nuforc.org/webreports/reports/005/S05972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
