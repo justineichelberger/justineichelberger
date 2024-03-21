@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oconomowoc (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw two pairs of lights moving east to west very high and moving much faster than any aircraft I have seen. They crossed paths and were gone very quickly.they could have been after burners of two jets with no lights on but I heard no sound, if they were low I would expect to see them move that fast but, they seemed high and crossed right to left so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05972.html](http://www.nuforc.org/webreports/reports/005/S05972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ranchester (WY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 31.0 - 31.0 minutes.</sub><blockquote><sub>Was sitting still then startled to travel north when the star appearing object turned its star light off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154362.html](http://www.nuforc.org/webreports/reports/154/S154362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
