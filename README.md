@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cook County (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>three lights came out from behind a cloud and began following beside our car for 5- 10 minutesI was going back to home to Thunder Bay from March Break vacation in Winnipeg through the states with my mom, big brother, and little sister.And somewhere near Grand Marais, I saw three white lights forming a triangle come out from behind some clouds. It began travelling along with our car at the same speeds as us until we were around Croftville or Hovland where it went back behind the clouds.I was afraid to tell anyone because I thought they'd think I was crazy, and I still think that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45547.html](http://www.nuforc.org/webreports/reports/045/S45547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mt. Pleasant (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Flashing lights, at least 12 craftsMy fiance' and I had seen previous crafts, so we were out looking for more.  There was one large white light flashing rainbow colors, slowly moving up, down, and side to side in a slow erratic fashion.  There were numerous smaller gold-colored crafts that would copy what the large white craft did.  We saw 2 (what appeared to be) "shooting stars" fly right between 2 crafts but dissappearing before reaching the crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96800.html](http://www.nuforc.org/webreports/reports/096/S96800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
