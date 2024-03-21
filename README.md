@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ranchester (WY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 31.0 - 31.0 minutes.</sub><blockquote><sub>Was sitting still then startled to travel north when the star appearing object turned its star light off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154362.html](http://www.nuforc.org/webreports/reports/154/S154362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a light far up in the sky, it was moving east slowly and disappeared briefly. Then reappeared for only a second or two and then disappeared.  It appeared to be more of a reflection than a light. The sky was clear with several plane trails. The sun was setting and I believe it was a reflection of the setting sun on a metal object. I heard no sound nor saw any trail. It was much higher than any plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88081.html](http://www.nuforc.org/webreports/reports/088/S88081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
