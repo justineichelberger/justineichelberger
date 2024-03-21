@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw a shape it looked like a ball too fast for a plane/aircraft, and too slow for shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108065.html](http://www.nuforc.org/webreports/reports/108/S108065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Greenfield (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The ufo had two very bright lights side by side it was moving slowly and made a hovering sound.I went to lock my door and when I glanced out the door window I saw it. It was very bright like a planet on a clear night. Exept that it had two bright lights side by side and was moving slowly. I woke my husband up and he saw it he at first thought it was a planet until he noticed it was moving. I thought I had time to get my camcorder I was gone maybe a minute by the time I got outside it was gone all there was , was a strange hovering sound and then nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22294.html](http://www.nuforc.org/webreports/reports/022/S22294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
