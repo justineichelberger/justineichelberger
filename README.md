@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Columbus (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>UFO seen not moving in the air for at least a minute then I got closer to it but it flew away from me.I saw something in the sky at low altitude that wasn't moving at all. It had a bright red light and a couple other white lights but none were blinking. I parked my car after seeing it and waited for a minute to see it move, but it didn't. I noticed that 2 police officers were outside looking at it. There were many more people around but they did not notice it. It seems that most people don't see UFOs when they do show up. I started to get closer to it but then it started to move in the opposite direction. I chased it down the highway going 60 miles per hour, but I still couldn't catch it. After a mile down the road, it turned of all white lights and it only had its red light on. Again, no lights ever blinked.I was the person who reported the last 2 sightings in Columbus, GA. It's a shame that I've been the only person reporting for the whole entire city. I'm a very honest person and take these events very seriously. I videotape every sighting that I can, but unfortunately only have caught 1 UFO on film.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69324.html](http://www.nuforc.org/webreports/reports/069/S69324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw an orange sphere move 30 miles in 5 seconds.I was watching a jet liner moving N.E. at 30,000 ft.  plus when i saw a orange sphere moving at an incredible speed north to south.  My perception is it was at about 7000 ft.  It was not a meteore.  There was no firetrail or contrail.  There was no sound that came from it.  It covered 30 miles give or take in 5 seconds.  The sphere looked to be 100 ft across.  It was without a doubt in our atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88096.html](http://www.nuforc.org/webreports/reports/088/S88096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
