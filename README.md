@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:49 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Union City (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cloudy and slight fog out.  I was on my back patio smoking a cigarette like I do every night when I look to my west and see a extremely bright white light circle shape.  I live near airport so lights in the sky are normal.  This light was different was extremely bright and didn’t move.  Was too high to be a helicopter and to low to be a star.  It did not move.  I called my son to come look at what I was seeing.  At this time the light wasn’t as bright but was still white and big.  When my son came out he was seeing it as well as we watched it for a minute it started to go in and out the light then turned red and disappeared.  Was weird to say the least.Myself 37 Chick-fil-A employee Son 15 years old Daughter 16</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154318.html](http://www.nuforc.org/webreports/reports/154/S154318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately Morning - Morning minutes.</sub><blockquote><sub>On the morning of March Twenty One 2020 I had woken up at 6:35 in the morning I had walked outside and look in the sky and I seen what look like the space station like moving from north to south as I watched the light I thought it was the space station the light was traveling a lot more faster than I normally seen the space station travel I watched it move across the sky towards the South I look to the right and saw another light moving across the sky as the Frist one I was immediately suspicious then when I seen the second light so I watch them both move across the sky towards the South I looked towards the right and seen another one so now I'm watching three lights move towards the cell I live in Tooele so they were moving from the West I'm looking to the West thing and then I look over to the right and I see a fourth of fifth of six I watched a total of 32 of them what was bizarre it was that the last two that I seen were extremely close to each other tra! veling from north to south I watched him for approximately 10 minutes Watch32 lights travel across the sky this morning it was absolutely mind-boggling and I know that they we're not the space station and it wasn't just a satellite it was something else when I seen the eighth one I ran into the house and woke my wife up to have her come witness what I was seeing so we both watched it it was unbelievable</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154381.html](http://www.nuforc.org/webreports/reports/154/S154381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
