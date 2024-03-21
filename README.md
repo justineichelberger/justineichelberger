@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It appeared with three white lights then we saw colored lights and then it went into the clouds and came back out then dissapearedAll 3 of us looked up and we saw what we looked like 3 searchlights in the sky. Then all of the sudden it began to move at tremendous speeds. We were wondering what it was since it was circiling around and the three searchlight type lights turned off and colored lights began to circle around the craft. We were all looking at each other saying "is that a ufo?". Then it went at a high speed into the clouds. We could no longer see it. Then all of the sudden it appeared in another part of the sky. By this time we were sure it was a ufo. Then it dissapeared and didnt come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43129.html](http://www.nuforc.org/webreports/reports/043/S43129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. Cloud (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We suspect that these yellow lights, which are reported to us frequently from north-central Florica, are flares over the Avon Park Firing Range.))HAVE SEEN SEVERAL TIMES. AMBER LIGHT THAT WILL STAY AROUND FOR ABOUT 15 MINUTES AND THEN WILL DISAPPEAR.  THEN APPEARS AGAIN IN DIFFERENT AREA.  WILL SOMETIMES SPLIT INTO TWO OR THREE AND THEN BACK TO ONE.ON THIS NIGHT, WE SAW ONE BRIGHT AMBER FLICKERING CIRCULAR LIGHT FOR ABOUT 15 MINUTES.  THE LIGHT STAYED STATIONARY FOR THIS TIME.  THE LIGHT THEN DISAPPEARED.  THE BRIGHT AMBER LIGHT THEN REAPPEARED ABOUT FIVE MINUTES LATER AND STAYED STATIONARY AND LIT FOR ABOUT 3 MINUTES, THEN DISAPPEARED.  MY SON AND I HAVE SEEN THESE LIGHTS SEVERAL TIMES WITHIN THE LAST YEAR.  THIS WAS SEEN IN AN AREA OF ST. CLOUD CALLED THE MANOR.  WE HAVE LIVED HERE FOR ABOUT SIX YEARS.  WE HAVE TRYED TO TAKE PICTURES OR SEE THROUGH BINOCULARS, BUT EACH TIME WE RETREIVE CAMERA IT EITHER FADES OR IS ALREADY GONE WHEN WE GET BACK OUTSIDE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12410.html](http://www.nuforc.org/webreports/reports/012/S12410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
