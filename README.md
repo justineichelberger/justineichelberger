@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:38 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:18 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Emmaus (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was walking my dog at 10:30 as i arrived home i looked up and saw what appeared to be a fire ball moving across sky in my direction.  I called in to my wife and kids and they came out and witnessed it.  Then it stopped moving and hovered, no longer moving across sky.  It did this for about 60 minutes and then literally just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154369.html](http://www.nuforc.org/webreports/reports/154/S154369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>7-9 lights crossing the sky in a haphazard formation.Stepping outside of my home tonight I approached the backyard and peering at the sky saw seven to nine lights moving across the sky in formation.  When I sighted the objects they were high in the southern sky, they moved northward changing formations changing from a line formation to a V with objects weaving in and out of each other and disorganized at times.  The light emitted by the objects was a gently pulsating white light.  As they continued northward I noticed a commercial jet in the distance, appearing to be ahead of the formation.  It was then that the objects disappeared from sight completely.  Around one minute later I saw another object of similar size and appearance cross the sky in the same direction, also disappearing.  They were silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133248.html](http://www.nuforc.org/webreports/reports/133/S133248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
