@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Summary : Bright yellow light in the sky.  The brightest object in the sky.  Kept on brightening and lowering it flouresent yellow light.It was directly south of comet halle boppe.  Look like a giant disk rotating glowing a magnificient yellow.  Move in a circle to the west at a great speed and was losing altitude very fast gaining great distanc than to where it was prior.  It appeared that it was going to crash.  Went so far down we could no longer see it from our position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02152.html](http://www.nuforc.org/webreports/reports/002/S02152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Milpitas (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>They were bright round objects huffering over the water  7-1-2011  First of all, am not a crazy, lonely, emotional person seeking fame or money?   After seeing this with my friend I didn’t tell anybody not even my family.  I just told them a couple years ago,  I don’t know about my friend,  I haven’t seen him since we worked together.Here is goes:  It was a Sunday afternoon around 3 to 4 o’clock, we were taking a drive past a reservoir and then these round bright light objects were just huffering (sic.  Hovering)) over the water, then stayed there about 2 to 3 minutes. Then they took off over the mountains, they took off at an incredibly speed.  I can’t even guess how fast they took off, but I know this, there is nothing on this planet that can go that fast. THAT’S IT((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82054.html](http://www.nuforc.org/webreports/reports/082/S82054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
