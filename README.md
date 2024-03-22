@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Bright white object by Phila Airport High Up Across SkyObserved near Phila. Int’l airport at 9:29 PM.  Probably a comet or debris covering a 30’ degree arc below the moon, from about high noon to about 2:30 in the sky east below the full moon. Clear sky.  Stars.  Was white in color and went in straight line at a very rapid rate with no trail.  Then disappered without fallout or change in colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126491.html](http://www.nuforc.org/webreports/reports/126/S126491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Corvallis (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Round, white light  with halo effect appeared briefly in the vicinity of the Big Dipper on clear, cold night..Small white light with halo effect observed near Dubhe, (the lower star at the outside edge of the Big Dipper’s inverted cup.) It was a cold night and the sky was perfectly clear, with the Moon setting low on the western horizon. I was outside looking at the sky in the area of the Big Dipper’s cup when a round, white light suddenly "turned on" just to the left (west) of Dubhe in a horizontal line with the star. (I was facing North.) The light was visible for about one-half second and had a distinct halo around it. Other stars in the sky exhibited no halo effect, including the setting Moon. The light remained in the exact same position during the entire time it was visible. For comparison, the light was roughly the size of a nickel held at arm’s length. When viewed with the naked eye, the light appeared to be about twice as large as the star Dubhe and roughly twice as bright. Its duration was brief, but the light was steady in appearance while it lasted. It did not flash or fade in and out--it simply turned on, showed a halo effect, and turned off. After the light disappeared, I held my hand against the sky to estimate its distance from the star Dubhe. It was about three fingers distance from Dubhe in a horizontal line to the left of the star. I couldn’t estimate the altitude of the light with any accuracy. It seemed to be at a great distance from me and gave me the impression that it might be beyond the earth’s atmosphere in space, but it was clearly visible. I retrieved my binoculars from inside and swept the whole sky in every direction to see if I could detect another light like it, but I saw nothing unusual for over an hour. I served in the military and am familiar with all sorts of military and commercial aircraft and their navigational lights and I recognize satellites when I see them. The light I saw was not like those objects. Most commercial aircraft uses a flight pattern well to the East of my town and we do not see military aircraft here on a regular basis. Our night sky is very quiet.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55890.html](http://www.nuforc.org/webreports/reports/055/S55890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
