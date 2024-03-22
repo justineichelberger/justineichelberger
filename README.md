@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>UFO in the sky of University of FloridaDate/Time:     03/22/2003 around 22:00  Location:   Southwest of Lake Alice, University of Florida, Gainesville, FL, U.S.A. Observers:   Me, ((name deleted)) & my friend, ((name deleted)):  In Saturday evening around 9:00pm, March 22, 2003, my friend ((deleted)) and I went out to have a walk along the Southwest of Lake Alice. Because the sky was very clear in that evening and there were only a few lights around, it was perfect for watching the stars. Around 10:00pm, I happened to look into the sky, there was suddenly an ellipse-shaped dim object flying from Northwest to Southeast with very high speed along an almost straight line. I immediately told my friend ((name deleted)), so she saw the same thing flied to and disappeared in the further Southeast too. The total time for the object’s appearance was about 5 seconds. Only two or three seconds later, when we were still looking at the sky and wondering what we had seen, another ellipse-shaped dim object was seen flying from West to East with about the same speed and same straight line, which made an angle of 25-30 degree across the line the first one made. Both of us saw both of the objects clearly and surely. Although they looked gray, bright, outstanding in the dark sky, there were no flashes from these two objects, and they seemed much higher and flied much faster than normal planes. So they should not be planes or helicopters. We suspected that these objects were UFOs based on our analysis. If anyone happened to see the same thing on the same date, we are very interested in knowing the details in order to confirm our thoughts and make to report to pertinent Agency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28297.html](http://www.nuforc.org/webreports/reports/028/S28297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Bright white object by Phila Airport High Up Across SkyObserved near Phila. Int’l airport at 9:29 PM.  Probably a comet or debris covering a 30’ degree arc below the moon, from about high noon to about 2:30 in the sky east below the full moon. Clear sky.  Stars.  Was white in color and went in straight line at a very rapid rate with no trail.  Then disappered without fallout or change in colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126491.html](http://www.nuforc.org/webreports/reports/126/S126491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
