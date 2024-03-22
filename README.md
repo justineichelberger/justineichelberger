@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 21 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>came out for a smoke @ 9pm and caught a strobe of bright orange light from a dim light then noticed 4-5 other dim lights moving left to right then one started rising sratght up then another one followed it.  we saw the strobe 3 times.  then they stationary ones just seemed to fade off into the distance!  would guess they were a 100 miles away?  did not see anything unusual where the two rose straight up expecting a mother ship.  I hope other people were able to witness it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154367.html](http://www.nuforc.org/webreports/reports/154/S154367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Neon green light crossed skyI was sitting in the chair by the bay window. I looked up and saw a neon green light go across the sky. It went from right to left. It last only seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96726.html](http://www.nuforc.org/webreports/reports/096/S96726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
