@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Reading (MA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving to Boston.  Passing through North Reading.  On highway ball of light dropping above me.  A blue/white color, like a gas stove.  Fell almost to the grown disappeared.Time 12:15 a.m..  A few cars were driving. .but their was alot of State troopers on they must have seen it.they were pulling over cars.  My car started stalling, it was weird.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118027.html](http://www.nuforc.org/webreports/reports/118/S118027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kenora (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>×××××UFO SPOTTED, KENORA CANADA××××××Hi i was driving home from Alberta to Ontario when I saw in my peripheral vision a massive white light bouncing around in the sky, so I pulled my car over and pulled out my phone and tried to document it to the best of my ability. It was a massive white light that appeared to have like 10-12 blue electric looking arms coming off of it but they seemed to just float around the light  I recorded the whole event.https://youtu.be/NHxVlk3oPt4</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154425.html](http://www.nuforc.org/webreports/reports/154/S154425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
