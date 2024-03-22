@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gold Coast (Australia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 UFO's sighted abover chevron island Goldcoast Queensland Australia  2 Of us were walking home over chevron island, which is located in goldcoast queensland Australia,  the time was roughly 1:12am.  we were walking, and one object like a fireball appeared in the sky,  it was moving north at a resonable pase and very smoothly, then sooner went out of sight, then another fireball looking UFO appeared heading in the same direction as the first but then disappeared up into the sky very rapidly. Soon after it started raining. we also saw a spotlight looking around in the sky.  For anybody who whitnessed this life changing event please email. ((e-address deleted))@hotmail.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69320.html](http://www.nuforc.org/webreports/reports/069/S69320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oakridge (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>a single line of lights moving fast above us and lit up above us about 50 to 70 lightsthey where like stars moving in a straight line on right after the other, they lit up when each of them where above us.they started coming more towards the end. the last few where in a triangle formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155319.html](http://www.nuforc.org/webreports/reports/155/S155319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
