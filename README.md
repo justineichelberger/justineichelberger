@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:30 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Three Boeing employees on break see "low star" move, change color, become green triangle in SW sky. Good rept.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00389.html](http://www.nuforc.org/webreports/reports/000/S00389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Beaumont/Sour Lake (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was a huge craft with several lights rotating on and off in a circle manner located under the craft.I was driving home from work on Hwy 90  towards Houston.I was in between two small towns China, and Nome.It was about 6:30 pm. When I noticed something strange in the sky. At first, I thought it was an Blimp with an advertisement.Then I noticed there were no advertisements, but it was a huge looking craft. It had different colored flashing lights blinking on and off. The lights seemed to be in a circular arrangement under the craft. I found myself drawn to it and kept thinking I was going to drive close to it. I cannot believe, that I kept driving towards it, without fear.There were several cars on the highway heading the same directions. No one stopped, or turned around. The craft was further from me than I thought. I thought the craft was located on the corner of Hwy 90 and Hwy 326. But when I got to that intersection it was further ahead. The craft was to the right of the highway, and I am guessing it was about 100-250 feet hovering above the ground. I am not exactly sure what date, or month. It was in 1992, between January and October of that year.The shape is hard to describe.I am curious if anyone else reported a sighting around this time.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21746.html](http://www.nuforc.org/webreports/reports/021/S21746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
