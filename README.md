@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Clarksburg (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Was walking dog. I always look up at the sky at night to see the stars.  Looked up and noticed a cylindrical object moving horizontal in the sky with what almost looked like a flame like tail.  I was moving what seemed as fast as vehicle going 45-50 mph for about five seconds until it seemed like it split in two and vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162454.html](http://www.nuforc.org/webreports/reports/162/S162454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gold Coast (Australia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 UFO's sighted abover chevron island Goldcoast Queensland Australia  2 Of us were walking home over chevron island, which is located in goldcoast queensland Australia,  the time was roughly 1:12am.  we were walking, and one object like a fireball appeared in the sky,  it was moving north at a resonable pase and very smoothly, then sooner went out of sight, then another fireball looking UFO appeared heading in the same direction as the first but then disappeared up into the sky very rapidly. Soon after it started raining. we also saw a spotlight looking around in the sky.  For anybody who whitnessed this life changing event please email. ((e-address deleted))@hotmail.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69320.html](http://www.nuforc.org/webreports/reports/069/S69320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
