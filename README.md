@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>tear shaped object over hamilton ontarioThe sighting began at around 12am on friday morning. When me, my friend, mother, and girlfriend were on the way back from picking up my girlfriend.  My mother and I noticed a small white/yellow, tear drop shaped object turned on its side. At first it was thought to be an air plain.  As we continued back to my house we noticed that the same object was moving and then it would stop in mid-air.  It would move and hover for a few seconds then move agian.  We considered it a helicopter until we turned the car around to take a better look it as it darted away faster.  We decided to follow the object and as we moved closer the object darted even faster.  Then the object darted off passing over a forest area, beyond the Hamilton escarpment.  Then the object was now out of eye sight.  We got out of the car to see if we could find where it had gone, but we had no luck.  This all occured within 10 minutes and by this time we started to drive home and noticed a helicopter with blinking red(front) and blue(back) lights.  We belived it was a police helicopter when we saw it heading toward where we last saw the object dart from our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22292.html](http://www.nuforc.org/webreports/reports/022/S22292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Russell Springs (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangeler hoops of fireit was three hoops of blue fire that formed a triangle witch ziped across the sky very slowly((NUFORC Note:  This is the only data provided for the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17006.html](http://www.nuforc.org/webreports/reports/017/S17006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
