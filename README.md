@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Highway I-70 (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Going home from Escelior, Kansas City, MO to Columbia, it was after midnight  (5) of us travel down highway I-70.Going home from Escelior, Kansas City, MO to Columbia , it was after midnight  (5) of us travel down the highway.On Hwy 70 going East  near the Lake of the Ozarks sign.  Just before this  sign I just happen to look  on the left side of highway where there look like alot of trees and maybe homes too, I'm not sure if this was a residential area or a  wooded  area. It happen so fast I just remember the trees because I saw a fire ball falling down between the trees (like a falling star) then as it falls it start to changed in color and shape.  It changed from a hot pink to a lime green color or visa versa and a almond shaped appeared as it seems to collide or land.  I screamed LOOK !  But no one else in the car saw it.  The next sign I saw was the Lake of the Ozarks so that I could remember where this happen at.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32683.html](http://www.nuforc.org/webreports/reports/032/S32683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Reading (MA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving to Boston.  Passing through North Reading.  On highway ball of light dropping above me.  A blue/white color, like a gas stove.  Fell almost to the grown disappeared.Time 12:15 a.m..  A few cars were driving. .but their was alot of State troopers on they must have seen it.they were pulling over cars.  My car started stalling, it was weird.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118027.html](http://www.nuforc.org/webreports/reports/118/S118027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
