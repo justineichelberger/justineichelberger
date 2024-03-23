@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:28 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Northborough (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>One bright, white, glowing circle of light about ¼ of a mile away, above the tree line seen from the backyard of my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87965.html](http://www.nuforc.org/webreports/reports/087/S87965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>RED BLUE LIGHTS OVER IN FULLERTON.HI, I wrote you about month ago what i saw in sky and told i saw one craft was red lights and other craft had a blue light but strange moving it was moving back and forth i mean it was just odd doing the the red craft was go slow down then turn and then blue craft was moving to behind red craft then both move exchange each side and red one was going down slow first then blue was next.  So now i heard last week a same thing happen at San Diego too a same craft too.  So do you think that ufo craft might be same even was doing a same thing too..  I just curious if was a same ufo craft or might know anything this story.  Thank you.  ((name deleted))..p.s. it was at 7:23 pm and was at Fullerton.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108862.html](http://www.nuforc.org/webreports/reports/108/S108862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
