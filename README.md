@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Deltona (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Two round lights changed colors and moved at incredible rates of direction and speed.There were two round lights, one green, one red.  Then both lights became green, 5 seconds later they both became red.  The lights were below the cloud cover at approximately 1000 ft.  The lights were stationary in the night sky.  As my traveling companion pulled the vehicle of the road to observe, the lights streaked north at an incredible rate of speed, dove 90 degrees and streaked north again out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117996.html](http://www.nuforc.org/webreports/reports/117/S117996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Juneau (AK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Yellow light craft That changes shapes over Juneau Airport areaNear Juneau Airport A Flying Object That seemed to change shape to tringle to saucer to solid glowing Bright YEllow sphere seemed to moved in a circular fashion as if covering or searching an area has shown itself only at night and blinks before not being seen till almost same time period at night 12:00pm To 1:45 Videos Captured Has Ominus way of appering completly on the blind side of eyes in a matter of seconds And has what seems to react to people and numbers of cameras please help i do not know what this is and no one else besides me and my roomates have noticed it or are aware of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154459.html](http://www.nuforc.org/webreports/reports/154/S154459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
