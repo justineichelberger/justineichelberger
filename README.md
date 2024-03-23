@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>STRANGE OBJECT WITH 3 FLASHING LIGHTS,TWO AT THE FRONT AND ONE IN THE REAR.VERY BRIGHT,MOVED NORTH-SOUTH THAN EASTWARD OUT OF SIGHTI WAS AT THE TRAIN STATION IN FULLERTOWN,CA WHEN OUT BEYOND THE TREES I SAW A STRANGE OBJECT,TEAR-DROP SHAPED WITH THREE PULSATING LIGHTS HOVERING IN THE NIGHT SKY.IT WAS SEVERAIL MILES AWAY,BUT APPEARED TO BE VERY LARGE.IT MOVED SLOWLY NORTH THAN EAST,STOPPING EACH TIME BEFORE MOVING AGAIN.THEN IT TRAVELED EASTWARD TILL OUT OF SITE.THERE WERE VERY FEW PEOPLE AT THE TIME AT THE STATION.MOST WERE DRINKING AND EATING AT THE CAFE.I BELIEVE I WAS THE ONLY WITNESS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12593.html](http://www.nuforc.org/webreports/reports/012/S12593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Deltona (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Two round lights changed colors and moved at incredible rates of direction and speed.There were two round lights, one green, one red.  Then both lights became green, 5 seconds later they both became red.  The lights were below the cloud cover at approximately 1000 ft.  The lights were stationary in the night sky.  As my traveling companion pulled the vehicle of the road to observe, the lights streaked north at an incredible rate of speed, dove 90 degrees and streaked north again out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117996.html](http://www.nuforc.org/webreports/reports/117/S117996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
