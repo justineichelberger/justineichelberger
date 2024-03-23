@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:30 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vanceboro (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange light in the sky over Eastern NCMy husband and I were driving from New Bern to Vanceboro, in a northwesterly direction.  I am a retired healthcare professional, and he is a supervisor at the local Naval Aviation Depot, and is very proficient at identifying both commercial, private, and military aircraft.  He was unable to identify this object. It was a very large bright yellow/amber spherical light, appearing to remain stationary southeast of us, and fairly low in the sky.  It did not appear to pulsate.  It was too large to be a conventional aircraft, or a star.  About 2 minutes into the sighting, a smaller sphere of the same color appeared to drop out of the bottom of the larger sphere, and then it stopped moving, and after another 10 seconds or so, it just "winked out".  The larger object remained visible in the same location until trees blocked our view.  The weather was clear at the time of the sighting, with excellent visibility.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35820.html](http://www.nuforc.org/webreports/reports/035/S35820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw triangular formation including 5 large roundlights and one small flying over neighborhood.  Lights were yellowish in color and vibrated slightly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87966.html](http://www.nuforc.org/webreports/reports/087/S87966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
