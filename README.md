@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Reading (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 moving lights  becoming 1 then breaking off into compass point directions at high speed.Every night I look up to the Big Dipper, have since childhood.  Tonight I looked up but there were two extra stars to the left of the cup end the two were moving in a northern direction evenly spaced,  1 behind the other the one behind began gaining on the other then they seemed to merge to become one.  At that point within seconds the light broke up into 4 individual lights darting off at high speed each in a direction of their own at a north south east and west.  I have never seen anything like this. I called to my wife to witness it.  she thought I was loosing it!  Found this site while searching if anyone else saw this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145346.html](http://www.nuforc.org/webreports/reports/145/S145346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>STRANGE OBJECT WITH 3 FLASHING LIGHTS,TWO AT THE FRONT AND ONE IN THE REAR.VERY BRIGHT,MOVED NORTH-SOUTH THAN EASTWARD OUT OF SIGHTI WAS AT THE TRAIN STATION IN FULLERTOWN,CA WHEN OUT BEYOND THE TREES I SAW A STRANGE OBJECT,TEAR-DROP SHAPED WITH THREE PULSATING LIGHTS HOVERING IN THE NIGHT SKY.IT WAS SEVERAIL MILES AWAY,BUT APPEARED TO BE VERY LARGE.IT MOVED SLOWLY NORTH THAN EAST,STOPPING EACH TIME BEFORE MOVING AGAIN.THEN IT TRAVELED EASTWARD TILL OUT OF SITE.THERE WERE VERY FEW PEOPLE AT THE TIME AT THE STATION.MOST WERE DRINKING AND EATING AT THE CAFE.I BELIEVE I WAS THE ONLY WITNESS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12593.html](http://www.nuforc.org/webreports/reports/012/S12593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
