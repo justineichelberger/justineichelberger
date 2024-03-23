@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Stationary white object in sky above Tucson during air showI was watching the air show in midtown when I saw a white stationary object in the sky above the air show which did not move for at least 20 minutes.  I went inside to get my daughter but when I came out it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145351.html](http://www.nuforc.org/webreports/reports/145/S145351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Colwyn Bay/Llandudno(A55 Llandudno jun.)(between) (UK/Wales) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO sighting in Conwy, North Wales - Sphere like object with 3 lightsMe and my partner were in the car - driving to work when we both noticed 3 lights in the sky. they were yellowy / white and they looked to be on a sphere which was moving from left to right quite slowly. the Colour of the base was metallic silver but seemed to be camouflaged with the sky (it was dark). I instantly knew we were not looking at a helicopter because of the strange shape. I also saw a few flashes of fire but I am very sure it was not a Chinese lantern because it was much larger. I would say it was the same size as a helicopter but of a flat shape.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80616.html](http://www.nuforc.org/webreports/reports/080/S80616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
