@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately hours - hours minutes.</sub><blockquote><sub>parabollic bell glowing hot blue whiteFor some time now I have observed a very bright blue-white glowing object in the sky in the southwest of downtown KC. The striking thing is to a non-astronomer at first I thought this was a twinkling star.  It is not a star. It moves sometimes slow, sometimes fast and its brightness changes. I thought at first it was some sort of surveillance aircraft, it moves not linearly, but seems to be moving about the night sky. I bought a spotting lens 30-90x. Tonight I was able to focus on it and was amazed. This object changed form freqauently but had a basically tranlucent body with a dark orb at the bottom or within.   At times it appeared bell shaped with a glowing hot blue white band where the base of the bell would would be  base form was fairly smoot but appeared as though it was flowing in shape and nearly constantly changing shape. At the bottom of the bell or parabola was a dark globe like form. Not to be trite but the object looked like a taco bell logo, sort of. It's activity was similar to one of those static electriciy balls, a pulsing electric form, but with straight lines and a ring rather than truly static. The bell or parabollic form was a hazy white which seemed to rotate about itself slowly. It seemed to have stripes running from the arch to the base around it. It rotated its nearly continually, so as to appear as though it was floating about itself. It was of intense brightness without magnification. It seemed 5-10 degrees elevated from the horizon.  It eventually took off to the west and suddently disappeared. I viewed it a number of diffent ways.  At less magnification it looked like a parabola which was bright and squiggling. From this perspective it was multicolored including a bright blue white, with varous colors inlcuding red continually fluctuating. As it rotated it also gave the appearance of a cylinder with the globe portion at the end. and with stripes of brighter light running the length of its body which seemed to rotate about it. The object always appeared translucent or nearly so. although not truly a triangle, it appeared to have an elonated parabollic triange. It behaves as though it is conducting a survey.  It is out at night regularly. It was of such intensity that I have eye pain from watching it. I made some drawings of it.  I figured it for  some sort of reconisance craftbeing tested out of one of the numerous bases around here, and I say this because it truly gives the appearance of beig a bright star but doesn't behave like a planet in terms of its' motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49791.html](http://www.nuforc.org/webreports/reports/049/S49791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ridge Mountain Elkins (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately :10 - :10 minutes.</sub><blockquote><sub>A friend showed me a video of a picture that shows three objects in it.  One of the object was emitting laser beams from it.  He says that he believes it came from the nucleus of the fireball.  Somebody needs to see this because his htc phone was destroyed and the picture was taken off before that.  All this was filmed from his ipod. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103285.html](http://www.nuforc.org/webreports/reports/103/S103285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
