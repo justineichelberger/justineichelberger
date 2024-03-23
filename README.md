@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cowen (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>blue sphereI went outside to see if it had started to rain.  I stepped off my front porch onto my sidewalk and looked up.  I saw a round blue, almost translucent sphere.  It was directly overhead, moving very fast over the house.  It was flying below the clouds, there were no flashing lights. I ran into my house and went out the back door to the back porch and seen it moving extremely fast until I couldn’t see it anymore.  It took less than a minute.  There was no sound.  Since it was cloudy it couldn’t be a plane or helicopter or star</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88011.html](http://www.nuforc.org/webreports/reports/088/S88011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Marfa (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Looking straightup,in totall darkness,slightly north, 10-2oclock position, looked like stars,even satellites, but 15 seconds apart on straight path from west to east far up above and not so far up above,for 20min I counted 35 of them, probably missed a few, thought it was strange after I counted 10, but after 45, shakey experience. one after another appeared in same spot thought it wasn't going to stop</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154419.html](http://www.nuforc.org/webreports/reports/154/S154419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
