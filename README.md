@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 22 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Snetterton (small village near Norwich) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UfO 12 unidentified crafts aproached by possible british or United states craft  not first contact with possible aliens in this area.The UFOS were seen by my friend but i am reporting his story i will not give any names in my report that i am making here this is a the story he told me.the two witnesses looked from their homes window to see many floating obs over the lake( pits) this isnt the first time something strange has happened in this village but its happened so much ineed to report it. the witness had seen 12 orbs 1 of which was larger brightly lighted floating over the lakes about a quarter of a mile from the witness but easily in view . a helicopter probably a United states craft from the local US airbase lakenheath aproached the lights the lights then moved toward the aircraft the lights then dissapeared an hour later they reappered yet again and moved over an area of woodland and changed in clour to a red glow. i have seen many things in this village including a very scary close encouter with a bright light whilst i was out camping with some friends of mine it seemed at first likem it might have been a signal flare gone astray from the airbase about 7 miles away from are location this was scary and this last incident has lead me to draw a line and have to report the strange happenings. I must also mention the strange behaviour mentioned of the wildlife as the lights appeared as the lights appeared the wildlife were loud and it was as if they had been frenzied and scared by somethings presence this was the first time that a major disurbance had upset the wildlife in the area . There may have been possible landing form one of these didturbances in the past but were to scared to approach the scene. i hope you find this information of some use((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69475.html](http://www.nuforc.org/webreports/reports/069/S69475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO with red lights over Boise, ID.Object looked to have 5 front lights, all red.  When first spotted, it was stopped in the air.  It started moving towards Meridian from Boise again, then suddenly stopped again mid air for at least 5 seconds.  Object then turned around (never seen a aircraft turn like this) back of object was all green lights.  Object then took off over the mountains.  No flashing lights on object.  Husband has video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118014.html](http://www.nuforc.org/webreports/reports/118/S118014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
