@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ridge Mountain Elkins (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately :10 - :10 minutes.</sub><blockquote><sub>A friend showed me a video of a picture that shows three objects in it.  One of the object was emitting laser beams from it.  He says that he believes it came from the nucleus of the fireball.  Somebody needs to see this because his htc phone was destroyed and the picture was taken off before that.  All this was filmed from his ipod. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103285.html](http://www.nuforc.org/webreports/reports/103/S103285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two red lights (about the width of the pink finger held away from the body) in the sky almost directly moving at a very fast rate.Basically, I was just stargazing this night instead of using the telescope.  Orion was well to the west and setting and Gemini was in the southwest and Saturn was SSW to the right of the constellation Leo.  The condition was clear for a change and I was noting the light pollution due to an article I recently read in Sky & Telescope.Just as I was gazing near Castor and Pollux a pair of red lights set evenly apart was moving at a very fast rate from those star locations towards the east.  There was no noise.  The width these light were apart was just about the width of a finger held at arms length away from the body.  The lights remained evenly apart the whole duration.  I could not determine any kind of shape between or around the lights or if it was one or two objects.The only aircraft that was near was a plane coming from the NNE and headed south towards Buffalo and that made a definite noise.  About 12:15 or so I went inside to consult the NASA http://spaceflight.nasa.gov/realdata/tracking/ website to verify where the ISS was located, which was New Zealand at the time.The only thing I can conclude it was too fast to be a normal passenger aircraft and not quite a communication, ISS or other satellite and I have witnessed the ISS before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55909.html](http://www.nuforc.org/webreports/reports/055/S55909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
