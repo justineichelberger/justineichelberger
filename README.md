@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 23 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two red lights (about the width of the pink finger held away from the body) in the sky almost directly moving at a very fast rate.Basically, I was just stargazing this night instead of using the telescope.  Orion was well to the west and setting and Gemini was in the southwest and Saturn was SSW to the right of the constellation Leo.  The condition was clear for a change and I was noting the light pollution due to an article I recently read in Sky & Telescope.Just as I was gazing near Castor and Pollux a pair of red lights set evenly apart was moving at a very fast rate from those star locations towards the east.  There was no noise.  The width these light were apart was just about the width of a finger held at arms length away from the body.  The lights remained evenly apart the whole duration.  I could not determine any kind of shape between or around the lights or if it was one or two objects.The only aircraft that was near was a plane coming from the NNE and headed south towards Buffalo and that made a definite noise.  About 12:15 or so I went inside to consult the NASA http://spaceflight.nasa.gov/realdata/tracking/ website to verify where the ISS was located, which was New Zealand at the time.The only thing I can conclude it was too fast to be a normal passenger aircraft and not quite a communication, ISS or other satellite and I have witnessed the ISS before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55909.html](http://www.nuforc.org/webreports/reports/055/S55909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Longwood (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 Orange Orbs in the evening sky.We live north of the Orlando Florida area. Longwood to be exact.We also live in the flight pattern of the Sanford and Orlando International airport.Saturday evening March 23, 2013 about 8:15 pm, my husband and I were having dinner on our patio.At about 30 degrees above the horizon, thru the trees we saw first one then two orange orbs.  They (the orbs) were coming from the south moving to the north. At the same time a commercial airliner was traveling from the north to the south. That’s when the orbs slowed and turned to the east. We thought they were helicopters at first. Then we thought there might have been a rocket launch at Cape Canaveral.  We see them all the time from our house. The orbs were as big and bright as the rockets they launch without the vapor trail. Canaveral doesn’t launch 2 rockets at the same time.  We don’t know what we saw.I grabbed my Ipad and took a video of them. Not real clear and it was as they were fading away. The whole thing lasted about 2 to 3 minutes. They faded off to the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96763.html](http://www.nuforc.org/webreports/reports/096/S96763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
