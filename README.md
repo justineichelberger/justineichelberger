@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Moosup (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw six fireballs of light in the sky strung like lights that moved with intent and intelligence.On March 24th 2021 around 7:30 pm it was overcast with clouds in Moosup, CT  I was talking on my cell phone to a friend in my drive way when out of nowhere six fire colored round objects appeared in the sky to the west. They were in only what I could describe as a string of lights running North to South in a sloped line with one staying to the left of the formation. Two of them moved or floated, the one on the left went from left to right and the other from top to bottom while the rest stayed in one place. I told my friend that I could not believe what I was seeing. I actually became very emotional and hung up on him. I then attempted to film it with my camera phone however the quality was pretty bad during dusk ( I still have the video). So I ran to my right to try to get a clearer shot and started seeing a couple of them vanish. I pointed the camera at them and hit record but to my dismay the phone defaulted to camera and not video I snapped a picture of t! he horizon. Later going back to check it I was able to catch one on my phone before it dissipated. This was the most exciting and unbelievable thing I have ever witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162540.html](http://www.nuforc.org/webreports/reports/162/S162540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>SUMMARY:  A disc shaped object was floating above, the color was a orangish red and glowing, took off at a blink of an eye.My name is Dave and I'm 22, my brother and I were young at the time, I being about 6 or seven.  We were coming out of our neighborhood in my mom's car and both noticed somthing at the corner of our eye.  We both looked up at the object and noticed its shape, and suddenly it took off faster like a reflection a mirror makes on a wall when you move it.  It is one of my most rememberable thoughts of that time in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01932.html](http://www.nuforc.org/webreports/reports/001/S01932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
