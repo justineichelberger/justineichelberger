@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Newburgh (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>3/24/84 Newburgh NY  circle  25min One large mass. Longer than a football field. Saw it for 25min.In front of a friends house we saw a one large mass. In the sky approx one 1/4 of a mile from where we were standing. It was 200ft in the air. And looked longer than a football field. It made no noise. And it was going slow. During the duration of us observing it. It did not look like any plane i ever saw. I lived near an airforce base. So i know the thing we saw that night wasn't a plane nor helicopter!When it was moving the best way i can describe it. If you took a piece a graph paper and a pencil and a ruler. And connected the lines on the paper that's how it was flying. It turned on its lights white lights about 10 mins into us watching it. Then it shut off its lights. Then it glowed solid green. The shape of a cigar. Then it slowly went out of sight.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39525.html](http://www.nuforc.org/webreports/reports/039/S39525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jonestown (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately :12 - :12 minutes.</sub><blockquote><sub>When I was outside and coming in at 12:30, I paused my music and heard a weird noise like a plane or something in the air, but it was sort of fading. When I listened to it fading like that, I thought it might be a helicopter from the nearby army base, Fort Indiantown Gap, PA. I went out from underneath our porch to see if I could see anything. I saw lights through our grape arbor that were sort of yellow, but they were moving. I thought it might be the moon and I might just be swaying or something. When they came out from under the cover of our grape arbor, I saw two lights that were horizontal to each other. I watched them soar across the sky at a sort of slow speed across the sky, about fifteen seconds and they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69361.html](http://www.nuforc.org/webreports/reports/069/S69361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
