@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:09 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>SUMMARY:  A disc shaped object was floating above, the color was a orangish red and glowing, took off at a blink of an eye.My name is Dave and I'm 22, my brother and I were young at the time, I being about 6 or seven.  We were coming out of our neighborhood in my mom's car and both noticed somthing at the corner of our eye.  We both looked up at the object and noticed its shape, and suddenly it took off faster like a reflection a mirror makes on a wall when you move it.  It is one of my most rememberable thoughts of that time in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01932.html](http://www.nuforc.org/webreports/reports/001/S01932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Craft flew out of the east at about 600 feet moving west and then turning to the north (not a regular flight pattern for this area for any aircraft). Had thre bright white lights in the front (creating a triangle shape) and one in the back giving it the look of an elongated diamond. Had one bright red light in the very center of the underbelly of the craft.My daughter and I were driving home from church on Wednesday March 24, 1999 and @8:00. We say an odd looking craft come out of the east flying at about 600 feet. As we turned to gead west toward home, the craft was running parellel to us (but not following us or anything). It was moving at about 50-60 miles per hour. The craft has three bright, non-blinking white light on the front underside giving it a triangle appearance, but there was also a bright white light at the back of the craft giving it a kind of long square or elongated diamond appearance. My daughter said it appeared to be square shaped to her. The body of the craft was not visible, so we determined the shape by the placement of the lights. There was also a bright red, once again unblinking, in teh very center of the under- belly of the craft. We followed it in our car heading west, and then it turned sharply to the north and continued on that wasy. We trie to follow it in the car, but traffic was unusualy heavy for that time of night (even on the side streets) and we lost it after a few minutes. I had my window down and there was no sound coming from this thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05861.html](http://www.nuforc.org/webreports/reports/005/S05861.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
