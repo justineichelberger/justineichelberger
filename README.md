@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:13 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>orange disk two times in one weeksaw it on the south side of interstate I 70 in st.charles mo saw two different nights . the first time for about fourty five seconds,the other night for about one minutr thirty seconds.  bright orange fat disk like object hover smothly across the sky.  seem to vanish after that could not belive my eyes it was a great sighting .((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80651.html](http://www.nuforc.org/webreports/reports/080/S80651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ceasar's Creek and Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>UFOS - Dayton/Ceasar's CreekI first Video taped a UFO over Ceasar's Creek Lake.  I've been investigating UFOs' pretty regularly.  I have been taping UFO activity in the Dayton Tri-county area now for a while.  Some of the sights have been at day, evening and nighttime.  I probably have the worlds longest running video of a UFO with a shadow in the world.  I am contacting this site to bring awareness to the UFO activity going on and been going on in the southwestern Ohio area.((NUFORC Note:  We will request a copy of the tape to examine it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17097.html](http://www.nuforc.org/webreports/reports/017/S17097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
