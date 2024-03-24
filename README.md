@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:13 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:42 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ceasar's Creek and Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>UFOS - Dayton/Ceasar's CreekI first Video taped a UFO over Ceasar's Creek Lake.  I've been investigating UFOs' pretty regularly.  I have been taping UFO activity in the Dayton Tri-county area now for a while.  Some of the sights have been at day, evening and nighttime.  I probably have the worlds longest running video of a UFO with a shadow in the world.  I am contacting this site to bring awareness to the UFO activity going on and been going on in the southwestern Ohio area.((NUFORC Note:  We will request a copy of the tape to examine it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17097.html](http://www.nuforc.org/webreports/reports/017/S17097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Lights In The Night SkyIt was around 10:15pm last night on the date of 03/24/10 when the three of us friends were outside talking about going to a lake tomorrow, then one of us noticed that a light was moving across the sky very fast with a trail of light behind it.  At first we just thought of it as an airplane or a shooting star but when we saw another one go in the opposite direction we payed close attention to them and then we saw the two lights appear out of no where and they just were sitting there and not moving but they were glowing and we all just were stuck thinking in our heads of what these lights could be. Then we looked at each other in "aw" and we were just flabbergasted.  After about 3 minutes the light just flew across the sky again in the same direction but it seemed like as the both melted together and disappeared into the dark night sky.  All three of us after that just started talking about what it could be and everyday we try to figure out what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74784.html](http://www.nuforc.org/webreports/reports/074/S74784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
