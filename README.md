@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waterville (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Green fireball skating between clouds and trees.   Straight line trajectory.   VERY BROUGHT.   Lit up the whole sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154439.html](http://www.nuforc.org/webreports/reports/154/S154439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jonestown (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately :12 - :12 minutes.</sub><blockquote><sub>When I was outside and coming in at 12:30, I paused my music and heard a weird noise like a plane or something in the air, but it was sort of fading. When I listened to it fading like that, I thought it might be a helicopter from the nearby army base, Fort Indiantown Gap, PA. I went out from underneath our porch to see if I could see anything. I saw lights through our grape arbor that were sort of yellow, but they were moving. I thought it might be the moon and I might just be swaying or something. When they came out from under the cover of our grape arbor, I saw two lights that were horizontal to each other. I watched them soar across the sky at a sort of slow speed across the sky, about fifteen seconds and they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69361.html](http://www.nuforc.org/webreports/reports/069/S69361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
