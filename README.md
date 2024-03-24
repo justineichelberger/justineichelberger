@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It was a circle like a trash can lid but bigger and had bright yellow light touching the ground</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154434.html](http://www.nuforc.org/webreports/reports/154/S154434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Beaverton (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Bright white discoid at high velocity seen passing behind a commercial jetliner during ascentI was standing on the loading dock where I work smoking, and was observing a commercial jetliner (I believe a Super-80) flying west to east, still ascending from takeoff (approx 15000 feet and climbing). I noticed a bright white object approaching the rear of the jet from the west, at about 5 times the speed of the aircraft. At first I thought this to be a seagull at a much lower altitude and viewed from the side. Within seconds, I observed the object pass behind and above the jet, indicating that it was at a much greater altitude than I had first assumed it to be. As I watched it closely, it came to a sudden stop with no apparent deceleration, and hovered for less than a second. It then reversed its course and flew west at an outrageous speed. For a brief moment, I saw it dip slightly to one side, revealing it to be a circular shaped object. It accelerated out of sight in less than 1 second. The object may have had a reflective surface appearing to glow white because of the bright sunshine today.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12431.html](http://www.nuforc.org/webreports/reports/012/S12431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
