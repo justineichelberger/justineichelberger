@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately In feild - In feild minutes.</sub><blockquote><sub>Small green circle object in a feildWhen I was looking out my house in kelowna bc I saw a green unknown circle object in a feld around 2 millies a head it has not moved since I saw it half hour ago((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  This fact suggests to us that the report may be a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80590.html](http://www.nuforc.org/webreports/reports/080/S80590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Florida City (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Big bright light over florida city U.S.AI was going towards my home in my wheelchair ( I'm paraplegic) and I saw this big light above,maybe it was a planet ( I don't know much about planetary positioning).The thing is,it was so big and bright that I could even see it by the corner of my eye.There were some people outside,but they didn't care much about it.Also,one of the bright spikes of light was longer at the top it was a static( or it seemed static) big bright light and the sky was clear.Not more to add,( some weird stuff in Florida sky nowadays) Note: I wasn't drunk or anything like that No pictures,I got a cheap phone with low definition camera Thank you for having this site available for comments and reports</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88046.html](http://www.nuforc.org/webreports/reports/088/S88046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
