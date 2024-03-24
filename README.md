@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:09 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Craft flew out of the east at about 600 feet moving west and then turning to the north (not a regular flight pattern for this area for any aircraft). Had thre bright white lights in the front (creating a triangle shape) and one in the back giving it the look of an elongated diamond. Had one bright red light in the very center of the underbelly of the craft.My daughter and I were driving home from church on Wednesday March 24, 1999 and @8:00. We say an odd looking craft come out of the east flying at about 600 feet. As we turned to gead west toward home, the craft was running parellel to us (but not following us or anything). It was moving at about 50-60 miles per hour. The craft has three bright, non-blinking white light on the front underside giving it a triangle appearance, but there was also a bright white light at the back of the craft giving it a kind of long square or elongated diamond appearance. My daughter said it appeared to be square shaped to her. The body of the craft was not visible, so we determined the shape by the placement of the lights. There was also a bright red, once again unblinking, in teh very center of the under- belly of the craft. We followed it in our car heading west, and then it turned sharply to the north and continued on that wasy. We trie to follow it in the car, but traffic was unusualy heavy for that time of night (even on the side streets) and we lost it after a few minutes. I had my window down and there was no sound coming from this thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05861.html](http://www.nuforc.org/webreports/reports/005/S05861.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Simpsonville (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10~ - 10~ minutes.</sub><blockquote><sub>Suspended square object disappears.I was going down highway near the YMCA and I look up in the sky and I see these blinking light flying across the sky.  I turn down this other road and then the object just stops.  I'm looking at it the whole way down the road.  It starts to get closer when I'm getting to my girlfriend's neighborhood.  I turned into her neighborhood and there it was just a huge square shape suspended in air not moving at all.  I even had my windows down and didn't hear a sound.  It had red and white lights pulsing around it.  I got to a stop sign and turned left and it followed parallel to me then booked it out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118022.html](http://www.nuforc.org/webreports/reports/118/S118022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
