@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Canton (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three lighted circular aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88022.html](http://www.nuforc.org/webreports/reports/088/S88022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It was a circle like a trash can lid but bigger and had bright yellow light touching the ground</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154434.html](http://www.nuforc.org/webreports/reports/154/S154434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
