@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:51 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Florida City (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Big bright light over florida city U.S.AI was going towards my home in my wheelchair ( I'm paraplegic) and I saw this big light above,maybe it was a planet ( I don't know much about planetary positioning).The thing is,it was so big and bright that I could even see it by the corner of my eye.There were some people outside,but they didn't care much about it.Also,one of the bright spikes of light was longer at the top it was a static( or it seemed static) big bright light and the sky was clear.Not more to add,( some weird stuff in Florida sky nowadays) Note: I wasn't drunk or anything like that No pictures,I got a cheap phone with low definition camera Thank you for having this site available for comments and reports</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88046.html](http://www.nuforc.org/webreports/reports/088/S88046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Approx. 7 lighted objects in a Northeast to Southwestern travel pattern above Billings Heights.The objects started above the horizon northeast of my residence as bright orangish light.  It started as two visible lights zig-zag from one another traveling in a southwestern direction.  The lights did not appear to have any type of vibration to them, and appeared to alternate between red/white light fast enough to appear orangish in color.  The objects continued southwest to directly east of my residence where I noticed several more on the horizon following.  The objects were traveling slowly, and the lights on the first two to three faded as they reached an area east of my residence.  The other objects continued in the same direction, extinguishing their lights at different locations in the sky, not being seen again.  At this time I noticed what appeared to be an airliner in a east to west flight pattern extremely high in the sky.  The last two objects were on a path to intersect visually at some point above my location with the airliner.  The last two o! bjects both slowed or possibly stopped in the air, and made a very smooth vertical climb, and extinguished their lights not to be seen again before reaching an intersecting point with the airliner.  There was absolutely no noise from these objects at all, and they were possibly around 1000 to 2000 feet AGL.  The night sky is clear, there is a partial moon, and many stars tonight.  The temperature is in the upper 30's to low 40's, and a slight breeze.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88010.html](http://www.nuforc.org/webreports/reports/088/S88010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
