@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Simpsonville (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10~ - 10~ minutes.</sub><blockquote><sub>Suspended square object disappears.I was going down highway near the YMCA and I look up in the sky and I see these blinking light flying across the sky.  I turn down this other road and then the object just stops.  I'm looking at it the whole way down the road.  It starts to get closer when I'm getting to my girlfriend's neighborhood.  I turned into her neighborhood and there it was just a huge square shape suspended in air not moving at all.  I even had my windows down and didn't hear a sound.  It had red and white lights pulsing around it.  I got to a stop sign and turned left and it followed parallel to me then booked it out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118022.html](http://www.nuforc.org/webreports/reports/118/S118022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Inverted V shaped crafts with orange lights in North Everett, WA.It was approximately 8:15 pm, and I was in my kitchen facing north talking to my sister on the phone.  In my peripheral vision there appeared to be the big dippers and the "stars" were unusually bright.  After a few more moments of conversation, I remembered that the big dipper is seen from the east at this time of year and never so low, so bright in the sky and never from the north.I looked out the kitchen window and saw an inverted V shaped formation of bright orange lights. There were three lights on the left side of the formation and two on the right side.  They didn't blink, just a steady light.  I ran outside to investigate and the formation turned from a side v formation to the inverted V.  A bright orange lights moved very fast and secured itself to the right side of the v-formation so now there were three orange lights on both sides. Another inverted V-shaped craft moved in front of the first and they moved in sync very slowly and methodically through the night sky towards the sound.At first glance I thought the orange lights were individual crafts moving in a carefully orchestrated procession through the sky.  After running outside for a better look, I concluded that it was two massive crafts, solid black in color and the inverted V orange lights were part of the crafts.  I was alarmed and scared as this was close, just above the tree line and electrical power lines.  I got the eerie feeling we were being invaded by paratroopers from another country until I saw the crafts.I did some online research and reported this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118030.html](http://www.nuforc.org/webreports/reports/118/S118030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
