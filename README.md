@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:25 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gouldsboro (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 black triangles traveling like a jet, 15 minute spacing in between, all from west to east, and same path, spotted directly overhead.Small silent black triangle below clouds (5000ft-10000ft) traveling as fast as a jet from west to east only visible directly overhead to maybe 15-30 degree from straight up.  No changes in velocity or direction.  2 more exactly the same 15-20 mins. apart.  Sunny but spotty fluffy clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126531.html](http://www.nuforc.org/webreports/reports/126/S126531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Burnaby (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A picture of a UFO flying over a high school.I was outside my high school taking pictures with a digital camera for the school web site. At the time I did not notice the craft, but when I downloaded the pictures onto my computer I saw the craft in one of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17341.html](http://www.nuforc.org/webreports/reports/017/S17341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
