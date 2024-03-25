@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright blue light in federal way WashingtonI was in federal way Washington and seen a bright blue light with a streak on the back kind of looked like a a blue steak of light thought it was a plane we live on the flight pattern into Boeing airport here please tell me some else seen it it went from small to big and it looked like it blue up and what I mean is it got really bright it streaked across the sky and I seen it through a tree and the it just disappeared into the night sky it lit up the hole sky !!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88194.html](http://www.nuforc.org/webreports/reports/088/S88194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Conyers (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a blue sphere drop vertically from the sky.On my way home from church and I saw a bright blue spherical object fall from the sky in what seemed to be a perfectly vertical fashion.  I shouted and simultaneously slammed on my breaks to an almost complete stop because it scared me.  The two passengers in my car did not see the object in time and were probably more focused on my erratic driving and shouting to see it in time.  I am an avid sky watcher have seen bolides, meteors and know my stars well.  This was nothing like anything I have ever seen before.  It seemed different because the light was constant with no tail and no fade.  The object seemed to drop faster than free fall and disappeared as the tree line near the hospital shielded my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88031.html](http://www.nuforc.org/webreports/reports/088/S88031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
