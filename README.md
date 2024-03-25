@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sitka (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My wife was standing at the refrigerator and heard a loud sonar ping like sound from outside.  Just then my 4 year old son who was sitting at the kitchen table, looking out the window, went crazy and said he saw a ufo disk shape, with a bubble in the middle, and an antenna in top of it with lights.  He said it was spinning and flying fast over the trees about 25 yards away.  Although my son is only 4 years old, we don't believe he was making this up.  He was to excited about it.  We made him draw a picture out it also.((ADDENDUM FROM WITNESS))Sorry I must have hit the wrong state.  It's Sitka, Alaska.  Zip 99835 ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118033.html](http://www.nuforc.org/webreports/reports/118/S118033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright blue light in federal way WashingtonI was in federal way Washington and seen a bright blue light with a streak on the back kind of looked like a a blue steak of light thought it was a plane we live on the flight pattern into Boeing airport here please tell me some else seen it it went from small to big and it looked like it blue up and what I mean is it got really bright it streaked across the sky and I seen it through a tree and the it just disappeared into the night sky it lit up the hole sky !!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88194.html](http://www.nuforc.org/webreports/reports/088/S88194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
