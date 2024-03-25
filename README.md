@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Spherical light-changing object that didn't moveI went out for a cigarette and noticed what looked like a very bright star in the sky.  Moved across the parking lot, and realized (from quite a distance) it had lights emanating from the top, the sides and the bottom.  The lights would change and rotate and were mainly red (at the top) and green (at the sides and bottom).  It stayed there un-moving for quite some time, and my neighbor came out and noticed it as well.  I called my friend in another part of town and she went outside and saw it, too.  An hour or so later it was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154512.html](http://www.nuforc.org/webreports/reports/154/S154512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sitka (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My wife was standing at the refrigerator and heard a loud sonar ping like sound from outside.  Just then my 4 year old son who was sitting at the kitchen table, looking out the window, went crazy and said he saw a ufo disk shape, with a bubble in the middle, and an antenna in top of it with lights.  He said it was spinning and flying fast over the trees about 25 yards away.  Although my son is only 4 years old, we don't believe he was making this up.  He was to excited about it.  We made him draw a picture out it also.((ADDENDUM FROM WITNESS))Sorry I must have hit the wrong state.  It's Sitka, Alaska.  Zip 99835 ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118033.html](http://www.nuforc.org/webreports/reports/118/S118033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
