@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Payson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Light object moved slowly from east to west, and disappeared suddenly.My wife and I were enroute to Phoenix from Payson, Arizona, south-bound on the Beeline Highway/Rte 87.  On the trip, we both noticed a single non-flashing light.  I pointed out to my wife that the object was not in the correct position for Venus. The light travelled from my left to my right over a 15 minute period.  I looked at the clock when we first noticed the light, and the time was 19:22.  We watched the light until it suddenly disappeared completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69504.html](http://www.nuforc.org/webreports/reports/069/S69504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Fireballs with flashing object at rear.According to reports on social media the object(s) seen which appeared to be a cluster of burning red and yellow fireballs was the result of a Space X Falcon 9 failing to make a "deorbit burn." The following tweet link provides the explanation and shows a sky trajectory of Northeast which aligns with my personal sighting and as seen in social media videos. (Falcon 9 space x explanation below)  https://twitter.com/shawntelford/status/1375303570019389440?s=21  I viewed the objects from the Ballard neighborhood of Seattle looking to the east for approximately 20 seconds. To note, on the tail end of the burning fireball object appeared to be a flashing plane object on the same trajectory path. Nearby animals such as the neighbor dog and coyotes in the greenbelt 100yds to the east were quiet. However, the coyotes about 30 minutes later did start howling- to note on this, they have been howling during evening hours regularly the last two weeks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162484.html](http://www.nuforc.org/webreports/reports/162/S162484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
