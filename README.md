@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:29 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hovering silver discHovering disc, larger than Boing 747, just under clouds, silver in color. After a few seconds it suddenly streaked away at a fantastic speed nearly straight up. I was traveling east, the object seen just north of Hillsboro, OR. Its departure was to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05863.html](http://www.nuforc.org/webreports/reports/005/S05863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Loveland (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Stationary light that changed from yellow to green to red and was hovering below the clouds.I saw one craft to the Southwest that was hovering and moving back and forth.  Another was to the Northwest and was stationary.  The approximate altitude was 5000-10,000 feet.  Both had lights that changed from yellow to green to red very rapidly and both were below the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17000.html](http://www.nuforc.org/webreports/reports/017/S17000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
