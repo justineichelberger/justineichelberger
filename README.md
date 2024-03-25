@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Fireballs with flashing object at rear.According to reports on social media the object(s) seen which appeared to be a cluster of burning red and yellow fireballs was the result of a Space X Falcon 9 failing to make a "deorbit burn." The following tweet link provides the explanation and shows a sky trajectory of Northeast which aligns with my personal sighting and as seen in social media videos. (Falcon 9 space x explanation below)  https://twitter.com/shawntelford/status/1375303570019389440?s=21  I viewed the objects from the Ballard neighborhood of Seattle looking to the east for approximately 20 seconds. To note, on the tail end of the burning fireball object appeared to be a flashing plane object on the same trajectory path. Nearby animals such as the neighbor dog and coyotes in the greenbelt 100yds to the east were quiet. However, the coyotes about 30 minutes later did start howling- to note on this, they have been howling during evening hours regularly the last two weeks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162484.html](http://www.nuforc.org/webreports/reports/162/S162484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hedgesville (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Large bright sphere seen above Hedgesville forest near Morgan County.First seen while on Rt 9, driving in direction of Berkeley Springs. First observed large white sphere as I passed Tomahawk Rd.  Turned onto Butts Mill Rd and I finally got away from the trees. I heard no sound or saw any flashing lights. I watched it move over trees, moving back and forth, up and down.  When it hovered it became brighter.  I immediately called my daughter to explain situation and told her to expect a text within 10 min that I was OK.  I saw the object the entire way home.When I got home, which is a rural area, I watched it go down low in the distance. It became quite bright. I stood in my yard a few minutes.  No noise. I watched it for maybe a minute and then it just disappeared.  Some neighborhood dogs were barkinv and howling.  When I went in my home my dog was shaking.  She has large ears. Perhaps she heard something I could not.I looked for the object 30 min later. It was still gone. I have not seen it since that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118192.html](http://www.nuforc.org/webreports/reports/118/S118192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
