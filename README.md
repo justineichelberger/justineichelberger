@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:25 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:30 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Burnaby (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A picture of a UFO flying over a high school.I was outside my high school taking pictures with a digital camera for the school web site. At the time I did not notice the craft, but when I downloaded the pictures onto my computer I saw the craft in one of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17341.html](http://www.nuforc.org/webreports/reports/017/S17341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gardena (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright Circle seen in sky in GardenaAround in the month of March my friend and I were going to a juice bar in the city of Gardena right before they were closing.  We arrived there around 10:40pm.  We got our drinks and went outside to talk.  The sky was very clear that night. While my friend was talking to me I looked up at the sky and saw this very bright circle in the sky around 10:50 pm and thought to myself "Wow, the moon looks very big today."I then realized that the circle was really close so then I thought, "Wait a minute, that’s not the moon," and as I thought that I pointed to the sky and said to my friend, "Look what is that?!" and she looked up at it and as soon as we both looked up at it the bright circle flew across the sky and disappeared. When that happened I yelled “oh my god was that a UFO?!” and my friend said “I don’t know what the heck that was.” Ever since then it’s been in my mind.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Student report.  May be hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57509.html](http://www.nuforc.org/webreports/reports/057/S57509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
