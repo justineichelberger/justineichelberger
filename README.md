@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hedgesville (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Large bright sphere seen above Hedgesville forest near Morgan County.First seen while on Rt 9, driving in direction of Berkeley Springs. First observed large white sphere as I passed Tomahawk Rd.  Turned onto Butts Mill Rd and I finally got away from the trees. I heard no sound or saw any flashing lights. I watched it move over trees, moving back and forth, up and down.  When it hovered it became brighter.  I immediately called my daughter to explain situation and told her to expect a text within 10 min that I was OK.  I saw the object the entire way home.When I got home, which is a rural area, I watched it go down low in the distance. It became quite bright. I stood in my yard a few minutes.  No noise. I watched it for maybe a minute and then it just disappeared.  Some neighborhood dogs were barkinv and howling.  When I went in my home my dog was shaking.  She has large ears. Perhaps she heard something I could not.I looked for the object 30 min later. It was still gone. I have not seen it since that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118192.html](http://www.nuforc.org/webreports/reports/118/S118192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Apollo Beach (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Saw a chevron shaped object move across the sky from South to North.I was sitting on my deck at about 06:20 drinking my coffee. I was looking up at a cloud formation and, from the corner of my left eye, saw something move in the sky. I followed it across the sky as it moved from South to North. It was chevron shaped, whitish in color. I looked to see if there was something solid looking between the two sides of the chevron, but there wasn’t. There was no sound, no lights, and no trail. If I wasn’t looking up, I would not have seen it. I became very frightened. Observer background: I am a retired U.S. Government professional, 70 years of age. I have never knowingly seen a UFO before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162524.html](http://www.nuforc.org/webreports/reports/162/S162524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
