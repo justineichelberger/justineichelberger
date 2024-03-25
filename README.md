@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Conyers (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a blue sphere drop vertically from the sky.On my way home from church and I saw a bright blue spherical object fall from the sky in what seemed to be a perfectly vertical fashion.  I shouted and simultaneously slammed on my breaks to an almost complete stop because it scared me.  The two passengers in my car did not see the object in time and were probably more focused on my erratic driving and shouting to see it in time.  I am an avid sky watcher have seen bolides, meteors and know my stars well.  This was nothing like anything I have ever seen before.  It seemed different because the light was constant with no tail and no fade.  The object seemed to drop faster than free fall and disappeared as the tree line near the hospital shielded my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88031.html](http://www.nuforc.org/webreports/reports/088/S88031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Myrtle Beach UFO sightingAt 8:30 pm I was walking my dog and my eyes were drawn to a very bright light in the sky about a mile away.  As I watched, it went out and as soon as it did another one would appear next to where the original one was and it repeated this five times until it no longer appeared.  They were very large lights and if it was one craft it would have had to have been at least 1/2 mile to 1 mile wide.  But there is no way to tell if it was one craft or five separate crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80859.html](http://www.nuforc.org/webreports/reports/080/S80859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
