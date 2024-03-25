@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Myrtle Beach UFO sightingAt 8:30 pm I was walking my dog and my eyes were drawn to a very bright light in the sky about a mile away.  As I watched, it went out and as soon as it did another one would appear next to where the original one was and it repeated this five times until it no longer appeared.  They were very large lights and if it was one craft it would have had to have been at least 1/2 mile to 1 mile wide.  But there is no way to tell if it was one craft or five separate crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80859.html](http://www.nuforc.org/webreports/reports/080/S80859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albertville(France) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Green Bal extremely fast  in French AlpesOn high altitude in the mountains near Albertville (french alpes) a extremely fast moving Green-ball moving fast through the sky from behind us over the mountain tops on horizon level.Witness 2 persons in the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43183.html](http://www.nuforc.org/webreports/reports/043/S43183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
