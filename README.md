@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albertville(France) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Green Bal extremely fast  in French AlpesOn high altitude in the mountains near Albertville (french alpes) a extremely fast moving Green-ball moving fast through the sky from behind us over the mountain tops on horizon level.Witness 2 persons in the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43183.html](http://www.nuforc.org/webreports/reports/043/S43183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 green lights in a triangular formation. Rotated slowly, very little movement, heading east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43235.html](http://www.nuforc.org/webreports/reports/043/S43235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
