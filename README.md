@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Harlansburg (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange lights in the western sky at night.Triangular display of lights with red on top hanging in the air WSW of Harlansburg PA Lights were above the horizon, slowly went towards earth then disappeared.  Did not appear to be aircraft.  No sound, very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154465.html](http://www.nuforc.org/webreports/reports/154/S154465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Spherical light-changing object that didn't moveI went out for a cigarette and noticed what looked like a very bright star in the sky.  Moved across the parking lot, and realized (from quite a distance) it had lights emanating from the top, the sides and the bottom.  The lights would change and rotate and were mainly red (at the top) and green (at the sides and bottom).  It stayed there un-moving for quite some time, and my neighbor came out and noticed it as well.  I called my friend in another part of town and she went outside and saw it, too.  An hour or so later it was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154512.html](http://www.nuforc.org/webreports/reports/154/S154512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
