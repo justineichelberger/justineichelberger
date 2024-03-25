@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 24 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 25 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burnstown (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights in a circle pattern, orange red glow in centerI live out in the country.  I was having my coffee before getting ready for work and noticed a star low in the sky.  Thought maybe was a satellite.  Then it got brighter. so I took out my binoculars and when looking through them I saw a brighter light at one side and numerous smaller light on a circular pattern around it.  The inner circle was an orangey red light glowing almost looked as an explosion.  It did not move the whole time a was looking at it.  I finally had to get ready for work. before leaving I looked again by this time daylight was out and I couldn't see it anymore</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108064.html](http://www.nuforc.org/webreports/reports/108/S108064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gouldsboro (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 black triangles traveling like a jet, 15 minute spacing in between, all from west to east, and same path, spotted directly overhead.Small silent black triangle below clouds (5000ft-10000ft) traveling as fast as a jet from west to east only visible directly overhead to maybe 15-30 degree from straight up.  No changes in velocity or direction.  2 more exactly the same 15-20 mins. apart.  Sunny but spotty fluffy clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126531.html](http://www.nuforc.org/webreports/reports/126/S126531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
