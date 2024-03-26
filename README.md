@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Pedro Town (Belize) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a dark triangle with bright white lights at each pointI am a registered nurse, and a justice of the peace. I am a US citizen, 59 years old , residing in Belize. I neither drink nor use drugs.My dogs were restless and woke me, so I came out on the veranda to see what was bothering them. Right away I saw a triangle shaped object with a bright light at each point. It moved silently and fairly quickly across the sky from SE to NW.I have never seen anything like this before.I checked with civil aviation in the morning and was told no aircraft was reported to be flying at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55962.html](http://www.nuforc.org/webreports/reports/055/S55962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Broadway (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange ball of light in sky over Pendelton County, West VirginiaI was taking something out to the trash when I noticed a large ball of light (Bigger than a star, smaller than the sun) in the sky over Pendelton County West Virginia. It did not look like an airplane as it did not move, and there were no strobes. It was very bright (almost had a haze like apperance around it), and stayed stationary and then vanished after about five minutes. While it was visible, I asked my Fiance to come out and look. She saw it and wondered what it was. I can not be sure what it was, but I do know it was bright, did not move, and then vanished. There was no sound from where I was viewing it from. I have looked in this direction numerous times before, and have never noticed anything. The appeared to have some slight color variations in it, but not a whole lot. It would fade every once in a while (but not go completely out) and come back very bright. All in all it lasted about 5-8 minutes total, the whole time not moving at all (had lined i! t up with a branch on neighbors tree). Will be checking on and off through out the night tonight, and will look again around the same time tomorrow to be sure it was not a satellite or a planet/star, which I really believe it was neither.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74795.html](http://www.nuforc.org/webreports/reports/074/S74795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
