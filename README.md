@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>37 objects that looked like satellites all flying same direction,some inline,others spaced apart.Solid white light,super high up,in WI.37 objects that looked like satellites flying in the same NorthEast direction, extremely high up. Some were flying in a straight line, others where spaced apart side to side. They were moving fast like satellites do. There was no sound. They gave off a lite white light. They were so high up we couldn't even get pictures. They were moving extremely fast, less the a minute to cross the entire sky. This took place at night. We've never seen anything like this before.We saw them in over Green Bay WI.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154566.html](http://www.nuforc.org/webreports/reports/154/S154566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two strange crafts seen above the river, both had three lights in triangle formationI went outside to smoke shortly after midnight, and my boyfriend pulled up into the driveway. He got out of his car and asked me "did you see that?" I had just gotten outside so I asked him what he was talking about and he said he saw a bright flash of light shoot down from the sky like a comet. I then noticed a bright orange light above the River Raisin. I ran and got my binoculars and we hurried to the backyard. I live on the riverfront, and the light was west of us. It was flying very low, approximately at the tree line. We could see the light reflecting on the river as well. It began coming closer, in our direction. As it got closer, we could see on the front of the craft, it had 3 square or rectangle shaped lights, in a triangle formation. The lights appeared to be white as it came closer to us. It got really close before it moved behind the tree line across the river from us and disappeared behind the trees. Another craft just like it was approaching f! rom the east, also above the river. It did the same thing as the other one- moved across the river and behind the trees. At that point we could see the light behind the trees and they were flying very low. They both disappeared and we didn't know where they went after that. I am unsure of the shape of the crafts. All we could really tell was that the lights were in a triangle formation with two on the bottom and one light above. But we couldn't really see what the shape of the whole thing looked like. I just know that when we first saw them, they just looked like orange lights, but as they came closer, the lights were white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88078.html](http://www.nuforc.org/webreports/reports/088/S88078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
