@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4 - 0.4 minutes.</sub><blockquote><sub>7500-9000ft this object approximately stationary 20 seconds above where i was playing basketball and then it moved out east faster than anything I've ever seen move before, and that only took seconds before completely vanishing. During broad daylight!  Triangular shaped, reddish amber colored!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126581.html](http://www.nuforc.org/webreports/reports/126/S126581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oklahoma City (southwest of) (OK) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright flash SW OKCTwo very bright flashes coming from the west.  Bright enough to light up interior of vehicle.  No thunderstorms nearby.  Did not hear thunder.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108111.html](http://www.nuforc.org/webreports/reports/108/S108111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
