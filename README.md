@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 of us went outside for a smoke and I looked up and saw 2 lights that looked like stars flying side by side south to north over the veterans area of Boise.  Never seeing planes flying that close and together, especially at night.  Then before the first 2 were out of sight, a string of 3 that looked like Orions belt followed.  Once those first 5 were out of sight, more pairs and single lights were all going the same way. South to north.  All but 2. 2 were going east to west. They never changed speed or altitude. Appearing as stars. Counted 21 before going inside to go to bed. No physical changes with any of us or pur area. Just lights all marching together the same direction towards Bogus Basin</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154582.html](http://www.nuforc.org/webreports/reports/154/S154582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Pedro Town (Belize) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a dark triangle with bright white lights at each pointI am a registered nurse, and a justice of the peace. I am a US citizen, 59 years old , residing in Belize. I neither drink nor use drugs.My dogs were restless and woke me, so I came out on the veranda to see what was bothering them. Right away I saw a triangle shaped object with a bright light at each point. It moved silently and fairly quickly across the sky from SE to NW.I have never seen anything like this before.I checked with civil aviation in the morning and was told no aircraft was reported to be flying at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55962.html](http://www.nuforc.org/webreports/reports/055/S55962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
