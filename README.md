@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I let my dog outside for her last bathroom bake for the night.  I looked up at the sky as I always do, but this time I notice a flashing red light in the sky located just west of me.  It was moving really slow going in an horizontal pattern.  I called for my husband to see if he could tell what that was.  When he came out he look at the sky and said it’s a helicopter, but then I notice the flight patter change a little it, I told him are you sure?  He took another look and said I am not sure.We watch these light for what seemed like hours, then it disappeared.  I went to look it up later and all I found was a still photo taken in January of 2016 that shows 3 lights, but this one in March there was only one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126582.html](http://www.nuforc.org/webreports/reports/126/S126582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>three round objects over Ventura Californialooking up into sky over Ventura California observed three round shapes moving in trianglular movements.One looked blue in color the other two looked silver((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69393.html](http://www.nuforc.org/webreports/reports/069/S69393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
