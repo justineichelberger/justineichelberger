@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:33 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chatsworth (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>object appeared to float over just barely above tree line way to low for a plane but saw red and white lights no noiseWe were driving home around 9:45 pm and had stopped at a red light on Green road in Chatsworth, Georgia.  There are some ballfields on our left and as we proceeded my son and I saw small red and white lights float across in front of us. At first I thought a plane was going to crash it was so low.  The object was dark and my son thought it looked circular in shape. I just remember it looking dark with small red and white lights.  We slowed down and watched it move over the ballfields until it disappeared from our site.  Maybe a total of 2 minutes.  We never heard any noise.((NUFORC Note:  We spoke via telephone with this witness, and she sounded quite sober-minded to us.  We do not know what they saw.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69399.html](http://www.nuforc.org/webreports/reports/069/S69399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Trumbull (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Strange Triangle CraftJrod (the nickname of my partner) and I were coming out of the local Home Depot, after purchasing some dry core sub flooring for his basement.  We decided to grab a slice of pie and a soda pop at the food stand stationed outside in the parking lot.  After grabbing our little mid evening snack, we proceeded to walk back to the truck to head back to the job site.  As we were walking towards my truck, Jrod noticed a strange craft in the sky northwest of us. At first, I was convinced that the craft was a chopper, but soon realized that its movements were too "smooth" and that it was the shape of a triangle.   At this point, Jrod became a bit frightened and wanted to go. I, on the other hand, was completely fascinated and took a few more moments to study the strange craft. It was NOT moving at a high velocity and was moving in a very "smooth" motion. There was no noticeable sound and it seemed to act as though it was searching for something.  The only other relevant in! formation I can provided is that Sikorsky Aircraft is only located 10 miles away. Maybe this craft was one of there toys........I just don't know since I have no education in the subject of Ufology. Whatever this craft was, it definitely made a mark on me. Jrod will not talk about what we saw so I have nowhere else to go to speak about this incident. I don't want to tell other people in my life for fear of being labeled, excuse my french, a "wack ass". I think that this is also why Jrod would rather just forget about the whole incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88047.html](http://www.nuforc.org/webreports/reports/088/S88047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
