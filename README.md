@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:53 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pulaski (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was about to go to bed when i looked out the window and saw 5 white orbs or lights in the distance high in the sky behind my house  .These orbs seemed to be transforming from 5 objects to 1 and I went outside for a closer look.  After observing this phenomenon for 10 minutes or so I turned around to go back in the house and over my shoulder 50 ft in the air was a fireball like orb that moved closer and farther away for at least 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154590.html](http://www.nuforc.org/webreports/reports/154/S154590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO or runaway astroid or religious.I arrived home parked in driveway noticed blue & reddish northern Star decending  I got out observed after 10 min it had passed 4 house shadows from afar wich concludes it was traveling at thousand of miles per min?  Then it slowly faded to a small spec as it went deeper into the unkown universe scary makes you wonder</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118040.html](http://www.nuforc.org/webreports/reports/118/S118040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
