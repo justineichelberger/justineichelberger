@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Broadway (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange ball of light in sky over Pendelton County, West VirginiaI was taking something out to the trash when I noticed a large ball of light (Bigger than a star, smaller than the sun) in the sky over Pendelton County West Virginia. It did not look like an airplane as it did not move, and there were no strobes. It was very bright (almost had a haze like apperance around it), and stayed stationary and then vanished after about five minutes. While it was visible, I asked my Fiance to come out and look. She saw it and wondered what it was. I can not be sure what it was, but I do know it was bright, did not move, and then vanished. There was no sound from where I was viewing it from. I have looked in this direction numerous times before, and have never noticed anything. The appeared to have some slight color variations in it, but not a whole lot. It would fade every once in a while (but not go completely out) and come back very bright. All in all it lasted about 5-8 minutes total, the whole time not moving at all (had lined i! t up with a branch on neighbors tree). Will be checking on and off through out the night tonight, and will look again around the same time tomorrow to be sure it was not a satellite or a planet/star, which I really believe it was neither.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74795.html](http://www.nuforc.org/webreports/reports/074/S74795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three pulsating fireballs.  No direct path.  Hovered around, kind of danced until it quickly faded away.Three pulsating fireballs.  Two of them went out of our viewing range, the third continued to hover around, almost dance about, with no direct path, sometimes came to a dead stop. Finally, it faded until it disappeared completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118102.html](http://www.nuforc.org/webreports/reports/118/S118102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
