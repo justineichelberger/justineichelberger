@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tabor City (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>THESE OBJECTS HOVER, PULSATING LIGHTS, THE SMALLER ONES THAT MOVE ARE MUCH SMALLER. JETS ARE ALWAYS CHASING THEM.  THEY SEEM TO EXPANDIt started out with fighter jets coming over.  Two of them, they were going so slow, it was easy to see the shape and the back thrusters.  As they came over the trees about 6 small objests just spilled out over the trees. They had lights, blinking they were very slow so that the jet seemed to stall over them.  They kept moving out, the jet just went over them.  Then another jet came by faster, there  was another light flashing, this object was larger and able to go faster.  The smaller objects came to a point in the sky stopped.  Then they just went up. I know this sounds scifi.  This has happened many times.  When they rise to a point in the sky they might look like a star.  Then they have red, white, green/blue lights that seem to pulse.  I CANNOT TYPE OUT WHAT ALL I HAVE SEEN.  I HAVE SEEN TOO MUCH STRANGE STUFF.  I DON'T UNDERSTAND WHY NO ONE ELSE HAS  SEEN THIS.  THOSE JETS KNOW ABOUT IT.  THE THINGS I HAVE SEEN DEFY HUMAN LOGIC, AND EVERYTHING I HAVE ! EVER BELIEVED.  I WATCH UFO HUNTERS, THEY TALK ABOUT SEEING IT FOR REAL. ASKING PEOPLE WHAT THEY HAVE SEEN.  JUST COME HERE WITHOUT THE AIRFORCE KNOWING ABOUT IT.  BECAUSE THEY CONSTANTLY AFTER THEM, CAUSING THEM TO CHANGE THEIR ROUTINES. IT IS UNREAL, WHAT I HAVE WITNESSED. WHEN IT TAKES A JET SEVERAL SECONDS TO GO BY YOU GOT TO KNOW SOMETHING IS UP.  AND WHEN A SMALL PLANE IS FLYING BY AND AROUND AND LOOPING BACK AT 2:00 AM, THE JETS GO BY AND THEN LOOP BACK AND COME BACK OVER SLOW, THEN ANOTHER ONE DOING THE SAME.  UP IN THE SKY THE LARGE ONES HOVER FROM THE TIME IT GETS DARK UNTIL SUN COMES UP.  AT TIMES THEY SEEM TO EXPAND IN SIZE. WITH BINOCULARS IT GETS REALLY STRANGE. THEY MAKE NO SOUND.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96910.html](http://www.nuforc.org/webreports/reports/096/S96910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 of us went outside for a smoke and I looked up and saw 2 lights that looked like stars flying side by side south to north over the veterans area of Boise.  Never seeing planes flying that close and together, especially at night.  Then before the first 2 were out of sight, a string of 3 that looked like Orions belt followed.  Once those first 5 were out of sight, more pairs and single lights were all going the same way. South to north.  All but 2. 2 were going east to west. They never changed speed or altitude. Appearing as stars. Counted 21 before going inside to go to bed. No physical changes with any of us or pur area. Just lights all marching together the same direction towards Bogus Basin</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154582.html](http://www.nuforc.org/webreports/reports/154/S154582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
