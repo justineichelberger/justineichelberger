@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Ocala National Forest (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Blinding bright light over Travel Trailer no noiseWe live in Tampa but traveled to our camp on weekends located in the Ocala National Forest just north east of Ocala Florida,  My husband and I we're sitting at our table having a snack with our grandson when out of no where this burst of light came through every window so bright you couldn't see in front of you,  There was no noise as an aircraft would have.  I grabbed my Grandson and put him on the floor and laid on top of him covering him to keep him safe not knowing what was happening,  The light was so bright I couldn't see my grandson under me or anything other than this bright light,  My husband said the same was just so bright you couldn't see the hand in front of you,  This light didn't come from us an area it came and filled the entire travel trailer at once after about three minutes it was gone as quick as it came no noise nothing.  Several others in the camp area also witnessed the light that came out of nowhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152144.html](http://www.nuforc.org/webreports/reports/152/S152144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>37 objects that looked like satellites all flying same direction,some inline,others spaced apart.Solid white light,super high up,in WI.37 objects that looked like satellites flying in the same NorthEast direction, extremely high up. Some were flying in a straight line, others where spaced apart side to side. They were moving fast like satellites do. There was no sound. They gave off a lite white light. They were so high up we couldn't even get pictures. They were moving extremely fast, less the a minute to cross the entire sky. This took place at night. We've never seen anything like this before.We saw them in over Green Bay WI.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154566.html](http://www.nuforc.org/webreports/reports/154/S154566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
