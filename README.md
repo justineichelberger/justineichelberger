@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Thurman (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Line of lights like stars moving across the sky then disappearedHusband was leaving for work an looked up at the sky and thought he was looking at the Big Dipper then noticed it was moving.  It was a line of lights coming from one spot in the sky and went across so far and each light disappeared.  He called me to come outside to see them.  This went on for a few more minutes after I came outside then they disappeared.  He got to work and a co worker and his wife also seen it.  What was this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154509.html](http://www.nuforc.org/webreports/reports/154/S154509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Small white dot flying through sky in San FranciscoA friend and I were at Dolores Park in San Francisco yesterday.  The incident occurred somewhere between 5:15 pm and 5:25 pm.  It was a sunny day with a bright blue sky. It was cloudless.We were laying on our backs looking up at the sky.  I noticed a pigeon sitting on top of a lamp post that was in the park.  I noticed a small white object floating down to the earth.  I thought the object was a feather that had fallen from the bird.  For some reason, I was fixated on it and watched it float to the ground.I told my friend to look at the feather and pointed out that it was taking a really long time to hit the ground.  All of a sudden (and I know this sounds strange,) the "feather" went up higher in the air instead of coming down.   At first I thought a gust of wind blew it higher.Then, all of a sudden it appeared to shoot through the sky up and over to the right above some houses.  The way it was traveling did not seem plausible by Science.  It shot FAST across the sky as if the sky was sucking it in.  Like it was traveling through another dimension.I don't know if it was actually a feather that we noticed which drew our attention to the small white object or if the feather transformed into the white object.  But it flew SO fast and high and eventually disappeared.  As it got further away it looked less and less like a feather and more like a tiny white dot that was glowing. Like a shooting start that went up instead of down.  I hope this made sense.I looked around to see if anyone else in the park was noticing it but no one was.  My friend that was with me saw the exact same thing.  I had him describe to me in detail what he witnessed to make sure I wasn't seeing things.  He described it accurately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74806.html](http://www.nuforc.org/webreports/reports/074/S74806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
