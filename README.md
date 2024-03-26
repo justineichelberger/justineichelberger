@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 26 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Durham (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>very large triangular object with two very bright lights on the front and a reddish looking light on the bottom centerAs we approached an intersection we noticed 2 very bright lights up in the sky that looked like they were just sitting there.  One of my kids finally asked me what is that.  The only thing I could think of was that maybe they had put up some kind of tower because I knew it wasn't an airplane.  We continued to watch it just sitting there and then it began to move very slowly across the main roadway to the other side and began to hover again.  As we got closer to where it was we looked up at it and noticed a strange triangular shape with a redish light in the bottom of the center of it.  It began moving again very slowly and then turned and moved back across the main roadway toward the side we had first seen it then it suddenly just disappeared.  We turned around to go see if we could see where it went to thinking maybe it went down below the tree line but it was gone.  Then as we approached near the hospital we looked over in the field and saw the two bright lights hovering there again.  As we observed it began to move slowly away again and looked like it was moving downward then it suddenly dissapeared again.  We rode around near both places we had seen it and could not find it anymore.  We never heard any type of sound coming from it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16992.html](http://www.nuforc.org/webreports/reports/016/S16992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I let my dog outside for her last bathroom bake for the night.  I looked up at the sky as I always do, but this time I notice a flashing red light in the sky located just west of me.  It was moving really slow going in an horizontal pattern.  I called for my husband to see if he could tell what that was.  When he came out he look at the sky and said it’s a helicopter, but then I notice the flight patter change a little it, I told him are you sure?  He took another look and said I am not sure.We watch these light for what seemed like hours, then it disappeared.  I went to look it up later and all I found was a still photo taken in January of 2016 that shows 3 lights, but this one in March there was only one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126582.html](http://www.nuforc.org/webreports/reports/126/S126582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
