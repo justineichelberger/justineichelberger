@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cook () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Heading East multiple lights one after another they were going in the same direction.  They had no colored lights no sound one did shoot a bright light straight out from underneath for just a few seconds.  We couldn’t make out the shapes just the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154664.html](http://www.nuforc.org/webreports/reports/154/S154664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Los Alamitos (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>"Phoenix Lights"  duplicate formation scenario!Upon returning from the grandparents home after dinner Easter evening...our family including two children ages 6 & 16, all witnessed a perfect half-circle of golden-somewhat blinking lights approximately exactly like the "Phoenix Lights" phenomon a few years back.   The appeared in the post sunset sky as well as after dark.  They hovered and did not move (except one did a little) for this period.  We got home and watched the UFOs in the middle of the street.  Then we went inside to get a camara.  Unbeleivably once we got the camera and went back they were ALL gone! (first UFO sighting by all)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43220.html](http://www.nuforc.org/webreports/reports/043/S43220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
