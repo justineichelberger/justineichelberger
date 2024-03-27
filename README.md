@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ewa Beach (HI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange light in Ewa Beach, Oahu, HawaiiAt approximately 1945 hours I saw a light in the sky. At first, I thought it was an aircraft as we frequently have planes fly over our house. However, the light moved slightly both vertically and horizontally, but did not appear to be moving closer or further away from us. I then thought it must be a helicopter but when we got out our telescope, it completely disappeared. After about 30 seconds it reappeared in the exact same place - as if the light turned off and back on. It started lowering towards the ground and we eventually lost sight of it. From our house, it was towards the Waianae area of Oahu.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74809.html](http://www.nuforc.org/webreports/reports/074/S74809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lowman (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>clear night sky no clouds stars very bright...craft looked to be around 35 to 40 feet across.was taking my daughter to catch her ride to work at 8:45pm...she saw the craft approaching from the SW heading across the left front of our car...at that time she screamed to stop the car"dad its a UFO"no sooner than she got those words out the car sputtered to a stop along the dark country road...i leaned over and looked out the passengers side window and there it was not more than 100ft above us...it was disc shaped~the top was a slightly curved(dome like)~the bottom(as i took it to be)was even less curved almost flat~it was grayish in color~metalic looking~no seams~looked like it was all 1 piece~there was 3 softly lite orange orbs on the bottom spaced out in a triangle shape~as it was going over us i got out of car and could feel something like strong static pulling on me...funny thing is it looked as if it was tipped up on its side with the top moving ahead~it was only moving at a very slow pace~maybe 5 mph~this was close enough that if a dinner plate was held at arms length the craft would have been larger~there was no sound that i recall after getting out of car~but before exiting car as it was coming overhead i heard a low drone like thumping sound(my daughter heard it also)~after all this it proceeded across the farm field and up the side of a hill & stopped over a revolutionary war monument~at that time it changed to a white light that grew in intensity untill very bright than all at once POOF! it was gone~just like vanished~if it left,insted of vanished,it must have flown at a very high rate of speed directly away from us~it was gone in less than 100th of a second or the light simply went out~the car started right up and we drove to where my daughters ride was already waiting(10 mins)late & we should have been a few mins early...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39136.html](http://www.nuforc.org/webreports/reports/039/S39136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
