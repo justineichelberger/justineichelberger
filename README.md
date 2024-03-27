@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular object moving SSE, observed a week prior at same hour.At around 10: 51 PM, I stepped out side for a smoke and I notices three red lights in the sky that would occasionally flash white.  The lights were in a triangular form moving SSE either over Huffine Lane or in the fiends behind.  It appeared to drift in the sky and never made a sound.  Complete silence.  This is not a plane either because I could see the landing lights of a plane that was approaching form the south to Gallitan Airfield.  The plane appeared to be above the object due to the eachs relative position to the other.  I observed the same object exactly a week (to the minute) before (03/20/2012) moving along roughly the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88095.html](http://www.nuforc.org/webreports/reports/088/S88095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>small squre shiny objects circling like paper fallingThe sky was blue except for 4 contrails from aircraft.  No storms were called for that day and winds were probably 7mph at the time.  I was walking at the park on the trail and saw a drone flying above the park.  I stopped to look at it, but it turned.  I continued to walk.  Then the drone came back into my view.  When I looked up to see the drone, something flashing in the sky to the left of the drone caught my attention.  At first, I thought it was birds, but realized that they objects were too high up to be birds.  The objects began to descend.  It was then I realized that there were at least 6 or more objects.  They were square and for a second I thought they were ticker tape pieces of paper flying in the blue area of the sky.  But then they began to circle each other and move in away that made me realize it was not paper.  The color of the squares were a translucent white and reminded me of mother of pearl.  The objects circles and flittered around for a minute but then! went up into a contrail.  They kind of disappeared at that point then someone asked me what I was looking at and when I looked back up they were gone or had blended into the contrail.  I could not see them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133333.html](http://www.nuforc.org/webreports/reports/133/S133333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
