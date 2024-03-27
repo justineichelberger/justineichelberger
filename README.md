@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:50 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:49 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brampton (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Apparently one red hued object with 2 "lights" becomes 2 near Pearson International Airport at 20:40 HRS March 27 2005.I was lying on my front porch at the bequest of my little son (something I wouldn't normally do at this time of year) with my son and daughter.   We were simply looking at the stars.  We saw a couple of star-like objects move across the sky and I mentioned to them that they were likely satellites and that I had seen a lot of them in my years.  We were about to go inside when I saw two blurry redish hues (I can't really call them lights because they were not as clear as that, they gave off the sort of light you would see if you were to look at a black light.) I didn't think much of it at first as there is an international airport near us.  I told the kids to look at "that plane" and my daughter saw it but my son did not.  Just as I said that, the "lights" separated by about 8 times the distance they were when we first saw them!  This indicated to me that it was not a single object but two seemingly identical objects.  The speed with which they separated was quite quick, and they then proceeded to accelerate in a south-westerly direction far more rapidly than any plane could.  The duration of this observation was approximately 12 seconds and they covered 80% or so of our field of view in that time.  We lost sight of them due to the lights of the city.  I decided that I should call the ufo hotline center as I have NEVER seen anything as obviously unidentifiable as this before and I have watched the skies on and off in the Muskoka's and elsewhere thousands of times in my life just enjoying the stars and looking for events such as this!  I should include that I contacted the local air traffic control centre in Mississauga at Pearson International Airport.  I got no answer but a woman at Terminal 3 took my name and number and said they would call me back.  An hour has passed and they have not.  I find it a little strange that there are no airplanes in the area at this time - an hour since we saw these objects - and this being Easter Sunday and Pearson being a fairly busy airport, I would expect that there would be several jets in the sky!  Perhaps they did see something and have kept the air space clear because of this??? The phone number for the air traffic control centre is 905-676-3074 if anyone would like to follow this up in a more official manner than I am likely able to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43202.html](http://www.nuforc.org/webreports/reports/043/S43202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Aachen (near Cologne) (Germany) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fast moving neon-green orb of light with a green tail.Neon-green orb of light with a green tail. Moving very fast and w/o any noise, low altitude.((NUFORC Note:  Possible meteor, we believe, but that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35848.html](http://www.nuforc.org/webreports/reports/035/S35848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
