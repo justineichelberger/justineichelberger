@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lowman (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>clear night sky no clouds stars very bright...craft looked to be around 35 to 40 feet across.was taking my daughter to catch her ride to work at 8:45pm...she saw the craft approaching from the SW heading across the left front of our car...at that time she screamed to stop the car"dad its a UFO"no sooner than she got those words out the car sputtered to a stop along the dark country road...i leaned over and looked out the passengers side window and there it was not more than 100ft above us...it was disc shaped~the top was a slightly curved(dome like)~the bottom(as i took it to be)was even less curved almost flat~it was grayish in color~metalic looking~no seams~looked like it was all 1 piece~there was 3 softly lite orange orbs on the bottom spaced out in a triangle shape~as it was going over us i got out of car and could feel something like strong static pulling on me...funny thing is it looked as if it was tipped up on its side with the top moving ahead~it was only moving at a very slow pace~maybe 5 mph~this was close enough that if a dinner plate was held at arms length the craft would have been larger~there was no sound that i recall after getting out of car~but before exiting car as it was coming overhead i heard a low drone like thumping sound(my daughter heard it also)~after all this it proceeded across the farm field and up the side of a hill & stopped over a revolutionary war monument~at that time it changed to a white light that grew in intensity untill very bright than all at once POOF! it was gone~just like vanished~if it left,insted of vanished,it must have flown at a very high rate of speed directly away from us~it was gone in less than 100th of a second or the light simply went out~the car started right up and we drove to where my daughters ride was already waiting(10 mins)late & we should have been a few mins early...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39136.html](http://www.nuforc.org/webreports/reports/039/S39136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular object moving SSE, observed a week prior at same hour.At around 10: 51 PM, I stepped out side for a smoke and I notices three red lights in the sky that would occasionally flash white.  The lights were in a triangular form moving SSE either over Huffine Lane or in the fiends behind.  It appeared to drift in the sky and never made a sound.  Complete silence.  This is not a plane either because I could see the landing lights of a plane that was approaching form the south to Gallitan Airfield.  The plane appeared to be above the object due to the eachs relative position to the other.  I observed the same object exactly a week (to the minute) before (03/20/2012) moving along roughly the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88095.html](http://www.nuforc.org/webreports/reports/088/S88095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
