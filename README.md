@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A line formation in Pueblo West of single 25 to 30  lights flying at an elevation estimated 80000 to 100000 feet culminated with  two sets of two lights at even higher elevations of 120000 to 150000 feet. lights were turned off entering Pueblo city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154541.html](http://www.nuforc.org/webreports/reports/154/S154541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ewa Beach (HI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange light in Ewa Beach, Oahu, HawaiiAt approximately 1945 hours I saw a light in the sky. At first, I thought it was an aircraft as we frequently have planes fly over our house. However, the light moved slightly both vertically and horizontally, but did not appear to be moving closer or further away from us. I then thought it must be a helicopter but when we got out our telescope, it completely disappeared. After about 30 seconds it reappeared in the exact same place - as if the light turned off and back on. It started lowering towards the ground and we eventually lost sight of it. From our house, it was towards the Waianae area of Oahu.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74809.html](http://www.nuforc.org/webreports/reports/074/S74809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
