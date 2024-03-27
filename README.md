@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:24 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was going out to eat when i saw red fireballs that apeared to be coming up from the ground on the west side of town..  They would fly up in the sky like planes. One after another.. and then as they got so far they would disappear. .  Probably  20 craft visable at a time..i probably seen well over 100 come up in five -10 mins..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118066.html](http://www.nuforc.org/webreports/reports/118/S118066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bartow (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A white orb of light moving South/Southwest to North/Northeast at 20:30 hours.I was outside smoking a cigarette and looked up.  A white light was moving through the sky.  I did not see any flashing lights as you would see on an aircraft.  It was also not a satellite it was to low and much to big.  Also not a weather balloon it was moving South/Southwest to North/Northeast and the wind direction is East to West tonight.  It moved at a fairly good speed but I would say a little quicker than an airplane.  As it moved across the sky, I have an uninterrupted view, in the Northerly sky a plane came into view from the East and flew North.  This took about the same time to fly through the smaller quadrant of sky as the light took to get all the way from South/Southwest to North/Northeast.  The light was below the higher clouds as it passed over me but disappeared into the lower level clouds in the North/Northeast.  It was shaped like on orb of light however every now and again it appeared to have three points of light coming off of it in the shape of a peace sign without the bottom middle leg of the sign.  That may have been refraction I'm not sure.  I am a Science Teacher and have seen satellites in various different states and in Newfoundland.  I have been a part of groups that went out during meteor showers.  And I am familiar with aircraft my Grandfather was a Maintenance Supervisor for American Airlines and I have seen many different aircraft lights at night.  Just not sure what I saw I could not identify it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133331.html](http://www.nuforc.org/webreports/reports/133/S133331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
