@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Elk (approximately 15 miles south of Mendocino) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 hrs. - 1.5 hrs. minutes.</sub><blockquote><sub>Sighting of a pattern of lights which changed from greenish blue to red over the Coast of Mendocino.While gazing westwardly out the window of our ocean front room at a Bed and Breakfast Inn, I saw a light which at first I thought was a bright star, but it changed color from a blueish green to red to white in no particular sequence.  This light would move irratically and quickly, sometimes in a small circular pattern and sometimes in giggly movements and at other times either upward or to the right or left in graceful sweeping motions. After about 20 minutes I woke up my wife to see if she could see what I saw.  By this time the light moved toward the north west.  As she looked at it she spotted three more of these light to the left of the one I first saw.  These other three formed a triangle.  Within the triangle we could see specks of intense red light moving about. As we continued to watch the first light, we saw off shoots of light that came from it, some shooting upward and others dropping to the surface of the ocean. These off shoots would eventually disappear.  One such off shoot appeared to hover above the surface of the ocean for a couple of seconds, then moved northerly. We watched this for about an hour and a half until our eyes got strained and tired.  We are both college educated professionals.  We discussed at length what these lights could have been, but we have come to the conclusion that they were unidentified flying objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12472.html](http://www.nuforc.org/webreports/reports/012/S12472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Richmond (RI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Extremely bright orange object similar to Chinese lantern flying at rate of speed similar to aircraft in a straight trajectory from North to South along Western Rhode island border. Definitely not meteor and unlike anything I've ever seen. Curious what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154589.html](http://www.nuforc.org/webreports/reports/154/S154589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
