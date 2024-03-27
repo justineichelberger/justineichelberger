@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately several hours - several hours minutes.</sub><blockquote><sub>Stationary sphere with flashing lights hung for hoursWas on vacation in Gulf Shores AL, on the night of March 27 was sitting on a balcony looking out over the gulf and saw what I thought was a plane in a SSW direction.  Left for about two hours and when we came back I noticed it was still there, my binoculars revealed a spherical shape with a very bright red flashing light on the bottom and green and yellow/white lights on top.   It stayed there for several hours and we went to bed.  The following night it was there again, it hung there for several hours and was gone.  Couldn’t judge the distance it was out but best guess would be a few miles.  Checked on the log here and was surprised to see no one else reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97304.html](http://www.nuforc.org/webreports/reports/097/S97304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Moses lake (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It’s really hard to explain... other than at first sight would be a meteorite. But after only a second I could quickly understand that there’s is no way a meteor would be a straight line of interchangeable lights stretching a vast majority of the night sky. It was so perfect and straight and never loosing size. It worked in perfect harmony with one another as the straight line of flashing lights carved in a very straight direction going into the earths curve where I began to loose sight. I was able to grab some footage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162503.html](http://www.nuforc.org/webreports/reports/162/S162503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
