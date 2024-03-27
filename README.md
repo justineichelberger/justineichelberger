@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 27 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>My eyes had blurred after and my voice slurred.I could not sleep at night, watching movies, then a small flash in the sky occurred.It changed yellow to green.THERE WAS NO PLANES AROUND AT ALL.NIGHT((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80763.html](http://www.nuforc.org/webreports/reports/080/S80763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Summary : a red/orange flashing light that streaked aross the sky and took a 90 degree left turn.Four college students (University of Michigan)were on the top of the med school parking structure looking for the comet that was supposed to be visible.Instead, we all saw a red/orange flashing light streak across the entire visible sky in about 2 seconds, andthen make a 90 degree left turn.  It then flew for another couple seconds and then disappeared.  We allsaw exactly the same occurrance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02115.html](http://www.nuforc.org/webreports/reports/002/S02115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
