@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:44 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Penobsquis (Canada) (NB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>flashing lights in the tree line late at night that went straight up and downi was looking out my bedroom window, just watching what i thought were stars but this one star kept going up and down and side to side in the trees. and it would sometimes give off a faint burst of afterglow. it would flash a faint white, blue then red color. i watched it for the whole half hour i tried to even video tape it but my video camera doesn't have night vision. and no film in my 35 mm camera. it went down into the trees and i never saw it after. i fell asleep but woke up to look out the window but still never saw anything. but for a few days now my horse would go into her stall and look out her window hard in the same direction that i saw the lights. so how long thay have actually been there i'm not sure. there was starshine but it was very dark, there were vehicles driving up and down the road but none stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49856.html](http://www.nuforc.org/webreports/reports/049/S49856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hamden (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fast moving large bright object seen over south central Connecticut at 1:35 AM on 3-28-02.Please be sure that I am as serious as could be.  I had just come home from work.  I just stepped out of my car when I saw it just below and to the right of the moon.  It was traveling very quickily, with no sound, in a westerly direction.   My first impression was that this was a piece of space junk re-entering the atmosphere.  However it was by far the largest object that I have ever seen of this type, meaning such as meteors.  It appeared to be about one twentieth the size of the full moon and brighter.  The leading edge seemed to be a greenish color.  I had limited view of the object due to my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22384.html](http://www.nuforc.org/webreports/reports/022/S22384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
