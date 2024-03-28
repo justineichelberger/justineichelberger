@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Laveen (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I witnessed a green and red object moving slowly and erratically in the night sky in the southern PHX metro area on 03/28/14.On the morning of March 28th, 2014 at about 1:00 AM I went for a walk near my home in Laveen, AZ.  I was looking to the NW, when I saw a slow-moving solid green light proceeding to the east.  It gradually turned a solid red, but only for a few moments before returning to a solid green again at which point it began to gradually descend until it dropped below the tree line and houses in the distance obstructing my view.A few moments later the green light emerged, but from a different point along the tree line and began proceeding slowly at an angle (up and to the left) before making an arch after which it descended down disappearing below the trees and houses all over again.About a minute later it emerged from yet another point on the horizon, still moving slowly, but this time moving up and down vertically, over and over again, bouncing above and below the trees and homes in the distance until it descended for the last time not to emerge again.The object appeared to be far way, at a distance of at least several miles or more, this would be my approximation.This whole episode lasted about 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108233.html](http://www.nuforc.org/webreports/reports/108/S108233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Green Valley (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two small orbs seen between the Moon and Venus.A small slow moving orb was viewed to the right of the Moon an hour after dusk.  It disappeared above Venus.  A second orb was viewed through a telescope shortly after the first viewing.  It was located south of the Moon, traveling faster than the first orb, and was moving diagonally between the Moon and Venus before it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154809.html](http://www.nuforc.org/webreports/reports/154/S154809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
