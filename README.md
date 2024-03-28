@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were aircraft in the vicinity, aircraft chasing the object Dash of fire in sky.  Then what appeared to be a star that was moving. After words an airplane seemed to follow the same direction of the u.f.o.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96914.html](http://www.nuforc.org/webreports/reports/096/S96914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Long, tubular white lights and fast.Only way to describe it... The 8 foot fluorescent tubes... In two sets of 3...flashed on and off 3 times... Never stopped... Never varied... Pretty damn fast... Whole episode, 10 seconds.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118619.html](http://www.nuforc.org/webreports/reports/118/S118619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
