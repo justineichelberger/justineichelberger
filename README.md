@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unusual seemingly stationary bright objectI had stepped out of the laundry room of my apartment building to the parking lot beside the building. I looked up into the sky and saw this fascinating cloud that looked like a feather. I said to myself, "There's got to be something behind that cloud." There was. When the cloud had moved away I saw a bright object. At first I thought it was a star, but thought, "It couldn't be at this hour." I continued to watch it. It seemed to be stationary like a star as the Earth moved. I went to my apartment to get my binoculars. This took about 3 or 4 minutes. The object was still there but it was a bit dimmer. Whenever I looked at it with my binoculars and tried to focus on it I couldn't get the object into focus. When there was a moment of focus it didn't look like a star. It seemed to have bright and dark areas.  Interestingly, as I watched it through the binoculars another smaller object went from West to East. It was much smaller than the first object and I could focus on that one. As the Earth continued to turn and the Sun slowly began to set the object became dimmer and dimmer until it was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69460.html](http://www.nuforc.org/webreports/reports/069/S69460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Penobsquis (Canada) (NB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>flashing lights in the tree line late at night that went straight up and downi was looking out my bedroom window, just watching what i thought were stars but this one star kept going up and down and side to side in the trees. and it would sometimes give off a faint burst of afterglow. it would flash a faint white, blue then red color. i watched it for the whole half hour i tried to even video tape it but my video camera doesn't have night vision. and no film in my 35 mm camera. it went down into the trees and i never saw it after. i fell asleep but woke up to look out the window but still never saw anything. but for a few days now my horse would go into her stall and look out her window hard in the same direction that i saw the lights. so how long thay have actually been there i'm not sure. there was starshine but it was very dark, there were vehicles driving up and down the road but none stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49856.html](http://www.nuforc.org/webreports/reports/049/S49856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
