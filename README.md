@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:34 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lowden (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Constant string of white fast moving dots evenly spaced out. Did see 2 across from each other.A constant string of small lights evenly spaced traveling northeast. Too many to count...MANY! Moving fast constant speed....NO blinking lights but constant???? hat the heck!?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154629.html](http://www.nuforc.org/webreports/reports/154/S154629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brighton (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Craft with strange lighting alignmentWhen I was laying on my bed getting ready to go to sleep I noticed a bright light peak through the blinds from my window. Being the curious little man I am I decided to get up and have a look. I was amazed at what I saw. It sounded like a jet but was moving too slow to be a jet, it was moving at the speed of a helicopter but didn't sound anything like it. There was 2 lights on opposite side both blinking and one at the back forming the craft into a triangle shape. But what really got me was that there was another light in the middle at the front of the craft that was in alignment with the 2 blinking lights. I haven't heard or seen a type of plane with a flat/straight front. This light was like a flood light causing a visible ray of light directing ahead as if it was searching for something. After watching it got out of my view and on the other side of my house. I went into the other room to look out for it and alerted my brother who didn't seem to be bothererd. I failed to see anything. I then proceded back into my room to see that it was going back the opposite direction taking a "U" turn around my house, red lights flashed as it got far into the distance as it was no longer visable to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35850.html](http://www.nuforc.org/webreports/reports/035/S35850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
