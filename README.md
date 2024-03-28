@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:18 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:24 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Huntley (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A triangular craft flying low, slow and silentI was heading out to go watch a movie at the cinema and after taking a couple of steps out of my front door I looked up into the night sky and saw a triangular space craft fly silently and somewhat slowly over my house.  This craft must have been around forty feet in diameter and around one hundred fifty feet in altitude.  I was able to see a triangular outline to this craft and I was also able to see three white lights under each tip of the triangular points and a center red light.  All of these lights were under the craft since I was looking up at the craft and was clearly able to see these lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84900.html](http://www.nuforc.org/webreports/reports/084/S84900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newark (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright flash over Central OhioAround 4:30AM on Thursday March 28, I saw a bright red flash directly overhead at about my 12 o'clock.  Several seconds passed and I expected to see another flash as if it were an airplane, but it took almost 10 seconds before I saw another super bright red flash in the western sky.  There was no sound.  I have seen many meteors and know what the planets look like.  I am actively interested in avaition and can identify most types of planes.  I have seen a day time fireball and this was not that as it was a bright flash.  It did not intensify like an Iridium satellite, or reentry of space junk.  For 30 years, I have been looking at the sky and this one has me stumped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145472.html](http://www.nuforc.org/webreports/reports/145/S145472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
