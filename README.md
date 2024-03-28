@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:46 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Martinez (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireballs performing amazing feats.Around 8 p.m.  I was alerted to check out the UFO's outside the house. There were 4 round orbs and they were basically the color of fire. One moved over the neighborhood and seemed fairly close, perhaps as low as 2000 feet, but it did not seem  to be terribly high over the rooftops in the neighborhood. Rather than acting shocked or suprised, I tried to observe carefully along with the other witnesses. These objects made absolutely NO sound. No helicopter sounds. No sounds of a plane or jet. No sound whatsoever. They would hover and then move in linear directions, occasionally gaining in elevation. But they would not "bob" or "bounce" as they moved. They traveled a slow but still manner. They seemed to exercise control in their movement. At one point the other three traveled further away and up into the night sky becoming smaller and presumably more distant. At this point two of these orbs dissapeared. They did not fade out, but simply disappeared. The effect was like holding a lit match and then blowing it out. That quick. The third object continued to travel away off into space until it was no longer visible to us. Then the last remaining one which at one point seemed so close appeared to drop three little balls of light while it was moving.  Yet as these little orbs were released they would dissapear maybe 1 to 1 and1/2 seconds after being dropped. Finally this last object  took off up into the night sky and was gone in barely second. According to one of the witnesses who is one of my family members, there were other people along the street watching this event take place. We all agreed it was very strange and that the objects appeared to be under some sort of control. In my opinion, if these were man made then our technology has definitely jumped into the 25th century.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35904.html](http://www.nuforc.org/webreports/reports/035/S35904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unusual seemingly stationary bright objectI had stepped out of the laundry room of my apartment building to the parking lot beside the building. I looked up into the sky and saw this fascinating cloud that looked like a feather. I said to myself, "There's got to be something behind that cloud." There was. When the cloud had moved away I saw a bright object. At first I thought it was a star, but thought, "It couldn't be at this hour." I continued to watch it. It seemed to be stationary like a star as the Earth moved. I went to my apartment to get my binoculars. This took about 3 or 4 minutes. The object was still there but it was a bit dimmer. Whenever I looked at it with my binoculars and tried to focus on it I couldn't get the object into focus. When there was a moment of focus it didn't look like a star. It seemed to have bright and dark areas.  Interestingly, as I watched it through the binoculars another smaller object went from West to East. It was much smaller than the first object and I could focus on that one. As the Earth continued to turn and the Sun slowly began to set the object became dimmer and dimmer until it was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69460.html](http://www.nuforc.org/webreports/reports/069/S69460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
