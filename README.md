@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Charleston (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was on my way home from school on 3/28/12 @10:10pm traveling on the interstate.  For about 2 miles ahead of me (far left of the interstate) appeared to be very large 2 identical objects, both with running white dots (lights), plus, what's really weird is that they both were in a 'leaning' position.  As I took the next exit so I could head out towards where they were, next thing I saw were 2 red lines and then they totally disappeared.  I drove out to a high bridge and saw nothing left in the sky.  This is my 2nd UFO sighting I've seen (last one was last summer).  Can't wait to see another one!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88119.html](http://www.nuforc.org/webreports/reports/088/S88119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were aircraft in the vicinity, aircraft chasing the object Dash of fire in sky.  Then what appeared to be a star that was moving. After words an airplane seemed to follow the same direction of the u.f.o.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96914.html](http://www.nuforc.org/webreports/reports/096/S96914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
