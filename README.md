@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ekron (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>orange round light object flying near ekron, ky at a high rate of speed.we were driving south on old ekron road approximately 2 miles from shumate road intersection. the back passenger rear of my ranger lit up bright orange we looked to see and there was a very bright round object in a descending path, approximatelu=y 300 feet in air, hard to tell how far away it was because it was so bright, i actually looked away and had night blindness, it was descending about 20 degrees below horizon until it went out of sight, it could have been over the ohio river, i am an engineer and i estimate it was traveling at least 2 times the speed of sound, however no sonic boom and it apparently did not hit the ground . we did not see any flames or hear an impact.  i have never seen a ufo or reported one before however i have seen shooting stars and meteors and comets, this was nothing like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118073.html](http://www.nuforc.org/webreports/reports/118/S118073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Exton (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white light large round looked like a very large falling star but than curved slightly to the right and up than disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145374.html](http://www.nuforc.org/webreports/reports/145/S145374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
