@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Las Vegas (northwest) (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Solid red light approached, about 200 feet elevation, then left after approximately 45 seconds before moving up to disappear.This sighting occurred on 4/30/2018, approximately 2230 hrs., in North West Las Vegas, Nevada.I was looking out my window at the sky and surrounding hills.  I saw what I thought might be an airplane, high up; maybe 200 feet.  It was solid red in color.  It moved toward my house, in an eastward direction.  It then stopped in the air and stayed there for approximately 45 seconds.  It then seemed to move away toward the sky and the image evaporated or disappeared skyward.  On July 4th of 2017 at lower elevation, a red orb appeared about 150 feet from our home...stayed stationary, then flashed brighter two or three times and then took off over the top of the hills in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139334.html](http://www.nuforc.org/webreports/reports/139/S139334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Clinton (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large triangular, yellow object hovering above mountains near Clinton Mt.On 1:58 am, of March 29th 2012 I witnessed a U.F.O. flying above Clinton MT.  I first noticed the craft as I walked past my son’s bedroom window on my way to the restroom, and it immediately caught my attention.  The object in the sky was triangular in shape and appeared to be a yellowish orange color. Almost the color of fire burning in the distance.  However this was not a fire. I know what I saw and I know without a doubt that it was a UFO.  To say that I am slightly unsettled at the moment would be the biggest understatement of my life.  The object itself was quite large and melted into the atmosphere faster than any mode of transportation we currently have here on earth.  The glow from it was very bright and even as it escaped behind several mountains I could still see the light glistening above as if it were right in front of me.   When I first looked out the window it was very large and fairly high in the sky.  It was high enough over the mountains that I knew there was no way this could be a fire, or vehicle of any sort.  However it didn’t stay hovering very long.  It seemed to descend slightly and then move North West a few hundred feet before moving upward and eventually dissipating into the night sky.  Honestly I’m not the type of person who would buy into the hype of this apocalyptic 2012 scenario but what I saw was unmistakable and unnerving enough to me that I felt it should be documented.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88105.html](http://www.nuforc.org/webreports/reports/088/S88105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
