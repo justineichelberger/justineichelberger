@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greenbrier (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>20-30 bright orange circles in the skyAnywhere between 20-30 orange objects heading from Conway to Greenbrier...not flying in any specific sequence just one after another vetically.  Disappeared after about 5 minutes moving very slowly to.the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96827.html](http://www.nuforc.org/webreports/reports/096/S96827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Las Vegas (northwest) (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Solid red light approached, about 200 feet elevation, then left after approximately 45 seconds before moving up to disappear.This sighting occurred on 4/30/2018, approximately 2230 hrs., in North West Las Vegas, Nevada.I was looking out my window at the sky and surrounding hills.  I saw what I thought might be an airplane, high up; maybe 200 feet.  It was solid red in color.  It moved toward my house, in an eastward direction.  It then stopped in the air and stayed there for approximately 45 seconds.  It then seemed to move away toward the sky and the image evaporated or disappeared skyward.  On July 4th of 2017 at lower elevation, a red orb appeared about 150 feet from our home...stayed stationary, then flashed brighter two or three times and then took off over the top of the hills in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139334.html](http://www.nuforc.org/webreports/reports/139/S139334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
