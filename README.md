@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lecce (Italy) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>the cigar flew all over my orizont while i was waiting the train pass</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55994.html](http://www.nuforc.org/webreports/reports/055/S55994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Davidsville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two star-like objects seemingly chasing each other quickly and erratically in the sky before disappearingSunday March 29, 2020 at just around 10:00 P.M. I saw two star-like objects moving quickly and erratically around the sky.  One of these objects seemed to be chasing the other one through the sky, just slightly behind it.  They looked just a tad dimmer than the stars around them, and there was no blinking emitting from them like there is on a plane or satellite.  They were so dim, they would occasionally fade out of my sight and then reappear.  They were moving in no set pattern, and they would change direction randomly.  I followed them for a span of about five minutes, where they then passed underneath the handle of the Big Dipper and then disappeared.I’ve seen this same exact thing around four other times: two star-like objects seemingly chasing each other randomly in the sky before disappearing.  I’m an astrophotographer, so I am always out under the night sky and observing the stars very closely.  I know when I see things that are planes, drones, helicopters, or satellites.  This recurring instance is not comprised of any of these.  I’m very familiar with the night sky, and this is something that I genuinely cannot wrap my head around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154661.html](http://www.nuforc.org/webreports/reports/154/S154661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
