@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evergreen (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>25+ satellite-looking objects flying across the Ursa Major constellationOver the course of at least 20 minutes my family and I saw at least 25 satellite-looking objects fly across the Ursa Major constellation.  Initially we presumed they were typical satellites given their speed and size though considering the number of them as well as their linear path and equidistant spacing we believe they couldn’t have been average satellites.  We stood outside of our home with all indoor and outdoor lights turned off for the duration of the sighting, counting a minimum of 25 of them.  We also saw multiple planes flying and in comparison we determined there was no possible way they were planes of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154609.html](http://www.nuforc.org/webreports/reports/154/S154609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sonoma (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>8 orbs flying over SonomaI was laying outside staring up at the sky, and noticed cloud cover coming in blocking out the stars.  After 10 minutes it started to clear and I noticed 8 white orbs, with the color of the brightest star in the visible sky.  They flew in formation, flying south to north at low altitude. 10-15000 feet.  They were flying 500-600 mph and there wasn't any sound, no indicator lights aircraft have, and no contrails.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133359.html](http://www.nuforc.org/webreports/reports/133/S133359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
