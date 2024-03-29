@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 28 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Blaine (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange circular flickering flames traveling the same path across the night sky.Two orange flames silently crossing the night sky.  My friend was outside smoking a cigarette around 11pm while talking on his phone when he spotted an orange object just under the full moon, following a straight trajectory across the night sky. 5-10 minutes later the exact same thing happened and he ran inside yelling for me to come outside to see it.  It obviously resembled an orange flickering flame, circular in shape.  It was about 1/10th the size of the 11pm full moon, silently crossing the sky, heading from our perspective due north.  I expected the object to get smaller, like a glass balloon with a flame inside it, drifting up into the night sky.  This however was not the case.  The object stayed the same size, traveling a straight line, and appeared to be around airplane altitude or possibly outside of the atmosphere.  It's hard to grasp an object traveling at such an altitude yet having a magnitude perfectly visible to the naked eye, it would have to be of astronomical size.  It did not look like reflection, it looked like a bright circular orange flame.  It took a little more than a minute for it to travel behind the skyline.  My friend confirmed that the first one followed the exact same trajectory.  We were both sober.  This is baffling and so far defies explanation.((NUFORC Note:  Date is flawed.  We assume that the date of the sighting was March 28, 2013, and we have amended the date to reflect that assumption.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96913.html](http://www.nuforc.org/webreports/reports/096/S96913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sharourah (500 km north of) (Empty Quarter) (Saudi Arabia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A light just looking like a star moving fast towards SouthEast at very high altitude, slowed down as it reached at the top of our camping site and hovered for a while  and fastly zig zaged its way away till it faded. seems like it was imitating as a star. Stars are very bright at night in a desert so it was easy to  identify its movement.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43231.html](http://www.nuforc.org/webreports/reports/043/S43231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
