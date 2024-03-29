@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately still occuring - still occuring minutes.</sub><blockquote><sub>Triangular craft in stealth mode.Three orbs that appeared to outline a craft in stealth mode.My best guess at distance from the ground would be 40 to 50 feet.  Two of the orbs would change color occaisionally whilst the third remained the same color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126598.html](http://www.nuforc.org/webreports/reports/126/S126598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A FLASH/BEAM OF LIGHT DIRECTLY OVERHEAD IN CLEAR SKY (NO SOUND)Me and my coworkers were working the night shift in Norfolk, VA, tonight and we stepped outside for a smoke.  We were in a small covered gazebo talking and laughing when we witnessed what we thought was a flash of lighting directly overhead (we heard nothing).  The weather is of concern to us because we are forecasters so we all stepped out of the covered area to see where the lightning could have come from.  There were almost clear skies and no storm clouds in any quadrants.  It could not have been lightning.  I went inside while to others headed to a lookout above the building where they claimed to have seen a ball of light in the distance take off out of sight in the blink of an eye.  I cannot confirm the second part but the first I was there for.  About 20 minutes after coming back into the office local news stations from Marland to North Carolina began reporting similar sightings.  Some interesting facts that occured just after the incident are millitary aircraft taking off and seemingly patroling the area. I later called the observation tower near the airfielf where I work and asked if they had witnessed anything and the lady said she could not confirm or deny anything at the moment.  It seemed by her tone that she had been told to say that for whatever that is worth.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible meteor.  Several reports received.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69439.html](http://www.nuforc.org/webreports/reports/069/S69439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
