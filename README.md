@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aberdeen (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.5 - 5.5 minutes.</sub><blockquote><sub>Approx 3:00am 0n 3/29/00 the following opbervations were observed by myself while observing the Pleadies star cluster in northern sky. In site of my telescopic view out of the est came 3 unusual objuects. ist they were like oblong than change to triangle the most noted observations were there aerodynamic manuvers. they were erratic doing circles going back and forth.  one more thing worth nothing. they would pulsate bright than dim than bright than dim i observed this for about 5 minutes the cellestial plain was very clear no clouds and this was no space junk or meteor shower. i have a Meade 2,000 DS 60mm refracting scope brand new i knew what i was viewing.  i am an amatuer astonomer/ ufologists and know aerodynamic priciples and laws. after viewing objects they shot like hell to the west out of sight. Sworn statement given by ((deleted)) Aberdeen, Ohio night of 3/29/00 time aprox 03:00By the way color were amber yellowish and green</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12539.html](http://www.nuforc.org/webreports/reports/012/S12539.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in EL Cajon (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 1130 PM I looked out of my back yard West towards Mt San Miguel.   I initially saw two objects one that was Large and Blue/Purple and one that was Orange.  After a period of time I saw another orange glowing orb.  These objects initially looked like they were lowered down from the sky on a string but then began to dip and fly all over the place at a very high rate of speed.  At the end of my viewing the Large Blue Object Flew very close to me.  I would estimate its size to be about 100FT Long. The Blue Glowing Orb intensified its Glowing and began to rise to altitudes that made the object hard to see and then would drop straight down to maybe a mile or so above the earth.  The orb then lowered to just above the ground and two Military Helicopters showed up and the thing disappeared and the helicopters circled for maybe a half an hour after the thing left.... The three orbs seemed to almost touch frequently.This Video is exactly the same thing that i saw:http://www.youtube.com/watch?v=sQ6hdV81DaY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108308.html](http://www.nuforc.org/webreports/reports/108/S108308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
