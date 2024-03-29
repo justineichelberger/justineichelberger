@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:36 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>7-8 UFO's and a pterodactyl sighting.On Monday March 29th 2010,my fiancé and I were on our balcony in Calgary, Alberta, Canada looking up to find Saturn.  (Apparently this was the night we were most likely to see it.)  We live in the downtown area and were looking west towards the mountains.My fiancé pointed out a dim orange light very high in the sky.  The light then split into about 7 or 8 orbs and started to travel north, north east.  There was no sound and they were traveling much faster than planes.  (Which we see all the time).  They traveled across the entire sky and started to separate and finaly dissapeared into the sky. The whole event happened in about 10 seconds, there was no time to get a camera.  If I didn’t see it myself, I would have never believed her.With that being said, I have another sighting to report on her behalf.  Two months ago at about 6:30am, she saw something flying in the dimly lit sky that resembled a pterodactyl.   Yes I am aware that they are extinct!  So of course I had a hard time believing her.  She said it was the size of a small plane and it was flying at a relatively low altitude.  It looked as if it were carrying a large animal by its legs.  An animal the size of a bear or cow.  She said she saw it for about 6-8 seconds and then it disappeared.  We are baffled as to what it could be.  And in case you were wondering.  ..we don’t use drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74851.html](http://www.nuforc.org/webreports/reports/074/S74851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange orbs appearing in random patterns for 2-12 seconds along with flashes of light across the Atlantic.Yesterday (03/28/16) and today (03/29/16) we were standing on our balcony and pin-hole flashes of light appeared in the sky in a random, twinkling pattern.  Orange orbs also appeared several times, moving side to side and in patterns across the sky at a high rate of speed.This evening, the same thing occurred.  The orange orbs appeared in the sky for 2-12 seconds at a time.  Most vividly were four orange orbs that appeared flashing one at a time, in a straight line in the sky.  Then they disappeared as quickly as they came.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126606.html](http://www.nuforc.org/webreports/reports/126/S126606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
