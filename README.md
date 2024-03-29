@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fresh Meadows (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was driving home from my parent’s house and I notice as I arrived closer to my home a bright star to my left. I continued driving and notice on my right a very bright star. I pulled my car over and took my cell phone and opened and closed it as though to send a signal. In return the star expanded like a big ball of white light and I got excited and phoned a relative as I was talking on the phone it had moved to the left traveling and can see a red light at the side of it. I then parked my car in the garage and walk out of the garage and facing me was that bright star as I was walking towards my apartment the star expanded as though it was getting closer and I was talking to my sister about the situation, then I panicked and it went back to normal and it started to travel south. I decided to look out my door and saw the bright star again and said that is enough for tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56008.html](http://www.nuforc.org/webreports/reports/056/S56008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright orange light over BWI airport.  Shaped as a falling fireball.  In the air night enough to originally be thought of as an approaching aircraft or etc.  At first glance looked to be falling directly to the earth at a rapid pace.  Then suddenly changed direction and vanished completely.  Waited a second to see if a light or something would blink. Nothing more sighted.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118115.html](http://www.nuforc.org/webreports/reports/118/S118115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
