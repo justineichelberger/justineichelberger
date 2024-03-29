@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in EL Cajon (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 1130 PM I looked out of my back yard West towards Mt San Miguel.   I initially saw two objects one that was Large and Blue/Purple and one that was Orange.  After a period of time I saw another orange glowing orb.  These objects initially looked like they were lowered down from the sky on a string but then began to dip and fly all over the place at a very high rate of speed.  At the end of my viewing the Large Blue Object Flew very close to me.  I would estimate its size to be about 100FT Long. The Blue Glowing Orb intensified its Glowing and began to rise to altitudes that made the object hard to see and then would drop straight down to maybe a mile or so above the earth.  The orb then lowered to just above the ground and two Military Helicopters showed up and the thing disappeared and the helicopters circled for maybe a half an hour after the thing left.... The three orbs seemed to almost touch frequently.This Video is exactly the same thing that i saw:http://www.youtube.com/watch?v=sQ6hdV81DaY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108308.html](http://www.nuforc.org/webreports/reports/108/S108308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fresh Meadows (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was driving home from my parent’s house and I notice as I arrived closer to my home a bright star to my left. I continued driving and notice on my right a very bright star. I pulled my car over and took my cell phone and opened and closed it as though to send a signal. In return the star expanded like a big ball of white light and I got excited and phoned a relative as I was talking on the phone it had moved to the left traveling and can see a red light at the side of it. I then parked my car in the garage and walk out of the garage and facing me was that bright star as I was walking towards my apartment the star expanded as though it was getting closer and I was talking to my sister about the situation, then I panicked and it went back to normal and it started to travel south. I decided to look out my door and saw the bright star again and said that is enough for tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56008.html](http://www.nuforc.org/webreports/reports/056/S56008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
