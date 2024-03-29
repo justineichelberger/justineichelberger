@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 29 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bishop (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three fly over bishop californiathree flew over our city of bishop, ca ,we were in the car and were pulling in to our drive way when we seen one orange redish ball in the sky , as we pulled in to our drive way we stoped and watched it go over our city than all of a sudden it dissapered we thought. than we seen it it  was real dim . we said what was that! than we went inside and came back out and we seen more coming ..they came from tha south and was orangish red in color we seen 1 at first, than another one they seemed to be following each other they were real bright than they changed to dim red right over the top of our city they seemed to be round like a planet.they seemed to change color right as they passed over the top of us . they were about a mile or two behind each other and they wernt going real fast but kinda slow and smooth is how i would describe it , they were a real piercing orange like fire almost . people across the street were saying what is it . we live on the paiute indian reservation and  we seen similar stuff a few years back but with this one we felt like we should tell someone . also we took pictures.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88121.html](http://www.nuforc.org/webreports/reports/088/S88121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Saw 3 bright white oval shaped lights occur seconds apart from one anotherI was riding passenger with boyfriend on Medical Center Pkway, by Burger Republic, when I saw a bright, white flash in the sky.  It was oval shaped and then it disappeared.  A few seconds later another bright white flash occurred, same shape.  Then it flashes once more then nothing.  It was a nice sunny day.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145488.html](http://www.nuforc.org/webreports/reports/145/S145488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
