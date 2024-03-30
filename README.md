@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:19:44 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bay City (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>We witnessed a strange aircraft that traveled much higher, faster and was a lot larger than anything we've ever seen or read about.While leaving to make a last minute grocery run at approximately 10:00 pm tonight I noticed how clear the skies were and told my husband to look at all of the stars.  After glancing to the north I saw a very large triangular-shaped aircraft traveling north 1000x faster and at least twice - three times as high as an airplane (there was a passenger jet traveling west at the same time). My husband thought it was a shooting star at first, then noticed the six lights in a triangular shape.  There was no sound.  We ran to the end of the driveway when a tree blocked our view and it was gone.  There were no flashing lights on the bottom, sides or front.  The six lights seemed to have a bluish hue and dulled, much duller than the surrounding stars and passenger jet lights.  There is a (closed) Air Force base to our north, but this aircraft was much too large and too fast to be anything military.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96847.html](http://www.nuforc.org/webreports/reports/096/S96847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Decatur (GA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Yellowish teardrop shape with aura falling into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145420.html](http://www.nuforc.org/webreports/reports/145/S145420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
