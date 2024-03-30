@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My friend and I were bow fishing near Dalbow Rd., off of Highway 79, when we got lost following the stream, moving to different landmarks.  Having no idea where we are, we wait for a train and follow the noise because we had lost our internal compasses by that point and figured we'd follow the tracks back to the road.  We ended up finding a road (had to cross a stream, I got soaked).We followed this road left and found a little, tiny house.  Then about a quarter mile up we found the actual house, we saw who must've been the owner leave about 5 minutes before we got on the road.  We turned around and we jogged the other direction.It wasn't completely dark yet, but just about.  We saw three orange lights in a triangle formation.  There were some towers out there with lights on them and stars, but this was neither.  It was extremely close to us, maybe 1-200ft away and 50ft into the air.  It wasn't moving at all and was a hundred or so feet long.  There was a hazy body in between the three lights.  Looked like it blended in with the black/purple part of the sky that it was inhabiting.  One light especially would dim and brighten randomly.  It got intensely bright two times.  We took our eyes off of it while we were running and it was gone when we looked again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108441.html](http://www.nuforc.org/webreports/reports/108/S108441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately SECONDS - SECONDS minutes.</sub><blockquote><sub>Looking east from approximately Campbell Ave and 12th street:the whole sky flashed bright white and a split second later a loud boom sounded.I was inside of a small building in the back yard of a friend's house. All of a sudden a huge BOOM occured: a very loud, tight-sounding explosion. We ran out of the building and saw nothing, but one of my friends had been sitting outside looking towards the East when the explosion happened. He said he was looking up at the sky behind the house and trees when all of a sudden a sudden super-bright flash occured and it seemed the whole sky turned bright white. All he could see was the brightness and the silouette of the house and trees; Even the house lights were not visible because of the brightness of the sky. And then a split second later a loud boom occured. That was it. We never heard anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12481.html](http://www.nuforc.org/webreports/reports/012/S12481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
