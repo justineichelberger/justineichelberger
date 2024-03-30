@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Throop (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light moving off horizon, jumping upward, stopped then dissapeared.Rising of the ESE horizon it was a rather bright light, not unlike aircraft landing lights (in illumination).  It appeared to be normal, although I called the other witness over to look.It rose in the sky for about 15 seconds then jumped higher ( the same distance it came off the horizon above it previous position) then stopped for a few seconds.  Afterwards the light just disappeared ( from our position looking like it went 'really fast' in the opposite direction we were looking)  We both waited and watched for another 15 minutes in case it was an aircraft, and it would just appear again not far from were it was.  Perfectly clear night, no clouds. Never came back...  The other witness was very disturbed.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26605.html](http://www.nuforc.org/webreports/reports/026/S26605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New Brighton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white starlike object travelling at speed west to east no soundi saw a starlike object moving from the west to the east at approximately 21:05 pm .it was travelling in a perfectly straight line at speed and there was no sound whatsoever (sattelite?)((NUFORC Note:  We observe that the International Space Station passed just south of the UK, traveling from west to east, at 20:52-22:58 hrs. on this date.  For ground track details, please see the following page at <www.Heavens-Above.com>:  http://www.heavens-above.com/gtrack.asp?date=37710.8305310791&lat=50.853&lng=-0.927&alt=8&loc=New+Brighton&TZ=GMT&satid=25544We are not certain that the witness observed the ISS, but it looks to us to be a strong possibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28266.html](http://www.nuforc.org/webreports/reports/028/S28266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
