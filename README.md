@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Taken of Warriewood Beach Sydney whilst taking photos of a sunriseTaken off Warriewood Beach Sydney whilst taking photos of a sunrise.  I noticed it in several photos I had taken of the sunrise (03/27/2010) when I was making a card for a friends birthday</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74483.html](http://www.nuforc.org/webreports/reports/074/S74483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kensington (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>At around 8:47 pm tonight I noticed 4 perfectly aligned stars. They were to the west of Venus. Curious as to what they were, stars or planets, I finished putting out the trash, continued to stare at them and went inside to look online about them. Finding nothing, I took my camera out to try to photograph them. At 8:50 or 8:51 I was back out and there they were, but immediately began to lightly hover, the bottom two most notably. Then all four seemingly distant stars started to move at perfectly measured intervals from each other. The bottom two performed a strange half circular manoeuvre with each other and then quickly followed - perfectly straight and completely quiet- the first two objects.  Their pace was powerful and seemed to have a forcefulness about them that you do not sense when watching airplanes/jets.  They had no blinking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154679.html](http://www.nuforc.org/webreports/reports/154/S154679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
