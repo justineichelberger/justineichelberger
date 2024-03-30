@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chemainus (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small red light searching threw the cloudsstaying at my parents house helping them get it ready to sell there house. They live at the bottom of Mt. Sicker and Copper canyon. The Chemainus River is the only thing separating them from the outback. I went outside at around 23:00 to let the dogs out. It had been raining on and off all day so it was mostly cloudy. I could see a small patch of stars. I was hearing a low pulsing type tone. Then I noticed in the clouds lights they were flashing redish white colours. So I stared in a kind of disbelief because I knew in the background we’re the clouds so that gave me reference it was  low enough for me to see but To high for me to make out what it was and it it couldn’t be a star. It wasn’t really moving either it just kind of stayed there. It gave me enough time to get a my phone out for a 1.45m video but it doesn’t do justice. So ran inside and grabbed my high power rifle but couldn’t focus it my adrenaline was pumping. So then I ran upstairs and grabbed my! moms spotting scope as it is on a stand which made it very easy to focus once i focused in that’s when I realized I was seeing something I had never seen before it I could make out a red shape and it was like it was searching threw the clouds with a real Powerful white radiant wavy type light the light was moving at random not really looking in one spot long enough. first I thought maybe police on the mountain but then i realized it’s to far up and the clouds are to low for that to be in the mountain. I then ran inside woke up my dad he came out but it had disappeared I thought classic! I showed him the video and tried to explain it to him as we have seen weird stuff in the sky’s before always being out near the bush. I don’t know what it was but it sure got my blood pumping</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154730.html](http://www.nuforc.org/webreports/reports/154/S154730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange/red orbs in the night skyI was outside in the hot tub then noticed about 14-15 orange/red orbs.  I thought they were police helicopters doing their annual drills, Except these objects made no sound.  They came from the west then headed south.  First time I saw anything like this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96860.html](http://www.nuforc.org/webreports/reports/096/S96860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
