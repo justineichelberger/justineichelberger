@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:45 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Amherst (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Appeared 20 feet above the tree line with a black sky around look like it came from no direction just appeared.There was a tree line about 50 yards to 75 yards ahead of me, and about 20 feet above that, appeared a green circle very bright with no back light shining on any of the trees and it looked like it was divided into four sections with for green lights and it shot straight past the tree line where I couldn't see it the occurrence only happened roughly 5 seconds but it was very vivid and very easy to describe because it was that close to me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133361.html](http://www.nuforc.org/webreports/reports/133/S133361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>disk-shaped aircraft with colorful lights seen over Disney's Hollywood Studios and Epot .A lighted disk-shaped object was seen over Walt Disney World.  It was sighted over Disney's Hollywood Studios and Epcot.  It hovered at about 300 feet high.  Colored lights surrounded it.  It turned on its side, and then zoomed off into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63396.html](http://www.nuforc.org/webreports/reports/063/S63396.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
