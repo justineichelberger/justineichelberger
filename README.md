@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Palmetto (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Unidentified floating flashing and blinking light in Palmetto Florida rural property.We saw a floating light flashing periodically on our property.  The light is about the size of a baseball and appears to float across our property a fairly high speed.  I flashes then dims and then flashes a few yards away showing us it path of movement.  The light seems to know we are watching it because it approached our back porch where we were standing and watching it and came with 12 feet of where we were standing and landed in on the ground and continued to blink and flash slowly perhaps one blink every 6 seconds for about 4 minutes then we noticed the flashing was about 20 feet above the ground and it exited our view by floating into the forest behind our house.  When I shone a very high powered flashlight on it there was no visible structure to be seen. This thing has been here at least three times that we have seen it. It seems to have intellignece and seems to be very aware of our presence. We will attempt to video tape it tonight as proof but would prefer a professional to come and visit our property to make a more scientific evaluation of this unexplained object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49901.html](http://www.nuforc.org/webreports/reports/049/S49901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Throop (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light moving off horizon, jumping upward, stopped then dissapeared.Rising of the ESE horizon it was a rather bright light, not unlike aircraft landing lights (in illumination).  It appeared to be normal, although I called the other witness over to look.It rose in the sky for about 15 seconds then jumped higher ( the same distance it came off the horizon above it previous position) then stopped for a few seconds.  Afterwards the light just disappeared ( from our position looking like it went 'really fast' in the opposite direction we were looking)  We both waited and watched for another 15 minutes in case it was an aircraft, and it would just appear again not far from were it was.  Perfectly clear night, no clouds. Never came back...  The other witness was very disturbed.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26605.html](http://www.nuforc.org/webreports/reports/026/S26605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
