@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canajoharie (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black, Triangle, no lights or windows, flying very low, quietMy spotting of the UFO was tonight.  I was driving along with my boyfriend, when he was telling me of how he saw a large aircraft flying low, that was black with no windows, flew over him last year as we were going downtown to get groceries in Canajoharie, NY.  I then began to look up at the sky, and was observing the stars when I saw what appeared to be a flock of geese perfectly organized.  It happened at 9:23pm.  I then began to examine closer, and it was exactly what my boyfriend saw last year! I pointed to him, and said this one was way bigger.  It was black, triangle shaped, no windows, or lights, and was flying low, and quiet.  It was headed West of us, and moving quite fast.  I started crying because I knew that it was real considering both of us saw it.  I did some research and I believe it was shaped like a stealth plane, but not exactly sure if that’s what it is.  I hope someone can figure it out.  Thanks!((NUFORC Note:  We spoke via telephone with this witness, and she sounded to us to be quite serious-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96843.html](http://www.nuforc.org/webreports/reports/096/S96843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 Possible orange UFO spheres over Phoenix Arizona.At 22:18 on March 30th 2013  I observed what appeared to be two orange spheres of fire.  At first they appeared to be stars and then grew in orange brightness moving West to East then going to the South.   While moving West to East they stopped being bright orange after about 30 seconds and became a white or gray in color before moving to the South out of view. One more followed these two about one minute after the first sighting of the two and acted and moved in the same fashion as the first two. I attempted to record the last one with my iPhone but it appears as only black in the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96889.html](http://www.nuforc.org/webreports/reports/096/S96889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
