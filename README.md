@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange/red orbs in the night skyI was outside in the hot tub then noticed about 14-15 orange/red orbs.  I thought they were police helicopters doing their annual drills, Except these objects made no sound.  They came from the west then headed south.  First time I saw anything like this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96860.html](http://www.nuforc.org/webreports/reports/096/S96860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Seward (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately Several hours - Several hours minutes.</sub><blockquote><sub>Reports from witnesses in different locations confirm seeing 4 objects with flashing colored lights, hovering over resurrection bay2 people pulled over on Nash road, noticed an object straight ahead, They thought it might have been a drone. The object was flashing colored lights,  with a steady bright white light beaming out from it. The female witness called a friend who lived down the road to see if she was flying her drone, the witnesses friend looked outside and saw the object and noticed that there were three others in the sky further away forming a square pattern,  one object on each corner. She did her best to record it and we have video. The objects were in the sky for several hours. later that night the two friends met up with another friend who mentioned seeing the same things in the sky. He had witnessed the objects taking off one by one moving very fast across the sky. Many brightly lit fast-moving unidentified flying object have been observed in the Seward night sky for the past few months. The frequency is increasing with sightings. There is a lot of activity going on in the sky at night and a few of us have decided to pay more attention and document these sightings to the best of our ability, but we don’t have strong enough cameras or telescopes, we are attempting to obtain.  The next morning the original witness got a call from her boyfriend who is staying out at a lodge on Resurrection Bay, he said he saw his first UFO sighting the night before and he described the exact same thing that we had all seen. He was about 20 miles away from the original siding on Nash Road, and he stated that when he saw these objects in the skyHis hair stood up, and he knew that he had seen a real UFO  It would be worth serious scientific examination from professionals and the sightings are becoming frequent enough to almost guarantee a sighting if someone were to come here to do research...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154709.html](http://www.nuforc.org/webreports/reports/154/S154709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
