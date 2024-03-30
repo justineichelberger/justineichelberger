@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 30 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 Possible orange UFO spheres over Phoenix Arizona.At 22:18 on March 30th 2013  I observed what appeared to be two orange spheres of fire.  At first they appeared to be stars and then grew in orange brightness moving West to East then going to the South.   While moving West to East they stopped being bright orange after about 30 seconds and became a white or gray in color before moving to the South out of view. One more followed these two about one minute after the first sighting of the two and acted and moved in the same fashion as the first two. I attempted to record the last one with my iPhone but it appears as only black in the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96889.html](http://www.nuforc.org/webreports/reports/096/S96889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Palmetto (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Unidentified floating flashing and blinking light in Palmetto Florida rural property.We saw a floating light flashing periodically on our property.  The light is about the size of a baseball and appears to float across our property a fairly high speed.  I flashes then dims and then flashes a few yards away showing us it path of movement.  The light seems to know we are watching it because it approached our back porch where we were standing and watching it and came with 12 feet of where we were standing and landed in on the ground and continued to blink and flash slowly perhaps one blink every 6 seconds for about 4 minutes then we noticed the flashing was about 20 feet above the ground and it exited our view by floating into the forest behind our house.  When I shone a very high powered flashlight on it there was no visible structure to be seen. This thing has been here at least three times that we have seen it. It seems to have intellignece and seems to be very aware of our presence. We will attempt to video tape it tonight as proof but would prefer a professional to come and visit our property to make a more scientific evaluation of this unexplained object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49901.html](http://www.nuforc.org/webreports/reports/049/S49901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
