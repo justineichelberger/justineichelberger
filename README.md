@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:45 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Westborough (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange craft moving silently and fading in and out at randomDetails of the sighting:  1. The UFO sighted did not make any noise at all.  No apparent sounds were emanating from the craft.2. Total time of the sighting was approximately 30 to 40 seconds.3. Direction UFO traveled was from SW to NE by N.4. Place of sighting was Westboro (also spelled Westborough), Massachusetts, USA. Route 9 (eastbound).  Subject viewing the UFO was outside of parked vehicle, standing.5. Time of sighting was precisely 8:30 p.m., EST. Date was March 31, 2000.6. Weather was clear night, no precipitation, no fog.7. Size of craft to best of knowledge and estimation was 150 feet from tip to base.8. It was a singular UFO, but its shape was three seemingly attached triangles, forming one triangle with the center absent. The best example of its appearance is to say it looked exactly like the Zelda symbol, only without the foot portion, only the triangle(s).9. I can attest this is not a joke. This is an actual sighting. Extended info: There was absolutely no sound coming from the craft. As an additional note, the UFO almost seemed to be distorted in a way that made it appear as though it were "fading" in and out of sight, but not completely out of sight...almost a "blinking", but not as timely and synchronized as blinking. There was absolutely no cloud cover, fog, or other means by which this may have been the cause. I have in fact seen a similar object a few weeks prior, but it is insignificant compared to this. But for comparison purposes, the craft seen before this sighting was only visible for approximately 10 seconds at very high altitudes, and appeared to look like an orange glowing bird-like craft, headed directly upward out of viewing range. As a footnote, this is a geographic location close to the "Bridgewater Triangle". - Nothing follows -</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150931.html](http://www.nuforc.org/webreports/reports/150/S150931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>Two yellow lights trailing dropping sparks seen heading slowly south over Lincoln, NELeaving the mall toward the parking lot we witness two lights flying south about as fast as helicopters would fly. To us they appeared about the size and shape of a yellow street lamp seen from aobut 8 blocks away. They were tailing or dropping what ap[peared to be sparks. My wife saw this first as her eyes are much younger and better. The first craft was dropping these sparks first. Then I witnessed the second one dropping sparks. At first, I thought it was maybe a bomb, or perhaps parachutes. The sparks appeared for only about 2 seconds and then dissipated. It is hard to judge distance, but I would guess they crossed the sky about 2 miles away, maybe more. I called 911 and they checked it out for us. We called back later on a non emergency number and they had no radar records nor were there any military exercises.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49914.html](http://www.nuforc.org/webreports/reports/049/S49914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
