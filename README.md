@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kelseyville (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cylinder shaped object with bright red and orange flickering lights moving slowlyThe object traveled in our direction at first. It was bright orange and red , flickering like a camp fire . Through binoclures it looked like It was shapped like a large piece of pipe maybe the size of a large aircraft and was silent.It flew with the body upright , not laying down.  IT moved around very smoothly and at a very low speed. In the end the object traveled Slowly away to the south east over the mountains.The observers included my self, i am almost a ten year employee of a local propane company and was a volunteer fire fighter for almost 7 years, my neighbor who is a high school student and her brother and friend who was there at the time, my parents who are retired including my sister who is a teacher and my two brothers .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56045.html](http://www.nuforc.org/webreports/reports/056/S56045.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redmond (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Hovering flashing light over Sister's Mountains.Woke up feeling agitated and was drawn to look outside.  When I looked west I saw a flashing red light very low on the horizon.  It appeared to hover between the north and south Sister's mountains.  It was too low to be a plane and it was stationary.  I began to pray and ask for protection from Jesus.  The flashing lights stopped and it became a steady white light, that grew dimmer and dimmer.  The next two nights I have looked in the same area and have not seen anything similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126677.html](http://www.nuforc.org/webreports/reports/126/S126677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
