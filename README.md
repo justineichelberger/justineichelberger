@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Middletown (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It had a super bright light on the bottom and was a silver color with a couple of rect. windows and shot right up to the moon and behinMy friend and I where just getting home early in the morning before the Sun rose. We where looking torwards Middletown while TMI was having the Nuclear Accident. We watch this Supper bright light that was as bright as a star for about 20 minutes, but it was to close. The sun started to rise and the object was visible and it tilled a bit an took off so fast that it had shot straight out towards the moon and seemed like it went behind the moon. The object was in full view for both of us to get a really good look at it and was a silver-gray color. It was round and we could see a few rectangular windows, the very top looked to have a black round section on the craft with a lot of fins going to the center on the top. The next day the TMI accident was finally fiqured out to be over. It took TMI years to see the damage and it did melt down into the concrete.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65626.html](http://www.nuforc.org/webreports/reports/065/S65626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Northampton (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle ufo following ct river up streamNoticed an object near local small airport, figured it was a plane, but realized there were no wings.  Saw red light and said to my 11yr old here comes a helicopter.  So we watched as it was coming closer, until it slightly turned and the Sun brightly reflected off its side and nearly made it invisible.  Realizing no sound, thought it was a balloon, but it was a perfect triangle.  Staying at about 600' above ground, it traveled North filling the CT river, winding as the river does.  Seemed to be mapping the river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139322.html](http://www.nuforc.org/webreports/reports/139/S139322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
