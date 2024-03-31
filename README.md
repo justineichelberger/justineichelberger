@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>hovering rectngular shaped objectIt was a clear night. I noticed 2 large white lights as those of an approaching aircraft as if coming in for a landing. There is an airport about one mile from sighting area (Addison). We were driving toward the object yet it appeared to be hovering. As I realized it was not converging as fast as it should I became more curious. The craft was hovering at approximately 300 feet. I would estimate the length to be about 250 feet by about 50 feet and 50 feet tall. There were no strobes as an aircraft would have. There was a big white constant light at each bottom corner of the forward leading edge and one constant white light located on the lower center trailing edge. The driver of the vehicle would not stop (on tollway) so we progressed under the object. I was unable to detect any real detail of the object other than dimensions. After passing the object it appeared to continus to remain motionless.The rear of the trailing edge where you would expect the tail of an airplane to be had a square box shaped area like 20x20 that had multiple small blinking lights (red,white,blue). I continued to observe the objects orientation as we proceeded away from it and it remained fixed. After pleading to the driver to turn around several minutes passed before we could exit and re-enter the tollway to backtrack. The object was gone upon returning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43285.html](http://www.nuforc.org/webreports/reports/043/S43285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Green Brook (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Extrememly bright lights for a few minutes then vanished.At 2:48 a.m. my sister woke me up to tell me she thought there was a UFO outside.  I went to the window to see bright flashing red, white and green lights about a block or two away.  The lights were so bright, they lit up the entire sky.  Ther was a low repetitive humming moter of some sort.  We could not actually see any sort of air craft, only the extremely bright lights.  Suddenly, the lights stopped and there was no more sound.  We are planning on going to the police today to see if any one else saw this and witnessed it.  My sister is 24 and a dental assistant, I am 27 and a college student, my mother who also saw the lights is 52.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43282.html](http://www.nuforc.org/webreports/reports/043/S43282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
