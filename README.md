@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>cloaked stingray shaped object lowflying only saw moisture build up around front end of objectmy wife saw it first as we layed down to sleep, out the window about 800ft up, moving about the speed of the police choppers when they circle. the object itself was completely invisible but there was a lot of moisture in the air and we could see a build up of moisture around the front end and what appeared to be some sort of tail piece. the only way i can describe the form that the moisture was contouring to is like that of a sting ray. very flat and smooth edges, almost flowingthrough the air, the sides were like the sides of a sting ray in movement flowing from where they met a somewhat of a center area in a wavelike motion out to the tips of them. the area trailing the front arch of moisture seemed to flow in the same pattern but horizontally as opposed to vertical flowing of the front wing like area. I DID NOT SEE THE OBJECT JUST THE MOISTURE BUILDING UP IN THE AREAS IT WOULD OF ANY KNOWN FLYING OBJECT. i would not have believed my wife had i not seen it my self, it was very brief but unquestionably clear. no lights or sounds or abductions or cell phone static, it seemd to be a perfectly cloaked device using motion for propeltion as opposed to a fuel source. im still having trouble believing it but this was no known object to me and it was undoubtably clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49915.html](http://www.nuforc.org/webreports/reports/049/S49915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Apopka (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orange orb over the skys of apopkaI was smoking a cigarette in the back yard while letting my dogs go to the bathroom.  I noticed mt dogs had all stopped running around and were sniffing at the sky , as though they were trying to scent something.  I started looking at the sky through the trees in the direction they were looking and I saw an object moving about as fast as a jet.  It seemed to be a normal occurrence but the color was off, it didn't have the normal hue of lights a plane or helicopter would have, no red or blue flashing lights, and there wasn't a tail so it didn't appear to be a meteor or falling star.  I ran inside my house to grab my phone, I figured the rate of speed it was moving I'd have plenty of time to get some footage.  I couldn't have been more than 5-10 seconds and I went out my front door for a better angle.  I know my timing was accurate, it had only crossed the back left corner of my back yard, it should have been in view but it seemingly disappeared.  No idea what it could've been, but I believe I definitely saw something unusual tonight.  As a fire control technician in the navy's submarine force, I was trained in celestial navigation and had extensive training in identifying aircraft from a distance.  This was no normal aircraft.  Possibly a rocket or missile but again, there was no flame or tail.  Just an orange orb traveling in a straight line across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108248.html](http://www.nuforc.org/webreports/reports/108/S108248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
