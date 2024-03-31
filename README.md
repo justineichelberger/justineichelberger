@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright lights in shape of a ball vanishes.It was twilight, light enough to see off into the distance and the sky was clear (no clouds).  I was at mile marker 68 going east bound on the Indiana toll road.  I saw a big circle (basically a ball) of bright white lights, the brightest I’ve ever seen, in the air.  There were no wings, no red or green lights to indicate an air plane, and nothing around it.  It wasn’t like the lights you see in the air for a plane to see at night either.  As I approached and fixated on the object, the lights went off and it increased the altitude and was just gone.  The object left no trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154597.html](http://www.nuforc.org/webreports/reports/154/S154597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wasilla (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangle craft silently maneuvering over Wasilla at 230 amAt 230am on march 31 2014 I was walking to my bedroom when I noticed a bright whitish light out the window to the northeast.  I immediately told my girlfriend to come look. We both then ran out to the balcony and watched this extremely bright light with colored pulsating lights on either side of it just floating there silent heading our direction.  We watched  the object for five minutes or so as krept closer, still silent, lights beaming out in front of it getting brighter and closer.I said this things going way to slow to be an airplane.  My girlfriend said I've never seen a light like that before.  There where no clouds in the sky just stars.  as the craft got right over head  we could see it was triangle shaped with two windows on the floor  looking into cockpit area.  A Yellowish green light coming from inside , also lit up lines on bottom side of craft.  Lights on all the points.  It was 500 ft up or so and 200 to 300 foot wide.  We could hear a slight hummin! g noise when it was directly overhead, other than that no noise.  It proceeded on a south western heading over my  neighbors house. I've seen a lot of airplanes, this was not an airplane.  This thing  defied the laws of physics.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108474.html](http://www.nuforc.org/webreports/reports/108/S108474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
