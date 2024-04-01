@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Monument Valley (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>RUN OFF THE ROAD DRIVING SOUTH INTO MV,UT BY A VERY BRIGHT LIGHT-SILENTWHILE DRIVING SOUTH INTO MONUMENT VALLEY,UT I NOTICED AN ONCOMING VEHICLE THAT SEEMED TO BE FOLLOWED FROM ABOVE AND BEHIND BY A VERY LARGE AND BRIGHT LIGHT. I IMMEDIATELY REALIZED THAT THE "LIGHT" WAS MOVING MUCH FASTER THAN THE ONCOMING VEHICLEAND ASSUMED THAT IT WAS A LARGE AIRPLANE MAKING AN EMERGENCY LANDING. THE SUN HAD JUST SET AND I COULD NOT SEE THE BODY OF THE "CRAFT", IF THERE WAS ONE. I AWAKENED MY PASSENGER AND, TO AVOID GETTING IN THE PATH OF THIS, BRAKED AND RAN OFF THE ROAD AS FAR AS I COULD GO. THE ONCOMING VEHICLE DID THE SAME. THE "LIGHT" PASSED OVERHEAD WITHOUT A SOUND AND PROBABLY NOT MORE THAN FIFTY FEET. WE HEARD NOTHING AT ALL AND SAW NOTHING BUT THE LIGHT. WHY WE DID NOT SPEAK TO THE OTHER DRIVER I DO NOT RECALL, BUT RETURNED TO THE ROAD AFTER WE CAUGHT OUR BREATH AND STARTED THE JEEP, WHICH I ASSUMED DIED FOR LACK OF PUSHING THE CLUTCH IN UPON STOPPING. I WOULD DESCRIBE THE LIGHT AS BEING ABOUT FOUR TO NINE FEET IN DIAMETER, BRIGHT BLUE, AND TRAVELING IN EXESS OF ONE HUNDRED MILES PER HOUR LESS THAN FIFTY FEET OFF OF THE ROAD AND FOLLOWING THE HIGHWAY. I DO NOT RECALL IF I CLOSED MY EYES BRACING FOR AN IMPACT BUT, DID LOOK TO SEE IT BEHIND US IMMEDIATELY AND SAW NO LIGHTS FROM THE REAR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12153.html](http://www.nuforc.org/webreports/reports/012/S12153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kosciusko (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>3 triangular shaped objects "gliding" over the house.  All 3 had this orange-white transparent glow.on the evening of Wednesday 04-01-09 at approx.  11:30 pm I was awaken for what ever reason and went outside to smoke a cigarette.   As I was looking up at the stars (which was pitch black that night with no clouds) i saw what i thought was a falling star.  Then out of nowhere there are these 3 trianguolar shaped things just above the tree lines, kind of like gliding in the air.  Too big to be a bird and too small to be a plane.  I do not know what it was I saw, they were just floating across the sky and then disappeared  without making any kind of sound what so ever.  I have the actual notes from that night.  I felt like I had an obsession with drawing the shapes and writing the details that night after i saw these 3 things.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70635.html](http://www.nuforc.org/webreports/reports/070/S70635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
