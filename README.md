@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 31 March 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Green Brook (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Extrememly bright lights for a few minutes then vanished.At 2:48 a.m. my sister woke me up to tell me she thought there was a UFO outside.  I went to the window to see bright flashing red, white and green lights about a block or two away.  The lights were so bright, they lit up the entire sky.  Ther was a low repetitive humming moter of some sort.  We could not actually see any sort of air craft, only the extremely bright lights.  Suddenly, the lights stopped and there was no more sound.  We are planning on going to the police today to see if any one else saw this and witnessed it.  My sister is 24 and a dental assistant, I am 27 and a college student, my mother who also saw the lights is 52.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43282.html](http://www.nuforc.org/webreports/reports/043/S43282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Jagged and glowing plasma meteor suddenly changes course, and accelerates northward incredibly fast.Looking northeast right after twilight, I observed a glowing jagged plasma ball streaking towards earth at a 45 degree angle.  It was bluish white, green, and had an outline of orange and appeared to be glowing plasma.  It materialized instantly as if growing from a small point to a large object in a nano second.  I thought it was a meteor and braced for impact about two miles north of my location, when suddenly four white orbs shot out and it made a sudden turn to the north and shot into the forward horizon incredibly fast and disappearing from view.  In that moment it looked like an actual spaceship as it turned and shot off, and resembled a rectangle with four glowing engines.  The electric glow was very pretty and absolutely beautiful. I know this was April first, but for what its worth, I really saw this and it was awesome to see.((NUFORC Note:  We spoke via telephone with the witness, and we found him to be quite serious-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126743.html](http://www.nuforc.org/webreports/reports/126/S126743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
