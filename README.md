@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:18 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>My husband, son and I were outside and my husband said what the **** is that?   So my son and I stood up and I noticed a triangle shape of lights with orange/reddish lights coming towards us from the North, going south.  It was moving very slowly.  It was about 30 feet from the ground.  It almost blended in with the sky; if it wasn’t for the dim reddish lights I wouldn’t have seen it.  As it went by extremely silent I tried looking at the flying craft itself; the triangle was semi-invisible, you could see a triangle shape but not every detail.   Pardon the pun but like the clocking device on star track when they first start to go invisible or when they are taking the clock down.  It felt like I was dreaming while I watched this craft go by us, then it glided more to the South past us and it was it disappeared into the sky because of its black color and dim lights.  We couldn’t see it any longer. When it was gone all I could keep saying was that was amazing.  My son started saying he didn’t want to be abducted, he was frightened after seeing that.  My husband and I were in amazement.  I drew a picture of what I saw.  The picture isn’t a perfect image of it  I am not an artist but it’s what we saw that night, we will never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81148.html](http://www.nuforc.org/webreports/reports/081/S81148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in St. Marys (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Cigar shaped ufo hovering over St. marys pa then shot across sky about 1975I was 8 years old at the time, waiting for the school bus. To this day I still wonder what it was. I thought of it as "hotdog" shaped. It just hovered for seconds and then shot across the sky and gone.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60791.html](http://www.nuforc.org/webreports/reports/060/S60791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
