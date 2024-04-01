@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pomona (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large light that flashed and blinked outStrong light, white ' flashed straight downwards but not a beam.  Was approx 100 ft above trees and more than 1/4 mile distant.  About the size of a baseball at arm's length.  Light flashed strongly once and then blinked out.  Flash lit up trees and roofs of nearby houses.  No helicopter not airplane.  No sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126691.html](http://www.nuforc.org/webreports/reports/126/S126691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Copemish (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We spotted the object hovering over the road at tree top level directly in front of us.  As we drove closer It moved above the trees on the left side of the road.  It was a dark ball with a beam of light coming from left side of craft.  Light seemed to cut off rather than dissipate.  When we were right next to the craft (approx 200 ft. max) A diamond pattern of lights, yellow, red blue, and green, flashed rapidly.  The craft then appeared to turn in out direction at which time the pedal hit the metal and we were outta there.  This sighting was approx 5 miles north of Copemish</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12577.html](http://www.nuforc.org/webreports/reports/012/S12577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
