@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Multi-colored lights in southern skySeen in the southern sky for approx 2 minutes, changing color from red to green to purple. hovered, then headed west then south. could not get it on film.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108288.html](http://www.nuforc.org/webreports/reports/108/S108288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighting of a UFO that could not be explained by a physics professor/pilot.I stepped outside and noticed a light in the sky.  After a couple of moments it began to move (at a "normal" rate of speed).  I didn't really think anything of it.  When it crossed the horizon of the opposing mountain range (about 5 miles away, 3-5000ft) it caught my attention and I began watching it closely.During a period of about five minutes, I watched the object cover vast areas (several miles), several times over, in the blink of an eye.  The object would move, stop on a dime, and immediately change directions with angles nearly as sharp as 180 degrees.  The object (its lights) were frequently changing, and/or blinking.  I saw red lights, white lights, and at least one other color.  At one point, when the object was stopped, I counted the white light as it flashed 26 times in approximately 3 seconds.  Suddenly, the object began its rapid movement again, and finally disappeared.((NUFORC Note:  Witness, who elects to remain totally anonymous, indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71746.html](http://www.nuforc.org/webreports/reports/071/S71746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
