@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:53 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Unity (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange fireball, bright white light in middle pulsating with no sound followed vehicle about 10 miles then faded away.I left my home started to travel SE was 3 minutes down the road saw large orange ball with bright light in the center pulsating pulled over and shut off vehicle,  No sound.  Looked like it started to get closer, was frightened got back into vehicle.  Travelled another 7 miles reached destination all the while was still in front of me about the height of the tree lines and about 300 yards away.  I went into my daughter's home for about 30 sec, family came out saw it, we watched it for 2 minutes longer still no sound. Then it looked like it was shrinking and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109984.html](http://www.nuforc.org/webreports/reports/109/S109984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pearsall (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange/Golden orbsWe were driving on the 35 south, near Pearsall, Texas, when we noticed orange/golden lights hovering in the sky, moving independently.  The lights formed a straight line then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145464.html](http://www.nuforc.org/webreports/reports/145/S145464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
