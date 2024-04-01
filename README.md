@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange thing that changed into a pearl.It was a Sunday mid afternoon, where I and a co-worker finished our shift in the Humane Society of NY on a Sunday afternoon.  We walked to 3rd or Lexington Avenue and 59th Street, cant remember off hand, but there were a lot of people.  At the corner, I noticed a male model whose name I cant remember, but he was Scandinavian-looking with long blond hair and was often featured shirtless in the  80's ads.  I pointed him out to my coworker and she said oh yeah uh huh.  He walked past us while talking to a male companion and as I had turned to look at him, I noticed a thing flying in the Eastern sky.  It was odd looking, with a multi-angled shaped top and a grey brown box below it, like an engine.  It flew noiselessly emitting a little dark smoke.  I stared at it and pointed to it exclaiming, (name deleted)! look! what's that.  (name deleted) was exhausted and replied "Oh I dont know while yawning."  I thought it was strange that she expressed no interest. The thing flew directly above the Queensboro bridge and stood there.  We stared and it did something even stranger.  The craft morphed itself into a spherical white metallic ball.  It resembled a pearl in the sky.  There were clouds above it and the white pearl could still be seen.  It reflected a little of the sun on its surface.  It stayed there not moving.  We stood and look amongst the crowds and no one noticed.  We left after a while since there was no change occuring.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  One of two reports from same source, who elects to remain semi-anonymous.  PD))((NUFORC Note:  One of several reports from the same individual, who elects not to indicate his or her name.  Sadly, we cannot guarantee the authenticity of the reports from this witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46466.html](http://www.nuforc.org/webreports/reports/046/S46466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New Berlin (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Starburst over New BerlinWe were coming out of a pub located in a shopping mall just after midnight.  We watched a formation of 3 starburst shaped craft hovering in formation just above the Sprint store across the street.  They seemed to move back and forth slightly for just over 10 minutes, then, suddenly, they moved rapidly upward out of sight at an unbelievable rate of speed.   All 3 of us observed the same thing.  It was not a normal aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80743.html](http://www.nuforc.org/webreports/reports/080/S80743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
