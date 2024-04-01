@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighting of a UFO that could not be explained by a physics professor/pilot.I stepped outside and noticed a light in the sky.  After a couple of moments it began to move (at a "normal" rate of speed).  I didn't really think anything of it.  When it crossed the horizon of the opposing mountain range (about 5 miles away, 3-5000ft) it caught my attention and I began watching it closely.During a period of about five minutes, I watched the object cover vast areas (several miles), several times over, in the blink of an eye.  The object would move, stop on a dime, and immediately change directions with angles nearly as sharp as 180 degrees.  The object (its lights) were frequently changing, and/or blinking.  I saw red lights, white lights, and at least one other color.  At one point, when the object was stopped, I counted the white light as it flashed 26 times in approximately 3 seconds.  Suddenly, the object began its rapid movement again, and finally disappeared.((NUFORC Note:  Witness, who elects to remain totally anonymous, indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71746.html](http://www.nuforc.org/webreports/reports/071/S71746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Del Mar (Rancho Sante Fe) (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Line of orange lights that would go off, on and slowly floated rising and fallingMe and some friends were sitting on his back porch.  We were younger (about 12 years ago)  so we were all in the sixth and seventh grade.  We all looked out over the lagoon where the five freeway passes from del mar heights road to the del mar fairgrounds.  Over the east side of the freeway between via de la valle and lomas sante fe, there were a line of orange lights.  They were circular and were floating above a hill, which is where a golf course is and suburban neighborhood.  The lights were very calm.  No flashing or flickering or explosions.  They moved up and down.  Rising and falling at a slow speed. almost hovering up and down.  Almost like a light switch one of them went off and then two and then they would just re appear in the same spot, or maybe a bit higher or lower. Then more came.  They increased and decreased until all eventually going out.  They all were in some sort of line. but would vary either higher or lower.  The lights were indefinately an orange color.  I have never seen anything like this happen ever again in my life.  All of us were just normal kids having a slumber party at my friends.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96189.html](http://www.nuforc.org/webreports/reports/096/S96189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
