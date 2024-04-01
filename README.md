@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New Berlin (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Starburst over New BerlinWe were coming out of a pub located in a shopping mall just after midnight.  We watched a formation of 3 starburst shaped craft hovering in formation just above the Sprint store across the street.  They seemed to move back and forth slightly for just over 10 minutes, then, suddenly, they moved rapidly upward out of sight at an unbelievable rate of speed.   All 3 of us observed the same thing.  It was not a normal aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80743.html](http://www.nuforc.org/webreports/reports/080/S80743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Wantagh (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Square object with a textured surface that flipped end over end as it slowly moved through the sky.I just discovered your web-site and want to report this.  Even though it occurred eight years ago I remember it like it was yesterday.  I pulled into a shopping center parking lot after first observing this while sitting in traffic.  I got out to look and follow it as it moved.  It was perfectly square-shaped with a textured surface.  It was probably about 300 feet or so up and it was moving in a straight line from south to north with no deviation from the wind.  It clearly was under controlled flight.  It slowly flipped end over end as it moved.  It was not travelling quickly; it was going at a slow, steady pace.  Even as it moved to the north and I began to lose sight of it I could still trace its path by the fact that the sun glinted off its trailing edge as it continued to flip end over end.  From the ground it really looked almost two-dimensional; it did not really have much bulk to it.  I have read books about UFO's off and on for years starting with Incident at Exeter by John Fuller and I never have read of an object even remotely resembling what I saw.  But it was midday during clear weather and there is no doubt what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13128.html](http://www.nuforc.org/webreports/reports/013/S13128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
