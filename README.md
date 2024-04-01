@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in  (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw a super bright light while digging field drains.I was digging ditches for field drains with an excavator and when i looked up I saw a bright light just below the top of the trees. I thought it might have been a reflection but the sky was cloudy and it was too bright to be a reflection. I then looked away for about 5 seconds and then when I looked back it was gone. About half an hour later I was still able to see black dots due to how bright it was. Another strange occurrence that happened was that about a half hour before the bright light a big blue airplane flew really low but still above the trees. It flew close to where the bright light was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162642.html](http://www.nuforc.org/webreports/reports/162/S162642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lakeside (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately Continuing - Continuing minutes.</sub><blockquote><sub>Line of 5 blinking lights moving slowly across the sky.We received 5 citizen reports and 1 deputy confirmation of sighting.  Line of 5 blinking lights moving from NW to SE at about 5 knots per hour at approximately 5,000 to 10,000 ft elevation.  2 of the citizens are in military housing.  Sheriff airsport was advised and will attempt to evaluate, weather permiting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96879.html](http://www.nuforc.org/webreports/reports/096/S96879.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
