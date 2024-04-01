@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Copemish (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We spotted the object hovering over the road at tree top level directly in front of us.  As we drove closer It moved above the trees on the left side of the road.  It was a dark ball with a beam of light coming from left side of craft.  Light seemed to cut off rather than dissipate.  When we were right next to the craft (approx 200 ft. max) A diamond pattern of lights, yellow, red blue, and green, flashed rapidly.  The craft then appeared to turn in out direction at which time the pedal hit the metal and we were outta there.  This sighting was approx 5 miles north of Copemish</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12577.html](http://www.nuforc.org/webreports/reports/012/S12577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Monument Valley (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>RUN OFF THE ROAD DRIVING SOUTH INTO MV,UT BY A VERY BRIGHT LIGHT-SILENTWHILE DRIVING SOUTH INTO MONUMENT VALLEY,UT I NOTICED AN ONCOMING VEHICLE THAT SEEMED TO BE FOLLOWED FROM ABOVE AND BEHIND BY A VERY LARGE AND BRIGHT LIGHT. I IMMEDIATELY REALIZED THAT THE "LIGHT" WAS MOVING MUCH FASTER THAN THE ONCOMING VEHICLEAND ASSUMED THAT IT WAS A LARGE AIRPLANE MAKING AN EMERGENCY LANDING. THE SUN HAD JUST SET AND I COULD NOT SEE THE BODY OF THE "CRAFT", IF THERE WAS ONE. I AWAKENED MY PASSENGER AND, TO AVOID GETTING IN THE PATH OF THIS, BRAKED AND RAN OFF THE ROAD AS FAR AS I COULD GO. THE ONCOMING VEHICLE DID THE SAME. THE "LIGHT" PASSED OVERHEAD WITHOUT A SOUND AND PROBABLY NOT MORE THAN FIFTY FEET. WE HEARD NOTHING AT ALL AND SAW NOTHING BUT THE LIGHT. WHY WE DID NOT SPEAK TO THE OTHER DRIVER I DO NOT RECALL, BUT RETURNED TO THE ROAD AFTER WE CAUGHT OUR BREATH AND STARTED THE JEEP, WHICH I ASSUMED DIED FOR LACK OF PUSHING THE CLUTCH IN UPON STOPPING. I WOULD DESCRIBE THE LIGHT AS BEING ABOUT FOUR TO NINE FEET IN DIAMETER, BRIGHT BLUE, AND TRAVELING IN EXESS OF ONE HUNDRED MILES PER HOUR LESS THAN FIFTY FEET OFF OF THE ROAD AND FOLLOWING THE HIGHWAY. I DO NOT RECALL IF I CLOSED MY EYES BRACING FOR AN IMPACT BUT, DID LOOK TO SEE IT BEHIND US IMMEDIATELY AND SAW NO LIGHTS FROM THE REAR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12153.html](http://www.nuforc.org/webreports/reports/012/S12153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
