@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:58 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Copemish (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We spotted the object hovering over the road at tree top level directly in front of us.  As we drove closer It moved above the trees on the left side of the road.  It was a dark ball with a beam of light coming from left side of craft.  Light seemed to cut off rather than dissipate.  When we were right next to the craft (approx 200 ft. max) A diamond pattern of lights, yellow, red blue, and green, flashed rapidly.  The craft then appeared to turn in out direction at which time the pedal hit the metal and we were outta there.  This sighting was approx 5 miles north of Copemish</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12577.html](http://www.nuforc.org/webreports/reports/012/S12577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Blyth (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>the object was circular and was following my airplane.First off understand Iam not a crack pot! Iam writing this because Iam not sure what to do here. I was flying back via Blyth to eagle airfield in my cherokee, the enging started to make a rough sound and that got my attention, when I looked to the right at my oil temp and fuel guages I caught a glimps of a dull looking object out the right window. I looked down at my gps and noticed I needed to steer right to get back on course. After turning right a couple of degrees I saw this dull grey object on my right again, I turned further to the right and this object turned with me. I could see it was circular and a dull grey color and it looked like it was rotating. I did not see any lights on it. The object was about a block away from my plane, I continued to make a right turn to get a better look at it, as I turned furthur it decended out of sight. At this point I got back on course and notice I had lost about 1500 feet, so I climbed back up to 8500 feet after getting back at 8500 feet I had to correct course again, I had to turn left a little, I looked out the right window to see if I could see this thing again and it was gone. I looked out my side on the left and noticed the circular thing was on the ground, I made a left turn and decended down to 2000 feet when I got closer I could tell it was sitting on the ground, I wanted to see what exactly was this thing. I climed back up to about 7500 feet and proceeded back on course to eagle. I have not said nothing about this to anyone..((NUFORC Note:  Witness indicates that date of the event is approximate.  We will invite him to check his flight logs to confirm date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44685.html](http://www.nuforc.org/webreports/reports/044/S44685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
