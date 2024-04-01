@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Goring, Oxon (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Ships flew over house and stopped over field7 objects of unidentifiable shape flew over my house and stopped over the field and shone light on cows. The sound was high pitched and intermitent. The arrival of these ships caused static that made the T.V. stop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06113.html](http://www.nuforc.org/webreports/reports/006/S06113.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Citrus Heights (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>In broad daylight in the middle of town, myself, my friend, and strangers watched in amazment and puzzlement.My coworker and I went out in front of our county office for a cigarette and when we were about to go back in something caught my eye.  There was a black object above the residential area across the parking lot and across the street.  It was very large, it seemed as big as a house.  "What is that?" I said.  ((name deleted)) looked, but couldn't identify it either.  It made no sound, had no lights, and was turning in it's orientation very slowly and changing shape as it hovered about 500 feet above the residential area at a distance of about a half a mile.  It was impossible to make out any features, it just looked like a black lump with a flat underside.  Sacramento is littered with aircraft and I've flown myself.  There were no lift planes, no engines, nothing that could be identified with any type of aircraft, and it was completely silent. I told ((name deleted)) to go inside and get the sheriff, but he had already left and another coworker came out to see what she was talking about.  Two men who had also been watching the object from our parking lot came drove up to us adsking, "what is that thing?"  At the same time on of our clients and her children came out and saw us looking up and also saw it.  It seemed to be getting closer, moving silently and slowly.  Everyone else began to leave but ((name deleted)) and I stood and watched as it slowly started to drift hight and higher.  As it did the bottom showed a distinct triangular shape.  ((name deleted)) went back inside but I continued to watch as it just rose ingto the stratosphere and disappeared. I felt very strange afterward.  Very confused, but very tranquil.  I think it's because it wasn't some flashy sci fi UFO thing.  I had seen it, and others with me.  On my way home I called a local news station on my cell to see if anyone had reported seeing anything at that location.  They said no but wanted to know what I saw.  I told them briefly but neither they or I pursued it further.  The tranquil, huanting feeling followed me for days, despite being teased by our coworkers.  I think it just confirmed what I believed was true, in broad daylight with one of my best friends with me as well as a bunch of strangers.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41967.html](http://www.nuforc.org/webreports/reports/041/S41967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
