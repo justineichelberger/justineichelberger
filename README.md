@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lakeside (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately Continuing - Continuing minutes.</sub><blockquote><sub>Line of 5 blinking lights moving slowly across the sky.We received 5 citizen reports and 1 deputy confirmation of sighting.  Line of 5 blinking lights moving from NW to SE at about 5 knots per hour at approximately 5,000 to 10,000 ft elevation.  2 of the citizens are in military housing.  Sheriff airsport was advised and will attempt to evaluate, weather permiting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96879.html](http://www.nuforc.org/webreports/reports/096/S96879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Megargel (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Missing Time: 10 minutes erased from my lifeDuring the month of April 1994, a strange experience happened to me. I was driving back to Dallas to attend college after I had a visit with my mother in the small, west Texas town of Knox City, Texas. I was passing thru a small town called Megargel,Texas. As I was leaving the small town, I noticed a red truck pulling into a driveway at the edge of town. A few minutes later, out in the country, a strange haze was seen all around. It left just as quickly as it came.This is where it gets strange, I passed thru the town of Megargel again. When I reached the edge of town, I saw the same red truck pulling into the same driveway. I never turned around at any time. When I arrived at my apartment in Dallas, my watch and car clock were 10 minutes behind all the clocks in the apartment and everywhere for that matter. I lost 10 minutes somewhere.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20100.html](http://www.nuforc.org/webreports/reports/020/S20100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
