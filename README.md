@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:53 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pearsall (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange/Golden orbsWe were driving on the 35 south, near Pearsall, Texas, when we noticed orange/golden lights hovering in the sky, moving independently.  The lights formed a straight line then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145464.html](http://www.nuforc.org/webreports/reports/145/S145464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pomona (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large light that flashed and blinked outStrong light, white ' flashed straight downwards but not a beam.  Was approx 100 ft above trees and more than 1/4 mile distant.  About the size of a baseball at arm's length.  Light flashed strongly once and then blinked out.  Flash lit up trees and roofs of nearby houses.  No helicopter not airplane.  No sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126691.html](http://www.nuforc.org/webreports/reports/126/S126691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
