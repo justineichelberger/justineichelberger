@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in St. Louis Park (MN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Basketball size object,metallic,flying down street than into a park.At approx.10:30 pm(22/30) I was jogging down the street towards our local park when I noticed a basketball size,silver metallic ball fly by me.There was no sound.I was very shocked-scared, I watched it go up the street where a car was pulling out,he stopped,when he did this this object stoped to,circled the car then it started down the walking path where it hoverd slowly by a couple walking their dog,                                          IM a maint.sup. for a co. here in MN.The others I dont know,but I got the phone# of the couple and I know where the guy with the car lives and there were 3 others and the end of the park who seen this ufo,Im in the prosess of finding these individuals.one interesting thing is it stayed on the walking path????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06083.html](http://www.nuforc.org/webreports/reports/006/S06083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kittitas (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I was outside smoking, when I noticed flashing in the distance.  Grabbed my cell phone to zoom in on object.  I started recording the object. It would move in a circular motion.  Flash red,blue, white,green.  Resembled a fireball of energy bursting repeatedly.  Move across the sky in a unpredictable manner.  I was terrified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139350.html](http://www.nuforc.org/webreports/reports/139/S139350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
