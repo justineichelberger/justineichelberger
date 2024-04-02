@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:01 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:40 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a dark, silent, triangular aircraft crossing the Columbia River disappeared after watchhing it for 30 secondsCrossing the Columbia River between Oregon and Washington I spotted a triangular aircraft crossing the Columbia.  There was no sound.  I watched it for approx.  30 seconds and then it literally disappeared right before my eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75100.html](http://www.nuforc.org/webreports/reports/075/S75100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Franklin Square/Valley Stream Border (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights flashed to reveal a Larg Triangle ObjectLights flashed to illuminate part of a triangle shape, they were in square shape and appeared to be the flat underneath of the Triangle very large object lights appeared to be almost a glowing kind of neon or Hologram reflection metallic effect.  It as a low as a plane would fly but definitely not one!  I was heading South over the overpass of the Southern State and it was north of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80742.html](http://www.nuforc.org/webreports/reports/080/S80742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
