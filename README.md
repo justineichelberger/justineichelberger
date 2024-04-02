@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Haven (east rock area; facing W) (CT) reported seeing craft that fit the description of some 'Cross' over a period of approximately hour+ - hour+ minutes.</sub><blockquote><sub>looking due west from the east rock area on the 2nd floor, one could see a ovalish type group of very bright white lights coming from the ovalish object. that was when looking at it thru binoculars. before using binoculars the light pattern looked liked in a star shape. i got a few photos of it with a very inexpensive digital camera, you can see the lighted object's size as compared to a few stars in the sky. It's much much brighter and much larger than any stars. it was "hoovering" there for well over an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88178.html](http://www.nuforc.org/webreports/reports/088/S88178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Greenville (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Was walking dog, noticed in eastern sky 2 crescent shaped objects. flying side by side , with the right one slightly ahead.I was walking my dog at 10:50 p.m. The sky was clear and I was watching out for shooting stars when I notice coming from the east ( if I were to point at them,  my arm would be at a 45 degree angle...NOTE; the angles are given as if straight up is 0 degrees) two objects. These objects were crescent shaped with the horns toward the back. Both had a soft whitish glow to them, and both wavered or wrippled like reflections off of a pond .They crossed over me so that my head was at a 10 - 15 degree angle. The objects where silent and left no trails behind them, the top object was slightly ahead of the other. They would drift toward each other with the two inner crescent horns over lapping .They did this 3 to 4 times. The objects disappeared heading west. They faded from view at the same 45 degree angle as when they came into view. There was a jet ( I believe passenger) flying close by. To me the jet and objects appeared no more than 1 to 2 inches apart. The objects gave me the impression of being lower than the jet..though they did not pass between me and the jet. It was at this time that they faded from view. I am a 27 year old honor roll graduate of Greenville High School.  My hobbies include art, astronomy, biology, geology and many of the other sciences as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03434.html](http://www.nuforc.org/webreports/reports/003/S03434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
