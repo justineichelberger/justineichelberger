@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:57 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Circular multi-colored flashing light object flies erratically south to north near Sedona AZI went to bed about 12:30 am Saturday,  April 2, 2011, and was looking at the stars through our bedroom’s large plate glass window.  I that noticed one "star" seemed to be flashing and moving erratically.  I got up and got binoculars and viewed the object which appeared to be red, green, and white lights flashing in a circular pattern (unlike any aircraft I’m familiar with).  It was moving erratically from south to north, rising and dipping, and zigzagging left and right.  It seemed to be relatively high and briefly disappeared behind a mountain, only to reappear and ascend even higher in the sky as it moved farther north.  I observed it for about an hour and it was still very high in the sky when I stopped observing it.Regarding myself as the observer, I have never had another sighting. I have a post-graduate degree and am over 50 years of age.((NUFORC Note:  Witness elects to remain semi-anonymous; provides no contact information.  However, we believe that the report may have been submitted by a person who telephoned our Hotline.  I suspect that the witness was looking at either Sirius or Arcturus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80722.html](http://www.nuforc.org/webreports/reports/080/S80722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Woodside (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was standing on the platform of the 7 subway train in Woodside, NY (61st/Woodside stop).  I'm about 15 mins by subway from NYC.  The stop I was on happens to be outdoors, the 7 train is mostly an elevated train.I was looking from the subway platform on a beautiful sunnny day at all the different airplanes flying in, out, and around La Guardia Airport. Some airplanes were flying very high, others, mid altitude, others landing.  Suddenly I noticed a silver ball moving from what I thought was east to west and a steady speed and not higher than any of the airplanes flying.  My first reaction was, wow, a balloon, but then I noticed how the ball was extremely shiny, almost as it had it's own shine or the sun was shinning on a metallic object not a silver balloon.  Suddenly the ball came to a complete stop for about 3 secs and then started to go back to where it came from at a higher rate of speed than before.  That's when I realized this was quite unusual.  It was not an airplane, helicopter, or any aircraft I've ever seen.   As the UFO changed direction I jumped on the Manhattan bound train that had arrived at the station and continued to watch the ball until it was out of site from the train.This is the first time I see something as unusual as this.  Could a balloon change direction completely like that? the speed always seemed quite steady, almost as if something were pushing it, moving it a along.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69511.html](http://www.nuforc.org/webreports/reports/069/S69511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
