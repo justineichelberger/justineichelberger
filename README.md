@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kittitas (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I was outside smoking, when I noticed flashing in the distance.  Grabbed my cell phone to zoom in on object.  I started recording the object. It would move in a circular motion.  Flash red,blue, white,green.  Resembled a fireball of energy bursting repeatedly.  Move across the sky in a unpredictable manner.  I was terrified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139350.html](http://www.nuforc.org/webreports/reports/139/S139350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Smithville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Fast walker object blinks in and out over TexasI was sitting outside this evening when I suddenly watched I hoped was a meteorite streaking from the east to the west to my due south .... when I realized there was no vaper trail as it whizzed in and out of the broken clouds. It had a distinct tractory or path that isn't seen with any ball lightning phenomenon. I saw it blink in and out of sight three times before it zoomed out of sight. No sound was observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50348.html](http://www.nuforc.org/webreports/reports/050/S50348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
