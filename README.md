@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:01 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Cone' over a period of approximately  -  minutes.</sub><blockquote><sub>It was a crispy clear night, I took some pictures of the moon and I captured 3 huge objects of a similar shape flying in the sky.It was at the beginning of April, 2012 late at nigh, before midnight; I went in the balcony and I looked at the sky and there were some stars and was the crescent moon and 2 other stars which made a triangle with the moon. I took the camera (Sanyo digital) and took some pictures one after the other at short intervals. After few days I looked at the moon again and one of the stars of the forming triangle was in the opposite side of the moon and I took again just one picture.   After 2 weeks I downloaded the pictures on the computer and for my amazement one of the pictures reveled something incredible.In one of the set of pictures on the very first picture there are beautiful stars and at least 3 strange objects flying between the stars in the same direction, from East to West.  The stars appear very luminous but these objects have different luminosity and at the time I did not observe those objects with naked eyes on the sky or they were flying at a high speed and it was a momentum.  They appear in my picture of a dull luminosity, not with lights on but their shape is well bodied defined and they appear to be of different size but it could be because of the different distance they are flying, I can’t estimate; and if they are at a big distance it means that those objects are enormous, it is really spine-chilling.  I have seen pictures on YouTube and allover the internet of all kind of objects but nothing similar to these once in my picture.  Please, I would like to be contacted by an investigator.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88919.html](http://www.nuforc.org/webreports/reports/088/S88919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a dark, silent, triangular aircraft crossing the Columbia River disappeared after watchhing it for 30 secondsCrossing the Columbia River between Oregon and Washington I spotted a triangular aircraft crossing the Columbia.  There was no sound.  I watched it for approx.  30 seconds and then it literally disappeared right before my eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75100.html](http://www.nuforc.org/webreports/reports/075/S75100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
