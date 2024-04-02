@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two points of light blinking, changing color, and moving very unusually.I have been seeing lights in the direction of the AFB for quite some time, especially in the couple of hours just before dawn, but they seem to be more blatant and odd lately.  They appear as points of light that are either white, red, or green and they move rather strangely.  Sometimes there is only one light moving around but lately there have been two.  They move laterally, diagonally, and vertically.  The oddest part to me is that sometimes they appear to be shaky.  They show these little micro-movements that remind me of Somebody with a shaky hand holding a laser pointer.This night there were two lights vertically stacked on each other.  They would blink on and off and change color (white to red), and they seemed to be able to move both independently and in unison.  In addition to these lights that I normally see, two nights ago (4/7/18) in the same direction there was what appeared to be a normal aircraft, moving normally, with blinking white lights and a stable red light.  However, it would be ascending diagonally, get to the same point in the sky, and then disappear only to reappear where it began and follow the same trajectory again.  It did this cycle at least 3-4 times that I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139392.html](http://www.nuforc.org/webreports/reports/139/S139392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Blairs (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>3 Curves in it it was not round!!HI,about 5 mins. ago my father and I saw something strange and frightning.It took my breath away.My father was the first to see it.The object was flipping and turnning.Each time it turned it was silver and black.it looked like it had lights on it,flashing.  thanks for your time!!!!!((NUFORC Note:  Witness provides no other information about the alleged object.  We presume the date is in April, not March, as the witness indicates above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28296.html](http://www.nuforc.org/webreports/reports/028/S28296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
