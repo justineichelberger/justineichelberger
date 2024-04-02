@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue dot in sky ascends and descends quickly with a plane flying by a reference.Looking SE from my 3rd floor apartment patio, saw what I thought at first glance was the police helicopter circling something but when I looked back it had done this super fast circle and immediately dropped behind the tree/building line of sight.  Seconds later, it reappeared and achieved a very high altitude in seconds.  I recorded it on my phone and will be sending that footage to you guys as well. In the video, it appears as a blue dot and seems to hover for a bit then starts descending again as a passenger plane approaches. It lowers below the aircraft, hovers for a second, then continues its descent until out of view again. Shortly after a helicopter flew over the area as well as other lights that looked to be small aircraft or helicopters in the distance for about 10 minutes afterwards.I understand this could just be someone playing with a drone or whatever, but the altitude it appears to achieve and the speed it occurs at is something I've honestly never seen before.  Never seen a "drone" or anything like this flying in this area of Mesa/East Valley in my whole life.  Like I said, could possibly be explained or "debunked" but I felt strong enough about it to let you guys take a look.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133411.html](http://www.nuforc.org/webreports/reports/133/S133411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Franklin Square/Valley Stream Border (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights flashed to reveal a Larg Triangle ObjectLights flashed to illuminate part of a triangle shape, they were in square shape and appeared to be the flat underneath of the Triangle very large object lights appeared to be almost a glowing kind of neon or Hologram reflection metallic effect.  It as a low as a plane would fly but definitely not one!  I was heading South over the overpass of the Southern State and it was north of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80742.html](http://www.nuforc.org/webreports/reports/080/S80742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
