@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Flying object  spinning green and white flying south over Garden Grove.  Seen by my 11 year old daughter.My 11 year old daughter was in her room laying in bed not asleep yet.  Her room was dark and her blinds were open.  She had a full view of the night sky. Approximately 10:15 PM, she ran out of her room very scared and confused.  She said she felt and heard the vibration of strong energy or what felt like electricity  in her room.  Then she looked out her window and saw a round shape object spinning into a green and white colors.  She said the thing was flying south until she lost sight of it.  She then jumped out of bed and ran out of her room.  She came to me (mom) in a state of confusion and shocked looking pale and unable to talk  Until she calmed down she was then able to tell and describe what she saw.  This is her first sighting.  I believe she probabley was able to sense thier energy flying over our home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56077.html](http://www.nuforc.org/webreports/reports/056/S56077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle shaped object hovering in sky colors red, white, green and blue with a tail.  10 minutes hovered before moving slowlyOn patio of house, very clear night counted 6 stars in the sky one object in the sky.  Triangle shaped object with a tail turning various colors, red, white, blue and green.  Object just hovered in the sky for around 10 minutes and then slowly moved westbound towards the mountains.  It was not a helicopter or plane these objects cannot stand still in the air..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126696.html](http://www.nuforc.org/webreports/reports/126/S126696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
