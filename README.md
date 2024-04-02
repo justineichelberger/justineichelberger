@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Smithville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Fast walker object blinks in and out over TexasI was sitting outside this evening when I suddenly watched I hoped was a meteorite streaking from the east to the west to my due south .... when I realized there was no vaper trail as it whizzed in and out of the broken clouds. It had a distinct tractory or path that isn't seen with any ball lightning phenomenon. I saw it blink in and out of sight three times before it zoomed out of sight. No sound was observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50348.html](http://www.nuforc.org/webreports/reports/050/S50348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Flying object  spinning green and white flying south over Garden Grove.  Seen by my 11 year old daughter.My 11 year old daughter was in her room laying in bed not asleep yet.  Her room was dark and her blinds were open.  She had a full view of the night sky. Approximately 10:15 PM, she ran out of her room very scared and confused.  She said she felt and heard the vibration of strong energy or what felt like electricity  in her room.  Then she looked out her window and saw a round shape object spinning into a green and white colors.  She said the thing was flying south until she lost sight of it.  She then jumped out of bed and ran out of her room.  She came to me (mom) in a state of confusion and shocked looking pale and unable to talk  Until she calmed down she was then able to tell and describe what she saw.  This is her first sighting.  I believe she probabley was able to sense thier energy flying over our home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56077.html](http://www.nuforc.org/webreports/reports/056/S56077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
