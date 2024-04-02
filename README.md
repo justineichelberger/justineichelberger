@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:57 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Woodside (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was standing on the platform of the 7 subway train in Woodside, NY (61st/Woodside stop).  I'm about 15 mins by subway from NYC.  The stop I was on happens to be outdoors, the 7 train is mostly an elevated train.I was looking from the subway platform on a beautiful sunnny day at all the different airplanes flying in, out, and around La Guardia Airport. Some airplanes were flying very high, others, mid altitude, others landing.  Suddenly I noticed a silver ball moving from what I thought was east to west and a steady speed and not higher than any of the airplanes flying.  My first reaction was, wow, a balloon, but then I noticed how the ball was extremely shiny, almost as it had it's own shine or the sun was shinning on a metallic object not a silver balloon.  Suddenly the ball came to a complete stop for about 3 secs and then started to go back to where it came from at a higher rate of speed than before.  That's when I realized this was quite unusual.  It was not an airplane, helicopter, or any aircraft I've ever seen.   As the UFO changed direction I jumped on the Manhattan bound train that had arrived at the station and continued to watch the ball until it was out of site from the train.This is the first time I see something as unusual as this.  Could a balloon change direction completely like that? the speed always seemed quite steady, almost as if something were pushing it, moving it a along.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69511.html](http://www.nuforc.org/webreports/reports/069/S69511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>flasing red orb almost a deep redish purple kinda like the tail lamp on a police bike.  you can get the same effect by taking a clear christmas light and coloring it with a black sharpie pen.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50066.html](http://www.nuforc.org/webreports/reports/050/S50066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
