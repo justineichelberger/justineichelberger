@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rolling oval, tumbling through the sky. Every rotation, half of the object appeared to be extremely shiny and reflecting sun light. No noise, completely silent.My neighbor and I were standing in the driveway of my home in the Alaskan wilderness. We were looking a the sky, Northwest out over the Minto Flats. The oval object appeared to be at about 1000 feet off the ground. It was traveling from North to South then changed course to the Southwest. It was tumbling over itself, making a shiny area reflect the afternoon sun. The object moved silently through the sky and disappeared behind the trees. A small plane flew by about 10 minutes after this objects appearance at the same altitude. Just guessing about the size. It must have been as large a commercial airliner. We live 50 miles southwest of the flight path of the airport in Fairbanks and observe many planes daily. I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12519.html](http://www.nuforc.org/webreports/reports/012/S12519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue dot in sky ascends and descends quickly with a plane flying by a reference.Looking SE from my 3rd floor apartment patio, saw what I thought at first glance was the police helicopter circling something but when I looked back it had done this super fast circle and immediately dropped behind the tree/building line of sight.  Seconds later, it reappeared and achieved a very high altitude in seconds.  I recorded it on my phone and will be sending that footage to you guys as well. In the video, it appears as a blue dot and seems to hover for a bit then starts descending again as a passenger plane approaches. It lowers below the aircraft, hovers for a second, then continues its descent until out of view again. Shortly after a helicopter flew over the area as well as other lights that looked to be small aircraft or helicopters in the distance for about 10 minutes afterwards.I understand this could just be someone playing with a drone or whatever, but the altitude it appears to achieve and the speed it occurs at is something I've honestly never seen before.  Never seen a "drone" or anything like this flying in this area of Mesa/East Valley in my whole life.  Like I said, could possibly be explained or "debunked" but I felt strong enough about it to let you guys take a look.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133411.html](http://www.nuforc.org/webreports/reports/133/S133411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
