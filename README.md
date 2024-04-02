@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle shaped object hovering in sky colors red, white, green and blue with a tail.  10 minutes hovered before moving slowlyOn patio of house, very clear night counted 6 stars in the sky one object in the sky.  Triangle shaped object with a tail turning various colors, red, white, blue and green.  Object just hovered in the sky for around 10 minutes and then slowly moved westbound towards the mountains.  It was not a helicopter or plane these objects cannot stand still in the air..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126696.html](http://www.nuforc.org/webreports/reports/126/S126696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rolling oval, tumbling through the sky. Every rotation, half of the object appeared to be extremely shiny and reflecting sun light. No noise, completely silent.My neighbor and I were standing in the driveway of my home in the Alaskan wilderness. We were looking a the sky, Northwest out over the Minto Flats. The oval object appeared to be at about 1000 feet off the ground. It was traveling from North to South then changed course to the Southwest. It was tumbling over itself, making a shiny area reflect the afternoon sun. The object moved silently through the sky and disappeared behind the trees. A small plane flew by about 10 minutes after this objects appearance at the same altitude. Just guessing about the size. It must have been as large a commercial airliner. We live 50 miles southwest of the flight path of the airport in Fairbanks and observe many planes daily. I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12519.html](http://www.nuforc.org/webreports/reports/012/S12519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
