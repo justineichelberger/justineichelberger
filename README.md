@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Franklin Square/Valley Stream Border (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights flashed to reveal a Larg Triangle ObjectLights flashed to illuminate part of a triangle shape, they were in square shape and appeared to be the flat underneath of the Triangle very large object lights appeared to be almost a glowing kind of neon or Hologram reflection metallic effect.  It as a low as a plane would fly but definitely not one!  I was heading South over the overpass of the Southern State and it was north of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80742.html](http://www.nuforc.org/webreports/reports/080/S80742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Secunda (South Africa) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Ufo sightings in South Africa at Secunda (Sasol = South African Coal and Oil Industry)The ufo made a metal noise like a car wheel rim running on a tarmac together with the sound of a turbine engine. The bottom of the ufo was brightly lit-up with a white light. The ufo was about 10m from the ground level.The ufo was moving slowly with a wably effect.((NUFORC Note:  We would like to know more about the report, and would welcome reports from other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17258.html](http://www.nuforc.org/webreports/reports/017/S17258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
