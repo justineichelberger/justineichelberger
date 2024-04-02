@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 1 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Megargel (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Missing Time: 10 minutes erased from my lifeDuring the month of April 1994, a strange experience happened to me. I was driving back to Dallas to attend college after I had a visit with my mother in the small, west Texas town of Knox City, Texas. I was passing thru a small town called Megargel,Texas. As I was leaving the small town, I noticed a red truck pulling into a driveway at the edge of town. A few minutes later, out in the country, a strange haze was seen all around. It left just as quickly as it came.This is where it gets strange, I passed thru the town of Megargel again. When I reached the edge of town, I saw the same red truck pulling into the same driveway. I never turned around at any time. When I arrived at my apartment in Dallas, my watch and car clock were 10 minutes behind all the clocks in the apartment and everywhere for that matter. I lost 10 minutes somewhere.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20100.html](http://www.nuforc.org/webreports/reports/020/S20100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Cone' over a period of approximately  -  minutes.</sub><blockquote><sub>It was a crispy clear night, I took some pictures of the moon and I captured 3 huge objects of a similar shape flying in the sky.It was at the beginning of April, 2012 late at nigh, before midnight; I went in the balcony and I looked at the sky and there were some stars and was the crescent moon and 2 other stars which made a triangle with the moon. I took the camera (Sanyo digital) and took some pictures one after the other at short intervals. After few days I looked at the moon again and one of the stars of the forming triangle was in the opposite side of the moon and I took again just one picture.   After 2 weeks I downloaded the pictures on the computer and for my amazement one of the pictures reveled something incredible.In one of the set of pictures on the very first picture there are beautiful stars and at least 3 strange objects flying between the stars in the same direction, from East to West.  The stars appear very luminous but these objects have different luminosity and at the time I did not observe those objects with naked eyes on the sky or they were flying at a high speed and it was a momentum.  They appear in my picture of a dull luminosity, not with lights on but their shape is well bodied defined and they appear to be of different size but it could be because of the different distance they are flying, I can’t estimate; and if they are at a big distance it means that those objects are enormous, it is really spine-chilling.  I have seen pictures on YouTube and allover the internet of all kind of objects but nothing similar to these once in my picture.  Please, I would like to be contacted by an investigator.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88919.html](http://www.nuforc.org/webreports/reports/088/S88919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
