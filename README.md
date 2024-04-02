@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Blairs (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>3 Curves in it it was not round!!HI,about 5 mins. ago my father and I saw something strange and frightning.It took my breath away.My father was the first to see it.The object was flipping and turnning.Each time it turned it was silver and black.it looked like it had lights on it,flashing.  thanks for your time!!!!!((NUFORC Note:  Witness provides no other information about the alleged object.  We presume the date is in April, not March, as the witness indicates above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28296.html](http://www.nuforc.org/webreports/reports/028/S28296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large Orange ball apeared in sky above houses and trees, then slowly fell below tree line, mimicking a falling starIt was a mostly clear night with very little clouds or fog.  While locking my front door as I left my house, I quickly glanced up in the sky northward.  Above the trees and houses about 4-6 blocks north of my house, an orange ball of light appeared and then fell slowly, almost like a shooting star but without the tail.  The ball of light was much larger than any stars in the sky, had an amber color, and made no sound.  I realized the orange glowing ball wasn’t a shooting star, or plane, because the object fell below the tree lines and was much larger and brighter than any stars I have experienced previously.  I called my friend, and told her I saw something strange without giving her any details.  She told me she saw an orange ball of light too (She was 3-4 miles west) and explained exactly what I saw but from another angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108304.html](http://www.nuforc.org/webreports/reports/108/S108304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
