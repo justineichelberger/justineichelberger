@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:02 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tracy (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Looked like a green laser falling from the sky but not straight down perfectly. Did not look like a typical meteor.  Was more like a green laser light crashing down.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126702.html](http://www.nuforc.org/webreports/reports/126/S126702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Carrollton (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Last night I saw something unusual in the night sky, this was not natural by any means it  happened very quickly but I saw enough to know that I am convinced now that we are not  alone, I have always read about aliens and ufo's but I always was sort of skeptical about  the whole deal however I have now become a believer. This thing I saw in the sky looked like a star a very big star about the size of a small car it  and it had a silver glow about it appeared triangular with small silvery circles around it, it is  really hard to try and expain what I saw because even I cant explain it to myself, but it was  hovering for about a few minutes then it looked as though it lowered a bit then back up and  vanished. At the time I was sitting on my sofa watching a mvoie and I was sitting sideways infront of  my apartments 3rd floor balcony but for some reason I tured my head at that exact  moment and it was as if I was in a trance but I know it was not a trance it was shock or  something like that, because I could not believe what I was seeing, when I finally could  recollect myself I yelled, what was that? my fiancee who was sitting a little ways from the  balcony watching the movie also looked at me in wonder as to why I was shouting at 12:15  Am, knowing we had neighboors. I told him what I saw and that I was sorry for the neighboors for yelling out but that I had  never seen anything like that in my life and I admit I was a bit afraid at the time, still am a  little afraid but I know I need to share my encounter with as many people as possible, I will  defenitly never forget what I saw last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62490.html](http://www.nuforc.org/webreports/reports/062/S62490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
