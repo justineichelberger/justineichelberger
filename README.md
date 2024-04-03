@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Short bright blueish white hour glass shape light moving at high rate of speed upwardsDriving home from grocery store my wife, myself and her little brother saw a strange bluish white light in the shape of an hour glass.  Didn't think much of it at first because it was in the direction of the airport, but then noticed a distinct hour glass shape (did not look like a plane). Though maybe shooting star after that but only problem was it was moving up, not down, and at a very high rate of speed, faster than any plane ive seen and flight paths pass close to our house and never seen anything like this before. Lasted about 30-45 seconds when we turned the corner to our house we lost sight behind trees by the time we were able to see the area it was in.  Again, there was no trace of it anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108328.html](http://www.nuforc.org/webreports/reports/108/S108328.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lake Jackson/Brazoria/Richwd (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball fell from sky  near Richwood, Texas in the vicinity northeast of FM2004 and north of Hwy 288Travelling southbound on Hwy 288, just past the Brazoria County Airport exit, and before the FM 2004 crossing, a green circle appeared in the sky with a short tail travelling northwest towards the east, like a shooting star. It's speed was very fast, lasting about 3 seconds, and then the green fireball dissipated or landed in the Richwood area or the old HWY 288.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28304.html](http://www.nuforc.org/webreports/reports/028/S28304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
