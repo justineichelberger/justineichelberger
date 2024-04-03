@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Flickering lights in form of enormous triangle moved east to south to west, disappearing between appearances.About 10:30pm was driving south on I-17 from Sedona back home to Phoenix right around the New River area.  Saw a flickering light in the eastern sky, seemed to be possibly spinning.We pulled over near the Anthem area by the Daisy Mountain exit to watch.  Then it disappearred, then reappearred and saw a another straight ahead in southern sky, and another in western sky, seemed to shape a perfect gigantic triangle.  Disappearred again, then all were in the western sky and there was a 4th light between the top of the triangle and the bottom left.We watched until around 11:15pm then left to go home due to the late hour, so don't know how long it hung around or where else it may have moved to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80758.html](http://www.nuforc.org/webreports/reports/080/S80758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Suceava (Romania) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>the object is caught on digital camera .it is just a photografy and we got it on camera for an instant and next it disapears.The terain is at the city limits, forest area .The picture is very clear.((NUFORC Note:  Witness does not describe object.  We will encourage him to add to the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43379.html](http://www.nuforc.org/webreports/reports/043/S43379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
