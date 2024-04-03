@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kaysville (UT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fighter jet repeatedly flying low and fast over the city of Kaysville around 11:15 pm. Lots of noise, didn't bother my dog in the slightest.My dog started barking around 11:25 pm, so I went out back to see what was amiss, and an unlit aircraft the size of a car and about the same noise level as a small car flew over the neighboring house and out across the fields towards the Great Salt Lake.  It was at a height of about 50-60 feet above ground, moving at maybe 40mph.Hard to make out shape but it looked about like a sedan with arched wings of the middle of both sides.  It was visible and audible for about 30 seconds.  No lights whatsoever on the aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145481.html](http://www.nuforc.org/webreports/reports/145/S145481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pompano (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Stationary light in the sky over Pomano Beach, Florida.  Inland about 5-10 miles.  Lights look like 3 in sequence tight.  Thought was a star or landing plane.  Object hasn't moved at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118209.html](http://www.nuforc.org/webreports/reports/118/S118209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
