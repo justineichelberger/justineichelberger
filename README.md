@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:52 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Post Falls (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Round light with pulsating lights that changed from red to blue and back again. and also white light streaming off of it.On the evening of April 3rd, 2016, I glanced out the window and saw a stationary round light that had lights that seemed to be pulsating.  It also had a stream of light coming off of it that was white light.  Later, the stream of light did not appear to be there.  But was very evident when I saw it.  It did not move.  I studied it a bit but had to go in the house to attend to my client.  I am a care giver. I went back out at 8:25 pm, and it was still stationary, and still had the lights. Then I went back out five minutes later and it was gone.  I saw the red and blue lights that changed colors.  I thought because it was stationary that it was something unusual.  I did not hear any noise during any of this sighting.  I was really sure that with the lights that seemed to pulsate it was a good reason to report it.  All total it was in my sight approximately 12 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126712.html](http://www.nuforc.org/webreports/reports/126/S126712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>Oscillating craft with two parallel beams of lights that appeared to hover before gradually flying out of visual sight.I am a pilot myself and fly out of the KHGR Regional all the time and have never seen anything like what I saw this morning.  These flat units of light remained stationary, but appeared to be oscillating at a low speed.  The object disappeared out of my line of visual sight as I contacted tower off the runway regarding any weather balloons in local airspace, but that turned back negative.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126701.html](http://www.nuforc.org/webreports/reports/126/S126701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
