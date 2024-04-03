@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 2 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large Orange ball apeared in sky above houses and trees, then slowly fell below tree line, mimicking a falling starIt was a mostly clear night with very little clouds or fog.  While locking my front door as I left my house, I quickly glanced up in the sky northward.  Above the trees and houses about 4-6 blocks north of my house, an orange ball of light appeared and then fell slowly, almost like a shooting star but without the tail.  The ball of light was much larger than any stars in the sky, had an amber color, and made no sound.  I realized the orange glowing ball wasn’t a shooting star, or plane, because the object fell below the tree lines and was much larger and brighter than any stars I have experienced previously.  I called my friend, and told her I saw something strange without giving her any details.  She told me she saw an orange ball of light too (She was 3-4 miles west) and explained exactly what I saw but from another angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108304.html](http://www.nuforc.org/webreports/reports/108/S108304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Mudgee (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Probable abduction of child in 1993 - Strange craft which appears to be remotely pilotedIt happened at night in 1993, I was at my parent's friend's house. That house was always really strange, but I was young so I thought it was ghosts or something like that. But know that I have read about abductions, I know it wasn't ghosts. I was looking for my parents, and I realised that they must have gone out ito the yard.I walked into the kitchen, and saw that the wall in front of me was rippling like water after you drop a pebble into it. I watched this for about three seconds before the wall totally dematerialised. I walked into the room beyond the hole in the wall, and my mind seemed to slow down - everything slowed down, and the walls, the ceiling, the floor, every surface in the room was covered with wooden floorboards. There were absolutely NO shadows anywhere. In the middle of the room there was a floating 'Rectangular Prism' shaped craft with alien script scrolling down the walls on the inside. And there were plasma effects... gotta go((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28010.html](http://www.nuforc.org/webreports/reports/028/S28010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
