@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>Oscillating craft with two parallel beams of lights that appeared to hover before gradually flying out of visual sight.I am a pilot myself and fly out of the KHGR Regional all the time and have never seen anything like what I saw this morning.  These flat units of light remained stationary, but appeared to be oscillating at a low speed.  The object disappeared out of my line of visual sight as I contacted tower off the runway regarding any weather balloons in local airspace, but that turned back negative.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126701.html](http://www.nuforc.org/webreports/reports/126/S126701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Speedy orange oddly shaped ufo during twilightTuesday, April 3, 2018, 12:05 AM.  Twilight.  My fiancé were driving on a popular road in our city.  As we are driving we see an orange ball in the skies headed towards us.  Literally seconds later, the object is hovering above us at least 100 feet from landing.  It made no sound at all.  The object resembled like orange octopus shaped light with 3 legs/tentacles on each side up close.  Its motion and movements as it hovered were as graceful as a jellyfish.  Seconds later it ascends back into the sky flying in all sorts of spontaneous angles.  We follow it for a few seconds, and then poof like magic, it disappears into the night sky. Something I will never forget in life.  Amazing and chilling all in one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139384.html](http://www.nuforc.org/webreports/reports/139/S139384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
