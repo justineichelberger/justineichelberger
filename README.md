@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:55 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Jet-black, oval, fast, shiny, made sharp turns, Over Mccarran Airport/ Henderson.It was a black oval-shaped aircraft.  Nothing like I ever have seen before.  I first saw it while I was leaving Mccarran Airport; the aircraft was directly south of the airport, I think it might have been in the restricted airspace area.  At first, it was flying normally, except it wasn't in the shape of any aircraft I had ever seen.But about 15 seconds after that, it made a sharp 165 degree turn, speed up, and dissappeard into the south over Henderson and Black Mountain.  At my view, it was very shiny and jet-black.  Also, it turned, from my view, from the size of a penny to the size of a pen dot.  This was while it was speeding up and dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80744.html](http://www.nuforc.org/webreports/reports/080/S80744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Connersville (IN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Extremely Loud Rectangle UFO with White and Red Lights Flying really low.I heard a really loud sound. I thought it was a jet or helicopter but it kept getting louder.. so I look out the window (I was seriously thinking our house was about to get crashed into by a plane) and I seen something weird, really weird. It was a rectangle shape. It was really low. wasnt much above the tree tops.  It flew over the local hospital.  Had a white light at each corner a red light on both of the sides.  Before I could really even comprehend what I seen I noticed it was following two smaller white lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88196.html](http://www.nuforc.org/webreports/reports/088/S88196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
