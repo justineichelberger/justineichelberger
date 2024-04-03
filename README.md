@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Shiny black object that flew a little faster than an airplane, had a glow, and glided gracefully.Very black, no lights, no noise, glided a little faster than an airplane, seemed to be flying sideways, it would be round then flat, then round then flat again.  Had a glow around it, flew very low, about the size of a driveway.  Shiny black in color, no windows doors, or lights.((NUFORC Note:  Anonymous witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17124.html](http://www.nuforc.org/webreports/reports/017/S17124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Los Angeles (Highland Park) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dark spherical / ovoid object travelling east/north-east from east of my position, climbing steadily.Black/Dark circular object, apparently large but I can't say for sure.  It appeared east of my location, heading approximately east / north-east, climbing rather slowly, at about the speed of a small plane.  It appeared from behind some hills east of me (east of the 110 freeway - the hills appear to be part of Debs park, but didn't seem to be nearby.  Altitude unknown.  It was moving against the wind, holding a rather steady course.  Did not appear to be an airplane, rather had an ovoid / circular shape.  No visible lights, no "anomalous" manoeuvres.  There was complete silence - no sound of helicopters (frequent in these areas), or jets at high altitudes or small planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49948.html](http://www.nuforc.org/webreports/reports/049/S49948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
