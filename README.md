@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:47 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lake Jackson/Brazoria/Richwd (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball fell from sky  near Richwood, Texas in the vicinity northeast of FM2004 and north of Hwy 288Travelling southbound on Hwy 288, just past the Brazoria County Airport exit, and before the FM 2004 crossing, a green circle appeared in the sky with a short tail travelling northwest towards the east, like a shooting star. It's speed was very fast, lasting about 3 seconds, and then the green fireball dissipated or landed in the Richwood area or the old HWY 288.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28304.html](http://www.nuforc.org/webreports/reports/028/S28304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Shiny black object that flew a little faster than an airplane, had a glow, and glided gracefully.Very black, no lights, no noise, glided a little faster than an airplane, seemed to be flying sideways, it would be round then flat, then round then flat again.  Had a glow around it, flew very low, about the size of a driveway.  Shiny black in color, no windows doors, or lights.((NUFORC Note:  Anonymous witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17124.html](http://www.nuforc.org/webreports/reports/017/S17124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
