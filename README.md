@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Connersville (IN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Extremely Loud Rectangle UFO with White and Red Lights Flying really low.I heard a really loud sound. I thought it was a jet or helicopter but it kept getting louder.. so I look out the window (I was seriously thinking our house was about to get crashed into by a plane) and I seen something weird, really weird. It was a rectangle shape. It was really low. wasnt much above the tree tops.  It flew over the local hospital.  Had a white light at each corner a red light on both of the sides.  Before I could really even comprehend what I seen I noticed it was following two smaller white lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88196.html](http://www.nuforc.org/webreports/reports/088/S88196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ridgecrest (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed orange orb over a light pole across the street. Orb moved over a neighbors house.The kids and I saw a UFO tonight.Below is the report from my daughter:  Just got out of Jeep on curb, talked with name removed and turned around to see a bright orange light in the sky.  It was moving fast, looked to have been relatively low due to lack of light distortion.   from the west to an almost south-east heading, where it seemed to fade, either as it got farther, or dimmed.This is the other daughter's report:  I was outside with name removed when she told me that she saw something at around 9:35 tonight.  We had just gotten home from seeing name removed, and were about ready to walk in the doorway.  After she hollered for my attention, I noticed that there was an orange orb above our neighbors' house.  I ran in for my camera, got you, and began taking pictures.  And as we observed, it moved west with us and name removed following both name removed and I and we observed it until it was no longer in our sight.Here is what I saw:  An amber orange object hovering in the northeast sky.  The object was a solid orange seemed to have two points of light one above and below the object.  I think this could have been caused due to the brightness of the light as once the object started moving the point of light faded away.I observed object for about 1 minute before it started moving slowly in a northeast direction before fading from sight.NOTE:  I could not see individual lights on the object, but I could see them in the enclosed photo.  I have noted this in the characteristics section of this report.There were three witnesses to this sighting that occurred around 9:40 p.m.Camera:  Kodak Easy Share Z5010 was used to take the enclosed photo.  The image was cropped with Pixelmator. An uncropped image is available.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96973.html](http://www.nuforc.org/webreports/reports/096/S96973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
