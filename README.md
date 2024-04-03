@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pompano (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Stationary light in the sky over Pomano Beach, Florida.  Inland about 5-10 miles.  Lights look like 3 in sequence tight.  Thought was a star or landing plane.  Object hasn't moved at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118209.html](http://www.nuforc.org/webreports/reports/118/S118209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boulder Creek (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 objects nearly same time-A large rectangular object flashing and a glowing white sphereA older report, but had to report as it has been bugging me ever since, afraid to report at first.  I swear on all my grandparent's graves at what I saw.  May god strike me down if I am lying.I was walking southward that evening down my steps in my backyard, didn't see anything odd, but felt compelled to look up.  Right when I looked up, above me, saw a huge, giant glowing rectangle above me very high up, perhaps stratosphere, no clouds.  Hard to say how huge but, I think it was very, very high up, seemingly as high as the stars, but I think stratosphere.  Massive, at my sight, from my perspective, at it that high up it was 3 or 4in long and 2in tall.Object was itself bright and glowing, not sending light out, but itself only, no reflective light, as if it were some energy light.  It was 3/4 left side fluorescent white, glowing and fluorecent blue 1/4 on right side, perfectly, vertically seperated by a line of both colors glowing as one.  Hard to explain.  It flashed brightly, and disappeared, then in a fraction of a second before I could think about what I was seeing, it reappeared to the left, or south, about 6feet from my perspective, but obvioulsy quite a far distance that far up. I yelled to a friend to come out and see, I wanted to tell him to grab the camera, but didn't want him to miss it.In the interim, it flashed again, and again, reappeared to the left of it's position as it was moving southward.  Just before my friend arrived at the outside door, it then flashed again, dissapeared and then a giant sphere of fluoresecent white light, brighter than the moon (which I could not see that night, tall redwoods around me), brighter and bigger than anything I have ever seen, other than the moon, in the night sky appeared almost like a super nova, glowed brightly and then shot off like a bullet to the west, over Big Basin State Park, flying above hwy 236.  The rectangle had gone, it seemed as if it became the sphere after it flashed the third time.  My friend missed the whole thing, a very short period of time elapsed, but much happened.Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81270.html](http://www.nuforc.org/webreports/reports/081/S81270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
