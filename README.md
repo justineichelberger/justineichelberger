@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Speedy orange oddly shaped ufo during twilightTuesday, April 3, 2018, 12:05 AM.  Twilight.  My fiancé were driving on a popular road in our city.  As we are driving we see an orange ball in the skies headed towards us.  Literally seconds later, the object is hovering above us at least 100 feet from landing.  It made no sound at all.  The object resembled like orange octopus shaped light with 3 legs/tentacles on each side up close.  Its motion and movements as it hovered were as graceful as a jellyfish.  Seconds later it ascends back into the sky flying in all sorts of spontaneous angles.  We follow it for a few seconds, and then poof like magic, it disappears into the night sky. Something I will never forget in life.  Amazing and chilling all in one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139384.html](http://www.nuforc.org/webreports/reports/139/S139384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Short bright blueish white hour glass shape light moving at high rate of speed upwardsDriving home from grocery store my wife, myself and her little brother saw a strange bluish white light in the shape of an hour glass.  Didn't think much of it at first because it was in the direction of the airport, but then noticed a distinct hour glass shape (did not look like a plane). Though maybe shooting star after that but only problem was it was moving up, not down, and at a very high rate of speed, faster than any plane ive seen and flight paths pass close to our house and never seen anything like this before. Lasted about 30-45 seconds when we turned the corner to our house we lost sight behind trees by the time we were able to see the area it was in.  Again, there was no trace of it anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108328.html](http://www.nuforc.org/webreports/reports/108/S108328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
