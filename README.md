@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was at the corner of Allegheny and Kensington in Philadelphia waiting for the bus.  It was approximately 8 am on 4/3/17   It was a lovely morning and I was looking at the sky and clouds and saw a black object quite high.  I was facing north/northwest.  My first thought was that it was some debris floating on the air currents -  but it was not just floating along  - it was moving quite slowly from east to west.  The object was dark black, shaped like a wide diamond – or a square object on a corner.  It did not appear to reflect light – however I noticed a light that flashed about 4 times in the 10 minutes or so I was looking at it.   I asked a young woman , also waiting for the bus if she saw it – she said yes -  I asked her if it looked like a helicopter?  She said she didn’t think so.  I’m afraid I didn’t get her name, but if I see her again I will ask.  I did try to take some photos – but I don’t believe they show much since the object was so high up and I! ’d think, quite distant.  I can send them if it is requested</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133409.html](http://www.nuforc.org/webreports/reports/133/S133409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Flickering lights in form of enormous triangle moved east to south to west, disappearing between appearances.About 10:30pm was driving south on I-17 from Sedona back home to Phoenix right around the New River area.  Saw a flickering light in the eastern sky, seemed to be possibly spinning.We pulled over near the Anthem area by the Daisy Mountain exit to watch.  Then it disappearred, then reappearred and saw a another straight ahead in southern sky, and another in western sky, seemed to shape a perfect gigantic triangle.  Disappearred again, then all were in the western sky and there was a 4th light between the top of the triangle and the bottom left.We watched until around 11:15pm then left to go home due to the late hour, so don't know how long it hung around or where else it may have moved to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80758.html](http://www.nuforc.org/webreports/reports/080/S80758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
