@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:55 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Bend (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 34.0 - 34.0 minutes.</sub><blockquote><sub>Multiple crafts traveling at high speed and emitting flare-like blasts.My husband had stepped outside of our home at 9:44 pm on the evening of April 4, 2006.  It was a clear evening, no clouds or breeze and a cresent moon.  I was inside and heard what appeared to be a very loud engine noise.  My husband came in the house and told me to come outside.  A short distance off, in the southern sky, was a very large disc shaped figure with red, randomly blinking, lights.  It was enormous.  We watched as the object continued to fade in the distance.  A few moments later, it came streaking, at a very high speed, back in our direction.  This time the object was very high up.  It was very loud although it was traveling faster than sound.  The object passed overhead about 9 seconds prior to our hearing it.  There were huge intermittant bursts of flare-like (yellow-orange) releases in the sky both coming from the craft and sometimes in the sky where there didn't appear to be a craft.  When the sky lit up from these blasts, there was an aurora around the light.  Random "sparks" from the blasts reached the vacinity of our house.  It was similar to seeing the sparks from a professional fireworks display showering down, although it came from a very high altitude.  At one point in the eastern sky we witnessed two crafts, again, traveling at a very high speed.  Our teenage son had joined us outside and observed these events also. The clear sky quickly became cloudy with a light cover although the "clouds" weren't moving and there were no winds present at ground level.  We'll keep the video camera charged in the future.((ADDENDUM FROM WITNESS))I filed a report just moments ago.  I'm sorry, but I filled in the military time incorrectly.  It took place at 9:44 p.m.((END))((NUFORC Note:  We have altered the time above to 21:44 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49960.html](http://www.nuforc.org/webreports/reports/049/S49960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Jet-black, oval, fast, shiny, made sharp turns, Over Mccarran Airport/ Henderson.It was a black oval-shaped aircraft.  Nothing like I ever have seen before.  I first saw it while I was leaving Mccarran Airport; the aircraft was directly south of the airport, I think it might have been in the restricted airspace area.  At first, it was flying normally, except it wasn't in the shape of any aircraft I had ever seen.But about 15 seconds after that, it made a sharp 165 degree turn, speed up, and dissappeard into the south over Henderson and Black Mountain.  At my view, it was very shiny and jet-black.  Also, it turned, from my view, from the size of a penny to the size of a pen dot.  This was while it was speeding up and dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80744.html](http://www.nuforc.org/webreports/reports/080/S80744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
