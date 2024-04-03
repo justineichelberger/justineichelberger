@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Mudgee (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Probable abduction of child in 1993 - Strange craft which appears to be remotely pilotedIt happened at night in 1993, I was at my parent's friend's house. That house was always really strange, but I was young so I thought it was ghosts or something like that. But know that I have read about abductions, I know it wasn't ghosts. I was looking for my parents, and I realised that they must have gone out ito the yard.I walked into the kitchen, and saw that the wall in front of me was rippling like water after you drop a pebble into it. I watched this for about three seconds before the wall totally dematerialised. I walked into the room beyond the hole in the wall, and my mind seemed to slow down - everything slowed down, and the walls, the ceiling, the floor, every surface in the room was covered with wooden floorboards. There were absolutely NO shadows anywhere. In the middle of the room there was a floating 'Rectangular Prism' shaped craft with alien script scrolling down the walls on the inside. And there were plasma effects... gotta go((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28010.html](http://www.nuforc.org/webreports/reports/028/S28010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Teardrop shaped object (green base and trailing white light) drops from the night sky near Columbia Maryland.While returning from an evening out in Frederick, Maryland; at 2:06 AM, traveling on MD 32 East between Exit 18 and Exit 17, directly in our line of sight about 2-4 miles ahead of our vehicle.  We saw a single large teardrop object that was luminous green at the base and white light trailing it.  It seemed to drop out of the sky and disappear as it would have hit the ground.  There was no secondary flash or sound associated with this event.  MD 32 South turns to the right from where we saw the object drop and we looked at the area to see if there was any activity in the area, there was none.  There was no other traffic in the area when we saw the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126742.html](http://www.nuforc.org/webreports/reports/126/S126742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
