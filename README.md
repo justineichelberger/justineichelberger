@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:24 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:52 on 3 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Richton Park (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue outlined jellyfish-like craft, transparent center at first, then pulsing yellow, then pulsing purpleThe night before my 12th birthday in April 2007, I was having trouble sleeping.  I was young, excited about the following day's events.  Around 11 I finally drifted asleep, only to be woken up a few hours later by a bright, pale-blue glow coming through the blinds of the window beside my bed.  Being a child, I figured it was the blue sky of morning.  I stood and pulled my blinds up as I did every morning.  When I did I was greeted not by the sky I'd been expecting, but by the dark night sky.  I looked around for the source of the light, and not finding it, I went to get a glass of water.  I figured I'd imagined it. When I came back to bed the light was back, and this time I could see the source.  There was a large, saucer-shaped craft in the sky above the forest behind my house.  It looked almost transparent in the center, and glowed blue around the edges, looking almost jellyfish-like. I stared for a few minutes, stupefied.  As I watched, the center pulsed yellow and! came closer to my window.  I tapped the glass, I don't recall why, but when I did it pulsed purple very quickly five times and took off. I dove into my bed and tightened the covers around me, something about the craft filled my chest with cold fear((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76161.html](http://www.nuforc.org/webreports/reports/076/S76161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Post Falls (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Round light with pulsating lights that changed from red to blue and back again. and also white light streaming off of it.On the evening of April 3rd, 2016, I glanced out the window and saw a stationary round light that had lights that seemed to be pulsating.  It also had a stream of light coming off of it that was white light.  Later, the stream of light did not appear to be there.  But was very evident when I saw it.  It did not move.  I studied it a bit but had to go in the house to attend to my client.  I am a care giver. I went back out at 8:25 pm, and it was still stationary, and still had the lights. Then I went back out five minutes later and it was gone.  I saw the red and blue lights that changed colors.  I thought because it was stationary that it was something unusual.  I did not hear any noise during any of this sighting.  I was really sure that with the lights that seemed to pulsate it was a good reason to report it.  All total it was in my sight approximately 12 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126712.html](http://www.nuforc.org/webreports/reports/126/S126712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
