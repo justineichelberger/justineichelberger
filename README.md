@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Milton (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green Glowing Sphere of lightDriving home from work on the Highway 401 near Milton I saw a sphere of glowing green light travel down at a 45 degree angle and dissapear.  It was quite large in size and I am sure other motorists must have seen it. There were lots of stars in the sky and this was not anything like it.  I looked like a ball of energy.  Has anyone else seen this sort of thing.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49965.html](http://www.nuforc.org/webreports/reports/049/S49965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kihei (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White golf ball shaped object hurtling across a clear blue sky.Sitting in my Jacuzzi at 2 o’clock in the afternoon, staring  at a mostly clear sky, I see very clearly a white golf ball shape object hurtling across the sky.  I watch with a feeling of satisfaction as it disappears into the clouds forming above Mt. Haleakala (10,000 feet elevation) my first thought was perhaps a drone, but I do have a drone that flies 30 mph. This was very different.  I would estimate that at speed it would cover horizon to horizon In about one minute.  I was wearing my two week old polarized prescription sunglasses and saw very clearly a golf ball shaped object that was perhaps the size of a Volkswagen beetle about 1 to 2 miles up in the sky.  It was hurtling in a straight line with purpose.  I am a dedicated Skywatcher, and this is the fourth questionable object I have seen since 1976.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154810.html](http://www.nuforc.org/webreports/reports/154/S154810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
