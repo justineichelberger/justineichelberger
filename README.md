@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On my porch last night 04/04/2015 around 8:00 pm.  Myrtle Beach, looking at the full moon over the Ocean.  Then saw 2 fire red circular objects, about 300 yards apart in the sky moving very slowly, drifting, the front one then started to descend toward the water.  They both moved slowly, with no noise, in front of me over the Ocean from left to right or from North to South.  I lost sight of them when they passed behind a hi rise to my South. which blocked my view.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118250.html](http://www.nuforc.org/webreports/reports/118/S118250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Aandurah (Western Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>while driving to work i saw a bright orange object,perfectly round and giving off a strong orange glow.As i was driving to work on the 04/04/99 at 19.15 hrs i noticed a bright orange object moving from south to north-north west. I kept an eye on the object and as i was near my home i went back to tell my wife about it.The object was still very visible at that time so she came out along with our 3 children and observed it to.The object was intensely bright orange and gave off a sort of halo around it,it cruised at an even pace,and made no sound at all.There was no blinking lights nor anything else to indicate an aircraft.As it was dark at this time it looked very bright and im sure other people must have seen it.from our position it seemed to be heading north west.this lasted about ten minuits or so.at the end of the event it seemed to be going higher.I think the thing that struck me most was the brightness of it,and the steady pace it kept,not fast nor slow just even.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06085.html](http://www.nuforc.org/webreports/reports/006/S06085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
