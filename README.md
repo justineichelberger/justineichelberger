@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:35 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fletcher (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Myself and three of my children where walking to the driveway, when my oldest son which is 14 was like, “Mom, what’s that?”  I looked up as well as my other kids and there was this very bright green light flying across the sky.  This was no shooting star I have seen those before.  This was flying across the sky like a plane would but it wasn’t going that fast until we all looked at it, and then it shot off like a bullet across the sky.  We watched it until it went out of our view.  It gave us all goosebumps.  I couldn’t get to my phone fast enough to get a picture or video.  No one will ever believe us and what we saw or they will think we are crazy.  But what we saw was the craziest thing we have ever seen.  I hope it happens again where I can film it.  I went on YouTube and found videos of the same light being seen all over the world.  I didn’t see a shape to it.  Just a bright green light flying through the sky.  What in the world did we see?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145493.html](http://www.nuforc.org/webreports/reports/145/S145493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Madison (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Mirror like crescent that disappeared.My wife and I were in the car, stopped waiting to turn.  My wife saw a crescent shaped object in the sky to our southeast, above the tree line.  The sun was behind the trees.  She described the object as looking like light being reflected off a mirrored crescent with a smaller object attached on the bottom.  After a second or two, it disappeared suddenly.  The car was not moving during the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139371.html](http://www.nuforc.org/webreports/reports/139/S139371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
