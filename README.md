@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Lightning fast light shoots and disappears in Nashville sky.May have been a shooting star, but I don't know.  I haven't seen a shooting star since I was really young and my memory was them appearing much smaller and obvious that they were far away. Anyway, I was smoking a cigarette leaning against the trunk of my car in the parking lot of my apartment complex about 10 miles south of downtown Nashville, TN at about 4am.  I was sort of looking up and relaxing (getting my mind off my work, as I work from home on my computer.)  I noticed the normal few stars you can see here with the naked eye (nothing like you can in rural areas, like Vermont where I'm from.)  So I noticed the couple brighter ones, but not knowing much about them I can't tell you if the particularly bright one is Mars or the North Star or whatever. Anyway, I glanced down as I flicked ashes but at that moment a flash in my peripheral or something caused me to look up to my left...  But it was sort of in a way that you might look at a lower flying plane (we see them all the time because the airport is kind of close.  They aren't low enough to be really loud, just enough to spot their lights if you're out driving in the area, etc.)  Anyway, I sort of casually looked over.  And focused on a light which may or may not have been stationary when I first saw it (hard to remember this all happend in a matter of less than 5 seconds.)  Anyway, I realized in like a milisecond that it wasn't a plane because it was to far off, but at the same time didn't see to be "in space."  It was sort of like a star's light, only softer if that makes sense.  Anyway, by the time I focused on it it shot acrossed a good percentage of the sky ridiculously fast parallel to the ground (from my vantage point.)  It's still hard to picture it moving that fast again, but I do recall somewhat of a "streak."  Then all in those same couple seconds it disappeard.  But didn't fissle out, it looked as if it dissappeard behind a wall.  I also don't know if it was my imagination but the light seemd to be almost a soft white/blue color.  Not where you'd be like "wow that's flourescent blue", but I think you know what I mean. Anyway, my thought was, for it to have moved acrossed that much sky, as far out as space, it would have to have been moving ridiculously fast.  Obviously the closer an object would be, it move acrossed a "chunk" of sky more quickly.  Not sure which scientific law that is, but it's common sense anyway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43365.html](http://www.nuforc.org/webreports/reports/043/S43365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clearlake (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright white light moving in a straight line light did not blink.((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56089.html](http://www.nuforc.org/webreports/reports/056/S56089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
