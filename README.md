@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Reading (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Five glowing orange balls crossed from west to east approx one min apart all going at the same speed same hight and same flight path in reading england,some said they could be chinese lanterns but im not so sure,just thought i should say anyway,very strange whatever they were,just thought you should know,thanks.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69596.html](http://www.nuforc.org/webreports/reports/069/S69596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Welch (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange/red lighted silent object moving through the skyAround 8:30pm, in the SW sky, an orange/red light approached like an aircraft but it did not have typical airplane lighting. It was rising in the sky but proceeding at the speed of a helicopter. I assumed it was a medical helicopter because it was relatively low as it approached and it was moving slower than a jet. So I opened the window to listen for the motor but it was silent. So I went outside with binoculars (one of my family members came with me so we could both try to figure out what it was and why it made no noise). It seemed to turn upward since the orange light started to fade away. But in fact, the lights just seemed to turn off, or it was ascending vertically, because then it just appeared as a black object in the sky. When I took the binocs down to try to sight it in the sky, I lost it. It was in my view for about 3-4 minutes.It approached from the direction of Cannon Falls and Northfield and was heading northeast toward Welch when it disappeared. Latitude: 44.588060 Longitude: -92.726870</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154796.html](http://www.nuforc.org/webreports/reports/154/S154796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
