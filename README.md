@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:01 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Ufo turns on 4 other lights above Vero Beach, Florida.We have been watching the strange light that has been in the same area of the sky for the last 12 hours.  This morning just after 7 am I decided to take a video of it with my cell phone.  The object was very bright despite the fact that the sun was up so I decided to get my zoom camera.  While recording a video with my zoom camera, the object turned on several other lights, or other objects appeared in a straight line formation.  I became nervous and the smaller lights disappeared.  I tried to calm down and zoomed in and out a few times and the lights appeared again after I asked it what happened to the lights, did they turn them off.  Video was taken at 7:15 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145483.html](http://www.nuforc.org/webreports/reports/145/S145483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Milton (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green Glowing Sphere of lightDriving home from work on the Highway 401 near Milton I saw a sphere of glowing green light travel down at a 45 degree angle and dissapear.  It was quite large in size and I am sure other motorists must have seen it. There were lots of stars in the sky and this was not anything like it.  I looked like a ball of energy.  Has anyone else seen this sort of thing.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49965.html](http://www.nuforc.org/webreports/reports/049/S49965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
