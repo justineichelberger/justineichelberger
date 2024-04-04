@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellsworth (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Circular object with blue/subtle red lights blinking sat in one spot for half hour.It was circular and had blue and subtle red lights blinking and looked like it had a vague white light coming from the bottom not very noticeable..  I watched this for a half an hour realizing it was not moving there was not way it could be a plane, planes dont just stay in one spot.  I took video of it also..i looked down to find my phone charger when i looked back up it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118238.html](http://www.nuforc.org/webreports/reports/118/S118238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On my porch last night 04/04/2015 around 8:00 pm.  Myrtle Beach, looking at the full moon over the Ocean.  Then saw 2 fire red circular objects, about 300 yards apart in the sky moving very slowly, drifting, the front one then started to descend toward the water.  They both moved slowly, with no noise, in front of me over the Ocean from left to right or from North to South.  I lost sight of them when they passed behind a hi rise to my South. which blocked my view.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118250.html](http://www.nuforc.org/webreports/reports/118/S118250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
