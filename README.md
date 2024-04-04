@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:40 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in London (just west of) (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A blue sphere crashes towards the earth, illuminating the sky in a glowing blue light.As I was driving eastbound on the 401 towards London, a blue sphere appeared in the sky out of nowhere and accelerated towards the ground behind the treeline.  There was a visble blue streak which tailed the sphere.  Following this, the area of the sky where the object 'crashed' towards was illuminated in a blue light for a good 2-3 seconds.  It could very well have been some type of meteor, but the fact that there was this blue light associated with the object and the illumination of the sky made the event quite strange.  Please keep in mind, though, that this event occured during a barrage of freezing rain, which hampered visibility.  I seem to only remember two or three other cars on the road at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28350.html](http://www.nuforc.org/webreports/reports/028/S28350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Norwalk (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was just sitting over a house with yellow red blue green flashing lights all going different speeds we stopped and watched for about 15 seconds then it slowly started to move away and we started moving and it stopped again we turned around to see if it was still there and it was gone we drive around town and found nothing. Still in shock!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88191.html](http://www.nuforc.org/webreports/reports/088/S88191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
