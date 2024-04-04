@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Akron (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright white to reddish orange in the sky looked like a shooting star, until it stopped in mid air.While I was driving to work I noticed what appeared to be a shooting star. A stream of light was trailing behind as normal with shooting stars. I then noticed it stopped in midair and hovered for about two seconds, then the object took a sudden left turn and continued to hover statinary. Object eventually went out of sight. The colorazation was a white to red orange hugh. I have worked around airplanes for many years and have never seen any aircraft act like that. I hope Im not the only one who saw this very amazing! Also looked like it had a red beacon but did not blink.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49957.html](http://www.nuforc.org/webreports/reports/049/S49957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fletcher (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Myself and three of my children where walking to the driveway, when my oldest son which is 14 was like, “Mom, what’s that?”  I looked up as well as my other kids and there was this very bright green light flying across the sky.  This was no shooting star I have seen those before.  This was flying across the sky like a plane would but it wasn’t going that fast until we all looked at it, and then it shot off like a bullet across the sky.  We watched it until it went out of our view.  It gave us all goosebumps.  I couldn’t get to my phone fast enough to get a picture or video.  No one will ever believe us and what we saw or they will think we are crazy.  But what we saw was the craziest thing we have ever seen.  I hope it happens again where I can film it.  I went on YouTube and found videos of the same light being seen all over the world.  I didn’t see a shape to it.  Just a bright green light flying through the sky.  What in the world did we see?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145493.html](http://www.nuforc.org/webreports/reports/145/S145493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
