@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Aandurah (Western Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>while driving to work i saw a bright orange object,perfectly round and giving off a strong orange glow.As i was driving to work on the 04/04/99 at 19.15 hrs i noticed a bright orange object moving from south to north-north west. I kept an eye on the object and as i was near my home i went back to tell my wife about it.The object was still very visible at that time so she came out along with our 3 children and observed it to.The object was intensely bright orange and gave off a sort of halo around it,it cruised at an even pace,and made no sound at all.There was no blinking lights nor anything else to indicate an aircraft.As it was dark at this time it looked very bright and im sure other people must have seen it.from our position it seemed to be heading north west.this lasted about ten minuits or so.at the end of the event it seemed to be going higher.I think the thing that struck me most was the brightness of it,and the steady pace it kept,not fast nor slow just even.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06085.html](http://www.nuforc.org/webreports/reports/006/S06085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately a while - a while minutes.</sub><blockquote><sub>If you saw the triangle I have described. It would be very wise to search your memories.a huge triangle caft was seen twice. in 1979 and about 1995. it was reported the second time on a local cable show. when i was 7 or 8 (the first time) it made no sound. had no lights. it flew low slow and appeard to be the length of the empire state building (a very tall building) and equally as wide.   i saw the craft coming from the north. I saw it for only about 1 minute. (i later rememberd) i was taken up to the ship via some sort of transport device. the inhabitants were human looking. I was givin a non invasive medical exam. i remember laughing. i was then lead to a huge room where many children were. i was hooked up to a machine that lookied kinda like a large virtual reality machine. it came on and there were pictures, diagrams, equations, and many other things flashing at a high rate of speed. i have been able to recover some important info. like how the two and only two types of space vehicles work. there is alot more info. it only becomes available when something trigers it. i believe there is a process of education occuring.((NUFORC Note:  Date of alleged incident may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48194.html](http://www.nuforc.org/webreports/reports/048/S48194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
