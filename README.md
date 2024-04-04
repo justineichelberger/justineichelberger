@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 4 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kihei (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White golf ball shaped object hurtling across a clear blue sky.Sitting in my Jacuzzi at 2 o’clock in the afternoon, staring  at a mostly clear sky, I see very clearly a white golf ball shape object hurtling across the sky.  I watch with a feeling of satisfaction as it disappears into the clouds forming above Mt. Haleakala (10,000 feet elevation) my first thought was perhaps a drone, but I do have a drone that flies 30 mph. This was very different.  I would estimate that at speed it would cover horizon to horizon In about one minute.  I was wearing my two week old polarized prescription sunglasses and saw very clearly a golf ball shaped object that was perhaps the size of a Volkswagen beetle about 1 to 2 miles up in the sky.  It was hurtling in a straight line with purpose.  I am a dedicated Skywatcher, and this is the fourth questionable object I have seen since 1976.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154810.html](http://www.nuforc.org/webreports/reports/154/S154810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Brodnax (VA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multicolored color diamond shaped oject in northern sky in southern Virginia!Tonight, at approximately 20:55 pm, I observed in the northern sky a multicolored., blue, red and yellow to be exact!  Diamond shaped object with the lights revolving in the center of it just sitting there above the trees north of my place!  I could not hear any noise in the sky, and I went and grabbed my binoculars to look closer!  When I looked at it, I saw what appeared to be a smaller white object move across and around it from the left to right side.  Then at that time it started moving towards the left, slowly getting faster as I kept looking and following it in the binoculars!  I got a good look at it and seemed to no I was watching it because the longer I kept watching, the faster it moved out of my view!  In my best estimate of size based on viewing with and without binoculars, it was the size of a one of those big red farm barns is all I can think in size to compare!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133430.html](http://www.nuforc.org/webreports/reports/133/S133430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
