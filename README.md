@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Monmouth Beach (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Many strange red lights over Monmouth BeachSometime in early April, three of my friends and I were sitting on the beach around 8 pm when we noticed about 10 different strange lights that pulsated red and white, but not in any kind of sequence.They were out on the horizon and would all of a sudden flair up and become extremely bright, then slowly fade away, but not all at the same time, it was completely random. They would move left or right and sometimes drop altitude then ascend again, then hover in one position and fade out, then flair up again, and it started the sequence all over again.They looked like they would sometimes form a pattern. For example, two of the lights got into a straight line, but with some distance between them. Then they both moved away from each other, and then eventually faded away. Many of them did this randomly all around us, but mostly just in pairs. We saw a few of them seem like it dropped another light (aircraft) from under it. Also, we saw many planes fly over us so we were able to compare the lights and you could clearly tell that the lights weren’t any type of plane.This kept happening around us for about an hour then it seemed like all of a sudden they all disappeared. None of us can explain what we saw that night. I know what we saw wasn’t anything that I’ve seen on Earth, from any kind of vehicle.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69675.html](http://www.nuforc.org/webreports/reports/069/S69675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middleburg (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4-5 orange glowing lights, bright then dim then bright then disappeared behind trees.We were driving and I seen bright orange lights throught the trees, so we pulled over to watch, only noticed one at first , Then 3-4 rose above the tree line and then went straight down and disappeared, Didn't see the glow from them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108369.html](http://www.nuforc.org/webreports/reports/108/S108369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
