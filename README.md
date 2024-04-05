@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:47 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middleburg (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4-5 orange glowing lights, bright then dim then bright then disappeared behind trees.We were driving and I seen bright orange lights throught the trees, so we pulled over to watch, only noticed one at first , Then 3-4 rose above the tree line and then went straight down and disappeared, Didn't see the glow from them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108369.html](http://www.nuforc.org/webreports/reports/108/S108369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Covina (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Star like Orbs, seen during the dayWas outside taking out the trash and saw a tiny white "star" orb flying up.   As I tracked it up there was a bigger "Star" orb.  It was just hovering there as 3 smaller Orbs would fly in formation then split up do aerial acrobats.  The larger orb would start dimming the glow very bright in a rhythmic way.  Almost seemed like the 3 smaller orbs would orbit around the big, kind of like a mother ship or something.  They were all moving from the south west to the North east towards the San Gabriel Mountains.  Just didnt seem like anything man made, and the smaller orbs moving in uniform, doing 90 degree turns and almost appearing to stop on a dime.   Very fascinating.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81596.html](http://www.nuforc.org/webreports/reports/081/S81596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
