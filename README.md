@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Sighted over Cooks Hill Road and Joppish Road just west of I-5. Dusk clear sky. Large fireball long tail red flame with yellow and blue hues. Traveling east to west. Appeared low in the sky. just vanished into air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49980.html](http://www.nuforc.org/webreports/reports/049/S49980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Trevor (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Invsible object casts large fast moving shadow on groundIndependently and a different times my daughter and I observed a large fast moving shadow on the ground.  The shadow was larger than an average single family home and had a defined shape yet the sky was clear and no airplanes were present.((NUFORC Note:  We have received a number of reports like this one of shadows passing seemingly silently over the ground, with no apparent cause for the shadow from above.  We have invited the witness to keep track of the dates of the events, and submit reports for any future occurrences.  PD))((FOLLOW-UP COMMUNICATION FROM WITNESS))Peter,I did not record the exact day and time. The shadows were seen between April and June 2003 in the front of my house.After seeing the shadow on the ground I would immediately look up at the appropriate angle based upon the position of the sun. There was no object in the sky where one would expect based upon the position of the shadow and the sun. As I stated there was nothing in the sky on the occasions I witnessed the shadow. I kept quiet about it until my daughter (age nine) described the funny shadow to me that she had seen on a sunny day with no clouds. At that point I knew I was not just seeing things. It is rare to have completely clear days in Wisconsin. Many things crossed my mind in regard to the source of the shadow. At first I suspected it wa s perhaps a sattelite; however the size, the fact that it did not move in a straight line, and that it would have to pass in front of the sun, made this questionable to me. I decided to type in some key words in GOOGLE to see if I could find a reasonable explanation and your site came up.If I see it again I will record the day and time and provide you the information.((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29823.html](http://www.nuforc.org/webreports/reports/029/S29823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
