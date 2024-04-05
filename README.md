@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:53 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Fairhope (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : Man walking dog sees tire-shaped object w/windows. No sound, no animal reaction.1997 040X 1400 D Fairhope, AL, US FINAL REPORT The following was obtained by telephone interview with the witness on April 21, 1997. The sighting took place on or about April 5, 1997 in Fairhope, Alabama (Baldwin County) at 2:00 pm (central time). The witness reported this sighting to the Fairhope Courier and to Clompton Jones of MUFON. The details reported to those sources varies from those reported to this writer. This investigator cannot account for those variances. The witness stated he was walking his dog on the streets of Fairhope on a Saturday afternoon, although the witness, when pressed, could not remember the exact date. He believes April 5 to be the approximate date. The witness reported the weather as "sunny and clear," with a breeze. The witness stated he was walking west toward Mobile Bay. As he was about to cross the street, the witness observed the object west of his position (in front of the witness), at an elevation of approximately 30 . The object was reported to be "the length of the Fairhope pier" from the witness, and was drifting very slowly to the north. After viewing the object for 30 seconds to one minute, the object continued to move north and disappeared behind foliage. No sound was reported. There was no reaction from his dog. The object was described as "generally tire-shaped," round, light greyish-beige in color, with a row of 8 to 10 square black windows with a blue frame around them. The apparent size of the object was reported to be the same as an object one inch long held at arm's length. No other external details, appendages, etc. were reported. This case was initially investigated by Ross VonVolkenburg (MUFON). Duncan Crow obtained a telephone interview with the witness and submitted this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02554.html](http://www.nuforc.org/webreports/reports/002/S02554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Sighted over Cooks Hill Road and Joppish Road just west of I-5. Dusk clear sky. Large fireball long tail red flame with yellow and blue hues. Traveling east to west. Appeared low in the sky. just vanished into air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49980.html](http://www.nuforc.org/webreports/reports/049/S49980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
