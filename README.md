@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:53 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:54 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Sighted over Cooks Hill Road and Joppish Road just west of I-5. Dusk clear sky. Large fireball long tail red flame with yellow and blue hues. Traveling east to west. Appeared low in the sky. just vanished into air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49980.html](http://www.nuforc.org/webreports/reports/049/S49980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Extemely large "flying wing" hovering above a shopping center in Albuquerque NM then left southbound at slow speeds.It was about 22:00 possibly 22:45  somewhere in that time frame.  I was outside standing on my 2cnd floor apartment balcony smoke a ciggarete.  When an Extremely large craft no more then 1000 ft away from me flew over a shopping center at around an altitude of about 600+ ft.  I must have watched it sit there and hover for a good 15 minutes give or take a few minutes.  imagine a b2 stealth bomber, aka flying wing.  this thing had to be about 3 or 4 times larger than that, and the thing that confused the most, is no noise, none what so ever.  The only way I could tell that it was the same shape as the B2 stealth bomber, was due to the reflection of the light on the bottom of the craft.  as before it hoverd for about 15 minutes over a shopping center then it left southbound at a slow rate of speed and again very quiet.  I know no information about this type of aircraft that the military would be working on. Or anything civilian at that fact.  My video camera at the time worked perfectly.  I had a full battery at the time, and when i went to record it, the video camera would not turn on.  I tried to call neighbor at the time, and phone lost all cell phone signal.  Any help on figuring it out would be helpfull.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34825.html](http://www.nuforc.org/webreports/reports/034/S34825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
