@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middleburg (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4-5 orange glowing lights, bright then dim then bright then disappeared behind trees.We were driving and I seen bright orange lights throught the trees, so we pulled over to watch, only noticed one at first , Then 3-4 rose above the tree line and then went straight down and disappeared, Didn't see the glow from them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108369.html](http://www.nuforc.org/webreports/reports/108/S108369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dundee (UK/Scotland) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My friend and i saw an egg shaped craft in the sky which we shot at and it disappeared.I was walking down strathmartine road, with my mate.  I was going to me my girlfriend, when my mate spotted something in the sky.  it was quite small in size, but it was far away.  It was coming towards us, then i realized it was a silver egg shaped craft, about 20ft long.  My mate ran into my girlfriends house and brought out her brothers pellet gun and shot at the craft.  Suddenly it turned towards us and flew right over our heads.  A long silver trail appeared from where the object had stopped.  Then it disappeared so fast we didnt have time to see where it went.((NUFORC Note:  The report is submitted by a student.  We strongly recommend that people do not shoot at UFO's, either real, or alleged.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28673.html](http://www.nuforc.org/webreports/reports/028/S28673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
