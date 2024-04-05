@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Crescenta (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A small vertical cylinder hovered me for over 4 minutesI saw a small elongated cylinder hovering vertical, and slightly north up to an altitude of 1,200 feet, hovered for over 4 minutes.  The UFO had a long center that was pulsating bright luminous and sometimes red as the top and bottom were dark shadows.  I took a 38 minute video of this UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108357.html](http://www.nuforc.org/webreports/reports/108/S108357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Sighted over Cooks Hill Road and Joppish Road just west of I-5. Dusk clear sky. Large fireball long tail red flame with yellow and blue hues. Traveling east to west. Appeared low in the sky. just vanished into air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49980.html](http://www.nuforc.org/webreports/reports/049/S49980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
