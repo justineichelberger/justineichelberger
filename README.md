@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:43 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Boscawen (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 large silver disksWatched 6 silver disks travel north along the Merrimack River, then go straight up into the clouds vertically. The disks then started to come back out of the clouds randomly until all six were visible. The speed they were moving was amazing.  This was a very troubling event as there was no question what I was seeing.  They were probably one mile from where I was and very large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108368.html](http://www.nuforc.org/webreports/reports/108/S108368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middleburg (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4-5 orange glowing lights, bright then dim then bright then disappeared behind trees.We were driving and I seen bright orange lights throught the trees, so we pulled over to watch, only noticed one at first , Then 3-4 rose above the tree line and then went straight down and disappeared, Didn't see the glow from them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108369.html](http://www.nuforc.org/webreports/reports/108/S108369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
