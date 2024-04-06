@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Huatulco (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A moving light that resembled a star but moved in a crazy, erratic fashion and then zipped away and disappearedI was on a beach in Huatulco, Mexico in the state of Oaxaca at approx 2am in the night with one other person.  I was talking when I noticed a light, a star like light that was moving among the stars but was acting erratically, moving in all directions and changing it's direction instantly.  We were talking about it and watching it for approx 5 min when it suddenly zipped away at a super fast rate and disappeared.  The light looked like a star but moved about the sky as described.  I went to a UFO meeting in Austin, Texas and told my story.  I was told that it was a common sighting for UFO's.  While in Sedona Arizona I found a photo by ((name and company deleted)) that looked very similar to what I saw that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68707.html](http://www.nuforc.org/webreports/reports/068/S68707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>UNBELIEVEABLE SPEEDCRAFT CAME FROM WEST TO EAST, I WAS SETTING ON MY PORCH HAVING A CIGERETTE AND I SAW IN SKY A VERY BRIGHT LIGHT TRAVELING AT A VERY GREAT SPEED FLYING FAIRLY LOW AND AT ITS EXIT IT DISAPPEARED INTO THE SKY ABOUT 6 SECONDS.UN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88274.html](http://www.nuforc.org/webreports/reports/088/S88274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
