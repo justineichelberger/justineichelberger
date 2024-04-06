@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Strange parallel, stationary, lights over Los Angeles.Three parallel whitish orange streaks of light are currently hanging over southwest Los Angeles.They have been there for at least fifteen minutes.  They do not move.  They are not contrails.They are not Kleig lights.  They are not skywriting.  My 10X binoculars cannot discern any aircraft at the head of the lights.Space laser test?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145518.html](http://www.nuforc.org/webreports/reports/145/S145518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Chittenango (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Thursday Evening - Thursday Evening minutes.</sub><blockquote><sub>Red lights glaring over the sky of Town of Sullivan, Madison County, NYMy mother and my brother went to pick me up at this school for the Deaf Thursday April 6, 1978.  I was living in the dormitory during the week.  The reason my mother picked me up on Thursday that evening was because we had a flight to go to Daytona, Florida for a family vacation.As usual when she can pick me up, she drive on back roads instead of the NY State Thruway (1-90), I recalled very clearly we were on Route 5. I was 13 and half years old.  On the way home to Fayetteville, NY where we lived, we were approaching Town of Sullivan, NY, I saw what appeared to be a UFO.  I looked up and saw two fireballs still in the sky over this hill and it was not blinking at all.  Aircrafts usually do and high communication towers do blink as well.  I saw was one fireball appeared higher than the other fireball as my mother was driving by.  She could not see that UFO long enough to know since she was focus on driving on the road.  I was sitting up front as my brother was sitting in the back.  He saw it but ignored it.Often we drove by this area many times and at the time there were no towers.  The next time we went by, I saw no towers at the time.This event occurred around 20:00 hours since it was already dark out and I know I had my dinner at the Deaf school.  At first, I thought people would doubt me when I tell them about the UFOs I saw.  I was wrong since my family and friends told me the next day that in the local newspapers that they reported a UFO.  That UFO in the newspapers was NOT the same UFO I saw.  Their UFO that was in the newspapers was a halo.  It appeared above the other side of the City of Syracuse in the vicinity of Near West Side area.  Town of Sullivan is way out pass Eastern part of Onondaga County.  Town of Sullivan is in Madison County.  That would be about 30 minutes drive apart or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62462.html](http://www.nuforc.org/webreports/reports/062/S62462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
