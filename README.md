@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This light I'm seeing appears to be moving in a short distance back and forth.At 11:29 pm est, I noticed what appeared to be a bright star.  After focusing on it while lying in bed I noticed it changer colors, mostly white and changed to red several times.  Also, it was moving back and fourth also up and down but in no paticular pattern.  It's moved angled up and down also side to side.  Also the object is flickering.  I used a compass and it is roughly 60 to 63 degrees NE.  I am currently monitoring it now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118827.html](http://www.nuforc.org/webreports/reports/118/S118827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Osceola (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>it was a flying disk it was tracking us the chararistic of the disk dont aply  it followed usi was 10 years old me and my dads friend were traveling down us high way 34 going back to murray iowa it was a bout 8 oclock pm i looked uot the car widow at the stars thats when i noticed the disk it was about 4 or 5 feet in diamiter i asked my dads friend what is that he didnt notice it at first when he did i asked him whats that he ssaid i dont no it folowed us about 15 feet above the car i donr remeber how long but when we got to the house we told my mom and dad and my dads friend wife they started laughing at us and said we wrer crazy my dads friend told me to for get about it so i did i was on the internet the other day reading about ufos that when the memery of this came back to me((NUFORC Note:  Source of report provides flawed contact information.  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73444.html](http://www.nuforc.org/webreports/reports/073/S73444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
