@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>UNBELIEVEABLE SPEEDCRAFT CAME FROM WEST TO EAST, I WAS SETTING ON MY PORCH HAVING A CIGERETTE AND I SAW IN SKY A VERY BRIGHT LIGHT TRAVELING AT A VERY GREAT SPEED FLYING FAIRLY LOW AND AT ITS EXIT IT DISAPPEARED INTO THE SKY ABOUT 6 SECONDS.UN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88274.html](http://www.nuforc.org/webreports/reports/088/S88274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Four red/orange lights in cross formation hovering in sky, then disappear into thin air.We were driving home with the kids and noticed four red/orange lights in the sky.  They caught my attention as they were in an almost cross formation or a "T".  We pulled over to get a better look, and to listen.  We assumed they were helicopters. No other air crafts could be in that formation and their proximity to one another were close.  Furthermore they seemed motionless.  Upon pulling over we noticed two had disappeared. We watched the last two start to separate and then just disappear.  There was virtually no cloud cover so they did not disappear into a cloud.  They just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97023.html](http://www.nuforc.org/webreports/reports/097/S97023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
