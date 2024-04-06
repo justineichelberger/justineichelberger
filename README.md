@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mystic (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a triangle ufo in the Mystic ct hotel area.When i was standing outside my job at a hotel in mystic, ct; a coworker and i were outside smoking cigarettes, and we looked up into the sky where we saw a hovering light, as we watched the light, it started to move upward, straight up, we did nothing but watch as this light raised up high, then it started moving towards us, as it was moving the light patterns changed, several times they changed, then once it was right above us, the lights changed into a six dot pyramid, during this whole event, there was no sound at all, after that it just flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81143.html](http://www.nuforc.org/webreports/reports/081/S81143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>Several white lights outside my daughters home.My daughter called me that she was seeing an objected that was bright white  outside her house,  it would fade in and out.  I asked her to try and get a photo and she did ,its hard to see the object but you do see something that kind of looks like a cloud but she said it was several lights.  She sent the picture to me and I would be happy to forward this to you.  She said it didn't make a sound and it was quite big.  This happened at 3:21 pm Texas time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80778.html](http://www.nuforc.org/webreports/reports/080/S80778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
