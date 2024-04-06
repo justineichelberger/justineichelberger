@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Dark cylindrical object with two lights along bottom silenty, slowly heading southwest 9:33pm. 04/06/06Cylindrical dark object flying silently, slowly heading southwest, two lights (one on each end of object along  the bottom), at approx.  9:33pm. on 04/06/06. Object backlit by bright sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49999.html](http://www.nuforc.org/webreports/reports/049/S49999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Jordan (UT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black object moving silently from South to North over Salt Lake City.I observed a rectangular shaped object fly from South to North (west of me, at approximately a similar west coordinate of Herriman or West Valley) with a small non-blinking light at the front.   The object itself was solid black and could barely be seen as it was dark. I only saw it because there was a slight illuminated haze behind it.  The object was silent and was either extremely large if flying as high as a plane or smaller and hovering low over the ground.  At this same time, airplanes were flying in the same direction (South to North) toward the airport slightly East of where the object was flying.  The planes are very loud and easily discernable.  I felt the object could be a military plane.  The next night I observed this same object, this time with no light at all moving in the same direction, at the same location at approximately the same time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126770.html](http://www.nuforc.org/webreports/reports/126/S126770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
