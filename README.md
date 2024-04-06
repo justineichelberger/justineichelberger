@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:36 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Studio City (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Stately progress of 25 or so round white lights in a chevron formationI was in the backyard and happened to look up at the sky toward an extremely tall palm tree in a neighbor's yard, three houses down the street. I saw what I ridiculously thought was a flock of geese flying in perfect formation but quickly realized that was not possible as it was night and the "geese" were actually white lights in a V or boomerang formation. There were maybe 25 lights in rows, like pave' diamonds. (Possibly four rows.) The lights were white, no color, not pulsing or twinkling and no beams coming from them. They did not seem to be part of a large object and there was no discernible structure behind them. There is a huge supermarket below this spot and a lot of reflected light coming up in the sky and I think I could have seen a solid structure around it. The lights did not move around but stayed in perfect formation, completely silent.  They appeared to be about 45 degrees above the horizon, just above this palm tree, which is about 80 feet tall. I can't estimate speed. It didn't zoom across the sky but made stately progress, possibly a little faster than an airplane. It then disappeared behind another very tall tree and I moved to be able to catch it as it would pass from behind the tree. But it disappeared and was not seen again. It did not move upward or laterally. It just disappeared. I am a 65 year-old college-educated male and have always been skeptical about these sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28471.html](http://www.nuforc.org/webreports/reports/028/S28471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lancaster (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ABOUT TWO HOURS BEFORE SUNSET, I LOOKED STRAIGHT UP AND SAW TWO VERY BRIGHT SILVER BB OBJECTS THAT WERE MUCH HIGHER THAN JET AIRCRAFT THAT WERE LEAVING A CONTRAIL. THE TWO OBJECTS LEFT NO CONTRAIL AND WERE MOVING ABOUT 300 DEGREES AND APEARED TO HOOVER IN MID FLIGHT TO THE NORTH WEST OF LANCASTER OHIO..I WATCH SATALITES ALL THE TIME AND HAVE NOT SEEN ONE HOOVER YET. THEY DISAPEARED DUE TO DISTANCE AND ALTITUDE. ALSO, WHILE WATCHING SATALITES AND STARS ONE NIGHT, I SAW A WHITE PULSE BEHIND AN VERY FAST MOVING OBJECT AT THE ALTITUDE OF SATALITES AND IT MOVED ABOUT 30TIMES FASTER THAN ORBITING SATILITES. IT FLEW FROM THE NORTH STAR DOWN SOUTH AND THEN WENT IN THE OTHER DIRECTION AS IF TO SAY LOOK AT ME...((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62542.html](http://www.nuforc.org/webreports/reports/062/S62542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
