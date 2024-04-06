@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Worksop (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Undetermined shape, with wings and fin, with continuous row of lights round the side and back, with red green and orange lightsHi   I was on my way home from work, it was 00.56am sunday morning, I saw something in the sky with a row of lights underneath all different colours, red orange and green. it was slow moving at cloud level, and was larger than most planes would be at that hight, nearly double the size. i pulled over and watched it for 5 + minutes, until i could see the rear of it, and it too had a row of flashing lights, I thought I could make out wings and a fin pointing upwards. can't confirm shape, as memory hazing over since i got home from seeing it. i called the police straight away. I tried to take a photo of it with my phone, but my phone would not pick up the image, all it could see was black sky. it was very slow moving, slower than a plane would be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63342.html](http://www.nuforc.org/webreports/reports/063/S63342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Dark cylindrical object with two lights along bottom silenty, slowly heading southwest 9:33pm. 04/06/06Cylindrical dark object flying silently, slowly heading southwest, two lights (one on each end of object along  the bottom), at approx.  9:33pm. on 04/06/06. Object backlit by bright sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49999.html](http://www.nuforc.org/webreports/reports/049/S49999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
