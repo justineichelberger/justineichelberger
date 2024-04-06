@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw something in the sky floating then drop and vanish.Dropping off my friend when we noticed a light in the sky blue greenish aquaish it was floating then just dropped and vanished into the night.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108411.html](http://www.nuforc.org/webreports/reports/108/S108411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Perris (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two USAF Jets from March Air Force Base fly in circles over my house!  I saw the UFO!I'm a private wildlife rehaber for the CA Dept of Fish and Game, I had many birds of prey at the time of my sighting.  I also had a pair of Redtail hawks that had been released back to the wild a few weeks earlier who stayed close to my home.  It was a nice sunny afternoon when my husand and daughter and and I were outside cleaning animal pens when all of a sudden I heard the pair of Redtai hawks flying over the top of my house in a circle, both of the hawks were screaming vocal warnings of something they viewed as a dangerous, and or threatening to them.   I went into the house to get my binoculars, when I heard and feel my house rumble from the jets over the top of my house.  When I went back outside I could see the jets over my house they were jets hundreds of feet over us, while the hawks were flying above the jets.  I looked up above me with my binoculars to see what was all the commotion was all about.  This is when I saw the UFO!  It was a couple of hundred feet over me!  It blended in so well with daytime sky that without the bionoculars you would have never been able to see it!  It was about 30 feet across, round I shape and almost the color of the sky, gray-blue-silver.  No sound came from the UFO!  Only the noise from the two Jets!  I could only see the bottom of the UFO.  I was able to observe the UFO for approx 7 minutes before it took off.  It went straight up and was gone in a flash!((NUFORC Note:  Date of sighting may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69526.html](http://www.nuforc.org/webreports/reports/069/S69526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
