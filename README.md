@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 5 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 6 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fife/Federal Way (between) (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>BRIGHT BLUE SPHERE SITED, FELL INTO WOODED AREA IN WADRIVING NORTH FROM FIFE ON OLD HIGHWAY CONNECTING FIFE AND FEDERAL WAY PASSING BY A CATHOLIC CEMETARY ON THE RIGHT HAND SIDE 2 MIN. BEFORE SITING. LIGHT BRIGHT BLUE SPHERE THAT WAS POSSIBY GOING AROND 300-400 MILES PER HOUR DIVED DOWN INTO THE FOREST IN THE LEFT HAND SIDE OF THE ROAD AND NO SITE OF IT AFTERWARDS. COULD HAVE BEEN MISTAKEN FOR METEOR  BUT NEEDED TO HAVE HEARD A SOUND OR BOOM.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36000.html](http://www.nuforc.org/webreports/reports/036/S36000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This light I'm seeing appears to be moving in a short distance back and forth.At 11:29 pm est, I noticed what appeared to be a bright star.  After focusing on it while lying in bed I noticed it changer colors, mostly white and changed to red several times.  Also, it was moving back and fourth also up and down but in no paticular pattern.  It's moved angled up and down also side to side.  Also the object is flickering.  I used a compass and it is roughly 60 to 63 degrees NE.  I am currently monitoring it now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118827.html](http://www.nuforc.org/webreports/reports/118/S118827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
