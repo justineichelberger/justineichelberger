@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Amber spherical objectI was out shopping for a few things and returned home.  As i stepped out to gather my bags, I decided to look up to see whether the sky had increased in cloud cover since it had rained earlier in the day. What I saw was an amber colored sphere with what looked like a fading tail behind it. It was headed in  what appeared to be a north easterly direction. It was moving faster than any plane that I have ever seen and did not make any noise.  I have seen several strange things in the past (one of which I have reported), but I guess I can add this one to the collection.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81171.html](http://www.nuforc.org/webreports/reports/081/S81171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Avon Lake (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Metallic cigar shaped object observed over Lake Erie.On Saturday April 7, 2018, at about 2:20pm, I was driving east in Avon Lake, Ohio, on Krebbs Road, which is about 3 miles south of Lake Erie.  This road also passes into Bay Village, Ohio.  It was a sunny day with a clear blue sky, and temperatures in the low thirties.  As I was headed eastbound, I looked out my drivers side window to the north as saw a silver metallic cigar shaped object with no wings, no tail and no contrail.  The object appeared to be at a distance above Lake Erie. I slowed down, and intermittently looked at the object.  At one of the times I looked at it, I observed a horizontal red band in the middle of the object that was a quarter to a third of the object's length, however the next time I looked at it the band was no longer visible.When I reached the end of the road at Bradley Rd, I was stopped by a traffic light.  I had to turn my head a little over my shoulder at this point and noticed the object was stationary in the sky.  I proceeded to drive a little ways north on Bradley Rd., but turned around in a couple of minutes and headed back west on Krebbs Rd.  I pulled into Bay Village City Services parking lot, got out of my car and looked north to the sky, but the object was gone.  I proceeded to call my husband at 2:27pm to tell him about this.  The object appeared in size to be about 2/3 the size of the moon in length.I previously reported another incident which occurred approximately 10/27/2002 and was reported on 9/3/17 and posted on 9/5/2017.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139579.html](http://www.nuforc.org/webreports/reports/139/S139579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
