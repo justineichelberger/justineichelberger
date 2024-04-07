@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Granite Falls (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>a bright ????we were in the kitchen watching outside when we seen a single star just about deer mountain.we thought it was a helecopter because it seemed to "jerk"every so often.we looked around the sky and noticed there were no other stars in the sky at the time.we kept watching it because it was so bright and it seemed to move.it slowely went down and seem to have "landed"on the mountain.  we watched it for a while and then all of a sudden it shot up in the air and slowely flew up and then went n.e untill we could no longer see it.it reminded us of a helecopter surveying an area.but this wasnt one it was a bright light all the was around.it didnt twinkle like a star and it didnt have any flashing lights on it.well the next night we watched out the window again and it came back and did the same thing.when it landed it had a glow to it.you could see the glow above and around the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22467.html](http://www.nuforc.org/webreports/reports/022/S22467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On a trip to Savannah, GA, my wife and I saw an strange object in the sky about 15 miles away from the Savannah exit on U.S.80.My wife and I were making our way to savannah from newnan,ga. It was a little after 9:30 pm when we came within 15 miles of the savannah exit on U.S. 80. I looked of to the left because I thought I saw a deer by the median. I began to slow down when I caught a glimpse of an object going behind the tree lines. I told my wife to put the video camera on nightshot and record the object.We had been to savannah the year before and saw alot of military aircraft. I thought this was one of them so I wanted to get it on camera. It looked like it was preparing to land from what I could tell. I noticed a clearing of the tree tops just ahead in it's path. When the craft got to the clearing, I realized this was no military craft. I was triangular in shape, black, very smooth texture,very areo dynamic. It's lights were not flashing as an airplane's landing lights would. I knew this thing wasn't a plane, it wasn't a steath bomber, I have seen those before.I rolled down the window and slowed down to see If I could hear the engine. I work at a major airport and I have heard many different engines. I heard nothing. Not a sound. We had a fully charged battery when we began our trip and there is pretty much nothing on the way there for us to record. I know we didn't waste the battery before this and my wife told me she got the object on camera.As soon as the craft dropped behind the tree line my wife told me the battery was going dead.When we got to our hotel room, I charged the camera. When I went to watch the event on tape, I couldn't find It anywhere on the tape. It went from just before I told my wife to put the camera on nightshot to well after the inncident,close to our exit. I don't know what I saw that night or what happened during the time we lost on camera. One thing I do know, Is that I want to find out.((NUFORC Note:  Witness identifies self as someone who works around aircraft on a regular basis.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38082.html](http://www.nuforc.org/webreports/reports/038/S38082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
