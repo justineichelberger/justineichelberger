@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in in the air () reported seeing craft that fit the description of some 'Other' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>I was flying between St. Louis and Houston to a graduate school event.  It was my first time flying on an airplane, and so I insisted on a window seat so that I could look out the window for the entire trip.  So as I am in the air (I am not exactly sure over what state and at what altitude), I am looking down, and I saw a perfectly-spherical object, it was much smaller then the 737 I was on, but probably twice as big as a car, and it was moving in the opposite direction of the plane.  It was moving very fast.  It was like it was made out of steel.  I was staring in disbelief at this object, trying to figure out what it could possibly be.  Then, as the sphere was almost out of my field of vision (I was sitting on the left-side of the aisle in the airplane), another object came into my field of vision.  This object was moving at exactly the same speed as the sphere and it looked to be made out of the same shiny metal.  But this object was not a sphere, it was a triangle or a pyramid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60952.html](http://www.nuforc.org/webreports/reports/060/S60952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A fleet of lights that flew across sky. You could see them speed up to another and was unlike anything I have ever seen. At top of the line, there were a few others on each side  creating a T like formation. Solid white lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163086.html](http://www.nuforc.org/webreports/reports/163/S163086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
