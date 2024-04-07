@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:32 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>Hovering, silver disk viewed from Park Mountain towards downtown San Antonio, TX.This report is for an individual that does not use a PC.   Mr. ((name deleted)) works and lives on my property in the Park Mountain subdivision in North West San Antonio.  The subdivision is in the beginning of the Texas Hill Country and one hill beyond the view of downtown San Antonio.  This location is just below the intersection of air traffic heading to the San Antonio International Airport in an approximately east direction and the Lackland Air Force Base traffic heading approximately south.  Mr. ((name deleted)) had gone outside his room that morning at 2:00 because he heard dogs barking.   As he looked around, he saw a silver disk hovering and making no noise but flashing red linear lights up in the shape of a V and a single red light flashing straight down.   Since my home is on a sloped lot, he moved up hill to get a better view.  The craft was more clearly visible and it appeared to be a silver color with a yellow light around the circumference.  ((name deleted)) reported t! his information to me the day after the sighting.   He had tried to call me on my cell phone several times beginning at 2a.m. but I had left it in my car.   The circular craft was approximately 50 feet in diameter and was approximately 200 yards away.  It was situated in a position to look over the horizon towards downtown San Antonio and towards Lackland AFB.   ((name deleted)) tried to snap photos with his cell phone but due to the distance and night sky, he could not capture the craft.  The craft hovered for approximately 3.5 hours and disappeared just before sunrise.  It has not been seen since but I have advised ((name deleted)) to definitely contact me regardless of the time if a similar situation occurs again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80928.html](http://www.nuforc.org/webreports/reports/080/S80928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in in the air () reported seeing craft that fit the description of some 'Other' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>I was flying between St. Louis and Houston to a graduate school event.  It was my first time flying on an airplane, and so I insisted on a window seat so that I could look out the window for the entire trip.  So as I am in the air (I am not exactly sure over what state and at what altitude), I am looking down, and I saw a perfectly-spherical object, it was much smaller then the 737 I was on, but probably twice as big as a car, and it was moving in the opposite direction of the plane.  It was moving very fast.  It was like it was made out of steel.  I was staring in disbelief at this object, trying to figure out what it could possibly be.  Then, as the sphere was almost out of my field of vision (I was sitting on the left-side of the aisle in the airplane), another object came into my field of vision.  This object was moving at exactly the same speed as the sphere and it looked to be made out of the same shiny metal.  But this object was not a sphere, it was a triangle or a pyramid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60952.html](http://www.nuforc.org/webreports/reports/060/S60952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
