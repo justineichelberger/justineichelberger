@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jacksonville Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unidentified lights over Jacksonville BeachMy wife and I checked in to the Quality Inn Suites on Jacksonville Beach, Florida on Tuesday, April 7th 2009 for a few days of R&R.  At 11:20 pm that night I walked out onto our 6th floor balcony, overlooking the ocean, to join my wife.  It was an absolutely clear night and only a night away from a completely full moon.   I had only been out there a few moments when I noticed some unusual running lights off to my left.  They were clumped together instead of the normal wingtips and tail and were flashing different colors continuously.  I’m an Air Force veteran and I’ve seen more than my share of a wide variety of aircraft.   I asked my wife if she saw the same thing I did and she said yes and asked me if I knew what it was.  I couldn’t determine how far away the object was but since I wasn’t looking up to see it from the sixth floor I’d say it was less than 1000 feet up and was tracking along in a straight & level flight path.  I grabbed up the binoculars I’d brought with me for the trip and after a few moments locating it in the binoculars (it’s harder than you’d think) I was just getting focused in and they lights just “blinked out”.   I pulled down the binoculars thinking I’d somehow just lost it in the binoculars but it was completely gone.  There was no trace of it anywhere.  I can’t say I saw a flying saucer.  I can say, without a doubt, my wife and I saw an Unidentified Flying Object that was there one moment and gone the next.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69638.html](http://www.nuforc.org/webreports/reports/069/S69638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Columbia Station  (RT. 252) (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was stocking a small fish pound, and seen reflection of three SPHERES in triangle form 50'foot up. They glittered like a disco ball with colors.A friend and I were stocking a pound with catfish in a wooded setting,when we both at the same time seen the reflection of three sparkling spheres many colors and a hissing noise. If I had a rock I could hit one. At fist we thout it was fireworks,but they just moved on a little faster then we could run after them. It seemed like we could catch them, It look like they were descending they never did. We said no body will ever beleave us. There was a nother time when five of us were in the same area including the same person who was with me. When we were walking through the river fishing,somthing flew out of the water,and just mist my head when a bright light flashed,and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05971.html](http://www.nuforc.org/webreports/reports/005/S05971.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
