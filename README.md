@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Green Light streaming from east to west, slowed then turned white.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69570.html](http://www.nuforc.org/webreports/reports/069/S69570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Williamsport (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red, Blue & White Strobes Stationary in the Night Sky.On a clear night I happened to look though my 10x50 binoculars along a tree line of a forest. I noticed a cluster of strobe lights 1 red, 1 blue, & 1 white, the strobes were flashing very quickly (about 5-10Hz frequency) but not in any cadence with each other.  I could not see any details of the UFO, it was very far off in the distance, atleast 5 miles, I just saw the 3 strobes.  The strobes did not move in position relative to each other, they appeared to be of the same body.  I watched this object on and off for about 90 minutes and it did not move. I attempted to find it in a telescope but was unable before the sunrise washed it out. I have not searched for it again as of yet. What did I see? There may be a simple answer but I never saw anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97507.html](http://www.nuforc.org/webreports/reports/097/S97507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
