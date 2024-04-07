@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Harrisburg (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I let my dog outside and looked at the stars like I usually do.  Then I noticed a white light similar to an airplane.  I watched it for 10 seconds as it flew in a straight line.  After that I noticed it moving side to side slowly, instead of a straight line.  I ran inside to have my girlfriend take a look to make sure I wasn't crazy.  She saw the light I was looking at and we both watched it slowly dim to a smaller light and disappear.  It did not vanish behind a cloud instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145529.html](http://www.nuforc.org/webreports/reports/145/S145529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>Hovering, silver disk viewed from Park Mountain towards downtown San Antonio, TX.This report is for an individual that does not use a PC.   Mr. ((name deleted)) works and lives on my property in the Park Mountain subdivision in North West San Antonio.  The subdivision is in the beginning of the Texas Hill Country and one hill beyond the view of downtown San Antonio.  This location is just below the intersection of air traffic heading to the San Antonio International Airport in an approximately east direction and the Lackland Air Force Base traffic heading approximately south.  Mr. ((name deleted)) had gone outside his room that morning at 2:00 because he heard dogs barking.   As he looked around, he saw a silver disk hovering and making no noise but flashing red linear lights up in the shape of a V and a single red light flashing straight down.   Since my home is on a sloped lot, he moved up hill to get a better view.  The craft was more clearly visible and it appeared to be a silver color with a yellow light around the circumference.  ((name deleted)) reported t! his information to me the day after the sighting.   He had tried to call me on my cell phone several times beginning at 2a.m. but I had left it in my car.   The circular craft was approximately 50 feet in diameter and was approximately 200 yards away.  It was situated in a position to look over the horizon towards downtown San Antonio and towards Lackland AFB.   ((name deleted)) tried to snap photos with his cell phone but due to the distance and night sky, he could not capture the craft.  The craft hovered for approximately 3.5 hours and disappeared just before sunrise.  It has not been seen since but I have advised ((name deleted)) to definitely contact me regardless of the time if a similar situation occurs again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80928.html](http://www.nuforc.org/webreports/reports/080/S80928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
