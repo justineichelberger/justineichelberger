@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Silver disk flying in distance, seen from Mississauga school yardFrom my school's yard, where there must've been more than 100 people, but they did not pay as much attention to the sky as I did, and may have took the ufo as a plane.. The ufo was silver and never made any sounds, and if it was a plane, then I would have heard a sharp noise, but I didn't. It was far in the distance and was faster than a plane, and much more silent, no noises. It looked like shiny dark silver, was hovering in high altitude and was completely silent, it was flying at a high speed, as if it was flying faster than a plane in the same hight above ground. The disk was more sharp looking than a plain one, kind of like it had another part to it rather than a disk as whole. It flashed a sun like light once and another after a few seconds again, then when my friend caught my attention, I looked back but it was gone. The school yard had more than 100 people on it, there was 2 basketball courts on the left side where people played, there was trees on the left side around the corner of the school, there were houses infront of my followed by a forest like area, and the sky was mostly sunny and clear with only a few light, thin clouds. The shape was a disk, kind of like a cigar, but looked more like a disk, and like there was some type of other parts to it sticking from the sides, it was silver, and shiny. It flashed lights 2 times. It hovered over in the distance, from right to left, and then disappeared. There was only 1 of them. It didn't make any sound, and was silent the whole time. It was going at a faster speed than an airplane, and smoother, plus there wasn't any type of trace of fuel coming out the back, such as the while gas/line an airplane leaves in the sky, but this object didn't leave a trail such as that.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50104.html](http://www.nuforc.org/webreports/reports/050/S50104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 red orbs ?i saw 3 red orbs in sky of lake havasu city arizona they were the same looking orbs that i saw about 10 times in prescott valley a few years ago i moved to lake havasu about 3 years ago and this is the first time seeing them here.((NUFORC Note:  Witness elects to remain totally anonymous.  We do not know whether the witness implies a sighting during morning hours, or in the evening.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43367.html](http://www.nuforc.org/webreports/reports/043/S43367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
