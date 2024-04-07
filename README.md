@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A fleet of lights that flew across sky. You could see them speed up to another and was unlike anything I have ever seen. At top of the line, there were a few others on each side  creating a T like formation. Solid white lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163086.html](http://www.nuforc.org/webreports/reports/163/S163086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stillwater () reported seeing craft that fit the description of some '' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Facing north at aprox 11 o'clock high a stationary bright white light with a smaller lower red and white light observed 4/7/2019 and 4/8/2019.  Little to no movement either vertical or horizontal.  Definitely not a planet or star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145555.html](http://www.nuforc.org/webreports/reports/145/S145555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
