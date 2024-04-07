@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Columbia Station  (RT. 252) (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was stocking a small fish pound, and seen reflection of three SPHERES in triangle form 50'foot up. They glittered like a disco ball with colors.A friend and I were stocking a pound with catfish in a wooded setting,when we both at the same time seen the reflection of three sparkling spheres many colors and a hissing noise. If I had a rock I could hit one. At fist we thout it was fireworks,but they just moved on a little faster then we could run after them. It seemed like we could catch them, It look like they were descending they never did. We said no body will ever beleave us. There was a nother time when five of us were in the same area including the same person who was with me. When we were walking through the river fishing,somthing flew out of the water,and just mist my head when a bright light flashed,and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05971.html](http://www.nuforc.org/webreports/reports/005/S05971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Harrisburg (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I let my dog outside and looked at the stars like I usually do.  Then I noticed a white light similar to an airplane.  I watched it for 10 seconds as it flew in a straight line.  After that I noticed it moving side to side slowly, instead of a straight line.  I ran inside to have my girlfriend take a look to make sure I wasn't crazy.  She saw the light I was looking at and we both watched it slowly dim to a smaller light and disappear.  It did not vanish behind a cloud instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145529.html](http://www.nuforc.org/webreports/reports/145/S145529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
