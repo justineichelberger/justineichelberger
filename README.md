@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brady (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Correction to the report submitted on this event. I called the FSS in Seattle and they told me the bottoms of those clouds where at thirty two hundred feet at that time.  So the object could have been that high as it moved under them.  However I did not see the clouds above the object. As bright as the object was if it had been close to the clouds it would have illuminated them.  So therefore I believe the object was less than three thousand feet above ground level.  Possibly as low as a thousand feet agl.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74946.html](http://www.nuforc.org/webreports/reports/074/S74946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Five orange orbs with flickering light inside, silent, moving slow over Lake WashingtonFive spherical lights moving fairly slow, several hundred feet apart over Lake Washington at 9:30 PM on Easter Sunday. Orange in color with a subtle, flickering light inside.  The flickering was erratic like a dancing candle flame. They were completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88278.html](http://www.nuforc.org/webreports/reports/088/S88278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
