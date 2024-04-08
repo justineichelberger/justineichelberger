@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rhome (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was a huge craft that flew directly over my house, and flew in complete silence.I was pulling into my driveway when I saw what appeared to be 20+ or - stars in a straight row moving at the same speed and direction. I park my truck and got out to see what I was looking at. When my eyes finally were focused I saw the ship that was from my perspective on the ground was 200 yards long, 50 yards wide, and 20 yards tall. It was moving as fast as a slow flying airplane, and moving in 100% silence.  It flew over a low cloud, and that's when I lost sight of it.  It was black in color, and the only lights on it were the lights that looked like stars.  I would have followed it, but the streets in my neighborhood made it impossible to take the time to try.  It was flying in the direction of The Texas Motor Speedway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164665.html](http://www.nuforc.org/webreports/reports/164/S164665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Centerline (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Approx 11:45 pm I seen 2 sets of lights triangular or possibly diamond flying in unison.  It happened so fast, if west is 3 oclock and east is 9oclock while looking east the lights appeared say about 1 o'clock and disappeared at about 10 oclock.  this was my vidid observation the initial transpired before 1 oclock.  The lights were about 10 to thirty degrees south of zenith.  The lights disappeared in the haze before a cloud.  A jet followed about the same path.  Wow a shooting star just past by.  As im typing. Something is going on.  When I looked at my clock on the micro wave before I called my dad to tell him about came bacck looked at the micro wave again it showed seconds on it as if was interupted from cooking.  They know I know. Im gonna leave it at that.  Spooked but believe in Enoch.  Something is out there this is my third sighting in my life. ]Har dreams of abductions before sometimes feel as if im part of them.  Please leave me alone just trying to do right.  Ukraine? USA?  Are they screwing up?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108477.html](http://www.nuforc.org/webreports/reports/108/S108477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
