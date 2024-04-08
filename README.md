@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Glen Cove (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>White slow flashing lightI was in my backyard, stargazing, when I saw a white light flash, then 3 seconds later, it flashed again. The light flashed 3 times with 3 seconds separting each flash, and then it stopped.  There was no sound, and no other lights.  It was extremely high up in the sky.  The only thing visible, was the flashing light.  There were no clouds and no jet in the vicinity.  I look at the sky nearly every night, and have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62778.html](http://www.nuforc.org/webreports/reports/062/S62778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright flashing red and blue lights just hovering for a long time.triangle shape lights flashing blue and red just hovering for at least an hour, seemed very low to ground and then slowly disappeared.  Very bright colors.  Others appeared after in different locations, but higher in sky and would slowly disappear into sky.  2nd night and same light only not as low and in same location.  Husband was at work 1/2 mile up the road and seen same lights when I pointed them out from where I was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108495.html](http://www.nuforc.org/webreports/reports/108/S108495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
