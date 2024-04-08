@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:06 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:21 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Northport (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10 or less - 10 or less minutes.</sub><blockquote><sub>Seven flashing lights in a V patteren flying over Northport Alabama.On 4/08/13 at approx. 1907hrs., I was traveling southwest on Union Chapel Road in Northport Alabama.  I stopped at the Yield sign because of oncoming traffic from Martin Road. I was also talking on the phone. I noticed in the sky these lights that were in a bird flying pattern, a sideways V, with the point of the V pointing to the right or east.  I asked my nieces who were with me, do y’all see that? They both replied, “Yes”. I pulled over about 30 feet from where I first saw them and exited my vehicle. I was still talking on the phone with my Dad.  I was telling him about these UFOs.  He said they were probably big birds reflecting light.  I know they were not birds. Birds fly with the point of the V in front. These UFOs were traveling toward the open end of the V, or west bound. There were seven individual lights.  There were five on the top row and two on the bottom.  They were moving very slowly. Eventually they faded out of sight one by one.  I waited to ! see if more would come back or to see what would happen. Two more rose from the tree line, flickered and then vanished.  My Dad still says they were large birds. I disagree. I do not know if anyone else saw these.  Thank you for your attention in this matter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97070.html](http://www.nuforc.org/webreports/reports/097/S97070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Statesville (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Brightly lit, triangular craft flying closely over my home.Around 9:35 PM I heard what sounded somewhat like a helicopter flying extremely close to my home, I thought it was strange for it to be so low in the air. Out of curiosity i ran to my window, opened the blinds and to my surprise i did not see a helicopter overhead but a brightly lit, isosceles triangular shaped craft "floating" at about a speed of  15 mph directly above me.  The craft was not completely a full triangle, the base was cut out resembling an arrow or a chevron. The lights were vividly bright colors of blue and red, racing at a moderate speed around the full perimeter of craft. Standing there in amazement, I called for my mother and my younger brother, by the time they reached my room the craft was only approximately 100 yards away. Together we watched it barely graze the tree line. I then got my camera and went outside, the craft returned several times. I have two recordings of the sighting one 45 seconds and the other 1 minute and 30 seconds. It was very quite, and moved as if it was literally floating. The object appeared to be round in the sky, my conclusion is because the lights race around it giving it the illusion of a disc. After about 7 minutes the craft vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62899.html](http://www.nuforc.org/webreports/reports/062/S62899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
