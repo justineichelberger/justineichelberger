@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:46 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Anthony (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>0:32 MST , St Anthony, ID, flashin star arcoss the sky high speed , trail part of travel distantStanding on my front porch step , looking at the full Moon , I turned to my left , west , I saw a flashing star shape it moved very fast , viewed 180 degrees in the sky it was very clear , there were planes moving a inch at a time , this flashing star moved across the shy the full 180 degrees in seconds. I was in the military service  and spend many hours standing watch.  I never in my life saw anything move so fast in the sky.  I have seen rockets in the shy in my life time , but compared to the speed of this flashing star. 12:32 AM Mountain time.  it traveled West to East.  It was comparable to a star.I must say the mode of travel it was a craft.  I would like to know if a rocket was fired from VAF Base, Santa Maria, Calif at that time.  Many years ago , I worked there Construction. I must say this moved much faster.I had to report this.Description of the object one item the size of a star , but very bright flashing across the shy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88263.html](http://www.nuforc.org/webreports/reports/088/S88263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Glen Cove (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>White slow flashing lightI was in my backyard, stargazing, when I saw a white light flash, then 3 seconds later, it flashed again. The light flashed 3 times with 3 seconds separting each flash, and then it stopped.  There was no sound, and no other lights.  It was extremely high up in the sky.  The only thing visible, was the flashing light.  There were no clouds and no jet in the vicinity.  I look at the sky nearly every night, and have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62778.html](http://www.nuforc.org/webreports/reports/062/S62778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
