@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 7 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:50 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Florence/Apache Jct. (between) (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two grey objects disappeared suddently.Returning from Florence through Apache Junction.  Noticed two grey objects, spaced apart and moving congruently across the sky, going south to north.  Appeared to turn west or to elevate, and then one vanished; immediately the other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139381.html](http://www.nuforc.org/webreports/reports/139/S139381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brady (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Correction to the report submitted on this event. I called the FSS in Seattle and they told me the bottoms of those clouds where at thirty two hundred feet at that time.  So the object could have been that high as it moved under them.  However I did not see the clouds above the object. As bright as the object was if it had been close to the clouds it would have illuminated them.  So therefore I believe the object was less than three thousand feet above ground level.  Possibly as low as a thousand feet agl.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74946.html](http://www.nuforc.org/webreports/reports/074/S74946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
