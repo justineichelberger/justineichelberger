@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Harrisville (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lime green bar of light in evening sky.Went to take trash out and as I was walking around the patio behind our house I glanced up in the sky.  Looking over the roof of our house I saw a lime green bar of light stationary in the evening sky.  It was about five feet long and hung silently.   I stopped and starred at the light for about half a minute and then became paranoid.   Got a feeling I was being watched by someone or something.  I darted behind the house so I would be out of view.  Thoughts of what should I do came to mind.  So I walked down to the corner of the house and peeked around to see if the light was still there.  It still hung there in the sky in the same place.  Dropped the bag of trash off at the can and ran back around the backside of house.  When I got back to the side door, I asked my wife to come outside and take a look.  I went around to the front of the house and light was going.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93397.html](http://www.nuforc.org/webreports/reports/093/S93397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rhome (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was a huge craft that flew directly over my house, and flew in complete silence.I was pulling into my driveway when I saw what appeared to be 20+ or - stars in a straight row moving at the same speed and direction. I park my truck and got out to see what I was looking at. When my eyes finally were focused I saw the ship that was from my perspective on the ground was 200 yards long, 50 yards wide, and 20 yards tall. It was moving as fast as a slow flying airplane, and moving in 100% silence.  It flew over a low cloud, and that's when I lost sight of it.  It was black in color, and the only lights on it were the lights that looked like stars.  I would have followed it, but the streets in my neighborhood made it impossible to take the time to try.  It was flying in the direction of The Texas Motor Speedway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164665.html](http://www.nuforc.org/webreports/reports/164/S164665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
