@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>fire ball ufo'sAt abou 0300, I was finishing my security patrol.  As I looked up I saw 2 crafts come in from the west andturn east.  One would jump ahead of another and stop.  So the second craft could catch up.  They are orb shaped and redish orange looks like fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118286.html](http://www.nuforc.org/webreports/reports/118/S118286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Middletown (suburb) (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>A triangular shaped object seen late at night.It was around 11:48 PM at night.  My mother, my cousin and I were driving around just outside the city to view the stars.  It was a very clear night.  The object I saw was triangular in shape and left what seemed like a blue/gray smoke trail.  It was moving way to fast to be any kind of plane or jet.  It took only about 6 seconds to move completely across the whole skyk, but it was moving too slow to be a meteor.  It was surrounded by a bright yellow/orange haze.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23740.html](http://www.nuforc.org/webreports/reports/023/S23740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
