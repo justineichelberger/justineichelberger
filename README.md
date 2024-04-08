@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bunnell (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>midnight  April 8th, our home lost power there was a bright flash of light outside power came back on and we seen a hovering objectwe lost power in our house around midnight there was a bright flash of light ourmpower came back on and an object oval at first with blinking lights on it hovered afar in the clear sky and seemed to change shape but did so in a way that's hard to describe it was kind of warpy it couldn't have been a plane because it hovered for a few minutes and it definatley was not a star because it dissapeared after a few minutes. My son who is 12 witnessed all because he was up late in the living room watching TV and he was pretty freaked out because he witnessed all this for the first time ever, i being 33 have had little sightings that i wrote off as trick of the eye or just never reported but this time with the power going out and the flash of light with the sighting was all too much not to report thank you for being here for us to do so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74924.html](http://www.nuforc.org/webreports/reports/074/S74924.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brady (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Correction to the report submitted on this event. I called the FSS in Seattle and they told me the bottoms of those clouds where at thirty two hundred feet at that time.  So the object could have been that high as it moved under them.  However I did not see the clouds above the object. As bright as the object was if it had been close to the clouds it would have illuminated them.  So therefore I believe the object was less than three thousand feet above ground level.  Possibly as low as a thousand feet agl.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74946.html](http://www.nuforc.org/webreports/reports/074/S74946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
