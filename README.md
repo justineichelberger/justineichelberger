@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pullman (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 balls of light over pullman washington Easter 2013My friend was bringing me home after easter supper in downtown Pullman about 20:00 .When I got out of the car she said "oh look" we looked up and saw 6 yellow whitish glowing balls of light moving in a deliberate slow and lacksadaisical fashion across the sky above.there was no noise ,shadow,or varying movement at all.It was if as my friend said that they were Chinese prayer lanterns..In theory it made perfect sense IF IT WASN'T traveling with such calm perfect synce across the sky .There was no variation at all as a group or together..It was eerily calm and undesturbed sight.4 lights -- --  floated like this illustration above.with 2 more about 45 seconds behind - - like so..They were below the horizon or cloud cover .We could see no form ,shadow,or device around the lights whatsoever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98598.html](http://www.nuforc.org/webreports/reports/098/S98598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>fire ball ufo'sAt abou 0300, I was finishing my security patrol.  As I looked up I saw 2 crafts come in from the west andturn east.  One would jump ahead of another and stop.  So the second craft could catch up.  They are orb shaped and redish orange looks like fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118286.html](http://www.nuforc.org/webreports/reports/118/S118286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
