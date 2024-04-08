@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:46 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>saw a growing burst of brilliant white light that slowly dimmed out of existanceAt approximately 21:30 Friday April 8th, 2005, as my wife, Joy and I sat in our hot tub we both saw in the East/South East sky a brilliant white 'star'. But there is more to this event than just seeing. I was hoping to see Jupiter, which I heard was going to be visible in the southeast sky this week. When I saw this star (and I am just using the word 'star'for reference)I said to my wife, "There's Jupiter". The moment I said this the 'star suddenly grew in size and brilliance-just as if something turned a light on using a dimmer switch very quickly to its brightest and then slowly dimming it until it completely dissappeared. The size difference-though hard to describe with such a distance-was like first seeing the point of a sharp pencil which then expands to the size of an unsharpened pencil and back to nothing. Both my wife and I asked each other at the same moment "Did you see that?" Object was seen head on and did not move in any direction.((NUFORC Note:  Possible Iridium satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43388.html](http://www.nuforc.org/webreports/reports/043/S43388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Anthony (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>0:32 MST , St Anthony, ID, flashin star arcoss the sky high speed , trail part of travel distantStanding on my front porch step , looking at the full Moon , I turned to my left , west , I saw a flashing star shape it moved very fast , viewed 180 degrees in the sky it was very clear , there were planes moving a inch at a time , this flashing star moved across the shy the full 180 degrees in seconds. I was in the military service  and spend many hours standing watch.  I never in my life saw anything move so fast in the sky.  I have seen rockets in the shy in my life time , but compared to the speed of this flashing star. 12:32 AM Mountain time.  it traveled West to East.  It was comparable to a star.I must say the mode of travel it was a craft.  I would like to know if a rocket was fired from VAF Base, Santa Maria, Calif at that time.  Many years ago , I worked there Construction. I must say this moved much faster.I had to report this.Description of the object one item the size of a star , but very bright flashing across the shy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88263.html](http://www.nuforc.org/webreports/reports/088/S88263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
