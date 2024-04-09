@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 8 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Pulsating bright white and blue light darting in different directions and specific patterns.Observed object similar to a star but much brighter. Pulsating smaller blue light.  During hours of observation the object traveled for short distances on the diagonal, back and forth, up and down and backwards and forwards.  It also made a flourish, much like an "8," sideways, but not joined up.  It actually made a perfect square as well!  Two airplanes came by and each time, the object remained still until the plane was out of proximity.It actually was so bright that it formed an aura around itself, and I could see l clouds pass by.It should be noted that it has been there every subsequent night up until last night, August 15th!  It is positioned toward the tail end of the handle of the Big Dipper, to the south of it. Each night it has been at the same co-ordinates.((NUFORC Note:  We observe that the description is not inconsistent with a regular sighting of the star, Arcturus, seen over several nights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129385.html](http://www.nuforc.org/webreports/reports/129/S129385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in South Elgin (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White -silverish round objects that started out perfect V formation, split up, circling and doing other shapes till disappearedSaw what I thought was a perfect"V" formation of birds right outside my house.  Sunny, blue sky day, some clouds.  Watched them, realized they were unusually high and white.  Trying to figure out what type of birds, when my husband came outside.  By then they had broken v formation and circled around each other.  I pointed them out, he couldn’t see them till he put on my sunglasses.  I realized they were not birds but couldn’t figure out what.  They were roundish shape, whitish and sometimes silver.  My husband suggested balloons, but I told him they were just in a perfect v formation.  It almost looked like they were playfully trying to make other shapes but not quite getting it.  I asked him to get the binoculars, never taking my eyes off them but then they just disappeared!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126936.html](http://www.nuforc.org/webreports/reports/126/S126936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
