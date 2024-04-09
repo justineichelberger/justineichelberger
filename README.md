@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Texas city (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>go to internet mysterius lights in Texas City Texas skys many news reports and actual videored lights in sky Texas city texas a few nights ago.  Thousands saw them and a policeman filmed them and they are on internet. The story gone viral here in Houston area.Texas city located between Houston and Galveston.Its been all over TV.  They appeared several nights.Homeland security was concerned due to all Refineries in the area so far unexplained.  Some say might be hoax chinese laterns((NUFORC Note:  For some reason, witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88338.html](http://www.nuforc.org/webreports/reports/088/S88338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Schuyler County area (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Observed bright red ovalsMy family and I observed what appeared to be a very bright scarlet red oval light approximately 30 degrees high from our observation point.   We observed an object appear stationary for approximately five seconds.  The object then dropped rapidly below the tree line in seconds.  Then approximately ten second later the object visibly moved back up above the tree line to approximately 30 degrees high and remained stationary. Seconds later a second bright red oval appeared adjacent to the first object approximately 30 degrees high.  The second red oval then appeared to move toward the first and only one red oval then remained visibly stationary for a few seconds before the red oval light faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68607.html](http://www.nuforc.org/webreports/reports/068/S68607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
