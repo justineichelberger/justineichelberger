@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oak Harbor (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0:07 - 0:07 minutes.</sub><blockquote><sub>silver formashon over oak harbor wa.when i was looking at my telescope i saw a sqare comeing together and apart then it made a line thay were a cigar shape and thay flu up to what i think was andramada((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64211.html](http://www.nuforc.org/webreports/reports/064/S64211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Disc-shaped object spotted seen about 15:00 hrs. for a duration of about 4 minutes.It was a beautiful day as I went to pick up my mail at the mailbox which is at the end of a rather steep driveway. When I was walking back up the drive, I turned to take in a deep blue sky with large cumulus clouds. That is when I saw a large disk-like object sitting next to a big cloud in the southeast at approximately a 35 degree angle. It looked a little shiny because it was probably reflecting the sun from the SW. I would estimate that it was about the size of a large, commercial plane. It did not move for about two minutes, but then moved very slowly to my left and stopped. When it started to move to my right, there was a bright flash of red light from the bottom of the craft. It continued to move slowly to the south until it disappeared from my view because of some trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60027.html](http://www.nuforc.org/webreports/reports/060/S60027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
