@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Snellville (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately late night walk - late night walk minutes.</sub><blockquote><sub>Red silent light far up in the sky going at a fast paceMy mother and I was out doing our nightly walk with our dogs and she called me over to where she was.  She saw what she thought were two stars, but they started getting closer together.  Eventually when I got over there, one of them just took off and I saw the other one which was red in color move at a fast pace along the sky.  We see airplanes come and go often since we aren't that far from Hartsfield/Jackson airport in Atlanta.  We did not hear any noise at all like when regular aircrafts go over.  The red light eventually vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88294.html](http://www.nuforc.org/webreports/reports/088/S88294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Texas city (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>go to internet mysterius lights in Texas City Texas skys many news reports and actual videored lights in sky Texas city texas a few nights ago.  Thousands saw them and a policeman filmed them and they are on internet. The story gone viral here in Houston area.Texas city located between Houston and Galveston.Its been all over TV.  They appeared several nights.Homeland security was concerned due to all Refineries in the area so far unexplained.  Some say might be hoax chinese laterns((NUFORC Note:  For some reason, witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88338.html](http://www.nuforc.org/webreports/reports/088/S88338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
