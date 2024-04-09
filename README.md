@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Green Orbs, Western NY, 1-2AM 4/9/11The objects in the sky were in the eastern sky, about 30 degrees above the horizon, travelling north in an arc, not a straight line.  The orbs were a brilliant green; a glowing center of green with green halos surrounding them.  The looked quite similar to a firework except far too large to be a firework.  Event occurred between 1:00 AM and 2:00AM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80825.html](http://www.nuforc.org/webreports/reports/080/S80825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ludlow (area) (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a UFO with flashing red and green lights, with no aircraft or towers nearby so it could only be a UFO, appeared to be moving too.I looked outside my window to get fresh and cool air when I looked up at the stars, few stars were in the air tonight and I saw one out in the distance, something odd had happened about it though, it was flashing.  There had never been anything like a tower flashing in the night in that direction so it couldn't be a tower.  I have an account with a flight tracking organization (flight aware) which showed no aircraft even flying in Massachusetts at the moment, so it couldn't be an aircraft in the air.  So the only other thing it could be was some sort of UFO, I got binoculars to further look and saw it had red and green lights that were flashing, I couldn't tell the shape but looked kind of like a circle/traditional UFO shape.  I then got my camera to try and zoom in and record it, I could zoom in and did but It looked like it had moved out of the frame, as if it was flying, although when I stopped looking through the camera and looked out the window i saw it was! still there, so I don't know how far away it is but it certainly has a bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154897.html](http://www.nuforc.org/webreports/reports/154/S154897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
