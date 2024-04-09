@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:37 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>CIGAR SHAPED OBJECT WITH BLUE SPOTLIGHT AND ORANGE HALO.A CIGAR SHAPED OBJECT OBSERVED TO THE EAST (OVER THE GREAT SALT LAKE) WITH BRIGHT BLUE SPOTLIGHT SHINING.  OBJECT HAD A ORANGE HALO VISIBLE TO MAKE US THINK IT WAS CIGAR SHAPED.  THE WAY THE LIGHTS WERE IT WAS ALMOST IF THERE WAS SOME TYPE OF SPIN.  AFTER ABOUT 5 MINUTES THE BLUE LIGHT WENT AWAY, AND THE ORANGE HALO FADED INTO A WHITE AND WAS VISIBLE FOR ANOTHER 15 MINUTES. HUSBAND AND I ARE BOTH AIRCRAFT MAINTAINERS AND THERE WAS NO WAY A PLANE COULD HAVE HELD THIS POSITION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126796.html](http://www.nuforc.org/webreports/reports/126/S126796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saunemin (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object lit up the sky and shifted directions before zooming over my head and into oblivion.At 11 on Saturday night I was sitting by a fire when, out of the corner of my right eye I saw the sky light up a bit.  At first I believed what I was seeing was simply a "shooting star" until the blue/green object shifted directions diagonally and zoomed over my head and disappeared.  I saw the object for about 5 seconds total, and it moved very quickly so I am not sure of the exact shape, but I do know what I saw was unlike anything I have seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80848.html](http://www.nuforc.org/webreports/reports/080/S80848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
