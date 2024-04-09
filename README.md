@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Newport Coast (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>As with three other postings to this sighting.  It was around 1:10AM in the south south east sky.  But from my location the fireball appear to be heading straight down toward the ocean.  It green in color, with a longish tail.  I hadn't thougt anything more about it until I read the other reports for April 9, 2000.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12681.html](http://www.nuforc.org/webreports/reports/012/S12681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cayucos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was sitting at the pier on the beach having a bonfire. There was a group of 6 of us, the 2 of us that were sitting at the fire both saw the same thing at the same moment. The light of the fire drowned out any other stars and the clarity of the night sky. All of the sudden it looked like a shooting star but there was 4 perfectly aligned lights spaced all evenly, and they were bright, but perfect bright sphere lights unlike anything I have ever seen. These lights were significantly brighter than any star in the sky that night by a huge margin. The line of lights was above the horizon line of the Pacific Ocean and shot across a small portion of the sky and disappeared in mid air within a matter of a split second. We both looked at each other in disbelief of what we had just witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162671.html](http://www.nuforc.org/webreports/reports/162/S162671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
