@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ludlow (area) (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a UFO with flashing red and green lights, with no aircraft or towers nearby so it could only be a UFO, appeared to be moving too.I looked outside my window to get fresh and cool air when I looked up at the stars, few stars were in the air tonight and I saw one out in the distance, something odd had happened about it though, it was flashing.  There had never been anything like a tower flashing in the night in that direction so it couldn't be a tower.  I have an account with a flight tracking organization (flight aware) which showed no aircraft even flying in Massachusetts at the moment, so it couldn't be an aircraft in the air.  So the only other thing it could be was some sort of UFO, I got binoculars to further look and saw it had red and green lights that were flashing, I couldn't tell the shape but looked kind of like a circle/traditional UFO shape.  I then got my camera to try and zoom in and record it, I could zoom in and did but It looked like it had moved out of the frame, as if it was flying, although when I stopped looking through the camera and looked out the window i saw it was! still there, so I don't know how far away it is but it certainly has a bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154897.html](http://www.nuforc.org/webreports/reports/154/S154897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Wausau (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Light  southwest headed northeast, slowed got bigger then slowishly &quot;closed&quot; from outside in till not visible lasted about 30I was outside facing east.  I saw what I first believed to be either a meteor or a disending sattilite.  But I noticed a form behind the light which was in the shape of a pill or tick tack.  The object then seemed to slow and change either shape or direction.  It then stopped and became a light a bit larger than my thumb nail at arm's lenght . When it disappered it didnt just go away but closed from the outside in ; until I could no longer see it.  It traveled (facing east) from my "5 o'clock and stopped and vanished at my 11 o'clock. (south west headed north east.  I have not yet ask any one else in the neighborhood if they say it but will and report if so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139401.html](http://www.nuforc.org/webreports/reports/139/S139401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
