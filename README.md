@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Schuyler County area (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Observed bright red ovalsMy family and I observed what appeared to be a very bright scarlet red oval light approximately 30 degrees high from our observation point.   We observed an object appear stationary for approximately five seconds.  The object then dropped rapidly below the tree line in seconds.  Then approximately ten second later the object visibly moved back up above the tree line to approximately 30 degrees high and remained stationary. Seconds later a second bright red oval appeared adjacent to the first object approximately 30 degrees high.  The second red oval then appeared to move toward the first and only one red oval then remained visibly stationary for a few seconds before the red oval light faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68607.html](http://www.nuforc.org/webreports/reports/068/S68607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 57</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162766.html](http://www.nuforc.org/webreports/reports/162/S162766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
