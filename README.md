@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:37 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO caught with binoculars by 3 people.1 craft seen with binoculars, way brighter than all the stars, had lights all around the disk which looked like maybe 6 inches apart, kept hovering for 10+ mins at a time before moving around the sky just a little bit at a time.  There were 6 helicopters in the 30 mins I was out there that kept flying in its direction and that is very unusual.  It was still out there when I went outside but it was a legitimate UFO that I could see with binoculars before it got too far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145570.html](http://www.nuforc.org/webreports/reports/145/S145570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>CIGAR SHAPED OBJECT WITH BLUE SPOTLIGHT AND ORANGE HALO.A CIGAR SHAPED OBJECT OBSERVED TO THE EAST (OVER THE GREAT SALT LAKE) WITH BRIGHT BLUE SPOTLIGHT SHINING.  OBJECT HAD A ORANGE HALO VISIBLE TO MAKE US THINK IT WAS CIGAR SHAPED.  THE WAY THE LIGHTS WERE IT WAS ALMOST IF THERE WAS SOME TYPE OF SPIN.  AFTER ABOUT 5 MINUTES THE BLUE LIGHT WENT AWAY, AND THE ORANGE HALO FADED INTO A WHITE AND WAS VISIBLE FOR ANOTHER 15 MINUTES. HUSBAND AND I ARE BOTH AIRCRAFT MAINTAINERS AND THERE WAS NO WAY A PLANE COULD HAVE HELD THIS POSITION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126796.html](http://www.nuforc.org/webreports/reports/126/S126796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
