@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Buenos Aires (Argentina) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>winged cylinder-shaped like a cross in the dark night. no lights.I was looking at the stars, when suddenly I noticed something moving.  Initially, it was difficult to identify it because it did not emit lights and camouflage itself with the color of the sky.When I could see it well it was winged cylinder-shaped like a cross and moved at a constant speed.  Its color was like metallic dark.  I followed it with my eyes for approximately 2 or 3 minutes until he disappeared on the horizon.  Its size was quite large, it was very clear once you identified it. We were two people who witnessed the event.As I said, it didn't have any kind of light. Total darkness.  And it was clearly seen.  I was on the terrace of my building, with my sister, during the quarantine at 9 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154924.html](http://www.nuforc.org/webreports/reports/154/S154924.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Snellville (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately late night walk - late night walk minutes.</sub><blockquote><sub>Red silent light far up in the sky going at a fast paceMy mother and I was out doing our nightly walk with our dogs and she called me over to where she was.  She saw what she thought were two stars, but they started getting closer together.  Eventually when I got over there, one of them just took off and I saw the other one which was red in color move at a fast pace along the sky.  We see airplanes come and go often since we aren't that far from Hartsfield/Jackson airport in Atlanta.  We did not hear any noise at all like when regular aircrafts go over.  The red light eventually vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88294.html](http://www.nuforc.org/webreports/reports/088/S88294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
