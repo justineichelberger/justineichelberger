@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cayucos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was sitting at the pier on the beach having a bonfire. There was a group of 6 of us, the 2 of us that were sitting at the fire both saw the same thing at the same moment. The light of the fire drowned out any other stars and the clarity of the night sky. All of the sudden it looked like a shooting star but there was 4 perfectly aligned lights spaced all evenly, and they were bright, but perfect bright sphere lights unlike anything I have ever seen. These lights were significantly brighter than any star in the sky that night by a huge margin. The line of lights was above the horizon line of the Pacific Ocean and shot across a small portion of the sky and disappeared in mid air within a matter of a split second. We both looked at each other in disbelief of what we had just witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162671.html](http://www.nuforc.org/webreports/reports/162/S162671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Buenos Aires (Argentina) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>winged cylinder-shaped like a cross in the dark night. no lights.I was looking at the stars, when suddenly I noticed something moving.  Initially, it was difficult to identify it because it did not emit lights and camouflage itself with the color of the sky.When I could see it well it was winged cylinder-shaped like a cross and moved at a constant speed.  Its color was like metallic dark.  I followed it with my eyes for approximately 2 or 3 minutes until he disappeared on the horizon.  Its size was quite large, it was very clear once you identified it. We were two people who witnessed the event.As I said, it didn't have any kind of light. Total darkness.  And it was clearly seen.  I was on the terrace of my building, with my sister, during the quarantine at 9 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154924.html](http://www.nuforc.org/webreports/reports/154/S154924.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
