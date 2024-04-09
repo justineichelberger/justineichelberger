@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:51 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saunemin (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object lit up the sky and shifted directions before zooming over my head and into oblivion.At 11 on Saturday night I was sitting by a fire when, out of the corner of my right eye I saw the sky light up a bit.  At first I believed what I was seeing was simply a "shooting star" until the blue/green object shifted directions diagonally and zoomed over my head and disappeared.  I saw the object for about 5 seconds total, and it moved very quickly so I am not sure of the exact shape, but I do know what I saw was unlike anything I have seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80848.html](http://www.nuforc.org/webreports/reports/080/S80848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Duvall (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bursts of irregular flashing light moving across the outer curvature of the earthThe UFO started as a burst of flash about every minute, then a bigger more continuous flash as it began moving.  From where we stood at about 600ft. elevation, we watched the flashing begin at mid horizon, meaning in the sky between the horizon and straight up.  We could see it over a tree line rising 80 feet, as we stood about 100 feet away from those trees.  The flash was to the southeast, and moved in an eastward direction.  The object seemed to be far away in the sky, above an airplane flight path at 30,000 feet; closer then a satellite.  I thought something was exploding in space, like a decommissioned space station or maybe a larger pile of space trash.  The way it flashed at first, like something catching fire, then dropping a little, then really falling, but along the curvature of the earth, not straight down like a stone within our gravitational pull.  This was my first sighting of something I would have to call a UFO.  My partner was with me, he moved around in the field to catch the light from other angles.  We thought at first it might have been a plane coming in for a landing in Seattle, but the sudden explosive flashes in combination with its flight path did not match any plane we've ever watched coming in near SEATAC.  The UFO was moving away from any airport, and so far up in the sky, again, far higher then a jet in flight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126801.html](http://www.nuforc.org/webreports/reports/126/S126801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
