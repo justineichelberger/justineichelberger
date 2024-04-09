@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:12 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in South Elgin (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White -silverish round objects that started out perfect V formation, split up, circling and doing other shapes till disappearedSaw what I thought was a perfect"V" formation of birds right outside my house.  Sunny, blue sky day, some clouds.  Watched them, realized they were unusually high and white.  Trying to figure out what type of birds, when my husband came outside.  By then they had broken v formation and circled around each other.  I pointed them out, he couldn’t see them till he put on my sunglasses.  I realized they were not birds but couldn’t figure out what.  They were roundish shape, whitish and sometimes silver.  My husband suggested balloons, but I told him they were just in a perfect v formation.  It almost looked like they were playfully trying to make other shapes but not quite getting it.  I asked him to get the binoculars, never taking my eyes off them but then they just disappeared!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126936.html](http://www.nuforc.org/webreports/reports/126/S126936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sidney (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I just got finish watching a show about UFO's and then I went to the centers website and i say the photo of the Texas UFO and it looks like the ship that was first seen on June 24,1947 over Mount Rainer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44389.html](http://www.nuforc.org/webreports/reports/044/S44389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
