@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 9 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small light travelling fast slows to mid air stop for another light to catches up and they both slowyou flewith away.  Over center city.Waking from a nap in the living room of my loft to a beautiful clear sky and Shiney City skyline with unlimited visibility.  Watching aircraft fly normal pattern I saw a small but bright circular light which looked like another aircraft beat an aircraft of similar size to a reference point and slow to a mid air stop.  Another light caught up to it and they slowly begin travelling together before disappearing above my building.  I have footage from my Android S7 phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133500.html](http://www.nuforc.org/webreports/reports/133/S133500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mount Vernon (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>My two friends and I saw a triangular formation of lights in the sky and when we went to video tape them, they simply disappeared.At 2:00 a.m. on April 9, 2009, my two friends and I were leaving to pick up another friends when one of my friends noticed a weird formation of lights in the sky.He said that he had never seen them before and asked us if we had.  We said that we hadn't.  The 6 or 7 lights appeared to be moving slowly, but staying in the same general area.  We all took out our cell phones to videotape the lights, but they disappeared before we could get zoomed in.  The lights simply "turned off".The lights were too high in the sky to be from a building or tower and they moved too much.For the next few days, I searched the internet for similar sightings and found this website where there was a video of the exact same formation of lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69635.html](http://www.nuforc.org/webreports/reports/069/S69635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
