@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dandridge (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light moving over SeviervilleI was sitting on the front porch it was almost dark. I was in Dandridge TN, I live on top of a ridge facing the great Smoky Mountains. I can see 5 counties from my porch. I sit out their every evening and watch the sun set but I have never seen anything like this before. I watched bright light move across the sky. It was over the area of Muddy Creek, north East of Sevierville. The light, which was not blinking, was moving very slowly across the sky, using the Mountains as a reference the light was only a couple of hundred feet off the ground. Our mountains are only 6,000+ feet tall and it was at the base level. When it neared Sevierville the light dimmed and I lost it. this took about five minutes and the distance between when I first saw the light to when it dimmed and I lost it was about 7-8 miles and lasted 5 minutes. About 30 minutes latter I saw it again and it moved from Sevierville back the way it came to muddy creek, going to same speed and at the same elevation. It went back another 6-7 miles then I saw it land. I was able to see the light through the trees as it went behind the ridge. I didn’t see anything else that night. We have a lot of helicopters in the area, I have seen these and this was not helicopter, it was traveling too slow. We have an airport but an airplane cant land like that. Besides it is a very small airport. As far as a helicopter landing, no one with that much money lives in Muddy Creek. I have never seen anything like this before, I watch the evening sky every night, and I can see 5 counties but I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62921.html](http://www.nuforc.org/webreports/reports/062/S62921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Milton (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two flaming balls falling from the sky in Milton Florida, April 10, 2019I was on break at Waffle House off of Avalon Blvd. and Highway 10, when I spotted two flaming balls falling usually slow from the sky, a bit of a distance away.  I have videos of the objects, just not sure how to send them to you.  I thought it might be space junk, but I’ve seen no reports about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145620.html](http://www.nuforc.org/webreports/reports/145/S145620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
