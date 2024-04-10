@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Goffstown (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 05</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145702.html](http://www.nuforc.org/webreports/reports/145/S145702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Tompson (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4 hrs. - 4 hrs. minutes.</sub><blockquote><sub>Summary : At around 1:30 am. we saw a light searching the top of the trees.We discounted it as a hellicopter of poachers.After aboout an hour,hour and a half a bright light lit up the trees dirctallyin front of us for about 8 sec. It subsided andthe light started searching the trees again.Half an hour later the trees lit up again..By this time we decided to check it out..We went into the woods and nothing was there..we went back to the cabin and waited..It started happeningagain...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02163.html](http://www.nuforc.org/webreports/reports/002/S02163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
