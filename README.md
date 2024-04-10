@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Spanish Fort (AL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red diamond object in alabamaI was outside in my neighborhood around 8:10 pm , when i noticed a red blur rising from the west behind pine trees. The area it came from was empty forest about 2 miles west of my house. The object looked like a firework at first, it was rising slowly and was at about 1000 ft above my friend and I when it passed over and started to move swiftly over us towards the east.  As it passed over we noticed it was much bigger than we first thought.  The object was a red diamond with a blurry aura and a yellow light in the center, it was covering vast ground at a fast pace without making any noise, it was amazing how silent the object was.  As the object passed east it was ascending to incredible heights at a fast pace, until the object went straight up .  Before it disappeared i saw it twinkle like that of star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88345.html](http://www.nuforc.org/webreports/reports/088/S88345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Odessa (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 unknown aircraft escape after late night meteor impact sightings.On the night of April 10, 2014, between 2 & 4 am I exited my house by the back door and saw a flash of bright light in the sky.  At first I thought it was a large meteor that had entered the atmosphere.  I ran back into the house to call my roommate to see the large entail it had left in the sky.  When we went back into the back yard less than 30 seconds later, there were two bright red flashing objects flying from the point at which we could see the assumed meteor had hit.  One went to the right of us and behind a tree and the other flew to the left.  They both left white streaks in the sky originating from the exact place where the meteor trail hit the sky line.	We watched the object on the left as it flew across the sky and at first thought it must be a plane but there are no airports in that direction and it was moving extremely fast.  There was a solitary red blinking light and it left a perfectly straight white line in the sky.  When we stood on the bench in the back yard to get a better view of the lines in the sky we realized that the large object that had come down came from a point in the western sky.  The two red blinking objects left trails from exactly where the meteor would have hit and shot out of the impact site directly back to the exact same point in the sky that the larger object had come from.	We continued to look to the sky for the next 30 minutes without seeing anything further than the trails.  We tried to take pictures of the phenomenon but the ambient light was too bright to register anything on our phone cameras.  The trail from the large object continued to enlarge for another 30-40 minutes before dispersing. Upon writing this, I can still see faint white lines in the sky from the two objects that flew out of the area we thought the meteor hit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108501.html](http://www.nuforc.org/webreports/reports/108/S108501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
