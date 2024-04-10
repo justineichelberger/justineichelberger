@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:55 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Driving southbound on the 91 fwy in Riverside C.A. at about 11:30 pm a green orb appeared out of nowhere to my eleven o'clock it seemed to be maybe 500 feet off the ground i turned to my friend ,he was the passenger to see if the green orb caught his attention specially since the night sky was very clear the orb with the very dark sky just seemed to be impossible to miss,by the time i looked back to where the orb was it was in a split second streaking across the entire sky seemed to leave the earths atmosphere looking like something out of stars wars it was breath taking as it turns out my friend only caught the streak by the way the steak was also green to this day i wonder what it was that we witnessed that night wow is all i can say,oh by the way march air force base is a couple of miles directly past our seven second encounter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74438.html](http://www.nuforc.org/webreports/reports/074/S74438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pilot Hill (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately still going - still going minutes.</sub><blockquote><sub>6 flashing (stars) that moved in tight formationsAt first it was 2 rows of 3 blinking lights, then they broke apart and started flying random circles around something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108534.html](http://www.nuforc.org/webreports/reports/108/S108534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
