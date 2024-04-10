@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting of U.F.O.'s  above Las Vegas during daytimeI was in my hotel room laying on the bed when I saw what I thought looked to be a piece or white paper drifting down.  There had been pretty high winds throughout the day and it would not have suprised me as we were on the 10th floor of the Rio Tower. Our room looked out over the back of Ceasars, and the Marage. Anyway,  I told my wife to look at it and she said it looks like a parachute coming down.  I jumped up to my feet and told my wife to hand me my glasses.  It appeared to be a parachute coming down with a wobble. I was unable to tell the size,  but it seemed to be about 2000 ft or so high.  Again,  I couldn't get a good idea of the size.  The closer it got the more it looked like it was the top of a mushroom or a jellyfish, without tenacles.  I then thought maybe a weather baloon.  I have an A&P linense and have been in the Aviation industry since I was 18 in the U.S.A.F. and have worked on the flight line day and nighttime hours for the rest of my life working as a line mechanic. I don't feel that I get fooled easily by objects in the sky.  I have never seen anything that I thought couldn't be explained away before.  Now for what was unbelievable to me.  The object then stop decending and started to rise.  It continued to rise until it looked like a small star, it was very bright as it moved higher, then made a left turn and went a small ways to the left and then, get this! It completely reversed and started back the way it came. There were some clouds about, but my view was to a clear blue sky.  They object then began to climb at an angle and met with another object about the same size that came down from above it. They move together up and to the right until they disappeared from view. In the next few minutes, as I continued to watch the same area of the sky, I shaw three more decend,  but not nearly as close to the earth. They too started to climb  and change directions as they move out of my sight.  There were some large planes with contrail flying over,  but these objects had no contrail. ! Being i n the hotel room,  I was not able to here any sound. I am now 55 years old and I am glad that I have finally seen what I believe to be a sighting of a craft that was not from this Earth.  If it was from here, we really have some great stuff that we're not telling anyone about.  I think this pretty well covers what I swear I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17234.html](http://www.nuforc.org/webreports/reports/017/S17234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>white streaks of light in formationsix streaks of white lights 4 in front two behind in close formation flew over my house. no sound.  Very rapid. not "shooting" stars. low in the sky and large.  They were fanned out as if in a formation and the speed with which they were going was incredible.  Came out of the southern sky headed north.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108524.html](http://www.nuforc.org/webreports/reports/108/S108524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
