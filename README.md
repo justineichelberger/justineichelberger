@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Milton (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two flaming balls falling from the sky in Milton Florida, April 10, 2019I was on break at Waffle House off of Avalon Blvd. and Highway 10, when I spotted two flaming balls falling usually slow from the sky, a bit of a distance away.  I have videos of the objects, just not sure how to send them to you.  I thought it might be space junk, but I’ve seen no reports about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145620.html](http://www.nuforc.org/webreports/reports/145/S145620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenixville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>it was changeing shapes and it was to far to make out the shape but it was turning from a dull red to a bright white.it moved very slow and at times it just hovered over the houses i have  never seen anything like this object it was beutiful I called my step doughter to see what i was looking at i asked her if she thougt it could be a airplane but she said it was blinking on and off and changing colors from dull red to bright white i cant balive my eyes i know my spelling is not all that but im trying to get this to you A.S.A.P this is no joke!!!! please help me to understand what i just saw. ps there were airplanes that flew right under it more then 4 or 5 some in those planes had to have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22482.html](http://www.nuforc.org/webreports/reports/022/S22482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
