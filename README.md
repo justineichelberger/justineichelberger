@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:55 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pilot Hill (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately still going - still going minutes.</sub><blockquote><sub>6 flashing (stars) that moved in tight formationsAt first it was 2 rows of 3 blinking lights, then they broke apart and started flying random circles around something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108534.html](http://www.nuforc.org/webreports/reports/108/S108534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>looked in the sky and saw a very bright light. Suddenly, it bagan to move. It flashed its lights off and then when it flashed back on,I walked out on my friend's deck.  I looked in the sky and saw a very bright light.  At first, I thought it was a star because it wasn't moving.  I continued looking at it because I'm a star gazer and it was extremely bright. I kept trying to figure out which star it might be.  Suddenly, it bagan to move.  It flashed its lights off and then when it flashed back on, it was two seperate objects.  It flew toward the house and then headed north-east.  It was flashing multiple colors and was shaped like a triangle.  The triangle has colors flashing through it as if it were a lit-up, transparent, floating pyramid.  The objects flew very close to each other and the lights shifted on each at the very same time.  There was little noise but I did hear some sort of buzzing sound. I watched both objects fly away together exclaiming the entire time, "What the hell!"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108533.html](http://www.nuforc.org/webreports/reports/108/S108533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
