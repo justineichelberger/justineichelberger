@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Saratoga Springs (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Strange lightThe object observed is a bright white light that flickers and dances from side to side but stays in one general location. The object has been observed on 2 other ocasions. After a period of time it eventualy dances to one side and vanishes with out a sound or tace left behiend it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22480.html](http://www.nuforc.org/webreports/reports/022/S22480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>image of a sphinx in a cloud of light  over manhatten at 2:am along with two fighter jetsFrom my window I get a very nice view of manhatten. Sometimes when it's not cloudy a heavy cloud which looks like a light hover's over the city of manhatten' and whenever I see this cloud of light at night I wonder why is it so bright, so I took a picture of it with my cell phone. After takeing the picture I zoomed in. I was shocked to see a shape of a sphinx within the cloud and what appeared to be two images of fighter jets. I showed the picture to some friends and they were puzzled but said yeah there's something there. After a few weeks the image was gone but the picture of the cloud was still there. I knew something happened (not on my part)so I retrieved it from a friend I once transfered the picture to his cell phone,he became spooked out and deleted it after the transfer,once again the image disappered after three weeks.I always knew there was something in those clouds. And why are those fighter jets always in the sky at night.I still have the pictur! e but no image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73186.html](http://www.nuforc.org/webreports/reports/073/S73186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
