@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>image of a sphinx in a cloud of light  over manhatten at 2:am along with two fighter jetsFrom my window I get a very nice view of manhatten. Sometimes when it's not cloudy a heavy cloud which looks like a light hover's over the city of manhatten' and whenever I see this cloud of light at night I wonder why is it so bright, so I took a picture of it with my cell phone. After takeing the picture I zoomed in. I was shocked to see a shape of a sphinx within the cloud and what appeared to be two images of fighter jets. I showed the picture to some friends and they were puzzled but said yeah there's something there. After a few weeks the image was gone but the picture of the cloud was still there. I knew something happened (not on my part)so I retrieved it from a friend I once transfered the picture to his cell phone,he became spooked out and deleted it after the transfer,once again the image disappered after three weeks.I always knew there was something in those clouds. And why are those fighter jets always in the sky at night.I still have the pictur! e but no image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73186.html](http://www.nuforc.org/webreports/reports/073/S73186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Driving southbound on the 91 fwy in Riverside C.A. at about 11:30 pm a green orb appeared out of nowhere to my eleven o'clock it seemed to be maybe 500 feet off the ground i turned to my friend ,he was the passenger to see if the green orb caught his attention specially since the night sky was very clear the orb with the very dark sky just seemed to be impossible to miss,by the time i looked back to where the orb was it was in a split second streaking across the entire sky seemed to leave the earths atmosphere looking like something out of stars wars it was breath taking as it turns out my friend only caught the streak by the way the steak was also green to this day i wonder what it was that we witnessed that night wow is all i can say,oh by the way march air force base is a couple of miles directly past our seven second encounter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74438.html](http://www.nuforc.org/webreports/reports/074/S74438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
