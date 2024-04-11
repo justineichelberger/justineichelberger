@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Monreal (Canada) (PQ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Summary : two seperate UFO sightings, moments apartTwo students, myself and my friend, were on the roof of an apartments building at 2:30 am and witnessedthree classically saucer-shaped things flying over the city. Moments after we noteced them, they seemedto turn on a 45 degree angle and dissapear. About 30 seconds later we saw what looked like one of theseobjects, only a fair size bigger and further away. WE lost sight of it when it moved behind a building.A minute or so later, we saw six more, much much closer, seemingly flying in a V formation. They tooturned on an angle and seemed to dissapear. They seemed to glow white light. Both myself and my friendor good students, and reliable sources.I will fill my new address in the Witness contact Info area, as I am moving on the 1st of May.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02140.html](http://www.nuforc.org/webreports/reports/002/S02140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Medford (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Pinkish reddish, shape was oval, hoveredWe saw people stoped on the side of the road looking up and pointing at a hill so we stoped and started to look and we quickly realized there was a pinkish reddish oval craft hovering in the air.  So we got out are phones and as I was taking the picture I saw it on the screen, after I took the picture I went to look at it and it would not appear in the photo we try multiple times and nothin worked.  After that we saw it move around the mountain like it was trying to find a place to land.  It made it around the mountain so we kept driving.  Then we looked at the same spot again like 5 min later and it was back and hovering and did the exact same thing again the only thing that was different is when is went around the mountain if never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155029.html](http://www.nuforc.org/webreports/reports/155/S155029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
