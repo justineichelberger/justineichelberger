@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Auto mechanics rept. bizarre red light that streak around shop, "like laser."  Appears to come down out of sky; no other people nearby.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01411.html](http://www.nuforc.org/webreports/reports/001/S01411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Flagler Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>This event should have been witnessed by hundreds in Flagler Beach/My guess is aircraft borne flaresThese objects were lights appearing as if they were flares dropped from aircraft.  A string of lights appeared and slowly faded, but not in sequential order of appearance.  When first seen they appeared in a line leading toward the Atlantic shore.  They seemed to come from an aircraft.  A sound similar to a jet aircraft was briefly heard, but not throughout the event.  Lights appeared in a line approaching the coast, but none seen deployed over land.  I have I-phone video.  Lat  29°30'22.94" N Long  81° 7'8.17" W approximate location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118391.html](http://www.nuforc.org/webreports/reports/118/S118391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
