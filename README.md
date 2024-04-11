@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southbend (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Basically, a white UFO with a red light would disappear and reappear, had a metallic humming noise in its direction,I seen a UFO it was a White, looked like a starin the sky.  It hovered in the sky in the same spot then after a while moved a little bit.  It had a red light on it, this light would appear on the ufo and looked attatched but orbiting around the ufo.  I heard a metallic humming noise in its direction, after a while of watching it I tried to show my grandma and it disappeared and when she left it re-appeared, I tried recording it and it slowly moved and disappeared so I couldnt get footage.  The UFO reappeared and disappeared whenever I tried to film or get someone to look.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108891.html](http://www.nuforc.org/webreports/reports/108/S108891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in South Lake Tahoe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light over South Lake Tahoe, CAI went out onto an upstairs balcony for some air and noticed a very bright light, low in the Western sky, over Echo Summit in the Sierra Nevada Mountains. It was too large and much too bright and in the wrong place to be a star or planet and it was relatively stationary. As I watched it began to move slightly down and to the right and then it remained stationary once again. It was not blinking or 'twinkling', though the light appeared to shine much like a diamond. There was no sound. I called to everyone else who was home at the time to come and look at it. They saw it move as well. When videotaped, the object appeared to grow larger and smaller, though we think it was just becoming brighter/dimmer and it was difficult to see what it was since the night was very dark and there was no other stationary frame of reference for the camera. When viewed through binoculars the shape was spherical, rather violet in color with rotating green rings about it with a slight red/orange trail. We called some friends, who lived in other areas nearby, but a few miles away to ask if they could see it as well - which they could. We sat watching it for some time, while it continued to 'hover' and move slightly up, down, left and right. It (very) slowly began moving West and then disappeared at around 10:30pm.((NUFORC Note:  Possible sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36275.html](http://www.nuforc.org/webreports/reports/036/S36275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
