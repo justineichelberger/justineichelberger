@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in South Lake Tahoe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light over South Lake Tahoe, CAI went out onto an upstairs balcony for some air and noticed a very bright light, low in the Western sky, over Echo Summit in the Sierra Nevada Mountains. It was too large and much too bright and in the wrong place to be a star or planet and it was relatively stationary. As I watched it began to move slightly down and to the right and then it remained stationary once again. It was not blinking or 'twinkling', though the light appeared to shine much like a diamond. There was no sound. I called to everyone else who was home at the time to come and look at it. They saw it move as well. When videotaped, the object appeared to grow larger and smaller, though we think it was just becoming brighter/dimmer and it was difficult to see what it was since the night was very dark and there was no other stationary frame of reference for the camera. When viewed through binoculars the shape was spherical, rather violet in color with rotating green rings about it with a slight red/orange trail. We called some friends, who lived in other areas nearby, but a few miles away to ask if they could see it as well - which they could. We sat watching it for some time, while it continued to 'hover' and move slightly up, down, left and right. It (very) slowly began moving West and then disappeared at around 10:30pm.((NUFORC Note:  Possible sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36275.html](http://www.nuforc.org/webreports/reports/036/S36275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was returning home with my mother and sister one night in April. It was about 8:00 or 9:00 because I remember it being about 30 minutes after the sun had set. I was walking to the porch when I happened to look up at the sky.  Normally we get a lot of airplane traffic above our house as the airport is about 15 miles away at most so I always look in the sky to see if there is anything out of the ordinary. I was looking up at the sky and walking onto the porch when I noticed an orange star. I went over the the north side of the porch which faces toward downtown and went to go look at the star again.I suddenly noticed this orange/red orange star was moving. It was very high in the sky, and very very light. It was moving straight and made no sound. All of a sudden it ballooned into three orange objects like when a firework explodes and rains down. The objects then made a 360 and at that point I thought they would hit each other and that they could be military aircraft. But they didn't and they seemed to be racing. But the further away they moved the harder it was to see them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89143.html](http://www.nuforc.org/webreports/reports/089/S89143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
