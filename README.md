@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rochester (?) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>three orbs in the sky over rochester nyi was sitting in my driveway in the car when i looked to my left and i saw 3 orange lights in the sky.  object 1 was leading object 2 was over to the left of 1 and object 3 was behind 1 and 2 and to the right, like three points of a check mark.  the objects were moving at a constant speed and they stopped i got out of the car told my granddaughter to look and she saw them as well.  we got out of the car went around the side of the house and they were just sitting there in the sky not moving. they sat there for what seemed to be a minute or so and they disappered in the trees.  went in the house and my granddaughter looked out the window and she said the were blinking but i did not see them at that time.  when i woke the next morning i had a strange noise i my right ear it sounded like a radio the couldn't find a station just static, it lasted on and off over the course of the day and then stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108664.html](http://www.nuforc.org/webreports/reports/108/S108664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in India (city not specified) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange sphere shaped object.Seen a orange sphere moving towards moon.  I was not a flight as I had seen one flight 5 minutes before, and flights lights are red and they blink.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133528.html](http://www.nuforc.org/webreports/reports/133/S133528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
