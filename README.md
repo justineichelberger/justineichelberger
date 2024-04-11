@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rockledge (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 UFO bright white sphere disc crafts seen over Rockledge Fl by mother and adult son.The objects were bright white color, disc sphere shape moving at high rate of  speed crossing from southward to moving toward east within seconds as in a blink of an eye.  The first one observed was in the south sky and moved eastward to joined one in the east sky.  It moved at a high rate of speed as in a blink of your eye once it was south then it was east.   We observed the two make rapid maneuvers around each other that no known aircraft can make.  They were at least 30-40,000 feet in the sky.  Then one of the craft stop moving as in hovering and the second craft move southeast and upward slowly.  Within a second the first craft that was hovering began to move slowly toward the second craft.  At it met the second craft, the two crafts shot upward very rapidly and then just disappeared.  They made no sound while in flight nor made any sonorant boom as they disappeared.  This was observed by myself age 53 yrs old and my son age 29 yrs old.  This is the 3rd time I have seen them and the first time for my son. Everyone including this son thought I was crazy before.  Now I have my son who has seen it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108572.html](http://www.nuforc.org/webreports/reports/108/S108572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southbend (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Basically, a white UFO with a red light would disappear and reappear, had a metallic humming noise in its direction,I seen a UFO it was a White, looked like a starin the sky.  It hovered in the sky in the same spot then after a while moved a little bit.  It had a red light on it, this light would appear on the ufo and looked attatched but orbiting around the ufo.  I heard a metallic humming noise in its direction, after a while of watching it I tried to show my grandma and it disappeared and when she left it re-appeared, I tried recording it and it slowly moved and disappeared so I couldnt get footage.  The UFO reappeared and disappeared whenever I tried to film or get someone to look.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108891.html](http://www.nuforc.org/webreports/reports/108/S108891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
