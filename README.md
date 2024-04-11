@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Airplane like UFO turns on a row of lights  after coming to a complete stop in front of me.I was leaving my cousins house and as I approached the stop sign I saw in the distance real low, two bright lights like those of an airplane. I thought to myself "wow an airplane here? the only big planes that fly here are skybus and they are out of business" so I sat there watching it and as it approached me, the lights got brighter and all of a sudden it stopped. It was maybe 1,000 feet above me straight ahead and it just stopped. Then all at once, about 5 more lights flashed on. It was huge! As soon as I saw it I knew what it was and I started screaming hysterically and crying. I could see the exact saucer shape of it with a smaller half circle light on the top. I got the goosebumps and chills made my turn watched it for like 10 seconds after the turn and then it was gone. It just disappeared and I continued screaming and crying clenched onto my steering wheel. It was the scariest thing ever.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62799.html](http://www.nuforc.org/webreports/reports/062/S62799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Monreal (Canada) (PQ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Summary : two seperate UFO sightings, moments apartTwo students, myself and my friend, were on the roof of an apartments building at 2:30 am and witnessedthree classically saucer-shaped things flying over the city. Moments after we noteced them, they seemedto turn on a 45 degree angle and dissapear. About 30 seconds later we saw what looked like one of theseobjects, only a fair size bigger and further away. WE lost sight of it when it moved behind a building.A minute or so later, we saw six more, much much closer, seemingly flying in a V formation. They tooturned on an angle and seemed to dissapear. They seemed to glow white light. Both myself and my friendor good students, and reliable sources.I will fill my new address in the Witness contact Info area, as I am moving on the 1st of May.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02140.html](http://www.nuforc.org/webreports/reports/002/S02140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
