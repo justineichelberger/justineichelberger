@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Salina (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Glowing sphere moving much faster than any aircraft I've seen near that altitude.I went out to have a cigarette and I saw a glowing white circle of light very high up that was glowing brighter than most of the stars in the sky,  it was moving much faster than any aircraft I've seen near that altitude.  It was moving North to South when I first noticed it and after about 30-45 seconds it immediately changed direction heading East South East and appeared to be increasing in altitude.   There were no flashing lights, it slowly got smaller until it dimmed out and I couldn't see it anymore leading me to believe it was increasing in altitude.  I decided to report it because I haven't seen aircraft quite that high up and the closest to that altitude that I have seen them the flashing lights were always clearly visible and this was just glowing white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80834.html](http://www.nuforc.org/webreports/reports/080/S80834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 ft orb downtown orlandoAbout 20 minutes prior to dusk, I was sitting in my front yard in downtown Orlando facing West (the sun had already set below the tree line). Above my head I saw an orb about 100yds in the sky, perhaps 3ft in diameter. I thought it was a childs balloon drifting, but quickly noticed it was not floating but taking a direct SE to NW course over my home at a constant rate of speed (maybe 20 mph). No sound. Dark, maybe muddy bronze in color with aura (no color) around it – more like a magnetic field .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62818.html](http://www.nuforc.org/webreports/reports/062/S62818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
