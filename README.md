@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bismarck (ND) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>silver disc shaped object flying extremely fast at a low altitudeI was having breakfast with my wife at a local restaurant.  Our table was located right next to a large picture window, facing North at the end of Main Street.  As I looked out, I noticed a small Cessna airplane flying slowly on its final approach to the Bismarck airport.  Just as I was losing sight of the Cessna, I looked back to my right and spotted a silver metallic object flying extremely fast in a straight line from East to West.  The object appeared to be disk shaped, similar to a double-convex lens if looked at from a side view.  The object was approximately 1/4 mile to the North and appeared to be flying at a lower altitude than the Cessna had been, I estimate about 300 to 400 feet above ground level.  I believe the airplane would have been moving at about 80 knots, therefore, I would estimate the disk shaped object was moving at between 500 and 700 mph, as I lost sight of it within 2-3 seconds.  The object appeared to be a little smaller than the airplane, approximately 18 feet in diameter.I am an amateur radio operator and trained weather spotter.  I have taken fixed wing flying lessons and have built and flown R.C. model aircraft for many years.  I am familiar with most types of aircraft and I have seen anything in the sky like this before.((NUFORC Note:  We spoke via telephone whith this witness, and we found him to be exceptionally lucid and eloquent.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69645.html](http://www.nuforc.org/webreports/reports/069/S69645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rockledge (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 UFO bright white sphere disc crafts seen over Rockledge Fl by mother and adult son.The objects were bright white color, disc sphere shape moving at high rate of  speed crossing from southward to moving toward east within seconds as in a blink of an eye.  The first one observed was in the south sky and moved eastward to joined one in the east sky.  It moved at a high rate of speed as in a blink of your eye once it was south then it was east.   We observed the two make rapid maneuvers around each other that no known aircraft can make.  They were at least 30-40,000 feet in the sky.  Then one of the craft stop moving as in hovering and the second craft move southeast and upward slowly.  Within a second the first craft that was hovering began to move slowly toward the second craft.  At it met the second craft, the two crafts shot upward very rapidly and then just disappeared.  They made no sound while in flight nor made any sonorant boom as they disappeared.  This was observed by myself age 53 yrs old and my son age 29 yrs old.  This is the 3rd time I have seen them and the first time for my son. Everyone including this son thought I was crazy before.  Now I have my son who has seen it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108572.html](http://www.nuforc.org/webreports/reports/108/S108572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
