@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:40 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It was around 11:15 pm, my boyfriend and i were laying in bed my bed faces my window we heard what sounded like a car running outside of the house.  After about 2 minutes i looked to see who's car it was, but i could see a car in sight the sky then started to light up.Not a big bright light but lightened up enough to where i was paying attention what started as a single white flashing light far away in the sky kept fly closer as it got closer i could see 3 lights in the shape of a triangle but kind of rounded a light in the middle with a red flashing light hovering the top middle light  i instantly made my boyfriend come and see what i was seeing and he was shocked i stared out the window and seen the same light reappear  in the same exact spot and come by the same exact way starting as a single light and turning into this flying object i looked closer out the window and could see the light where turning side ways and i looked like it was spiriling  i have never seen anything like this before in my life but i witnessed this same event happen in about 10 minute intervals 4 times the same night and so did my boyfriend it flew by the same exact way and the sky was very bright for being so late at night im not a crazy person</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139425.html](http://www.nuforc.org/webreports/reports/139/S139425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A light appeared within a stationary cloud, finally going out and the cloud dissipated rapidly.I have two floor-to-ceiling windows in the bedroom that I keep the curtains pulled backto enjoy the city-scape lights a night. Looking out the window while sitting in the bed about 11PM, I saw a little cloud about 1/2 - 1 mile away.  It appeared to be shaped like the state of Virginia.... With the Spring winds blowing from the Northeast, oddly it was completly still about 100 - 200 ft higher than I am on the 30th floor. It was located just South of Punchbowl crater, out over the city.  After I noticed it wasn't moving in the winds, I began to study its shape from the reflected light of the city streets below......then a light appeared in the cloud, like you see when an airplane is letting down thru clouds at night with the landing light on.  First the light was fuzzy inside the cloud then, the light became a bright peachy-orange color... like it broke out of the cloud... I was trying to adjust my eyes to make sure it really wasn't a plane…  The light became! clear and brighter, in a full circle/ball shape, about center of the cloud. It was a stable light, not flickering like a burning flare appears.  Then the round light went back into the cloud with about half the round shape visible/hanging out of bottom of the cloud, bright on the bottom and diffused in the cloud.  Suddenly the light just went out.  From the lights of the city, the little cloud was still visible with a black, perfectly round hole in it.  The little cloud didn't just drift off, it quickly faded away without moving.... odd, considering the strong, gusty wind that night. I wish I had taken a picture/video, but I was fixed on the activity!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88533.html](http://www.nuforc.org/webreports/reports/088/S88533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
