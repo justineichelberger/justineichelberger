@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Videotaped a yellow blinking sphere and another orange orb belowCame outside to look up again, and spotted a yellow sphere like shape that was flashing or almost spinning. Took my camera out and began recording and a smaller orange sphere appeared below the brighter yellow twinkling/spinning sphere. It would blink but not in any specific pattern like an airplane. It continued to blink and look as if it was rising toward the larger sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162685.html](http://www.nuforc.org/webreports/reports/162/S162685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bismarck (ND) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>silver disc shaped object flying extremely fast at a low altitudeI was having breakfast with my wife at a local restaurant.  Our table was located right next to a large picture window, facing North at the end of Main Street.  As I looked out, I noticed a small Cessna airplane flying slowly on its final approach to the Bismarck airport.  Just as I was losing sight of the Cessna, I looked back to my right and spotted a silver metallic object flying extremely fast in a straight line from East to West.  The object appeared to be disk shaped, similar to a double-convex lens if looked at from a side view.  The object was approximately 1/4 mile to the North and appeared to be flying at a lower altitude than the Cessna had been, I estimate about 300 to 400 feet above ground level.  I believe the airplane would have been moving at about 80 knots, therefore, I would estimate the disk shaped object was moving at between 500 and 700 mph, as I lost sight of it within 2-3 seconds.  The object appeared to be a little smaller than the airplane, approximately 18 feet in diameter.I am an amateur radio operator and trained weather spotter.  I have taken fixed wing flying lessons and have built and flown R.C. model aircraft for many years.  I am familiar with most types of aircraft and I have seen anything in the sky like this before.((NUFORC Note:  We spoke via telephone whith this witness, and we found him to be exceptionally lucid and eloquent.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69645.html](http://www.nuforc.org/webreports/reports/069/S69645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
