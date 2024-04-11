@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 10 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A soft white couple of opposing chevrons flew silently over.I am a sober middle aged man with glasses. I haven't been diagnosed with mental illness nor ever had a hallucination, to my knowlege. I was outside on my front porch which faces West when movement in the sky drew my attention. I saw a soft white series of lights that looked more like reflections of moonlight than self luminous. There seemed to be two chevrons, one pointed forward and one pointed to the rear at a slight askew, upwards angle, with a distorted, perhaps reflective area between. It blocked out the stars and hazy high level clouds as it passed but some distorted lights seemed to be reflected in the area between the chevrons, which I assumed were reflected city lights. It's size was slightly larger than a silver dollar held at arms length.  Within 4-6 seconds it passed from about 40 degrees to the Southwest to 45 degrees to the Northeast where it faded from sigh. It made no sound and there was no way to judge speed or size, other than getting an impression that it was larger than a private plane in size and much faster than any normal aircraft, but I cannot say with certainty. There were no standard navigation or running lights and I am fairly familiar with aircraft. I am convinced this was something unusual. This was over Tucson, between downtown and the University.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162782.html](http://www.nuforc.org/webreports/reports/162/S162782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It was around 11:15 pm, my boyfriend and i were laying in bed my bed faces my window we heard what sounded like a car running outside of the house.  After about 2 minutes i looked to see who's car it was, but i could see a car in sight the sky then started to light up.Not a big bright light but lightened up enough to where i was paying attention what started as a single white flashing light far away in the sky kept fly closer as it got closer i could see 3 lights in the shape of a triangle but kind of rounded a light in the middle with a red flashing light hovering the top middle light  i instantly made my boyfriend come and see what i was seeing and he was shocked i stared out the window and seen the same light reappear  in the same exact spot and come by the same exact way starting as a single light and turning into this flying object i looked closer out the window and could see the light where turning side ways and i looked like it was spiriling  i have never seen anything like this before in my life but i witnessed this same event happen in about 10 minute intervals 4 times the same night and so did my boyfriend it flew by the same exact way and the sky was very bright for being so late at night im not a crazy person</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139425.html](http://www.nuforc.org/webreports/reports/139/S139425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
