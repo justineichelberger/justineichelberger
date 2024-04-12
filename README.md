@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Middlesbrough (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>definitely not commercial or military aircrafti have witnessed four bright ornage shaped circular objects in the sky, in an arrow like formation, they hovered over where i was, but still at a very great distance away, too far to make out what they were, then one by one in order from right to left, they faded out, while moving fast to the left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69622.html](http://www.nuforc.org/webreports/reports/069/S69622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Four light, red center, yellow light emitted as it moved in orb manner.I went outside after I learned a friend was killed on his way home after work on his motorcycle.  I went outside to pray and get some air.  It was about 3 AM EST, USA.I was looking at the sky and there was this object. It was between two stars.  We are in the city and don't see many stars here so it was clearly something different.It appeared to be four stars grouped together but it moving very fast.  I went in the house and got my husband and camera with video on it and went back outside with him.  I started filming it, zooming in you could then see it was like two Z shapes attached at the center.  It was moving in an orb manner emitting a yellow light- as if a centrifuge force.  It was huge! It was moving very fast.I know aircraft and it was not an aircraft of Earth origin.I have a video of it I uploaded to youtube if your interested contact me for the link.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108618.html](http://www.nuforc.org/webreports/reports/108/S108618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
