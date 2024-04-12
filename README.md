@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Circular blue object traveling east to west over Central California Coast.I am a chef working in Monterey CA.  At approximately 10:05 p.m.  I had stepped outside to take a break after completing a party.  I look up at the night sky and saw an incandecent blue, circular object moving from east to west.  I cannot say what size it was or at what altitude it flew, but if you were to hold a quarter at arms length, that would be approximately the size of the object against the sky.  As for the altitude somewhere above the cumulus clouds and below the cirrus clouds.  The object completely dissappeared behind the cumulus clouds.  There was no sound accompanying the object, nor was there any trail or tail that might indicate a meteor or shooting star.((FOLLOW-UP REPORT FROM SAME WITNESS))Circular blue object traveling east to west over Central California Coast.I am a chef working in Monterey, Ca.  At approximatly 10:05 p.m. I was outside taking a break after completing a party.  I looked up at the night sky and saw an incandecent blue, circular object moving east to west.  I cannot guess the size or at what altitude it flew, but if you were to hold a quarter at arms length that would approximate the size of the object against the sky.  As for the altitude, I can safely say that it flew above the height of cumulus clouds and below the height of cirrus clouds because the light completely dissappeared behind the cumulus clouds.  There was no sound accompanying it, nor was there any tail or trail that might indicate a meteor or shooting star.((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28407.html](http://www.nuforc.org/webreports/reports/028/S28407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White/blue/green object and orange objects flying fast and changing direction too quickly.One green/blue disc shaped object sporadically flying in the sky when an orange fireball like object seemed to have been shot out of it or flew past it.  The blue/green object disappeared while the orange one flew in one direct with no trail left behind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108578.html](http://www.nuforc.org/webreports/reports/108/S108578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
