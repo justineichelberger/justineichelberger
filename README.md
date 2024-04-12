@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 11 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Medford (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Pinkish reddish, shape was oval, hoveredWe saw people stoped on the side of the road looking up and pointing at a hill so we stoped and started to look and we quickly realized there was a pinkish reddish oval craft hovering in the air.  So we got out are phones and as I was taking the picture I saw it on the screen, after I took the picture I went to look at it and it would not appear in the photo we try multiple times and nothin worked.  After that we saw it move around the mountain like it was trying to find a place to land.  It made it around the mountain so we kept driving.  Then we looked at the same spot again like 5 min later and it was back and hovering and did the exact same thing again the only thing that was different is when is went around the mountain if never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155029.html](http://www.nuforc.org/webreports/reports/155/S155029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Camillus (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The ships were humming and faintly glowing.I was sleeping in my farmhouse when I heard a strange humming noise that woke me up.  I got up to go to the bathroom and looked outside my window.  There were 2 ships like an elongated oval and one was faintly glowing green, the other one red.  I watched in disbelief for 10 minutes as they drove in little circle patterns and woke my wife and son and they finally flew away.((NUFORC Note:  Witness provides no contact information.  Possible hoax, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75057.html](http://www.nuforc.org/webreports/reports/075/S75057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
