@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:47 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw black triangle like aircrafts that moved in a zig zag patterns,  All of them had red and white lights and mysteriously dissapeared.  One of them released some sort of stream of chemicals into the air.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145655.html](http://www.nuforc.org/webreports/reports/145/S145655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dayton (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A bright white light disappearing  and reappearing in the sky which then descended straight down out of sightI am a trained surgical technican however; I am working as the accountant for our privately owned business.Where I am located:  Northeastern corner of Armstrong Co., PA, U.S.A. / sun rises at 90 degrees East of North, from our rural home.Area of sky where light was seen:  40 to 45 degrees East of North / from where I stood the object was at an angle of 35 to 45 degrees upward.Description:  There was a very bright white light, roughly the size and brightness of the 'Arcturus' star (maybe a bit larger and brighter), to the naked eye, above the tree line.  My thought was, "I do not remember seeing a star or planet in that part of the sky, that bright, this week."   Just as I had said that to myself, the light disappeared.  Seconds later, the light reappeared, seeing it through the leafless trees and again it disappeared.  A few seconds later, it reappeared a bit lower and more to the east.  At that point, I watched it slowly descend straight down until I could no longer see it, due to the hillside.  It was not as bright when it was in the tree line however, never changed size.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We spoke via telephone with this witness, and she sounded to us to be quite well-spoken and objective in her description of the lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88389.html](http://www.nuforc.org/webreports/reports/088/S88389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
