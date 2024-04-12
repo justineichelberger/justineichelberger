@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in James Island (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO sighting on James Island SCMy mother and I were on the way home around 21:00PM.  We spotted 3 blinking lights hovering over the creek across the street from the house.   When we saw it, it was just hovering in one spot.  I downed the window to see it clearer and it didn't make any sounds.  The lights of the object were far apart as if it was a large object and it started moving at a snails pace behind some trees and we didnt see it again.  It was so low and moving so slowly that it couldn't possibly have been a regular type of aircraft.  I have never seen anything like it.  Nor, have I ever believed in UFOs until tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88377.html](http://www.nuforc.org/webreports/reports/088/S88377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Brandywine (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>was heading north on RT 202 at 7AM.  A thunderstorm cloud drifted over west to east.  As it became directly in front of me, I could see a black triangle just showing through the lower bottom end of cloud.  Drifting at the same pace of the cloud.  No noise, no lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139429.html](http://www.nuforc.org/webreports/reports/139/S139429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
