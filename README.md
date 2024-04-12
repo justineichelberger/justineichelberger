@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Prince George (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Hovering oval shope reflecting forest below it.Although this is a year after the fact.  As I remember, I was driving up foothills when I noticed something odd to my left. I did not stop, but I kept looking and noticed an oval shaped object hovering over a small valley at eye level. The odd part about it was that the object was reflecting the trees from below and the sky above. It was a perfect mirror image. The object was about the size of a medium sized car. I also remember reading in the Prince George Citizen about crop circles in Moores meadow park a day or two prior to my sighting.(NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42734.html](http://www.nuforc.org/webreports/reports/042/S42734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Man sees formation of 10-12 dimly lit amber lights in wedge-formation pass E to W overhead at VERY high speed, like shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01431.html](http://www.nuforc.org/webreports/reports/001/S01431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
