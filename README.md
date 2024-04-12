@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Four light, red center, yellow light emitted as it moved in orb manner.I went outside after I learned a friend was killed on his way home after work on his motorcycle.  I went outside to pray and get some air.  It was about 3 AM EST, USA.I was looking at the sky and there was this object. It was between two stars.  We are in the city and don't see many stars here so it was clearly something different.It appeared to be four stars grouped together but it moving very fast.  I went in the house and got my husband and camera with video on it and went back outside with him.  I started filming it, zooming in you could then see it was like two Z shapes attached at the center.  It was moving in an orb manner emitting a yellow light- as if a centrifuge force.  It was huge! It was moving very fast.I know aircraft and it was not an aircraft of Earth origin.I have a video of it I uploaded to youtube if your interested contact me for the link.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108618.html](http://www.nuforc.org/webreports/reports/108/S108618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Easley (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>8 Red/Orange spheres flying slow and very low at night.The objects are sphere like and are orange or red in color.  They fly low and slow, sometimes seeming to just stop and hover, before fading out to nothing.  You cannot hear any noise at all, like with a plane or helicopter flying over.  While staring at them closely they appear to have bursts of the same color light around them.  They are solid red or orange and do not blink at all.  I saw 8 tonight, first two, then 2 more, then 3, then one.  No more than 3 were in sight at one time.  I have seen them before about 6 months ago.  At that time it was only 3 and they all hovered in one spot for over 10 minutes in a triangle pattern, then just faded out to nothing.  I have never really believed in UFO'S, but I really like to know what these are!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145619.html](http://www.nuforc.org/webreports/reports/145/S145619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
