@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange/red glowing object that moved from the E to the W across the clear night sky.My girlfriend and I were looking up at the stars and noticed a bright orange/red glow in the sky to the East.  It was rather low in the sky, maybe as high as a small prop plane would fly.  It moved from the East all the way across the sky heading to the West, and disappeared on the horizon.  It went right over the house.  We heard a faint sound like a humm.  It never changed in appearance, as it appoached and passed us, which seemed very odd to me. It had no flashing lights or markers as a plane would.  I thought it must had been a rocket launch from Cape Canaveral or something, but they had no scheduled launches for that night.  I am a regular star gazer, and this event has my mind blown.  I have no idea what it could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133604.html](http://www.nuforc.org/webreports/reports/133/S133604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw arrowhead shaped object, no light, pass near the area of sky with the moon.  Object was lit by moonlight or would not have been noticed.Saw arrowhead shaped object, with no light, pass very near the area of sky with the moon.  It took about 2 seconds to cover the distance of the diameter of the moon.  The object was moving approximately from west to east.  There were no clouds in the sky at the time. Object was lit by moonlight or would probably have not have been noticed. I would have thought it was a cloud by the general coloring and appearance if it were not for the fact that it was extremely symetrical, it did not change shape or fade, and there were no other clouds present in the sky.  The size of the image was about 3/4 of the size of the image of the moon in the sky.  I'm just curious if anyone else saw something that night in the Pittsburgh sky.  A few seconds after witnessing the event I did hear what sounded like a loud jet, but I live in an urban area with a great many noise heard from multiple sources.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12604.html](http://www.nuforc.org/webreports/reports/012/S12604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
