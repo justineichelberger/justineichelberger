@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:13:30 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in antalya () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>15 object going to west  in sky.. 15 light only one formation.and very far.look its a star but not star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155068.html](http://www.nuforc.org/webreports/reports/155/S155068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some '' over a period of approximately photo only - photo only minutes.</sub><blockquote><sub>digital photo onlyAt 4:09am this morning I was taking digital shots of the moon and captured an unidentified flying object.  Immediately after taking the picture, I looked into the sky to see what I thought must have been an airplane but there wasn't any airplane in the sky or any other object.  It might have been a meteorite. Tried to include photo in this text but unable to.  Can send it separately if e-mail address is provided to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36305.html](http://www.nuforc.org/webreports/reports/036/S36305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
