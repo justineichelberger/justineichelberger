@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>I am temperally taking resident in moses lake, Wa and watching south park when my dormmate rushed in side to get me wanting my opinion on something, so we rushed out side and he gave me his binoculars, and told me to look through them at a certin spot so i did and i saw a sphere and it as far as it was you could tell it was simply floating and rotating when it does it three colors showed Red, Blue, And green,  it wasnt moving and we took took turns watching it, it wasnt getting further way nor was it getting closer,  it was simply still. at 21:15 it was still there in the same spot we went inside for accountability due to the rules at this Job corp center and we're going to look for it again to night((NUFORC Note:  "Twinkling" star?  Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75020.html](http://www.nuforc.org/webreports/reports/075/S75020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wausau (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>While laying outside on a blanket around 1 a.m. watching for shooting stars, my roommate saw 4 orangish-red lights fly over head.  They were flying in a straight line and when they were about halfway over our heads they spaced out a little further from each other but still kept the straight line formation.  They were going extremely fast as it took less than ten seconds for them to disappear from our line of sight.  They were also completely soundless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118359.html](http://www.nuforc.org/webreports/reports/118/S118359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
