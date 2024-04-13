@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:00:39 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Franklin (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>bright then dim flashing red white green lights - not moving and low in the skyIm not sure what Im seeing - it looks like its over West Milford or possibly Jefferson, I spotted it two days ago and now again tonight.  Object is super bright and low in the sky (lower than a normal star) it gets real bright and then dim, when its bright it flashes green white and red. I cant say what shape it is because its pretty far from where Im viewing it. It seems oval but that could be a trick of the light. It doesnt move - I watched it for 10 minutes and then called out a witness to look at it and discuss what it could be.  Its not a helicopter or plane. Can it be a star? Do stars become dim (almost invisible) and then bright (brighter than anything in the sky) in a matter of minutes. It seems to be in the same spot no matter what time of night it is.((NUFORC Note:  Sighting of star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69655.html](http://www.nuforc.org/webreports/reports/069/S69655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rothschild (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>An object with four lights was seen hovering and when approached it sped away at an extreme speed.The object had four bright lights on it and it appeared to be hovering about 100 feet above the ground as we approached it the object sped away.  We tried to pursue it but as we did the object speed was too fast and within seconds it was out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17307.html](http://www.nuforc.org/webreports/reports/017/S17307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
