@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in East Lansing (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>triangle formation of 3 saucers in East Lansing.I was walking around my town at night around 10:30 on April 13.  I glanced up in the clear sky and saw a triangle formation of 3 saucer shaped objects. The saucers flew overhead silently and very quickly.  I have seen these saucers more times than I can remember in East lansing.  They seem to be a pretty common occurance.  They always fly silently, but at varying speeds.  Sometimes they fly so fast it seems impossible.((NUFORC Note:  We are not aware that saucers fly over this part of Michigan with the frequency implied in the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17281.html](http://www.nuforc.org/webreports/reports/017/S17281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Douglasville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>lights racing across sky in same patternone bright light stationary in sky to my west. multiple lights streaming across skoy,seeming to be going to same area, coming from north west to east on two difernet  paths.to high for plane and too fast.not sure what I seen but had 3 others witenes what was seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155088.html](http://www.nuforc.org/webreports/reports/155/S155088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
