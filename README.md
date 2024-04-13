@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:55 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bourbonnais (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights that moved in a strange, cohesive pattern in the south sky of Bourbonnais, IL.My family has seen 50+ UFO's south of Bourbonnais Illinois.  They described them at "Orange lights" that were in a straight line that moved in unison. My stepfather has called the local police station and they have gotten multiple reports of people saying the same thing, though cloud cover has caused them to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97146.html](http://www.nuforc.org/webreports/reports/097/S97146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fayetteville (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Base ball on fire.Was sitting on porch talking all of the sudden we started seeing the things floating looked like baseballs on fire but they were hovering over tree tops at a steady pace not sure what they were but there was 8 of them and they flew west.  Just weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108611.html](http://www.nuforc.org/webreports/reports/108/S108611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
