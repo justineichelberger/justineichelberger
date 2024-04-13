@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wausau (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>While laying outside on a blanket around 1 a.m. watching for shooting stars, my roommate saw 4 orangish-red lights fly over head.  They were flying in a straight line and when they were about halfway over our heads they spaced out a little further from each other but still kept the straight line formation.  They were going extremely fast as it took less than ten seconds for them to disappear from our line of sight.  They were also completely soundless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118359.html](http://www.nuforc.org/webreports/reports/118/S118359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange/red glowing object that moved from the E to the W across the clear night sky.My girlfriend and I were looking up at the stars and noticed a bright orange/red glow in the sky to the East.  It was rather low in the sky, maybe as high as a small prop plane would fly.  It moved from the East all the way across the sky heading to the West, and disappeared on the horizon.  It went right over the house.  We heard a faint sound like a humm.  It never changed in appearance, as it appoached and passed us, which seemed very odd to me. It had no flashing lights or markers as a plane would.  I thought it must had been a rocket launch from Cape Canaveral or something, but they had no scheduled launches for that night.  I am a regular star gazer, and this event has my mind blown.  I have no idea what it could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133604.html](http://www.nuforc.org/webreports/reports/133/S133604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
