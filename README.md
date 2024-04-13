@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 12 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>3 big white lights on v shape formation heading south 190.  No sound and you can see them through the clouds.We were seating in front of the house something we never do.  As we were talking I was looking up it was windy and cloudy next thing you know 3 big white lights appear on V shape formation heading south on a 190 heading.  They were very big and you can see all 3 through the clouds until they split and were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155025.html](http://www.nuforc.org/webreports/reports/155/S155025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in antalya () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>15 object going to west  in sky.. 15 light only one formation.and very far.look its a star but not star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155068.html](http://www.nuforc.org/webreports/reports/155/S155068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
