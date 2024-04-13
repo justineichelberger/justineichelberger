@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Benson (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange glowing lights in the southwesti went out side for some fresh air and noticed lit objects (color of street lights), in the eastern sky, i called my co-worker outside, and we watched as the lights traveled towards the eastern sky over the dragoon mountains. we watched for about 5-10 minutes and they finally went out of sight, they were in a triangle formation and one by one the vanished. there were also two objects following the dragoon mountians range, and they both vanished a minute or two later, the sky was clear and the moon was up you could see the out line of the mountains which is 20 miles away from my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108644.html](http://www.nuforc.org/webreports/reports/108/S108644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bourbonnais (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights that moved in a strange, cohesive pattern in the south sky of Bourbonnais, IL.My family has seen 50+ UFO's south of Bourbonnais Illinois.  They described them at "Orange lights" that were in a straight line that moved in unison. My stepfather has called the local police station and they have gotten multiple reports of people saying the same thing, though cloud cover has caused them to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97146.html](http://www.nuforc.org/webreports/reports/097/S97146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
