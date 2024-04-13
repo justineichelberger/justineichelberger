@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 13 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Central Point (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>unidentifiable lights in great numbers flying in a spaced out formation in the early morning skyMy wife and I witnessed an evenly spaced formation of high flying objects moving from a northeast direction moving to a southwest direction.  I initially observed the objects and then called my wife outside to check out the unusual amount of craft.  These craft were about the height of a satellite however, there were way too many of these craft to be a satellite which I have only seen race though the night sky one or two at a time, not dozens of evenly spaced craft.  After about 20 minutes there came some other craft, but that group only included a remaining 4 lagging craft.  Note: I could not visually observe any blinking light as would be expected from aircraft. that is all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155015.html](http://www.nuforc.org/webreports/reports/155/S155015.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Benson (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange glowing lights in the southwesti went out side for some fresh air and noticed lit objects (color of street lights), in the eastern sky, i called my co-worker outside, and we watched as the lights traveled towards the eastern sky over the dragoon mountains. we watched for about 5-10 minutes and they finally went out of sight, they were in a triangle formation and one by one the vanished. there were also two objects following the dragoon mountians range, and they both vanished a minute or two later, the sky was clear and the moon was up you could see the out line of the mountains which is 20 miles away from my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108644.html](http://www.nuforc.org/webreports/reports/108/S108644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
