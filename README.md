@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:13:04 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:41 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>I saw four very bright lights that were close together, touching ech other in fact, so I knew it was not a plane. The lights had an aura or halo around them. In other words, the lights brightened the sky around them. The lights seemed to be travelling toward me as I stared at them  from my car. A disturbance or flow of energy was visible around the lights as the moved. Then they appeaerd to turn in on themselves and vanished.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36355.html](http://www.nuforc.org/webreports/reports/036/S36355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Travelling by car westerly. We Spotted a Very Fast moving, very bright White Light/Fireball which eventually turned green as it "flew" or dropped closer to earth.   It was fast, and bright. That's what caught our eye. It was descending toward earth and would dismiss it as a Meteorite but it had no streak behind it. It was very much brighter than approaching airplanes. The flight path that this thing came down on, was the flight path into Kennedy Airport(planes from the West) Several planes were on the same flight path, one every three- four minutes.... one of those pilots must have seen this thing above them , or down ahead, and in front, at this time approximate 23:15- 23:30 April 14th, 1999. The closest plane was just crossing the "Verrazano Bridge" which is the Longest Suspension Bridge in the USA...the pilots would remember the location if they did see it, as it is the major landmark into NYC. It looked to be moving very fast in a downward arc traveling from right to left and also resceeding, southerly and in a downward arc. We only saw it for 2-3 seconds as we do not have "open skys," here in the 'City' ...more like tunnel vision. Judging from where the planes were and the intensity of this lighted fireball, it could have been as far out from us as 5-10 miles out...no telling, due to its brightness, or, as I said it may have been just a meteorite,and the distances would be therefore unknown. It was weird though. No streak. Very Bright White Light that turned green as it moved in the downward arc, and very fast moving. It is indeed unfortunate that we did not see more of its trajectory path to determine if was indeed a Falling Object...Follow-up response to NUFORC query: Thanks for your reply...i am surprised that this one was seen inNorfolk...that's due south of New York...and approx 250 miles.I was travelling west south west. The object came from our right...fromnorth north west and travelled toward our left...south southwest...that's about it unless I get out a compass to give you more exactcompass headings....thanks again....WOW!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06168.html](http://www.nuforc.org/webreports/reports/006/S06168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
