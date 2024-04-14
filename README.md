@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:25:56 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:04:25 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Noticed 3 round perfect bright LED colored bright lights that were shaped semi-pyramid formation.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133611.html](http://www.nuforc.org/webreports/reports/133/S133611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Maharepa, Moorea (French Polynesia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Witnessed an object traveling in a straight line emitting sparks from the front section trailing towards its rear, like throwing a sparkler into the air.From the northwest sky about 60 degrees over the horizon, an object traveled straight to the southeast, about 60 degrees over the horizon.  It stopped on a dime, and changed its direction due east until out of sight.  The objects form was not identifiable.  Take a toy boat, put it in still water, push it forward, see the ripples on both sides of the front, trailing towards the back.  The boat cannot be seen, but the "ripples" are like sparks from a sparkler thrown into the air.  Total sighting time was about 15 seconds.  The sparks were subdued, gold/silver in color.  Not bright like a comet or "shooting star".  Not the same characteristics.  Too fast for a man made satellite.  I have seen satellites before. If our sighting is worthy of follow up, e-mail me, and will respond in writing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08137.html](http://www.nuforc.org/webreports/reports/008/S08137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
