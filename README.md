@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:01:05 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:46 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Savona (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Traveled at a speed that i have never seen.Brightest Light moved across sky.  Brighter than north star.  Than it went up and light dimmed until it was gone.This is not the only time have seen this light.  My sister and I seen it a couple of  years ago to.  But the light seemed to come towards earth that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118327.html](http://www.nuforc.org/webreports/reports/118/S118327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Light was stationary, something about it kept drawing eyes to it as it was very bright.Seemed to move and when looked directly at it, it would be still. Noticed an airplane directly above and focused on plane(had aviation lights). Suddenly LIGHT bolted across the sky directly at the plane.Right before it would have hit plane, the light just sucked up in nothing and vanished. WOULD SURE LIKE TO FIND THIS PILOT!!!Were sitting on porch in quiet north Spokane neighborhood.Time was approx:3:20am.Apr.14 98(approx.) Clear night. Earlier had been out to some clubs. Alcohol was taken, however, this was not an incident caused by same. As i said, we were sitting on front porch talking, listening to music. I smoke, so was outside.Friend was inside changing music. I kept noticing a bright light in the south sky(my vantage was facing east with a 4 ft.porch overhang above me. Clear view to the EAST-SOUTH- AND NORTH. Out of the corner of my eye I kept noticing a bright light to the South, like it was moving.But when I would look directly at it,it seemed to be stationary. It also seemed to get brighter everytime I would notice it.(maybe that was just me?) After a few mins. a light drew my attention from directly overhead. This was obviously a plane as it had the flashing aviation lights. As I was looking up at the plane (probably within about 15 sec.) I was drawn back to the light in the South.Within  2 sec. the light got really bright and darted across the sky directly at the plane.(not sure of size of plane, but it was high up) I was looking directly at the event.My guess is this thing covered about 5 to 10 miles in an instant. (About the length of 1 1/2 Big Dippers). As it approached the plane, instead of hitting it,as it was on a collision course with the plane,it was like it just Sucked up and vanished right before contact.That is the best way I can describe it. My friend just happened to come back outside just as the light started to move across the sky and he saw it,too. I started jumping around saying to him, ''did you frickin see that''? Probably woke some people up.He saw this too and was quite freaked by it. We talked about it again the next day. Kind of checking ourselves as to, if we really saw what we thought we saw. WE DID!! WOULD SURE LIKE TO FIND THE PILOT OF THIS PLANE. There is no way that the pilot didn't see this thing coming at him! Can you search some way to maybe find this plane and pilot?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08795.html](http://www.nuforc.org/webreports/reports/008/S08795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
