@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:04:25 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:13:04 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Maharepa, Moorea (French Polynesia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Witnessed an object traveling in a straight line emitting sparks from the front section trailing towards its rear, like throwing a sparkler into the air.From the northwest sky about 60 degrees over the horizon, an object traveled straight to the southeast, about 60 degrees over the horizon.  It stopped on a dime, and changed its direction due east until out of sight.  The objects form was not identifiable.  Take a toy boat, put it in still water, push it forward, see the ripples on both sides of the front, trailing towards the back.  The boat cannot be seen, but the "ripples" are like sparks from a sparkler thrown into the air.  Total sighting time was about 15 seconds.  The sparks were subdued, gold/silver in color.  Not bright like a comet or "shooting star".  Not the same characteristics.  Too fast for a man made satellite.  I have seen satellites before. If our sighting is worthy of follow up, e-mail me, and will respond in writing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08137.html](http://www.nuforc.org/webreports/reports/008/S08137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>I saw four very bright lights that were close together, touching ech other in fact, so I knew it was not a plane. The lights had an aura or halo around them. In other words, the lights brightened the sky around them. The lights seemed to be travelling toward me as I stared at them  from my car. A disturbance or flow of energy was visible around the lights as the moved. Then they appeaerd to turn in on themselves and vanished.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36355.html](http://www.nuforc.org/webreports/reports/036/S36355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
