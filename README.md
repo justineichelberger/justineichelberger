@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:03:47 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:25:56 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dalton (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stationary golden lights, singles and a horizontal group of four.  Bloop/whoosh sound. Thunder of jets diminish into distance, several rStationary golden lights about 100 times larger and brighter than a star.  First sight due south, low on horizon, 5 second duration.  Second sight about five minutes later in same location and duration.  Roar of low level jets overhead.  Went outside to deck.  Heard a bloop/whoosh sound.  Then a third sight to the south east of a horizontal row of three lights at low level and fourth light a little further to the south (right) for about 5 seconds duration.  Jet roar diminishing into distance with two smaller red lights.  About one year ago my girlfriend described to me a sighting of the three horizontal lights in approximately the same location.  She witnessed lights on this sighting also.  She just texted me that another woman she works with also saw "4 globes of light."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118323.html](http://www.nuforc.org/webreports/reports/118/S118323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Noticed 3 round perfect bright LED colored bright lights that were shaped semi-pyramid formation.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133611.html](http://www.nuforc.org/webreports/reports/133/S133611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
