@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:16:37 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:37:58 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Janesville (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Object with red, white and blue lights underneath craft flashing in radom order hovered over moutain top for 2 hours.It was above a high mountain top I would say possibly ½ mile.  The shape was hard to see since the light was fading.  It was bright white on the top and blue, red and white lights were flashing under the craft in random.  It slowly moved within the two hours backwards until the mountain obscured it.  My husband also observed the craft.  There was no noise from it but we were miles away.  The spot it hovered was about ½ mile from the Forest Service Tower.  I knew this because I work for the F.S. and knew the exact location of the tower.  As it continued to move I could tell it was moving backwards away from our location at our house over the mountain since it diminished in size.  Again no noise and it was such a clear night and we have a flight pattern over our house and see many planes lights at nights.  It could not have been a helicopter as we heard no noise and we hear so clearly every plane or helicopter in our area very clear.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86349.html](http://www.nuforc.org/webreports/reports/086/S86349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106((NUFORC Note:  Incident has been explained by a terrestrial cause.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139637.html](http://www.nuforc.org/webreports/reports/139/S139637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
