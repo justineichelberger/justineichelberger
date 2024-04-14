@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:41:09 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:30:03 on 14 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Goodyear (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shaped lights flying over outskirts of Phoenix from SSW to NNE at 0440am.At 0430am, my wife woke me up and told me that she dreamt that she needed to go look outside in the sky and she told me that it was very important that she do so.  We went outside and stood around looking at the stars for about 10 minutes.  When we went to go inside, out of the corner of my eye I saw movement in the sky.  At first I thought it was a satellite, but then two more lights appeared.  The formation was that of a scalene triangle, and the formation didn't waiver at all. It flew from South-Southwest to North-Northeast in a steady speed.  It flew directly over our house and made no sound at all.  We watched it for about 5 minutes until it faded from view.  It's hard to tell how big it was because it looked like it was high up.  After having been in the Air Force for almost 9 years, and having been around aircraft for over 30 years I can tell you that I've never seen anything like it in my life.  The feeling we got from watching it was one of excitement and awe.  I've seen satellites in the past, but never have I seen them in a constant patterned formation like what we observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81226.html](http://www.nuforc.org/webreports/reports/081/S81226.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
