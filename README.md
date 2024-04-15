@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pendergrass (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Trianguar mass over Jackson CountyEarlier this year me and my mother were in a car, i was driving her home from a meeting. It was almost totally dark when i looked up into the clouds and saw a light, and then two more in the shape of a triangle. I stopped the car (we were on a private dirt road) and got out. At first i thought i was just some airplanes or helicopters, but as i looked the clouds got a little less thick and i saw it was a huge triangular mass, it looked like a ship, about a mile in each direction. it was moving so fast that i didnt have enough time to take a picture, but it sure creeped me and my mom out.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57796.html](http://www.nuforc.org/webreports/reports/057/S57796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Holbrook (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a round white glowing object completely still then it moved quickly then sped into a streak and gone.On the evening of april 15th 2008 at 7:45pm while I was on my security job in holbrook,AZ. it was a clear night with the stars out and no clouds.  I was outside looking at the sky towards the south east and I noticed an object, only one about the size of a planet,like venus or mars at an altitude of about 30,000 feet.  The object was a solid white in color, a glowing appearance and completely still, holding it's position.  I continued to look directly at it and did not take my eyes off the object.  Then suddenly that white object moved quickly in a short distance then sped with a streak in another short distance then it disappeared in the southern direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69682.html](http://www.nuforc.org/webreports/reports/069/S69682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
