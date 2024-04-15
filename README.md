@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Wasilla (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>the object was large moving just above the treeline it had clear white lights not sure if it made a noise because i was in doorsit was early in the morning i was getting ready for school and i was in my underwear i looked out our window and saw a huge ufo outside heading up beverly lake road it had lots of clear white lights all around it it was just above the tree line looked as if it were following the road i got really excited kinda ran around in a circle for a second i wanted to go chase it but it was in the middle of winter so it was  cold and i was only in my underwearits so vivid in my mind everytime i close my eyes i can see it i havent seen another ever since((NUFORC Note:  Witness elects to remain totally anonymous.  PD))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29391.html](http://www.nuforc.org/webreports/reports/029/S29391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Medway (MA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cylinder doing survey.After reading the report dated 06/01/77 and posted on 06/23/10 and titled, "Encounter with small UFO drone-type object"  It reminded of an incident while driving thru Medway, Ma. on Rt.126.  As I was driving south I saw what looked like a large grayish-green pineapple juice can pop over the guardrail from the east and float across the road and a height of about 2 feet.  The odd thing is that as it floated westbound it was counter-rotating.  This cylinder stayed at that height even as it floated over a stone wall and into a field, I slowed my truck down to watch it, as it came to another stone wall it maneuvered over it at the 2 foot height.  Another truck driver traveling north saw it also and asked me what it was.  All during this time the cylinder stayed perfectly horizontal to the ground. In all honesty I believe it was doing a contour survey of the ground.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75968.html](http://www.nuforc.org/webreports/reports/075/S75968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
