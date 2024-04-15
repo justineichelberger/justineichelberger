@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a round bright objectLook towards east coast and saw a bright round fireball.  The.  It moved and went sideways to the north.  I have video and pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145845.html](http://www.nuforc.org/webreports/reports/145/S145845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>On this night I was with 4 other people and we were hanging out outside as it was a nice evening. It was just getting dusk and I was sitting on the ground looking up at the sky and noticed alot of air traffic which was comming from the south.Suddenly I saw a tiny ball of light comming from the west and looked as if it would hit an airplane. It disappeared right as it approached and I should mention moved VERY fast. There was only one person with me at the time and I asked if she saw it, she did not... then another one!  They moved so fast I had to move my finger with it to show her and even then it was hard to keep up.  The others came out and they started to see them too. These light balls were also taking sharp turns, making loops and spirals.  You thought your eyes were playing tricks on you.  This went on consistantly for about 2 1/2 hours, and an airplane was involved in the majority of sightings.  The last 1/2 hour things died down and my neck was aching badly and it was time to home.  I made a joke about waiting to see the mother ship first and my brother stretched and was looking straight up and there above the house was a football field sized boomerang shaped object!  It was slowly moving to the direction of the airport, did not make a sound, had amber colored lights and at one point seemed to have the points shift so that one side was longer than the other. I kept adjusting my eyes to be sure I was seing correctly.  Then it got to the point we could no longer see it. We all commented that if it had not had lights it would have blended into the night sky undetected.  It has been a few years since this happened so the details are'nt fresh but it is something we will never forget.((NUFORC Note:  Date is approximate; we have assigned an arbitrary date in April 1999.   A 3-hour long sighting of UFO's seems highly unlikely to us.  We wonder whether the first lights seen may have been laser-based advertising lights.  We have received many reports about this type of advertising event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24232.html](http://www.nuforc.org/webreports/reports/024/S24232.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
