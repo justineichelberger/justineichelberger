@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Doncaster (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I had a really good look at thi object for around 2 min, wasn't a sound coming from it and was as bright as a star.I was outside with my dog of my home, I was looking up and noticed a very bright light moving quite fast in a south direction, I couldn't here a sound and it was a quite clear night, the object passed over head and towards an aircraft, we see a lot of aircraft as I live close to an airport so I'm used to seeing aircraft over my house, the object seemed to be traveling around 3 times as fast as the aircraft  and was heading or seemed to be heading straight for the aircraft, the must have seen it..in my opinion, it wasn't us</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88433.html](http://www.nuforc.org/webreports/reports/088/S88433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green fireball traveling north at a low altitude over Los AngelesI was struck by the similarity of my siting and that of one reported in West Covina as 10/09/1955.  West Covina is about 20 miles east of my siting. I was playing catch with my brother in the parking lot of the apartment complex we were living in in northeast Los Angeles near the Glendale border.  I was facing east (towards West Covina) when I saw a large green "meteor" traveling north towards the San Gabriel Mountains.  I don't recall the exact day or time but it was a bright clear day and the "meteor" was very visible appearing low in the horizon and to move horizontally with the ground.  I recall that there was a brief article in the Los Angeles Examiner that mentioned the siting.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40962.html](http://www.nuforc.org/webreports/reports/040/S40962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
