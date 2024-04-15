@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:38 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Granville Summit (West Franklin) (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flat saucer like object rises out of a pond, turns on edge and  disappears.In mid March 1985 there was a large fish kill in a private pond at a friend's summer home.  She asked me to stay in the cabin at the site to protect the property.  The cabin is about 10 feet back from the shore line and has no electric.  On or about April 15, 1985 my husband and I went up to the cabin around 9 PM and went to bed.  About and hour or so later I got back up to answer nature's call.  The out house was about 30 feet east of the cabin and since the moon was nearly full, I didn't take a flash light with me.  Just as I was ready to sit down, i heard what sounded like some one jacking shells into a gun chamber.  Since i had no light or gun with me, I tried to hurry the business at hand and get back to the cabin.  Before I could finish, I heard a sharp snapping sound and then a dull thud.  I tore out the door, not fully clad and in the moon light, I could see that the center of the pond looked humped up.  I let out a scream for my husband who sleeps like a log, but there was no answer.  Before i could run, a flat thing, like a coffee cup saucer, rose up out of the pond.  It hovered briefly, and then turned side ways so that all I could see was a thin edge.  As it did so, i could hear water running back into the pond.  Then in a faint flash of color it was gone.  I was facing south at the time of this event and the pond was in front of me.  I will email a map with a star marking the location of West Franklin, Pa((NUFORC Note:  We have requested additional facts from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28494.html](http://www.nuforc.org/webreports/reports/028/S28494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sylvan Lake (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>The object moved Fast. In a westerly direction it was low, no sound.As I walked home from a friends I looked up into the sky to look at the constillations. I saw an object move swiftly over, Low, No sounds it was in a Triangle V formation. It moved in a westerly direction. The Object passed over head for roughly 30 seconds. Before I lost site.((ADDENDUM FROM WITNESS))Dear Director,   Thanks for looking into this your about the only person who has believed my sighting I would have phoned the local RCMP but they would have just laughed. There were no Media stations close to were I live that have a 24 hour line. If you want me to draw the object or anything please ask me too I would like to make this as vivid as possible.((END ADDENDUM))((SECOND ADDENDUM))Here are some quick drawings I did on th object. It looks almost like a U2 spy plane. They cant travel that fast that low.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43494.html](http://www.nuforc.org/webreports/reports/043/S43494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
