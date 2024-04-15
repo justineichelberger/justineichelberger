@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:15:54 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Galena (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A very bright orange reddish stationary light in the eastern slightly southern sky about 30 degrees above horizon.Location:  Galena, IL  Time: 9:17 pm CST approx.Eastern sky somewhat south, opposite of where Jupiter was in the western sky and about the same distance from horizon.A very bright light with a distinct orange red color was observed stationary in the sky.  I checked where Jupiter was in the west, Orion was south west, and it was none of those.  I thought maybe Mars but it was to bright and appeared large.  I went in the house to check the Internet for a sky map and when I came out again it was gone - maybe 4 minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118312.html](http://www.nuforc.org/webreports/reports/118/S118312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Nova (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle-shaped objectI have been living with this event in my head for 17 years now. I never liked to tell the story because people looked at me as if I were crazy. The only reason I feel compelled to write about it now is because I happened to watch the show Sightings yesterday and I saw something that made my hair stand on end! Here is my story: I was coming home from a date with my boyfriend on a spring night in 1985. It was around 9:30pm. We lived in a rural area of Ashland, Ohio and were driving down a country road to get to my house. When we first left his house, we both noticed a big orange light in the left corner of the windshield. It was much bigger than a star but smaller than the moon. We were very curious but continued to drive and observe it. We both had the distinct feeling of being watched...It did not seem to move and remained in the same spot for at least 2-3 miles. Suddenly out of nowhere, it moved just as fast as lightning..until it was directly over our car. I can tell you that there is no plane in this world that can move as quickly as this object did. At this point, my boyfriend decided to stop the car to see it more closely..we stopped on top of a hill and this object was right over the car...It came down slowly and the lights consumed our whole car, the neighboring fields and the road...It was probably the size of half a football field. It was shaped like a triangle and had lights at each corner. It also had a light coming down from the center of the bottom of the craft. We stood there frozen on the road for what seems like an eternity as this thing just hovered over us. There was absolutely no sound or wind whatsoever. Then, just as quickly as it appeared, it shot straight up into the clouds. All you could see where lights disappearing in the clouds.This is my story and I am finally glad to get it off my chest. I am not crazy and I know what I saw. There is no mistaking something that is no farther than the top of a rooftop. What I saw on Sightings was exactly what I saw that night in 1985.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25024.html](http://www.nuforc.org/webreports/reports/025/S25024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
