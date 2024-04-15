@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:10:12 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:14 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Reddish orange spheres (3) seen going south to north in a mechanical, straight line trajectoryMyself, and my 2 adult daughters, were in our backyard.  Our neighborhood was having fireworks displays and we were watching fireworks go off in sky.  There was a break in the fireworks and all 3 of us noticed a rounded, reddish orange shaped object moving in a straight line from south to north.  When we first saw it, we thought 2 things--it was a piece of a firework, yet it did not ignite or dissolve the way a firework should.  It remained intact and moved mechanically straight.  Second, we thought it could be the ISS which we track sometimes in the night sky through Spaceweather.com, but the ISS was not scheduled to be seen in our sky this night.  We observed the object make a sharp, sideways motion, then it appeared to ascend into the sky.  My daughter captured this on her cellphone.   Approximately ten minutes later, we another same shaped, colored object again moving south to north in a straight line.  This time I told my daughter to go get my binoculars, just in case we saw another one.   Ten minutes later, we saw another identically shaped, same colored object moving again from south to north in a straight line and we visually tracked it this time with my binoculars.  She tracked it approx. a half block through the binoculars into the night sky, continuing in a north trajectory, straight line.  She said it was ball shaped in configuration, no lights on the object.  As I said, we reasoned it could be fireworks, but the movement of these objects were straight line, with one making a sharp straight line movement, and they were not attached to any firework.  Also, they were all ball shaped, as my daughter clearly described using binoculars.  In all we saw 3 objects, all identical.  I am a retired police officer and a trained observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120029.html](http://www.nuforc.org/webreports/reports/120/S120029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mecapalapa (Mexico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>ocurrio como si nos estuvieran ovserbando dieron buelta sobre el poblado y se fueron pero despues cayeron como desteyos de luz pero eran ocho objetos que se podian suspende en el aire I deslizarse para cualquier direcxion con mucha velocidad sin dejar algunsonido</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97181.html](http://www.nuforc.org/webreports/reports/097/S97181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
