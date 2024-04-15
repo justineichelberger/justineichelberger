@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Medway (MA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cylinder doing survey.After reading the report dated 06/01/77 and posted on 06/23/10 and titled, "Encounter with small UFO drone-type object"  It reminded of an incident while driving thru Medway, Ma. on Rt.126.  As I was driving south I saw what looked like a large grayish-green pineapple juice can pop over the guardrail from the east and float across the road and a height of about 2 feet.  The odd thing is that as it floated westbound it was counter-rotating.  This cylinder stayed at that height even as it floated over a stone wall and into a field, I slowed my truck down to watch it, as it came to another stone wall it maneuvered over it at the 2 foot height.  Another truck driver traveling north saw it also and asked me what it was.  All during this time the cylinder stayed perfectly horizontal to the ground. In all honesty I believe it was doing a contour survey of the ground.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75968.html](http://www.nuforc.org/webreports/reports/075/S75968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hot Springs (AR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ovel shaped craft moving north east /no wings no sound Huge.I,not much on typing or spelling but i will do the best that i can.I am not one that beleives in ufo,s but what i seen on 4-15-03 was real.I worked the night shift for a local co. I got off work at 3:00am.I live in what i call the outskirts of hotsprings arkansas.On the way home it was just an averge day for me until i seen this huge craft coming toword me just above the tree line.At first i thought it was a helicopter just flying low ;but the closer it got i realized it was something different.I stopped my truck and got out and watched it go over me and watch it go north east.This thing that that i seen had no wings and made no sound.After i watched it go away i got back in my truck and drove home.When i got home my first thought was to call the athorites but i chose not to because the craft was done gone and they would have thought that i was an idioit.I do not no what i seen but i am starting to beleive in E.T.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39589.html](http://www.nuforc.org/webreports/reports/039/S39589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
