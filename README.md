@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Lacoochee (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>huge fireball approx. 30 mile fire trail, traveling upward at a speed approx. 10,000 miles p.h.I was driving with a friend north on U.S. 301 North, we were just on the other side of the withalacoochee national forest when a orange fireball roured upward toward the sky.  I thought it was some kind of rocket because it seem to be coming from the direction of the space center on the east coast.  It was far to big a fire trail than the space shuttle and the sound much lowder like a constant roar, not a boom like the shuttle makes when it brakes the sound barrier.  Its rate of speed was that of 100x FASTER THAN THE SHUTTLE DOES ON TAKE OFF. I know this was no space shuttle because you can see the space shuttle, but not this,  what ever it was, was covered by fire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07581.html](http://www.nuforc.org/webreports/reports/007/S07581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Albans (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unidentifiable light, disappeared.The following occurred on the evening of April 15, 2008 just after 8:30pm, it was a clear night with temperature around 50 degrees, the moon was half full and there was no wind.I was facing west and there was a bright light in the sky. I am familiar with the celestial bodies, this did not fall into that category and was much brighter than the ISS. It almost appeared as if a plane was heading directly in my direction and I was in direct line of its lights (hope that makes sense). I continued to stare at it and noticed that it was barely moving. I looked for the familiar flashing lights normally spotted on planes, they were absent (for the record, my vision is better than 20/20). Then it began to slowly move south at the same time the light began to dim and flicker a bit. Then it moved north and came to a stop, then the light started to grow brighter.At that point I thought to myself that this might be something a bit more interesting. I ran into the house and asked my husband to come out quick to see and ran back out. It was still in the same spot as before. The light began to move south again and then it disappeared. It hovered over Lake Champlain around the Grand Isle area. I stayed outside for another ten minutes, just in case. But nothing else happened, I viewed this from my home in St. Albans, Vermont.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62598.html](http://www.nuforc.org/webreports/reports/062/S62598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
