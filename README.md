@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 15 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Placerville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately moments - moments minutes.</sub><blockquote><sub>Spring 1991  Placerville,Ca.   Light  5-10 seconds view from patio clear sky  Light outruns 2 jets!!Single light swerving back & forth with forward momentem.Followed by 2 military jets that sounded like they were near full throttle. "Very Loud" As the jets followed the light across the horizen "2-3 seconds" the light silently went up and away from the jets at an uncalculable speed. As though the jets were moving 1 m.p.h. and the light  100 m.p.h. . I know these are not near actual speeds,that is just my way of describeing the situation.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71887.html](http://www.nuforc.org/webreports/reports/071/S71887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Wasilla (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>the object was large moving just above the treeline it had clear white lights not sure if it made a noise because i was in doorsit was early in the morning i was getting ready for school and i was in my underwear i looked out our window and saw a huge ufo outside heading up beverly lake road it had lots of clear white lights all around it it was just above the tree line looked as if it were following the road i got really excited kinda ran around in a circle for a second i wanted to go chase it but it was in the middle of winter so it was  cold and i was only in my underwearits so vivid in my mind everytime i close my eyes i can see it i havent seen another ever since((NUFORC Note:  Witness elects to remain totally anonymous.  PD))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29391.html](http://www.nuforc.org/webreports/reports/029/S29391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
