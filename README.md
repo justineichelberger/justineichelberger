@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Smithers (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pink Light ReturnsA witness came forward and called me from Smithers, B.C. after she read a short article in the Smithers Interior Newspaper about a sighting of a pink object which was witnessed by another lady over the Smithers Ski Hill road on April 8, 2004. The witness was on her way to work as she works the graveyard shift. As she traveled around a corner on Harris Road by Harris Auto Wrecking she saw a extremely large bright pink object low in the sky. The lady said she had never seen anything like it in all the years she lived in the area and also wondered if it might have been an airplane coming in for a landing at the Smithers airport. She told me the object had to have been the size of a full moon and on the outer edge of the object the color was a much lighter pink in color. As the woman drove along she said it passed overhead at approx: tree top level and at approx: 100 to 200 feet away from her in distance. As the lady and the object passed one another she slowed her truck down and turned around to watch the object move slowly into the distance and as she watched it finally just blinked out. When the woman continued on her journey, after seeing the strange object, she told me that she was questioning herself, "did I just see that"!  Later that evening and at her work place, her and another lady went outside for a coffee break and the witness mentioned that she had seen something very strange when she was on her way to work. I asked the lady if she thought it might have been a flare or even fireworks someone had maybe set off. The witness said she has never seen a flare or fireworks travel horizontally just over tree top level and for such a long distance. There was no sound noted. The object was reported to be visible for approx: one minute. This same object has been seen twice on two different occasions in the Smithers area. Thank you to the witness for the report. The sighting is under investigation. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36630.html](http://www.nuforc.org/webreports/reports/036/S36630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Logansport (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw 6 objects that looked like fireballs coming up from the western horizon. We stopped our car to see what it was , the fireballs faded, then the six objects started blinking and took off in different directions, Then coming back together making sharp turns then cicling back around, then when they stopped in mid air then began to glow orange again, this went on nearly 5 minutes. Then we heard a plane coming and all of the objects flying scattered off in to the distance. My brother and his wife told us they saw the exact same thing and were about 2 miles from us when this happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36386.html](http://www.nuforc.org/webreports/reports/036/S36386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
