@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:02 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:14 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Silver object remians stationary in skys above denver for 20 minutes.I was pumping gas in aurora colorado when i saw a silver and very bright object in the sky. I lived near by and watched the object for 20 min with my girl friend. It remained stationary for the duration of the siting until it  sped away heading north.Th object was 80 degrees form horizon and seemed very high up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36389.html](http://www.nuforc.org/webreports/reports/036/S36389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>An engineer in the aero-engineering field could not identify a strange triangular object over northern Illinois.About 22:00, I was driving from work to pick my brother up from his work.  I work as an engineering intern at an AERONAUTICAL ENGINEERING FACILITY.  I know aircrafts very well, both experimental and common.  So as I was driving home, I looked up to the North West and saw a light approaching very low over the highway.  There was an airport close, so I assumed it was a 1 or 2 engine plane coming in for a landing.  I looked up again, and prepared myself for a huge blast of noise (this is how close it was).  When I looked up a second time, a triangular object with three white lights at each point hovered silently over the highway.  This is no plane, as I've said before, my education is in engineering, as well as working specifically in aero-engineering field.  I am not dumb, and I know what I know. I looked up a third time and it was gone. What I saw cannot be identifiable by anyone on earth, and by my good understanding of physics, broke many physical laws that we could not even begin to comprehend.  I'm not saying it was an alien, I'm just saying that I could not identify it, and I believe most on this world couldn't.  I mean, an object of this shape could not create lift unless moving at a very fast speed, and if it did create lift by using a propulsion system from underneath, how could it move side to side efficiently?  I mean, the harrier jump jets work similarly, but being that close, or anywhere near that close, i would have felt the vibrations and heard the huge roar of the engines.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64832.html](http://www.nuforc.org/webreports/reports/064/S64832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
