@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Pleasant Hill (CA) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Man driving on Hwy 4 sees 2x bright lights, flashes headlights at them.  Objs. extinguish, then reappear as 1 red w/4x white lights!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01451.html](http://www.nuforc.org/webreports/reports/001/S01451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sachse (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>26 star like objects separated by 20 degrees passing eact north eastObserved on the night of April 16, 2020, at approximately 9:25 pm to 9:40 pm central time: 26 star like objects passed over head. The objects could be seen two at a time. Spacing was approx. 10 degrees or 20 seconds to 30 seconds apart moving in a East North East direction. Brightness of the objects were equal to dimmest star in the sky. Venus was visible at about 40 degrees above the western horizon. The objects became visible near Venus and remained so for approx. 20 degrees. Object numbers 16 & 17 became very bright (white) then dimmed, all in a matter of one to two seconds. The brightness increased to the equivalent of the brightest star in the sky. Later, checking for similar reporting on Nuforc, I found that Star-link satellites could be what I saw. Even though this may be the answer, I do wonder why two of the objects increased in brightness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155293.html](http://www.nuforc.org/webreports/reports/155/S155293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
