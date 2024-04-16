@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lafayette (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>this aint no hoax, it for real, i saw what i saw!im at the holiday inn at lafayette, In. and i looked out the window and saw a light the was moving across the sky and then it all of a sudden turned into like 5-6 sepperate lights that looked like stars. way to high for firworks. and then i saw airplanes close by, i'm sure the pilots of those planes saw it too. i tried to call the airport to see if they might have saw what i saw , but i found this insted and this is what i wrote, and saw, no hoax here , i'll bet this aint the only report you get. call me 517-206-5108 Michael J. Dix. hope to here that someone else reported the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63349.html](http://www.nuforc.org/webreports/reports/063/S63349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Pleasant Hill (CA) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Man driving on Hwy 4 sees 2x bright lights, flashes headlights at them.  Objs. extinguish, then reappear as 1 red w/4x white lights!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01451.html](http://www.nuforc.org/webreports/reports/001/S01451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
