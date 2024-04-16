@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 lights moved past a streak that was left by an airplane but the lights were very very far away.I had just watched the UFO disclosure video and thought it would be interesting to see if I could find anything, but I definitely did NOT expect to see anything at all.  I was on the Colorado University Campus and lay down on a bench while on the phone with my friend and was just looking up at the sky when an airplane flew by and left a streak in the sky.  I landed my eye on that streak so I would have a point of reference and saw these 2 lights that were definitely above the airplane streak move. They both moved in a semi straight line, past the streak and then stopped.  I then spotted a third one moving toward the airplane streak, but it did not pass it. Those 3 lights lined up in a straight line.   After spotting those, I tried to look for others, and thought I saw things moving, but the streak had faded, so I didn't know if my eyes were playing tricks on me. But I know that I saw those 3 lights move, and they were too far away to be a plane.  After a while, the lights very quickly moved upward and disappeared to my sight.  I'm amazed that I was able to see something just by trying to look for it.  Incredible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80900.html](http://www.nuforc.org/webreports/reports/080/S80900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was 9:30 pm, I was at the University of british columbia, finishing up an exam.  While walking out of the library, i looked up at the sky and noticed a neon greenish rod of light.  it covered maybe 20 degrees of the sky.  it was straight up ahead, very close to the moon. there were also 2 others who spotted the light/rod before I did.  they remarked that the light/rod was there last night as well. it was a cloudy overcast nite, so the cloud cover was constantly drifing over the rod/light thing. but at all times, the rod could be seen. the rod was neon green in colour, thin and rod like and a little bit faint.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62795.html](http://www.nuforc.org/webreports/reports/062/S62795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
