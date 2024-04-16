@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Leslie (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My wife were walking in between properties on rout 66 when we spotted 24 Air craft in US air space.  Spotted flying east over Searcy county Arkansas 4/16/2020  between 33,000 and 42,000 feet and approximately 4 to 6 knots apart.  They are silent and large at cruising speeds of 475 to 500 knots.  istance of  separation five knots approximated speed based on time pass Time = (21:29.00 to 21:41)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155239.html](http://www.nuforc.org/webreports/reports/155/S155239.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wapato (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>50+ Wapato string of lightsI was sitting in the hot tub, and a moving light caught my eye at 30 degrees elevation from my vantage point. Then I saw more of them following. They first were close to a few hundred yards, then as the string lengthened they became miles apart. It was ultimately like a string of white Christmas lights. No blinking. Solid white. I watched 20 or so, there may have been more before I noticed them. They moved about the speed of general airplane at around 3000-5000ft. I ran inside to get my night vision camera (sionyx aurora), I recorded another 30 or so pass by. They were on the same linear flight path, approximately moving from Mt. Adams towards Hanford. The last one in the string did a deviation from the path and went strait over the top of me moving swiftly, from when I saw him above south White Swan to where I could not see him over HWY 241, the distance is about 34 miles and he did it in about 60 seconds, the math of this equates to 2040mph.  No sound.  They! were simply bright lights in the sky, brighter than a star.  My camera did not record though, which is embarrassing. Maybe I didn't hit the rec button correctly. There was commercial aviation, I saw 3 regular planes, 2 of which had near misses on their normal paths, I thought they were going to hit the crafts. I am a USN trained observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155283.html](http://www.nuforc.org/webreports/reports/155/S155283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
