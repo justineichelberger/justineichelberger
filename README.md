@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was 9:30 pm, I was at the University of british columbia, finishing up an exam.  While walking out of the library, i looked up at the sky and noticed a neon greenish rod of light.  it covered maybe 20 degrees of the sky.  it was straight up ahead, very close to the moon. there were also 2 others who spotted the light/rod before I did.  they remarked that the light/rod was there last night as well. it was a cloudy overcast nite, so the cloud cover was constantly drifing over the rod/light thing. but at all times, the rod could be seen. the rod was neon green in colour, thin and rod like and a little bit faint.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62795.html](http://www.nuforc.org/webreports/reports/062/S62795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>It moved at first then ..did not move ,changed colors & disappearedThere was a bizarre tiny light in sky.   First it was moving ...then changed into a DOT -it stayed perfectly still & moved backward & appeared to have gone higher… it changed colors...turned red & then white... then disappeared-we are sober and it was REAL!!!    It was NOT a satellite or a normal aircraft...very high in the sky.....WE NOW BELIEVE IN UFO'S!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80905.html](http://www.nuforc.org/webreports/reports/080/S80905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
