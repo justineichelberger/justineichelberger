@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>green circular object traveling over reno extremely fast.Bright green glow traveling from west to east.   Appeared to be moving through very light cloud cover and was traveling extremely fast.At one point green glow seemed to hesitate slightly and go out, then almost instantly reappeared and then traveled east over mountain range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80925.html](http://www.nuforc.org/webreports/reports/080/S80925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.7833333333333333 - 0.7833333333333333 minutes.</sub><blockquote><sub>ufo sighted over North Boulder.I saw a triangular shaped craft with 3 very dim lights one each end flying rather fast west over north boulder.  It flew in a straight direction but seemed to vanish at an angle I assume is 45 degrees from my vantage point.  It was a dark color but was visible because of its dim lights.  It seemed to be flying low and if so was very silent and not very large so there was no possibility it was a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139473.html](http://www.nuforc.org/webreports/reports/139/S139473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
