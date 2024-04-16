@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Monmouth County (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>small silver cigar shaped object over New JerseyI was on route 35 in monmouth county new jersey with my father, it was a very nice day out and there wasnt a cloud in the sky, and i was looking out the window, and i noticed a small silver cigar or disk shaped object in the sky, it ws gleaming in the sun very brightly, at first i thought it was a plane, because it was moving pretty quickly, and i was watching it for about 6 seconds, then it dissapeared, then about 2 seconds later, it showed up again, and then disapeared as fast as it appeared. I asked my father if he saw it and he said he didnt notice, but i was watchin it to see if it would come back, and it didnt, i thought this was very strange, and im almost positive it wasnt a plane, helicopter or any other type of flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43548.html](http://www.nuforc.org/webreports/reports/043/S43548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Atoka (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Single line formation, fast moving, star-like in the western sky.Looking into the night sky above the north star, approximately 25 UFO's were spotted in a spaced single formation traveling faster and higher than a jet with no flashing or colored lights. These were higher in altitude than the path jets take overhead and were not in the flight path taken by most planes in this area. These UFO'S were dim white, fast moving lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155238.html](http://www.nuforc.org/webreports/reports/155/S155238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
