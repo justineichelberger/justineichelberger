@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Leslie (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My wife were walking in between properties on rout 66 when we spotted 24 Air craft in US air space.  Spotted flying east over Searcy county Arkansas 4/16/2020  between 33,000 and 42,000 feet and approximately 4 to 6 knots apart.  They are silent and large at cruising speeds of 475 to 500 knots.  istance of  separation five knots approximated speed based on time pass Time = (21:29.00 to 21:41)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155239.html](http://www.nuforc.org/webreports/reports/155/S155239.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Broken Arrow (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White light circular in shape changed to orange over Creek Turnpike.Traveling on the creek turnpike headed north from the entrance at 193rd and aprox. 111th. Two police cars had 193rd under the over pass blocked, this caused me to take the turnpike. As I was headed north I slowed to 65mph I noticed a bright white light circular in shape to the west thinking it was Sirus, then realized it was to low and to bright. Sirus has a twinkle or could like like blinking this did not, and changed to orange, it then seemed to get bigger, as I was looking out my drivers window. Seemed it would have been over Lynn Lane area to the west, I then thought perhaps a helicopter as we get military fly overs on this route on their way to Claremore there is a base off 169, no way was it a helicopter after continuing to watch, it seemed to be keeping pace with me I speed up or slow down in maintained the same point out of my window, then I realized I was passing it and it was to my south west, I had to turn my head to see it, a pick up truck past m! e and the light passed me as if to pace the truck, then it just took off to the north west and blinked out light just turned off. I kept watching as I got closer to my exit on 31st, it re-appeared still at that distance then went out again. I exited which loops you around facing west, still watching I didnt see it anymore, then I turned looked out my passenger window to the north and there it was again this time it would have been over HWY 412 near Catoosa. I came to a stop sign looked one more time and it was gone. No idea what it was, no clouds, no other lights or stars to be seen, aircraft not flying because of the Covid-19 pandemic, I am baffled by this. I am a small business owner in Broken Arrow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155334.html](http://www.nuforc.org/webreports/reports/155/S155334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
