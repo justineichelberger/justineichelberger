@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Atoka (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Single line formation, fast moving, star-like in the western sky.Looking into the night sky above the north star, approximately 25 UFO's were spotted in a spaced single formation traveling faster and higher than a jet with no flashing or colored lights. These were higher in altitude than the path jets take overhead and were not in the flight path taken by most planes in this area. These UFO'S were dim white, fast moving lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155238.html](http://www.nuforc.org/webreports/reports/155/S155238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Libby (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>String of lights over Northwest MontanaWas watching sky for satellites and noticed what seemed like one traveling from southwest to northeast and one after another came over the cabinet mountains.  There were no strobes or flashing lights like airlines have, also no sound at anytime.  They were not in any specific formation but all were heading the same way what seemed pretty close.  I’ve seen multiple satellites in the sky before but never that many so close going the same direction. Maybe they were high altitude military aircraft idk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155250.html](http://www.nuforc.org/webreports/reports/155/S155250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
