@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:38 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Zagreb (Croatia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw 30 circle moving on sky, it was lasting 10 minutes, one by one was going.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155312.html](http://www.nuforc.org/webreports/reports/155/S155312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cessnock (Australia) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1hr30 - 1hr30 minutes.</sub><blockquote><sub>There were about 6 or 7 flying at a distance, Oval & dark in shape with pipe work on outside.Hello My name is ((name deleted)) & this is my encounter.One evening about 5 or so years ago.Myself & two other mates were out doing a bit of rallying we were out the back of cessnock new south wales Australia. We ended up on a little lookout called ashleys tower were it over looks a small town called Kitchener.It was late in the evening just on dark we were all siting in the car when i looked out in the direction of Kitchener.I thought i was seeing things when i noticed these dark objects flying over kitchener. I could not believe my eyes i said to my mates are you seeing what im seeing they both said yes. There were about 4 to 6 oval objects out their. While we were standing there amazed at what we were looking at one of the UFOs flue past us about 1000 meters away.  It flue in between us & a mountain that was behind it and we had perfect sight of it. It was flying with absolutely no lights no at all.  And the noise it made i have never heard that sound before.It was'nt a jet, It was'nt a helicoptor,It was a ufo, I no this because im 46 now and have been following, studding, interested in UFOs for a long time now. Anyway that's my story.please could you reply thank you.  ((name removed))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55832.html](http://www.nuforc.org/webreports/reports/055/S55832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
