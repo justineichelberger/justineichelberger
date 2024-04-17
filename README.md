@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Milton (DE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>over  DE bay  flickering lights moving over DE shore/ New Jersey shore .warm air temp. for April/sky colorsa bright light over the beach/sand dune. then it was cloudy just above us a rainbow of colors through the clouds.the air temp. seemed warmer and the sky was almost an orange color. then it was gone. we were on the beach by the mouth of the DE bay,as we looked for this ufo. my friend did not believe me . We saw a light flickering way up north towards Bowers or Slaughters beach, it was tiny in one spot then every now and again there would be a line across from on side or the other of this center light. I figured out it was spinning and the lights were reflections from lights on the ground,as I explained this to my friend we were both looking at it when it cought the light perfectly and the whole side was revealed to us .It seemed to be rotating very fast and not perfectly smooth.I awoke in the morning got a pen and scribbled a picture that was the exact size the object appeared to us. He believes now and admits he saw a UFO.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42696.html](http://www.nuforc.org/webreports/reports/042/S42696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two red lights with no sound, hovering, then disapeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118504.html](http://www.nuforc.org/webreports/reports/118/S118504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
