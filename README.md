@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:38 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO sighting in Bellingham, WATonight I was looking up at the stars in my backyard and saw a very bright star.When I looked more closely at it I noticed several green beams coming out of the bottom of this "star." I stared at it for about 5 minutes and relized this wasnt a star. I then woke up my husband to look at it with me.The UFO was far away but was moving a bit back and forth. At one time it started to move forwards towards us and we got scared and went into the house.I could still see it from my window and the green beams were moving and blinking from the UFO. I watched it until it started to almost blink off and on and moved farther away. Then after a few more blinks it just disappeared.I looked for it again all over the sky, but didn't see it, so it was just gone.I'm a "normal" person 37 years old with a husband and 2 children and never thought twice about UFOs. I am a bit scared to tell you the truth and thought I should tell someone. Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56275.html](http://www.nuforc.org/webreports/reports/056/S56275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Zagreb (Croatia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw 30 circle moving on sky, it was lasting 10 minutes, one by one was going.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155312.html](http://www.nuforc.org/webreports/reports/155/S155312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
