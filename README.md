@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cessnock (Australia) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1hr30 - 1hr30 minutes.</sub><blockquote><sub>There were about 6 or 7 flying at a distance, Oval & dark in shape with pipe work on outside.Hello My name is ((name deleted)) & this is my encounter.One evening about 5 or so years ago.Myself & two other mates were out doing a bit of rallying we were out the back of cessnock new south wales Australia. We ended up on a little lookout called ashleys tower were it over looks a small town called Kitchener.It was late in the evening just on dark we were all siting in the car when i looked out in the direction of Kitchener.I thought i was seeing things when i noticed these dark objects flying over kitchener. I could not believe my eyes i said to my mates are you seeing what im seeing they both said yes. There were about 4 to 6 oval objects out their. While we were standing there amazed at what we were looking at one of the UFOs flue past us about 1000 meters away.  It flue in between us & a mountain that was behind it and we had perfect sight of it. It was flying with absolutely no lights no at all.  And the noise it made i have never heard that sound before.It was'nt a jet, It was'nt a helicoptor,It was a ufo, I no this because im 46 now and have been following, studding, interested in UFOs for a long time now. Anyway that's my story.please could you reply thank you.  ((name removed))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55832.html](http://www.nuforc.org/webreports/reports/055/S55832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I was closing the kitchen curtains when I glanced upward and saw a bright, yellow cylinder, very sparkly moving slowly--I thought it was an airplane, but no--it turned slowly, then I looked higher and another one was right up above it--1300 ft. approximately is where they were--one on top of the other, then the changed position and were side by side.  I wanted to go outside and see clearer, but I was frightened to do so.  Then one of the cylinders sped away and only one remained for approximately 2-3 hours---I didn't stay at the window watching constantly but I kept going back and forth to my window to see if it, or they were still there moving around the sky--and yes, one of them was.  I finally went to bed at 22:00PM.  There was much motion of lights inside my home, so I figured they were still out there.  This is not my first sighting.  I have had several.  Last night was a full moon and the sky was very blue and clear.  Once, last July, there was a silver cylinder that stayed motionless for about one hour, it was only 17:00PM and broad daylight; it finally made a l80 degree turn and left very fast to become a small dot then totally disappeared.  There were 6 witnesses.  That nite the news said it was a weather baloon, but it was not--no weather baloon could possibly take off at speeds of light!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12661.html](http://www.nuforc.org/webreports/reports/012/S12661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
