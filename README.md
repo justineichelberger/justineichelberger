@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Redsish star or Mars appeared to fade awayI was looking into the southwestern sky in the late evening.  The sky was clear. I had been looking for aircraft in that area. I saw what at first appeared to be a reddish star or Mars, but then realized the stars were not in the right place for that to be the case.  The reddish star faded out and I was somewhat shocked to see that happen since the star was stationary while I was looking at it. I don’t know what it was.  The light did not come back or reappear as a star might reappear if occluded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88504.html](http://www.nuforc.org/webreports/reports/088/S88504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A "V" formation of lights following a Los Angeles Airport flight path. (How could no one else see it)?I saw a "V" formation of white, round lights in a ninety degree angle with approx. five lights on one side and three lights on the other.  This lead me to believe it was either a large object traveling fast at high altitude with lights missing on one side, or a group of smaller individual lights flying in formation at lower altitude.  I'm going to say it was some sort of stealth plane because I don't know what it was.  No trail, no sound.  Low enough to make me wish it was higher!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06357.html](http://www.nuforc.org/webreports/reports/006/S06357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
