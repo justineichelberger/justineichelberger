@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A "V" formation of lights following a Los Angeles Airport flight path. (How could no one else see it)?I saw a "V" formation of white, round lights in a ninety degree angle with approx. five lights on one side and three lights on the other.  This lead me to believe it was either a large object traveling fast at high altitude with lights missing on one side, or a group of smaller individual lights flying in formation at lower altitude.  I'm going to say it was some sort of stealth plane because I don't know what it was.  No trail, no sound.  Low enough to make me wish it was higher!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06357.html](http://www.nuforc.org/webreports/reports/006/S06357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Where and when:  On the evening of April 17, 2019, at around 8:10PM, my wife and I were driving north on Arizona highway 77 (Oracle Rd.) about a quarter mile south of Eagle Crest Ranch Blvd. when my wife said “what the heck is that” and pointed to the sky up ahead.What we saw and for how long:  We both saw five goldish looking lights, about 40 degrees above the horizon lined up horizontally but tilted slightly,  The left most light was significantly brighter (about as bright as a car headlight from a quarter mile away) than the others.  The distance was hard to judge but I would guess between 2 and 3 miles.  They appeared to be drifting slowly to the west (left) and all of a sudden they just disappeared, as if a light switch was turned off. We saw these lights for about 10 seconds before they disappeared.What we didn’t see: We didn’t see the lights appear, other than when we noticed them, so we can’t vouch for how long they were visible. We did not see a craft or crafts that may have been emitting the light.  There were no blinking lights associated with them, as seen on normal aircraft; in fact as we continued to drive north, about a mile and a half past the original sighting, we did not see any aircraft in the area at all.  The lights did not behave like fireworks, military aircraft flairs, drones or shooting stars, all of which we have seen many times.About us: I am an Engineering Technician/Metrologist and my wife is a teacher.  We are both sky watchers and have witnessed many unusual things in both the daylight and night skies.  We both try to think of logical explanations for anything that we experience but we can’t explain what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145749.html](http://www.nuforc.org/webreports/reports/145/S145749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
