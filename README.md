@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Baldwin (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Lights moving northeast in the sky.Saw strange lights in the sky. They made no sound. All headed in relatively the same direction, northeast. Too fast, too bright, and too many all together to be satellites. Checked flight pattern app and there was no reported air traffic overhead. Some where moving in pairs at slightly different speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155358.html](http://www.nuforc.org/webreports/reports/155/S155358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in McMinnville (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Short - Short minutes.</sub><blockquote><sub>Oval object and triangle shaped craft seen traveling together from bedroom window.A McMinnville father reports that his 9 year old son witnessed some strange aerial phenomenon from his bedroom window. The boy described to his parents a yellow, "glowing" oval shaped object slowly passing from west to east in front of his window. As the boy began to watch the object, it quickly accelerated its speed and left the area. About three seconds later, a triangular shaped object appeared in the same airspace as the oval object had seconds before, following the same path.Update...During the weekend of May 10th and 11th of the UFO Fest in Mcminnville, I was fortunate enough to meet this very charming and polite 9 year old boy. I sat and talked with him about his sighting and he spoke of it in a very no nonsense manner as a child this age would when recalling an event from memory. I was extremely impressed by his sincerity and feel that this boy saw exactly what he described to me as seeing. In my many years of interviewing people I have become very good at noticing the difference of how a story is presented from actual memory compared to a fabricated story told more than once. With younger people like this boy, the details searched for during the interviewing process are even more profoundly different as boys this age are much better at telling you the details of what really happened rather than repeating a scenario created in story form in their head. At one point during his testimony, I asked about the second craft and how it followed in the same path as the first oval shaped object, and he corrected me in that the second triangle shaped craft actually followed a little lower than the altitude of the first object, a detail that could have been easily left out of a made up story but came out when pressed, a good sign that the story was in fact being recalled from memory. I find this sighting of a very credible nature.This report was previously reported to NUFORC and this is a follow up to that report.Eric Byler - Assistant Director, Oregon UFO Research.((NUFORC Note:  We express our gratitude to Eric Byler and Skip Schultz, of Oregon UFO Research, for following up on the case, and sharing the information with NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22858.html](http://www.nuforc.org/webreports/reports/022/S22858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
