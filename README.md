@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I was closing the kitchen curtains when I glanced upward and saw a bright, yellow cylinder, very sparkly moving slowly--I thought it was an airplane, but no--it turned slowly, then I looked higher and another one was right up above it--1300 ft. approximately is where they were--one on top of the other, then the changed position and were side by side.  I wanted to go outside and see clearer, but I was frightened to do so.  Then one of the cylinders sped away and only one remained for approximately 2-3 hours---I didn't stay at the window watching constantly but I kept going back and forth to my window to see if it, or they were still there moving around the sky--and yes, one of them was.  I finally went to bed at 22:00PM.  There was much motion of lights inside my home, so I figured they were still out there.  This is not my first sighting.  I have had several.  Last night was a full moon and the sky was very blue and clear.  Once, last July, there was a silver cylinder that stayed motionless for about one hour, it was only 17:00PM and broad daylight; it finally made a l80 degree turn and left very fast to become a small dot then totally disappeared.  There were 6 witnesses.  That nite the news said it was a weather baloon, but it was not--no weather baloon could possibly take off at speeds of light!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12661.html](http://www.nuforc.org/webreports/reports/012/S12661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Milton (DE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>over  DE bay  flickering lights moving over DE shore/ New Jersey shore .warm air temp. for April/sky colorsa bright light over the beach/sand dune. then it was cloudy just above us a rainbow of colors through the clouds.the air temp. seemed warmer and the sky was almost an orange color. then it was gone. we were on the beach by the mouth of the DE bay,as we looked for this ufo. my friend did not believe me . We saw a light flickering way up north towards Bowers or Slaughters beach, it was tiny in one spot then every now and again there would be a line across from on side or the other of this center light. I figured out it was spinning and the lights were reflections from lights on the ground,as I explained this to my friend we were both looking at it when it cought the light perfectly and the whole side was revealed to us .It seemed to be rotating very fast and not perfectly smooth.I awoke in the morning got a pen and scribbled a picture that was the exact size the object appeared to us. He believes now and admits he saw a UFO.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42696.html](http://www.nuforc.org/webreports/reports/042/S42696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
