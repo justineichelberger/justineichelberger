@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:25 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:19 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Little Falls (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Twinkling ufo in sky.Bright twinkling light, multicolored for 15 minutes and wasn't moving.  Eventually started slowly traveling west.  Object was quite a distance from me, but was so bright, it stood out in the sky.  Definitely not a plane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97232.html](http://www.nuforc.org/webreports/reports/097/S97232.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1897, an anonymous witness in Aurora (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving cigar shaped airship crashed in Aurora, TexasThe story as written in the April 19, 1897 edition of the Dallas Morning News is as follows:  About 6 o'clock this morning the early risers of Aurora were astonished at the sudden appearance of the airship which has been sailing through the country.It was traveling due north, and much nearer the earth than ever before. Evidently some of the machinery was out of order, for it was making a speed of only ten or twelve miles an hour and gradually settling toward the earth.  It sailed over the public square, and when it reached the north part of town collided with the tower of Judge Proctor's windmill and went into pieces with a terrific explosion, scattering debris over several acres of ground, wrecking the windmill and water tank and destroying the judge's flower garden.The pilot of the ship is supposed to have been the only one aboard, and while his remains are badly disfigured, enough of the original has been picked up to show that he was not an inhabitant of this world.Mr. T. J. Weems, the United States Signal Service officer at this place and an authority on astronomy, gives it as his opinion that he was a native of the planet Mars.Papers found on his person -- evidently the record of his travels -- are written in some unknown hieroglyphics, and can not be deciphered.The ship was too badly wrecked to form any conclusion as to its construction or motive power.  It was built of an unknown metal, resembling somewhat a mixture of aluminum and silver, and it must have weighed several tons.The town is today full of people today who are viewing the wreck and gathering specimens of strange metal from the debris.  The pilot's funeral will take place at noon tomorrow.The article was written by S. E. Haydon and a photocopy of it is at http://usuarios.multimania.es/xscape/aurora_news.JPG  *Note:  the year was 1897 and your event date field only allows for a 2 digit year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88780.html](http://www.nuforc.org/webreports/reports/088/S88780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
