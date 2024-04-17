@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 16 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:49 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Yanbu Al Sinaiyah (Saudi Arabia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Awesome show of colours and wonder amidst desert sandsAbout a dozen swirling disc shaped objects hovered above the horizon in an altitude of a plane ready to land. In an afternoon sky, the circling objects illuminated in various hues-red, green, orange. I was transfixed in awe and noticed that they lowered their flight and zoomed out to nothingness in a blink.((NUFOR Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44908.html](http://www.nuforc.org/webreports/reports/044/S44908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Nashville (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two craft sighted in the night sky over Nashville, NC flying in a North Northeast direction.On Friday April 17, 2009 at approximately 22:36 hours a friend and I witnessed two objects in the sky over Nashville, NC. These objects flew side by side at a high rate of speed emitting no sound and leaving no vapor trail. They flew at a steady speed and at a constant distance apart from each other. There were no lights on these craft and seemed to be reflecting ambient light from the material they were made with. It resembled a semi polished aluminum or titanium. The craft flew in a North, Northeasterly direction.The speed at which the craft traveled was comparable to that of a low flying military fighter. The craft seemed to be approximately 20-25,000 feet in the air. I am no flight expert but it seemed to be at an altitude slightly higher than what a helicopter would fly.The craft appeared to be flying in a formation with one slightly ahead of the other.As stated before, these craft traveled without making a sound. I only noticed the objects because I had went outside to smoke and happened to be looking at the stars noticing what a clear night it was. The objects seemed to be round or a slight elliptical shape.This is the second time I have witnessed unidentified objects. The other sighting was approximately 17 years ago near Warrenton, VA. That sighting was confirmed by documentation with a government agency of other reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69688.html](http://www.nuforc.org/webreports/reports/069/S69688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
