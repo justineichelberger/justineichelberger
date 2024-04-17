@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Where and when:  On the evening of April 17, 2019, at around 8:10PM, my wife and I were driving north on Arizona highway 77 (Oracle Rd.) about a quarter mile south of Eagle Crest Ranch Blvd. when my wife said “what the heck is that” and pointed to the sky up ahead.What we saw and for how long:  We both saw five goldish looking lights, about 40 degrees above the horizon lined up horizontally but tilted slightly,  The left most light was significantly brighter (about as bright as a car headlight from a quarter mile away) than the others.  The distance was hard to judge but I would guess between 2 and 3 miles.  They appeared to be drifting slowly to the west (left) and all of a sudden they just disappeared, as if a light switch was turned off. We saw these lights for about 10 seconds before they disappeared.What we didn’t see: We didn’t see the lights appear, other than when we noticed them, so we can’t vouch for how long they were visible. We did not see a craft or crafts that may have been emitting the light.  There were no blinking lights associated with them, as seen on normal aircraft; in fact as we continued to drive north, about a mile and a half past the original sighting, we did not see any aircraft in the area at all.  The lights did not behave like fireworks, military aircraft flairs, drones or shooting stars, all of which we have seen many times.About us: I am an Engineering Technician/Metrologist and my wife is a teacher.  We are both sky watchers and have witnessed many unusual things in both the daylight and night skies.  We both try to think of logical explanations for anything that we experience but we can’t explain what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145749.html](http://www.nuforc.org/webreports/reports/145/S145749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>white circular object with trail over head than vanishes into night sky !While outside at my current residents in the  backyard with my wife! the time was 21:30 looking at the night sky it was a clear night!  A white circular object went over my head with a white trail !  It came over the house above the trees est 50 to 75 feet above the trees I have never seen nothing like this in my 46yrs of living  as a child I was into astronomy ! so I have seen for example meteor showers!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97284.html](http://www.nuforc.org/webreports/reports/097/S97284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
