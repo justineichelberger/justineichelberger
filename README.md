@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:17 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>white circular object with trail over head than vanishes into night sky !While outside at my current residents in the  backyard with my wife! the time was 21:30 looking at the night sky it was a clear night!  A white circular object went over my head with a white trail !  It came over the house above the trees est 50 to 75 feet above the trees I have never seen nothing like this in my 46yrs of living  as a child I was into astronomy ! so I have seen for example meteor showers!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97284.html](http://www.nuforc.org/webreports/reports/097/S97284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright ball of light heading towards airport...then the light suddenly dissapears as lowers in altitude.not a airplane saw1 a min lateri saw a bright ball of light headed toward the GR airport.  i thought it was a plane but i didnt see the normal flashing lights that a plane has...it was moving at at least the same speed as an airplane.. but it was like a bright start, a fairly big one like the north star.  it moved downwards in direction &lt;sort of on an angle&gt; almost like it was gonna land in the area of theairport but then the light just went out..i moved to see if maybe  it was because it went behind a tree but no, the light just cut out and it was gone..moments later form a different direction i see an airplane going across the sky..this was nice b/c it gave me something to compare this bright star-like object to..1st. the airplane was much smaller and less bright 2nd. the airplane  had the usual flashing lights  3rd.  it seemed further away but i just think it was smaller with smaller lights and thats why it seemed further away or maybe it was..i dont know for sure..the bright object de! finitely seemed like it was at a lower altitude though.. very neat..my 2nd sighting ever!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126908.html](http://www.nuforc.org/webreports/reports/126/S126908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
