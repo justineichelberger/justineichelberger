@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two red lights with no sound, hovering, then disapeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118504.html](http://www.nuforc.org/webreports/reports/118/S118504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in West Memphis (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : Two lights merge together due south then proceed rapidly to the southwest where they disappear at the horizonI was driving home, when I looked out my left window and saw two bright white lights,at about 70 degrees in the sky and quite high. In a couple of seconds, they merged together from their side-by-side formation in a curved V-shaped movement. The resulting light moved southwest at an amazing rate,where it disappeared beneath the horizon. I'd say it moved from 70 degrees to 0 degreesin 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02146.html](http://www.nuforc.org/webreports/reports/002/S02146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
