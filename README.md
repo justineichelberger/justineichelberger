@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Cancun (Mexico) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Triangular shaped illuminating object hovering over the ocean near Cancun Mexico .Just wanted to let someone know about what 3 of my companions and myself witnessed on our balcony at the hotel Riu Cancun Sunday morning (2am-4am), 4/18/2004. My roommate and I walked in the room and I walked to the balcony to catch a glimpse of the ocean and the night sky only to find a triangular illuminating object hovering in the sky. The distance was hard to determine but I could hear the sound of it breaking the wind, for that night happened to be windy. I called my roommate to see if he could help explain it and we stood there in amazement as to what it could have been. After a few seconds the object darted into the clouds and what seemed like into the atmosphere, then it faded away. We both decided to run to our other friends across the hallway to tell them. After explaing what we saw we all ran out to their balcony to see if it could be seen again. After a couple of minutes of staring into the sky we spotted it again but not as close as the initial sighting, now it appeared as an illuminating circular object. It seemed more energetic then before because its was speeding left to right zig-zagging in out of the clouds. Minutes later after settling down and deciding there is not much we could do but just observe it, I went back to my room and sat on the balcony viewing its maneuvering in the sky for a good hour. At one point I gestured to it so it would come closer and it stopped briefly and hovered in the sky for a good minute as if it had seen my gesture and was contemplating coming down to my level. It was quite the experience that I shall never forget. I still can't rationalize what it could have been, high tech Government project or a unexplainable natural phenomenon.((NUFORC Note:  Given the duration of the sighting, we suspect that the witnesses might have been observing a celestial body, possibly a planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36455.html](http://www.nuforc.org/webreports/reports/036/S36455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>5-6 meandering and mingling translucent white teardrop shaped phenomena.I was sitting in my backyard facing west and overlooking a ravine when I observed 5-6 teardrop shaped, translucent orbs fly NW over me.  They flew in an "S" type meandering method in groups of 2 & 3 then switched positions.  They mingled as they flew, similar top how smaller birds do.They weren't really orbs, more like flying translucent white ghostly tear drops or sprites. Not really solid and the tail kind've trailed behind.  They didn't appear as physical objects as we know it.It was one of the coolest things I've ever seen.I was wondering, could it be birds?  But it was late for birds, they don't travel that fast, and they don't dance around each other effortlessly while flying, and they certainly don't glow white or look like flying ghosts.  Also, birds and bats have wings, these did not!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118603.html](http://www.nuforc.org/webreports/reports/118/S118603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
