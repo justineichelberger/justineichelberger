@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fridley (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Approximately 100 starlight objects moving from the SW to NE with no blinking lights or sound in a straight lineClear skies approximately 9pm Saturday  April 18th.I noticed an object moving across the sky as a light similar to a Star. They did not have blinking lights or sound. I then noticed another one behind it then another and another moving from south west to North East in a line. I counted over sixty as this continued for at least a half an hour from when I noticed them.  Most stayed in this line with a few out of line and one coming from the south. I texted a friend who live a ways from me to go outside and check it out also.  They moved faster than aircraft I have seen in the past and at a height that made me first think of a satellite.  When they had all passed I then noticed a smoke like substance filling the skies that resembled clouds. There were no tails that would make one think of comets or meteorites just a solid consistent light like a Star. My cell phone was also acting up as I was trying to get photos and text friends to see this however I’m not sure if that was related to the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155435.html](http://www.nuforc.org/webreports/reports/155/S155435.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in College Place (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>String of stars evenly spaced out for 30 min.Saw a string of Stars evenly spaced out for about 30 minutes, could be 50+, they were in a staight line.  towards the end the line was in a different part of the ski but going the same direction going north-east.  toward the end the end of the 30 minutes the stars were not in line up perfectly.  No noise, very high like a Satelite, Also saw a shooting star go across too.  I do have a poor video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155431.html](http://www.nuforc.org/webreports/reports/155/S155431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
