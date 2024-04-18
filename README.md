@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 17 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in West Memphis (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : Two lights merge together due south then proceed rapidly to the southwest where they disappear at the horizonI was driving home, when I looked out my left window and saw two bright white lights,at about 70 degrees in the sky and quite high. In a couple of seconds, they merged together from their side-by-side formation in a curved V-shaped movement. The resulting light moved southwest at an amazing rate,where it disappeared beneath the horizon. I'd say it moved from 70 degrees to 0 degreesin 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02146.html](http://www.nuforc.org/webreports/reports/002/S02146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My girlfriend and I were seated on her 15th floor balcony facing due west towards the adjacent intracoastal waterway. At approximately 5:52 pm my girlfriend commented on an unknown flying object which was across the waterway, perhaps 1/4 mile west, perhaps a couple hundred feet south of our position and roughly a 20 degree angle in altitude from the balcony. When I turned my attention I saw a multipointed star shaped object, symetrically bulging in the middle, black in color and intermittently reflecting the sunlight. The object was perhaps 50-75 feet below a small Cessna type single engine aircraft flying northwest. The size was roughly 1/3 of the length of the plane above it. At first I assumed this was an object being towed under the aircraft as its speed ans direction appeared to match. What happened next surprised me though as the object deviated towards due north along the waterway and the plane continued on its path. I then observed the object continuing northward and maintaining relatively level flight. I watched it into the distance and lost visual contact as it appeared to go over the buildings of downtown Fort Lauderdale approximately 9 miles to the north, passing just east of the fort Lauderdale airport. The entire episode lasted less than 15 seconds. I did not perceive any noise from the object above the background street and plane noise. There was no contrail, visible means of propulsion or anything I would associate with a control surface. I would have thought it was some sort of balloon if not for the speed, horizontal orientation and level flight. I was able to shoot a few seconds of video at the tail end of my visual contact which I will email separately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162746.html](http://www.nuforc.org/webreports/reports/162/S162746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
