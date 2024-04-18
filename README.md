@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Thompson (MB) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Glowing object flying over Thompson, MB.Seen an black object with orange glowing at the back of object flying in our atmosphere about 1500 ft in the air flying over thompson, manitoba, Canada.  It was flying slowly and there was no sound.  Seen it for approx 30 seconds and then it disappeared.After it disappeared we turned around and seen another object bright as a star flying in the air slow enough to see it moving and then it disappeared as well.  This is not the first time we have been experiencing these objects.  4 years ago we experienced a flying object 3 days in a row approx.  10 to 20 minute differences each night.  4 of us witnessed that one too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108742.html](http://www.nuforc.org/webreports/reports/108/S108742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Portage La Prairie (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 balls of light circling each other while moving.Just went to let my dogs outside and happened to be staring in the sky when to medium sized balls of light flew across the sky from the Southeast going Northwest.  What's blowing my mind right now is that the objects were circling each other.  2 balls of light going faster than a plane circling each other while moving...  That's a little messed up to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118501.html](http://www.nuforc.org/webreports/reports/118/S118501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
