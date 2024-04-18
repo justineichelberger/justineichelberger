@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mankato (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights that look like a convoy of ISS's moving from southwest, to northeast evenly spaced at first, then gradually spaced farther apart.  Saw at least 10-15 lights go over in about 5 minutes, then about 29 minures later, another single light went over.  Stopped observing about 21:40 (9:40pm).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155485.html](http://www.nuforc.org/webreports/reports/155/S155485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Jacinto (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw what appeared to be a while light shooting toward earth but apperaed green by the time it hit earth, It did not slow down and hit earth as fast as it was traveling from start, it did not explode. I drove as far as I could till I hit a mountain and it appeared to land on other side of mountain. This has changed how I view mankind, this will haunt me forever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62769.html](http://www.nuforc.org/webreports/reports/062/S62769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
