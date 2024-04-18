@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:07 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My girlfriend and I were seated on her 15th floor balcony facing due west towards the adjacent intracoastal waterway. At approximately 5:52 pm my girlfriend commented on an unknown flying object which was across the waterway, perhaps 1/4 mile west, perhaps a couple hundred feet south of our position and roughly a 20 degree angle in altitude from the balcony. When I turned my attention I saw a multipointed star shaped object, symetrically bulging in the middle, black in color and intermittently reflecting the sunlight. The object was perhaps 50-75 feet below a small Cessna type single engine aircraft flying northwest. The size was roughly 1/3 of the length of the plane above it. At first I assumed this was an object being towed under the aircraft as its speed ans direction appeared to match. What happened next surprised me though as the object deviated towards due north along the waterway and the plane continued on its path. I then observed the object continuing northward and maintaining relatively level flight. I watched it into the distance and lost visual contact as it appeared to go over the buildings of downtown Fort Lauderdale approximately 9 miles to the north, passing just east of the fort Lauderdale airport. The entire episode lasted less than 15 seconds. I did not perceive any noise from the object above the background street and plane noise. There was no contrail, visible means of propulsion or anything I would associate with a control surface. I would have thought it was some sort of balloon if not for the speed, horizontal orientation and level flight. I was able to shoot a few seconds of video at the tail end of my visual contact which I will email separately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162746.html](http://www.nuforc.org/webreports/reports/162/S162746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Summary : Looking East, saw bright red light descending down thru cloud layer, then back up into clouds,repeating twice. Red light had a diamond shaped craft around it. About 2 minutes later a high speed jet aircraft flew from south to nor that same altitude thru clouds as the red light but it was already gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02148.html](http://www.nuforc.org/webreports/reports/002/S02148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
