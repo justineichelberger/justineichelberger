@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Zutphen (Netherlands) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saw an orange glowing light in the sky when airspace was closedOur eyes were naturally drawn to the sky this evening because it was still.  Iceland's volcano Eyjafjallajökull had just erupted and because of the ash in the sky the airspace was closed.  Suddenly we saw a glowing orange light in the distance - it seemed very far away from us but when we saw it it was still pretty close to the ground.  It started to rise at different speeds, first slow then fast then it stops, then starts slow and fast and stops (there was no wind that particular evening.  Then finally is sped off lightning fast straight up in the sky.  At first I thought it may be a Chinese lantern but I have seen how Chinese lanterns float into the sky and they never move and stop and speed off like this did.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87847.html](http://www.nuforc.org/webreports/reports/087/S87847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Thompson (MB) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Glowing object flying over Thompson, MB.Seen an black object with orange glowing at the back of object flying in our atmosphere about 1500 ft in the air flying over thompson, manitoba, Canada.  It was flying slowly and there was no sound.  Seen it for approx 30 seconds and then it disappeared.After it disappeared we turned around and seen another object bright as a star flying in the air slow enough to see it moving and then it disappeared as well.  This is not the first time we have been experiencing these objects.  4 years ago we experienced a flying object 3 days in a row approx.  10 to 20 minute differences each night.  4 of us witnessed that one too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108742.html](http://www.nuforc.org/webreports/reports/108/S108742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
