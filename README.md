@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:49 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pekin (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately Brief - Brief minutes.</sub><blockquote><sub>Observed large ship over my country property.Man was out observing the sky and had turned around heading to the house when out of nowhere a large craft appeared at the south of his woods.  He observed the craft which had very bright lights on the back of it and had forward lights on both sides, but they did not light up the ground or woods below, only areas on the craft, and then from right to left, red light back and forth.  The lights were white with a tinged of yellow.  The craft was heading south toward the knobs, and then blinked out and was gone.  Witness pointed out that the lights were very bright and it made it hard to adjust his vision to see the rest of the craft.  Later in the morning he estimated the length of the rear end of the craft of what he could see and it was in the neighborhood of 90 to 100 feet across.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139786.html](http://www.nuforc.org/webreports/reports/139/S139786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eudora (KS) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small bright lights traveling straight before a few split off in different directions.I was walking down my street when I looked at the sky. A set of stars began to travel in line around the sky. I brushed it off as StarLink (SpaceX), when I realized some of the stars started to split off and go in a few directions. The line was going from West to North, then South to North by the end of it.I called my mom and explained the situation.  A couple of my neighbors came out after seeing me standing in the middle of my street.  I showed them what was going on and they were as amazing as I was.The lights were bright, so when it began to end they faded to nothing.  Soon after, a thin fog rolled in and covered the sky.They looked as if to appear from behind the brightest object in the sky.  It’s not the North Star because it’s in the west.  I looked it up and was told it was the planet Venus.Helicopters seem to surrounding and follow the line at first, but flew off when it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155489.html](http://www.nuforc.org/webreports/reports/155/S155489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
