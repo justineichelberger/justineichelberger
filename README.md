@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pounding Mill (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Craft with bright lights of white and blue hover low then high then craft with red light appears to leave from first craft.On 4/18/08 at approximately 10pm while driving home I noticed a bright white and blue light slowly moving east to west and appeared to be fairly low. I lost sight for a minute when I arrived home and parked and exited my car. I looked in the general vicinity where I originally seen this and what I thought was an extremely bright star caught my eye. I didn't watch it continually at first but kept glancing back as I carried groceries in. Then I stopped and watched it closer. It was only white at this time. I noticed that it didn't look like a typical twinkling star because it was so much brighter. Then it seemed to be shimmying a little or maybe slightly wavering from side to side. The light on it then appeared to be scanning. I called my mother to get her to watch it. She agreed it was moving and the light appeared to be going around in circles or scanning. It gradually started to fade farther away but was still noticeable to us. Although if I had only seen it at this point I would have definitely thought it was a star. Then I noticed a red light that seemed to come from it. This red light was getting more and more bright as the other was fading more and more. I watched the object with the red light go from west to east just opposite of what the first had done. It traveled along the mountain steadily just as if it were a typical plane I have seen at night. It did seem much lower though. I watched it as far as I could see it and it done nothing significant. The other light continued to fade and eventually I could not see it at all. This all lasted for approximately 45 minutes. I am not sure how long it had been there when it first caught my eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62855.html](http://www.nuforc.org/webreports/reports/062/S62855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mankato (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights that look like a convoy of ISS's moving from southwest, to northeast evenly spaced at first, then gradually spaced farther apart.  Saw at least 10-15 lights go over in about 5 minutes, then about 29 minures later, another single light went over.  Stopped observing about 21:40 (9:40pm).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155485.html](http://www.nuforc.org/webreports/reports/155/S155485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
