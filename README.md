@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Niagara Falls (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I was going to pick up tile for a job and On My way back to work traveling down porter rd.  I wittnessed a circler yellow or green light in the sky over the niagarafalls air force base or sandborn ny.   I was driving for 30  sec well i noticed it 40 deg up and 20 deg to the left.  I was going 10 under the speed  limit as i was looking... I pulled over and stopped before 98th st. and watched it for about 60 sec and then it took off faster then a human eye can see.  I worked for the airforce and On that base. It is a cargo base and i heard some bad ass jets going up that day.  I dont think i crazy and but this was real and i know it...…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88495.html](http://www.nuforc.org/webreports/reports/088/S88495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>I was driving South on 95 and saw a yellowish round aircraft that went from West to East. What amazed me was it went from one side of the sky to the other in about 12 seconds and then suddenly disappeared.  It was very high in the sky and moved at a rate of speed I've never witnessed before.  At first I thought it was a falling star but it went directly horizontal across the sky.  I've checked news reports to see if anyone else saw it, but haven't seen any other reports..  I've timed all other aircraft's in the sky and nothing comes close to what I saw.  I say about 12 seconds because after watching for about 3 seconds, I started counting- because the rate of speed was phenomenal.  It did not have a tail, it was a yellowish round ball that moved from one side of the horizon to the other but seemed to disappear when it got over open water.  I'm hoping someone else saw it and will come forward.  I travel for my job and spend a lot of time on the road and this is the first time I cannot decipher what I witnessed.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121278.html](http://www.nuforc.org/webreports/reports/121/S121278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
