@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Papillion (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At approximately 9:15 PM this evening, while sitting out on the back deck of our house, we observed the first object moving from WSW to NE across the night sky.  From observing the ISS over several years, this definately was moving at a speed that far exceeded any commercial jet.  About one minute later, two more appeared about 10 degrees apart and following the exact same flight path.  Over the next 25 minutes, approximately nine more appeared, all following the same flight path and crossing the night sky at the same speed.  I've never observed multiple objects like this before that appeared at the same location in the sky, transit in the exact same direction and at the same high rate of speed.  All appeared as singular solid lights, with a couple of them almost as bright as the ISS.  No flashing lights or changes of color were observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155482.html](http://www.nuforc.org/webreports/reports/155/S155482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Niagara Falls (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I was going to pick up tile for a job and On My way back to work traveling down porter rd.  I wittnessed a circler yellow or green light in the sky over the niagarafalls air force base or sandborn ny.   I was driving for 30  sec well i noticed it 40 deg up and 20 deg to the left.  I was going 10 under the speed  limit as i was looking... I pulled over and stopped before 98th st. and watched it for about 60 sec and then it took off faster then a human eye can see.  I worked for the airforce and On that base. It is a cargo base and i heard some bad ass jets going up that day.  I dont think i crazy and but this was real and i know it...…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88495.html](http://www.nuforc.org/webreports/reports/088/S88495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
