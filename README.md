@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:07 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:20 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Summary : Looking East, saw bright red light descending down thru cloud layer, then back up into clouds,repeating twice. Red light had a diamond shaped craft around it. About 2 minutes later a high speed jet aircraft flew from south to nor that same altitude thru clouds as the red light but it was already gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02148.html](http://www.nuforc.org/webreports/reports/002/S02148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Huge, low flying craft, nearly hits car apparently attempting to land on county road, 5 huge lightsA huge object with 5 super bright lights nearly hit head on while driving.  Object had 3 lights in a row on top, two in a row below this.  Almost appeared to be using road as a landing strip.  Had to pull off the road abruptly thinking it would hit our vehicle.  Stopped to watch, put windows down, no sound. Object appeared to see us watching and disappeared.   We were too shocked to even snap a photo with 2 cell phones on hand.  A friend asked the next day if we saw something "weird last night" and when we said yes, why?  She reported to us seeing a large low flying object with 5 large, bright lights on it.  The friend was about 3 roads away from where we encountered the object.  It was very frightening especially due to the fact that we thought it was going to fly into the car similar to when a low flying airplane can seem like it can hit a car when driving near an airport.  We were not near an airport and have not seen anything like this before.For a week before and after this incident we have seen massive numbers of strange objects in the night sky that we have not seen before.  Photographs reveal rainbow colors but to the naked eye they vary from white with blinking red/green lights, to amber shades on some others.  They are definitely not stars, some move faster than any aircraft could, some hover but moving slightly, some zigzagging, some left and right, some up and down.  Almost too many to describe.  We took over 500 pictures over 4 days and cannot make sense of any of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80982.html](http://www.nuforc.org/webreports/reports/080/S80982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
