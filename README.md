@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in College Place (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>String of stars evenly spaced out for 30 min.Saw a string of Stars evenly spaced out for about 30 minutes, could be 50+, they were in a staight line.  towards the end the line was in a different part of the ski but going the same direction going north-east.  toward the end the end of the 30 minutes the stars were not in line up perfectly.  No noise, very high like a Satelite, Also saw a shooting star go across too.  I do have a poor video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155431.html](http://www.nuforc.org/webreports/reports/155/S155431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Papillion (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At approximately 9:15 PM this evening, while sitting out on the back deck of our house, we observed the first object moving from WSW to NE across the night sky.  From observing the ISS over several years, this definately was moving at a speed that far exceeded any commercial jet.  About one minute later, two more appeared about 10 degrees apart and following the exact same flight path.  Over the next 25 minutes, approximately nine more appeared, all following the same flight path and crossing the night sky at the same speed.  I've never observed multiple objects like this before that appeared at the same location in the sky, transit in the exact same direction and at the same high rate of speed.  All appeared as singular solid lights, with a couple of them almost as bright as the ISS.  No flashing lights or changes of color were observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155482.html](http://www.nuforc.org/webreports/reports/155/S155482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
