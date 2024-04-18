@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>I was driving South on 95 and saw a yellowish round aircraft that went from West to East. What amazed me was it went from one side of the sky to the other in about 12 seconds and then suddenly disappeared.  It was very high in the sky and moved at a rate of speed I've never witnessed before.  At first I thought it was a falling star but it went directly horizontal across the sky.  I've checked news reports to see if anyone else saw it, but haven't seen any other reports..  I've timed all other aircraft's in the sky and nothing comes close to what I saw.  I say about 12 seconds because after watching for about 3 seconds, I started counting- because the rate of speed was phenomenal.  It did not have a tail, it was a yellowish round ball that moved from one side of the horizon to the other but seemed to disappear when it got over open water.  I'm hoping someone else saw it and will come forward.  I travel for my job and spend a lot of time on the road and this is the first time I cannot decipher what I witnessed.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121278.html](http://www.nuforc.org/webreports/reports/121/S121278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pounding Mill (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Craft with bright lights of white and blue hover low then high then craft with red light appears to leave from first craft.On 4/18/08 at approximately 10pm while driving home I noticed a bright white and blue light slowly moving east to west and appeared to be fairly low. I lost sight for a minute when I arrived home and parked and exited my car. I looked in the general vicinity where I originally seen this and what I thought was an extremely bright star caught my eye. I didn't watch it continually at first but kept glancing back as I carried groceries in. Then I stopped and watched it closer. It was only white at this time. I noticed that it didn't look like a typical twinkling star because it was so much brighter. Then it seemed to be shimmying a little or maybe slightly wavering from side to side. The light on it then appeared to be scanning. I called my mother to get her to watch it. She agreed it was moving and the light appeared to be going around in circles or scanning. It gradually started to fade farther away but was still noticeable to us. Although if I had only seen it at this point I would have definitely thought it was a star. Then I noticed a red light that seemed to come from it. This red light was getting more and more bright as the other was fading more and more. I watched the object with the red light go from west to east just opposite of what the first had done. It traveled along the mountain steadily just as if it were a typical plane I have seen at night. It did seem much lower though. I watched it as far as I could see it and it done nothing significant. The other light continued to fade and eventually I could not see it at all. This all lasted for approximately 45 minutes. I am not sure how long it had been there when it first caught my eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62855.html](http://www.nuforc.org/webreports/reports/062/S62855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
