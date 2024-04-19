@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:41 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glennville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Distant stationary object flashing multiple colorsThe object was stationary and star-like appearing in the Southwestern sky about 20 degrees above the horizon. The object appeared very distant and flashed multiple colors. ((NUFORC Note:  Possibly Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43566.html](http://www.nuforc.org/webreports/reports/043/S43566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>looking in the sky to the south,I saw a greyish silouette heading north,looked for lites,listened for sound,None of either.Whatched it cross the sky. up at a 45-60 degree angle from me.the sky was lit up in the background so I had a good look at the shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12664.html](http://www.nuforc.org/webreports/reports/012/S12664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
