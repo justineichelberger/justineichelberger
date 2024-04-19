@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Carterville (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Flat craft with egg-shaped profile(The object was spotted in the evening sky by three adult observers- only one will speak on terms of anonymity.) The craft was spotted in the evening sky remaining motionless. It appeared to be stationary over a field some six blocks distant. Looking from the side, it had a flat bottom and top- but was egg-shaped in outline.It was built in three sandwiched layers: Top "deck": Dark. Had a shiny band bisecting the craft just behind amidship (assuming the egg's pointed end to be a bow.) The width of this band was roughly one-fourth the length of the craft. The shiny band reflected moonlight quite well.Middle "deck": Single row of narrowly-spaced oval lights arranged Red/Blue/Green all around the circumference of the object. Randomly flashing.Lower "deck" or "hull": Bright luminous white. Witness said it wasn't blinding, but "extra bright".Object remained stationary for 25-35 minutes, witnesses were too stunned to get an exact time. Object blinked out while main witness was moving in her car to get better look.Object estimated the size of two baseball fields; Witness said it appeared to her the size of a chicken's egg held at arm's length- blocking the same amount of sky from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24002.html](http://www.nuforc.org/webreports/reports/024/S24002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting in Northeast FloridaStopped at red light at 312 and A1A intersection, in the eastern sky there was one large craft that was similar to a blimp in appearance, with a thick black stripe through the center of the craft. Under the large craft there was a small craft below it to the left, which appeared to be silver/metallic in structure and also a circular/disclike shape. They were stationary, I didn’t see them move the entire duration at the red light which was over a minute and a half.  I noticed and snapped pictures with my camera phone that did not come out. I decided to drive closer to the crafts to try and take more pictures and they disappeared. Previous to this sighting the observer has had a number of dreams with extraterrestrials in them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62624.html](http://www.nuforc.org/webreports/reports/062/S62624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
