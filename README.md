@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Intermittent bright red and white stationary lights and super high speed "streak" of light over mountains, north of Las VegasAt 19:45 I was driving home from work heading north. I noticed three lights above the mountains north of Las Vegas. At first I thought they were fighter jets in formation doing maneuvers but suddenly all the lights disappeared but came back on a few seconds later.  These lights didn’t seem to be moving upon further observation but just lighting up and dimming back down.  With my eyes peeled in this direction of the sky there was sudden streak from west to east lasting only a few seconds and “exceedingly” faster than any plane or shooting star I’ve ever witnessed.  I was on the phone with a friend and describing what I was seeing to him.  I see airplanes in the sky all the time in Vegas but these lights and streak didn’t seem to match anything I see on a normal basis.  After the streak I didn’t anymore lights but still curious I drove west a bit into the desert to get a better vantage point.  That's when I looked up National UFO Reporting Center and called.  As I was calling there was too more stationary brilliant red lights (about 3 times the size of a normal star) that lit up in the same area, one immediately after the other.  Both stayed lit for approximately two to three seconds and then disappeared.  I hung around for another fifteen minutes but saw nothing else.I am a college instructor, and teacher.  This is the first time I’ve ever reported a sighting. I feel what I saw was significantly unique enough to follow through with filing a report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88526.html](http://www.nuforc.org/webreports/reports/088/S88526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Carterville (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Flat craft with egg-shaped profile(The object was spotted in the evening sky by three adult observers- only one will speak on terms of anonymity.) The craft was spotted in the evening sky remaining motionless. It appeared to be stationary over a field some six blocks distant. Looking from the side, it had a flat bottom and top- but was egg-shaped in outline.It was built in three sandwiched layers: Top "deck": Dark. Had a shiny band bisecting the craft just behind amidship (assuming the egg's pointed end to be a bow.) The width of this band was roughly one-fourth the length of the craft. The shiny band reflected moonlight quite well.Middle "deck": Single row of narrowly-spaced oval lights arranged Red/Blue/Green all around the circumference of the object. Randomly flashing.Lower "deck" or "hull": Bright luminous white. Witness said it wasn't blinding, but "extra bright".Object remained stationary for 25-35 minutes, witnesses were too stunned to get an exact time. Object blinked out while main witness was moving in her car to get better look.Object estimated the size of two baseball fields; Witness said it appeared to her the size of a chicken's egg held at arm's length- blocking the same amount of sky from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24002.html](http://www.nuforc.org/webreports/reports/024/S24002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
