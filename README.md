@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Moscow (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds per event - seconds per event minutes.</sub><blockquote><sub>Bright 'light-on-a-rheostat' in eastern skyBetween 3:30--4AM, saw two separate instances of 'lights in the sky,' while facing east from Hwy 95, on the north end Moscow, Idaho.The first instance drew my attention since the light was very bright and seemed to be like a light on a rheostat:  first being not-visible, becoming very bright, then becoming not-visible again.There was also very little movement of travelv across the sky.It was hard to judge distance, but this seemed fairly high up in the air, perhaps 2.5 to 3 hand-widths off the horizon (if one could see the horizon from my location)  At first, i thought the light might be a plane with its landing lights on, making a very tight turn.However, the Moscow-Pullman airport is west of town, so i should have been able to track an aircraft with its landing lights on traveling East to West.And i doubt the regional airport is open that early in the morning.About 8-12 minutes later, i noticed a second light do the same 'bright-to-nothing' off to the East-North-East of the first light.This one seemed a little higher in the sky than the first, and it was not as bright as the first light.Don't know if these were bolides, but i've seen at least one bolide, which exhibited some travel across the sky before it faded.These lights just became visible, then faded, with very little travel across the sky.  If any.There were no obvious engine sounds associated with the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118521.html](http://www.nuforc.org/webreports/reports/118/S118521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Claremore (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>white/blue light with white tail seen traveling south to north in Eastern OklahomaBright white/blue light with tail shooting from south to north. Possibly a shooting star but very close to earth and traveling extremely fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50200.html](http://www.nuforc.org/webreports/reports/050/S50200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
