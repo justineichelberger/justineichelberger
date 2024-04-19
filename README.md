@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:45 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Morrison (TN) reported seeing craft that fit the description of some 'Cone' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>brilliant bright light first falling down fast then stopped for several minutesIt was daylight, no stars. I looked up and saw this cone shaped light with a tail of light on each side Extremely bright Falling fast straight down I lost sight for just about a minute and when I topped the hill and had a clear view I was afraid it might already be down but there it was stopped in the sky I couldn't see any movement at all I sat at the stop sign for about 4 more minutes and it did not move. Cars came up behind me and I had to leave without seeing the departure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50199.html](http://www.nuforc.org/webreports/reports/050/S50199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Enterprise (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object observed traveling west with a small cloud behind it.I was traveling from Dothan to Enterprise on hwy 84 when I saw an object at an high altitude.  It had what looked like a contrail, but the trail was very short and moved with the object.  The front of the object would glow bright the diminish, but it could still be seen heading west.  The sun was setting, but there was still plenty of visibility.  A second light appeared below the object to the south of it.  The second object flew north parallel to the horizon.  When it had went north it completely disappeared, and wasn't seen again. The first object continued west for a span of 10-15 minutes.  It went behind a large cloud. When we got to the point that we could see through what was left of the cloud the object was no longer visible.  My background is a mechanic in aviation, and this was very disturbing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118523.html](http://www.nuforc.org/webreports/reports/118/S118523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
