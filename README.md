@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:48 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stratford (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Points of light, evenly spaced...about a mile apart.approximately 2500 ft..500 mph flying in a NE direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155519.html](http://www.nuforc.org/webreports/reports/155/S155519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>low flying, gray object flew overhead at night, made absolutely no sound at allI went out in my backyard to view the meteor shower. I was looking up when I noticed a white/gray object, either crescent or chevron shaped, directly over my head.  At first it seemed like someone was flying a kite or something but then I realized that was definitely not the case.  It was coming from the south headed about 30 degrees north east.  This is in the south austin area, it was sort of making its way north up w gate blvd.  It made no sound whatsoever and was moving about the speed of a single prop plane or glider; slow enough for observation.  I can't tell how high up it was but it was much, much lower than any commercial airplane; about the same altitude that a police helicopter would fly if they were trying to spotlight a subject.I am in my late 20's, and work in IT. I have always been skeptical of people who report UFO sightings.  I am not even sure this was a UFO but it was the type of thing where the second I saw it, I immediately realized it wasn't natural and chills ran down my back.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88527.html](http://www.nuforc.org/webreports/reports/088/S88527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
