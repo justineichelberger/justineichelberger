@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 18 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Plymouth (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large pulsating orange sphere flying low SSE.A pulsating orange sphere. Flying south, slow, low and silent.  As large as a helicopter.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118495.html](http://www.nuforc.org/webreports/reports/118/S118495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Morrison (TN) reported seeing craft that fit the description of some 'Cone' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>brilliant bright light first falling down fast then stopped for several minutesIt was daylight, no stars. I looked up and saw this cone shaped light with a tail of light on each side Extremely bright Falling fast straight down I lost sight for just about a minute and when I topped the hill and had a clear view I was afraid it might already be down but there it was stopped in the sky I couldn't see any movement at all I sat at the stop sign for about 4 more minutes and it did not move. Cars came up behind me and I had to leave without seeing the departure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50199.html](http://www.nuforc.org/webreports/reports/050/S50199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
