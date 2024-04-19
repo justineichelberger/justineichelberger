@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting in Northeast FloridaStopped at red light at 312 and A1A intersection, in the eastern sky there was one large craft that was similar to a blimp in appearance, with a thick black stripe through the center of the craft. Under the large craft there was a small craft below it to the left, which appeared to be silver/metallic in structure and also a circular/disclike shape. They were stationary, I didn’t see them move the entire duration at the red light which was over a minute and a half.  I noticed and snapped pictures with my camera phone that did not come out. I decided to drive closer to the crafts to try and take more pictures and they disappeared. Previous to this sighting the observer has had a number of dreams with extraterrestrials in them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62624.html](http://www.nuforc.org/webreports/reports/062/S62624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fenton (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>blue and red ufo seen 60-70 ft.up in sky perfectly still three to four min.10:30pm I let my dogs out before going to bed looking up i noticed a very big bright light in sky 60-70 ft.up in sky. It was directly behind the powerlines,very close to them.The light was perfectly round,30-40ft.in diamiter,the color was seperated in half with the top color red and bottom blue.It was perfectly still,the light was bright and had no halo aroud it,similar to a bright floresent.I watched for three to four min.trying to figure out what it could be.I then went upstairs to look out dining room window and all I saw were trees.Went back downstairs and object was gone.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31342.html](http://www.nuforc.org/webreports/reports/031/S31342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
