@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:40 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Petaluma (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange grouping of lights hovering in the S.F. bay areanight skyI am a ranger/landscape supervisor who works for a county agency.  The other witness is my parish priest.  After a church class, while driving my pickup truck exiting our church parking lot, I saw our parish priest standing at the side of the church, looking up into the night sky in a south east direction.  I stopped my truck and asked what he was looking at.  He stated that there were some odd looking lights in the sky.  I got out of my truck and went to where he was standing and looked up and saw 5 distinct reddish orange lights in the sky, hovering at different places, but in a grouping.  The lights were moving very slowly.  A couple of lights moved vertically, and then hovered, and then a couple moved laterally very slow.  One of the lights rose and then faded into nothing.  Another light faded when an airplane seemed like it was getting close to it.  One more light rose and then faded into nothing, until the last light descended in altitude and finally disappea! red altogether.  The lights seemed to be quite a distance from us.  I would guess they were probably 20 miles away, and maybe 5000 to 8000 feet high.  All of the lights moved independently of each other, but were in the same grouping or vicinity of each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133746.html](http://www.nuforc.org/webreports/reports/133/S133746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cardiff (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 orange spheres moving south along the coastMy son and I was above cardiff beach standing on vulcan ave.  Looking north we watched 6 orange spheres moving south over the beach, all the same height, all spaced the same from one another, all moved at the same speed, all were silent.  When they arrived in front of us they turn 90 degrees out over cardiff reef moving west and then vanished.  We could here the car tire noise on hwy 101 below us and knew that these objects were not helicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104373.html](http://www.nuforc.org/webreports/reports/104/S104373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
