@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Glowing missile shaped object sited north of Houston IAH and heading towards earth.What appeared to be a glowing fire rocket streaked across the sky and downwards towards the earth. The object appeared to be about 1000 - 1500' in the sky just northwest of the Houston Intercontinental Airport when first sited.  It was traveling from the east downwards to the west.  We were traveling north on JFK Blvd towards Terminal A.  It did not appear to be a meteorite due to its cigar shape.  One of the observers is retired Air Force and said it looks like a missile attack. No crashing boom was heard after it dissappeared towards the ground.  It should have been obvious to the air traffic controllers at the Intercontinental Airport.  No plane crashes have been reported in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69791.html](http://www.nuforc.org/webreports/reports/069/S69791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was really bright almost like a star and stationary.  Then it turned silver.  After it went silver about a minute later it dissappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126933.html](http://www.nuforc.org/webreports/reports/126/S126933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
