@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>object having a V chevron shape moved rapidly below cloud cover S-N then turned east and vanished no sound.Standing outside under cloudy skys, craft moving south to north below cloud cover at rapid pace for 3 - 4 seconds then turned maintaining shape and configuration due east for 3-4 seconds before vanishing into clouds. Craft was very large with white lights along the leading edge, distance from wing tip to wing tip was roughly 250 - 300 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28487.html](http://www.nuforc.org/webreports/reports/028/S28487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately :20 - :20 minutes.</sub><blockquote><sub>Bluish white egg shaprd light falling from skySaw a bright blueish -white light falling from sky that was egg shaped.  Was falling fairily fast like a shootingstar.  Fell into neighborhood but never came back up.  Could possibly be meteor but was pretty big in size and was egg shaped.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81065.html](http://www.nuforc.org/webreports/reports/081/S81065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
