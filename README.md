@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was really bright almost like a star and stationary.  Then it turned silver.  After it went silver about a minute later it dissappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126933.html](http://www.nuforc.org/webreports/reports/126/S126933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Morden (Surrey) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hockey puck type tumbling objectsmy daughter took a video at approx 15.00hrs of 3 grey circular objects, she described as looking like hockey pucks tumbling in the sky.  They possibly had lights or could have been the suns reflection. the only explanation i could find was police drones as were in lockdown due to Covid.i found another video from the next town to us of one of the same objects posted on twitter, same date and approximate time.fast forward to yesterday and i found another video posted to twitter dated 5 days ago taken in Wigan, UK (a long way from us) of the exact same objects again tumbling through the sky.they don’t appear to be drone behaviour in my opinion or that of the other 2 who took their videos.  a UFO twitter account looked at them and does not think they are drones and believes they have an aura.another person has also tweeted today about possibly seeing the same but at night.this is my daughters video https://twitter.com/anthillmob74/status/1263381481407361024?s=21  the other video from the same day locally:https://twitter.com/callumrckb/status/1251548869818802176?s=21  this is the wigan sighting, i believe he saw 8 in total https://twitter.com/moggsuk/status/1261734746528387076?s=21  and this is the possible night sighting https://twitter.com/sxnshxne2/status/1263442407443529728?s=21</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156620.html](http://www.nuforc.org/webreports/reports/156/S156620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
