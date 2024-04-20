@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 19 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Washington Court House (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>April 19, 2006-Bright Light/Object in the sky in WCH, OhioA friend and I were driving down Old Route 35 in Washington Court House, Fayette County, Ohio, about 1 mile before the Ross County line today. I noticed a very bright yellowish/orange light in the sky about 1-2 miles away over a cornfield. There was alot of farm land and some trees in the area. I thought it was odd because it was so low, bright and huge. I have never seen an airplane that size and especially not that bright and still in the daytime hours. You would need about 75-100 airplanes to make up the size of this. I continued to watch it for a few minutes and it wasn't moving, but just hovering over the cornfield. I told my friend, who was driving, to look out her window and she saw it also. We both were in pure amazement because I have never seen anything at all like this except for in the movies. Then the light became a bright whiteish color and we could see a silver lining underneath, like the bottom of a disk or bowl. I didn't take my eyes off of it. It continued to just hover over this area. A few minutes later, the bright light started to dim. Within a split second, the lights totally disappeared and I saw a flash zip across the sky really fast and totally disappear into the sky. We continued looking all over the place and it was just gone, totally gone. We then noticed approximately 10 jet streams in the sky going towards the direction of the object that we saw. We didn't see any airplanes or helicopters in the area at all while we were witnessing this except for after it disappeared, we saw those jet streams going towards that direction. The only thing in this particular area was the cornfield/farm land and some trees. There were no street lights, tower lights, buildings or anything at all. We were in such amazement and didn't even think to take a picture of this until afterwards. This lasted approximately 5-8 minutes I would say. I wonder if anyone else saw this or anything odd in the sky tonight?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50201.html](http://www.nuforc.org/webreports/reports/050/S50201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange orbs spotted.2 orange orb type lights quickly appeared (silently) off the coast over the ocean and within 5 seconds changed into 5 lights, lingered 10-15 seconds, then quickly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133756.html](http://www.nuforc.org/webreports/reports/133/S133756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
