@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Argyle (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Scariest thing i have ever seen!!Me and my friend were at a park talking and just hanging out when out of no where my friend was like "whoaa, what was that?" when i turned around i didnt see anything, he said it was a giant shooting star type thing, an oval with fire all around it. We did`nt think much of it.  A few minutes later we seen a really bright flash of light come from the woods about where the "shooting star" we got really scared i called my step-dad to come pick us up and after i hung up i immediatly heard choppers and airplanes we looked in the sky and seen a bunch of blinking lights (blue and red) in formations like a triangle type thing and it sounded like the chopper was coming straight to us maybe 2 minutes later it flashed again we were really freaking out about a minute later my step dad came we got in went home and when we got home we shared what we saw and it turns out that me and my friend seen the flash at the same time the crazy thing is, he said it was a blue flash an! d i seen an orange and yellow flash. What we remember dont really add up its like something is missing.  And i know that it was 4/20 (national weed day) but i swear on my life we were completely sober!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88561.html](http://www.nuforc.org/webreports/reports/088/S88561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Glowing missile shaped object sited north of Houston IAH and heading towards earth.What appeared to be a glowing fire rocket streaked across the sky and downwards towards the earth. The object appeared to be about 1000 - 1500' in the sky just northwest of the Houston Intercontinental Airport when first sited.  It was traveling from the east downwards to the west.  We were traveling north on JFK Blvd towards Terminal A.  It did not appear to be a meteorite due to its cigar shape.  One of the observers is retired Air Force and said it looks like a missile attack. No crashing boom was heard after it dissappeared towards the ground.  It should have been obvious to the air traffic controllers at the Intercontinental Airport.  No plane crashes have been reported in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69791.html](http://www.nuforc.org/webreports/reports/069/S69791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
