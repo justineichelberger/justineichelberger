@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monroeville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Points of light, slowly moving, fade out.Saw one bright point of light moving slowly across the sky.  It faded after moving several inches across the sky.  Would also like to mention that I saw two exactly like it near the same area several nights ago, moving slowly away from each other and then fading away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88519.html](http://www.nuforc.org/webreports/reports/088/S88519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Collinsville (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Lights in the shape of a “V” traveling westward and becoming circular and stationary in the west about 60° above the horizon.In the eastern night sky, lights in the shape of a “V” appeared about 45° above the horizon and traveled slowly and silently overhead, westward and then stopped moving about 60° from the western horizon. The “V” then appeared to be a circle of lights, with lights intermittently extending from the circle shape. The circle was stationary in the West for about an hour. The circle seemed to be made up of red and whiteish- blue lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155560.html](http://www.nuforc.org/webreports/reports/155/S155560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
