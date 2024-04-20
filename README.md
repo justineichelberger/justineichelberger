@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>zig zagging light in the skyas My wife and I were about to get on the 15 freeway north,by Spring Mountain and the Las vegas strip I saw a light above near the off ramp.I felt as in a daze and the light zig zagged in the sky to the north west the zig zag seemed to leave a brief impression in the sky and it was gone.I look to my wife and said"did you see something?"she "yes" and proceeded to draw a zig zag with her finger.as I was driving down the freeway I was really looking in the sky and noticed it was over cast,whatever it was it was under the clouds.did not report to the police because i thought they would think it was a hoax or something,i am reporting it here cause i heard you on cable radio.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21788.html](http://www.nuforc.org/webreports/reports/021/S21788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morris (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Triangle with 3 lights moved quickly and quietly across the sky.A friend and I were walking around town because of the nice weather; it was late enough that the stars had come out.  We're both college students in our early 20s.  I was open to the existence of UFOs, but my friend had been a skeptic until the event.As we were walking, we reached an area void of streetlights (near E 4th St and Oregon Ave) and my friend was trying to find some constellations.  As he was looking, he exclaimed, "Dude! Look."  I looked up just in time to see a triangular shaped craft with three lights fly silently and quickly over our heads and across the sky before flying off into the distance, heading South-West.There were no trees, so we both got a clear view of the craft.  Neither of us were certain how large or how high the object was, but it appeared perhaps around 250 feet in the air and around 20 feet long.  It flew fast enough that we were only able to watch it for around 5 seconds.  We were both confident the object was some sort of UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145775.html](http://www.nuforc.org/webreports/reports/145/S145775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
