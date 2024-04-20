@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately :20 - :20 minutes.</sub><blockquote><sub>Bluish white egg shaprd light falling from skySaw a bright blueish -white light falling from sky that was egg shaped.  Was falling fairily fast like a shootingstar.  Fell into neighborhood but never came back up.  Could possibly be meteor but was pretty big in size and was egg shaped.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81065.html](http://www.nuforc.org/webreports/reports/081/S81065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>zig zagging light in the skyas My wife and I were about to get on the 15 freeway north,by Spring Mountain and the Las vegas strip I saw a light above near the off ramp.I felt as in a daze and the light zig zagged in the sky to the north west the zig zag seemed to leave a brief impression in the sky and it was gone.I look to my wife and said"did you see something?"she "yes" and proceeded to draw a zig zag with her finger.as I was driving down the freeway I was really looking in the sky and noticed it was over cast,whatever it was it was under the clouds.did not report to the police because i thought they would think it was a hoax or something,i am reporting it here cause i heard you on cable radio.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21788.html](http://www.nuforc.org/webreports/reports/021/S21788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
