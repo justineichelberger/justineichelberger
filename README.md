@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atascosa (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>This was a orange/ yellow Ufo that was witnessed for more than a minute.I was outside with my brother. We were actually talking about previous sightings.  I went to the side of the trailer to urinate. As I looked to the left I see a orange/ yellow orb or light headed east from where i saw it. I ran towards my brother so he can see it to, and he did.  It was still headed east. For more proof, I went inside the house to let everyone know so that they can witness it to.  Now there was 10 of us looking at this UFO.  It turned towards the north and started dimming away quickly.  All my family was pretty scared, I know I was.  We tried capturing it on a phone but my brother was recording a star instead, I was really upset because he missed. and soon after the light disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89602.html](http://www.nuforc.org/webreports/reports/089/S89602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Belgrade (Serbia) (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Seen fro Germany, flying toward Serbia. Seen in Bosniahttps://twitter.com/zapratime/status/1251238099922743296?s=20</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155420.html](http://www.nuforc.org/webreports/reports/155/S155420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
