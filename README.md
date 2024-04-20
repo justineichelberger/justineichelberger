@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 20 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morris (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Triangle with 3 lights moved quickly and quietly across the sky.A friend and I were walking around town because of the nice weather; it was late enough that the stars had come out.  We're both college students in our early 20s.  I was open to the existence of UFOs, but my friend had been a skeptic until the event.As we were walking, we reached an area void of streetlights (near E 4th St and Oregon Ave) and my friend was trying to find some constellations.  As he was looking, he exclaimed, "Dude! Look."  I looked up just in time to see a triangular shaped craft with three lights fly silently and quickly over our heads and across the sky before flying off into the distance, heading South-West.There were no trees, so we both got a clear view of the craft.  Neither of us were certain how large or how high the object was, but it appeared perhaps around 250 feet in the air and around 20 feet long.  It flew fast enough that we were only able to watch it for around 5 seconds.  We were both confident the object was some sort of UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145775.html](http://www.nuforc.org/webreports/reports/145/S145775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Longlac (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Northwestern ontario sighting while ice fishing!It was your typical spring morning when I, ((name #1 deleted)) and my cousin ((name #2 deleted)) Where ice fishing for the last time this year beacouse the weather was begining to be to hot. When my cousin ((name #2 deleted)) decided to take the snowmobile to the side of the shore and cut some fire wood, I stayed back and prepared the fishing holes. When out of nowhere my cousin returned flying on his snomomobile as fast as I ever seen him drive, Yelling at me shaking, and his face red and speachless. ''((name #1 deleted)) he said we got to get the hell out of here, I just seen something I couldn`t believe. what? I replied.. He said he heard strange noises almost like a language but  very difficult to make out.  He walked towards the noise and suddenly seen an abandoned cabin with a weird formed object  almost like one frisbee on top of the other, with a strange almost violet light glowing out reflecting on the cabin,thats when ((name deleted))  retured to tell me what he seen and that we had to leave, but i was curious what he was talking about, so we hurried back to the cabin  and their it was just like he discribed as we hid behined a tree, two strange human looking creatures taller than  any human ive ever seen, were walking in and out of the cabin bringing objects into the ship and suddenly they went inside their ship and boom suddenly it was gone it disapeared. Me and ((name deleted)) went to get a closer look where the ship was situated a huge blast crader in the ground. We waited to see if it would return but it never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43542.html](http://www.nuforc.org/webreports/reports/043/S43542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
