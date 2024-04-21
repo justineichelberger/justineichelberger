@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:44 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:35 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Paris (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>A white light in the sky that would stop in the air and change directions like a ball in a pinball machine.My family and I went in our backfield to observe the meteor  shower.  The sky was clear and no moon.  I observed an object, (white light,) that was traveling in an almost due south direction. The object then changed course moving to the southwest and then made a complete circle.   At this point, the object would move straight, suddenly reverse direction, move left and right, and make 90 degree course changes without slowing down and then come to a complete stop.  This repeated itself for approximately 25 minutes, and the object then appeared to get dim and then disappear all together.The object appeared to be very high in altitude and did not make any noise that we could hear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88590.html](http://www.nuforc.org/webreports/reports/088/S88590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in South Burlington (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Big blue light above Shelburne Rd. maneuvered in a 90 degree angle then disappeared.Driving to work on Interstate-89 South Bound on the Rutland/Shelburne Rd Exit.  A few cars were in front of me, but I was driving slower so they disappeared over the hill to the point where it was completely dark behind and in front of me.  The brightest blue light I have ever seen appeared out of thin air, fairly high in the sky.  It was a cloudy night and you could not really see any stars so this big blue ball of light stuck out.  Then it shot really fast to the left (my left) abruptly stopped, then fell straight down and disappeared.  It moved so fast in a 90 degree manner that it looked like it had a tail but it was just the light moving so fast that there’s no way it could have been a plane or a shooting star. I worked at the Burlington Airport for over 3 years; no way I can explain what I saw.  Come forward if you saw it, too.  It’s almost surreal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118696.html](http://www.nuforc.org/webreports/reports/118/S118696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
