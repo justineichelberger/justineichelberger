@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:56 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>One greyish white disc like a mentose candy moved slow about 100 to 200 feet in altitude.  About 30 to 40 feet in diameter silent and traveling east at about 40mph into the mountains just below the radar tower's in Farmington Canyon.((NUFORC Note:  For some reason, witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139566.html](http://www.nuforc.org/webreports/reports/139/S139566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in colorado springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Bright blinking Light, and a strange jet. also, a helicopter following another intense light.I noticed a bright light directly above the Cheyenne canyon area just north of NORAD.  This light was moving up and down left and right, and every five minutes or so it would dim out almost completely before starting to shine vibrantly again. after watching it for about an hour just south of NORAD another one flew across the sky, it flew smoothly but was very large and a helicopter was following behind it about four hundred yards.  It flew directly over my house, coming from fort Carson and heading north.  Twenty minutes later an aircraft which looked like a very very large jet (at least the size of five F-16's) flew over my house from the south west area, it was nearly silent until it was directly over my head and it sounded like a jet but very muffled, the aircraft was very low, I could see its wings and it had two blue non-flashing lights on its wingtips and an orange glow near the fuselage section.  The bright white light that was hovering stayed lit for! about another half an hour then slowly dimmed away. now there are three helicopters circling the area and a friend of mine nearly ten miles away was seeing the same thing.  I saw the same light last night and it was moving but not flashing its lights and going dim.   I worked on f-16's in the Air Force, whatever jet flew over my house was like the holy grail, nearly silent and large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88575.html](http://www.nuforc.org/webreports/reports/088/S88575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
