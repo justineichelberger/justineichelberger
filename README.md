@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Light (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright white sphere witnessed while eastbound on Hwy. 412.On the night of 04/21/2016, at 23:40, I was driving east bound on Hwy. 412.  While driving, I witnessed a very bright flash behind my vehicle which was followed by the appearance of a bright white orb in my rear view mirror.  The object disappeared from my mirror shortly after appearing there.  The object, or one with the same appearance, became visible again to the left of my vehicle 2-3 seconds after disappearing from my mirror.  The object moved in a straight line until it was visible in front of me and to the left.  The object seemed to pulse once (the light the object was emitting seemed to get brighter and expand momentarily) and then shot forward leaving a bluish white trail that faded quickly.  The object flashed again and disappeared.  The entire episode lasted approximately 20 seconds.((NUFORC Note:  We spoke via telephone with the witness, just minutes after the reported event had occurred, and he seemed to us to be quite sober-minded.  Also, he was quite eloquent, and described the event in very object, measured terms.  We strongly suspect that he is highly reliable witness.  A twenty second long sighting rules out a sighting of a meteor, even an unusually long-duration meteor, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126967.html](http://www.nuforc.org/webreports/reports/126/S126967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Barnstable (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low flying/gliding diamond, three white lights, one blinking red.I believe in UFO's and stuff but have never seen anything out of the ordinary. Tonight around 8:30 I saw this shape moving across the sky on a highway.  The light in front was blinking red, three others solid white in a diamond shape.  Thought it was just a plane but thought it was weird to be so low.  When i drove farther and saw the object on my left I was freaked out because I did not see a different orientation, rather the same shape of lights.  There was no noise.  Seemed to be only a few hundred yards max above the tree level.  By the time I would have thought of taking a picture it was gone. Weirdest thing.  There is an air force base in the town over so it was probably just an aircraft but still thought I'd report. Made this: http://i.imgur.com/ywNmUaQ.png Seems similar to this article: http://www.sott.net/article/151115-Florida-UFO-captured-on-tape-in-Pasco</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97289.html](http://www.nuforc.org/webreports/reports/097/S97289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
