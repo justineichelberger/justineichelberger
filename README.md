@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Barnstable (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low flying/gliding diamond, three white lights, one blinking red.I believe in UFO's and stuff but have never seen anything out of the ordinary. Tonight around 8:30 I saw this shape moving across the sky on a highway.  The light in front was blinking red, three others solid white in a diamond shape.  Thought it was just a plane but thought it was weird to be so low.  When i drove farther and saw the object on my left I was freaked out because I did not see a different orientation, rather the same shape of lights.  There was no noise.  Seemed to be only a few hundred yards max above the tree level.  By the time I would have thought of taking a picture it was gone. Weirdest thing.  There is an air force base in the town over so it was probably just an aircraft but still thought I'd report. Made this: http://i.imgur.com/ywNmUaQ.png Seems similar to this article: http://www.sott.net/article/151115-Florida-UFO-captured-on-tape-in-Pasco</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97289.html](http://www.nuforc.org/webreports/reports/097/S97289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Keene (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 27</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163134.html](http://www.nuforc.org/webreports/reports/163/S163134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
