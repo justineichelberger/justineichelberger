@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Wilkesboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>On the evening of April 21, 2019, approximately at 22:25pm EST in a town at the base of the Appalachian mtns in North Carolina, I looked out my window facing the south west sky and noticed a light in the sky that at first glance looked like a star.  However after a more through look it had flashing lights, my significant other even saw the flashing lights and he insisted it was a plane or a helicopter.  However the UFO wasn't moving in a direction, I noticed it shifted back and forth ever so slightly staying in the same place.I observed this item for over 10 minutes staying relatively in the same spot.  I frequently get helicopters and planes overhead, but neither hover or stay in the same area.  At 22:38 the article was no longer visible due to trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145778.html](http://www.nuforc.org/webreports/reports/145/S145778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Auburn Hills (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was drinking down a dark side street with my friend and seen a bright green light falling from the sky at a very fast rate,  it passed by 3 clouds and by the 3rd it completely disappeared from out sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118561.html](http://www.nuforc.org/webreports/reports/118/S118561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
