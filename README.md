@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oshawa (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright reflective object in proximity to commercial airlinerSitting in the shade of a front porch column, having an after dinner smoke was watching an aircraft comming out of Pearson Airport about 40 miles to the west, complaining to myself "I hope that'a contrail not a chemtrail I suddenly noticed a bright silver metalic reflection about (my estimate 400/600 feet to the port side and 100/200 feet to the rear of the aircraft.  Very short duration, very bright reflection because of the angle of the sun at that time.  Am ex-RCN, and worked for Canadair (now Bombardier) on various aircraft, and am presently employed at an Ontario manufacturier of aircraft parts, so am very familliar with many regular aircraft ant their flight characteristics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139578.html](http://www.nuforc.org/webreports/reports/139/S139578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Light (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright white sphere witnessed while eastbound on Hwy. 412.On the night of 04/21/2016, at 23:40, I was driving east bound on Hwy. 412.  While driving, I witnessed a very bright flash behind my vehicle which was followed by the appearance of a bright white orb in my rear view mirror.  The object disappeared from my mirror shortly after appearing there.  The object, or one with the same appearance, became visible again to the left of my vehicle 2-3 seconds after disappearing from my mirror.  The object moved in a straight line until it was visible in front of me and to the left.  The object seemed to pulse once (the light the object was emitting seemed to get brighter and expand momentarily) and then shot forward leaving a bluish white trail that faded quickly.  The object flashed again and disappeared.  The entire episode lasted approximately 20 seconds.((NUFORC Note:  We spoke via telephone with the witness, just minutes after the reported event had occurred, and he seemed to us to be quite sober-minded.  Also, he was quite eloquent, and described the event in very object, measured terms.  We strongly suspect that he is highly reliable witness.  A twenty second long sighting rules out a sighting of a meteor, even an unusually long-duration meteor, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126967.html](http://www.nuforc.org/webreports/reports/126/S126967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
