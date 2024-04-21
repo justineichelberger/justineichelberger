@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:44 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Big bright light appears and shoots straight down towards the ground.I was sitting outside on my stoop looking across the street when a big, bright object appeared and quickly shoot straight down behind the apartment building across the street from me.  The object was about the same size of the moon and was about two times brighter.  The way that it seemed to appear and the speed in which it traveled was like nothing I have seen before.  The sighting didn't last more than 15-20 second.  I did notice a few spot that were an orange color, while the rest of the object was a white/yellow (moon) color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97290.html](http://www.nuforc.org/webreports/reports/097/S97290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Paris (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>A white light in the sky that would stop in the air and change directions like a ball in a pinball machine.My family and I went in our backfield to observe the meteor  shower.  The sky was clear and no moon.  I observed an object, (white light,) that was traveling in an almost due south direction. The object then changed course moving to the southwest and then made a complete circle.   At this point, the object would move straight, suddenly reverse direction, move left and right, and make 90 degree course changes without slowing down and then come to a complete stop.  This repeated itself for approximately 25 minutes, and the object then appeared to get dim and then disappear all together.The object appeared to be very high in altitude and did not make any noise that we could hear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88590.html](http://www.nuforc.org/webreports/reports/088/S88590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
