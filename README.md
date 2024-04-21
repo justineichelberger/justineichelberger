@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Disc shaped light over ChicagoSitting out side in the backyard with family enjoying a fire at night. We looked up at the stars and see a disk shaped light moving across the sky.  It was highe r then any plane and definitely not a shooting star.  It goes far north out of the field of vision. About 5-8 minutes later we see a jet way up in the sky with flashing lights.  And behind the plane we see the same disc shaped light trailing behind the plane.  Heading north then the ufo veers to the east and It then continues.  We are all watching it and then the light disappears.  If this would have been a plane or some other known object it would of been complete visible at that distance. This was a clear night sky many stars visible almost no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155587.html](http://www.nuforc.org/webreports/reports/155/S155587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sweet Springs (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>perfectly shaped triangle seen just south of I-70, north of whiteman airforce base, hovering over a farmers field.I was riding with my dad from kansas city to columbia, mo.  We were on I-70 traveling east when I looked out my window, looking south.  I saw a triangular shaped aircraft, and when I asked my dad what it was he said a B2 bomber.  We were close to Whiteman Airforce Base so it seemed logical.  I was sceptical though because it wasn't moving.  It hovered over a farm field and barely moved.  It looked like it was facing north but never advanced toward us.  I didn't notice any lights because it was 6 p.m. When I first saw it, it was tipped so I could see the top of it, then it tipped back so I could see the bottom.  It was a perfect triangle and completely silver.  It wasn't very high off the groud and directly off the highway.  I didn't hear any sounds from it.  I stared at it for about 15 seconds or so because we were traveling at around 70 miles per hour and didn't stop.  I'm from st.charles county, missouri.  I'm a freshman in college.  My dad is an electrical engineer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56339.html](http://www.nuforc.org/webreports/reports/056/S56339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
