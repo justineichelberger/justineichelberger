@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Eatonton (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>For several months my husband and I watched a strange light not moving in the sky, then he didn't see it for awhile.  Last night it was back and I pointed it out to my husband but before he could turn around it was gone. Tonight, it was there again and he looked up and saw it, then 3 more large lights that were gold/white colored appeared for just a few seconds, then all 4 were gone.We live in a rural area on the lake.. The lights were above the trees across the cove with very little light pollution.We were not drinking, we do not do drugs.  I am a medical professional and my husband is a. Industrial millwright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162801.html](http://www.nuforc.org/webreports/reports/162/S162801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright, circular in shape object, moving from a 3 o'clock position in the sky to the 12 o'clock position before dissapearingI was looking up into the sky noticing how clear it was.  I was looking out towards the west, which would be toward the Seattle airport from where I live.  Because of this I am often aware of aircraft in the distance.  Normally I watch very carefully for any sign that would let me know that it is an airplane, flashing lights, in line for landing, etc.  I noticed that either the planet Venus or Jupiter was noticeable and very bright.  Looking down and to the left of the bright planet, there was another very bright light, which I initially took as a star.  Confused by this because it was so bright and I was unfamiliar with any other planet being that close to another one at this time, I looked at it for a few minutes.  In that time of watching it, it began to move slowly up from a three o’clock position up to what I would call the 12 o’clock position.  It moved very slow and precise across the sky.  I continued watching it because I was thinking that it had to! be an airplane.  Because it never flashed any red lights or changed from its original bright state, I started thinking it had to be a UFO.   As it stayed at the 12 o’clock position above my head for a few second it was if someone turned off a light switch and I know longer saw any light from it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88593.html](http://www.nuforc.org/webreports/reports/088/S88593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
