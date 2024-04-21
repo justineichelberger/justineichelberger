@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Effort (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular craft over Poconos...Thursday, April 21, 2011   My son, his girlfriend and myself heard a loud noise about one half hour before the sighting but didn’t go outside as my son was practicing a presentation he had for the next day.  We heard the noise again, only this time much louder.  My son ran outside and quickly yelled for us to come outside.  We ran outside only to see a triangular solid aircraft that had 3 lights on the outside of the craft.  It was a very large craft and very loud, as it shook my house as it flew by.  Within a few minutes, it was gone.  My son had seen this ship a few weeks earlier but we did not believe him.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80993.html](http://www.nuforc.org/webreports/reports/080/S80993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Disc shaped light over ChicagoSitting out side in the backyard with family enjoying a fire at night. We looked up at the stars and see a disk shaped light moving across the sky.  It was highe r then any plane and definitely not a shooting star.  It goes far north out of the field of vision. About 5-8 minutes later we see a jet way up in the sky with flashing lights.  And behind the plane we see the same disc shaped light trailing behind the plane.  Heading north then the ufo veers to the east and It then continues.  We are all watching it and then the light disappears.  If this would have been a plane or some other known object it would of been complete visible at that distance. This was a clear night sky many stars visible almost no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155587.html](http://www.nuforc.org/webreports/reports/155/S155587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
