@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Auburn Hills (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was drinking down a dark side street with my friend and seen a bright green light falling from the sky at a very fast rate,  it passed by 3 clouds and by the 3rd it completely disappeared from out sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118561.html](http://www.nuforc.org/webreports/reports/118/S118561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Payson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light moving slowly across the skyWhile I was outside on my back porch having coffee, I noticed a very large bright light in the sky towards the North side of the State. When I first spotted it, it was sitting in the air not moving. I watched it for about a minute and it slowly began moving towards the West and eventually disappeared from my view towards the West. The object also made no sound that I could tell, although it did seem to be very far away, given its brightness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162791.html](http://www.nuforc.org/webreports/reports/162/S162791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
