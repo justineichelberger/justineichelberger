@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sweet Springs (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>perfectly shaped triangle seen just south of I-70, north of whiteman airforce base, hovering over a farmers field.I was riding with my dad from kansas city to columbia, mo.  We were on I-70 traveling east when I looked out my window, looking south.  I saw a triangular shaped aircraft, and when I asked my dad what it was he said a B2 bomber.  We were close to Whiteman Airforce Base so it seemed logical.  I was sceptical though because it wasn't moving.  It hovered over a farm field and barely moved.  It looked like it was facing north but never advanced toward us.  I didn't notice any lights because it was 6 p.m. When I first saw it, it was tipped so I could see the top of it, then it tipped back so I could see the bottom.  It was a perfect triangle and completely silver.  It wasn't very high off the groud and directly off the highway.  I didn't hear any sounds from it.  I stared at it for about 15 seconds or so because we were traveling at around 70 miles per hour and didn't stop.  I'm from st.charles county, missouri.  I'm a freshman in college.  My dad is an electrical engineer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56339.html](http://www.nuforc.org/webreports/reports/056/S56339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chilliwack (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Two bright moving orbs in the sky vanishing and re appearing between 22:00PM and 1:00AM.On 04/21/12 22:00PM my family and I witnessed a strange event. My boyfriend was on the balcony when he called me out see see what he thought he was a UFO. At first I was skeptical, the object looked like a very bright glowing street light far away.  As I look closer I realized it was much too high up, and so big and bright it could have not been an airplane, nor a street light.  The glowing orb then moved a little and then it just vanished. 2 seconds later it appeared again, along with another glowing orb, they moved side by side and then eventually both orbs faded away and then immediately faded back glowing brightly.  I ran inside to get my dad while my boyfriend recorded the orbs. My dad witnessed these orbs as well.  They kept moving and vanishing.  Suddenly they were gone.We watched for a few more minutes but nothing happened. My step mom came home. I brought her to the balcony and explained the vents and showed her where we saw the orbs. Two minutes later, one orb appeared again for about 30 seconds and then faded away.After this happened, a civilian plane started circling the area. The orbs kept appearing, brighter each time, and moving between 22:00PM and 1:00AM.A helicopter was issued to patrol the area between these times.I am most definitely positive what I saw was a UFO.  I got about 10 or 11 videos of the orbs and i'm hoping to catch more tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88586.html](http://www.nuforc.org/webreports/reports/088/S88586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
