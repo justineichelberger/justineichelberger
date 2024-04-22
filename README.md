@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 21 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Newport (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>While looking at stars, man sees "satellite." 2nd obj. streaks up to 1st, merges w/ it. Then, 3rd obj. streaks up to 2 others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00453.html](http://www.nuforc.org/webreports/reports/000/S00453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some '' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>I believe i was telepathically communicated with by a otherworldly entity while living next to hill air force base.  It gave me a urgent message for humanity.((NUFORC Note:  We have urged the source of the report to reveal what the urgent information is, but have not received that information, as of this writing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144866.html](http://www.nuforc.org/webreports/reports/144/S144866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
