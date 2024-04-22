@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Twilight (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright objects moving in skyObject 1:  I have been outside observing the meteor shower and out of no where appeared what looked like a normal bright star.  It was about as big and bright as Mars.  It went slower than a plane for about a minute and disappeared into nothing.  The skies are very clear tonight and it did not look like a plane or helicopter.  There were also no sounds.Object 2:  Another light, smaller than the first coming from the opposite direction.  It had a plane quickly trail it from behind.  They seemed to get pretty close to one another and then the light went right and over the mountain while the plane went left. Again, no sound, skies clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108853.html](http://www.nuforc.org/webreports/reports/108/S108853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Single bright light the size of a large star moving faster than jet with no soundOn Wed., 4/22, at 11:05pm, my 41 year old son (career military) and I were looking at the moon with a telescope.  There were scattered lower clouds.  While he was looking in the scope, I was looking at the sky.  Suddenly, I noticed a bright, white  light, about the size of a large star, pass from my right to left in an open, cloud free space in the sky. I quickly got my son’s attention.  He looked up and saw it two seconds before it went behind a cloud.  I watched to see if it would come out the other side and it did not.  It was moving faster than a jet and made no sound.  There were no flashing lights.  The event lasted about 8 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118635.html](http://www.nuforc.org/webreports/reports/118/S118635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
