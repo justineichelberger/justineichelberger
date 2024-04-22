@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Single bright light the size of a large star moving faster than jet with no soundOn Wed., 4/22, at 11:05pm, my 41 year old son (career military) and I were looking at the moon with a telescope.  There were scattered lower clouds.  While he was looking in the scope, I was looking at the sky.  Suddenly, I noticed a bright, white  light, about the size of a large star, pass from my right to left in an open, cloud free space in the sky. I quickly got my son’s attention.  He looked up and saw it two seconds before it went behind a cloud.  I watched to see if it would come out the other side and it did not.  It was moving faster than a jet and made no sound.  There were no flashing lights.  The event lasted about 8 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118635.html](http://www.nuforc.org/webreports/reports/118/S118635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sam's Gap (Top of NC/TN Mountain) (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>large triangular shaped craft about a hand size (extending my hand straight out)I am a truck driverand routinely travel from Columbia South Carolina to Kingsport Tennessee Sunday thru Thursday nights.  I routinely stop at the top of the North Carolina, Tennessee Mountain, called Sam's gap.  This is an area where truckers will routinely stops and shut down for the evening to sleep or take their 30 minute break, like I do nightly. I was standing outside my truck viewing upwards, when two other truckers started waving their hands and yelling lookup , lookup. I was already looking upward, however out of my peripheral vision, I saw a triangular craft, with red and blue lights at each point of the triangle flashing wildly, that literally went from one side of the sky to the other, blocking out the stars behind the triangle as it moved across the sky. No sound what so ever, and it appeared to cross the sky in about 3 to 5 seconds.  It was unbelievable.  This area has no lights to speak of, other than the occasional truck passing over the mountain, so it is a wonderful area just see God's creation.  I have a college degree from Charleston Southern University, 1980, and spent many years in upper level management, managing service contracts throughout the Pacific Rim, but specifically in Kuala Lumpur Malaysia.  I do not know the other truckers as we just refer to each other as drivers, but we all threesaw this is triangular shape craft. After it passed over who is somewhat looked at one another in disbelief.  One of the other truckers stated that he was not going to say anything to anybody for fear of ridicule.  So I am really putting myself out here by generating this report to you Peter.  I am a nightly coast to coast listener and have been listening since the Art Bell days.  We appreciate what you do out there Peter.   Keep up the good work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108866.html](http://www.nuforc.org/webreports/reports/108/S108866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
