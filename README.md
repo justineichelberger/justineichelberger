@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:18 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some '' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>I believe i was telepathically communicated with by a otherworldly entity while living next to hill air force base.  It gave me a urgent message for humanity.((NUFORC Note:  We have urged the source of the report to reveal what the urgent information is, but have not received that information, as of this writing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144866.html](http://www.nuforc.org/webreports/reports/144/S144866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Silver craft covered in pentagonal panels in West VirginiaI was walking my dog, and noticed what appeared to be a bright star a small distance away from the sun in the middle of the day.  I thought this was very odd from the intensity of its brightness. I thought perhaps a planet was visible, but noticed the "star" was growing brighter and brighter until a small amount of silver began to show in the center. The silver began to expand until a long oval shaped craft was visible. It appeared mayber 1/4th the size of the sun, but I was able to see that it was covered in shiny pentagonal panels that were all reflecting the sun on the side facing it. It appeared to hover silently for a small amount of time before receding into the white light, however as it was leaving i could see the black of space around the curves of the craft until I could no longer see any silver. After the silver of the craft disappeared, I could no longer see any black space, but only the initial white light that shrank in a twinkling dia! mond shaped fashion until it was invisible. The craft appeared to come through some two dimensional portal of light as you could see half the craft emerge from a flat plane of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151192.html](http://www.nuforc.org/webreports/reports/151/S151192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
