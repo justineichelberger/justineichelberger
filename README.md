@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>extremely large object hovering over the tree tops, then vanished w/o a traceAs I pulled up to my house on Tuesday April 22, 2008 (around 9pm), I heard a very loud noise, such as a helicopter hovering right over my head. When I looked up, I saw no helicopter but  an extremely  large spherical object  surrounded by very dim lights right over the tree tops.  I stood looking up at the sky for about 10 minutes while the object just hovered in the same spot. Then when I was walking inside to get everyone outside, it just vanished, instantly. Living right by Quantico for a long time, I know that this was no normal aircraft, not with the size and shape of the one that was hovering that night.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62653.html](http://www.nuforc.org/webreports/reports/062/S62653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>2 univ. stud. see dramatic "meteor" in S sky, then witness  chevron of lights "like kite" in same area of sky. Zig-zags off!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00449.html](http://www.nuforc.org/webreports/reports/000/S00449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
