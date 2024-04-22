@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:38 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:28 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in West Chester (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My last sighting was not a hoax.I sent a report a couple years ago of a possible UFO sighting.  I noticed that there was a NUFORC note about my lack of personal information.  In order to clear any possibility that this sighting was thought to be a hoax, I wanted to provide the information I may have left out before.  Please understand that I only was weary of internet privacy.Occurred : 4/22/2009 16:00 (Entered as : 04/22/09 16:00) Reported: 4/22/2009 9:57:42 PM 21:57 Posted: 5/12/2009 Location: West Chester, PA Shape: Cigar Duration:5 seconds or less Large grey cigar shaped object.I was walking my dog at around four in the afternoon, and I looked up to see an object in the sky. It was at least two to three times the size of an airplane, and was dark grey. It was slightly angled upwards, and almost looked bent. I could not tell if it was moving very fast horizontally, or not at all, as I was walking to get a better view. By the time I had found a good place to view it, it had disappeared behind clouds.((NUFORC Note: Witness elects to remain semi-anonymous; provides little contact information. PD))”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79853.html](http://www.nuforc.org/webreports/reports/079/S79853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Anonymous caller repts. strange, multi-colored lights in SW sky; appears to move.  Will call next night after looking at sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00446.html](http://www.nuforc.org/webreports/reports/000/S00446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
