@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Anonymous caller repts. strange, multi-colored lights in SW sky; appears to move.  Will call next night after looking at sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00446.html](http://www.nuforc.org/webreports/reports/000/S00446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Fixed flashing colored lights 9pm to 1am. Change position suddenly appear regularly.Flashing lights in the western sky. 1 toward the direction of Palo Verde, the other WNW of my position in Surprise, AZ.  They are there "almost" every night in 1 position or another.  The one to the WSW that was there tonight appeared to be in the vicinity of Palo Verde disappeared first.  It was there for almost 2 hours and went out suddenly.  The one to the west stayed there until it went down below the horizon as if to have a fixed position and went down like the sun would.  This is NOT a rare sighting.  It occurs "almost" every time I go out at night between the hours of 9pm and 1am.There are some nights when I see it to the ESE over Eastern Phoenix.  When I do not see it, looking west, I see it looking to the ESE.I see them over the White Tank Mountains and they appear to be well beyond the mountains over the open desert.  Helicopters do not have fuel capacity to stay in one spot for that amount of time and do not shut there lights off and go away.  Airplanes fly underneath them and move in a direct flight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133759.html](http://www.nuforc.org/webreports/reports/133/S133759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
