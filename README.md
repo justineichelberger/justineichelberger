@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Compton (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Circular object floating on top of my apartment complex in the middle it was spinning really quick then it disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155745.html](http://www.nuforc.org/webreports/reports/155/S155745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Ring-shaped object with lights around the outside flying over Fort Worth.My friend and I were driving home from a concert.  It was about 12:20am when I looked up and saw what looked like a big star.  I watched it for about two minutes and I realized that it was moving.  Then I thought maybe it was a plane but there were no blinking lights.  I told my friend to look at it and neither of us could explain it.  It was pretty high up so we really couldn't see the exact shape.  When it passed over our car, we could see that it was a ring of about 14 small lights.  It was moving at a moderate speed and it was not a plane.  After it passed over us, we couldn't see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17359.html](http://www.nuforc.org/webreports/reports/017/S17359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
