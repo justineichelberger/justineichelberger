@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Calhoun (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>There was a haze around object that was orange. The lighted objects are all ways in the darkest part of the sky.This  was the first time in Ga I have seen the fireballs.  I zoomed in fast as could.  The shape of it was weird, but it seemed to go faster as I started to film it.  There is a lot of activity around certain nights here.  The picture with white circle light following this green thing, I have tried to look online to see if any one else saw it.  The objects made no sound.  I have not seen it again since.  The other thing with the several lights appears to be a triangle but hard to tell.  It was just me and my husband.((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110198.html](http://www.nuforc.org/webreports/reports/110/S110198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright pulsating Orange/Red light vanishing and re-appearing for a few minutes.On the night of April 22nd, 2012, around 9:00pm, I was looking at the moon with binoculars, and noticed a bright red/orange flashing/flickering/pulsing light. It was much brighter and larger than other stars, so I figured it was a plane or something like that. But I can recognize a plane's green and red blinkers, and it's steady movement; this was not a plane.The color was distinctively bright dark red, and bright orange (it would seem to alternate between the two, but definitely red and orange could be discerned clearly). I looked at it for a few minutes, then realized it was actually moving slightly, and would temporarily completely vanish for a moment, only to reappear at a slightly different location.This process of 'pulsing' red/orange and 'vanishing' to re-appear close by continued for a few minutes. The very last time it vanished, I could've sworn i saw it 'release' some sort of a trail, similar to a meteor tail, but it was a red-streak, and bent slightly.I was simply amazed at what I had just seen, so I kept looking at the sky, but eventually clouds moved in, and the object never re-appeared.I went online to do some research the next day, and sure enough, one lady in the area has caught it on film and uploaded to youtube. (unfortunately, the video is of poor quality and hardly shows a faint but bright red light flickering slightly before disappearing)  I've contacted this person, and I found out that she was looking in the same direction, at the same time I was.My brother claims to have seen the light return the next day, although I wasn't in the area at the time, so I can't confirm this.Interestingly enough, both Texas and Georgia also reported bright orange/red lights around 9:00pm on that same night.I am under the impression that this object may have been the very same, headed for the Gulf, giving each state a different point of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91634.html](http://www.nuforc.org/webreports/reports/091/S91634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
