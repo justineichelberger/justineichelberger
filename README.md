@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bonita Springs (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fast moving object with lights in Southern sky over Naples, Florida traveling West to East...While looking to the South, I witnessed a very fast moving object which had at least 2 visible lights on it, moving from West to East above the tree tops, but far enough away to suspect it was off at a distance of miles.  It traveled faster than any human occupied object, and turned to the South before speeding off quickly even faster.  It made no noise, nor did noise arrive after it passed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127014.html](http://www.nuforc.org/webreports/reports/127/S127014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light.I've been an aerospace machinist for 19 years now.I work for a very big aerospace company and I am very aware of many type of aircraft.At 9:19 on Saturday night I saw a light flying in a north direction.It was a bright light with a slow movement, as I noticed it, it started to slowly dim.It was not a meteor, I've seen lots of meteors and this was too slow to be a meteor.It was not a plane, as it did not have any flashing lights, nor was it a satellite, since it dimmed.It was a clear night without a cloud in the sky.It seemed as if it knew I was watching it and that's when it began to dim.((NUFORC Note:  Possible flare from an Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126998.html](http://www.nuforc.org/webreports/reports/126/S126998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
