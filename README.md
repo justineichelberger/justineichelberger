@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:41 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Shepherdsville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Lights Over Shepherdsville KentuckyOn 4/23/09 around 9:30pm that evening, myself and my family pulled into the driveway and was getting out of the vehicle and my girlfriend looked out to the right of her in the sky standing by the passenger door of the vehicle and asked me, look at those two lights in the sky.  The lights was very bright and not moving at all. After a minute, or so standing there looking at the lights, a third light appeared and formed a triangle with the three lights.  At this time the lights still was not moving and no sounds was heard from these lights to indicate an aircraft. About 30 seconds later, one light disappeared, then the second one, then the third one.  We stood there for a moment then one light reappeared and was not moving.  Suddenly another light emerged out of the right side of the light and moved to the right away from it then started slowly dropping down to the earth behind some trees down the road and set there for about two minutes.  As we was watching the light behind the trees, we looked up and seen the light in the sky disappear.  After another minute, or so the light behind the trees also disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69780.html](http://www.nuforc.org/webreports/reports/069/S69780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Roseburg (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately still happening - still happening minutes.</sub><blockquote><sub>sparkling, bouncing flashing lightNot sure, but flashing light moving in numerous directions, sort of like "follow the bouncing ball"...looked through binoculars,looked like it was sparkling, bottom rounded, top like a triangle, or pyramid.  Numerous colors, all sparkley, Eastern sky.  Not real sure what it is, exactly.Did anyone else see it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50257.html](http://www.nuforc.org/webreports/reports/050/S50257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
