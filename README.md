@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:46 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ibadan (Univ. of Ibadan)  (Nigeria) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glittering UFO I was seeing off a friend who came visiting in preparation for an examination when i started noticing a flying object going back and forth in the sky,  i cant specify its shape but what i notice is that it glitters into white and disappear but i can still notice its path.  the other one remain calm and only brings its light once in a while. i thought i was the only one seeing that until my friend called my attention to it and we sttod and gaze at their movements.  I was thinking I could capture it with my phone camera but the camera is not as powerful as required. am still on the research on what this might likely be.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81960.html](http://www.nuforc.org/webreports/reports/081/S81960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Searsmont (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Spherical colorful craft with brights and non consistent movements.I noticed an extremely bright light out my bedroom window which at first I thought might be a big star, then I looked harder and noticed it was making bizarre movements and had colors.   I went and grabbed y cell phone hoping to zoom in on it and also grabbed my spouse to witness it.  When I zoomed in on the object it lost all detail.  The craft was spherical, moved in different directions and at times remained idle in one spot.  The lights were red, green, yellow, orange and blue that I remember.   It stayed for a very long time and then proceeded to disappear by going straight up into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155718.html](http://www.nuforc.org/webreports/reports/155/S155718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
