@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rio Rancho (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At 9:50 PM i was heading home from a park near Riverview Drive. As I was leaving the park, turning West, I noticed a red light in the Western sky moving slow and steadily from South to North.  I proceeded to drive and turn onto Sabana Grande Avenue.  This was when I noticed the orange hugh in the middle of the red aura.  I kept driving and turned left onto Riverview Drive and kept a watchful eye on this object.At first I thought it was a helicopter or plane because, at the right angle, you can see a light that isn't flickering, and, after some time, when they turn or keep moving, you cansee the flashing light.  I waited for this object to do so before concluding it was a UFO.  It never turned  and simply kept moving into the light cloud cover, dimmed, and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88631.html](http://www.nuforc.org/webreports/reports/088/S88631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My family and I saw a UFO last night at our house.UFO sighting last night at my house!!   Thursday, April 23, 2009 at 9:05 p.m. central time, a UFO flew over my home in Lake Charles, Louisiana.   We were driving down Ryan Street heading home, and we turned left by Blockbuster Video Store when I noticed the white lamb shaped cloud that had what appeared to be a genie lamp on its rear end with smoke coming from the lamp.  My husband said that the cloud looked like an elephant to him, and he tried to point out the trunk.  We giggled, and then arrived at our house.I was busy getting things out of the van when my husband shouted out, "Hey, - come see what - found!"  Thinking to myself that I was about to look at another Gecko or some creepy crawly thing I walked over to them.  They were both staring at the sky, and I looked up and saw flashing colored lights floating way up in the sky in slow motion heading south while moving upward toward the doom of the sky.Baffled I asked, "Is that a plane?"   My husband said that there was no way it could be a plane, because planes do not move like that.  He said that - noticed it first, and he said,  "Look Daddy at the stars moving across the sky!"  I started to make out the image as triangular with a glowing sphere shield around the base.  It had colored flashing lights that were blue, yellow, and red making the perfect points for a triangle.  I confirmed what I was seeing with my husband, and he said that he saw the same shape I did.  The object was way higher than a plane would normally fly, and it was moving so as if they wanted us to see them.  I waved and said, "Hello, my friends."  My husband pointed at -, and told me to be quiet.We all just watched in awe, and then it speeded up at an impossible speed, and from no where the sky filled with clouds again hiding the object.  My four year old said, "See momma, it was the aliens, because I told you they are always up above the clouds."((NUFORC Note:  We spoke via telephone with this witness, and we found her to be exceptionally well-spoken.  She sounded quite sober-minded and sincere, and we suspect that her report of their sighting is quite accurate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69794.html](http://www.nuforc.org/webreports/reports/069/S69794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
