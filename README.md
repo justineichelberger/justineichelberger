@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greer (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Flashing red lights fly slow and silent over my home. i have videoI left my brothers house and was walking down the drt road to my hose.  Facing due south i saw two flashing red lights. They were heading straight for me flying close and low. I ran in my house got a couple friends to come out and my nephew pulled up in his car.  I told them to look.  The crafts flew right over my house. Slowly and silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88949.html](http://www.nuforc.org/webreports/reports/088/S88949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In the parking lot of Excalibur, We saw a pyramid of six lights flying above the hotel.Let me start by saying all three of us were completely sober and of sound mind on the night of 4/22/00. Our friend was parked in the Excalibur Parking lot across from the Luxor. We were standing and talking when I noticed a pyramid like shape of six lights above the hotel. I first believed it to be some sort of Jet, But there was no sound and also no FDA regulated strobbing lights. Then the lights changed its configuration from a large pyramid of six lights into two small pyramids of three lights each. I gasped and called attention to the lights. All of us looking then watched it go back into a large pyramid. It changed again into a almost figure 8 symbol, then back into a large pyramid before disappearing quickly into the horizon.(Towards the directiion of the Tropicana) Like I said there was no strobbing lights, and they seemed to be small individual lights. The configurations happened so quickly I didn't see them move. It was as if It went from one to the other faster than the eye. The lights were a yellowish-gold to green color and they were dim. Not bright. Im curious to know if anyone else saw anything on this night. If so please contact me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12763.html](http://www.nuforc.org/webreports/reports/012/S12763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
