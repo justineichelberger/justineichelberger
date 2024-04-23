@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tavares (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Starlike object moving around above and into Leo constellationI went out to try to catch a few meteors from the Lyrids near the peak time at about 11pm EST.  The sky was fairly clear with only a few clouds. I've been skygazing for a while and used to identifying planes, constellations, satellites, etc. The meteors were scarce and as I walked to an open field at the developement to get a better view and less light pollution. I looked up towards the constellation Leo.  East of the sickle (Leo the lion's mane) I saw a bright starlike object. As bright if not brighter than the near by star Regulus.  At first, I thought the object was a satellite or perhaps aglimpse of the shuttle as it followed a straight east-west path towards the sickle.  It moved at a fairly good pace then angled south about 120 deg. The common way to give rough distances while stargazing is to hold ones arm out and gauge by the number of fingers between stars.  Using others stars as a reference point for its movement, it moved anywhere from two to four fingers between turns.  It made it's next turn at about 90 deg  and a few more turns as it circled around behind the sickle and over Leo's back. It made a sharp 25 deg turn and turned again to head North.  It covered the distance at a slower rate and then went from bright to fade out, possibly going straight up. I made my way back to the house and it was 11:15 EST.  The whole time I watched, I ruled out any dust, bugs, (too far away and did not move in erratic manner), planes (a plane could pull off those turns and the light was steady) satellites (they follow a straight East-West or North-South path) etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37685.html](http://www.nuforc.org/webreports/reports/037/S37685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light no noise 1 witness circular in shape.Round white light 2nd time I've seen it in a weeks time.  It was much higher this time no sound and it faded out about half way acrost the sky.  The one thing I noticed was the amount of aircraft in the sky after it fades away I counted 10 aircraft in the general area of where it would of been after it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108874.html](http://www.nuforc.org/webreports/reports/108/S108874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
