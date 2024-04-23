@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:10 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:40 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in I-16 south (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Driving on I-16 south and noticed a intense light that was covering a large area in the sky.  One was like a sphere shape on its side with the strong light coming out of it.  It was shinning the light on to another smaller object that pulsated and kinda faded in and out in the view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162823.html](http://www.nuforc.org/webreports/reports/162/S162823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Langley (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>HIghly reflective very small object took off from ground + accended to sky and beyound very quicklyFriday Aprii 24 2009 approx 10.15 am. I was in Langley in the Murrayville region and not very far from the police station it was on my right side - I was on foot and decided to sit at a bus stop for a moment as I felt something was kind of  watching me.  Friday was a beautiful day with good visability and just a flew fluffy clouds.  I was looking out North and appearing high in the sky was a [dot] very very high up in the sky -  This dot  wasn't moving at all.  I then watched this stationary dot for about a minute and it just assended upwards towards space until I couldn't see it anymore.  I then continued on foot to the local coffe house and had a latte.  I then headed back in the general direction where I had just come from and noticed a vacant field.  I decided to place my jacket on the gound and sit there peacefully for a few mins and bask in the spring sun.  I was aware of my surroundings including several men working to the right of this field (city, municiple workers) suddendly from my left side of the peripheral vision I saw something very strange.  I thought it was a metallic butterfly (taking off from the ground) or field where I was sat.   This highly reflective object was probably no bigger than compact disc in size.   It wobbled and had the motion of a jumping butterfly.  I would guestimate this object's distance to be 20 metres from me.  It moved across the field left to right and also lifting up higher and accended upwards towards the clouds and beyond.  I then took out my cell phone and tried to video cam this (checked video afterward but couldn't see anything on replay due to very poor video quality)   Also to verify what I was seeing I then ran over to the City Municiple workers and asked them to look in the sky way up to see this shimmering object - One guy said yes + the other guy couldn't see this until I gave him my sunglasses.  They both saw it thought it was very strange.   While speaking with these workers the object  disappeared.   Several minutes after I saw something odd start to zoom across the sky at high speed and I asked this guy walking towards me if he could see this object moving quickly?   He said yes (what is that?) I said, "I'm not sure", but something else I saw prior to this object moving high speed was very very strange in that field over there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69824.html](http://www.nuforc.org/webreports/reports/069/S69824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
