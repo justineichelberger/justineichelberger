@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 22 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oneco (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>7 flying kinda a formation same speed all traveling in the same direction west to east 7 of them.Driving home from work sighted the objects coming over a hill.  Preceeded to the school so I could stop get out of the vehicle and takes pictures.  Only got 2 but with the phone they are seen.  Amber to orange light that was on not blinking or flashing.  And they traveled like in a formation!!  All traveling at the same speed .Heading east toward RI thru Voluntown .  I watched till,they went out of sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134001.html](http://www.nuforc.org/webreports/reports/134/S134001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Hazed lights traveling dew north in a clockwise position.Two very light white shaped halos spining in clockwise direction but moving north. They looked like a fog light coming through a dense fog. No sound audible. The object itself was not visable to me it was only the lights traveling in a silent fast movement 2 steps forward 1 step back always backtracking. The two lights were never far from each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63369.html](http://www.nuforc.org/webreports/reports/063/S63369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
