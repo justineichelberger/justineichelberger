@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:10 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Hazed lights traveling dew north in a clockwise position.Two very light white shaped halos spining in clockwise direction but moving north. They looked like a fog light coming through a dense fog. No sound audible. The object itself was not visable to me it was only the lights traveling in a silent fast movement 2 steps forward 1 step back always backtracking. The two lights were never far from each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63369.html](http://www.nuforc.org/webreports/reports/063/S63369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in I-16 south (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Driving on I-16 south and noticed a intense light that was covering a large area in the sky.  One was like a sphere shape on its side with the strong light coming out of it.  It was shinning the light on to another smaller object that pulsated and kinda faded in and out in the view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162823.html](http://www.nuforc.org/webreports/reports/162/S162823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
