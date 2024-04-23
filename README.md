@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:14 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Peachtree City (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This object was not a star, plane, or helicopter!I always look at the stars on clear nights when I can, and that's just what I was doing the other night.  I noticed an object which was slightly brighter than the rest of the stars which I thought might have been a planet.  Most of the time it was white but it would at times seem to have blue and red in it.  It was very far up in the sky I'd say at least 40,000 feet.  But it moved unlike a star would or a plane for that matter.  It would move in very small movements from left to right and up and down.  So slight I could hardly tell it was moving but it was because I would stand still and after a minute or two it would move behind a tree branch out of site.  The object also would dim to NOTHING!  Then light up again.  Like nothing I've ever seen.  It gave me a weird feeling as I was watching it. ((NUFORC Note:  We suspect a possible sighting of Sirius, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43614.html](http://www.nuforc.org/webreports/reports/043/S43614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White dot of light  that changed directions a few time .Setting on my front porch at or about 5:30 AM looking at the morning sky,when I seen a flash of light that came from the Big Dipper that was in the N.W. sky . It looked to be a white light that was about the size of a small pin hole . It was moving S.E.at a fast speed and then turned S.W. for a few seconds and then it turned to the N.W. I followed it until it was out of sight . I then looked back at the Big Dipper and spotted another little light that was going in a broken circle and then disappeared in about the same spot the first light was seen at .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50248.html](http://www.nuforc.org/webreports/reports/050/S50248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
