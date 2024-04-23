@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lakebay (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Brilliant multicolored lights in a tight, round cluster, twinkling/flashing as it moved across the skyTonight, 4/23/2018 at approximately 10pm I was browsing on my computer when my dogs started to bark.  I opened the slider to let them outside, then noticed a strange cluster of lights in the sky, moving very slowly from northeast to southwest.  It appeared to be a singular object with multiple lights in a tight round cluster.  The lights were multicolored, bright blue, deep red, gold/orange/yellow and white, very vibrant and rapid twinkling with a bright intense pulse or flash of one of the red colored lights.  As I watched for about 5-10 seconds, it moved slowly to the south and the tree tops began to block my view.  I called for my husband to come see but when we both looked back it had moved out of sight. I have never seen an object like that before.  This was about 4 times the size and brightness of the largest star I’ve seen in the night sky.  I would guess its altitude to be about 2000-3000 feet, very difficult to tell.  It wasn’t low to the ground like the aircraft we typically see around here and it didn’t appear to be as high as the air traffic we see from SeaTac.  I don’t know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139601.html](http://www.nuforc.org/webreports/reports/139/S139601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving down I-95 south and just over the trees on the right I saw a triangle UFO with one light up top a few on the bottom and a few in the middle. It flew at an angle, I was doing 65- 70 mph and it stayed just about 300 yards ahead of me to the right, - as I stared at it.. ( thank God I didnt get in a wreck) lol - after about a min or so it took off full speed cut over the highway and disappeared. It was a mile to the next exit, and this thing went to that exit then cut accross with in the matter of 2- 3 seconds..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42983.html](http://www.nuforc.org/webreports/reports/042/S42983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
