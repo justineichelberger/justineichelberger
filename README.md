@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light no noise 1 witness circular in shape.Round white light 2nd time I've seen it in a weeks time.  It was much higher this time no sound and it faded out about half way acrost the sky.  The one thing I noticed was the amount of aircraft in the sky after it fades away I counted 10 aircraft in the general area of where it would of been after it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108874.html](http://www.nuforc.org/webreports/reports/108/S108874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yorba Linda (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>twinkie shaped object with lights hovering over Yorba Linda, CA (Weir Canyon Exit)while driving on the 91 westbound around 9:40 p.m. from orange county toward riverside, i spotted a twinkie shaped object hovering in the sky on the freeway close to the Weir Canyon exit in the city of Yorba Linda, California.i was driving at approximately 65 mph and the blinking object was visible for about 5 seconds before i passed it.It had one red light on the left that did not blink. all the other lights were whitish yellow, oblong, blinking, and were moving in a circular pattern, seemingly, around the object.the craft did not move, it was sitting in one area and i did not hear any sort of loud noise.right after passing the object, i called 911 to report what i had seen. the respondent stated that there was another caller who had reported the same sighting, but in a different location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75168.html](http://www.nuforc.org/webreports/reports/075/S75168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
