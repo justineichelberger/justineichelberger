@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light.I've been an aerospace machinist for 19 years now.I work for a very big aerospace company and I am very aware of many type of aircraft.At 9:19 on Saturday night I saw a light flying in a north direction.It was a bright light with a slow movement, as I noticed it, it started to slowly dim.It was not a meteor, I've seen lots of meteors and this was too slow to be a meteor.It was not a plane, as it did not have any flashing lights, nor was it a satellite, since it dimmed.It was a clear night without a cloud in the sky.It seemed as if it knew I was watching it and that's when it began to dim.((NUFORC Note:  Possible flare from an Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126998.html](http://www.nuforc.org/webreports/reports/126/S126998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Peachtree City (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This object was not a star, plane, or helicopter!I always look at the stars on clear nights when I can, and that's just what I was doing the other night.  I noticed an object which was slightly brighter than the rest of the stars which I thought might have been a planet.  Most of the time it was white but it would at times seem to have blue and red in it.  It was very far up in the sky I'd say at least 40,000 feet.  But it moved unlike a star would or a plane for that matter.  It would move in very small movements from left to right and up and down.  So slight I could hardly tell it was moving but it was because I would stand still and after a minute or two it would move behind a tree branch out of site.  The object also would dim to NOTHING!  Then light up again.  Like nothing I've ever seen.  It gave me a weird feeling as I was watching it. ((NUFORC Note:  We suspect a possible sighting of Sirius, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43614.html](http://www.nuforc.org/webreports/reports/043/S43614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
