@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yorba Linda (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>twinkie shaped object with lights hovering over Yorba Linda, CA (Weir Canyon Exit)while driving on the 91 westbound around 9:40 p.m. from orange county toward riverside, i spotted a twinkie shaped object hovering in the sky on the freeway close to the Weir Canyon exit in the city of Yorba Linda, California.i was driving at approximately 65 mph and the blinking object was visible for about 5 seconds before i passed it.It had one red light on the left that did not blink. all the other lights were whitish yellow, oblong, blinking, and were moving in a circular pattern, seemingly, around the object.the craft did not move, it was sitting in one area and i did not hear any sort of loud noise.right after passing the object, i called 911 to report what i had seen. the respondent stated that there was another caller who had reported the same sighting, but in a different location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75168.html](http://www.nuforc.org/webreports/reports/075/S75168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greer (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Flashing red lights fly slow and silent over my home. i have videoI left my brothers house and was walking down the drt road to my hose.  Facing due south i saw two flashing red lights. They were heading straight for me flying close and low. I ran in my house got a couple friends to come out and my nephew pulled up in his car.  I told them to look.  The crafts flew right over my house. Slowly and silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88949.html](http://www.nuforc.org/webreports/reports/088/S88949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
