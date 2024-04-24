@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:46 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Carolina Beach (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights over the ocean for about 5-6 minutes!Sitting on the porch watching a boat sail by (with binoculars) one orange light appeared over the ocean I called to my wife she could see it also then a second appeared for less than 30 seconds them the both just kind of went out like a flare burning out but they did not rise or fall or move left or right they just hung at the same height and distance.  I could tell that by the ship that moved past it's lights were clear and moving from right to left!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97344.html](http://www.nuforc.org/webreports/reports/097/S97344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fox River Grove (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 large lights in a large triangle patternI was driving home and I saw some big lights out of the corner of my eye so I decided to drive up a large hill to get a better look. I got to the top of the hill to see 3 large lights hovering very low above a farm in a large triangular pattern.  The object was moving at a fast speed but I still was able to follow it for about 3 minutes.  It was flying broad end first, rather than the point.  And it appeared to be flying at an angle.  After following it I turned and it had passed just over some trees and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69836.html](http://www.nuforc.org/webreports/reports/069/S69836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
