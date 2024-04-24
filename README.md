@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:59 on 23 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White light over Ogden, UtahTime submitted is approximate, but some time between 21:30-21:45. I was standing in my bedroom, leaning out the window having a cigarette. I was looking up at the sky, and looking at the stars, when I turned my head to look south-easterly, when I spotted a light appear, somewhere between 1-2 miles away. It lasted for only a short time, then blinked out! Living so near to Hill AFB, and an airport, I thought it might be a plane coming in to land, but, when the light went out, I noticed that there were no strobe lights flashing! I wear glasses to see clearer, but, I see pretty good without them, so I could not make out any particular shape, but there were no other lights on this object! It was also moving fairly slow, and, also being so dark, I could not tell it's elevation! Also of note, I talked with my brother who is living here about it, and then I went outside to stand on my porch, and saw that somewhere in Ogden City, someone was using a high powered sear! chlight to scan back and forth along some clouds that were near the mountains on the east side of the valley, as though someone else had seen this object, and were maybe trying to spot it! I called my brother outside and he witnessed this also, and agreed that that might be what was happening! This light I saw from my bedroom window was very bright, like the landing light of a plane, but there were no other lights seen, before or after the white one went on and off! And, there was no sound heard at all!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75172.html](http://www.nuforc.org/webreports/reports/075/S75172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Leslie (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two light spheres followed by three smaller onesLocation: Leslie, Arkansas - 35D/49M-North X 92D/35M-West.  Time: 21:00 hours. Letting dog out for the evening, observed 2 spheres of lights heading West/SW from this point at approx. 30+ Degrees of horizon (very low to horizon). No sound was heard in relation to size of light spheres. Light spheres had the shape of airplane landing headlights but brightness was a yellowish glow. The size of a basketball at a distance of say 500 to 700 feet.  To the rear of the 2 larger lights, following seconds behind, are 3 smaller spheres. The 3 smaller spheres, following, then take a more westerly direction. Time of duration: notice to disappearance-15 seconds max.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22640.html](http://www.nuforc.org/webreports/reports/022/S22640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
