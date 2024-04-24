@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Passaic (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was not the witness.  My friend who lives down the street was walking his dog and captured a video of 5 red circular crafts hovering about Passaic, NJ.  They dissappeared one by one.  I have a short video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127024.html](http://www.nuforc.org/webreports/reports/127/S127024.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Gabriel (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>WAS LOOKING AT THE MOON THEN I SAW ITI was in my frontyard it was a clear day and the moon was out so i got my binoculars to check it out. As i was looking i saw some white birds flying around then i saw it a silver dot it look as high as the moon it was just west of it at 13:30 and at 14:30 it was north-west of the moon it moved about one inch in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36506.html](http://www.nuforc.org/webreports/reports/036/S36506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
