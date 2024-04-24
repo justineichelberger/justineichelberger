@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A silver sphere spotted in Louisville Kentucky.On Greenbelt Highway after a thunderstorm, I stepped into a McDonalds restaraunt, looked out the window, and coming right down into the sky about 4 miles away was a white, almost silver or even copper, sphere came dropping down at a fast rate.  No one else seemed to see the object, and when I asked someone, they thought I was bonkers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75176.html](http://www.nuforc.org/webreports/reports/075/S75176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Leslie (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two light spheres followed by three smaller onesLocation: Leslie, Arkansas - 35D/49M-North X 92D/35M-West.  Time: 21:00 hours. Letting dog out for the evening, observed 2 spheres of lights heading West/SW from this point at approx. 30+ Degrees of horizon (very low to horizon). No sound was heard in relation to size of light spheres. Light spheres had the shape of airplane landing headlights but brightness was a yellowish glow. The size of a basketball at a distance of say 500 to 700 feet.  To the rear of the 2 larger lights, following seconds behind, are 3 smaller spheres. The 3 smaller spheres, following, then take a more westerly direction. Time of duration: notice to disappearance-15 seconds max.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22640.html](http://www.nuforc.org/webreports/reports/022/S22640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
