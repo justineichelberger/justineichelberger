@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Gabriel (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>WAS LOOKING AT THE MOON THEN I SAW ITI was in my frontyard it was a clear day and the moon was out so i got my binoculars to check it out. As i was looking i saw some white birds flying around then i saw it a silver dot it look as high as the moon it was just west of it at 13:30 and at 14:30 it was north-west of the moon it moved about one inch in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36506.html](http://www.nuforc.org/webreports/reports/036/S36506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Applachian Mountains (NC) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Flyby of a Dead Alien w/ Red Blood on it.On a plane, saw a floating object pass right by the plane.  This occurred at like 15,000 feet. It was red, looked like it was bloody, with blood running from it.  There were strips of pieces hanging.  It was not a Craft.  I thought it was a dead alien.  There was no way it could be a bird.  Am open to information that would help me clarify what this was.((NUFORC Note:  We suspect that the report may be a hoax.  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81021.html](http://www.nuforc.org/webreports/reports/081/S81021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
