@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Henderson (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>bright phenomenon shaped like kid's spartle stick was just spotted outiside my home.i looked outside my bedroom window and saw a very bright light,  i originally thought it was an automobile w/bright lights, but could never resolve lights of an automobile.it was a beautiful sphere of ever-changing bright and colorful, psychedelic lights. a multitude of colorful bright streamers emanated from the object.  it looked like a kid's sparkle mini-fireworks stick but was much larger by at least 3 orders of magnitude.  after very short period of time, the object began moving through trees adjacent to highway.  i could see it through the trees.  then, it just blinked out. i hope this report is satisfactory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127012.html](http://www.nuforc.org/webreports/reports/127/S127012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fountain Inn (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>point of light rapidly moves across the sky then fades awayA bright pinpoint resembling a star moved horizontally across the sky in about 10 seconds then faded away in about 3 seconds.It began due southwest and disappeared due south at about 60 degrees above the horizon. I think it was between 8-10 pm EST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108934.html](http://www.nuforc.org/webreports/reports/108/S108934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
