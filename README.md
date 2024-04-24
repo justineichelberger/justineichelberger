@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:13 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:46 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Coos Bay (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A young mother was standing outside, looking at the stars to the east.  Her attention was drawn to an object to the east that was moving from south to north.  She looked at it with binoculars, and the object appeared to be round, and it was tan and very bright, and it "was moving fast." (??)  In her words, it looked like a "flaming object."  The object passed out of sight over the mountains to the north.  ((Note:  There were discrepancies in the report.  At first, the observer reported that the object was large, then she said it was visible when she looked at it with binoculars.))Ten minutes later, she witnessed the same object moving from north to south.  During the second sighting, the object appeared larger and closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02012.html](http://www.nuforc.org/webreports/reports/002/S02012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Carolina Beach (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights over the ocean for about 5-6 minutes!Sitting on the porch watching a boat sail by (with binoculars) one orange light appeared over the ocean I called to my wife she could see it also then a second appeared for less than 30 seconds them the both just kind of went out like a flare burning out but they did not rise or fall or move left or right they just hung at the same height and distance.  I could tell that by the ship that moved past it's lights were clear and moving from right to left!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97344.html](http://www.nuforc.org/webreports/reports/097/S97344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
