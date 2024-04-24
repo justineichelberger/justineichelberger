@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rio Rancho (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Circular, metallic silver/white object in sky; Rio Rancho, NM.I was driving down Idalia road after dropping off my child at school.  I saw a metallic/shiny white circular/oval shape hovering in the distance.  A lot of planes cross overhead in this area, but this was not a plane or anything I have seen in this area before.  I watched it, mesmerized, and then turned left onto Lerma road.  I pulled my vehicle to the side of the road & observed it travel a short distance.  It stopped/hovered again, then shot off into the clouds & disappeared.  After it disappeared, I saw two planes/aircraft that were possibly "chasing" it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108883.html](http://www.nuforc.org/webreports/reports/108/S108883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gulfport (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Green/Yellow Disc object fying around the gulfcoast towards the open water.the object was flying above a elementary school when i notice it. the object seem to stay in put in a spot in the sky with green lights around it and a yellow top.  I notice that it was moving every slow heading south to the beach.  The object seem to be higher then usually flying zone in our area i also notice the movement of the object. It could move in any direction smoothly with out turning quick or wide like planes or helicopters do.  There was no sound from it either it was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88641.html](http://www.nuforc.org/webreports/reports/088/S88641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
