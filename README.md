@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gulfport (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Green/Yellow Disc object fying around the gulfcoast towards the open water.the object was flying above a elementary school when i notice it. the object seem to stay in put in a spot in the sky with green lights around it and a yellow top.  I notice that it was moving every slow heading south to the beach.  The object seem to be higher then usually flying zone in our area i also notice the movement of the object. It could move in any direction smoothly with out turning quick or wide like planes or helicopters do.  There was no sound from it either it was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88641.html](http://www.nuforc.org/webreports/reports/088/S88641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A silver sphere spotted in Louisville Kentucky.On Greenbelt Highway after a thunderstorm, I stepped into a McDonalds restaraunt, looked out the window, and coming right down into the sky about 4 miles away was a white, almost silver or even copper, sphere came dropping down at a fast rate.  No one else seemed to see the object, and when I asked someone, they thought I was bonkers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75176.html](http://www.nuforc.org/webreports/reports/075/S75176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
