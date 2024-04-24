@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Harrogate (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ufo's shock familyVery clear blue skies and sunny   Myself, my 16 year old son, my wife and mother in law saw 2 unusual objects moving quite quickly across the sky.  both objects were black in colour.  one object was slightly higher in the sky than the other.the highest object then lit up very brightly and appeared to be spinning. This object remained lit up while the one below it remained black.both objects then made a strange maneuver moving clockwise and then anti clockwise in a circular movement around each other eventually fading into the distance the lit object remained visible slightly longer than the black object.They made no sound at all.All 4 of us were stunned at what we had just seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81006.html](http://www.nuforc.org/webreports/reports/081/S81006.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ada (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>cigar shaped almost aluminum in color hazy around it no soundi was working at my house about 1 mile do south of town. taking abreak and listening to music. when i was watching some birds then this object was there. it was shaped like a cigar from the distance i was but it was steady in movement and spead up a little then disappeared over the town. it was a little over cast but i could see it fairly well it definatly was a craft of some sort. my wife and i saw the same thing in summer of 2011 south of ada (same town) before i could get a tape in my camera it spead off....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88704.html](http://www.nuforc.org/webreports/reports/088/S88704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
