@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fox River Grove (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 large lights in a large triangle patternI was driving home and I saw some big lights out of the corner of my eye so I decided to drive up a large hill to get a better look. I got to the top of the hill to see 3 large lights hovering very low above a farm in a large triangular pattern.  The object was moving at a fast speed but I still was able to follow it for about 3 minutes.  It was flying broad end first, rather than the point.  And it appeared to be flying at an angle.  After following it I turned and it had passed just over some trees and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69836.html](http://www.nuforc.org/webreports/reports/069/S69836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Merrillville (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>SEEN WEIRD LIGHTS IN THE SKY.  MOVING IN ODD DIRECTIONS AND WERE MULTI-COLORED.  ACCOMPANIED BY WEIRD NOISES.  ONE UFO WAS LIT UP LIKE A CHRISTMAS TREE COMPLETE WITH BLINKING LIGHTS.  MOVING FASTER THAN ANY PLANE WOULD.LOOKED UP IN THE SKY AND SAY 5 WEIRD LIGHTS. THEY WERE MOVING IN ODD DIRECTIONS AND MAKING WEIRD NOISES.  AFTER ABOUT AN HOUR THERE WAS A UFO THAT WAS LIT UP LIKE A CHRISTMAS TREE COMPLETE WITH BLINKING LIGHTS.  IT WAS VERY STRANGE.  THERE WERE 4 OF US WHO SAY THIS HAPPEN.  WE SAT ON THE ROOF AND WATCHED DIFFERENT LIGHTS BLINKING OFF AND ON.  SOME HOVERED AROUND AND MOVED IN ODD DIRECTIONS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12706.html](http://www.nuforc.org/webreports/reports/012/S12706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
