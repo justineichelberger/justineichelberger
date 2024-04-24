@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Depoe Bay (OR) reported seeing craft that fit the description of some '' over a period of approximately 2 hrs. - 2 hrs. minutes.</sub><blockquote><sub>A group of approximately 8 women were looking at the night sky from a deck.  Suddenly, they witnessed a peculiar white light, with a red light on one side, and a green on the other. The "light" moved up and down, and side to side, to a considerable degree.  The light then just suddenly went up and to the left, and went out to the west over the sea, where it was joined by a second bright light.  The women watched the lights with binoculars for an extended period of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02030.html](http://www.nuforc.org/webreports/reports/002/S02030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Harrogate (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ufo's shock familyVery clear blue skies and sunny   Myself, my 16 year old son, my wife and mother in law saw 2 unusual objects moving quite quickly across the sky.  both objects were black in colour.  one object was slightly higher in the sky than the other.the highest object then lit up very brightly and appeared to be spinning. This object remained lit up while the one below it remained black.both objects then made a strange maneuver moving clockwise and then anti clockwise in a circular movement around each other eventually fading into the distance the lit object remained visible slightly longer than the black object.They made no sound at all.All 4 of us were stunned at what we had just seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81006.html](http://www.nuforc.org/webreports/reports/081/S81006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
