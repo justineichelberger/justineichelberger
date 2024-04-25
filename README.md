@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:40 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a silver bright object!Today is Saturday may 17 on 04/25/2008 around 4 or 5 in the afternoon i was in my house walking from the kitchen to the living room i notice my son was in the window so i looked to the window but walking at the same time, and then i saw something in the sky a block away from my apartment;I thought it was just my imagination it was silver round object but it looked blurry from where i was standing i looked back real fast it was still there but for some reason i kept walking to the living room but in a second my son scream saying "mami you seen that?"...i ask..."what?" and he said " the flying thing in the sky it was there and then it left real fast".So i ran to the window and nothing was there, only a small trail of smoke like the smoke the plane lives behind, but real short trail, like if what was there elevating and then puff!!! it left real fast.I wish i had my camera next to me.  But then 3 days ago from now May 14 2008 i was in the living room and it just started to get dark i look out the window and i thought i saw something in the sky so i grab my camera and took 3 picture the first one you can tell i was nervous the picture is a little sideway then i took the second one and there it was the same thing i saw in april 25 and my son out the kitchen window.i saw the light so i took the picture real fast.It was round but pointy at the end with glow.Im not sure if what i saw it was a omni but it got me thinking.i would like for somebody to see the pictures.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63214.html](http://www.nuforc.org/webreports/reports/063/S63214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Waverly (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Orange floating like sphere came to where we were.  Then slowly, silently, drifted off along the tree line.  Pure energy!The object was burnt orange,oblong shape, and approximately 20ft in diameter. It was silent and seemed to float, not fly.  It stayed in the area for around an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127053.html](http://www.nuforc.org/webreports/reports/127/S127053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
