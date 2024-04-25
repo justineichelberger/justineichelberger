@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 24 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Dallesport (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>egg-shaped UFO in south central Washington looked like a carnival ride in the skyI first observed the UFO with the naked eye as an unusually bright pulsing object which I thought was a star.  It was on the NW horizon above a 3400 foot range of mountains and very high in the sky and far away. I looked again with binoculars and was amazed to see the object was actually egg-shaped its surface was covered with flashing lights.  I saw the colors amber, blue-green, and red all flashing independently of each other. As the object very slowly moved east its shape seemed to change to cigar--almost as though it had tipped on its side or turned. It continued to flash, the colors so bright it looked like a carnival ride in the sky.  It then flashed only one color in different places on its surface--all amber, all bluish-green, all red. At one point it began to climb higher in a zig-zag pattern--slowly, almost meandering, then continued east again.  I watched it until it began to disappear and reappear because a stand of tall fir trees in a nearby yard was making observation difficult.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50276.html](http://www.nuforc.org/webreports/reports/050/S50276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Grape Creek (IL) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two youth  witness flash in sky, then "vapor trail" streaking down.  Witness green strobe, "like lightning," in woods nearby.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00456.html](http://www.nuforc.org/webreports/reports/000/S00456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
