@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sunderland-Arlington (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orangy moonlike sphere, silent, stationary, 11pm rt7a sunderland vt. 30 second viewing.went to sons log cabin in arlington vt. to visit grandkids, watched hockey game, left at 10:45 at 11pm driving on dark rt 7a no traffic i noticed glow on road ahead through trees. looked and said thats no moon to myself. stopped and looked at large orangy sphere stationary and glowing on me. moved about 10 ft and again looked at for about 10 seconds. then moved a little more and observed was going off road with no shoulder so went to pull back on road and the glow and sphere disappeared. no cell phone was in motel charging because no reception in mountain area there. excited i told wife. looked for any moon around again but nothing.  went to police in morning and called newspaper and the nearest motel to see if anyone may have seen but nothing> went to my sons cabin in morn. on computer saw that there was no moon.  i have had this in my head since and was upset for a while because i spoke to hayden planetarium director and vanderbilt planetarium director and mu! fon but u come to a deadend and its depressing to know what u saw was real. i been to many hot air baloon festivals and been outdoors all my life and lived in mountains for years. this was large orange sphere with a little milky cloudlike nucleus portion. no movement appprox 1/2 mile and hard to judge   the actual size but appeared moonlike probable about 500-700 ft high.no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95068.html](http://www.nuforc.org/webreports/reports/095/S95068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a silver bright object!Today is Saturday may 17 on 04/25/2008 around 4 or 5 in the afternoon i was in my house walking from the kitchen to the living room i notice my son was in the window so i looked to the window but walking at the same time, and then i saw something in the sky a block away from my apartment;I thought it was just my imagination it was silver round object but it looked blurry from where i was standing i looked back real fast it was still there but for some reason i kept walking to the living room but in a second my son scream saying "mami you seen that?"...i ask..."what?" and he said " the flying thing in the sky it was there and then it left real fast".So i ran to the window and nothing was there, only a small trail of smoke like the smoke the plane lives behind, but real short trail, like if what was there elevating and then puff!!! it left real fast.I wish i had my camera next to me.  But then 3 days ago from now May 14 2008 i was in the living room and it just started to get dark i look out the window and i thought i saw something in the sky so i grab my camera and took 3 picture the first one you can tell i was nervous the picture is a little sideway then i took the second one and there it was the same thing i saw in april 25 and my son out the kitchen window.i saw the light so i took the picture real fast.It was round but pointy at the end with glow.Im not sure if what i saw it was a omni but it got me thinking.i would like for somebody to see the pictures.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63214.html](http://www.nuforc.org/webreports/reports/063/S63214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
