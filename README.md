@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:11 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:08 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sun City (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>On Apr25 2020 at approximately 20:00 I went outside my house as it was a beautiful evening I had my cell phone with me.  I may have been outside 5 minutes looking to the west i could see the moon and Venus clearly.  I decide to take a picture on my cell phone and after I stood and watched the skies for a short time there after.  I never saw the object at any point it was only after going back through photos on my cell phone did I discover  that the object was there May 27 2020.  I went on line to see what the skies were like as far as planets available in that part of the sky visible at that point on Apr 25 2020 only Venus was up and of course the moon...again I did not see any movement from my perspective left to right or right to left or vertical up or down...and had my see toward that part of the sky for at least another 5 or so minutes after taking the picture before going in the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156708.html](http://www.nuforc.org/webreports/reports/156/S156708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A large, bright orange light moving across the clear skyI walked outside and my sight was immediately drawn to a bright orange light moving across the sky.  It was a clear night no clouds and all the stars were bright, I at first thought it was an aircraft that had caught fire it was that orange, large and bright.  It disappeared after about 2- min after I saw it.  I am a 47yo Freelance artist with a degree.  I witnessed circular lights over South Mountain in AZ 24 years ago, aside from these two incidents I have never encountered anything I was unable to rationalize.  It did not make me nervous or excited, just curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118647.html](http://www.nuforc.org/webreports/reports/118/S118647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
