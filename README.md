@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright and wavering light in the east.I was planning to view planetary alignment approximately 12:30/1:00am.I was looking east(was veiwing from window and the sky was perfectly clear))when I when I noticed an incredibly bright light in the eastern part of the sky.  I thoughtthat I had located one of the planets but after watching for a few seconds,the light appearedto be moving. I thought that maybe my eyes were not focusing so I stopped watching and tried to refocus.  The movement was quick and seemed to be wavering and moving in an upward/downward(occasionallateral movement) pattern--watching this movement made me feel a little dizzy.  The light was definitely not a planet or star.I thought about an airplane or the medical helicopter but this light did not move in the same pattern as a plane.  The light seeemed to stay in the same general area and the movement was quick and erratic.I went to get my husband and he also saw it briefly. It seemed to fade(into a yellowish color) and was gone. I have no idea what it was that I saw but it sure made me curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22718.html](http://www.nuforc.org/webreports/reports/022/S22718.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sunderland-Arlington (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orangy moonlike sphere, silent, stationary, 11pm rt7a sunderland vt. 30 second viewing.went to sons log cabin in arlington vt. to visit grandkids, watched hockey game, left at 10:45 at 11pm driving on dark rt 7a no traffic i noticed glow on road ahead through trees. looked and said thats no moon to myself. stopped and looked at large orangy sphere stationary and glowing on me. moved about 10 ft and again looked at for about 10 seconds. then moved a little more and observed was going off road with no shoulder so went to pull back on road and the glow and sphere disappeared. no cell phone was in motel charging because no reception in mountain area there. excited i told wife. looked for any moon around again but nothing.  went to police in morning and called newspaper and the nearest motel to see if anyone may have seen but nothing> went to my sons cabin in morn. on computer saw that there was no moon.  i have had this in my head since and was upset for a while because i spoke to hayden planetarium director and vanderbilt planetarium director and mu! fon but u come to a deadend and its depressing to know what u saw was real. i been to many hot air baloon festivals and been outdoors all my life and lived in mountains for years. this was large orange sphere with a little milky cloudlike nucleus portion. no movement appprox 1/2 mile and hard to judge   the actual size but appeared moonlike probable about 500-700 ft high.no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95068.html](http://www.nuforc.org/webreports/reports/095/S95068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
