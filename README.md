@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chillicothe (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fleet of unidentified lighted aircraft shooting through the Illinois skies.Fleet of lighted unidentified aircraft, traveling over Illinois (Peoria County) Saturday night, April 25th , 2020, (8 – 9 pm) Peoria County, Illinois, 2 hrs southwest of Chicago.My husband and I saw a fleet of lighted aircraft shooting out from in between the moon and another object, which may be another moon or Big star, it’s a new light we noticed that is there all the time now, bright like the moon and travels alongside the moon.  We were facing southwest when we saw the fleet of lighted aircraft appear in the sky. This is Covid 19 shelter in place now, reduced airplane traffic, so it was extremely odd to see this happening.Finishing up with some yard work after dark, I had looked up into the sky and saw the line of lighted objects that appeared to be rapidly shooting through the sky in single file formation, faster than any jet or rocket I’ve ever seen.  They were oblong shaped lighted craft, traveling close together, no noise, no exhaust, just light. They were flying in single file maintaining specific distance, some would speed up a little then slow down, although I did see two flying together side by side although still moving at the same speed and distance as the rest of the fleet. Watching them trail through the sky, then disappear, with the other crafts following in the same direction disappearing, simply blew my mind! They appeared rapidly, not like fading into view. I started counting them to myself, they were going so fast I lost track (maybe 50+). I alerted my husband to come outside to see what was happening. The event lasted a couple minutes longer, perhaps up to 100 craft total, and then they were gone. They just disappeared into the sky, just like they first appeared no trailing off into the distance, they were just gone, it was a clear night, we could see their lights very brightly.If I had to describe what it looked like, here it goes.You know the machines that continually shoot out tennis balls to a tennis player, or like a military semiautomatic shots being fired off.  The brightly lighted fleet looked like that, they looked to be on a mission. I’ve never seen anything like this! Thank you for reading my eye witness report. Hope this helps someone doing some deep research. Please reply back if any other reports of this nature are happening in Illinois.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155847.html](http://www.nuforc.org/webreports/reports/155/S155847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in East Meadow (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw 1 greyish disk shaped object for about 10 seconds than it dissaperedMe and my friend walked outside and I looked up at the sky and saw a greyish disked shaped flying object I told my friend to look up and and then we both watched it for about 10 seconds than it instantly dissapered</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28552.html](http://www.nuforc.org/webreports/reports/028/S28552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
