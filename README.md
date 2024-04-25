@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:40 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Waverly (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Orange floating like sphere came to where we were.  Then slowly, silently, drifted off along the tree line.  Pure energy!The object was burnt orange,oblong shape, and approximately 20ft in diameter. It was silent and seemed to float, not fly.  It stayed in the area for around an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127053.html](http://www.nuforc.org/webreports/reports/127/S127053.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looking out my bedroom window, I noticed a craft travelling north to south, approximately a mile high, no sound. The odd thing was that it vanished very quickly almost fading out.  Large underbelly of a white light  Almost what appeared to be cone or circular?!  North part of Winnipeg .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145868.html](http://www.nuforc.org/webreports/reports/145/S145868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
