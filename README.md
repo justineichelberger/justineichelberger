@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Garden City (MI) reported seeing craft that fit the description of some 'Cone' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>about 830am saw a igrey cone shape ufo it went so fast it was gone by the time i got up and walked 5 feet to lookout the windowWhile I was lying on the couch, just getting ready to get up, I saw a grey cone shaped UFO out of  the large living room window.  I had said out loud whaaat what was that as I was looking out the window at it.  My husband was sitting on the stool next to me and I said get up get up and look out the window.  He quickly got up and I told him to look to the right (which is to the west that was the direction it was going) unfortunately it was gone.  It had no sound and no lights.  I have a broken back so he can move much faster then me.  I couldn't believe it was gone.  I couldn't believe I actually saw a UFO.  I have been stuck on the couch for one and a half years due to multiple broken back bones and I had just mentioned to my husband jokingly that I should be seeing a UFO any time now.I didn't realize how many sightings there are until now.  WOW!!  My husband said that he new something was up by the tone of my voice and the look on my face.  I always knew they were out there.  People need to wake up with this and everything that's going on with the weather, all the wars and new and old illnesses all being so prevalent.  God Bless and love to all.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119046.html](http://www.nuforc.org/webreports/reports/119/S119046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cave Spring (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white starlike object moving, stopped and vanished.I was up at 5:45 am looking out my sliding glass door and observed a starlike object moving at moderate speed going sw, the it slowed down and just vanished.   This incident was observed at about 1 minute duration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88651.html](http://www.nuforc.org/webreports/reports/088/S88651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
