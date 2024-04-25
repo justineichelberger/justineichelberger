@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cave Spring (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white starlike object moving, stopped and vanished.I was up at 5:45 am looking out my sliding glass door and observed a starlike object moving at moderate speed going sw, the it slowed down and just vanished.   This incident was observed at about 1 minute duration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88651.html](http://www.nuforc.org/webreports/reports/088/S88651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Williston (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 lights traveling silently across the sky - multiple witnessesMy fiancee and 2 friends were sitting out on our patio in our back yard in the evening at around 8:30 PM.  It was a clear night and it was just getting dark enough so that more stars were beginning to be visible. I had my binoculars out, which I was using to look at the crescent moon and any planes or other aircraft that were in the sky. Everyone was just chatting and sitting in the patio furniture (I was standing up and periodically looking at the moon and scanning the sky). I saw what appeared to be 3 white lights traveling East (or Southeast)  in a line.  The front 2 lights were much closer together than the 3rd trailing light. There were no blinking lights and no red or other-colored lights. I stated I saw something to my fiancee and our friends and my fiancee and one of our friends began watching as well (the 4th person had their back to everything and was not paying attention or interested in he moment). The lights were completely silent and at the time we did not see any other planes in the sky and there were only a handful of stars/planets (in addition to the moon) visible in the night sky. I followed the 3 lights with my binoculars and watched them as long as possible - eventually they faded into the distance - they did not disappear behind the horizon or into the clouds - to me it looked like the objects were continuing on the same path they were on when I first noticed them. The lights traveled at a consistent speed except towards the end of the sighting when it appeared that they sped up, or were going up into higher altitude while still traveling East/Southeast without the rate of movement changing.The 3 of us who witnessed it were baffled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155738.html](http://www.nuforc.org/webreports/reports/155/S155738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
