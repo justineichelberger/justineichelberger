@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tallinn (Estonia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A orange,red triangle was flying fast forwards.aIt appeared in the sky,started flying forwards fast.It was orange and  a little red,it had the shape of a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50281.html](http://www.nuforc.org/webreports/reports/050/S50281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cannon Beach (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 orange orbs and 3 white disks objects was seen by 2 witnesses.We were out on the front porch and saw 2 orange orbs.  First one appeared then got brighter and flew south down the coast line.  As it disappeared another one appeared in the same exact spot and flew the same direction here in Cannon Beach by Haystack Rock.    Then a couple minutes later 3 white disks came across the sky heading north at virtually light speed the opposite direction the orange orbs flew.  Was definitely not aircrafts.  Was dark and clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108915.html](http://www.nuforc.org/webreports/reports/108/S108915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
