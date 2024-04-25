@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 25 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Manito (outside of) (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 circular shaped ufos changing formation more than 4 timesthree friends saw three lights(I was one). We saw only one for a brief moment. It them split into two shapes, obviosly disc like. They then merged and then formed three discs. They merged for the last time and disapeared in a huge flash. More people saw this that were not with us.large shrieking sound was emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03520.html](http://www.nuforc.org/webreports/reports/003/S03520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mukilteo (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving shiny oblong oval craft traveled from the northeastern sky to the south over Paine Field.I was having dinner with my parents at their home.  In the middle of the dinner, as I was talking with my mother,  she interrupted me and asked out loud, "What is that in the sky?!"  I turned to my left and saw her looking out the sliding glass door window and into the cloudless, eastern blue sky.  I asked her what it was she was seeing.  She said, "There, up in the sky.  That thing is shiny and floating slowly away!  Is it a balloon?"  I got up from the dinner table and walked over to the window and looked out.  In the distance, across and up in the sky–I would say about a few hundred feet in the air, I saw a slow moving object with an oblong oval shape.  It appeared to be more wider vertically than the top and bottom which was more shorter in height than its width.  The bright western sunlight reflected off the object, which appeared to be like a bright and shiny metallic surface.  The size of the object appeared a little smaller than the body length of a Cessna plane.My mother asked if it was a drone or a helicopter.  I told her, "No," as it did not make any sound.  My dad then came over to the window and he saw it.  He was giving the same description that I saw on how it looked.  The strange thing is, this craft was coming from the direction of the runway at nearby Paine Field airport where planes take off and land, but we knew that it could not have just taken off from the runway because it was moving too slow, and was too high since it was so close to the runway.  My dad and I then noticed the craft seemed to climb a few feet higher with its back end in the air and its front lowered at an angle. We watched the craft drift along to the south for about five minutes.Then before we knew it, the craft, which was still visible and not too far off, quickly started fading and disappeared against the blue sky just moments before a large airliner appeared from the south as it was getting ready to land at the Paine Field runway.  We are not sure what this craft was as the entire duration of it went from the north eastern sky to the south.  The amazing thing is, is how it disappeared entirely so quickly since it traveled so slow.We would like to remain anonymous at this time, but will report any possible future sightings.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127052.html](http://www.nuforc.org/webreports/reports/127/S127052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
