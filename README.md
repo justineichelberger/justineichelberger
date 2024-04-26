@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:05 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A white light dropped slowly from the sky & shifted to a level flight and faided out.The aircraft was moving at a 90 degree angle from the sky towards the ground at a slow rate of speed. The aircraft made a small s pattern in the sky, almost like a woble. There was not tail as if a meteor and was moving to slow.  At about 10-15,000 feet it shifted to a level flight with the ground.  After about 20 seconds in level flight it dimmed out.  It had no flashing or color lights.  It was one single color of white, and was about as bright as a neighbors 40 watt light bulb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56421.html](http://www.nuforc.org/webreports/reports/056/S56421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>white marbell shaped objectI was lying down in my front yard looking up when I saw a very thin white object suspended in the air. I watched it for a few minutes, then went into the house to get my binoculars.  With the binoculars I could clearly see the shape, it resembled a white to bright silver barbell or capital I. I watched for few more munutes, it apeared to be moving slowly to the east as I heard the sound of  military fighter getting louder then it vanished. I observed the jet, it was larger than a fighter, and it looked as if it going to the spot where the object was. The object was fairly large, because it was a fair distance away. I obseved this object for 8-10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28573.html](http://www.nuforc.org/webreports/reports/028/S28573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
