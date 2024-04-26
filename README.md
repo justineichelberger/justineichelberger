@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round or shiny craft following departing Jet liner from Portland Airport.Round craft or object following closely behind a commercial jet that appeared to be heading north from PDX.  The Jet was not real high in the sky yet and the round bright white or shiny object was about the planes length behind.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139626.html](http://www.nuforc.org/webreports/reports/139/S139626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greenwood (IN) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 strange cross shaped objects flying at an extremely high altitude and very fastI was flying a kite with my 3yr old and a low flying commercial jet caught our eye as it was descending into Indy airport (flying from the SE toward the airport NE.)  as the jet crossed above our kite and passed, I noticed movement much higher (thousands of feet?) behind our kite.  Shielding my eyes I could see 3 distinct objects cruising at a speed in a "V" or triangle position and they seemed to be moving incredibly fast for how high they were.  They were moving from SW to the NE, and were cross shaped, leading with the long ends.  My first thought was they reminded me of the large sand bill cranes that migrate over our area this time of year, but those are usually in large flocks, you can visibly see them flapping, fly in circular motions, fly MUCH slower, and you can often hear them.  Whatever these were were much higher than I would expect a  bird to be and again, cruising at quite a fast speed.  They may have been fighter jets, possibly F-16'! s, but they made no sound and there was no contrail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108975.html](http://www.nuforc.org/webreports/reports/108/S108975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
