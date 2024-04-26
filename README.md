@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:45 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bolingbrook (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw flashing light UFO while driving home, UFO in northeast sky. Lights went out on street.I was entering Boughton road off of Kings going east toward Naperville road and saw the UFO in the northeast sky and observed the street lights go out one at a time as I went past them.  The UFO had white flashing lights at the base and they seemed to be rotating around the base.  As I approached Canyon Dr. (one block west of Naperville road) I saw the UFO bank so that the base was upside down.  It picked up speed and disappeared in the northeast sky.  I was not afraid of the sighting. That night I dreamed about an implant being put into my right upper arm.  In the dream I was not afraid and the humanoid alien put the implant in was very friendly and I felt no pain.  The object in my arm was verified by three people, one of whom is my massage therapist who has worked with me twice a month for approx. two years. I am a Masters Degree level social worker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13806.html](http://www.nuforc.org/webreports/reports/013/S13806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Novi (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Pulsating light ball, changing color from orange to red, Possibly a plane with weird lighting.I was outside trying to push start my motorcycle(dead battery) when I noticed a bright light, flying overhead in a straight path. What hit me at first was how bright it was.  Then it changed color from yellow/orange to bright red, then back to yellow/orange.  It would take the light about 5 seconds to gradually change from one color to the other.  Then holding that color for 3 seconds before gradually turning back.  The brightness would kind of pulse on right before it went solid color.  It looked to be a single light source that changed colors.  Not two different lights that faded in and out and definitely not a spinning light. When it was solid red it was a very bright red, almost cherry like or fire engine red.  The light quality reminded me of super bright LEDs.  The light had a sort of uniform glow to it in all directions.  There were no other accompanying or secondary lights on what ever it was. I tried to listen for engine noise but I could hear nothing over traffic down the street.  I would have got my phone but I figured by the time I ran in and got it, it would be out of view.  I kept waiting for it to do something UFO like. Like change direction or take off suddenly but it kept flying in a straight line.  It was pretty high up, about where you'd expect to see air traffic.  But all you could see was this ball of pulsating light.  It could have very well been a plane.  But I've never seen lights like that on anything. When it past, it still had the same uniform glow as if the light was being emitted in all directions.  If it was a plane, I'd have to say it's something new.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108946.html](http://www.nuforc.org/webreports/reports/108/S108946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
