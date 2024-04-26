@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:45 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in St. Petersburg Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object bursted into a glow, then shot across horizon, shot back , and then moved smooth like a plane.Unreal!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37089.html](http://www.nuforc.org/webreports/reports/037/S37089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bolingbrook (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw flashing light UFO while driving home, UFO in northeast sky. Lights went out on street.I was entering Boughton road off of Kings going east toward Naperville road and saw the UFO in the northeast sky and observed the street lights go out one at a time as I went past them.  The UFO had white flashing lights at the base and they seemed to be rotating around the base.  As I approached Canyon Dr. (one block west of Naperville road) I saw the UFO bank so that the base was upside down.  It picked up speed and disappeared in the northeast sky.  I was not afraid of the sighting. That night I dreamed about an implant being put into my right upper arm.  In the dream I was not afraid and the humanoid alien put the implant in was very friendly and I felt no pain.  The object in my arm was verified by three people, one of whom is my massage therapist who has worked with me twice a month for approx. two years. I am a Masters Degree level social worker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13806.html](http://www.nuforc.org/webreports/reports/013/S13806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
