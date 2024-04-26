@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 then 2 lights flying very close to each other slowly, not airplane lightsit seemed as tho there was 1 red light flying near a star. then there was a second light and the 2 lights were flying very close to each other but very still and slow moving.  Definitely not air plane lights i know what they look like..  One light disappeared and the other slowly faded away... very bazzare.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97382.html](http://www.nuforc.org/webreports/reports/097/S97382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Laguna Hills (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pulsating orb appears over houses and draws police attention.My son was outside when he ran in to tell me that he saw a UFO outside of our house.  Out of skepticism, I went out to see what he claimed to be a bright pulsating light going up and down towards the sky.  While waiting to see what he described this light appeared out of the tree line north of our location and began to go up and down, and at times side to side while at the same time getting brighter at times as if it was getting closer to our location and then backing away as it dimmed.  I captured this on my cell phone for about a minute and a half until it drop down towards the ground as a police helicopter approached and circled the same area for about 15 minutes afterward.  This was no helicopter or airplane in the sky that we all saw.  The way it zipped back and forth, no known aircraft can do that.  I was amazed that nothing was reported on the local news agency regarding this sighting because of the length of exposure and the obvious dispatch of the police helicopter to investigate this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75208.html](http://www.nuforc.org/webreports/reports/075/S75208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
