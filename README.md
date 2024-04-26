@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jacksonville (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A line of fast moving lights coming from the north west all disappeared into the same location.  A blue/red and white light was seen blinking in the same location after all the light disappeared into the same location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155796.html](http://www.nuforc.org/webreports/reports/155/S155796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Series of 14 Orange/Red lights moving across the sky and blinking out.  Video recorded.Last evening, April 26th, from 21:30-21:55 a group of 20 gathered at a home in Greenhills, Ohio, witnessed 14 orange/red lights move one after another across the sky each to eventually blink out.  It was very unusual making no sound.All of them came from the northeast and moved to the south/southwest (the opposite direction of our current weather pattern.  Additionally, they would have been moving too fast to be floating.  They were more the speed of a fast aircraft on a calm evening.We had plenty of time due to the number that kept coming to record videos and take a few photos.  Additionally, we were able to observe through binoculars.  I’ve spent considerable time through my life star gazing and have never seen anything like this.I did call 911 to report.((ADDENDUM FROM WITNESS))Peter,Below is an updated version of my submission including the weather report verifying the direction of wind I reported.  I've also uploaded two videos to Youtube with the following links.  Let me know if I can enhance the report.  I will try to get two other witnesses to report as well.  Do you want them included in this or filed separately?https://www.youtube.com/watch?v=TsYN9vdb0Gw&feature=youtube_gdata_playerhttps://www.youtube.com/watch?v=66j4DPRYjCU&feature=youtube_gdata_playerHere are two videos I took of the lights we observed over Greenhills Saturday night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108952.html](http://www.nuforc.org/webreports/reports/108/S108952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
