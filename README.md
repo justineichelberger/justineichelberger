@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:45 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lebanon (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155772.html](http://www.nuforc.org/webreports/reports/155/S155772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Big Pine Key (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star like lights flying silently in a perfect boomerang formation, high rate of speed disappeared suddenlyOn April 27th, 2012 I was locking up to go to bed when I saw something flying across the sky I stepped out onto my deck, ( I live in a stilted home),to get a better look and saw 8 to 10 white lights, (looked like stars),in a boomerang or chevron formation they blended perfectly in the night sky except that they were flying very high and silently towards the northwest in such perfect harmony that they appeared to be a singular craft.  The space between the lights blocked out any stars in the night sky also giving me the impression that I was looking at a one object.  It was traveling at a high rate of speed, and disappeared suddenly.  Immediately after disappearing a shooting star streaked across the sky where craft disappeared at. I am a 49 year old female married with one son and two step daughters, I have 2 grandchildren and 5 step grandchildren. I have been married to my second husband for 13 years and am a life long resident of South Florida.  I am retired d! ue to physical disabilities but am of sound mind.  I am a long time lover of history, astronomy, archeology.  I have always believed in life beyond our planet and am extremely excited to have been lucky enough to have witnessed what may have been a visiting craft from another world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88701.html](http://www.nuforc.org/webreports/reports/088/S88701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
