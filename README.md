@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flying disc stationary in clouds about NCI was on a flight somewhere above northern North Carolina between 1900 - 2000 hrs.  We were beginning our decent and were going through the clouds and I looked out my window and observed a UFO of some sorts stationary in the clouds.  It was a disc shaped UFO.  I can best describe it as shaped liked Saturn.  It was round in the middle, a ball almost with the typical disc shape around it.  It had rotating lights around the perimeter of the disk portion of it and the front of the top of the circular area towards the left of the craft.  I don't know if anyone else on the flight saw it but I know for a fact that I saw it.((ADDENDUM FROM WITNESS))I wasn't able to take a picture.  I saw it and I had to look again and by the time I got my phone out we had passed it.  In all it was about 10 seconds that I was able to see it I think.  It was not moving, it was stationary.  It was in the clouds and it just happen to be in the upper portion of the clouds and thin enough that I was able to make it out.  The lights around the perimeter were rotating but I don't know if the craft itself was rotating or if it was just the lights. ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119313.html](http://www.nuforc.org/webreports/reports/119/S119313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in St. Petersburg Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object bursted into a glow, then shot across horizon, shot back , and then moved smooth like a plane.Unreal!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37089.html](http://www.nuforc.org/webreports/reports/037/S37089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
