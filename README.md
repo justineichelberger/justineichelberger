@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ridgefield (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Object flying next to full size airplane at same speed.On the evening of April 26, 2018, I was in our backyard, when I saw a airplane heading North from the Portland area when I noticed another object traveling at the same speed but was much smaller and trailing the aircraft.The smaller object had no visible angles or lines like the larger aircraft had and seemed strange to me since if it were a smaller plane it would have had some distinctive lines to the shape.I video taped it with my phone and when the video starts you can enlarge the picture to see this object which appears to be round in the video and not like a smaller plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139672.html](http://www.nuforc.org/webreports/reports/139/S139672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange object in northwest sky.At 11:07pm, I and one other person saw a bright glowing circle light yellow with a red center in the northwest sky in west Eugene.  It got brighter and then would dim repeatedly.   We checked online to see if it was a large star or perhaps a planet.  It disappeared about twenty minutes after we noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118678.html](http://www.nuforc.org/webreports/reports/118/S118678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
