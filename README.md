@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:37 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>yellow orange ball light  20 seconds then gone 10pm pac time  no sound traveling plane speed height in skyI was listening to coast to coast march 3rd  and heard you describe  exactly what I seen and have been thinking about ever since,   I’m a huge ufo’s and ghost fan my whole life,  I’m 35 years old,  I’m just interested in both but I’ve never seen either one until April 27th 2012.  10pm Pac time my friend pointed it out, was about 20  seconds in sky that we noticed it, traveling left of us, right in front of us, like plane or helicopter height no sound at all.  First thought bright light from a plane heading toward us in sky, then noticed not plane its ball light traveling left of us not straight at us, as it passed us was just bright ball light, yellow light orange that suddenly got even brighter bigger light of like white with yellow orange glow for say 3 seconds then back to glow it was giving off then gone in about 5 seconds.  I live in area planes helicopters everyday i hear them i see them this thing was neither one, it was close enough to make a sound if it was either one.   It looked like a ball light going plane speed in sky then was just gone.   It wasn’t meteor had no tail and was traveling in a straight line in sky for miles.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96533.html](http://www.nuforc.org/webreports/reports/096/S96533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stars moving across sky in formation, at equal distance and speed, following eahother for 10 minutes, dozens of them, one direction.I was walking my dog and looking up at the moon, and from the northwest came a moving satelite. I thought I was looking at stars, until one of them appeared to move, across the sky, overhead, moving South East for like 3 seconds...then followed by another...then followed by another, etc for like a dozen times, all in exact formation, following eachother in a line, like a studded belt. I ran into my place across the street and grabbed my camera, the dog following, curious. I ran back to the site location and the event was still in progress, so a good 2 minutes in duration by then. I attempted photos, but my phone-cam can barely get a shot of the moon; it's too weak. So I continued to observe, wondering about it. A passerby walked up and I accosted him to give a look, and we marvelled over the sight of their continuing number, flying in steady formation, about 3 visible at a time, spread over the sky, in a constant line. As soon as one disappeared into the dis! tance, another would appear from whence the other came. The event lasted about 10 minutes, maybe 15, because I also had time to phone my friend and tell him about it, while it occurred. I've been deflowered! Thank you for reading this far. Your Truly, Dark Man</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155863.html](http://www.nuforc.org/webreports/reports/155/S155863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
