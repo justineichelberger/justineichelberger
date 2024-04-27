@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:48 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Crescent of lights, may have been edge of large craft.At about 11:40 PDT tonight I was in the bathroom, just had a little night light on, and I happened to look over the top of the curtains at the night sky. To my surprise I saw some odd looking lights moving from more or less Northwest to Southeast. I opened the window to get a better look and was astounded! It's confusing to me because I'm still not exactly sure if I was looking at a single craft of multiple craft. What I saw was several blue white lights evenly spaced in a crescent shape, and an odd fuzzy looking larger light or multiple lights. That was odd as well. I was facing West at the time and the larger light may have been some kind of light in the center of a circular craft. It was a different color than the other lights, and was a little farther to the West, and may have been at the center of a craft. At first I thought I was looking at about 20 craft, but now I think it may have been one very large craft. I grabbed my binocs and ran out to the front yard to try to get a better look, but was having trouble getting the binoculars focused, and there is a kind of haze in the sky tonight, so I didn't get to view it long. I could see it south of here, but it faded into the night sky rather quickly. This thing was making no sound at all. I can hear jets and smaller craft very well when they are headed into the airport at PDX, which is only about a mile or so from here "as the crow flies". I think the lights in the crescent may have been on the edge of one single craft. It was low in the sky, and if you held your arm out and hands about a foot apart that would be about the distance from the first light to the last. They didn't seem to be much brighter than an average star. I don't know what else to tell you about this one. I'm the only one home tonight so, I have no other witnesses. I would like to know of any others who saw this thing tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22664.html](http://www.nuforc.org/webreports/reports/022/S22664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Seven  round,bright orange lights seen, spaced  evenly apart, moving in perfect unison without any sound.Sunday April 27,08 at 20:30 me, my husband,son and daughter were getting out of our car to go into our home when my husband looked up and saw these bright orange lights in the sky.  They were circular in shape, bright orange, and moving  from the west to south east in perfect unison.  They were seen in 2's appearing to be gliding in perfect unison and spaced perfectly apart from ea. other.  We saw two lights, then two more and then two more with a single light coming up at the tail.  There was absolutely no sound, or noise of any kind.  No trail of smoke or exhaust was seen. I have never seen anything like this before. We watched them for approximately 5 min. and then they were suddenly gone without a trace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62956.html](http://www.nuforc.org/webreports/reports/062/S62956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
