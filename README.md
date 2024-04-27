@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 19:30-20:00 - 19:30-20:00 minutes.</sub><blockquote><sub>Red-orange round disc lights (100+) moving across night sky in Kenmore, WA, on April 27, 2014.At 8:30 p.m. until 9:00 p.m. Sunday evening on April 27, 2014, my husband and I witnessed over 100 plus orange/red objects that were lighted from within moving across the sky.  This occurred in Kenmore, WA, with the sky a bit overcast and winds at 15 mph moving SSW.  The objects were arising into the night sky in groupings of about 15-20 at a time consistently throughout the half-hour.  They remained lit as they move about as fast as a crow flies from Kenmore moving toward Kirkland, WA.The King County Police stated that they had received two other calls sighting these objects over the Kirkland, WA, neighborhood.  As these objects moved, they remained lit, bright orange/red and moved smoothly across the sky.  None of these objects darted in any direction or sped up at any time.No other objects were visible after 9:00 p.m. Sunday evening, April 27, 2014.  We have not witnessed anything like this before on since that evening.  Both of us have been residents of the area since 1951.((NUFORC Note:  We spoke via telephone on the night of the sighting with the witness who submitted this report, and she sounded to us to be exceptionally eloquent and sober-minded.  We strongly suspect that she and her husband are exceptionally reliable witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109046.html](http://www.nuforc.org/webreports/reports/109/S109046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pretoria (South Africa) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was playing golf, saw white glowing object in the sky manoevering rapidly. Object was very high, almost in line with cirrus clouds as it was a cold day. Lost sight of object after a while.A white glowing object, much like a sphere. The object was almost vertical above me moving rapidly from east to west in short bursts.The golf course is near Waterkloof Air Force base. At first it looked like a weather balloon but it was very high and moving to fast to be a balloon. Due to the fact that the object was high and fast my friend only caught a short 3 second glimpse of the object himself. I eventually lost sight of the object. The object remained stationary at one time, that's when i first noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12770.html](http://www.nuforc.org/webreports/reports/012/S12770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
