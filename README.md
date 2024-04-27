@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:26 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:38 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 19:30-20:00 - 19:30-20:00 minutes.</sub><blockquote><sub>Red-orange round disc lights (100+) moving across night sky in Kenmore, WA, on April 27, 2014.At 8:30 p.m. until 9:00 p.m. Sunday evening on April 27, 2014, my husband and I witnessed over 100 plus orange/red objects that were lighted from within moving across the sky.  This occurred in Kenmore, WA, with the sky a bit overcast and winds at 15 mph moving SSW.  The objects were arising into the night sky in groupings of about 15-20 at a time consistently throughout the half-hour.  They remained lit as they move about as fast as a crow flies from Kenmore moving toward Kirkland, WA.The King County Police stated that they had received two other calls sighting these objects over the Kirkland, WA, neighborhood.  As these objects moved, they remained lit, bright orange/red and moved smoothly across the sky.  None of these objects darted in any direction or sped up at any time.No other objects were visible after 9:00 p.m. Sunday evening, April 27, 2014.  We have not witnessed anything like this before on since that evening.  Both of us have been residents of the area since 1951.((NUFORC Note:  We spoke via telephone on the night of the sighting with the witness who submitted this report, and she sounded to us to be exceptionally eloquent and sober-minded.  We strongly suspect that she and her husband are exceptionally reliable witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109046.html](http://www.nuforc.org/webreports/reports/109/S109046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sonoma (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four Orange round lights seen over Sonoma.The first orange light appeared then shorthly one after another till there were all four.   Going at a normal speed crossed over sonoma from north to southeast.  Very bright orange round lights.  Have video of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109022.html](http://www.nuforc.org/webreports/reports/109/S109022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
