@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:54 on 26 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Egg' over a period of approximately Recess - Recess minutes.</sub><blockquote><sub>Unidentifyed circuler objects near shcool, one repoted witnessI was at school on day during recess and on the swing set. I looked over to my left and I saw a pure white circular object hovering in the distance. It looked as if it was spinning and made no noise. It moved slowly a distance and then stopped. Next a blinding flash can from nowhere; it lit up the shadows everywhere. When I looked back, it was gone.Another one came up from the tree tops and moved to the same location. And, just like the first one vanished in the same blinding flash. I stared at the object and as the flash set off I could faintly see a beam of light traveling upward from the object.I looked up and I saw a triangular shaped object hovering in the sky, pure white floating slowly in the sky. It went into a huge cloud and disappeared.  It did not make a blinding flash or noise.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62299.html](http://www.nuforc.org/webreports/reports/062/S62299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brown boomerang shape glided across the sky with no light or sound.I saw a giant brown boomarang shape in the sky.  No lights, no sound, it just glided across the sky slowly.  It moved like a low cloud across the sky.  A few minutes later I was looking across the pool in the direction where the ufo had gone, and there were two orbs of light.  I kept looking until the lights started bouncing, and all the sudden, the ship blasted into space like in the movies.  It left tracers of rainbow neon light behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145917.html](http://www.nuforc.org/webreports/reports/145/S145917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
