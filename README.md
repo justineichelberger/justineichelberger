@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I was driving on the highway when I turned to the right I saw about 8 lights in the sky, all in a line n fairly evenly separated.  At first I thought they where airplanes but they never moved and where much brighter than an airplane would be.  Also, there where 2 other lights to the side a little further away.  The whole time on the highway I couldn't believe what I was seeing, it clicked these were some kind of UFO when they never moved!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88705.html](http://www.nuforc.org/webreports/reports/088/S88705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Quebeck (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>oval with orange lights with balls shooting off of itMy brother was on my front ponch smokin a cig. when he hollow at me i went outside and he pointed and ask me what is that.A craft of somekind oval and with 5 orange lights almost looked on fire,almost directly overhead moving slow and makin no sound it made like a half moon from nw to n  and while doing this shot off 4 balls with fire and sparks following in different spots we watched it for i`d say 5 mins before it when over the mt. in front of us and we lost sight..........</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28607.html](http://www.nuforc.org/webreports/reports/028/S28607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
