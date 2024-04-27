@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:16 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Seven  round,bright orange lights seen, spaced  evenly apart, moving in perfect unison without any sound.Sunday April 27,08 at 20:30 me, my husband,son and daughter were getting out of our car to go into our home when my husband looked up and saw these bright orange lights in the sky.  They were circular in shape, bright orange, and moving  from the west to south east in perfect unison.  They were seen in 2's appearing to be gliding in perfect unison and spaced perfectly apart from ea. other.  We saw two lights, then two more and then two more with a single light coming up at the tail.  There was absolutely no sound, or noise of any kind.  No trail of smoke or exhaust was seen. I have never seen anything like this before. We watched them for approximately 5 min. and then they were suddenly gone without a trace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62956.html](http://www.nuforc.org/webreports/reports/062/S62956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Maple Falls (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Last night we were outside and saw an object moving across the sky.  The object was visable for 30 seconds then disappeared.  It was followed immediately by another and another. All flew into the same area and disappeared.  They came at 15 second intervals. There was no flashing light or colors. There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155850.html](http://www.nuforc.org/webreports/reports/155/S155850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
