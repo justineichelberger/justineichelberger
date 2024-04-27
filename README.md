@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:21 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:37 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Steeleville (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>BALL OF FIRE STREAKED DOWN FROM THE SKY.i was riding with my mother to an appointment when all of a sudden we saw a ball of fire falling out of the sky. i told my mother to drive faster so we could find/see the impact site, but there was not one.((NUFORC Note:  Date of the incident is approximate.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30370.html](http://www.nuforc.org/webreports/reports/030/S30370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>yellow orange ball light  20 seconds then gone 10pm pac time  no sound traveling plane speed height in skyI was listening to coast to coast march 3rd  and heard you describe  exactly what I seen and have been thinking about ever since,   I’m a huge ufo’s and ghost fan my whole life,  I’m 35 years old,  I’m just interested in both but I’ve never seen either one until April 27th 2012.  10pm Pac time my friend pointed it out, was about 20  seconds in sky that we noticed it, traveling left of us, right in front of us, like plane or helicopter height no sound at all.  First thought bright light from a plane heading toward us in sky, then noticed not plane its ball light traveling left of us not straight at us, as it passed us was just bright ball light, yellow light orange that suddenly got even brighter bigger light of like white with yellow orange glow for say 3 seconds then back to glow it was giving off then gone in about 5 seconds.  I live in area planes helicopters everyday i hear them i see them this thing was neither one, it was close enough to make a sound if it was either one.   It looked like a ball light going plane speed in sky then was just gone.   It wasn’t meteor had no tail and was traveling in a straight line in sky for miles.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96533.html](http://www.nuforc.org/webreports/reports/096/S96533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
