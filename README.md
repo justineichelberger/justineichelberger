@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>1 object with 6 lights or 6 smaller objects in a perfectly straight line moving West to east over the Missouri river. The lights stayed lit for approximately 15 to 25 seconds and went out one by one from East to West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155878.html](http://www.nuforc.org/webreports/reports/155/S155878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>While looking toward the north at the night sky, I observed a bright star-like light moving slowly across the sky.The light was as bright as a planet and maintained its intensity.  After about ten seconds,  the light suddenly dissappeared.((NUFORC Note:  Possible flare from an Iridium satellite.  See <www.heavens-above.com>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22684.html](http://www.nuforc.org/webreports/reports/022/S22684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
