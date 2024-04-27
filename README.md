@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pretoria (South Africa) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was playing golf, saw white glowing object in the sky manoevering rapidly. Object was very high, almost in line with cirrus clouds as it was a cold day. Lost sight of object after a while.A white glowing object, much like a sphere. The object was almost vertical above me moving rapidly from east to west in short bursts.The golf course is near Waterkloof Air Force base. At first it looked like a weather balloon but it was very high and moving to fast to be a balloon. Due to the fact that the object was high and fast my friend only caught a short 3 second glimpse of the object himself. I eventually lost sight of the object. The object remained stationary at one time, that's when i first noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12770.html](http://www.nuforc.org/webreports/reports/012/S12770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The UFO that I saw at 1 PM thursday the 27th of april 2006, hovering over downtown portland, was a white, rather opaque, imperfect circular blob light ball with what was either a black circular ball directly below it, or maybe a black helicopter . It was aprox. 30-50 feet diameter, from side to side, by my estimate to the downtown Burnside bridge area it was hovering over. It was a single object, and it did not move while I observed it except for a slight unjulation which gave it the "imperfect" circular shape that I just mentioned. My astute girlfriend also observed this strange object, at the same instance as myself, as well as earlier that morning, by herself, around 10:30 A.M . This is certainly not the first "UFO" that I have seen here in my 1 year in Portland, Oregon. I have seen 1 black triangle near the Mall 205 exit off of the 205 freeway, as well as several other pasty light ball objects hovering over downtown Portland in clear blue mid day last fall, October 2005, 1 orange/metalic orb august 2005, and 1 diamond shaped black, brown, and grey object weaving eratically in and out of the clouds and then zipping off, early april 2006! Well, that's more than enough for now, but yes, Portland is a HOT SPOT for UFOs as far as I can tell!  S.E. PDX 2006 may 10((NUFORC Note:  Witness elects to remain totally anonymous; provides only e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50499.html](http://www.nuforc.org/webreports/reports/050/S50499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
