@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:21 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brown boomerang shape glided across the sky with no light or sound.I saw a giant brown boomarang shape in the sky.  No lights, no sound, it just glided across the sky slowly.  It moved like a low cloud across the sky.  A few minutes later I was looking across the pool in the direction where the ufo had gone, and there were two orbs of light.  I kept looking until the lights started bouncing, and all the sudden, the ship blasted into space like in the movies.  It left tracers of rainbow neon light behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145917.html](http://www.nuforc.org/webreports/reports/145/S145917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Steeleville (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>BALL OF FIRE STREAKED DOWN FROM THE SKY.i was riding with my mother to an appointment when all of a sudden we saw a ball of fire falling out of the sky. i told my mother to drive faster so we could find/see the impact site, but there was not one.((NUFORC Note:  Date of the incident is approximate.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30370.html](http://www.nuforc.org/webreports/reports/030/S30370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
