@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small fiery orange sphere floats over Va Beach neighborhood and travels slowly, silently and steadily away.I usually walk my dog in the evenings after sunset/dark. I have been fascinated by being able to see the International Space Station during my walks (and subscribe to a NASA feed from http://spaceflight.nasa.gov/realdata/sightings/ that lets me know when I can see it) and I enjoy watching the stars and their different position in the sky at different times of the year. Tonight the moon and Venus are farther apart than the last two nights.As I was walking my dog tonight (in a neighborhood behind First Colonial High School in Virginia Beach), I saw an orange sphere floating approximately 50-100 feet above the street/sidewalk. It looked like a home-made see-through contraption that someone put a candle or some other heat source in to make it rise like a hot air balloon. It was only about a foot in diameter.  It seemed as if one of the neighbors had launched it from their back yard.  It floated in the air and slowly, steadily and silently rose and traveled northwestward toward Venus.  As it got farther and farther away, its course gradually became more westward.  It had no tail or exhaust or contrail, just a glowing orange sphere. It became smaller and smaller like the size of a star to the human eye and then was no longer visible. The total duration of this encounter was approximately 2-3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88700.html](http://www.nuforc.org/webreports/reports/088/S88700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large red and pulsing circle of light heading north at varying speeds in Southwest FloridaMy husband and I were having a cigarette on the back lanai at about 8:45pm when a bright red circle of light appeared in the sky south of us.  The light was too bright to belong to a plane, and was pulsing, rather than blinking, never going completely out.  It appeared to be very large, or somewhat close.  At first it moved slowly, heading north, then it almost seemed to shoot forward, or skip, for a moment before slowing down again.  My husband used his cell phone to shoot video of it until we lost view of it over the house.  I ran through the house and out the front door to see if I could follow it or find it again, but it was nowhere to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108981.html](http://www.nuforc.org/webreports/reports/108/S108981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
