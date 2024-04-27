@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The UFO that I saw at 1 PM thursday the 27th of april 2006, hovering over downtown portland, was a white, rather opaque, imperfect circular blob light ball with what was either a black circular ball directly below it, or maybe a black helicopter . It was aprox. 30-50 feet diameter, from side to side, by my estimate to the downtown Burnside bridge area it was hovering over. It was a single object, and it did not move while I observed it except for a slight unjulation which gave it the "imperfect" circular shape that I just mentioned. My astute girlfriend also observed this strange object, at the same instance as myself, as well as earlier that morning, by herself, around 10:30 A.M . This is certainly not the first "UFO" that I have seen here in my 1 year in Portland, Oregon. I have seen 1 black triangle near the Mall 205 exit off of the 205 freeway, as well as several other pasty light ball objects hovering over downtown Portland in clear blue mid day last fall, October 2005, 1 orange/metalic orb august 2005, and 1 diamond shaped black, brown, and grey object weaving eratically in and out of the clouds and then zipping off, early april 2006! Well, that's more than enough for now, but yes, Portland is a HOT SPOT for UFOs as far as I can tell!  S.E. PDX 2006 may 10((NUFORC Note:  Witness elects to remain totally anonymous; provides only e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50499.html](http://www.nuforc.org/webreports/reports/050/S50499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stars moving across sky in formation, at equal distance and speed, following eahother for 10 minutes, dozens of them, one direction.I was walking my dog and looking up at the moon, and from the northwest came a moving satelite. I thought I was looking at stars, until one of them appeared to move, across the sky, overhead, moving South East for like 3 seconds...then followed by another...then followed by another, etc for like a dozen times, all in exact formation, following eachother in a line, like a studded belt. I ran into my place across the street and grabbed my camera, the dog following, curious. I ran back to the site location and the event was still in progress, so a good 2 minutes in duration by then. I attempted photos, but my phone-cam can barely get a shot of the moon; it's too weak. So I continued to observe, wondering about it. A passerby walked up and I accosted him to give a look, and we marvelled over the sight of their continuing number, flying in steady formation, about 3 visible at a time, spread over the sky, in a constant line. As soon as one disappeared into the dis! tance, another would appear from whence the other came. The event lasted about 10 minutes, maybe 15, because I also had time to phone my friend and tell him about it, while it occurred. I've been deflowered! Thank you for reading this far. Your Truly, Dark Man</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155863.html](http://www.nuforc.org/webreports/reports/155/S155863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
