@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Singapore/Borneo (between) (in flight) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black triangular object seen overtaking airplane during flight in Southeast AsiaThe sighting happened during a flight from Singapore to Kuching/Malaysia at approximately 3:30 PM.The plane (an Airbus A-320) already was at its full altitude of around 30000 feet for around 30-45 minutes going from west to east.When looking out of the window my girlfriend and I saw a rather small triangular shaped object flying from west-south-west to east-north-east, following a straight path and not changing its altitude.I estimated the object's size to be about 2 or 3 times the size of a Cessna-type airplane, its shape looked like a flat triangle and its colour was pitch-black without any reflections of the sun.It is difficult to guess the exact altitude but the object was crossing the upper parts and tops of cumulus clouds which our airliner was flying above, therefore its altitude might have been somewhere between 20000 and 25000 feet.The object’s speed was definitely faster than our airplane’s since in the end it overtook us and we lost sight of it when it entered an east-north-east located cloud bank ahead of our flight direction.I estimated the object’s speed to be at least 150%-175% of our airplane’s and it besides this it made no "phantastic movements" like sharp curves or such.It just constantly flew into one direction quite quickly.When I saw the object in the first place I thought it was another airliner, but when I realized its all-black colour having no light reflections at all, I had a closer look at it and figured out that its shape was very uncommon (it had no characteristics of an airplane) and its size was way smaller than the smallest airplane I know of being capable of flying in such an altitude.Unfortunately my photo and video equipment was inside my check-in luggage, so I could only observe it my eyes.I estimate the duration of the whole event to be about 1 or 2 minutes, from appearance of the object to losing it out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87319.html](http://www.nuforc.org/webreports/reports/087/S87319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oak Island (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Mostly orange-red circular objects appeared in southern sky over ocean near Oak Island, NCSeven red-orange circles appeared in the sky about 15-20 degrees above the horizon in southern direction over the ocean off of Oak Island, NC.  These objects appeared first as 4 circles at 8:34 PM then others (or some of the same) again at 8:47 PM.  The objects appeared rapidly out of nowhere and then disappeared within 5 seconds.  The circles all appeared each as a large filled in circle of red-orange color.  They all seemed to appear and disappear in the same general area (but not exactly the same)of the sky.  At one point two were side by side before disappearing.  They all seemed to disappear by collapsing into themselves.  The two that were side-by-side appeared to have a halo around them.  All circles were filled in with the same color and appeared to be large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127090.html](http://www.nuforc.org/webreports/reports/127/S127090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
