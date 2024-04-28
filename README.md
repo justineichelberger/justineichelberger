@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 27 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stars moving across sky in formation, at equal distance and speed, following eahother for 10 minutes, dozens of them, one direction.I was walking my dog and looking up at the moon, and from the northwest came a moving satelite. I thought I was looking at stars, until one of them appeared to move, across the sky, overhead, moving South East for like 3 seconds...then followed by another...then followed by another, etc for like a dozen times, all in exact formation, following eachother in a line, like a studded belt. I ran into my place across the street and grabbed my camera, the dog following, curious. I ran back to the site location and the event was still in progress, so a good 2 minutes in duration by then. I attempted photos, but my phone-cam can barely get a shot of the moon; it's too weak. So I continued to observe, wondering about it. A passerby walked up and I accosted him to give a look, and we marvelled over the sight of their continuing number, flying in steady formation, about 3 visible at a time, spread over the sky, in a constant line. As soon as one disappeared into the dis! tance, another would appear from whence the other came. The event lasted about 10 minutes, maybe 15, because I also had time to phone my friend and tell him about it, while it occurred. I've been deflowered! Thank you for reading this far. Your Truly, Dark Man</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155863.html](http://www.nuforc.org/webreports/reports/155/S155863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Texarkana (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Red, bluish, amber lights, false stars.This started last summer,I contacted Mufon,they are some sort of object with red,bluish green,and amber lights going around on these things,tonight May 8th I counted seven,sitting on my back porch I can see these things, using my binoculars I can see the lights well.  There are also swirling lights with a pinkish purplish hue, it seems as if the sky is a veil and they are underneath it!  This is perplexing!I also contacted Mr. Walter Sheets,((NUFORC Note:  Mr. Walter Sheets is the former (??) State Director, and experienced investigator, for the Mutual UFO Network in the State of Georgia.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109072.html](http://www.nuforc.org/webreports/reports/109/S109072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
