@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Townsville (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular saucer type craft with lights flashing in a rotatry circular fashion whilst driving in east Australia, then it disappearedWhilst driving south on the east coast of australia from the town of ingham to townsville with a perfectly clear night sky I saw a ufo ahead of me and to my right hand side, it was saucer in shape with flashing lights on the underside of the craft. The lights flashed in a rotatry circular fashion. It was hovering at no more than 100 feet above the field, then suddenly it complety disappeared. I was lost for words at the sight and could not speak until after the craft vanished. I then asked my passenger if they had see it also, they had and was also completely gobsmacked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43770.html](http://www.nuforc.org/webreports/reports/043/S43770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Yardley (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red flickering lights in Bucks County, PALast night, while walking my dog, I saw what appeared to be a rocket because it appeared to be flying up straight. But having seen a rocket launch before I knew that wasn't the case — they are loud and there are obvious flames shooting from below. The thing I saw last night then began flying across the night sky above my head. The top of it was a smattering of red and orange lights. They each flickered separately. It was as close, if not closer, than most of the planes that fly overhead. The base of the shape from which the lights came up from, appeared black and to be shaped in an upward arch. All of the lights filled an almost circular space/cluster above that arch. There was no brightness around the lights, meaning the sky didn't appear lighter around the lights. And it moved rather slowly. Didn't dart quickly or have a tail like a shooting star or meteor. Didn't hear anything coming from it. I tried to chase after it, but I wasn't able to keep up and it ! disappeared behind some trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162893.html](http://www.nuforc.org/webreports/reports/162/S162893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
