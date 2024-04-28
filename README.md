@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:48 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Morganton (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Fast moving cluster of erratic white lights spotted over western NC.A cluster of 5 white lights followed by one singular white light,each similar in brightness to the brightest stars. They moved as a group from East toward West. They did not move in straight lines but did move in an irregular or sporatic nature. There was NO sound! Not during nor after they passed from view. We were only able to see them for about 20 seconds. They seemed to be at least 5 miles high, possibly much higher. They did not look like any known aircraft. We are 49 and 52 year old married couple. Well educated, professional adults. We have never before seen any UFO's. It was absolutely amazing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17453.html](http://www.nuforc.org/webreports/reports/017/S17453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kinston (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ? - ? minutes.</sub><blockquote><sub>very fast over the treesit was about 7:00 pm and i took a picture of the sky and put it on the computer and zoomed in on it it looked like it had a red rim shape unknown 1 object moveing very fast 2 people saw it i didnt know i took it. till i zoomed in on it. it left a trail((NUFORC Note:  The witness forwarded a copy of the photo, and we believe that the tiny object in the photo probably was a bird, caught in mid-flight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75220.html](http://www.nuforc.org/webreports/reports/075/S75220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
