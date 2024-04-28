@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Was driving and I saw a bright white light hovoring above some trees.  It flashed real bright and vanished in the flash.  There is an airport nearby, but it was too small for a plane.  Besides, planes don't hovor above trees, flash real bright, and then vanish.  That was the second occasion, and third UFO, I saw UFOs above the trees there.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43869.html](http://www.nuforc.org/webreports/reports/043/S43869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jericho (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Rectangular object with rounded edges with gray outline around it and three lights which turned on and off from right to left in VT.I saw something with pulsating lights far off in space at a distance and it seemed to be gradually moving left from its position, I asked my brother to take a look and he told me it was a planet or star and that it was not moving I kept watching it and gradually even he noticed it had left its position and was much farther left, I went and got binoculars and looked and rested my arms on a table to get a more clear / stationary view as my arms were shakey and saw it was a rectangular shaped object with red, turqoisish, and light blue colored lights in the middle and as my brother described it "...weird because the lights are perfectly and evenly spaced out." The lights seemed to go on off on off on off quickly from right to left and repeated doing this, it became stationary after me and my brother noticed its position had changed as it had moved. I could see an outline of grayish color around its black colored form, I don't know if this was a haze / aura thing or just where it could be seen apart from the background of space. There were only two actual planets which could be seen that night which were clearly planets and were far to the right, the exact opposite direction of this object (I was pointed out this by my stepfather). My stepfather went and got his telescope on my brother's request and one of his hobbies is astrology and even he didn't know what it was. We all looked at it, me with my binoculars and a few times with the telescope, my brother and stepfather mostly the telescope. My stepfather suggested it might be debris in space relfecting light or something but also said he really didn't know but my brother and me sort of thought it was something manufactured as my brother said once or twice it was "...weird because the lights are perfectly and evenly spaced out." That and it had changed it's position. I have seen similar objects in the night sky in the same position times before but no one has listened to me or bothered to look with me until last night. The object we saw the night I described was a rectangular black object with round edges and a light gray outline with three evenly spaced lights in the middle which turned on and off from right to left continuously and the object was some distance off in space as to see the details better a pair of binoculars and a telescope were needed. I drew an image that closely resembles what we saw in windows paint.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50340.html](http://www.nuforc.org/webreports/reports/050/S50340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
