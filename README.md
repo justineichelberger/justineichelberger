@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Kalispell (MT) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Four teenagers on hill see immense, very bright ball of greenish-white light streak vert. down, hit ground 20 miles (?) to SW. Silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01443.html](http://www.nuforc.org/webreports/reports/001/S01443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silent Triangle UFO over riverside county CA. 5 circle shaped lights along the bottom of each 'wing' leading to a pointIt was a triangle shaped, low lit, completely silent, flying craft .  IMAGINE THE MATH SYMBOL FOR GREATER THAN/LESS THAN > About 5 circle shaped lights on each side as it came to a point, lowly lit - almost like a fuzzy glow, not a typical 'shine' from a light...after 5-7 seconds it was out of view... Time 8:40pm aprx. I live in Riverside, Ca, right near March Air force base. THIS WAS NOT AN AIRPLANE. THIS WAS NOT A HALLUCINATION. THIS IS NOT A JOKE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88715.html](http://www.nuforc.org/webreports/reports/088/S88715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
