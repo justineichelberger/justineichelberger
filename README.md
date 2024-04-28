@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:18 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:51 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Faisalabad (Pakistan) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>It was lilke a moving red star with sound in the south.It was a red colored star which appeared in the south and rose up in the sky with very slight increase in its body.  It gave a sound too.  It was a moving red star with sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109005.html](http://www.nuforc.org/webreports/reports/109/S109005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>VERY  LARGE FORMATION OF 10 OR MORE  ORANGE LIGHTS FAR WEST OF SILVERTON OREGONFROM SILVERTON WEST>       WALKING DOG IN YARD, WIFE YELLED TO COME SEE, VERY LARGE FORMATION OF  ORANGE BLINKING LIGHTS WAY OVER SALEM MOST LIKLEY EVEN FARTHER, IT WAS HUGE MOVING FORMATION BOOT LIKE IN SHAPE HEADING WEST AWAY FROM US SLOWLY FADING OUT, WE SEE ALOT OF  NATIONAL GUARD REFUELING GOING ON WITH HELICOPTERS AND TANKERS BUT WAY TOO MANY LIGHTS TO BE THAT AND  FAR AWAY MAYBE  IN THE COAST RANGE IT WAS A HUGE MOVING PATTERN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88722.html](http://www.nuforc.org/webreports/reports/088/S88722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
