@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:53 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:49 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Millington (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright singular light hovering, disappearing, then reappearing in minutesI was outside in my car and my daughter came outside to bring me something when we looked directly to the sky and noticed a bright light that I thought initially was an airplane.  It was going in and out.  You could see the bright light then it would start to dim and then it disappeared.  I watched it a few times and I thought it may have been clouds covering and then it emerging from those clouds causing it to seem to dim and then increase in brightness.  No.  It NEVER moved.  It was in the same spot.  Other planes around it moved but this one just stayed in the same position. It wasn't covered by clouds either.  So it actually WAS dimming and then getting brighter, disappearing and reappearing minutes later in the same position.  This wasn't an airplane.  It wasn't a drone or satellite because they move.  It wasn't a star because they don't do that at least not that noticeably or as quickly as it was happening.  I had my husband and my son come see the light.  I actually had a neighbor who was walking by at the time and she stopped and watched with her mouth open too.  Two other neighbors were outside on the balcony also looking at the object once they noticed that we were filming it.  I got a video.. a few.  Anyone who can tell me what this is or if they've had the same experience please let me know.  This was the most amazing thing I have ever witnessed.. but sadly it's the first time and possibly the only time I will get to.  I am pretty pessimistic about aliens or UFO existence but THIS NEEDS TO BE INVESTIGATED!!  It was.. so incredibly strange.  I can't explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155965.html](http://www.nuforc.org/webreports/reports/155/S155965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mountain Home (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Small light darting across sky NW of the moon.Went outside for a smoke break. Looking at the moon and noticed a small light moving quickly going NW.  The light curved north and changed directions going west when it started becoming smaller or higher into the sky.  From there the light started fading until we couldn't see it any longer.  The light made no sound as it traveled across the sky and it wasn't an Air Force jet because they are never silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118692.html](http://www.nuforc.org/webreports/reports/118/S118692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
