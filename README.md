@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ipswich (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Last night I had a similar event that I had on On the 04/04/2017.The weather was raining and I sleep with a small bedroom window open.I heard a dull humming sound coming from outside and got out of bed to look out of the window.Seeing some lights coming from behind the trees I got dressed and went to get my son's friend who is staying with us to come with me to Investigate.The time was about 11.30pm.We both went outside and started to walk towards the field.We both saw dull Lights coming from behind trees and after my last experience I knew what it was.We both took our phones with us but they did not work.There was a ship about 50 to 60 feet across and the hight was about 25 to 30 feet and as last time, it did not seem to be touching the ground.Somehow I found myself inside the craft. I have no recollection how I got there, my friend Joe was not with me.The inside was very dimly lit and had a very strange smell of almonds that I recognised from last time and again I saw small figures moving around in the shodows, I couldn't hear voices but had the opinion that they were having a conversation with each other.I was held on top of a floating table that was monovering around the room I had no comprehension of the time but I was in the ship for around two hours.I found myself in the field where I found Joe who said that he could not move until I reappeared he had a memory of me being taken up and into the ship but was unable to to move.I have no knowledge of anything happening to me but my neck is very sore.I don't recall seeing or feeling anything being done to me. But I did feel very light The whole thing was very traumatic and I am certain what we saw and experienced.This time I have a witness and that makes me feel a lot better.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139668.html](http://www.nuforc.org/webreports/reports/139/S139668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aldergrove (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We were driving down the road when all of a sudden a bright blue light appeared below the cloud and started to move very fast across the sky, went about 500ft then vanishedOn april 28th, at a approximately 10:00pm, we were driving down 264th and 16th ave in aldergrove when all of a sudden out of nowhere a bright blue light which was followed  by a tail behind it came flying through the sky  It was not a comet or a shooting star because it was below the clouds it then started to move very fast across the sky went about 500ft then vanished.((NUFORC Note:  We spoke to the three young people who were witness to this event, and we found them to be sincere and credible.  Their sighting followed shortly after a dramatic event that had just occurred over the Puget Sound (Seattle) area, in which the witnesses described a distinctly round, or disc-shaped object streaking across the sky, from south to north.  Please see those reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12741.html](http://www.nuforc.org/webreports/reports/012/S12741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
