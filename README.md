@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:48 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:18 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kinston (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ? - ? minutes.</sub><blockquote><sub>very fast over the treesit was about 7:00 pm and i took a picture of the sky and put it on the computer and zoomed in on it it looked like it had a red rim shape unknown 1 object moveing very fast 2 people saw it i didnt know i took it. till i zoomed in on it. it left a trail((NUFORC Note:  The witness forwarded a copy of the photo, and we believe that the tiny object in the photo probably was a bird, caught in mid-flight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75220.html](http://www.nuforc.org/webreports/reports/075/S75220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Faisalabad (Pakistan) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>It was lilke a moving red star with sound in the south.It was a red colored star which appeared in the south and rose up in the sky with very slight increase in its body.  It gave a sound too.  It was a moving red star with sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109005.html](http://www.nuforc.org/webreports/reports/109/S109005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
