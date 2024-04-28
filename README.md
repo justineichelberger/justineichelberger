@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:10 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:01 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hopkinsville (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball in southern sky at night.   Apearred suddenly, glowed for approximately 3 seconds and thenburnt out.   Lokked like it was falling to earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69895.html](http://www.nuforc.org/webreports/reports/069/S69895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hammonton (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately South Jersey - South Jersey minutes.</sub><blockquote><sub>The light were in formation, nothing like i ever seen in my life.they travel very fast in single line in the sky traveling from the west to the east.. i mean it was a view and all in one line . Crazy nothing  like i ever seen . No trails no flashing light like our aircraft have i counted 25 and its unbelievable all in straight line symmetrical i never seen anything like this ever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155946.html](http://www.nuforc.org/webreports/reports/155/S155946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
