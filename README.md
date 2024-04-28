@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:10 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Texarkana (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Red, bluish, amber lights, false stars.This started last summer,I contacted Mufon,they are some sort of object with red,bluish green,and amber lights going around on these things,tonight May 8th I counted seven,sitting on my back porch I can see these things, using my binoculars I can see the lights well.  There are also swirling lights with a pinkish purplish hue, it seems as if the sky is a veil and they are underneath it!  This is perplexing!I also contacted Mr. Walter Sheets,((NUFORC Note:  Mr. Walter Sheets is the former (??) State Director, and experienced investigator, for the Mutual UFO Network in the State of Georgia.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109072.html](http://www.nuforc.org/webreports/reports/109/S109072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hopkinsville (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball in southern sky at night.   Apearred suddenly, glowed for approximately 3 seconds and thenburnt out.   Lokked like it was falling to earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69895.html](http://www.nuforc.org/webreports/reports/069/S69895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
