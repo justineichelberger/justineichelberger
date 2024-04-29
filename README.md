@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw lite in sky at midnite on 29 april</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50426.html](http://www.nuforc.org/webreports/reports/050/S50426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White light, moving slowly that suddenly expands like a brilliant firework circle, then retracts and separates forming two white lightsA slow moving, non-blinking, white light caught my attention in the sky.  Moving North and in the NE sky about 25 degrees up.  I see planes at night all the time in the same area, in fact there were 2 planes much further south in the sky at the same time.After watching it slowly move North on a flat plane for about 45 seconds, the light started getting brighter and then suddenly a brilliant white flash expanded from the light that looked almost identical to a perfect fireworks circle.  The expansion was fast and stayed full circle for at least 5 seconds then slowly retracted to the original light.Then a separation occured, and the one light became two.  The second, slightly less bright was also moving in the same direction, but ever so slowly falling further behind (but staying on a flat plane).  After I could see no longer (behind trees) I quickly ran inside and checked the internet to see if the shuttle, or some other rocket had launched from Cape Canaveral.  Can't find any info about any launchings.((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43706.html](http://www.nuforc.org/webreports/reports/043/S43706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
