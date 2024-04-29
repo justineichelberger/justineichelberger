@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:55 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:47 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Three Cigarettes floating over BrooklynI was once a sceptic but on a clear blue saturday evening of April 29 my Brother Call me to look at a woodpecker which is rare In Brooklyn than 5 minutes later He Call me to look out the Window.What I saw was two White Flouresant Cigar Shape Tubes Not Flying But Floating Side by Side.From a Distants they where the size Lenght of three Jumbo Jets with a greyish center like an Hour glass.it didnt flicker with the sun rays,their was no becking lights,and by flight guide to objects are not suppose to fly side by side unless it milatary formation.Before I left to fetch my camcorder their was a third white tube trailing it.A week later a told a Coworker what I had Witness and he told me on the very same Day In BayRidge Brooklyn Park He saw the Same Thing.By the time I got to video it was on the way out to long Island.In the End I wonder with all the concerns for the borders who's Watching the Skies?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50600.html](http://www.nuforc.org/webreports/reports/050/S50600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in College Place (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two orange objects seen in eastern washington skyAt approximately 0:30, I was headed north bound going home when I saw two orange objects in the sky. I didn't think anything of it until I arrived at my house and started walking to my door. I quickly notified my roomate to come outside and see what I saw. He came outside with me and witnessed these two objects hovering in the north sky. After about 30 seconds of staring at these objects one disappeared from the sky. As we watched the other object in the sky, we saw what looked like bright flashes underneath the object. It appeared as if it was being shot at by something because of the loud explotion noise we heard. After about 30 seconds, the object slowly faded away as if it had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50338.html](http://www.nuforc.org/webreports/reports/050/S50338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
