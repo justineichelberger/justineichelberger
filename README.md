@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Helsinki (Finland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>8 yellow lights moving in formation south of helsinki over the sea from east to westwitnessed 8 flying lights - constant yellow light on - in direction from east to west south of Helsinki (capital of finland), over the sea. steady flying pace/floating pace and sticking in formation of 5 in the front formation shaped x-like and 3 in the rear formation migratory bird-like spear formation. some distance between formations.Disappeared from view when the rooftops blocked them out of sight.Managed to get still pictures of both in same picture as well as separately.Sky is fairly clear, stars can be seen, light pollution of the city. sea buoys clearly seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88725.html](http://www.nuforc.org/webreports/reports/088/S88725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Playa Del Carmen (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Lighted UFO  following shores of Play Car towards Cancun and making tight circleThis object appeared as light following approximately 1 mile off the Playa Car coast heading north towards Cancun. The object glowed appeared as a blueish white glow with tints of green and red flickering (almost like a reflection) in the glow. The craft appeared to move with the coast line, then made a tight circle and came out on a tangent from the start of the circles with a slight acceleration. When the craft accelerated, the resorts lights around the massive pool area and surrounding bulidings dimmed for approximatley 30 seconds. The weather was clear skis with an occasional cloud. There was no sound and this was 30 minutes prior to midnight. The path of the craft was also not part of the Cancun international airports flight path. Also, the tight cirecle that was made could not have been done by any aircraft that I know except a helicopter or small ultralight which would have made noise considering the night was still with a slight breeze coming in from teh ocean, meaning any sound from the craft would have been audible. Also, the craft had the same appearnce of light from as it approached and flew away. Something not very typical of aircraft that use a variance of light to signal which way you are looking at the craft. Also, these lights were not flashing but more changing and "fluxing" with frequency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43753.html](http://www.nuforc.org/webreports/reports/043/S43753.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
