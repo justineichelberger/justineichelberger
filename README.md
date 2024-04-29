@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Port Saint Lucie (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Several lights in a straight line and then disappearing above the stars.My spouse and I were walking our dog (heading North).  We both happen to look up and see 5 stars appearing to be in a straight line.  But, upon looking closer, 3 were heading straight upward.  The 2 remaining lights were stars and stayed in one place. There was some distance between each one.  As they went up, much higher than any plane/jet, each one disappeared in the exact same location as the one in front of it.  There were no clouds in that direction.  We know that because the 2 remaining stars continued to remain bright and in one place.  NOTE:  Absolutely no sounds.  But, perhaps they were too high to be heard???  I'm certain that I saw 3 possibly 4.  My spouse is absolutely certain that there were 4.  They were too close to be satellites.  Also, they were heading upward which makes it highly unlikely that they were meteors.  It was the most unusual thing I've ever seen in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155997.html](http://www.nuforc.org/webreports/reports/155/S155997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately hours - hours minutes.</sub><blockquote><sub>colorfull ,blinking objectit is dark out very clear lots of stars but their were two objects in the air far apart blinking red,blue,white,and sometimes green . not moving but two nights ago saw same thing but only one same lights and moved further and further away from town took 3 hours to not be seen any more . tonights object looked sauser like and tilted but was closer than the other nights sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17462.html](http://www.nuforc.org/webreports/reports/017/S17462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
