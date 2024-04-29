@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:57 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Palmetto (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>the lights formed a plane and a haze appear after the lights changed from white to yellowish orangeat first it looked like a single star...then there were three points of light...two of which then appeared to be moving together as if the lights at the tip of each wing of an aircraft..banking very sharply nearly 45 degrees or more...the two light grew farther apart..and then as if engines fired they turned yellowish orange and appeared to be moving away from my location...northeast moving and growing fainter as the lights grew faint....  oh...when the white lights turned yellowish orange...a puff of smoke appear hazy around both lights and lingered for several minutes..((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43701.html](http://www.nuforc.org/webreports/reports/043/S43701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cone shaped object with fire heading East over Savannah, Georgia and Tybee Island, GeorgiaA cone shaped object was seen over Savannah Georgia, in the area of Armstrong College head east.  It was seen again over Tybee Island still heading east.  It was extremely high in the sky, but the cone shape was clearly visible!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81053.html](http://www.nuforc.org/webreports/reports/081/S81053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
