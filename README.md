@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A large bright round object moving at supersonic speed is sighted in the Sunnyvale, CA, skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97478.html](http://www.nuforc.org/webreports/reports/097/S97478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chugwater (WY) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>The family was on a bike ride we noticed a black object that was not moving.  Hovering over a mountain outside between Chugwater, WY, and Wheatland, WY.  To the west of I25.The object was hexagonal, hovered at a 45*angle with a black mist type looking trail (that never fell, never got bigger or smaller) that extended out about 1 and 1/2 times the length of the body of the object.It was stationary against a calm blue sky with minimal clouds. Sunset.  We watched it approx. 7 mins.  We saw it through binoculars, and with the naked eye.  I looked away to help a child, and looked back it was gone.  No sound  No lights  Nothing.  Like it vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118758.html](http://www.nuforc.org/webreports/reports/118/S118758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
