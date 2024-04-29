@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately hours - hours minutes.</sub><blockquote><sub>colorfull ,blinking objectit is dark out very clear lots of stars but their were two objects in the air far apart blinking red,blue,white,and sometimes green . not moving but two nights ago saw same thing but only one same lights and moved further and further away from town took 3 hours to not be seen any more . tonights object looked sauser like and tilted but was closer than the other nights sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17462.html](http://www.nuforc.org/webreports/reports/017/S17462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Boonsboro (MD) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Square lights above South Mountain in Boonsboro, MD at 21:45.This was located in the same spot as another UFO (as far as I know) the same day.  It looked like four dots in a squared postion close together.  They were very bright.  I do know of a military base in the area of the sighting.  I can't provide too much info because is went away shortly after I saw it.  It was "fire colored."  By that I mean it was orange and flickering yellow and red.  It was directly above South Mountain.  The sky was dark and very slightly coudy.  The moon was shining bright.  It creeped me out as much as my rottweiler.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56451.html](http://www.nuforc.org/webreports/reports/056/S56451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
