@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Charleston (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single craft tremendously high moving north north east explodes continuing in the same directions as two crafts.Single craft (point of light) moving north, northeast - very high - as it moved it appeared that light bent around it in either direction - easily 100 times the length of the craft itself. There was what appeared to be some sort of explosion (no sound only a circle of light) followed by two crafts (points of light) moving in the same direction. One moving faster than the other. After the explosion the bent light was no longer and the two points of light progressed with no visible means of propulsion and leaving no trail.((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43733.html](http://www.nuforc.org/webreports/reports/043/S43733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Moorehead (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two lights to become three, a rescue mission?We first saw two red lights moving from northwest to southeast at varying speeds.  The lights seemed to be racing eachother, but in a hurry to get to a destination.  We watched them move quickly then pause then quickly again and then they disappeared.  Approximately 5 minutes later, we saw three lights holding formation of a triangle, but clearly they were three seperate lights moving with the same speed and manuverability as the two we saw beforehand.  We aren't sure that there were only three, but they seemed to be the same so we assume there was one light (vessel) the other two needed to get...PURELY SPECULATION... but that is what we saw...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17463.html](http://www.nuforc.org/webreports/reports/017/S17463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
