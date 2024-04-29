@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 28 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  66</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156427.html](http://www.nuforc.org/webreports/reports/156/S156427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Round Yellow Lights in the P.M. sky, south of Phoenix.Tuesday April 29th, 2014.West of I-10 between Chandler Arizona and Casa Grande Arizona approx 9:45pm.Looking West towards Maricopa about 10 miles south of Chandler 2 yellow lights first appeared to be hovering over a lit up sports complex out in the desert.  Not sure it IS  a sports complex out there, but the lights on the ground are similar to one.  As we drove south on I-10 and got more directly east of that complex we saw the lights start to move further apart and head in a south direction.  At first there were 2 lights, but as they moved south 2  more appeared and trailed behind those.  They were somewhat larger lights than you would see on a plane moving across the sky.The height seemed to be about double or triple the height of the sports complex lighting. As they moved south the first 2 lights rose higher with the last 2 remaining closer to the ground. It appeared to be a line of 4 lights at varying heights.  One of the lower lights dimmed out along the way.  We drove along watching those till they were obscured by the hills approaching the rest area by Casa Grande.  The ride from where those sports complex lights are to the rest area is approx 20 – 25 min.  We observed them the whole way down.   A couple times the lights would dim somewhat and then disappear completely. There was always at least one visible.   2 lights reappeared as we passed the hills (don’t know if they went out or which ones they were) and we followed those 2 lights- which dimmed again, one went out, one came back on, for a period of another 10 min., or so, as we drove west, up to Kortsen Rd, 8 miles west into Casa Grande.We could  no longer tell if they were the same lights or 2 new ones as they would dim out, and then re-emerge further down the road.  All the time being the exact same yellow light and same size as previously observed. We then headed back north on Kortsen Rd. for about 2 or 3 miles to the big plant that’s out there.  We are now about 30-35 miles south of Chandler.  We sat and watched the 2 lights till they faded out, about 20 minutes.  At this point they no longer seemed to be moving, just sitting pretty high in the sky, well above where we had first seen them hovering over those sports complex lights, pretty low in the sky.  Before fading out we saw what appeared to be a smaller craft, which looked more like a plane with the regular small white and red lights circling these 2 yellow lights.  As it circled, it headed west, then south, and as it came around heading east again and appearing to be almost in line with these 2 yellow lights, the yellow lights went out.  The lights that seemed to be a small plane craft stayed out there moving slowly.  We left after a few minutes and kept looking back to see if they reappeared but they did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109063.html](http://www.nuforc.org/webreports/reports/109/S109063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
