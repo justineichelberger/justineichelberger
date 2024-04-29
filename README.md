@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:44 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately :10 - :10 minutes.</sub><blockquote><sub>April 29, 2006: 3 black trangles observed flying slowly east over Vancouver, WA. Time 13:55-14:05.Overview:  Shortly after finishing an outdoor lunch with my wife and son, my son noticed something in the sky and asked me what they were.  I looked up to the sky in the direction he was pointing.  What I saw were three triangle shaped black objects moving very slowly across the sky in a easterly direction. I called out to my wife, who had taken a few dishes into the house, to hurry outside and take a look at these things.  My wife came outside, looked up to where my son and I were looking and also observed the three flying objects.  My son ran into the house and brought out our digital camera but said that he could not find the objects in the view-finder of the camera. I then ran into the house to get our binoculars but could not find them so I returned outside, and together we observed the black triangles drift across the the sky untill they entered the clouds. Facts:   We observed the objects for about ten minutes from 13:55 to 14:05 local time (PDT).  The objects were triangle in shape, and black in color with no lights observed.  They were moving in a kind of formation (two close together and the other one by itself).  We did not hear any sound coming from the at all.  Sky cover was completly overcast with a cumulo-stratus cloud layer at about 3000 to 3500 feet above ground level.  The objects were clearly visible against the clouded background. I am 100% sure that these objects were not airplanes (unless top secret), they were not helicopters, ballons, kites, birds, or blimps.((NUFORC Note:  Witness elects to remain totally anonymous, although we believe we know who the source is.  We have reason to believe that he has considerable experience in the aviation industry.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50352.html](http://www.nuforc.org/webreports/reports/050/S50352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lauderhill (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 bright lights slow moving.Driving west on commercial Blvd near the turnpike saw 3 bright lights appear to be hovering or moving very slow.  As I approached I used wires and tree like to indicate the movement as I was stopped.  Proceeding forward the appeared overhead a couple thousand feet.  Looking up they appears almost lie helicopters in a very tight formation.  But I could tell that they moved together perfectly so helicopters are not like that.The was a lead light and one on each side but very close to each other moving very slow east.The lights didn't flash or blink at all</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127127.html](http://www.nuforc.org/webreports/reports/127/S127127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
