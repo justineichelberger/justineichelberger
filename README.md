@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Covington (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 spheres about a foot apart colliding together and back apart.There were 2 flying spheres flying above my apartment building.  The objects were closer than a plane would be.  The 2 spheres flew about a foot apart and would collide together and back out.  As it flew over the lights flickered.  I watched it until It flew too far into the distance.  Soon after a plane flew by and it looked nothing like the object seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155919.html](http://www.nuforc.org/webreports/reports/155/S155919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ewa Beach (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White light, with orange trails on each side.I took my dog out to pee.  As I looked South, I glanced up to see a bright white light with orange trails on each side fly straight down, eventually behind a cloud.  Light was moving at an incredible rate of speed.  No sounds could be heard, no flash or faint sound of impact. USMC veteran from Air Wing, this was no aircraft.  I have seen shooting stars this was not like that either.  Maybe a meteorite but unusual to have a trail on both sides and no sound of impact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155921.html](http://www.nuforc.org/webreports/reports/155/S155921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
