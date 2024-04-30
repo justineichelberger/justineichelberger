@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Iowa City (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 00:07 - 00:07 minutes.</sub><blockquote><sub>Glowing figure dividing until 7 were there, at 3 amI was sitting on my back porch with a few friends.  It was a nice night around 3 o'clock when one of my friends pointed out a bright moving object. At first we thought it was an airplane when all of a sudden it divided in to two. This kept on happening until it reached seven. Then they all sped upwards and out of sight. I think this may have something to do with the devil, for there were seven of them at 3:00, satan's hour. Thank you for your effort.((NUFORC Note:  Date of alleged incident may be approximate, although the witness does not indicate that fact.  We are uncertain as to whether this is intended to be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47316.html](http://www.nuforc.org/webreports/reports/047/S47316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver orb seen in over central park.I was walking around central park, looking for a place to sit where there weren't too many people. I'm sorry I can't be more sure of the exact time, but I was working on a screenplay all day and was a little but pre-occupied with my own thoughts. At any rate, ust off the 80's of the west side of central park there is a large field with three baselball diamonds. I rested for a while looking at the game, when as I stood, I caught a glimpse of what I thought was a child's balloon (the silver kind) floating away, above the trees. It was clearly evident. However, it seemed to change shape, and flatten slightly, then round back out again. And it was pulled in a consistently western direction. This didn't seem to me like the normal behavior of a floating balloon. As I recall, they usually wobble from side to side as the tie at the bottom swings the weight around. There was nothing like this that I witnessed. It seemed to be moving deliberately. to see it clearly for more than about a minute and a half necessitsated walking over the baseballe diamond, which I neglected to do, as there was a game playing. Or, more accurately, a man was hitting balls for practice and others were catching it. So I only saw it briefly. The object was silver, I could not judge the distance accurately, and so cannot judge the size accurately. It seemed like a blimp, at times, which it may have been. but it appeared to flatten and behave more like a balloon. I could not identify it, hence I'm entering this report. It changed shape as it moved, or at least it seemed to. There was a lot of light in the sky, it was overcast but not directly sunny, with a white, bright sky. It read as silver to my eyes, not emmenating light. It must have been either a blimp, far away, but moving very quickly to cover the distance it did in the sky, or a balloon, moving very slowly, but deliberately. Or something else, I suppose. If anyone else saw this, I would like them to tell me what they observed, just for my own curiousity. Thanks! - J</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36641.html](http://www.nuforc.org/webreports/reports/036/S36641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
