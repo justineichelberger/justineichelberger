@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ball of white light zooming in L shapes then disappearing againMy dad and I went outside and saw a strange white ball of light,  it kept disappearing and reappearing.  Then it kind of zoomed into an L shape.  It kept disappearing and then appearing in an L shape again, before it finally just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133895.html](http://www.nuforc.org/webreports/reports/133/S133895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Jamison (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>In the spring of 1953 my mother & I saw an IMMENSE silent grey metallic cigar shaped object moving from Doylestown toward Jamison.Hi Peter, Hope you are having a wonderful Thanksgiving! This is a story my mother has repeated to me throughout my life. She is now 79 years old & I asked her yesterday to tell me once again so I could report it accurately now that I have discovered your site. In 1953 we lived in the countryside between Doylestown & Jamison, Pennsylvania. I was 3 years old & my mother was about 8 months pregnant with my sister, so it was either very late April or very early May. It was a warm spring afternoon & before my Dad came home from work we walked up a path in the woods to the top of the hill into a field where we had pretty much a 360 degree view. My mother recalls that as she was looking off toward the hill to the North between us & Doylestown she saw what at first appeared to be a blimp moving rather slowly through the sky. It turned & moved toward us & as it came overhead she realized it was IMMENSE, HUGE, it covered the sky, & created such a shadow that the breeze ceased in the trees & even the birds fell silent. She said it was 1000 feet above us, the size of three football fields from our perspective & that this was no blimp! The object was a dull silver-grey, had no seams, no lights, no windows, no propellor, no cabin underneath & it moved in absolute silence. She said she was terrified because of it's size. Apparently she told me to run home with the cocker spaniel & she tried to run also, but being very pregnant could not move very quickly. She has always thought they did not harm her because she was pregnant. My father did not believe her when he got home.Sometimes I think I should be hypnotized to discover how I remember this event. I read on your site that something similar was seen in Galveston, Texas in 6/1953.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26268.html](http://www.nuforc.org/webreports/reports/026/S26268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
