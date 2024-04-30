@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:29 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 00:15 - 00:15 minutes.</sub><blockquote><sub>Hovering bright lightSaw a bright light hovering approx.1500 ft up and moving in and out.i took a pic wiimmpic with my cell phone and it disappeared quickly. Seen it last 3 nights around same time.it left quickly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156077.html](http://www.nuforc.org/webreports/reports/156/S156077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Dana (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Triangular shaped object with 3 lights.On the evening of 043006 at around 11:30 PM I was setting in my back yard in my hot tub with my girl friend watching the stars. We do this a lot as we love to look at the stars. On this evening the sky was very cloudy and the cloud cover was low. I was somewhat windy as well. I noticed in the eastern sky three lights that look as though they were in a triangular pattern. The colors of the lights were, red, green and yellow. What caught my eye was that as this shape moved through the cloud you could see the cloud being displaced and the cloud sort of shimmering over the haul of the object. The angle from my position to the objects was approximately 60 degree's. The object looked to approximately 250 to 300" feet above the surface. I observed that the object was moving slow and banked up and right. There was no sound. It seemed to me that as this object entered the cloud it became somehow visible, I must say that I know this all sounds fantastic, but this is how it seemed. The object was very large for any air craft I have seen. I would say possibly 100 yards across and 45" thick. That is a guess. It moved very gracefully, almost like a fish would move in the water. After it passed through the cloud it was no longer visible. My girlfriend unfortunately did not see it, but supports my sighting. When it was visible in the cloud you could see the cloud shimmering over the haul. I know this sounds crazy, but I swear I seen this. I would like to discuss this with someone who might know what this object was. I am not after publicity or notoriety. I have always been skeptical of these sort of sightings until now. I will say now this was the most awesome sight I have ever seen in my life. I hope to hear from you on this. Thank-you Sincerely,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50397.html](http://www.nuforc.org/webreports/reports/050/S50397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
