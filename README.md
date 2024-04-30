@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I was in a hotel room on the 22nd floor in Panama City Beach Florida.  I was looking off the balcony west to east towards Tyndall AFB when I spotted what I thought was the reflection of something in the air.  I estimated it to be approximately 15 miles away and approximately 20,000 feet AGL.  I realized the object I was seeing was not moving. I have 22 years in the us air force, and have over 2000 hours flying on helicopters, so I initially thought I was seeing something hoovering, and possibly something from the nearby Tyndall AFB.  I began taking photos of it and a short video.  The pictures are a sequential series of about 100 photos and show the object to have a lot of movement but it is not going anywhere.  I used a zoom lens on a new a6000 sony and did not check the photos at the time.  Later when I downloaded them to my laptop I realized I had captured some very extraordinary pictures of something I had never seen before.  Over the course of the two hours I t! ook photos the object appears to be an advanced aircraft with straight lines and horizontal stabilizers, to a rocket shaped object traveling at a very high speed, what appears to be concentric rings of a contrail, and finally what appears to be a huge luminescent stingray or butterfly with straight line edged wings on both sides.In another series of photos it is obvious the object has made itself to appear invisible by reflecting the surrounding blue sky. I have not posted any of these photos yet.I know this all sounds crazy, but I have actual photos of everything I have mentioned. I have uploaded the video to youtube and can be seen there.  The single video is broken into four parts so it can be seen at normal speed and then slowed down and looked at frame by frame. One of the four parts can be found on youtube under the title of:  TR-3B anti-gravity spacecraft or UFO Panama City Beach Florida 30 April 2019 video 300 percent zoom</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147831.html](http://www.nuforc.org/webreports/reports/147/S147831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was taking the trash out and turned around towards my house and saw 20+ bright lights cross the sky to the West below the moon.  Most were in a straight line one behind the other.  However several were beside one another.  They were moving very fast and once they were to my left they were suddenly gone.  I could tell they were not planes of any sort because they didn't flash and were too close together.  I tried to take a video with my cell phone but onlt got a picture of on of the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156027.html](http://www.nuforc.org/webreports/reports/156/S156027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
