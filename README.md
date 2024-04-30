@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:48 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wilson (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 dark cigar shaped objects in night skyWe were driving home from the store when we saw them.  There were 2 that we could see.  There were no lights, just dark shapes.  We have an almost full moon right now and you could see their profile near the moon.  We slowed down and watched them all the way down the road.  They didn't seem to be moving.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56473.html](http://www.nuforc.org/webreports/reports/056/S56473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>There was circular lights flying in a straight line crossing the moon and were also above planes they went from Northwest to Southeast</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156036.html](http://www.nuforc.org/webreports/reports/156/S156036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
