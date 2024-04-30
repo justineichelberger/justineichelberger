@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:03 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saegertown (PA) reported seeing craft that fit the description of some '' over a period of approximately 0.18333333333333332 - 0.18333333333333332 minutes.</sub><blockquote><sub>Bright blue light shoots across Pennsylvania sky causing power outages and stopping car enginesI was walking home with my friend when a bright blue object shot across the sky emitting an aura of a similar color.  The object was heading south moving faster than any aircraft I've ever seen and it appeared to be fairly close to the ground.  It was only in the sky for a few a seconds and in those few seconds all the lights in the neighborhood went off.  The object itself didn't make any noise but it caused the surroundings in the area to vibrate making a thumping sound.  A car traveling south on U.S Route 19 also had its headlights turn off during the incident.  After the bright blue object flew out of sight power was restored to the neighborhood and the car's engine started.  The event occurred so quickly that I didn't even have time to record it with my phone's camera; it couldn't have lasted longer than ten seconds.  I was so terrified by what I saw that I sprinted home as fast as I possibly could.   When I arrived at my house, all my clocks we're blinking and I knew the power went out there too.  I asked some of my acquaintances if they experienced any strange phenomena last night and they told me several stories of power outages and tremors.  I have reasons to believe that what I saw was not terrestrial.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81070.html](http://www.nuforc.org/webreports/reports/081/S81070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object Hovering Near Jet-Trails 4/30/04, Portland, Or.Around 6:30pm, while it was still very much light outside, we noticed a beige/yellow circular shape "hovering" around the trails of a jet that had flown by moments earlier.  It did not seem to be moving.  We kept our eye on it for several minutes, and it remained still.  We were making trips in and out of the apartment building, and we kept checking on it, trying to frame it at the same spot between a tree and a balcony in order to judge if it was moving.  Unfortunately, we did not see it take off.  We made another trip, and when we came back to the parking lot, it was gone.This event probably lasted 10 - 15 minutes. Another airplane passed above the object during this time. "6:30pm" is an estimate.  We were facing towards the east not far from Union Station. Today, I did a search on the internet to see if anyone had reported something strange.  I am not saying it was a UFO, but it was certainly weird, and I just wanted to report it just in case. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36662.html](http://www.nuforc.org/webreports/reports/036/S36662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
