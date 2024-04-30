@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 29 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pomona (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately clear - clear minutes.</sub><blockquote><sub>I notice a bright white flashing object in the clear night sky in the city of Pomona, California. At first glance before the bright white flashing I thought it was the north star then I thought a plane or helicopter but I stood still and told my friends to look up that it was not moving just flashing bright white they said its a plane, they continued to walk towards the car I kept looking at it for about 1 minute then looked down to see the time when I looked back up it was gone I looked all around in the area just to see if i could see it, it was gone. I have had other sightings in the past of other different abjects and have told friends a few times when there with me I seen things but they see nothing and tell me im seeing things  I just dismissed them as some sort of plane which I know there not but this time I had witnesses.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43731.html](http://www.nuforc.org/webreports/reports/043/S43731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saegertown (PA) reported seeing craft that fit the description of some '' over a period of approximately 0.18333333333333332 - 0.18333333333333332 minutes.</sub><blockquote><sub>Bright blue light shoots across Pennsylvania sky causing power outages and stopping car enginesI was walking home with my friend when a bright blue object shot across the sky emitting an aura of a similar color.  The object was heading south moving faster than any aircraft I've ever seen and it appeared to be fairly close to the ground.  It was only in the sky for a few a seconds and in those few seconds all the lights in the neighborhood went off.  The object itself didn't make any noise but it caused the surroundings in the area to vibrate making a thumping sound.  A car traveling south on U.S Route 19 also had its headlights turn off during the incident.  After the bright blue object flew out of sight power was restored to the neighborhood and the car's engine started.  The event occurred so quickly that I didn't even have time to record it with my phone's camera; it couldn't have lasted longer than ten seconds.  I was so terrified by what I saw that I sprinted home as fast as I possibly could.   When I arrived at my house, all my clocks we're blinking and I knew the power went out there too.  I asked some of my acquaintances if they experienced any strange phenomena last night and they told me several stories of power outages and tremors.  I have reasons to believe that what I saw was not terrestrial.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81070.html](http://www.nuforc.org/webreports/reports/081/S81070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
