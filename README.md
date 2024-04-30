@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Centrailia (KS) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>We were golfing and seen a black object going across the sky.  Then we grabbed our camera and snapped a couple photos as fast as we could.  In about two and a half minutes the strange craft the craft did a zig-zagging motion and vanished.  There was only one craft and the back ground was a blue sky with no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88989.html](http://www.nuforc.org/webreports/reports/088/S88989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Trumbull (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>very large elongated disc-shape with flashing red/green lights. hovering, made no sound, saw for 20 minutes.I was outside with my dog on 4-30-08 at 9p.m., when I turned the corner outside my house and noticed a VERY LARGE craft hovering a few hundred ft. over the high school athletic field adjacent to my house.  It was silent, it did not make any sound whatsoever.  It was a very large, elongated disc-shape, with flashing red and green lights all over it.  The body of it seemed to glow from within ever so slightly.  I watched it hover for approx. 10 mins, after which time I came into the house and called the police non-emerg. number, to ask if anyone had reported seeing such a thing.  The officer asked "do you mean over Madison school?"  I replied no, over Trumbull High and Hillcrest schools.  Evidently, someone had seen something earlier over Madison School.  The officer asked me if it looked like it was trying to land, and I said no, it was just hovering. I also called 2 family members who live in other parts of towm to see if they could see anything, none of whom did.I went back outside to continue viewing, and the object was still there, hovering and occassionally ascending and descending slightly, as well as turning slowly from side-to-side.  I went in to call a neighbor, and both of them called me back saying that they also saw it.I went back outside and continued to watch it, I watched it for about 20 minutes overall.  It then started to descend more, wavering somewhat from side-to-side as it came down.  It got to the treetop level over in the direction of the Vocational Agricultural School, and I ran back into the house to phone the police to tell them it seemed to be coming down, and when I ran back outside it was gone from sight.I phoned the police this morning, to ask if they had determined what it was, and they said that no, they did not, but they filed an official police report, based on what they saw.  Evidently, some police personnel had also seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62922.html](http://www.nuforc.org/webreports/reports/062/S62922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
