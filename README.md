@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:23 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Concord (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately current - current minutes.</sub><blockquote><sub>3 different objects seen over Ga skiesThree flashing objects, multi color, blue, red, white, green, west by southwest,approx 256 degrees, second one was northwest approx 318 degrees, and the last was seen north by northeast approx 26 degrees,  remained visible in stationary positions for more than 30 min.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We suspect that the witness may have been observing stars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88755.html](http://www.nuforc.org/webreports/reports/088/S88755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>This was many years ago but this is what I can remember.  I walked up to an open field it was a nice clear day.  In the distance near the horizon line between the clouds I witness something I cannot fully explain, nor comprehend.  I saw 4 bright lights that appeared to be large objects, judging by the distance I would sat they were the size of half my 2 bedroom house.  One appeared to be hovering and the others would shoot out from it one by one and sometimes two at a time. They shot off very quickly disappeared behind the clouds and in a minute or two they were back in the same spot.  It was intelligent but not like any intelligence I have ever witnessed or known on this Earth.  I panicked at a certain point and fled home after maybe twenty minutes?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107333.html](http://www.nuforc.org/webreports/reports/107/S107333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
