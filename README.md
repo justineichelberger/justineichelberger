@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:51 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw 3 white/orange/reddish flickering lights that stayed stationary in an exact triangle position for (the time I saw) at least an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127140.html](http://www.nuforc.org/webreports/reports/127/S127140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in La Moncada (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>disc shape object shiny and abouth 20 meters in diameter hovering over agricultural fields in la moncada, gto, mexicoon may 1st 1996 we were working on the agricultural fields of la moncada which is in the state of guanajuato in central mexico abouth 4 hrs north of mexico city when we spot a disc hovering above the next field next to the one we were working on abouth 50 meters away the disc seem to be abouth 20 meters in diameter it was hovering abouth 15 to 25 meters above the field.it was shiny like aluminium or silver i did not see any win- dows on the side but it had some on the dome when it left it stared rising slowly then very fast as it gain altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35319.html](http://www.nuforc.org/webreports/reports/035/S35319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
