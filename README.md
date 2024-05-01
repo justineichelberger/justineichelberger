@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:52 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Milton (VT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green flying lights over wooded area in Milton.Myself and three friends were having a small fire in my backyard. I looked up into the sky and saw four green, glowing lights moving south to north.  The four lights were moving very slowly when I first saw them, as I pointed them out to a friend they increased speed and vanished from sight.  The lights seemed to be part of the same craft.  Soon after seeing the light multiple owls (2 or 3) started hooting and screeching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118722.html](http://www.nuforc.org/webreports/reports/118/S118722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Wheaton (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>large saucer-shaped  object sighted in Wheaton, MD in late 1960'sI'm going by memory, so the date of 5/69 is a wild guess (though it was a warm evening so it was either spring or fall).  I was 8 or 9 years old growing up in Wheaton, MD.  I was visiting a friends house, and for some reason stepped onto his front porch, and overhead was a very large saucer-shaped craft flying silently in a direct line overhead.  I remember bright colored lights rotating around the perimeter of the craft.  I watched in awe as the object just moved silently through the sky no more than 1-2000 feet overhead.  Interestingly, I did not feel compelled to tell anyone about this event.  I don't think I mentioned it to anyone until I was in my 20's.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21521.html](http://www.nuforc.org/webreports/reports/021/S21521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
