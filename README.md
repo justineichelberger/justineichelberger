@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Cigar shaped UFO turns at 60 degree angle and disappears in to upper sky in a nano (0.001) seconds without any sound.My wife and I were driving back to Atlanta from Tampa and she saw a single round small white puffy cloud in the sky.  She made the comment that it seemed odd that it was the only cloud in the sky or at least in her field of view.  About that time she saw a cigar shaped object slowly drop out of the cloud.  She mentioned it to me and I looked and saw it also.  It just hovered there. It made a few slow off moves sideways and up and down . I pulled over on emergency lane becasue I was interested in getting a better view of what it was. we both got out of the car. We saw another couple looking at it from one of the farm houses off the interstate. Suddenly it began to move towards us slowly.  My wife freaked out and wanted us to get back in the car and take off but I wouldnt do it. I had to stay and watch and take my chances.  She stayed by me holding my arm.  Then it turned to app a 60 degree angle, took off, and disappeared in a nano section. Id never seen anything travel anywhere near that fast. Even today I dont believe there's that can come close to the speed this UFO took off with. Had I blinked I wouldve missed it. Another amazing thing about it is with all the speed and power- it never made a sound. No engine and nOt even as it cut thru the air. No sonic boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162453.html](http://www.nuforc.org/webreports/reports/162/S162453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sound Beach (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>White Light changed to orange ballOne night (not sure of date) I saw what I believed to be a helicopter coming over my neighbors house and illuminating my yard.  There was no sound so I was busy and ignored it and went inside. Two nights later I saw the light in the same place (from the south) coming over my neighbors so I went in the house and told my brother and wife to take a look.  My wife refused to come out so me and my brother watched the light get bigger.  It then in a flash it shrunk and turned orange zoomed straight up (and a little to the east) until it turned into a tiny red dot and disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106068.html](http://www.nuforc.org/webreports/reports/106/S106068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
