@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Draper (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Parade of lights high altitude, evenly spaced, no variation from the first to the last that I saw. 10I went out to sit in the hot tub at about. 5:00 am.  I finally looked up and saw this parade of lights at high altitude going from NW to SE. They were traveling far enough where I could see 3 at a time.  When the first one would fade away I looked for another.  And there was.  I don't know if I saw the beginning or not but I got up to 10 and could see no more.  Evenly spaced out, Straight line.  No variation from one to the next.  It seamed like they were spaced out 35 seconds.  But whatever it was, it was consistent from one to the next.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156310.html](http://www.nuforc.org/webreports/reports/156/S156310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coolidge (Antigua) () reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Is the military operating escape routes to the Orion System for some as yet, future event?This event has been happening on a regularly scheduled basis over the last 7 years.  On this night however, three of us were present.  Unless you're using your peripheral vision, your eyes won't "catch" the flash of light high in the night sky, just above the atmosphere is my assumption.  This night, I caught the first bright flash and fixed the position to where I could point it out.  The light flashes are random, but the flashes happened often enough and they got progressively dimmer which indicates the object was moving away from us.  From our location, these objects are going towards the star system Orion.  It wasn't until a recent visit by US Navy aircraft that I noticed the same random light flashing pattern of their flashing beacon lights.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75499.html](http://www.nuforc.org/webreports/reports/075/S75499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
