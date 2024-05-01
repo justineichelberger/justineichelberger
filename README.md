@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:12 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Maryville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Star dancing UFOMy mother and I were going to pick up my sister who was at a friend's house.  We had to take this road that was out in the country so it was very dark. (no light pollution) I was looking out the window up at the stars when I saw this cigar shaped object come from the moon. It was very bright and it traveled from the moon to a star and then stopped for a few moments. It then started again and went to another star and stopped.  At this point I was quite excited and convinced my mother to stop the car at which point she and I got out and proceeded to watch this thing. Much to our surprise, another object shot out from the moon and proceeded to do the same thing except going in the opposite direction.  We continued to watch these two objects do their star stop and go for aprox. 20 to 30 min. until they finally faded out of sight.My mother is now 82 and I'm 45 and we both still remember this incident as if it just happened.  She asks me every now and then if I remember that night and I say absolutely.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52009.html](http://www.nuforc.org/webreports/reports/052/S52009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Noble (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large rectangular space ship moving silently across the sky.The UFO was a large craft, about 50 yards long and 20 yards wide.  My wife and I had just stepped out on the porch and it was late evening.  It was a very clear sky.  We seen this craft that was black in color and rectangular.  It had flashing lights on it and was moving about 200 ft. above us. I don't know the speed, but for that large of an object, it cleared the sky above going from south to north in under a minute.  I wish I would have had a camera.  It was so large, yet was so silent.  The reason I am telling this now is because I seen where someone else described the exact same ship that I seen.  It was the sighting in Weatherford ,OK. on 8/15/2001.  This also happened close to the same time frame.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99981.html](http://www.nuforc.org/webreports/reports/099/S99981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
