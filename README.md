@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 30 April 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Goldendale (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>These crafts were in a formation, still, lights were flashing, no noise, they hovered in place 10 minutes.There were initially 5 crafts, then 2 left and 3 reamined. They had red & White lights. They hovered in place to my NE 40-45 degrees.  NO SOUND.  Stayed in place...tried getting Son by the time he came out of the shower they just slipped off into the black night.  Felt NO fear...just very curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97495.html](http://www.nuforc.org/webreports/reports/097/S97495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Concord (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately current - current minutes.</sub><blockquote><sub>3 different objects seen over Ga skiesThree flashing objects, multi color, blue, red, white, green, west by southwest,approx 256 degrees, second one was northwest approx 318 degrees, and the last was seen north by northeast approx 26 degrees,  remained visible in stationary positions for more than 30 min.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We suspect that the witness may have been observing stars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88755.html](http://www.nuforc.org/webreports/reports/088/S88755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
