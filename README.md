@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:51 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange disk-like orbs over Downtown Portlandapprox 1:00 AM Relaxing on balcony (approx 60 feet up) with 4 friends; first "vessel" seen moving South parallel to the river over downtown Portland. From our vantage point seemed to be moving over the Wells Fargo tower, altitude unknown, but relatively low. Object was very bright and there was a visible halo. The "vessel" appeared to be orb-like due to the extremely bright orange fire-colored halo, but on further observation with my trusty discovery channel telescope, there was a definite disk-like shape. The lights seemed to be at the bottom of the ship, the top of the ship was very hard to make out but was definatley a very large metal structure. A second ship of same description came into view moving at the same slow, lurking speed, almost as if they were patrolling or searching for something, a third ship comes into view a few moments later.  All three ships pass the northeast corner of the building and are no longer visible. We run down the stairs to watch them move across the rest of the sky. They have stopped moving across the city. They are in a clear triangular formation like a 90 degree triangle and are moving vertically up and out of the atmosphere until they can no longer be seen. Very Strange and awesome but spine tingling and scary as well.((NUFORC Note:  Student report.  We are uncertain whether the report is meant to be a serious report.  We received no other reports of this incident, which seems strange to us, although there were reports submitted from other locations on the west coast for the same time period, about which the witness was not aware, since they were not posted at the time we received this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43776.html](http://www.nuforc.org/webreports/reports/043/S43776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw 3 white/orange/reddish flickering lights that stayed stationary in an exact triangle position for (the time I saw) at least an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127140.html](http://www.nuforc.org/webreports/reports/127/S127140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
