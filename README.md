@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 1 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in La Moncada (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>disc shape object shiny and abouth 20 meters in diameter hovering over agricultural fields in la moncada, gto, mexicoon may 1st 1996 we were working on the agricultural fields of la moncada which is in the state of guanajuato in central mexico abouth 4 hrs north of mexico city when we spot a disc hovering above the next field next to the one we were working on abouth 50 meters away the disc seem to be abouth 20 meters in diameter it was hovering abouth 15 to 25 meters above the field.it was shiny like aluminium or silver i did not see any win- dows on the side but it had some on the dome when it left it stared rising slowly then very fast as it gain altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35319.html](http://www.nuforc.org/webreports/reports/035/S35319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Cigar shaped UFO turns at 60 degree angle and disappears in to upper sky in a nano (0.001) seconds without any sound.My wife and I were driving back to Atlanta from Tampa and she saw a single round small white puffy cloud in the sky.  She made the comment that it seemed odd that it was the only cloud in the sky or at least in her field of view.  About that time she saw a cigar shaped object slowly drop out of the cloud.  She mentioned it to me and I looked and saw it also.  It just hovered there. It made a few slow off moves sideways and up and down . I pulled over on emergency lane becasue I was interested in getting a better view of what it was. we both got out of the car. We saw another couple looking at it from one of the farm houses off the interstate. Suddenly it began to move towards us slowly.  My wife freaked out and wanted us to get back in the car and take off but I wouldnt do it. I had to stay and watch and take my chances.  She stayed by me holding my arm.  Then it turned to app a 60 degree angle, took off, and disappeared in a nano section. Id never seen anything travel anywhere near that fast. Even today I dont believe there's that can come close to the speed this UFO took off with. Had I blinked I wouldve missed it. Another amazing thing about it is with all the speed and power- it never made a sound. No engine and nOt even as it cut thru the air. No sonic boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162453.html](http://www.nuforc.org/webreports/reports/162/S162453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
