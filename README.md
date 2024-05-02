@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Green light shining down on us, followed our movement for five minutes before disappearing.My home girl and I were hanging out one night on Mt. Charleston, and all of a sudden, a light appeared above us.  But it wasn't like a typical helicopter light, it had a greenish hue to it, which is non standard police helicopter searchlights.  We both turned to each other and ran away from the light.  We heard a low whirling noise follow us for about 5 minutes and the light and noise disappeared.  We are still shaken about this and haven't told anybody what happened that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134014.html](http://www.nuforc.org/webreports/reports/134/S134014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Enfield (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>6 reddish orange lights spotted in enfield on 5/2.was driving on elm street in enfield at around 11:30 friday evening coming home.  streets were clear.  night was clear.  new asnuntuck community college saw four roundish lights in a diamond pattern come across the sky..like in a formation..seemed roundish with changing colors from reddish orange to a yellow to a blueish..bottom of diamond one came forward quickly and them moved back in formation.  as i drove slowly to our condo complex a fifth one came slowly behind it.  moved into the complex and there was a sixth coming across the complex. took some bad video of it with my camera.  zoomed into condo to tell my rents and they came out and saw the same object for several minutes..zoom back and zoom forward..then seemed to go behind a small cloud and disappeared.  have never seen anything like that in the sky before.  These were seen again around 12:30am 5/6 by my step dad.  He could not explain them and was a lt colonel in the air force.  Was similar to lights on you! tube seen in bristol ct</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109222.html](http://www.nuforc.org/webreports/reports/109/S109222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
