@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Presidio (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>BRIGHT LINE OF LIGHTS OVER THE MOUNTAINS,MY ROOMMATE AND I WERE OUT AND SAW A BIG LINE OF LIGHTS OVER THE MOUNTAINS ON THE NORTHWEST PART OF THE BORDER BETWEEN PRESIDIO, TEXAS, AND OJINAGA, CHIHUAHUA, THEY WERE BLINKING, IN A RED AND ORANGE BRIGHT COLOR, WE COULD SUPPOSE IT WAS ABOUT 3 MILES FROM TOP OF THE MOUNTAIN TO THE BOTTOM AND THEY FORMED LIKE A KITE FIGURE.WE DIDN'T KNOW WERE TO REPORT IT BUT IT WAS THERE FOR MORE THAN AN HOUR, WE WONDER IF IT'S STILL THERE.  ANYONE HAS AN IDEA ABOUT THIS?  ON THE OTHER HAND, WE HAVE HAD SEVERAL SEISMIC ACTIVITY IN THE AREA THE PAST FEW DAYS, WHEN IT NEVER HAPPENED AROUND HERE((NUFORC Note:  Possibly "twinkling" stars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81092.html](http://www.nuforc.org/webreports/reports/081/S81092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in McNary (OR) reported seeing craft that fit the description of some 'Cross' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Cross shape object with orange lights above our home.The sun had gone down but it was still a little light out.  My husband had just gone outside when he came right back inside the house and asked me to quickly come outside.  We both looked up and saw what was a cross shaped object fairly large in size with orange lights blinking.  It was moving from the West to the East.  It was not moving fast or slow.  Then it just disappeared from view.  It did not fly away, it just disappeared.  There was no sound.  Neither of us have ever seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109142.html](http://www.nuforc.org/webreports/reports/109/S109142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
