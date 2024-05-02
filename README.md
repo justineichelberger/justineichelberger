@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in McNary (OR) reported seeing craft that fit the description of some 'Cross' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Cross shape object with orange lights above our home.The sun had gone down but it was still a little light out.  My husband had just gone outside when he came right back inside the house and asked me to quickly come outside.  We both looked up and saw what was a cross shaped object fairly large in size with orange lights blinking.  It was moving from the West to the East.  It was not moving fast or slow.  Then it just disappeared from view.  It did not fly away, it just disappeared.  There was no sound.  Neither of us have ever seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109142.html](http://www.nuforc.org/webreports/reports/109/S109142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 dim white lights in a triangle formation, crossed sky east to west, then moved apart.This is from San Diego, Calif.  I was outside after 8 PM doing a skywatch with night vision googles from my backyard in southeast ,san diego.  Observed a number of what I would say are standard satellite crossings in the sky.  Some small, very faint, some bright, and seen by the naked eye.  These are very common sightings in the sky on a nightly basis.  Looked away from the goggles to speak to my wife, who was inside the house, to not let the cat out.  Upon looking throughout the goggles again, spotted a group of three dim lights, ( triangle in form) moving very quickly across my field of view, heading from the east, to the southwest.  I was looking south at the time.  It was very clearly three lights moving in a triangle formation.  At first , steady, as if it were a flat object flying level, and then the lights moved in relation to each other as if it banked to the side, and then, just before disappearing behind the small pepper tree in my yard, the lights started moving apart! from each other.  I was very disappointed that  the tree cut off any more viewing of what these objects did. I estimate the time that I saw all of this is about 5 seconds.  I have been a sky watcher for many years and have attended a number of UFO conferences to boot.  My house is directly over the flight path to Lindberg Airport and enjoy watching all the various types of aircraft that come here.  From helicopters to blimps to all the various planes and jets that move, including satellites that criss cross the night sky  and  the occasional pass of the space Station.  After all these years, I have finally seen with my own eyes, what I have only read about from other people experiences.  It was a profound ….Wow.  Time was at about 8:40 pm, tonight, May 1, 2014.  ((sic.  May 2nd))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109116.html](http://www.nuforc.org/webreports/reports/109/S109116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
