@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:55 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Longview (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright yellow disc w/ red dome in Longview, WA.Bright orange/yellow disc with bright red dome on top ascended straight up from ground to low above tree line then took off at high speed and diagonal upward direction in northeast direction.  It was highly visible yet no sound was heard.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118792.html](http://www.nuforc.org/webreports/reports/118/S118792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Presidio (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>BRIGHT LINE OF LIGHTS OVER THE MOUNTAINS,MY ROOMMATE AND I WERE OUT AND SAW A BIG LINE OF LIGHTS OVER THE MOUNTAINS ON THE NORTHWEST PART OF THE BORDER BETWEEN PRESIDIO, TEXAS, AND OJINAGA, CHIHUAHUA, THEY WERE BLINKING, IN A RED AND ORANGE BRIGHT COLOR, WE COULD SUPPOSE IT WAS ABOUT 3 MILES FROM TOP OF THE MOUNTAIN TO THE BOTTOM AND THEY FORMED LIKE A KITE FIGURE.WE DIDN'T KNOW WERE TO REPORT IT BUT IT WAS THERE FOR MORE THAN AN HOUR, WE WONDER IF IT'S STILL THERE.  ANYONE HAS AN IDEA ABOUT THIS?  ON THE OTHER HAND, WE HAVE HAD SEVERAL SEISMIC ACTIVITY IN THE AREA THE PAST FEW DAYS, WHEN IT NEVER HAPPENED AROUND HERE((NUFORC Note:  Possibly "twinkling" stars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81092.html](http://www.nuforc.org/webreports/reports/081/S81092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
