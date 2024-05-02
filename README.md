@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sale (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I witnessed 2 objects 5 minutes apart moving at a 45 degree incline then do a right angle turn into another 45 degree incline, the interesting thing about this was that there was no radius in there turn and from my experiences as a child and youth growing up on military bases and being the son of a 35 year veteran pilot I had never witnessed any aircraft able to make such a manouvre, the second object seemed to follow the exact same path as the first one but approxiamately 5 minutes apart. The color of these objects was a very bright & rich orange light, it reminded me of the color of a setting sun it was not like any color of the stars that were still in view at that time of the morning.((NUFORC Note:  Witness provides a minimum of personal or contact data.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29306.html](http://www.nuforc.org/webreports/reports/029/S29306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 40</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163431.html](http://www.nuforc.org/webreports/reports/163/S163431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
