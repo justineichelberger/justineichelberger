@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Driving on Legacy Highway from West Valley to Ogden, when I noticed an object I thought was a plane, but as I got closer, I could seen it wasn’t moving.  Then it slowly went to the right and then back to the left and moved across the mountain side.  I was able to snap 2 pictures of it before it disappeared.  It must have been bigger then an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139714.html](http://www.nuforc.org/webreports/reports/139/S139714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Green light shining down on us, followed our movement for five minutes before disappearing.My home girl and I were hanging out one night on Mt. Charleston, and all of a sudden, a light appeared above us.  But it wasn't like a typical helicopter light, it had a greenish hue to it, which is non standard police helicopter searchlights.  We both turned to each other and ran away from the light.  We heard a low whirling noise follow us for about 5 minutes and the light and noise disappeared.  We are still shaken about this and haven't told anybody what happened that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134014.html](http://www.nuforc.org/webreports/reports/134/S134014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
