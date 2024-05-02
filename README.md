@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:15 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gillette (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Seen white ball of light falling from sky then almost landed in Foothills before it sped off going North.My kids (ages 26, 8, 6, and 3) and I were driving North West when I spotted what looked like something big falling out of the sky.  I thought I was going to see an asteroid or something like that so I pulled over. It had a short thick line above it that looked like a jet streak then it stopped and the entire jet streak came together into a ball of white light.  It looked like it was going to land in the Foothills subdivision but would go back up. I followed it and it seemed close but the light was getting smaller then it bolted north and I couldn't catch up to it again.  There was only 1 light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97521.html](http://www.nuforc.org/webreports/reports/097/S97521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>18 lights travel over San Angelo skyAt approximately 9:58pm, my family and I  witnessed moving lights travel in the sky in a pattern.  Two lights would appear, one light in the lead and one light trailing.  The lead light would fade up into night and the trailing light would disappear in about the same place and then 1 to 2 seconds later two more lights would appear following the same flight pattern.  We witnesses a total of 18 lights.  It looked like moving stars.  It did not look like star link lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156169.html](http://www.nuforc.org/webreports/reports/156/S156169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
