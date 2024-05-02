@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:05 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kota marudu sabah (Malaysia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 lights with zigzag movement.It moves in a zigzag movement.  3 red lights spinning and moving quickly!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109095.html](http://www.nuforc.org/webreports/reports/109/S109095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Douglas (Isle of Man)(UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright round orange/amber glowing object travelling SW at approx 7000ft over Douglas, Isle of ManNumber of witnesses: 1 Number of objects: 1 Shape: Circular [round] Appearance:  bright amber glowing ball like Elevation:  35 to 40 degrees from horizon Duration:  visible for 20 seconds over 90 degree arc Speed:  approx.  350mph-400mph (calculated at 20 seconds over a 90 degree arc) Size:  approx. 2m (based on later calculations)  Sound:  none Wind: NE, slight breeze Cloud Base: 7000ft, broken cloud Moon:  light of moon visible through cloud  Wednesday 2nd May 2012, approx. 2200hrs, Douglas, Isle of Man, Great Britain.  I just got into my parked car.  A large bright round amber/orange light in the sky in front and to the left of me caught my attention.  It travelled  in a  south-westerly direction at a steady speed and trajectory.  It did not look like a plane or helicopter.  I couldn't work out what it was, so I opened my car window to check for sound.  I could not detect any sound.  The object passed directly across the base of a cloud that was backlit by the moon.  I searched closely to see whether there was some outline to the object apart from the light, but no other shape was observable apart from the round glowing light which was distinct and had a sort of substance to it.  I was trying to figure out how large it was, and looking around for a comparable object I saw a planet  showing large in a clear patch of sky a little behind me.  The object I observed was relatively at least 2 times larger, probably mo! re.  Later calculations estimated the size of the object to be approx. 2m diameter (2min arc).  The object travelled in one direction with no alterations to trajectory.  Visible for about 20 seconds before disappearing in a cloud ahead and to the right of me.  The local Met Office advised that cloudbase was 7000ft at that particular night and the object was travelling directly below cloudbase and entering into cloud when I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104948.html](http://www.nuforc.org/webreports/reports/104/S104948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
