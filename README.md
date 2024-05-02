@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Looked up to see this almost yellow light up in the sky that shot from one side of the sky to the other.It was traveling from the south, south west and was headed across the sky then all of the sudden it shot from one side of the sky to the other. Just after shooting from one side of the sky to the other it disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56507.html](http://www.nuforc.org/webreports/reports/056/S56507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dull orange sphere, pulsating noise caught on video, but not audible at the timeLast night between 9:30 PM and 10:30 PM  my husband and I were outside in the front yard to see if we could see how close we could get to seeing the moon's surface with our video camcorder. While we were filming the moon, I saw a large dull red object with a tail go through the sky. It appeared to fall from the moon, then it did a turn and headed in a southerly direction .  As much as we tried to capture it on film we didn't, by the time my husband was pointing the camera in the right direction it was gone. Some strange things happened during this time frame.  All  of the neighborhood dogs were barking and even the two cows that live next door were "mooing". When we re-wound the tape to see if we caught the object that I saw, a low range, pulsating noise came through on the video that we did NOT hear audibly while filming. It went from soft to  very load and appeared as if it was coming towards us then it sounded as though it  went right through us!  It got very soft going away from us , then it disappeared. It was the oddest noise, kind of like something pulsating under water with a slight" swishing in water" sound too.  My husband said that it sounded like an ultrasound of an unborn baby, you know that swishing pulsing muffled sound. Anyway, the dogs and the cows all calmed down  right after this occurrence as well. My husband and I looked at one another and said, "what the heck was that?" and we both asked each other," did you hear that at all while we were filming" ? My husband thought that something was wrong with the camera, so we filmed more stuff and it worked beautifully. Neither one of us heard anything except the normal background noises, you know, cars and of course the dogs and the cows.  We live out in a rural area on a one acre parcel. Most of the local houses are on acreage and the dogs don't bark unless someone or something has caught their attention. As for the cows, they  don't make any noise at night ever, that we can remember.  We are wondering if this  was a sound that we could NOT hear but the animals were hearing !  The animals all appeared agitated as well as uneasy.  FYI, we live in an area a little east of Mc Cord Air force base and Fort Lewis army base. We as wondering if  the military was conducting a test of  some kind, possibly  ELF or pulsating equipment?  We have the tape if you would like to hear it, or I  can try and load it onto the net and send it to you .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17500.html](http://www.nuforc.org/webreports/reports/017/S17500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
