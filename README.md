@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:15 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:51 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>18 lights travel over San Angelo skyAt approximately 9:58pm, my family and I  witnessed moving lights travel in the sky in a pattern.  Two lights would appear, one light in the lead and one light trailing.  The lead light would fade up into night and the trailing light would disappear in about the same place and then 1 to 2 seconds later two more lights would appear following the same flight pattern.  We witnesses a total of 18 lights.  It looked like moving stars.  It did not look like star link lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156169.html](http://www.nuforc.org/webreports/reports/156/S156169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Driving on Legacy Highway from West Valley to Ogden, when I noticed an object I thought was a plane, but as I got closer, I could seen it wasn’t moving.  Then it slowly went to the right and then back to the left and moved across the mountain side.  I was able to snap 2 pictures of it before it disappeared.  It must have been bigger then an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139714.html](http://www.nuforc.org/webreports/reports/139/S139714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
