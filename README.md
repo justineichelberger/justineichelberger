@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 2 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Valencia (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>UFO sightingHello my name is ((name deleted)) and I was refered to you by my brother in law ((name deleted)). Friday night at about 10:30 pm my wife and I were sitting in the jacuzzi with our friends and their child. I looked up and spotted a grey "aircraft" that came from the east and flew to the end of the western horizon in about 5 seconds (I started counting when it was right over us) and no sound was coming out of it. It had a delta shape, long white lights running front-to-back, but no collision lights flashing, it was totally silent and it slanted over towards the south before we lost sight of it. The altitude was roughly 5000 feet. I have lots of air traffic over our house, so I am used to seeing private/commercial jets fly over all the time. Also, I go to air shows at Edwards AFB and Pt Mugu...Ive seen the SR-71, F-15, F-22, F-16, F-18, F-117, B-1B bomber, etc etc, so I know what military jets can do and what they sound like at high speeds, but this one was totally silent....not a whisper. No way it was a satellite, cause Ive seen them before at the desert and I saw the space shuttle once. What really caught my eye was the speed of this craft....Ive never seen anything cross the sky so quickly. Perhaps something outta Groom Lake?  I am sorry, I cannot use my friends as witnesses because of privacy concerns, but my wife and I and our 10 year old son saw what I saw. Ive never seen anything move so fast. Sincerely  ((name and address deleted))  Magdalena Drive Valencia , California , 91011  661-((number deleted))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62987.html](http://www.nuforc.org/webreports/reports/062/S62987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple Color UFO craft Happening Now.Hovering over fort carson Now. look. Multicolered lights blinking fast. green, red, blue, yellow pink, orange. looks like a flashing sphere of multi colored light.  Helicopters flying around now.  Go look.  towards Cheyanne Mt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127146.html](http://www.nuforc.org/webreports/reports/127/S127146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
