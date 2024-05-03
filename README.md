@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lincolnville (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Half-hour long string of starlike orbs, one changed direction.At approximately 4am on 5/3/2020 at Bald Rock Summit, myself and three others witnessed a string of starlike objects travel for nearly half an hour from the south west towards the eastern horizon over the ocean.  The objects look like a satellite as it would appear in the the night sky.  They were mostly equidistant in spacing.  However, we all witnessed one of the orbs break off from the line and make a curving trajectory change towards the north, changing its heading by approx. 90 degrees.  The lights seemed to materialize and appear in the same spot of clear sky towards the South West approx every ten or fifteen seconds.   The sighting lasted for about half an hour, until 4:30; during this time dozens of orbs were witnessed. Myself and three others also witnessed a very similar string of lights travel from West to East from the Summit of Mount Battie on 4/19/2020 from approximately 9:00pm to 9:40pm. Prior to seeing the string of lights on 5/3/2020, we witnessed a reddish-whitish light flashing in an irregular manner towards the east over the ocean.  It flashed on and off every few minutes about thirty degrees above the eastern horizon.  This lasted for close to an hour before witnessing the string of orbs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156252.html](http://www.nuforc.org/webreports/reports/156/S156252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jurupa Valley (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>The objects flew silently and were descending from the night sky onto the local hills in an irregular pattern.  They all had an steady orange glow which disappears as they appeared to make landfall.  The leading objects would disappear farther ahead of the trailing objects. They flew along the contours of the rugged hills.  Distance from both witnesses about one mile . These did not have blinking white, red, green flashing lights as seen on normal appearing aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156155.html](http://www.nuforc.org/webreports/reports/156/S156155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
