@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:50 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Taunton (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown in TauntonI was driving and noticed these objects in the sky.  They were all close together so I knew it couldn't be jets or anything.  They seemed to be at a stand still at that time also.  There were about 8 objects all in the same area.  Then they were gone.  I had seen a flying object with my daughter in the same area about a month back also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97583.html](http://www.nuforc.org/webreports/reports/097/S97583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>red/ orange object moves across night skySaw a red/orange object in sky. Started moving as soon as I looked at it. Was traveling ne to sw.  No noise at all.was not moving in a straight path.  Started didnt move like a plane or satellite or anything i have ever seen before. to fade as it went along then just disappeared all together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97533.html](http://www.nuforc.org/webreports/reports/097/S97533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
