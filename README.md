@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lincolnville (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Half-hour long string of starlike orbs, one changed direction.At approximately 4am on 5/3/2020 at Bald Rock Summit, myself and three others witnessed a string of starlike objects travel for nearly half an hour from the south west towards the eastern horizon over the ocean.  The objects look like a satellite as it would appear in the the night sky.  They were mostly equidistant in spacing.  However, we all witnessed one of the orbs break off from the line and make a curving trajectory change towards the north, changing its heading by approx. 90 degrees.  The lights seemed to materialize and appear in the same spot of clear sky towards the South West approx every ten or fifteen seconds.   The sighting lasted for about half an hour, until 4:30; during this time dozens of orbs were witnessed. Myself and three others also witnessed a very similar string of lights travel from West to East from the Summit of Mount Battie on 4/19/2020 from approximately 9:00pm to 9:40pm. Prior to seeing the string of lights on 5/3/2020, we witnessed a reddish-whitish light flashing in an irregular manner towards the east over the ocean.  It flashed on and off every few minutes about thirty degrees above the eastern horizon.  This lasted for close to an hour before witnessing the string of orbs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156252.html](http://www.nuforc.org/webreports/reports/156/S156252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mount Hope (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Shell shaped object twitching it's way up in the sky, same time every other night.Over the past couple weeks, have noticed a UFO in the sky through my bedroom window appearing at the exact time, 9:50pm.  I've seen it every couple days so far.  Sometimes days back to back.  It slowly rises in the night sky, wiggling it's way up, very fast jerky movements. I zoomed in with the camera last night and it took on multiple colours, primarily a silvery/blue colour, seemed to change colours often up close, very flashy looking.  The shape looked like a shell at times, it seemed to move around so quickly that the shape changed frequently, from a teardrop to a shell shape with bright blue beaming from it.   One night, I saw a fire like thing shoot out from the side, just the one time.  Also, last night, I stayed up later around an hour and noticed 2 more appear in the sky but in a different location, and they slowly moved together, spaced apart, up into the sky...again very quick twitching movements. Also, while video taping it last night outside my cats growled at me...they never do that…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109169.html](http://www.nuforc.org/webreports/reports/109/S109169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
