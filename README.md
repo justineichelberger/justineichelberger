@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light traveled at a great rate in the upper atmosphere above Santa Cruz mountains CAWe were on our balcony looking to the northwest towards say Camden and highway 17 junction when in the uppermost portion in the sky about 70 degree angle a very bright light appeared and traveled at a very fast rate towards the southwest. It was very bright with maybe a small tail but too far to see clearly.  It was not a shooting star nor space debris, it's light was too bright and how it dimmed as it got further was to real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81106.html](http://www.nuforc.org/webreports/reports/081/S81106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I just witnessed a large static formation or 1 very large craft over Fountain City.  It moved fairly slow and made a low steady rumble as it passed over West to East until it appeared to be East of Fountain City and turned North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75277.html](http://www.nuforc.org/webreports/reports/075/S75277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
