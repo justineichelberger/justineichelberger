@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large triangle-shaped object hovering over highwayAt about 12:15am, while traveling North on Everett Turnpike in Nashua near exit 4 I could see 2 white lights in the sky, accompanied by a blinking red light, above the overpass at exit 5, around a mile away.  I immediately assumed it was a plane, since most planes I've seen have white lights and some sort of blinking light on the bottom.  As I got closer to exit 5, I noticed the object was not "flying" east-west or north-south like an airplane, but was instead "hovering" high above the overpass at exit 5.  As I got even closer, I expected to see the object prove to be a helicopter, perhaps a police helicopter, with it being so close to the Nashua Police department.  Right before I went under the overpass at exit 5 I rolled down my window and got a good look at the object.  It was a dark brown or black colored triangle (not a boomerang shape) with two white lights on each side of all three points of the triangle (almost like quotation mark! s), as well as a red blinking light that blinked about once per second not directly in the center of the bottom of the object, but a little left of center of the bottom.  I also considered it possible that this was a drone, since I have one and am familiar with how they look in the night sky.  But once I came out from under the overpass, I was in total amazement at how big and close it was to me.  It was enourmous, and it was absolutely not a drone or a plane.  I estimate it's size to between a large truck and a fighter jet.  The object emitted no sound that I could hear.  I also saw at least two cars pulled over on the highway, the occupants trying to film the night sky, one on each side of the highway.  I was not the only one who saw this craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127151.html](http://www.nuforc.org/webreports/reports/127/S127151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Corona del Mar (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>oval shape hovers and dances in sky over Corona del Mar, CAwas in backyard and looked to hills and there it was hovering then going back and forth, oval shape then flat and back to round. white and bright in color. It danced for a while then I had to go inside. Unsure of what happened after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62971.html](http://www.nuforc.org/webreports/reports/062/S62971.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
