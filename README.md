@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:50 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jurupa Valley (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>The objects flew silently and were descending from the night sky onto the local hills in an irregular pattern.  They all had an steady orange glow which disappears as they appeared to make landfall.  The leading objects would disappear farther ahead of the trailing objects. They flew along the contours of the rugged hills.  Distance from both witnesses about one mile . These did not have blinking white, red, green flashing lights as seen on normal appearing aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156155.html](http://www.nuforc.org/webreports/reports/156/S156155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Taunton (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown in TauntonI was driving and noticed these objects in the sky.  They were all close together so I knew it couldn't be jets or anything.  They seemed to be at a stand still at that time also.  There were about 8 objects all in the same area.  Then they were gone.  I had seen a flying object with my daughter in the same area about a month back also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97583.html](http://www.nuforc.org/webreports/reports/097/S97583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
