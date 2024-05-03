@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Waxhaw (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orb that rapidly traveled west leaving a light trail and vanishing.My neighbors and I were outside having a bonfire.  In the south my husband saw a bright light that rapidly went right with a light trail and vanished.  An hour earlier, I looked up toward the north part of the sky and noticed a large bright circle that slowly moved to the left as it moved it got dimmer and smaller until it vanished (seconds).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109149.html](http://www.nuforc.org/webreports/reports/109/S109149.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>During the okla tornadoes, a local news helicopter was videotaping the approaching tornado,and after about two months,the local news station showed video of the tornado and the streak (UFO)contact the news station at their e-mail address below......they showed the clip on the news about two weeks ago....the tornado was miles away but clearly visible....the streak is very brief but when slowed down....is visible....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08570.html](http://www.nuforc.org/webreports/reports/008/S08570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
