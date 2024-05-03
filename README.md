@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Manchester (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown LightAt about 22:10 I stepped out on the back porch to view the stars, and immediatley noted a Brilliant Flash from above, there was no aircraft Noise or Running lights, at first I thought maybe a Metorite, then a few seconds latter while looking at the stars, another Flash occured, and detected movement briefly, then it was gone, about thirty second then another flash and brief movement, and it was gone, I lost track at about 22:13.  The sky was clear and Brilliant with stars, other Aircraft were noted, but none traveling from North to South as the Unknown was. The Difference was clear between this object and other Aircraft in the area.((NUFORC Note:  Possible tumbling rocket booster in orbit??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56520.html](http://www.nuforc.org/webreports/reports/056/S56520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lakeview (near) (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Orange lights over Warner HighwayWas traveling East on Warner Highway (Hwy 140) from Lakeview Oregon. Began ascent on a very windy road that was steep on passenger side. Initially noticed 3 round orange lights which were about quarter size of a full moon. Did not pay much attention at first as I was keeping my eyes on the road that wound up the mountainside.  I look over again and begin thinking how odd. 2 of the lights suddenly "blink" out.  It was not dark yet and I did not see anything that could have been the source. Few seconds later, one of the lights blinked back on and only two were now visible. After about another 45- 60 seconds both lights vanished.  These lights were just off the side of the mountain.  These lights did not seem to be falling as flares would. (I have seen military flares)  They did not seem to move at all however, I was trying to navigate the windy road. I do not believe them to be airplanes. I don't know if it could have been some kind of helicopter although! ,  I saw no trace of object when lights blinked out and then back on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89110.html](http://www.nuforc.org/webreports/reports/089/S89110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
