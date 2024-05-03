@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>During the okla tornadoes, a local news helicopter was videotaping the approaching tornado,and after about two months,the local news station showed video of the tornado and the streak (UFO)contact the news station at their e-mail address below......they showed the clip on the news about two weeks ago....the tornado was miles away but clearly visible....the streak is very brief but when slowed down....is visible....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08570.html](http://www.nuforc.org/webreports/reports/008/S08570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Newton (MA) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>The sky was perfectly clear and there was an enormous BLINDING flash which had the appearance of some type of nuclear devise going off in space,I was literally blinded by the flash for a moment and Raytheon lost its power,and our house power flickered on and off.I was siiting on my front porch and all of a sudden ther was a huge bright flash of blinding white light which seemed to eminate from the northeast, the sky was clear, not a cloud in the sky, after it happened, my neighbor came out of his house and told me that Raytheon had lost some of their power and that he was called into work(10:15) There must have been others who wittnessed this, the light was everywhere, it seemed to envelope the whole area, my eyes felt like they do when someone flashes a camera in your face, it was that bright if not brighter,for a moment I thought we had been nuked or something. My neighbors car alarm didn't work when he went to get into his car,he thought that was pretty strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12796.html](http://www.nuforc.org/webreports/reports/012/S12796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
