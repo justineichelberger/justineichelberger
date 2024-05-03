@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Corona del Mar (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>oval shape hovers and dances in sky over Corona del Mar, CAwas in backyard and looked to hills and there it was hovering then going back and forth, oval shape then flat and back to round. white and bright in color. It danced for a while then I had to go inside. Unsure of what happened after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62971.html](http://www.nuforc.org/webreports/reports/062/S62971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Manchester (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown LightAt about 22:10 I stepped out on the back porch to view the stars, and immediatley noted a Brilliant Flash from above, there was no aircraft Noise or Running lights, at first I thought maybe a Metorite, then a few seconds latter while looking at the stars, another Flash occured, and detected movement briefly, then it was gone, about thirty second then another flash and brief movement, and it was gone, I lost track at about 22:13.  The sky was clear and Brilliant with stars, other Aircraft were noted, but none traveling from North to South as the Unknown was. The Difference was clear between this object and other Aircraft in the area.((NUFORC Note:  Possible tumbling rocket booster in orbit??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56520.html](http://www.nuforc.org/webreports/reports/056/S56520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
