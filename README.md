@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Davis (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We watched an impossibly fast and agile object maneuvering in orbit for about ten minutes through night vision goggles.We were on top of a small mountain at a retired Navy captain's home near the Davis Mountains and the McDonald Observatory in West Texas.  We were using night sight binoculars while looking at the sky because it allowed us to see ten times more stars than with the naked eye alone.  I am an attorney.  The other witnesses include the owner of a large telephone company and an oil and gas heir.I was watching as several satellites passed across the sky.  About the third satellite I watched made it half way across the sky, nearly directly overhead, and just stopped.  It stayed in place for five seconds and then started moving in a new direction, about 100 degrees from its original direction.  It made several more course changes while it began moving at what must have been thousands of miles per hour.I handed the binoculars to the other people there and they also watched the "satellite" complete incredible maneuvers in a lot of different directions.  After about ten minutes of impossibly fast and extremely angular turns and flight, it shot across the sky past the horizon. We did not see it again.Whatever it was, it was invisible without the night vision Navy issue binoculars and it moved faster than anything the public is aware of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70520.html](http://www.nuforc.org/webreports/reports/070/S70520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of lights that looked like a flock of birds flying in formation in the shape of a large bird or eagleI saw a bird like or flock formation flying in ahead of an approaching aircraft. Both the formation and the aircraft were coming in off the ocean from a northwestern direction.  The formation was comprised of independant lights fling in step with each other to form a shape that looked like a large bird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17519.html](http://www.nuforc.org/webreports/reports/017/S17519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
