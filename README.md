@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mount Hope (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Shell shaped object twitching it's way up in the sky, same time every other night.Over the past couple weeks, have noticed a UFO in the sky through my bedroom window appearing at the exact time, 9:50pm.  I've seen it every couple days so far.  Sometimes days back to back.  It slowly rises in the night sky, wiggling it's way up, very fast jerky movements. I zoomed in with the camera last night and it took on multiple colours, primarily a silvery/blue colour, seemed to change colours often up close, very flashy looking.  The shape looked like a shell at times, it seemed to move around so quickly that the shape changed frequently, from a teardrop to a shell shape with bright blue beaming from it.   One night, I saw a fire like thing shoot out from the side, just the one time.  Also, last night, I stayed up later around an hour and noticed 2 more appear in the sky but in a different location, and they slowly moved together, spaced apart, up into the sky...again very quick twitching movements. Also, while video taping it last night outside my cats growled at me...they never do that…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109169.html](http://www.nuforc.org/webreports/reports/109/S109169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Davis (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We watched an impossibly fast and agile object maneuvering in orbit for about ten minutes through night vision goggles.We were on top of a small mountain at a retired Navy captain's home near the Davis Mountains and the McDonald Observatory in West Texas.  We were using night sight binoculars while looking at the sky because it allowed us to see ten times more stars than with the naked eye alone.  I am an attorney.  The other witnesses include the owner of a large telephone company and an oil and gas heir.I was watching as several satellites passed across the sky.  About the third satellite I watched made it half way across the sky, nearly directly overhead, and just stopped.  It stayed in place for five seconds and then started moving in a new direction, about 100 degrees from its original direction.  It made several more course changes while it began moving at what must have been thousands of miles per hour.I handed the binoculars to the other people there and they also watched the "satellite" complete incredible maneuvers in a lot of different directions.  After about ten minutes of impossibly fast and extremely angular turns and flight, it shot across the sky past the horizon. We did not see it again.Whatever it was, it was invisible without the night vision Navy issue binoculars and it moved faster than anything the public is aware of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70520.html](http://www.nuforc.org/webreports/reports/070/S70520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
