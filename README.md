@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gig Harbor (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sphere was moving extremely fast around the neighborhood as if surveying us.  we were unable to constantly track it because of it flight pattern and it rate of speed.  Most of our viewing was out of our peripheral vision.Description: Round circular/sphere like object approx. the size of a small grapefruit with a dull orangish color.  It seemed to move in an arch like manner very fast yet fluid in motion. It flew around the neighborhood houses and tree line for several minutes.  Then right before it disapeared it flew through my legs. As it flew between my legs I got a glimpse of of an intense light inside it. Observers: I am a self employed publisher of a medical directory for six counties.  My friend is a second grade teacher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12880.html](http://www.nuforc.org/webreports/reports/012/S12880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coos Bay (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lights moving north appeared to be one object, confirmed was not ISS, about 1/2 degree apart with flare or brightening of one lightAt 23:20 my wife and I witnessed two lights 1/2 degree apart almost directly overhead.  They gave the impression of being attached.  They moved almost due north but slightly east.  For a moment, the light in front flared with color change to about -1 Magnitude brightness and the trailing object seemed to dim at the same time.   Thought this might have been the ISS with trailing craft, but ISS was over Russia heading East.We are expecting thunderstorm activity in our area for the next couple days so was anticipating some movement by our 'visitor friends'.  A 'typical' movement for them is south along the coast then inland south of me, until they reach Interstate 5.  So this is a bit strange, but so is the weather right now.Total sighting lasted about 2 minutes until lost in the glare of town to my north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97564.html](http://www.nuforc.org/webreports/reports/097/S97564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
