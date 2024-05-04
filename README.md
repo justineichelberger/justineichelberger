@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:36 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Manchester (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Light in the sky going in circlesI live in Manchester New Hampshire and i was looking the sky two days ago looking the meteor shower (Eta Aquarids) and suddenly a light appear in the sky with traveling from north-west to south-east and for a second i thought it was a plane because it was just a light then the light just stop and begging to make circles... from left to right then stop... left to right then stop...  right to left stop... a big circle then go to the original position and stop i last for at least 8 minuts... then i get in to my house to look for a better camera cuz my phone didnt catch it cuz it was a tiny light (maybe it was in a very high altitude)and when i came out it wasnt there....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97597.html](http://www.nuforc.org/webreports/reports/097/S97597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unexplained aircraft slowly moving across lake areaA flat oval craft similar to a blimp but sounding like an airplane or helicopter. I observed it move slowly between trees over a lake. The noise subsided as it moved away. It sounded like a helicopter but had no visible rotors. It had 3-4 lights on the side.((NUFORC Note:  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17525.html](http://www.nuforc.org/webreports/reports/017/S17525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
