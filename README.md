@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:56 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Southampton (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge triangular craft with with hundreds of star like lights in sets of 3 covering under side.Large triangular craft size of football pitch when directly over head could not see night sky the craft was moveing south to north no sound from the engines. As we looked at the underside there was a border of blacknes that followed the triangular shape then starting from the tip of the triangle one set of 3 lights grouped together in a triangle as bright as stars then 2 sets of 3 lights then 5 sets 7 sets and so on filling the whole triangle.Which in fact made the craft stand out against the clear night sky, hundreds of lights in strait lines no matter what angle you looked at the craft your eyes followed the lines of lights. Infact if the lights had been random the craft would have been invisible.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51783.html](http://www.nuforc.org/webreports/reports/051/S51783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Beckville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light moving steady across the sky from horizon to horizon.I started out seeing it when it was about 1/8th distance across the sky the southern direction.  I was looking east while watching it.  I told my friend who was there to turn around. Then I went in the house and got my mother.  All three of us watched it until it went out of site in the north eastern horizon.  It was a redish, yellowish bright light.  About 5 times bigger and brighter than a star.  It was moving straight and it was not blinking.  You could see airplanes off in different directions.  It looked nothing like them.  When it seemed like it was straight in front of us it looked like it got brighter.  That might have just been an optical illusion though.  I live far out in the country away from city lights.  It was making absolutly NO sound.((NUFORC Note:  Object could not have been the International Space Station, since it passed over this area an hour earlier.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43805.html](http://www.nuforc.org/webreports/reports/043/S43805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
