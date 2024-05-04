@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange balls seen flying East to West over boynton beach.Witness 5 Orange balls of light moving West to East along Boynton Beach Blvd.  Objects were spaced out approx.  One mile apart and in a straight line. Another object was seen in the same flight path that was dimly lite with an orange glow but appeared to be round and metallic.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97574.html](http://www.nuforc.org/webreports/reports/097/S97574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>a bright orangy object flying close to buildings and trees.I know there have been several sightings quite like mine...but my encounter was short of exciting.  I was actually afraid I walk in the mornings to work like really early mornings like 4 or 5 in the morning I have been working at a new store in the area.  But anyways this one was quite strange I been seeing these sightings on and off during the past 3 months but Sundays sighting was the worst.  I seen it when I was leaving for work behind my apartment building in Raintree apartments.  Then as I was walking out of my complex I  seen it go towards the old Winn Dixie plaza flying silently in the sky.  I always cross the street right between Cagan Crossings, Wal-Mart and the Chilis.It went down hovering between the Fairwinds Credit Union and Starbucks I crossed the street right before the bank…I was freaked out  it was like 50 ft from me and  it was like 20 feet across and very orangy bright. I couldn’t really tell if it was a disc or sphere shaped I saw a lot of lights it takes me usually 20 - 30 minutes to get to work so as I was getting closer, It then went towards the Wal-Mart n then  as I was walking to my work it went up by the Verizon store but it was higher in the air and  then went back towards the Kentucky Fried Chicken and the heavily wooded area and hovered there until sunrise and went back in the atmosphere...I don’t know if all these sightings are connected to the one 8 months ago in October but this one takes the cake.I hope I wasn’t the only one seeing it because of how low it was to the ground in the area where there are always cars going by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109242.html](http://www.nuforc.org/webreports/reports/109/S109242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
