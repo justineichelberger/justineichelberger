@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Weston (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Looked like a string of white lights..solid.Looked like a string of lights. Directly above my home.  Moving south.  Dissapeared...lights went out but I could still see what was a darker cylinder image still moving south. Object(s) made No noise. It was a very clear night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163018.html](http://www.nuforc.org/webreports/reports/163/S163018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Moving object resembling a star makes sweeping turn before disappearing.Shortly After 10pm on the night of 5/4/13 two friends and I were enjoying a warm night relaxing on the patio at my home.  It was a clear night with a handful of constellations clearly visible.While looking up at the stars I noticed what appeared to be a light, similar in size and brightness to a star moving across the sky.  It travelled at a speed faster than any plane I have ever witnessed, yet slower than a shooting star.  I alerted my two friends to what I was seeing and they two witnessed this light moving across the sky.We observed this light for approximately 10 seconds and assumed it was a satellite, or perhaps some sort of comet.  However, the light then made a sharp right turn, while maintaining its velocity.  In my estimation it turned approximately 80 degrees to the right in a matter of seconds.  The arc of the objects turn resembled the curving angle of a hockey stick.Approximately 5 seconds after making its turn the object disappeared as if the light was suddenly turned off.The object we witnessed left no visible trail and appeared to be out of the atmosphere.  Its appearance can best be described as a bright star.When I first noticed the object it was travelling west by southwest before turning south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97603.html](http://www.nuforc.org/webreports/reports/097/S97603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
