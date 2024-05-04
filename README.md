@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Beckville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light moving steady across the sky from horizon to horizon.I started out seeing it when it was about 1/8th distance across the sky the southern direction.  I was looking east while watching it.  I told my friend who was there to turn around. Then I went in the house and got my mother.  All three of us watched it until it went out of site in the north eastern horizon.  It was a redish, yellowish bright light.  About 5 times bigger and brighter than a star.  It was moving straight and it was not blinking.  You could see airplanes off in different directions.  It looked nothing like them.  When it seemed like it was straight in front of us it looked like it got brighter.  That might have just been an optical illusion though.  I live far out in the country away from city lights.  It was making absolutly NO sound.((NUFORC Note:  Object could not have been the International Space Station, since it passed over this area an hour earlier.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43805.html](http://www.nuforc.org/webreports/reports/043/S43805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pierce (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Circular objects with very bright hallows ((sic.  Halos)) aroung themI first noticed this very bright light about 3 nights ago.  My husband and I both witnessed this light moving from left to right, then from right to left.  It would move away from us then back away from us again.  There were very bright vibrant colors on the second object.  These objects have been in about the same areas each time we have noticed them.  They have very strange movements to them.We decided to use a telescope to see what they were and we saw circular shaped objects with a bright white hallow around them.  These objects will  be there one moment and in one split second will be gone and are nowhere to be found.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75304.html](http://www.nuforc.org/webreports/reports/075/S75304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
