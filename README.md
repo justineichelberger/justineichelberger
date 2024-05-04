@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:54 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Manhattan Beach (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately came up in picture - came up in picture minutes.</sub><blockquote><sub>CA. circle with 5 lights underside took 3 shots with cameraWas riding my bike on beach near LAX airport, when a Air Bus came over head on take off I grab my cell phone took 3 shots hoping to get a picture sun was going down still plenty of light.  Waited till i got home to see picture and saw this object just above  Air Bus in all 3 frames and when you zoomed it in you could definitely tell what it was. I was light green with 5 positioned look light lights under side because I was shooting up, everyone I showed it to said I should report it so here I am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127212.html](http://www.nuforc.org/webreports/reports/127/S127212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ithaca (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 red lights flying around in the skySaw 2 orange balls if light in the sky circling round each other.  Disappeared for a bit then came back and tere were 4 flying around, got closer then further away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97551.html](http://www.nuforc.org/webreports/reports/097/S97551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
