@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>3 unknown objects in the skies of west TexasWe sighted 2 objects with 3 red lights across that appeared on the horizon for approx. 30 seconds the disappeared and reappeared for 15 more seconds,  I work on military aircraft and these where not any aircraft I have ever seen, Also there are no radio or cell towers that would have anti-collision lights in the area. also there was an abject slightly above the 2 objects that has been flashing red then white with a blue hue for around 15 minutes or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75298.html](http://www.nuforc.org/webreports/reports/075/S75298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw what looked like the only cloud in the sky.  It was a small smudge.  The sun was rising from behind the mountains so that little speck of a clout was shining super bright in the sky.  I train my eyes on the freeway and when I looked back I appeared as if the atmosphere had changed this illuminous cloud, the bottom had fallen down and it was now elongated top to bottom.  I look back a third time and it was even longer but a round circle was there ad I'd an explosion took place below the original cloud/light.  As the newly formed bottom parts disappeared the original cloud remained but a small star was under it where the other mass had been.  Then the star slowly descended behind the Superstition Mountains while the Sun in view thru my same wins hill (sic.  windshield??) kept rising up.  Shouldn't the star and the sun both have risen upwards?  Yes, if it was a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127164.html](http://www.nuforc.org/webreports/reports/127/S127164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
