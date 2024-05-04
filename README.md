@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gig Harbor (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sphere was moving extremely fast around the neighborhood as if surveying us.  we were unable to constantly track it because of it flight pattern and it rate of speed.  Most of our viewing was out of our peripheral vision.Description: Round circular/sphere like object approx. the size of a small grapefruit with a dull orangish color.  It seemed to move in an arch like manner very fast yet fluid in motion. It flew around the neighborhood houses and tree line for several minutes.  Then right before it disapeared it flew through my legs. As it flew between my legs I got a glimpse of of an intense light inside it. Observers: I am a self employed publisher of a medical directory for six counties.  My friend is a second grade teacher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12880.html](http://www.nuforc.org/webreports/reports/012/S12880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>3 unknown objects in the skies of west TexasWe sighted 2 objects with 3 red lights across that appeared on the horizon for approx. 30 seconds the disappeared and reappeared for 15 more seconds,  I work on military aircraft and these where not any aircraft I have ever seen, Also there are no radio or cell towers that would have anti-collision lights in the area. also there was an abject slightly above the 2 objects that has been flashing red then white with a blue hue for around 15 minutes or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75298.html](http://www.nuforc.org/webreports/reports/075/S75298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
