@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:54 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:56 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ithaca (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 red lights flying around in the skySaw 2 orange balls if light in the sky circling round each other.  Disappeared for a bit then came back and tere were 4 flying around, got closer then further away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97551.html](http://www.nuforc.org/webreports/reports/097/S97551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Southampton (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge triangular craft with with hundreds of star like lights in sets of 3 covering under side.Large triangular craft size of football pitch when directly over head could not see night sky the craft was moveing south to north no sound from the engines. As we looked at the underside there was a border of blacknes that followed the triangular shape then starting from the tip of the triangle one set of 3 lights grouped together in a triangle as bright as stars then 2 sets of 3 lights then 5 sets 7 sets and so on filling the whole triangle.Which in fact made the craft stand out against the clear night sky, hundreds of lights in strait lines no matter what angle you looked at the craft your eyes followed the lines of lights. Infact if the lights had been random the craft would have been invisible.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51783.html](http://www.nuforc.org/webreports/reports/051/S51783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
