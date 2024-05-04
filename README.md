@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Saint Cloud (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>the bright blue oval object flew straight for 5 seconds then instantly vanishedDriving on highway 23 from east to west, the object appeared suddenly going extremely fast towards the west. the object was an oval bright blue was only visible for a few seconds then just as suddenly disappeared. The sky was clear and I only saw one car coming from the opposite direction. The object went totally straight, east to west then vanished with a blink of an eye.  I was in the Air Force for 20 years and have seen numerous aircraft day and night flying and know what I saw was no normal aircraft or object. I also have seen numerous "shooting stars" and know that this was unusual. The object was 200 to 500 ft up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75331.html](http://www.nuforc.org/webreports/reports/075/S75331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Irving (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A friend and I were at Running Bear Park and I witnessed one fiery object falling from the sky behind the trees.  Unfortunately, my friend didn't witness it as well, and I didn't have site of the object before it was in free-fall.  I heard no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109189.html](http://www.nuforc.org/webreports/reports/109/S109189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
