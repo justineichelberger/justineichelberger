@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 3 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in North Richland Hills (Smithfield area) (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a black  oval shaped craft hovering over a pasture and flashing lights near my home.I was sitting on my back porch looking out over the pasture behind my home. The time was around 3:30 am. The pasture has several horses on it but i could not see them at the time because i think they were up at the other end. After i had been out there for about 10 minutes i began to hear the horses at the other end. It sounded like they were kicking the sheet metal and squealing loudly. I stood up to see if i could look down to the end of the pasture to see what was causing the horses trouble. I could also hear dogs barking in the distance, it sounded like hundreds of them. Just as i was straining to see the horse shelter at the other end, horse and dogs quieted and became silent, no movement, sounds, or anything. It was more quiet than before all the commotion. I started to get a scared burning feeling in my chest and felt the hairs on the back of my neck tingle. after maybe a few seconds of the erie quiet i heard a whirring sound,it was real low and deep, and not loud. I stepped off the porch and i saw a light flash on the ground in the middle of the pasture. i looked up and about a hundred feet off the ground was a black craft hovering and shooting flashes of light at the ground from a pod on the right end of the craft. The craft had a multicolored mist or hot looking gas on the bottom of it. on the left side of the craft was what looked to be a rectangular red window. I thought it was a window because i thought i saw movement inside of it. After i saw movement i began to feel sick. The craft looked about 50 feet long with a dull blue light on the top. after about five minutes passed the whirring sound faded and the craft hovered silent for about 2 seconds and then zipped straight up with no sound. with in one second it went so high and fast looked like a star then it curved north and the light went out. I did not even notice that the power was off in the neighborhood until i saw it come back on after the craft was gone.I work in the security field and have no intrest in making anything out of this. I do not want to be contacted. I hope this report helps in some way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28668.html](http://www.nuforc.org/webreports/reports/028/S28668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Manhattan Beach (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately came up in picture - came up in picture minutes.</sub><blockquote><sub>CA. circle with 5 lights underside took 3 shots with cameraWas riding my bike on beach near LAX airport, when a Air Bus came over head on take off I grab my cell phone took 3 shots hoping to get a picture sun was going down still plenty of light.  Waited till i got home to see picture and saw this object just above  Air Bus in all 3 frames and when you zoomed it in you could definitely tell what it was. I was light green with 5 positioned look light lights under side because I was shooting up, everyone I showed it to said I should report it so here I am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127212.html](http://www.nuforc.org/webreports/reports/127/S127212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
