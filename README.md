@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Copper Lights Over Buckeye ArizonaShortly before 9:30 PM on Thursday, May 4th, 2006, I left the Buckeye Marketplace shopping mall, which is located on the southwestern corner of Yuma and Watson roads here in Buckeye, AZ.  I drove my SUV out of the mall and proceeded south on Watson. Suddenly, about 30 degrees above the horizon, in the southwestern sky, there appeared a very bright, copper colored light.  It immediately caught my attention and I pulled onto the shoulder to watch it. The light maintained a consistent intensity and did not move in any direction. After about three minutes, it suddenly disappeared. I pulled back onto Watson road and drove down to Broadway, where I stopped and made a right hand turn.  I then proceeded west on Broadway and kept looking at the general area where I had seen the copper colored light a couple of minutes prior.  The light suddenly reappeared, with another copper colored companion light, the second light being about ten degrees to the right of, and about ten degrees above the first light.  Both maintained a consistent intensity, but were brighter than the first appearance a few minutes prior.  I would estimate that they were hovering in the area of the Buckeye Hills Recreation Area, which is about eight or nine miles from where I pulled off of Broadway (at the intersection of Broadway and Apache roads) to observe them further.  Neither light made any movement. I saw at least one other vehicle on Broadway stop and pull over to observe these lights.  After a minute or so, the other vehicle continued on.  I called my wife at our nearby home and asked her to get our camera ready as I was going to come home and try to photograph these lights. I pulled back onto westbound Broadway and proceed to Miller road.  The entire time the lights were still visible. I maintained visual contact with the lights until I pulled into our subdivision.  I quickly retrieved our digital camera and drove back out onto Miller road, but the lights were both now gone.  I stayed in the area for about twenty minutes, but they did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50612.html](http://www.nuforc.org/webreports/reports/050/S50612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Weston (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Looked like a string of white lights..solid.Looked like a string of lights. Directly above my home.  Moving south.  Dissapeared...lights went out but I could still see what was a darker cylinder image still moving south. Object(s) made No noise. It was a very clear night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163018.html](http://www.nuforc.org/webreports/reports/163/S163018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
