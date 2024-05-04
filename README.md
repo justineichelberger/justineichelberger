@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coos Bay (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lights moving north appeared to be one object, confirmed was not ISS, about 1/2 degree apart with flare or brightening of one lightAt 23:20 my wife and I witnessed two lights 1/2 degree apart almost directly overhead.  They gave the impression of being attached.  They moved almost due north but slightly east.  For a moment, the light in front flared with color change to about -1 Magnitude brightness and the trailing object seemed to dim at the same time.   Thought this might have been the ISS with trailing craft, but ISS was over Russia heading East.We are expecting thunderstorm activity in our area for the next couple days so was anticipating some movement by our 'visitor friends'.  A 'typical' movement for them is south along the coast then inland south of me, until they reach Interstate 5.  So this is a bit strange, but so is the weather right now.Total sighting lasted about 2 minutes until lost in the glare of town to my north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97564.html](http://www.nuforc.org/webreports/reports/097/S97564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Saint Cloud (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>the bright blue oval object flew straight for 5 seconds then instantly vanishedDriving on highway 23 from east to west, the object appeared suddenly going extremely fast towards the west. the object was an oval bright blue was only visible for a few seconds then just as suddenly disappeared. The sky was clear and I only saw one car coming from the opposite direction. The object went totally straight, east to west then vanished with a blink of an eye.  I was in the Air Force for 20 years and have seen numerous aircraft day and night flying and know what I saw was no normal aircraft or object. I also have seen numerous "shooting stars" and know that this was unusual. The object was 200 to 500 ft up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75331.html](http://www.nuforc.org/webreports/reports/075/S75331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
