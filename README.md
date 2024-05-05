@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Characteristics: Not aura or haze, but more like emanation of an energy field.Just in case you are keeping a record, it was shown on that Jenning's TV show, looked a lot like it. It looked like the illuminated UFO on the X Files, without illumination, and it's color was almost exactly like that alien craft in the movie alien. Sounds tarded I know, but that is the closest way of describing it that you would have a good idea of what was seen. And that is it, nothing more.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42356.html](http://www.nuforc.org/webreports/reports/042/S42356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Butte & Bozeman (between; enroute) (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>rapid lights, very close in good eyesight along I-90E in between butte & bozeman Montanaon I-90 going East, in between butte & Bozeman. about 30-40 minutes long, my husband and i saw this and are very frightened. the lights looked as if it was criss crossing around the object. with some blue and red lights. it had gotten very close, then it would move around rapidly. Another one appeared doing the same. I was very scarred and still in shock .((NUFORC Note:  Possible "twinkling" star?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69946.html](http://www.nuforc.org/webreports/reports/069/S69946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
