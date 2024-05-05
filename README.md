@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wetaskiwin (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Flew over a school in wetaskiwin Alberta and was looking like it was going down((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127188.html](http://www.nuforc.org/webreports/reports/127/S127188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Shiny saucer shaped vehicle over downtown Seattle displayed various speeds and altitude accelerations.At approximately 15:45 I saw something shiny in the corner of my eye as I was eating lunch on the 18th floor of a downtown building.  I was looking south toward Safeco Field when I realized that what I was seeing was NOT a plane.  It looked like a tin can in the wind, except it looked in control and it varied in speed.  Also, it hovered like a helicopter at times.  It was black on top and very shiny (almost like a mirror) on the bottom.  At first I thought it might be the stealth fighter, but I don't remember the stealth being able to manuever quite like this vehicle.  Once it got to West Seattle, it shot up straight (from approx. 5,000 ft. to at least 35,000).  I couldn't believe what I was seeing.  It was NOT a plane, nor the stealth, nor some weather balloon.  This thing then zigzagged and must have flipped backwards.  It then shot up again, probably another 5-10,000 ft.  I could see it's black speck hovering for about 10 minutes.  Then it just followed the cloud format! ions back towards downtown Seattle heading east, very slow.I'm a student at the UW and a runner who doesn't take drugs or make stuff up.  In fact, I'd say I'm a good citizen who strives to better not only my life but the lives of others as well.  What I saw was incredible and exiting, but very unexplainable and a bit scary too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22788.html](http://www.nuforc.org/webreports/reports/022/S22788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
