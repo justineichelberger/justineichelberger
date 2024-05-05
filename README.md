@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:30 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Durham (west of) (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 lights diagnal very close with the center light appearing the brightest.A bright light sitting in the sky west of Durham. Has been seen in the past.  When looked at with the naked eye it appears as a bright light but when looked at with binoculars 3 small lights are seen diagnal with the middle light the brightest. When looked at with 16x zoom on camera the 3 lights appear blue and red tinted.  Because of the city lights it is hard to make out the object accompanied by the lights.  The object sits in place and has yet to vanish but vanished the previous sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75318.html](http://www.nuforc.org/webreports/reports/075/S75318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in West Seneca (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Brilliant red, circular object moved fast and changed to green color.Stationary Red Circular object was observed in the eastern sky.After a few minutes it moved horizontally to the left at a high rate of speed then stopped and turned Green.  Object then zig zagged and moved back to the area it was first spotted, turning to a red color.  A few minutes passed and the object turned green and dropped out of sight.  Before the object dropped, we noticed two drone planes flying past us in a northwesterly direction at a low altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119264.html](http://www.nuforc.org/webreports/reports/119/S119264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
