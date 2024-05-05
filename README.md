@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bethlehem () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A silent red light, followed by another one, spotted in Bethlehem, GA.My husband, daughter, and I were in our pool around 10pm and we saw a red light approaching from the south. It was silent; and did not blink.It was about 50 degrees above the horizon.  It appeared to be flying as low as many of the smaller planes from the Winder and Gwinnett airports fly.  It changed its course and travelled to the east, toward the moon. We followed it behind the tree line, but it simply disappeared.Naturally, we kept our eyes on the sky.  Just two minutes later, following the exact same path, was another (or the same) red light. It was silent, in the same position in the sky, and did not blink.  It headed east and disappeared right in between us and the moon, as the moon’s light is much brighter.Other small planes were seen in the sky after the sightings; all of which had blinking lights and made sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88805.html](http://www.nuforc.org/webreports/reports/088/S88805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Durham (west of) (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 lights diagnal very close with the center light appearing the brightest.A bright light sitting in the sky west of Durham. Has been seen in the past.  When looked at with the naked eye it appears as a bright light but when looked at with binoculars 3 small lights are seen diagnal with the middle light the brightest. When looked at with 16x zoom on camera the 3 lights appear blue and red tinted.  Because of the city lights it is hard to make out the object accompanied by the lights.  The object sits in place and has yet to vanish but vanished the previous sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75318.html](http://www.nuforc.org/webreports/reports/075/S75318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
