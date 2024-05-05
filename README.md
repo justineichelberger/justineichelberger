@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 4 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Deerfield Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>saw explosion or similar in night skyWritten on May 6, 2006 at 6:28 AM:   Question: I saw something odd in the sky on May 4th, approx. 6:00 a.m. in the east. I live in Deerfield Beach, Florida. It was not a shooting star, but more like a comet, but it hung in the sky for a second and then dissappeared. It had a bright tail that remained also, and then faded away slowly. The body looked like it exploded and also slowly faded away. I know nothing about astronomy. I have seen many shooting stars and meteor showers. It was not either. I am 51 years old and have seen many things in the sky but nothing like this. I have been looking on line but cannot find anything except reference to the meteor shower referencing the remaining fragments of Haley's comet that might appear during this week. I will not rest until I find out what this was, as it was so awesome. Hope you can rest my mind. Background: Curious person, 51 years old. No background except the wisdom of the newlyelderly.((NUFORC Note:  We may have received other reports about this event, but we do not know what caused it.  It may have been a meteor, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50436.html](http://www.nuforc.org/webreports/reports/050/S50436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Brian, I'm in Seattle area. Saturday night at about 8 it was still light out and I came home from the grocery store and looked up through my trees and there is a star. I looked at it for a minute and realized there were no other stars in the sky. It was just too light out for stars. I ran in house and got my daughter and she saw it too. It wasn't there Sunday. I would have been facing south. I just went out and there are two of them. They look like a Y without an arm. Longer than a * . Clear night. Straight up and to the South slightly. I was looking at the front of my house that faces North and over the top of it is where I first saw it. No didn't move that I saw. Looked like a star except it was more like a line sparkle instead of a dot. It isn't Jupiter as that is to the right of it, and I thought the comets were lower on the horizon rather than straight up. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37128.html](http://www.nuforc.org/webreports/reports/037/S37128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
