@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:20 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:38 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Norton (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Triangular craft and other strange sightingsLate one night in early may, a freind and I were sitting on the back deck;it was around one in the morning. I caught a glimps of something moving from the corner of my eye.When I turned to look at it, I saw a triangular shape moving slowly at about a 45 degree angle. It seemed to be rather close, as I could make out the dark edges against the starry background. If I recall correctly, the object had three lights , one on each point of the triangle. The object made no sound. I immediatly called to my friend to ask if he was seeing what I was. He had not seen it, but just then we both saw something. This one was different. It looked only like a point of light, no noticeable shape. We saw several objects of this kind. They were more over head of us, and moved to the west\southwest. Some moved at incredible speeds, zigging and zagging across the sky. While others moved in what appeared to be a formation. First came four in a row, then six then eight. Some even looked as though they split in two. After about 20 min. of this we both spotted a triangle- shaped object, this one right over us, we could see lights on the bottom side. The lights seemed to change  color, from red to orange and white. It was very peculiar. We watched this go on for hours, or necks grew tired from cocking them back to see, so we layed down. I remember the clock was at 4:20 when I went in to bed. This was the third sighting I've experienced. In April of the same year,I watched a trianlgle-shaped craft silently fly across the sky in front of me. It had three lights. I was with a different friend, on the same deck. And once before a couple of years earlier, I would have been 18, so that was 1994. It was in spring, this one was like the triangular ones, but much higher. It moved horizontaly for a moment, before shooting upwards at a fantastic speed until I could no longer see it. Again I heard nothing. Neither I, nor my friend know just what we've seen. Could have been military. Who knows what they were, but they were not like anything I! have ev er seen before or since.((NUFORC Note:  Date is approximate.  We will invite the student who submitted the report to submit other, individual reports for her other apparent sightings of anomalous objects.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18206.html](http://www.nuforc.org/webreports/reports/018/S18206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 128</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156587.html](http://www.nuforc.org/webreports/reports/156/S156587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
