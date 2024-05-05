@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>P.S.154 Sighting in the South BronxI was playing at the P.S. 154 play yard.  I was playing right field on an asphalt ball field.  All of a sudden, the pitcher, Eddie Rodriguez looks up and continues to stare at the sky.  All the players looked up and there were 2 moons.  The moon that wasn't supposed to be there released a smaller object that soon overshadowed the original and was very large in the sky.  It looked like it was alive and was about fall on the ball field.  My friend, Eladio Alvarez, said run it's going fall on the park.  Eddie and I couldn't believe our eyes.  This thing was going to crush the park and everyone in it.  Over 150 people started running for their lives.  As I watched this thing get massive over the park, it disintegrated to the sides.  Disappeared and I've never seen anything like it again.  Many people saw this.  I just happened to be in the South Bronx play yard of P.S. 154.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37766.html](http://www.nuforc.org/webreports/reports/037/S37766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Silver City (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw seven flying craft with lights all flying in a line and then disappearing within seconds with no lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162978.html](http://www.nuforc.org/webreports/reports/162/S162978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
