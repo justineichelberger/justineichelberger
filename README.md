@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Brian, I'm in Seattle area. Saturday night at about 8 it was still light out and I came home from the grocery store and looked up through my trees and there is a star. I looked at it for a minute and realized there were no other stars in the sky. It was just too light out for stars. I ran in house and got my daughter and she saw it too. It wasn't there Sunday. I would have been facing south. I just went out and there are two of them. They look like a Y without an arm. Longer than a * . Clear night. Straight up and to the South slightly. I was looking at the front of my house that faces North and over the top of it is where I first saw it. No didn't move that I saw. Looked like a star except it was more like a line sparkle instead of a dot. It isn't Jupiter as that is to the right of it, and I thought the comets were lower on the horizon rather than straight up. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37128.html](http://www.nuforc.org/webreports/reports/037/S37128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was taking my evening walk in a westernly direction when I noticed a very bright light in the northwest.  The light was many times brighter than the stars in the background. The light was proceeding in a southeast direction and traveling very slowly.  As it came closer to me it appeared to become as bright as a city lit up in the heavens.  The object had a triangle shape to it with immense bright lights down each side of it.  This ufo was about 3000 to 4000 feet above me and slowly glided past me without making a sound. I could not gauge the deminsions of the craft but suspect that it may have been hundreds of feet long.  It went directly over my head and then. zip it was gone.  I am now a firm believer in ufo's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81511.html](http://www.nuforc.org/webreports/reports/081/S81511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
