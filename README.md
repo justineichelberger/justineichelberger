@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:38 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 128</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156587.html](http://www.nuforc.org/webreports/reports/156/S156587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tollhouse (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.0033333333333333335 - 0.0033333333333333335 minutes.</sub><blockquote><sub>10-12 objects flying in formation just above horizon, silently one after the other going north over SierraOn Wednesday, May 5th at 20:57-59, I looked southward out my bathroom window as sirens had just gone by and I could see a sheriff's helicopter in the far distance south of me, then out of the corner of my right eye, following the large electrical lines going North, were what looked like 10 to 12 Canadian geese flying in sequence one after another with lights on each object, silently flying medium speed but close to the ground or at least on the horizon, just above the high power electrical lines. I ran outside with both my glasses and binocs but didn't need them because there they were, 10-12 similar objects, flying one in front of the other going north, no sound, but lights under each one. They were just flying in sequence, going north towards Fallon, following the same trajectory that jets from Lemoore to Fallon follow. They were soundless, there were other aircraft in the sky close enough to see this spectacle but I see no mention of it on the internet. H! owever, it is similar to one sighting in the April sightings near the east coast of the USA but the difference is they were all staying the same altitude and in formation like Canadian geese with lights under their bodies. Please someone tell me they were drones? Not likely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162950.html](http://www.nuforc.org/webreports/reports/162/S162950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
