@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bliss (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw these lights and Bliss Idaho.They were all in a straight line.Possibly a little higher than a small plane would fly.Moving slowly from west to east,And then after they went over my head they dissipated and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162963.html](http://www.nuforc.org/webreports/reports/162/S162963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Rosa Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Off of scenic Hwy 30A in Santa Rosa Beach, two orbs (fireballs) hovered stationary for well over 5 minutes.While closing down my rooftop bar, I looked up to notice a bright light in the sky off to the NW that I've never noticed before. Initially I thought it was a helicopter or low flying plane but it was one single light.  I work with aviation as a aircraft technician also so I knew this wasn't normal.  I got  concerned when I noticed it was not moving at all nor was there a trail of sound  for the distance it was away, if it were a plane etc. there would be sound of engine or propellers.  About 20 seconds later a second light appeared parallel to the first.  They remained in the sky for well over 5 minutes.  Another employee with me also witnessed it and neither of us could make sense of it.  I thoughtt maybe a tower had gotten put up recently that I has not seen but the first orb began to slowly rise upward until it was adjacent to the second.   They then burned out at  the exact same time  like someone let gas out of a lantern slowly.  I saw no sign of them afterwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109219.html](http://www.nuforc.org/webreports/reports/109/S109219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
