@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was taking my evening walk in a westernly direction when I noticed a very bright light in the northwest.  The light was many times brighter than the stars in the background. The light was proceeding in a southeast direction and traveling very slowly.  As it came closer to me it appeared to become as bright as a city lit up in the heavens.  The object had a triangle shape to it with immense bright lights down each side of it.  This ufo was about 3000 to 4000 feet above me and slowly glided past me without making a sound. I could not gauge the deminsions of the craft but suspect that it may have been hundreds of feet long.  It went directly over my head and then. zip it was gone.  I am now a firm believer in ufo's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81511.html](http://www.nuforc.org/webreports/reports/081/S81511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Norris City (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 115</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141715.html](http://www.nuforc.org/webreports/reports/141/S141715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
