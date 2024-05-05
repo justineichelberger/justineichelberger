@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 5 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rogersville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately Driving Home - Driving Home minutes.</sub><blockquote><sub>The Object is circle and the color is gray and one part was shiny and was coming out of clouds.  It must have been moving at speeds of lighting cause I didn't see it by looking in that direction it was later seen in the pictures.  It shows the object in 2 pictures and it's just unidentified..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127256.html](http://www.nuforc.org/webreports/reports/127/S127256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Los Angeles CA.  28 years ago.  Spheric light travelling at a steady speed.   I knew of nobody to report it to.  But now I can!May 1980 Los Angeles California, approximately 4:00 am.  Clear dark sky.I was 15 years old walking with my oldest sister on 9th street towards downtown Los Angeles, CA. Heading for the Greyhound depot.  It was dark and quiet.  All I had in mind was the approaching boycotted Moscow Olympic games.A small spheric light appeared traveling horizontally in a straight line, and paralleling 9th street (West to East).  At a height of, I would say, half the height of the terrorized 9/11 tween towers of New York.No sound at all. It left no trail behind (as an asteroid would).  It did not appear to be descending or decelerating.  A very stable and fast speed.It disappeared in the skyline of downtown Los Angeles.Feeling disturbed, I turned around and asked my sister,"did you see that?". "Ahu..yes", she responded.  We both kept walking disturbed and quiet since it was too early in the morning and we were still sleepy.A few minutes later, I still asked,"did you really see it?  It was a light bulb, or something like that..right?" She responded, "yes".What ??  A LIGHT BULB ? ?  IT WENT INTO ONE OF THE BUILDINGS, OR IN BETWEEN THEM, OR SOMETHING !", I said again.My sister was, I believe 18 years old, and I'm sure her mind was into guys most of the time.The spheric light we saw seemed as big as tower window.  I can compare it so because there were many buildings around where we last saw it.That left me a question mark for ever.  I know I will never see that again.At my age of 43 and with so many TV programs regarding the subject, I need to say it!((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64063.html](http://www.nuforc.org/webreports/reports/064/S64063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
