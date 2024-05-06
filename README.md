@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:28 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Buffalo Grove (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular object with multiple lights arround the outside and hovering noise coming from it.It was dark outside, no clouds and then all of a sudden as we were sitting in his my friend's backyard a flying object in the distance appeared.  First, the immediate thought was a plane, but this object had multiple colors that a plane does not have.  White, green, some blue, and some red.  It was flying a lot lower than an airplane would.  As we ran to the street for a better view, we saw this object had a circular shape and we were 100% sure.  Listening closely, there was a noise coming from it (low whistling noise only heard when silent).  Was moving very slowly and eventually we lost track of it, but not before getting a clear view of it being a complete circle shape which automatically eliminates the possibility of it being a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127213.html](http://www.nuforc.org/webreports/reports/127/S127213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mendocino (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The dogs started barking. I walked outside to find my husband and happened to glance up b/c a light caught my eye.  I continued to watch closely as this "mini-sun" looking fireball was moving slowly just above tree line - not high at all.  It bobbed back and forth as it moved up the mountain.  It was so close. I watched in disbelief.  I was not frightened at all but very curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81498.html](http://www.nuforc.org/webreports/reports/081/S81498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
