@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Queens) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Brilliant white orbs, similiar to stars, in the sky over Queens, New York.This sighting happened at 2:30 in the afternoon in a brilliant blue sky.  I was walking along Queens blvd.  and noticed a man walking towards me and staring directly upward toward the sky.  This seemed odd to me because the man was transfixed on what he was looking at.  Ofcourse this peeked my interest, so I looked at what he was staring at too.  At first I did not see what he was looking at, but then the object caught my eye.  There was not a cloud in the sky. Im not sure if it was supposed to be a full moon that night, but the moon , atleast 80% full was out at 2:30 in the afternoon.  I just so happened to be wearing sunglasses.  If I hadn't had them on I wouldn't have been able to see this oval shaped ufo.  It was a brilliant white "orb" about as high in the sky as a visible planet or north star. Both of which I thought this to be.  Just as I was about to continue my walk and right this off as a star, it moved.  It moved left to right a very short distance.  I couldn't have been a plane.  It couldn't have been a helicoper. It couldn't have been a balloon.  I stood there and tried to convince myself that this was something that I could explain easily.  And then from the Northwest came from nowhere, three more.  Directly north of the first object came two more.  In total there were six.  All the same size color, shape and brightness.  Now I was freaked.  What the hell was I looking at?  It was such a bright, sunny day that I could't get anyone else to stop and witness what I was looking at.   The man that originally was the reason I stopped in the first place had gone.  The objects that came from the northwest moved slowly towards the first object almost forming a triangle formation.  The two from the north were just slowly downward almost as if they were on strings.  Almost as quickly as they appeared, five of them vanished upward as if pulled straight up on strings.  The original orb never left the sky.  I stood there for about 45 mins and then headed home.  When all six orbs were in ! the sky at the same time, they reminded me of what skydivers falling together to make a formation might look like.  The only problem is that these objects never fell to earth as skydivers must eventually do.   So there you have it, my first ufo sighting.  Its official.  I am the most skeptical person I know.  Im one of those "see it to believe it" people.  Now i've seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56822.html](http://www.nuforc.org/webreports/reports/056/S56822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>Saw 5 ORANGE ORBS going West near the North Bridge on Quadrille Ave. in West Palm BeachOn May 6, 2014 at approximately 10:30 PM in West Palm Beach I was driving on Quadrille Avenue towards the North Palm Beach Bridge when I witnessed 5 slowly moving orange orbs.  They were in a loose clustered formation.  I was unable to determine how long they were in the sky because I was driving.  They seemed to pause for a moment.  Confident they were not planes or helicopters, which I see frequently in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109238.html](http://www.nuforc.org/webreports/reports/109/S109238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
