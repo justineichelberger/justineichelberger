@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mendocino (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The dogs started barking. I walked outside to find my husband and happened to glance up b/c a light caught my eye.  I continued to watch closely as this "mini-sun" looking fireball was moving slowly just above tree line - not high at all.  It bobbed back and forth as it moved up the mountain.  It was so close. I watched in disbelief.  I was not frightened at all but very curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81498.html](http://www.nuforc.org/webreports/reports/081/S81498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Ball of light moving east - away from SF - appeared to wobble, made a sudden shift, then disappeared in the still-dark morning sky.It looked like a star, but then looked like it was moving away from us.  My friend and I were standing on the Embarcadero, looking out toward the Bay Bridge, facing East (toward Oakland).  I rubbed my eyes, I blinked, I asked my friend if he was seeing what I was seeing.   It was definitely moving away from us, but wasn't a plane or a helicopter or a meteor/"shooting star."  As he said, it was a "wobbler" - it was moving slowly and appeared to wobble, then it suddenly shifted to the south and went dark.  It was there, then it was gone.  I got a little video, but I couldn't get a steady shot but I do think you can see the ball of light, almost directly above the bridge.  The only "rational" explanation we could come up with was a drone, but that doesn't actually make sense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134036.html](http://www.nuforc.org/webreports/reports/134/S134036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
