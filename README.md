@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bocholt (Germany) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by source.  Source does not respond to e-mail.  ))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109213.html](http://www.nuforc.org/webreports/reports/109/S109213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of ten bright lights over Palm SpringsTen lights were moving in a southeasterly direction in what appeared to be a formation. Lights were spaced evenly apart at approximately one to two degrees separation. Their speed seemed to be constant, they were not accelerating. The lights were bright white, there were no colored lights visible and no sound at all. The lights were not moving in the direction of Palm Springs airport and disappeared to the southeast about 2 minutes after the initial siting. I did not have my camera with me to take pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162956.html](http://www.nuforc.org/webreports/reports/162/S162956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
