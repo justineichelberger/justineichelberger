@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:27 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Military jet takes off and tries to intercept a disc-shaped UAP. As jet gets close, both UAP and jet suddenly disappear.My friends and I were returning home, traveling north on Rte 54 (Patriot Freeway).  At about 3:01 pm I noticed a fighter jet taking off from Biggs Airfield at Fort Bliss, El Paso, TX.  As I watched it ascend, it began to turn East away from me as it climbed rapidly.  I thought its flight path unusual, and continued to watch it ascend towards a bank of clouds above it.  The jet turned so sharply that its wings were vertical to the ground as it made a U-turn back towards the South.  Then I noticed an object hovering just below the clouds over Biggs Army Airfield.  I recognized it as a UAP or UFO, and grabbed my cell phone camera.  It took me a few seconds to get the camera operating.  By that time the jet was rapidly closing the gap with the UAP.  In response, the UAP began to back up and move away from the approaching jet.  I was stunned!  I aimed my camera and pushed the shutter button, but my cell phone camera did not respond fast enough.  Suddenly both the UAP and jet both disappeared.  The photograph time is 3:03 pm, taken just after the jet and UAP disappeared.  I asked my friend, who was driving, and he said he didn't see it.  He is an audio witness to my sighting.  I have no idea what happened to that jet.The picture shows the scene with the distant Hueco Tanks Mountains and sacred Cero Alto Mountain (tallest) in the background to the East.  The picture recorded the date and time of the photograph, and even GPS location of our car at 3,000 Gateway North Boulevard (access road to the Patriot Freeway).  Visibility was excellent at 10 miles.  I overlaid the photo with an image of what type of UAP/UFO I saw and the type of jet, as best as I could make out from four miles away (map distance).  I added dots to mark the path of the jet as it made a high-angle U-turn towards the UAP/UFO.I posted this picture and account on my Facebook profile, and had a number of responses.  Ted Roe of NARCAP made an interesting comment:  T. R. (NARCAP)  My guess.... plane was too close when the ufo bolted, inside the envelope when it jumped.  Probably carried the plane with it to where ever it was when it stopped... F18.... I watched one pursuing an object that appeared to be 2 silver spheres connected with a thin bar.... it left instantaneously but the plane wasn't that close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146576.html](http://www.nuforc.org/webreports/reports/146/S146576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big glowing orange balls in the skyEvery Wednesday between 8:30 and 10:30 on the South side of town towards Parker I see several dark orange lights in the sky.  They start big and shrink down till they are gone.  They resemble flares but do not float downward but stay in the sky until they are gone.  They are bigger and orangier than a flare.  They are in the same general area every time I see them.  I have no idea what they could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69958.html](http://www.nuforc.org/webreports/reports/069/S69958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
