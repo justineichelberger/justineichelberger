@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Lebanon (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman repts. seeing two large, bright objects, like "funnels of light," in eastern sky from top of Snow Peak.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00496.html](http://www.nuforc.org/webreports/reports/000/S00496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Still River (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Bright Yellow/Pale Orange Light in the Northwest Sky over the Former Fort DevensLast night, about 10:30pm, I went to go pick up my sister from her high school film festival.  After I picked her up I proceeded to drive on Rt. 110 towards Harvard, MA to bring her to my Father's house.As I proceeded down the road, I saw a large bright yellow/pale orange light in the sky about 20 degrees on the Horizon, that was far brighter than any planet that should have been in the area of the Northwest Sky. I proceded to drive and look at the moon as a reference point and thought the light was moving very slowly.This really blew my mind, because I had no idea what this light could be. I broke off of Rt 110, and drove up a large hill towards the "Fruitlands Museum" in Harvard. Since there's a great view of the Northwest sky from this Orchard hill with many lookout points, we had to get a better look. As we pulled in, my sister and I jumped out of the car to watch this large glowing object varying in lighting intensity in the Northwest sky hovering about 20 degrees over the horizon over the prison hospital near the former Fort Devens.We watched this object slowly move up and down over the lights of the prison hospital for must have been 6 minutes. During this I called my girlfriend to describe what I was seeing and have her call her mother who lives close in the area to look at the sky. My sister also called her friend from her cell phone to look in the sky. As we were watching this object, we noticed lights circling in the cloud cover to the right of the object in the sky. We never saw any definitive objects or lights, but there were lights circling in the clouds making very erratic, then circular patterns.  There were no spotlights shining up from the ground.  There were many cars passing on Rt. 2 which is visible from this point, so someone else driving on the road has to have had to seen this object. All of a sudden the light disappeared, just like it clicked off. Just moments after it shut off,  2 fast flying planes came into the area, I could hear them before I could see them. But saw lights on wings fly fast into the general area towards us, then bank around 180 degrees back towards the area we saw the craft. The planes flew around until we noticed there were no more lights shining in the clouds. We watched the sky for about 10 more minutes and saw nothing so we headed back home. We got home shortly after 11:00pm.  Now ontop of this story, I went to check the call time on my phone to see how long I was on the phone with my girlfriend. There was no record of this call on my cell phone when there should have been. There was no record of this call on my girlfriends phone. Then on a separate line with my sister's phone, she has no record of making this call. I don't know what this means or even if it is a critical piece of the story, but I found it odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50457.html](http://www.nuforc.org/webreports/reports/050/S50457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
