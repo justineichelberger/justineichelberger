@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>Saw 5 ORANGE ORBS going West near the North Bridge on Quadrille Ave. in West Palm BeachOn May 6, 2014 at approximately 10:30 PM in West Palm Beach I was driving on Quadrille Avenue towards the North Palm Beach Bridge when I witnessed 5 slowly moving orange orbs.  They were in a loose clustered formation.  I was unable to determine how long they were in the sky because I was driving.  They seemed to pause for a moment.  Confident they were not planes or helicopters, which I see frequently in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109238.html](http://www.nuforc.org/webreports/reports/109/S109238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2 1/2 hrs. - 2 1/2 hrs. minutes.</sub><blockquote><sub>SILENT TRIANGLE SPARKLING LIGHTS INVISBLE CENTER.SPARKLING LIGHT, LOOKED LIKE WHITE CHRISTMAS TREE BULB FROM A LONG DISTANCE. THE OBJECT WAS IN THE WESTERN SKY MOVING VERY SLOWLY IN A WESTERLY DIRECTION. IT WAS MOVING SO SLOWLY THAT AT FIRST GLANCE IT DID NOT APPEAR TO BE MOVING, BUT AS WE NOTICED IT AGAIN IT HAD MOVED JUST SLIGHTLY. IT HAS TAKEN OVER 2 HOURS FOR IT TO CROSS THE SKY BEHIND THE TREES. THERE WAS NO SOUND, NO JET SPRAYS, NO WINGS. IT WAS SHAPED LIKE A TRIANGLE AND HAD 3 LIGHTS (ONE ON EACH TIP)- THE CENTER WAS CLEAR OR NOT VISIBLE TO US. WE ARE THREE ADULTS WHO WATCHED IT MOVE VERY SLOWLY ACROSS THE SKY FROM THE  FRONT PORCH OUT IN RUAL AREA ON THE WEST SIDE OF TOWN WELL AWAY FROM MAIN TRAFFIC OR A LOT OF LIGHTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75327.html](http://www.nuforc.org/webreports/reports/075/S75327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
