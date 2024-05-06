@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:27 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:12 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big glowing orange balls in the skyEvery Wednesday between 8:30 and 10:30 on the South side of town towards Parker I see several dark orange lights in the sky.  They start big and shrink down till they are gone.  They resemble flares but do not float downward but stay in the sky until they are gone.  They are bigger and orangier than a flare.  They are in the same general area every time I see them.  I have no idea what they could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69958.html](http://www.nuforc.org/webreports/reports/069/S69958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cacak (Serbia/Montenegro) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately no - no minutes.</sub><blockquote><sub>It was lot of them in cacak.It was 3 crafts,they are just flew away.My English is bad.Sory.They are comming often in Cacak.Lot of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29114.html](http://www.nuforc.org/webreports/reports/029/S29114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
