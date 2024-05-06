@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Joplin (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>disc shape with faces in middle, bright light changing into different shapesAs soon as I step out my back door to the west and look up above the tree line there appears a bright white light. My friend said it followed her home the first night. Then the next I recorded it. It first looks like a bright halogen bulb then it starts changing into the most weird shapes it goes to a round disc with a hole in the middle that seems to pulsate. It is a pink color then it suddenly changes into a white fireball that flickers and moves. Also it changes into a blue fireball with different color outlining it. While the object is round with the eye inside the pink it shows different faces. The object moves down ward and disappears after around 11:30 pm. It is in the same place every night I have seen it. I have 90 mintues of video of the object.((NUFORC Note:  Venus sighting, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36752.html](http://www.nuforc.org/webreports/reports/036/S36752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mason (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 24:00 - 24:00 minutes.</sub><blockquote><sub>The object was made out of a silver metal and from far away looked like a shooting star. So my husband and i went outside to watch it. THen some of the neighbors started coming out as it got closer. It was made of some sort of silver metal with white and green lights around the side. It was an odd shape, that i've never seen before. Sort of like the stereotypical space craft, disk shaped. But it had sort of a hexagonal center. It slowly landed down in the woods near our house. We drove through the woods but could not ind anything.((NUFORC Note:  We will invite the other witnesses to this alleged incident to submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28980.html](http://www.nuforc.org/webreports/reports/028/S28980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
