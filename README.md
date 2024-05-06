@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7-10 orbs that first looked like stars moving in a line, south towards Lake Ontario.Hello, I was out walking my dog the other week around 11:00 pm and saw something curious. I saw three stars in the sky and thought it was Orion's belt, but then noticed that were slowly moving southbound towards Lake Ontario. The three orbs (they just looked like stars, they were very distant) moved along at a constant pace, southbound. Then I noticed another orb appear on the north end of the line, also moving southbound. More orbs started appearing in this fashion in a straight line, steadily moving southbound. When the line was about 5 orbs long, the southmost one would disappear. Approximately 7-10 orbs appeared and travelled along this route until they faded from the sky one by one reaching the "end" of the line . Nothing crazy, just thought it seemed curious and I didn't know what they could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163171.html](http://www.nuforc.org/webreports/reports/163/S163171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tamarac (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Extremely bright orange ball of light quickly ascending into sky, leaving a slight trail as it rose.  Continued ascending for about 120 seconds, growing dimmer as it rose to about 40,000 ft (best guess based on other aircraft in vicinity.)  Did not disappear completely until travelling behind extremely thick cloud cover.  Made a very quiet humming sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127189.html](http://www.nuforc.org/webreports/reports/127/S127189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
