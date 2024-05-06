@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of ten bright lights over Palm SpringsTen lights were moving in a southeasterly direction in what appeared to be a formation. Lights were spaced evenly apart at approximately one to two degrees separation. Their speed seemed to be constant, they were not accelerating. The lights were bright white, there were no colored lights visible and no sound at all. The lights were not moving in the direction of Palm Springs airport and disappeared to the southeast about 2 minutes after the initial siting. I did not have my camera with me to take pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162956.html](http://www.nuforc.org/webreports/reports/162/S162956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Talbot (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Spotted slow moving craft with blinking lights ESE of I-5 in Marion County OregonI was driving south on Interstate 5 and spotted object with 4 lights, outer lights white and inner lights blue, all lights flashing in sequence left to right.  Spotted the object to ESE of the freeway at or around mile marker 248.  Object hovered at first but then moved in a very slow fashion toward ESE direction.  Could continue to see the object, which moved very slowly up until mile marker 236 where it became obscured by lights of the city of Albany.  I estimate that the object was about 300 feet in altitude.  It appeared to be flying much slower than an airplane and it was too big to be a helicopter.  I felt like I was looking at the back of a large wing-shaped craft but as I stated, it moved too slow to be any sort of plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139747.html](http://www.nuforc.org/webreports/reports/139/S139747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
