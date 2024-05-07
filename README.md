@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:21 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port Richey (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Sonic boom denied by military source per McDill AFB, Lt Patrick Gargan.  Reports by 911 from Holliday to Spring Hill, Fl (about 40 miles) also reported in Tampa Bay Times sec 3B front page at bottom.  Was very loud rattling dishes and too many witnesses for military to not have on radar.  So, either military lying or "something" else involved.  No real reason for military to deny such an event as plane breaking sound barrier.((NUFORC Note:  Link to article in Tampa Bay Times, where article can be found.  http://www.tampabay.com/ PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109252.html](http://www.nuforc.org/webreports/reports/109/S109252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Luka (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The Object  Transmitted A Noise Then Flew OffI Was Out Watering My Dogs And I Laid On The Ground I Stayed There For I A Minute Or Two And I Saw This Object In The Sky And I Thought It Was Just A Airplane Flying Over So I Just Stayed Lying On The Ground But As It Got Closer It Looked Unlike Any  Airplane Or Helicopter And It Made No Noise So I Stood Off The Ground And Looked At The Object Of A Shining Color And Disk Like SHape I Have Not Seen With Blood Red Lights On The Sides And One On The Bottom And Then I Heard A Screech In My Ears And My Head Began To Throb And Then It Stayed There Floating And The Noise Stopped After A Minute And Then The Object Shined Brighter And Then Shot Of Like A Jet Up In The Air And Disappeared In The Sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75469.html](http://www.nuforc.org/webreports/reports/075/S75469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
