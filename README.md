@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Ada (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UnexplainableI do not believe in aliens.  Until now.  As my best friend and I drove along a well traveled highway I saw some lights out of the corner of my eye.  I figured it was an airplane because it was moving through the sky and it was fairly low, however there was an airport close so I thought maybe that was the cause.  I really didn't pay that much attention until my best friend asked me what it was.  I looked again and the object had come to a complete stop.  It looked to have a search light of some sort.  She stopped the car and we came a stop in the middle of the highway.  The object made no sound.  We continued to stare at the object we then decided to turn around and come back.  To turn around and drive back by the sight where we saw the object took a maximum of 45 seconds and the object was gone from sight.  If the object had been a helicopter not only could we have felt to force of the spinning propeller but when the helicopter flew off we would have seen it in the sky.  Airplanes don't hover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28730.html](http://www.nuforc.org/webreports/reports/028/S28730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This report submitted by Chris Rutkowski, renowned UFO investigator and author in Manitoba.  Chris is co-author of the annual survey of Canadian UFO sightings:  Two Ph.D. researchers witness peculiar "amorphous" ball of light, located almost directly overhead,  in the night sky, and are confused that they are not able to identify it.  It appeared to them to be internally lit, and it appeared to have an internal "structure," as well.  It appeared to have a blue fringe of light around its periphery.  The object's apparent size was approximately "a few degrees."  (The Moon subtends an arc of approximately 0.6 degrees (est.) The researchers photographed the object with a digital camera, but have not released the photograph, yet.  They apparently are trying to make up their minds regarding what to do with the data, and with the photograph.    ((NUFORC Note:  Our gratitude to Chris Rutkowski for sharing the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23264.html](http://www.nuforc.org/webreports/reports/023/S23264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
