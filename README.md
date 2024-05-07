@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Luka (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The Object  Transmitted A Noise Then Flew OffI Was Out Watering My Dogs And I Laid On The Ground I Stayed There For I A Minute Or Two And I Saw This Object In The Sky And I Thought It Was Just A Airplane Flying Over So I Just Stayed Lying On The Ground But As It Got Closer It Looked Unlike Any  Airplane Or Helicopter And It Made No Noise So I Stood Off The Ground And Looked At The Object Of A Shining Color And Disk Like SHape I Have Not Seen With Blood Red Lights On The Sides And One On The Bottom And Then I Heard A Screech In My Ears And My Head Began To Throb And Then It Stayed There Floating And The Noise Stopped After A Minute And Then The Object Shined Brighter And Then Shot Of Like A Jet Up In The Air And Disappeared In The Sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75469.html](http://www.nuforc.org/webreports/reports/075/S75469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately  -  minutes.</sub><blockquote><sub>Huge Boomerang shaped ufo with single front bright light and tiny bright lights in sequence on edgesI had been driving home from 29 palms marine base when i saw a bright light searching as if it were a helicopter search light but as it turned in front of me across the street to a huge empty lot by rocky hills around the desert and i realized it was a huge boomerang shaped ufo with a sequence of lights ont he very edges.  All the lights were bright white.and 2 seconds later im not sure if it landed or what but it was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50815.html](http://www.nuforc.org/webreports/reports/050/S50815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
