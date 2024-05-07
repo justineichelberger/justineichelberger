@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This report submitted by Chris Rutkowski, renowned UFO investigator and author in Manitoba.  Chris is co-author of the annual survey of Canadian UFO sightings:  Two Ph.D. researchers witness peculiar "amorphous" ball of light, located almost directly overhead,  in the night sky, and are confused that they are not able to identify it.  It appeared to them to be internally lit, and it appeared to have an internal "structure," as well.  It appeared to have a blue fringe of light around its periphery.  The object's apparent size was approximately "a few degrees."  (The Moon subtends an arc of approximately 0.6 degrees (est.) The researchers photographed the object with a digital camera, but have not released the photograph, yet.  They apparently are trying to make up their minds regarding what to do with the data, and with the photograph.    ((NUFORC Note:  Our gratitude to Chris Rutkowski for sharing the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23264.html](http://www.nuforc.org/webreports/reports/023/S23264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Grand Prairie (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1978 Ufo Grand Prairie Century 4 drive In.In 1978 I was 10 years old, my family decdided to go to the drive in on monday (family car night) to see a documentry called "Beyond and back" about life after death. The drive in was called the century 4 drive in. It was located in Grand Prairie Texas off of Great Southwest pkwy near the GP and Arlington border. Beyond and back was the second feature. the drive in was about 50 % full.I was young so I was playiny in the gravel and my parents and brother were on the tailgate of a old truck. I noticed people flashing headlights and honking I then noticed people getting out of there cars. I heard my mom say "oh my gawd----Do you see that?" My father say yes as well as did my brother. By the time I looked up the UFO was gone. What they claimed to see was a Trinagular Ship that made no sound, the size confirmed by all 3 was as big as a football field. It had lights beneath it in a variety of colors and when it decided to leave it went from a stand still hover to the size of a star in a matter of 3 seconds. One more thing I need to add, the US naval airbase and a shop called Vought was less tahn 10 miles away near Moutian Creek Lake. I know this sighting was real we still talk about almost 30 years later.((NUFORC Note:  Date of incident may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55578.html](http://www.nuforc.org/webreports/reports/055/S55578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
