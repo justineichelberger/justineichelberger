@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>An experienced amateur astronomer photographed an unusual object in the night sky. It could not be identified.A scientist, who is also an experienced amateur astronomer, was watching the sky and doing some astrophotography late one night from the deck of his home. He visually observed a "fuzzy patch" luminosity near the end of the Big Dipper. The object hung motionless for 30 minutes as he took several photographs with his digital camera. The object could not be identified as a star, planet, comet, meteor, satellite or aircraft. He insists on anonymity and will not allow publication of any of the photographs.((NUFORC Note:  Our gratitude to noted Canadian UFO investigator, Chris Rutkowski, (Ph.D.??) in Winnepeg, Manitoba, who is acquainted with the two witnesses, and who submitted this report.  Chris can be reached at the following e-address:  rutkows@cc.umanitoba.ca</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23326.html](http://www.nuforc.org/webreports/reports/023/S23326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hoodsport (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO'S OVER THE HOOD CANALAt first we saw one bright colorful light.  It seemed to be the mother ship, because three white lights came from it.  They were going above the tree line back and forth on the other side of the Hood Canal. Then we noticed two white lights above our heads.  They were moving side by side.  I'm not really sure of exactly how many there were because they would disappear and reappear.  The one that was the brightest didn't go very far.  The smaller ones ventured out.  We have been watching for about one hour and my son and neighbors are still watching.  Its very exciting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88847.html](http://www.nuforc.org/webreports/reports/088/S88847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
