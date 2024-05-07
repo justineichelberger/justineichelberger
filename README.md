@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>round flying object, Largo, FL.I was sitting outside enjoying the evening when i saw a round object flying across the sky (sideways) from west to east. It was very direct and at a pretty good speed.I stood up and kinda walked along to watch it because i've seen something similar here in Largo a few years ago (someone else actually reported seeing that here in Largo, FL). I saw a jet flying south east and i could compare the two. This object was perfectly round and looked nothing like a plane/jet.The color was kinda strange and i can't explain it. It might have been from the orange glow of the setting sun. It looked sorta pale orange/gold or something.And just like the last one i saw a few years ago, it just disappeared. It didn't get smaller or anything it was just gone. There were a few clouds but they were really low.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50455.html](http://www.nuforc.org/webreports/reports/050/S50455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Ada (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UnexplainableI do not believe in aliens.  Until now.  As my best friend and I drove along a well traveled highway I saw some lights out of the corner of my eye.  I figured it was an airplane because it was moving through the sky and it was fairly low, however there was an airport close so I thought maybe that was the cause.  I really didn't pay that much attention until my best friend asked me what it was.  I looked again and the object had come to a complete stop.  It looked to have a search light of some sort.  She stopped the car and we came a stop in the middle of the highway.  The object made no sound.  We continued to stare at the object we then decided to turn around and come back.  To turn around and drive back by the sight where we saw the object took a maximum of 45 seconds and the object was gone from sight.  If the object had been a helicopter not only could we have felt to force of the spinning propeller but when the helicopter flew off we would have seen it in the sky.  Airplanes don't hover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28730.html](http://www.nuforc.org/webreports/reports/028/S28730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
