@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Springhill (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shapeshifting light seen by 2 teenagers at night  500 Lights On Object0: YesMy friends and I were playing "Man Hunt" (tag in the dark, pretty much) when I sighted a small ball of light moving across the sky. It was white, glowing dimly, moving straight across the sky; at an arm's length, it was about the size of a pinhead.  A few seconds later, it stopped in the middle of the sky, and I asked my friend if he could see it too.  He said he could, and as I looked back the object quickly grew in size. I am unsure if it came closer or it just grew at the original distance, but it became equal to the size of a basketball at arm's length.  It stayed like this for about 2-3 minutes, then it vanished in an instant.  There were no sounds or additional light sources, and I have seen satellites in the sky before; this was no satellite.  Afterwards I do not remember how much time may or may not have actually pasted.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92756.html](http://www.nuforc.org/webreports/reports/092/S92756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cambria (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>In Cambria, NY (Niagara County) on May 7, 2011 at about 9:30 pm a huge rectanglar light, approximately 40 feet by 60 feet, appeared in our open field.  The light lasted about 6 seconds with no beam of light or source evident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81175.html](http://www.nuforc.org/webreports/reports/081/S81175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
