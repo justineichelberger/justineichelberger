@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hoodsport (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO'S OVER THE HOOD CANALAt first we saw one bright colorful light.  It seemed to be the mother ship, because three white lights came from it.  They were going above the tree line back and forth on the other side of the Hood Canal. Then we noticed two white lights above our heads.  They were moving side by side.  I'm not really sure of exactly how many there were because they would disappear and reappear.  The one that was the brightest didn't go very far.  The smaller ones ventured out.  We have been watching for about one hour and my son and neighbors are still watching.  Its very exciting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88847.html](http://www.nuforc.org/webreports/reports/088/S88847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Comstock Park (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4-5 bright lights or disks in sky motionless for at least 30 minutes.I was leaving to go to Walmart at 5:15 and to east of me there were this extremely bright light with beam shooting downwards about 100 feet.  There was either other craft of this was very large as there were about 4 more white lights at about 30 degree down angle on right side.  It was completely motionless and emitted no sound.  I would guess altitude was about 1000 feet.  I went to Walmart, about 8 blocks west of my residence and could see it very plain from their parking lot.  It was still motionless with all same lights.  I spent about 7 minutes in Walmart buying 3 items and came out and it was there still.  As I got to my car another shopper was coming out.  I asked him if he saw white light(s) motionless in sky.  He agreed he did.  I said I have never seen anything like this or what could be construed as UFO.  He said he didn't believe in them and left.  I went home and searched for binoculars (which I had once) but could not find them.  I did not have! camera with zoom lens either.  The Light(s) were still there and just as bright.  I check whole sky horizon and saw few dim starts but NOTHING as bright as this or as many.  Daylight was just starting to happen and brightness of light(s) did not change at all.  Few stars I saw were gone now.  I went downstairs and turn on my computer and came back up in about 10 minutes and it was all completely done.  When I was at Walmart I remember hearing plane to my extreme west and that sound went away.  This did NOT have any sound.  If it was any kind of chopped the rotor wash I would have heard easily, as it seemed only about 1 mile away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133998.html](http://www.nuforc.org/webreports/reports/133/S133998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
