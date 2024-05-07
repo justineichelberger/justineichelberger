@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Walton (IN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was cutting grass on rider, when I seen a big shadow of a hawk or vulture that seemed close, so I looked up didn't see the bird but something way up caught my eye it looked like a spotlight or something reflecting.  It looked like it wasn't moving at first, but it was slowly moving southeasterly.  It was way past a nearby chem-trail and very small I thought it might be the space station.  It moved at about that pace.  I did not think a person could see that far in the daytime hours.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133994.html](http://www.nuforc.org/webreports/reports/133/S133994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Triangular bruise with three red lines horizontal insideI have been in bed with the flu since Sunday night, May 7, 2006.  I woke Sunday morning with a scratchy sore throat.  I had a recital to give, and had to go forth.  By evening, I was very ill.  I had a horrible sore throat - the worst I've ever felt.  Monday afternoon, I noticed that I had a terribly sore spot on my left arm where it junctions with my torso.  I was confused as to why it would hurt.  Being as ill as I was, I never undressed.  On Tuesday, May 9th, while dressing so my husband could take me to the doctor he noticed this triangular shaped bruise, one ince long, with three red lines going thru it horizontally!  I looked and said, "That's where the pain has been."  I know I did not do this by hitting or bumping into anything.  While at the doctors, at Kaiser, I wrote on a pad of paper, Look at this!  The doc said, "Well, we know you're prone to brusing easily, we could do another test but this looks like you got hit with a three-pronger."  I have no idea what she meant.  At that time, I couldn't even make a sound, I had lost my voice totally. So I just shrugged my shoulders and left the office.  Today, wednesday, I'm a bit better, at least not in bed, and I'm investigating what could have caused this bruise.I do not know what happened.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  The witness provides a good photograph of the wound.  We are unable to certify that the wound is related to UFO's or an abduction scenario, but the fact that a person could have such a serious lesion, and not remember its source, seems unusual to us.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50511.html](http://www.nuforc.org/webreports/reports/050/S50511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
