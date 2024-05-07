@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately  -  minutes.</sub><blockquote><sub>Huge Boomerang shaped ufo with single front bright light and tiny bright lights in sequence on edgesI had been driving home from 29 palms marine base when i saw a bright light searching as if it were a helicopter search light but as it turned in front of me across the street to a huge empty lot by rocky hills around the desert and i realized it was a huge boomerang shaped ufo with a sequence of lights ont he very edges.  All the lights were bright white.and 2 seconds later im not sure if it landed or what but it was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50815.html](http://www.nuforc.org/webreports/reports/050/S50815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>An experienced amateur astronomer photographed an unusual object in the night sky. It could not be identified.A scientist, who is also an experienced amateur astronomer, was watching the sky and doing some astrophotography late one night from the deck of his home. He visually observed a "fuzzy patch" luminosity near the end of the Big Dipper. The object hung motionless for 30 minutes as he took several photographs with his digital camera. The object could not be identified as a star, planet, comet, meteor, satellite or aircraft. He insists on anonymity and will not allow publication of any of the photographs.((NUFORC Note:  Our gratitude to noted Canadian UFO investigator, Chris Rutkowski, (Ph.D.??) in Winnepeg, Manitoba, who is acquainted with the two witnesses, and who submitted this report.  Chris can be reached at the following e-address:  rutkows@cc.umanitoba.ca</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23326.html](http://www.nuforc.org/webreports/reports/023/S23326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
