@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Villa Ridge (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball in sky.As I was pulling up to the driveway, I noticed an orange fire ball floating slowly above the trees.  It floated slowly and never changed color nor shape.  There were no sparks and it left no trails.  It looked like a fire ball. It had to be massive because it was very high up but looked quite large to me.  It floated horizontally in a perfectly straight line towards Hwy M and then just disappeared. .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97629.html](http://www.nuforc.org/webreports/reports/097/S97629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Palm Coast (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>05/07/19 I saw 2 spheres inside were white sparkling lights lights.  A few minutes later they both vanished.2 spheres with many flashing white lights inside hovering about 500 ft above the palm trees in back yard.  Then one just vanished, and a minute later the other one also vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146012.html](http://www.nuforc.org/webreports/reports/146/S146012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
