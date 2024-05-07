@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Triangular bruise with three red lines horizontal insideI have been in bed with the flu since Sunday night, May 7, 2006.  I woke Sunday morning with a scratchy sore throat.  I had a recital to give, and had to go forth.  By evening, I was very ill.  I had a horrible sore throat - the worst I've ever felt.  Monday afternoon, I noticed that I had a terribly sore spot on my left arm where it junctions with my torso.  I was confused as to why it would hurt.  Being as ill as I was, I never undressed.  On Tuesday, May 9th, while dressing so my husband could take me to the doctor he noticed this triangular shaped bruise, one ince long, with three red lines going thru it horizontally!  I looked and said, "That's where the pain has been."  I know I did not do this by hitting or bumping into anything.  While at the doctors, at Kaiser, I wrote on a pad of paper, Look at this!  The doc said, "Well, we know you're prone to brusing easily, we could do another test but this looks like you got hit with a three-pronger."  I have no idea what she meant.  At that time, I couldn't even make a sound, I had lost my voice totally. So I just shrugged my shoulders and left the office.  Today, wednesday, I'm a bit better, at least not in bed, and I'm investigating what could have caused this bruise.I do not know what happened.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  The witness provides a good photograph of the wound.  We are unable to certify that the wound is related to UFO's or an abduction scenario, but the fact that a person could have such a serious lesion, and not remember its source, seems unusual to us.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50511.html](http://www.nuforc.org/webreports/reports/050/S50511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Emmelshausen (Germany) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>there might be acctual different beeings.hello. I had a very unforgetable experience with a friend. We were in the forest 5km from Emmelshausen hearing a sssshhhh sound on and on.  Later i witnessed people going through the forest but not human kind. The bodies were not materiliased, more kind of made of little spots in various colors. 80-90 to be looked through... no real materialisation. 4  people carrying sombody on a (trage / german). going to the car the experience it was too much to acctually put in anything a man has seen i guess. Even though the scene of those people carrying through the forest wasn't spectacular it was unbelivable. what makes me thinking about this up to this days is that this mechanical sound (hoover like) was in the air for around an hour. even when arriving in emmelshausen. no spectacular things happening but an experience i will not forget as hardly anybody will have expirienced this. enjoy  ((name deleted))  i just think it's not only about ufo's but also about different beeings and states which are pretty far away from mindstates we know.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48884.html](http://www.nuforc.org/webreports/reports/048/S48884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
