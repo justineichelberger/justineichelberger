@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Grand Prairie (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1978 Ufo Grand Prairie Century 4 drive In.In 1978 I was 10 years old, my family decdided to go to the drive in on monday (family car night) to see a documentry called "Beyond and back" about life after death. The drive in was called the century 4 drive in. It was located in Grand Prairie Texas off of Great Southwest pkwy near the GP and Arlington border. Beyond and back was the second feature. the drive in was about 50 % full.I was young so I was playiny in the gravel and my parents and brother were on the tailgate of a old truck. I noticed people flashing headlights and honking I then noticed people getting out of there cars. I heard my mom say "oh my gawd----Do you see that?" My father say yes as well as did my brother. By the time I looked up the UFO was gone. What they claimed to see was a Trinagular Ship that made no sound, the size confirmed by all 3 was as big as a football field. It had lights beneath it in a variety of colors and when it decided to leave it went from a stand still hover to the size of a star in a matter of 3 seconds. One more thing I need to add, the US naval airbase and a shop called Vought was less tahn 10 miles away near Moutian Creek Lake. I know this sighting was real we still talk about almost 30 years later.((NUFORC Note:  Date of incident may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55578.html](http://www.nuforc.org/webreports/reports/055/S55578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Long string of a line of stellar type objects moving from SSW to NNE.I am a seasoned amateur astronomer. Went out to look at the night sky to check out my new eyeglasses. Looked upward toward the zenith near the north. Movement of "stars" caught my eye. Then I saw more moving points of light. First thought was a satellite array moving together; then it became evident that there were scores of objects (maybe 20-30) following in a straight line moving from SSW to NNE through tail of Ursa Major. I would estimate the brightness of the points of light to be -2 magnitude. All followed the same path. Spacing was not uniform. No noise. They flickered out before reaching the horizon (possibly passing through the earths shadow terminator. Might have been multiple deployments of satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163094.html](http://www.nuforc.org/webreports/reports/163/S163094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
