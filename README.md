@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cambria (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>In Cambria, NY (Niagara County) on May 7, 2011 at about 9:30 pm a huge rectanglar light, approximately 40 feet by 60 feet, appeared in our open field.  The light lasted about 6 seconds with no beam of light or source evident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81175.html](http://www.nuforc.org/webreports/reports/081/S81175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Summary : I was looking at the clouds and just over these distant mountains I saw a sliver colored craft. It looked like a hazey straight line that went extremly quick than disapeared over the mountain in a blink almost.I went to a park with some friends and I looked up and I saw this silver colored stripe that was hazey flying downwards towards distant mountains. It was traveling  very quickly. This all happened in a squence of 2 to 4 seconds. This exprience goes down in my head like ink on paper!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02473.html](http://www.nuforc.org/webreports/reports/002/S02473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
