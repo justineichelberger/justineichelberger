@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Lynn (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>05/07/1965; @3:00am lynn,ma essex county usa; two abductees, 8 witnesses; two sauces, 1 burnt fieldOne of the craft landed. one remained in the air. approximate size of the landed craft, as indicated by the burned grass was 45 feet in diamiter. possible abduction of one individual, returned about two hours later second individual seen by edlerly lady to be walking with her mother. since her mother was with me it had to be some one else. over the years not much was thought of this. however the first possible abductee has since gone blind by a desease known to be caused by radiation poisioning. the other regressed to childhood and is in the care of a state institution. note it took twelve years for any thing to grow on the ground near landing area. and when it did it was four leave glover. after about another twelve years. grass is able to grow. site was a over flow area for ventrans and thier families. of which my family was one. My dad served n world war two under general mcarthur and took information as the over blow imagination of children and nothing futher was ever doon about it. several such visits were noted over the next ten year period. including a dream like scenario of two houses in upper state newyork about 1967 &/or 68 of several children being chased down by a fleet of 4 or 5 saucers and a fly by of vietnam. with several prisoners of war being recued and subsiquintly abducted the children being returned home. nothing known about the former prisoners or even if this was implanted information to cover up the abduction phenominon.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33958.html](http://www.nuforc.org/webreports/reports/033/S33958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Springhill (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shapeshifting light seen by 2 teenagers at night  500 Lights On Object0: YesMy friends and I were playing "Man Hunt" (tag in the dark, pretty much) when I sighted a small ball of light moving across the sky. It was white, glowing dimly, moving straight across the sky; at an arm's length, it was about the size of a pinhead.  A few seconds later, it stopped in the middle of the sky, and I asked my friend if he could see it too.  He said he could, and as I looked back the object quickly grew in size. I am unsure if it came closer or it just grew at the original distance, but it became equal to the size of a basketball at arm's length.  It stayed like this for about 2-3 minutes, then it vanished in an instant.  There were no sounds or additional light sources, and I have seen satellites in the sky before; this was no satellite.  Afterwards I do not remember how much time may or may not have actually pasted.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92756.html](http://www.nuforc.org/webreports/reports/092/S92756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
