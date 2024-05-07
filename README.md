@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Long string of a line of stellar type objects moving from SSW to NNE.I am a seasoned amateur astronomer. Went out to look at the night sky to check out my new eyeglasses. Looked upward toward the zenith near the north. Movement of "stars" caught my eye. Then I saw more moving points of light. First thought was a satellite array moving together; then it became evident that there were scores of objects (maybe 20-30) following in a straight line moving from SSW to NNE through tail of Ursa Major. I would estimate the brightness of the points of light to be -2 magnitude. All followed the same path. Spacing was not uniform. No noise. They flickered out before reaching the horizon (possibly passing through the earths shadow terminator. Might have been multiple deployments of satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163094.html](http://www.nuforc.org/webreports/reports/163/S163094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Lynn (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>05/07/1965; @3:00am lynn,ma essex county usa; two abductees, 8 witnesses; two sauces, 1 burnt fieldOne of the craft landed. one remained in the air. approximate size of the landed craft, as indicated by the burned grass was 45 feet in diamiter. possible abduction of one individual, returned about two hours later second individual seen by edlerly lady to be walking with her mother. since her mother was with me it had to be some one else. over the years not much was thought of this. however the first possible abductee has since gone blind by a desease known to be caused by radiation poisioning. the other regressed to childhood and is in the care of a state institution. note it took twelve years for any thing to grow on the ground near landing area. and when it did it was four leave glover. after about another twelve years. grass is able to grow. site was a over flow area for ventrans and thier families. of which my family was one. My dad served n world war two under general mcarthur and took information as the over blow imagination of children and nothing futher was ever doon about it. several such visits were noted over the next ten year period. including a dream like scenario of two houses in upper state newyork about 1967 &/or 68 of several children being chased down by a fleet of 4 or 5 saucers and a fly by of vietnam. with several prisoners of war being recued and subsiquintly abducted the children being returned home. nothing known about the former prisoners or even if this was implanted information to cover up the abduction phenominon.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33958.html](http://www.nuforc.org/webreports/reports/033/S33958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
