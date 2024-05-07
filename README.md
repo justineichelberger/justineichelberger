@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:06 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mattawa (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>approx 40 starlight formation some traveling in pairs and some single but in a straight line over the town of Mattawa approx at 11pm.bright starlight formation spotted at 11 pm two nights in a row... .. . . . .. . .. .. .. . . . . . . . . . . . . . . .  ..   . .. .   .. .. . . . .  . ... . looking like this up high across the sky. May 7 approx 40 spotted May 8th approx 75 spotted in single formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163069.html](http://www.nuforc.org/webreports/reports/163/S163069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Corrales (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sphere, cloud highsphere heading north, looked white against blue sky, black under clouds, flew into cumulus and dissapeared, didn't come out other side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43844.html](http://www.nuforc.org/webreports/reports/043/S43844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
