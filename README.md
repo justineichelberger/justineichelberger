@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 6 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 7 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Pilot might of saw what I saw and object flying was maybe just a Chinese Candle or Chinese Latern.At 7:55PM I saw something orange flying with no blinking light that was maybe just a flying chinese orange candle/lantern. The orange object flying was flying about the same speed as the plane and just about the same height as the plane. I was thinking it was a plane at first, but the plane with a blinking white light was flying right to left and the orange thing flying had no blinking light was coming sorta towards me, than passed almost in front of the plane that was going right to left. I was outside talking on cellphone and had to call back later. I got off the cellphone and tryed to film orange thing flying. I did not turn the phone camcorder on correctly and as I noticed the phone camcorder was not on I ended up turning it on this time and the orange thing flying turned black. I turned cellphone camera on correctly this time and failed to film it when the orange object turned smaller & turned black as soon as I turned the cellphone camera on correctly ! this time and nothing showed up on the cellpone camcorder footage because when it turned black it would not show on the cellphone camera footage because it was too small to film and a email on cellphone camcorder interruped me when I trying to film it. Also when trying to film the settings on the cellphone camcorder has to much contrast when I was filming and maybe it should of had the cellphone camera setting set on night option, since it was just starting to get dark outside. I continue to watch it when it turned black and just disappeared as it was flying sorta over my head. The pilot flying the plane had to of seen the orange object flying and pilot flying plane with blinking light was maybe coming from Midway Airport.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88832.html](http://www.nuforc.org/webreports/reports/088/S88832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mattawa (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>approx 40 starlight formation some traveling in pairs and some single but in a straight line over the town of Mattawa approx at 11pm.bright starlight formation spotted at 11 pm two nights in a row... .. . . . .. . .. .. .. . . . . . . . . . . . . . . .  ..   . .. .   .. .. . . . .  . ... . looking like this up high across the sky. May 7 approx 40 spotted May 8th approx 75 spotted in single formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163069.html](http://www.nuforc.org/webreports/reports/163/S163069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
