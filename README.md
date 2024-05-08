@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Concho (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights over Northeastern AZAt approx 20:05 on May 8 2021 in Concho, AZ, I was approaching my house after an evening walk, when I witnessed several white lights in the western sky moving northwardly. These lights appeared at a point or origin approximately 30 degrees above the horizon from my location. The lights made no sound, and moved at the same rate equidistant from each other. Approx 4 to five lights would appear, on after the other, all moving north in a straight line in succession before the first light or lead light would fade out abruptly, then another would appear at the point of origin. They appeared to move at an upward angle - not falling like a meteorite or aircraft flare. I witnessed no aircraft and the brightness was about equivalent to the evening stars in the sky. I went inside and grabbed my phone and told my wife to come outside. The lights were still appearing as we came outside the house and I pointed them out to my wife who confirmed what I saw. The lights conti! nued to appear for another 4 minutes before fading away altogether. During this sighting, the point of origin did not appear to move. I was able to capture about 2:55 min worth of video before the lights faded. I was a witness to the Phoenix Lights many years ago and I remember how they seemed to hover in the air. These lights moved rapidly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163068.html](http://www.nuforc.org/webreports/reports/163/S163068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port Richey (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright ball in the sky.  Looks like a bunch of little light balls being sucked into the center.  Like moths that are hovering around a bright light, then get swallowed by the light when they get close to it.  Still out there now probably be a while before it leaves.  BE ON HIGHGROUND easily hidden by trees and roofs.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118869.html](http://www.nuforc.org/webreports/reports/118/S118869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
