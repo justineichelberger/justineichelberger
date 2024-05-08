@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:14:27 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:00:35 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stanwood (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I want to send you this video.I work night shift.  So I am up at night.  At the time it was May so it was warm and I had my window open.  As I am watching videos online, I notice a bright light like an airplane with its fog lights on.  But it is fading randomly.  Like its loosing power or something.  It isn't making sound or getting any closer.  It is just there stationary in the sky.  So I go out in the front yard and film it.  And it is a white light like a bright star or high up plain coming head on.  But it's not going anywhere.  And it is just the one bright light.  But it is randomly fading in and out.  It doesn't have a pattern or other lights.  I have the video.  I want to know how to send it to you.  I watched it for 15 or 20 minutes before I went out into my front yard and made the 5 and some seconds video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150241.html](http://www.nuforc.org/webreports/reports/150/S150241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white light hovering near Portland International Jetport.  Object turns bright red and silver, then disappears within seconds.On the night of May 8th, 2007,  my friend and I were walking the Fore River Sanctuary Trail.  When we crossed the bridge, we noticed a very bright light, which we first assumed was an aircraft.  We realized it couldn't have been an airplane due to the fact that it hadn't moved.  It was a very bright, constant, white light.  The object then turned from white to red, became brighter, and illuminated the sky surrounding it.  The object then appeared to "shoot" off into the horizon, far faster than any aircraft I have ever seen.  The object seemed to be hovering to the northwest of the Portland Jetport, most likely over Westbrook or Gorham.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56772.html](http://www.nuforc.org/webreports/reports/056/S56772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
