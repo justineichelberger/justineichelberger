@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:14:27 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greenville (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Clear sky no stars or moon the lights hoverd left to right quick.  After 15 minutes, it rose, but stayed in same area.  No noise.  Object did not move away or towards me.  I also took video.  Odd thing is I have helicopters passing over at nite, as well, with no lights!((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134009.html](http://www.nuforc.org/webreports/reports/134/S134009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stanwood (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I want to send you this video.I work night shift.  So I am up at night.  At the time it was May so it was warm and I had my window open.  As I am watching videos online, I notice a bright light like an airplane with its fog lights on.  But it is fading randomly.  Like its loosing power or something.  It isn't making sound or getting any closer.  It is just there stationary in the sky.  So I go out in the front yard and film it.  And it is a white light like a bright star or high up plain coming head on.  But it's not going anywhere.  And it is just the one bright light.  But it is randomly fading in and out.  It doesn't have a pattern or other lights.  I have the video.  I want to know how to send it to you.  I watched it for 15 or 20 minutes before I went out into my front yard and made the 5 and some seconds video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150241.html](http://www.nuforc.org/webreports/reports/150/S150241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
