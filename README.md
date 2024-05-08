@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7 lights flying in formation, changing positions and angles of flight.About 1 am this morning, several of us were chatting in our French Quarter courtyard when my wife pointed to the sky to ask what “that” was.  We had turned all of the lights off 15 minutes earlier, so our eyes were accustomed to the dark and we were using my Google Sky app to point out the planets and constellations.  It was a rare clear night (for us) and the stars and planets were particularly sharp.  As I was pointing out Saturn (the brightest point in the sky at the time), my wife pointed out the objects moving in formation about 25 degrees east of Saturn.  There were 7 or 8 points of light, maybe 1/3 the brightness of Saturn and a little smaller, moving slowly towards the North.  2 or 3 in the lead, 3 more fanned out behind and 2 more bringing up the rear.  They would change positions but moved at the same rate of speed in tandem – very slowly – with an occasional stop to regroup before proceeding again.  Far too high, close together and small for any ai! rport or military traffic, which don’t fly that trajectory anyway when approaching Armstrong Airport.  The members of our party watched them, mostly in silence, for close to 15 minutes until they disappeared behind the buildings.  We tried video-ing the lights, but the footage didn’t turn out.  It was a pretty well-heeled and older group of us at the end of our party – a real estate agent, a general contractor, 2 lawyers, 2 musicians and (I believe) a retired judge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127257.html](http://www.nuforc.org/webreports/reports/127/S127257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Folkestone, Kent (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black balloon/round shaped going extremely fast over the South East coast of England.First notice in clear evening sky, and thought it was a baloon, but it travelled too fast to be a balloon  and it also went across and up  and travelled a good distance of sky in about two minutes managed to get my camera out but only managed to get one photo but by thenit was starting to disappear.  There were no lights or after tail to indicate fuel.  First it looked like a balloon but then rounder travelling much faster than a plane as I can see planes every day as we are in their path.  It looked completely black.  Whether the phot can be enlarged several times I do not know yet until I get the film developed.  There does seem to appear a lighter aura round the object, no sound.  From where it disappeared some 3-4 minutes an aircraft passenger was still climbing leaving England.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18837.html](http://www.nuforc.org/webreports/reports/018/S18837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
