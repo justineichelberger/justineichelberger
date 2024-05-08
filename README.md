@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dublin (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Cigar shaped object was obeserved.My wife observed a long cigar shaped object fly very quickly across the sky.  It was traveling south to north.  She said it was shiny and silver with some sort of black material in one area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109354.html](http://www.nuforc.org/webreports/reports/109/S109354.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several bright orange lights in the sky.On the night of Saturday May 9, 2010 in the city of Graham, Washington.  I was at home with my family watching TV. My sister who lives down the street called us and told us to go outside and look at the sky. When we went outside we saw six or seven bright orange light moving in the sky. They seemed to be in two groups and the lights were moving steadily in different directions.My sister, who had watched the lights for about ten minutes before she called us, said that when she first saw them they were above the horizon facing east forming a “T” shape.By the time we got outside they were above the horizon facing south. Then one by one they disappeared. This happened at about 10:15 PM.I tried calling the Air Force which is several miles away. They didn’t see anything or seem too interested. Which I can understand, I would probably say the same thing if I didn’t see them with my own eyes. I also tried calling the local news stations they probably thought I was joking. There are many videos on youtube that show exactly what I saw. Unexplainable orange bright lights in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75354.html](http://www.nuforc.org/webreports/reports/075/S75354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
