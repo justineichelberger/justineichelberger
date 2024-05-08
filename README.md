@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Hall (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>silver disk hovering above houseDriving home on old highway also known as yellowstone, looked over and saw disk hovering over a house about a mile and a half away.  Looked to be the same size as the house, silver in color with a rainbow effect around it.  The effect was like heat waves you see on the road in the summer time.  I watched it until I went around a bend in the road with trees that blocked my view.  When I could see the area again it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75638.html](http://www.nuforc.org/webreports/reports/075/S75638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I swear I thought I was crazy and almost ran off the road. whatever this was it was not a plain, balloon etc..  It was flying low enough for me to clearly see.  It was silver in color with a red light and on the bottom of the craft was a giant eye as if it was observing the area.  It was not a real eye but like a giant glass eye that covered the bottom of the craft.  It was flying slow enough for me to clearly see.  I drove home in a daze because I did not want to admit what I saw.  Never in my life has such a event happened.  Maybe I am wrong or just plain crazy, but I can't deny what I saw.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118881.html](http://www.nuforc.org/webreports/reports/118/S118881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
