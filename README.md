@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black Triangle over Palm Springs CaliforniaI was standing outside on a balcony of a condo that is very close to the Palm Springs airport. I was talking on the phone and was looking up into the night sky. I was describing the weather to a friend of mine when I noticed a triangular shaped object moving silently in the sky above me but not directly above me. It was fairly high up and was completely dark. The only way I was able to see it was because the city lights were reflecting off of it. If I hadn't looked up I never would have seen it. It was very dark in color like a slate gray except for circles at the tips of the triangles and perhaps circles in between and in the center. It happened so fast and I was so stunned by what I was seeing that I can't be sure of the number of circles. The circles looked to be a light gray. I had the impression that the circles were like bumps. It moved fairly slowly toward the East. Because it was so dark, I was unable to see it for very long and it soon disappeared into the eastern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63136.html](http://www.nuforc.org/webreports/reports/063/S63136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7 lights flying in formation, changing positions and angles of flight.About 1 am this morning, several of us were chatting in our French Quarter courtyard when my wife pointed to the sky to ask what “that” was.  We had turned all of the lights off 15 minutes earlier, so our eyes were accustomed to the dark and we were using my Google Sky app to point out the planets and constellations.  It was a rare clear night (for us) and the stars and planets were particularly sharp.  As I was pointing out Saturn (the brightest point in the sky at the time), my wife pointed out the objects moving in formation about 25 degrees east of Saturn.  There were 7 or 8 points of light, maybe 1/3 the brightness of Saturn and a little smaller, moving slowly towards the North.  2 or 3 in the lead, 3 more fanned out behind and 2 more bringing up the rear.  They would change positions but moved at the same rate of speed in tandem – very slowly – with an occasional stop to regroup before proceeding again.  Far too high, close together and small for any ai! rport or military traffic, which don’t fly that trajectory anyway when approaching Armstrong Airport.  The members of our party watched them, mostly in silence, for close to 15 minutes until they disappeared behind the buildings.  We tried video-ing the lights, but the footage didn’t turn out.  It was a pretty well-heeled and older group of us at the end of our party – a real estate agent, a general contractor, 2 lawyers, 2 musicians and (I believe) a retired judge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127257.html](http://www.nuforc.org/webreports/reports/127/S127257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
