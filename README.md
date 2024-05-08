@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:00:35 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white light hovering near Portland International Jetport.  Object turns bright red and silver, then disappears within seconds.On the night of May 8th, 2007,  my friend and I were walking the Fore River Sanctuary Trail.  When we crossed the bridge, we noticed a very bright light, which we first assumed was an aircraft.  We realized it couldn't have been an airplane due to the fact that it hadn't moved.  It was a very bright, constant, white light.  The object then turned from white to red, became brighter, and illuminated the sky surrounding it.  The object then appeared to "shoot" off into the horizon, far faster than any aircraft I have ever seen.  The object seemed to be hovering to the northwest of the Portland Jetport, most likely over Westbrook or Gorham.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56772.html](http://www.nuforc.org/webreports/reports/056/S56772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fort Lee (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Standing on my balcony, I saw a green light, it was hovering for about 2 seconds.  I was staring at it thinking how odd it’s such an unusual hour to be up.  I noticed the Little Dipper above which is also odd Bc I live near Manhattan and there’s a lot of  light pollution making stars hardly visible.  Someone then came out of a building in my complex and the green light started turning red and moving, taking about five seconds to change, and then flashed very quickly, and it was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139765.html](http://www.nuforc.org/webreports/reports/139/S139765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
