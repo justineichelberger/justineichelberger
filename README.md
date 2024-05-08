@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kamloops (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>these crafts had a light on each side and a big one in the middle. they came out of a larger triangle then spread out and hovered more around the mountains behind my house they hovered arouned for abit then combined in to one and shot straight up up into the skyi was sitting at my friends house in a community called juniper i had two kokanee beers (can sized) me and my girl friend went on the back porch alone when we noticed a large triangular object hovering in the mountains out back about six kilometer. we called in my buddy and watched it for about five minutes when it separated into four more crafts all triangular shaped with lights. one on each side and one in the middle. it appeared that they emmited an aura that was darkest at the lights and lightest around the ship. this aura changed colour according to when the lights changed coulor. then at the same time like a really powerful strobelight lit up the mountains for a few seconds then the ships formed into one and shot up into the sky and dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12828.html](http://www.nuforc.org/webreports/reports/012/S12828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Concord (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>The craft was triangular in shape and had lights on all three corners and was completely silent. The lights were bigger than normal aircraft lights and it was flying in an unusual part of the sky for normal aircraft.  The craft seemed to be "hovering" and was moving southeast to northwest and then shortly after I noticed it the craft turned and started moving east to west.  The craft was rotating on its x axis and in the time span I viewed it the craft's original front was facing backwards.  Although there were no reference objects the craft seemed to be flying fairly low though and judging from my perception of the crafts height it's size, I would guess, was about the size of a shopping center parking lot.  However, high it was it appeared to be larger than my house which is 20x40'.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109265.html](http://www.nuforc.org/webreports/reports/109/S109265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
