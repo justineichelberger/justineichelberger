@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I swear I thought I was crazy and almost ran off the road. whatever this was it was not a plain, balloon etc..  It was flying low enough for me to clearly see.  It was silver in color with a red light and on the bottom of the craft was a giant eye as if it was observing the area.  It was not a real eye but like a giant glass eye that covered the bottom of the craft.  It was flying slow enough for me to clearly see.  I drove home in a daze because I did not want to admit what I saw.  Never in my life has such a event happened.  Maybe I am wrong or just plain crazy, but I can't deny what I saw.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118881.html](http://www.nuforc.org/webreports/reports/118/S118881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Sylmar (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Summary : Object looking like a shooting star but going upward.  Going higher, a beam of light shone from the object until it disappeared.My son and I saw what looked like a very bright shooting star, going up and not down.  It had a very wide tail that was also very bright.  We watched it go up into the sky for a total of approximately 10 minutes.  As it went higher, the intensity subsided.  It was in the northwestern sky above the mountains.  It changed direction after going up for about 5 minutes.  It then turned to a more northerly direction as it got smaller and higher.  As we looked at it, my son and I both saw what looked like a wide beam of light coming from this object shining down to earth.  We couldn't see it go all the way down because the light was partly behind the mountains at that time.As the object kept getting higher, we also noticed a smaller light below this object, approximately 3 inches below, if using your fingers to measure.  It was moving in a northeastly direction and moved very fast and again, using your fingers to measure, it moved approximately 5 inches in that direction and then it disappeared.  The first object continued moving higher and then it too disappeared.We watched for a few minutes longer but could not see either object anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02202.html](http://www.nuforc.org/webreports/reports/002/S02202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
