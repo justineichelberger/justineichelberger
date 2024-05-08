@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:14 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>of us observed 4 cigar shaped formations flying in a north west direction, diamond formation.  zig zaged for 10 sec & vanished2 of us observed 4 cigar shaped formations flying in a north west direction.  They were in a diamond formation. They were very dark grey in colour.  I at first thought they were fighter planes but when my boyfriend saw them he said no way because they had no definition.  They were solid grey with no markings of any kind.  No lights or smoke trails. There was no sound even.  When the air show comes in the summer you can hear them flying but these had no sound at all. They zig zaged for about 10 seconds then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36793.html](http://www.nuforc.org/webreports/reports/036/S36793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Chisholm (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Hundres of white lights traveling in the same direction and same speed west to east over Chisholm mn , there was a pattern ( ***   **   ***   **   ) like that moving along the night sky. Pictures were taken and video was unsuccessful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163071.html](http://www.nuforc.org/webreports/reports/163/S163071.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
