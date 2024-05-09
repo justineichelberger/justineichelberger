@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maxton (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small triangle, or X, at low altitude, and sharp turn.Hi Peter, While driving eastbound on US 74 (I-74) just north of Maxton, NC, I spotted a bluish light on some low altitude airborne object. It was traveling south and made a sharp turn to the north.  While it was turning I also saw a red light which seemed to be on the other wing. It then passed in front of us at low altitude.  It looked small and the altitude was only 200 ft or so.  I saw a plane type silhouette but my wife thought it was triangle.  I only saw it for 10 seconds. It did not look like a plane and the lights were not flashing.  I am not sure if it was a drone or something else.I am curious if you had any other reports.  This was on Monday May 9th, at 22:10.Also I was fascinated with a program I heard you on.  It was “Art Bell’s Somewhere in Time” replayed on Jan. 2, 2016.  The original show aired on 4/16/97 and you and Art were discussing increased security at USAF Command Center in Colorado, possibly due to a 25 mile long UFO observed by some satellites.  I could not find any follow up information.  Did anything come of this report?  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127394.html](http://www.nuforc.org/webreports/reports/127/S127394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black, Silent, Low Flying aircraft heading east over San Francisco.Black fast moving, low flying, silent tranangular shaped object spotted while watching the waves for good surf at Ocean Beach San Francisco about 1 mile south of Cliff House. We first thought it was a Stealth F-117, but I've seen them before and they are quite loud. Still not sure what it was so I thought I'd report it anyway to see if anyone else had spotted it. Left me with a weird feeling as we were just speaking of the subject…((NUFORC Note:</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28747.html](http://www.nuforc.org/webreports/reports/028/S28747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
