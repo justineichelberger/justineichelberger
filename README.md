@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Im not too sure on the time a hour or two after nightfall. So maby 10=11pm. I was in back yard smoking and looking into the south west sky. I didnt see it forum I dont think but i saw what i can only explaine as a white ball of light. It wasnt a plane or a star... It looked more like if you took a dozen stars and put them all together. Thats about the brightness and the size that it was. It moved slowly west about the same speed you would think a airplane to move. Then after about 12-15seconds of moveing it just started to fade away. The fadeing only took about 2-3seconds then it was gone. It didnt fade because it was getting farther away. It went from being the full brightness that i saw from the first second to just fadeing in about 2-3seconds. Then it was gone and nothing happened after. I am in a city whee i can look into the spy for 10mins and watch 15 airplanes fly by. I know what they look like how they sounds. Flashing lights etc. THIS was not a aircraft. This was a light just like a star but many times brighter...That moved west to east about 12-15seconds then just fadeds(not dsapear) it faded from bright to nothing within 2-3seconds. No idea what it was but its like nothing i ever seen befor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63803.html](http://www.nuforc.org/webreports/reports/063/S63803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maxton (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small triangle, or X, at low altitude, and sharp turn.Hi Peter, While driving eastbound on US 74 (I-74) just north of Maxton, NC, I spotted a bluish light on some low altitude airborne object. It was traveling south and made a sharp turn to the north.  While it was turning I also saw a red light which seemed to be on the other wing. It then passed in front of us at low altitude.  It looked small and the altitude was only 200 ft or so.  I saw a plane type silhouette but my wife thought it was triangle.  I only saw it for 10 seconds. It did not look like a plane and the lights were not flashing.  I am not sure if it was a drone or something else.I am curious if you had any other reports.  This was on Monday May 9th, at 22:10.Also I was fascinated with a program I heard you on.  It was “Art Bell’s Somewhere in Time” replayed on Jan. 2, 2016.  The original show aired on 4/16/97 and you and Art were discussing increased security at USAF Command Center in Colorado, possibly due to a 25 mile long UFO observed by some satellites.  I could not find any follow up information.  Did anything come of this report?  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127394.html](http://www.nuforc.org/webreports/reports/127/S127394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
