@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Reedsport (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering object above the trees, with strobe like lightsI was taking my boyfriend to work about 25miles away; I do this every morning at 4:20am. I drive this road every morning…every morning. 	This morning we happened to see something we have never seen before. I was driving so I didn’t get as good of a look as he did. But it was definitely weird. The road we take is Highway 101 its trough a really wooded area. We happened to be he only car on the road this time. When I cam around the corner I saw this strobe light looking thing. I was just kidding and I said, “Ooh look it’s a space ship” totally just kidding. When we got closer we got more freaked out. 	My boyfriend isn’t a very gullible guy and he was more freaked out then I was. Like I said we have drove this road a million time I know there are no electrical towers or anything, like that around. It looked like a triangle shaped something hovering right over the tips of the trees. And it had like 3 halogen colored lights that were flashing really slow like a strobe light. You couldn’t take your eyes off of it. We didn’t stop though for one we were scared and two he couldn’t be late for work. 	On my way home though nothing was there. I’m not an alien freak or anything, honestly I never really believed in that kind of stuff. But really there is no other explanation. We haven’t event told anyone cause no one we would know would believe us. I don’t know it’s going to be one of those things that we will always remember, wishing we had stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56593.html](http://www.nuforc.org/webreports/reports/056/S56593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Woonsocket (RI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange sphere than blinking lights to slow down craft until stoppedI've wrote this on this site many times and just having it removed.... I came outside at 9 15 p.m. to see a large orange sphere falling fast [ONLY 3 houses away from us stright up] when suddenly 7 very white,very bright WHITE[ very WHITE] lights came on under the craft blinking very fast, then the craft slowed and as the craft slowed the blinking lights slowed , and slowed until full hover above a house [only 3 houses away ,about 10 feet above the house and just hovered there for 5 min. then slowly moved to due North to a military base 5 miles away...  THIS was OBVIOUSLY LIFE..  LIGHT tech.. is going to be our future... I think this is U.S.A. gov. tech..Not alien..  This was just so much more than just seeing a light moving this is something that takes brains to make and ride in, what else came turn on blinking light to slow down a craft.........besides us 5 people, others seen this all over the city ,somebody wrote it here too,but, that is also deleted</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153268.html](http://www.nuforc.org/webreports/reports/153/S153268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
