@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>See though triangle shaped craft with lights, silently glides over Manhattan's Upper West Side buildings along the Hudson.At approximately 9:55 pm on the night of Thursday, May 9th, 2019, a craft flew over Riverside Drive in Manhattan.  It was flying very low, not far above the buildings that line this side of the Hudson, and was sort of see through, not unlike Wonder Woman's plane.  But with lots of lights and kind of triangle shaped, but with softer, rounded points.  It glided by with a barely audible swooshing sound...  I saw this through a 14th story window on Riverside Drive, until it was out of my frame of vision...about 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146055.html](http://www.nuforc.org/webreports/reports/146/S146055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights Over HollywoodAt around 9PM me and my co-workers were taking a cigarette break when someone said "what are those lights?" they were traveling in a northern direction and very high. over Hollywood. they were traveling very fast, at that point a helicopter was flying overhead in a westerly direction. the copter gave us an indication that the objects were quite high. They stopped still very north from us. They began to vibrate. And started to switch positions from left to right and vice versa. Then they started to clime in altitude stopping occasionally. This kept on for a few minutes. I ran up strairs to my yell to my co-workers to come and see the event as it unfolded. A total 0f about 8 people witnessed this. The objects the climbed till they no longer were seen. Oh and as they traveled, they were in a triangular formation pointed north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22786.html](http://www.nuforc.org/webreports/reports/022/S22786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
