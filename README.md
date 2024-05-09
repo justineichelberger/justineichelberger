@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:46 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately unk - unk minutes.</sub><blockquote><sub>Photographing aboard USS Midway. UFO appeared in photo upon review of photo. Digital photo on scandiskSee summary. Did not see UFO at time of photographing; appeared on image upon later review. Original is on digital scandisk.((NUFORC Note:  Looks like it probably is a bird in flight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63207.html](http://www.nuforc.org/webreports/reports/063/S63207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Beaconsfield (Canada) (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I just returned from walking my dog when I turned to the NW and saw what I thought were 3 stars, but then noticed one was moving, then noticed all 3 were actually moving...I watched as more and more moved into my view from behind the trees before disappearing behind the trees on the other side...I watched for about a minute, of coarse thinking I was nuts, but then called out my 20 year daughter who also saw them...We then watched for about 2 more minutes before the stopped...We tried to video them but the lights were too far to catch on video...I have the videos but nothing can be seen...The were moving in a straight line, one after the other, but not in uniform distance from each other...Some were closer to each other, some further...Does anything happen with this report? Thanks!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163101.html](http://www.nuforc.org/webreports/reports/163/S163101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
