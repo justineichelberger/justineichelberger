@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Commerce (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright fireballs stop and go, moving at differing speeds and towards different areasThere were two very bright orange fireballs that started off very close together and then slowly came apart.  They both decreased and increased in brightness every thirty seconds or so.  I believed them to be bright planes at first until they just stopped moving for a while, then one took off to the south and the other slowly moved east before circling back around to travel back south after the other one.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127282.html](http://www.nuforc.org/webreports/reports/127/S127282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Reedsport (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering object above the trees, with strobe like lightsI was taking my boyfriend to work about 25miles away; I do this every morning at 4:20am. I drive this road every morning…every morning. 	This morning we happened to see something we have never seen before. I was driving so I didn’t get as good of a look as he did. But it was definitely weird. The road we take is Highway 101 its trough a really wooded area. We happened to be he only car on the road this time. When I cam around the corner I saw this strobe light looking thing. I was just kidding and I said, “Ooh look it’s a space ship” totally just kidding. When we got closer we got more freaked out. 	My boyfriend isn’t a very gullible guy and he was more freaked out then I was. Like I said we have drove this road a million time I know there are no electrical towers or anything, like that around. It looked like a triangle shaped something hovering right over the tips of the trees. And it had like 3 halogen colored lights that were flashing really slow like a strobe light. You couldn’t take your eyes off of it. We didn’t stop though for one we were scared and two he couldn’t be late for work. 	On my way home though nothing was there. I’m not an alien freak or anything, honestly I never really believed in that kind of stuff. But really there is no other explanation. We haven’t event told anyone cause no one we would know would believe us. I don’t know it’s going to be one of those things that we will always remember, wishing we had stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56593.html](http://www.nuforc.org/webreports/reports/056/S56593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
