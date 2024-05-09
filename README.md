@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black, Silent, Low Flying aircraft heading east over San Francisco.Black fast moving, low flying, silent tranangular shaped object spotted while watching the waves for good surf at Ocean Beach San Francisco about 1 mile south of Cliff House. We first thought it was a Stealth F-117, but I've seen them before and they are quite loud. Still not sure what it was so I thought I'd report it anyway to see if anyone else had spotted it. Left me with a weird feeling as we were just speaking of the subject…((NUFORC Note:</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28747.html](http://www.nuforc.org/webreports/reports/028/S28747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Derwood (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Tiered Saucer UFO spotted in Derwood MDIt was a long time ago (a few years ago) and I was very young (somewhere between 3rd and 5th grade), but I remember it very distinctly.  Sadly, I don't remember the date or approximate time (this is because I am very bad at telling time.)  My family was driving along Redland Road, and when we past the local Bible Church, I saw something in the sky.  It was not moving, just seeming to float there motionlessly.  I'm unsure how far out it was, but it seemed like it was in front of the tree line.It was grey and metallic, very shiny and silvery.  It was tapered at the top and a bit at the bottom, think of a tiered cake combined with a typical flying saucer.  Closer towards the bottom, the main body of the UFO stopped, and there was a thinner ring of orange and possibly red lights?  I don't remember the exact colors, but I do remember there was a thinner ring that had orange lights that seemed to rotate, or at least flash at different colors to make it seem like it rotated.  According to my family members, I never mentioned it when I saw it, and none of them saw it, but I would attribute that to them being busy with other things while I enjoyed looking out the window.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122212.html](http://www.nuforc.org/webreports/reports/122/S122212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
