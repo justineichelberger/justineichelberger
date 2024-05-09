@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:02 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw orange object flying over my head no sound but the light almost appeared to flicker like a candle.  Moved in a straight line and steady pace.  Like a satellite dose only much lower.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118891.html](http://www.nuforc.org/webreports/reports/118/S118891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lewiston (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 sets of  lights (changing color) in a triangle formation moving slowly over Lewiston valley.On the way to work noticed 3 sets of unfamilier looking lights moving slowly over valley W/NW (towards Moscow),they formed a triangle formation . I stopped my vehicle and got out to get a better look. It was hazy and the ambiant light from valley was making it hard to see any detail other than the lights that were changing color constantly. I got the feeling it was one object at the time but was not sure ,I could not see any mass between the lights. The sets of lights appeared the same color with a white center light changing to a light but bright blue, with what apeared to be rotating or flasing lights around it (they were changing from red ,green, yellow ).I got back in my vehicle and headed on to work , this was the same general direction the lights were moving. I parked my vehicle and walked to a wall that blocked a lot of the light surround my work facility.  I again could see the lights which had moved on farther towards Moscow (and above the Snake River Canyon). The perspective of the lights seemed to change but it was from the greater distance (I still believe it was a triangle shaped object but at a greater distance from me). The distance was greater and so was the haze but the direction of the object changed slightly as almost following the river. For a moment I thought the lights broke formation or atleast changed formation but I think it was the object changing dirrection. I watched as the lights faded out in the haze and lights .Just before it faded out I was able to guess altitude at about the same as the top of the Snake River canyon . The object was first seen by me just past and above the Lewiston airport(west) and was last seen above the Snake River past the port facilities that are on the north side of river and west of Lewiston. In 10 plus minutes the object moved about 10 miles in around 10 minutes at best.      I had not reported this until reading report of students sighting in Moscow just over an hour later, it seemed that the sightings might relate????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51359.html](http://www.nuforc.org/webreports/reports/051/S51359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
