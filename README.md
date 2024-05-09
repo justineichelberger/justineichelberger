@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dublin (Republic of Ireland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Moving Bright StarI live in the country, I was standing out on my front lawn looking back at my house.  There was no sound from the object, it looked like a bright star but not twinkling, within a minute it faded to a dull star all the time travelling at a steady pace in a north-east direction, it appeared to go beyond our atmosphere into outer space but keeping the same steady pace until it disappeared.  There was a dog barking, I felt a little calmer than usual, it was eerily quiet except for the dog next door.  Very clear night sky out. During the whole incident the object must have been at least a mile high in the sky. It didn’t move like any flying object I’ve ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46049.html](http://www.nuforc.org/webreports/reports/046/S46049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sour lake (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately In and down - In and down minutes.</sub><blockquote><sub>Bright light moving in unnatural ways unlike a regular aircraft this craft was moving up and down as there were other flashing lights around it. I just looked up after typing that sentence and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88872.html](http://www.nuforc.org/webreports/reports/088/S88872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
