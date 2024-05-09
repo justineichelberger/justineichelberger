@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large, triangular  formation of lights witnessed over the Grant Co. Intl. Airport.At approx. 22:25 hours, I was getting out of my ((deleted)) vehicle when I noticed what I thought to be a satellite passing overhead. After looking closer, I noticed that there were two other "satellites" following in formation, forming a very large triangular shape. I began to watch it closely and noticed slightly dimmer lights that appeared to outline the object, again forming a very large triangle. The object continued to travel across the night sky at a very slow speed yet very high altitude never, losing its formation.I continued to watch the object until it disapeared behind the cloud cover. My background is in ((deleted)) services, a full-time ((deleted)), and a reserve ((deleted)).((NUFORC Note:  We have deleted certain data from the report to protect the individual's privacy.  Witness appears to be a highly qualified individual, and probably is an excellent observer.  We believe that the witness may have observed three satellites that have been reported to NUFORC recently.  They appear to fly in unwavering formation, and they seem to remain visible for several weeks' duration.  They are thought to be part of a U. S. Navy space surveillance effort, which is referred to as "N.O.S.S."   However, we have no explanation for the additional lights that the witness describes.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17577.html](http://www.nuforc.org/webreports/reports/017/S17577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>See though triangle shaped craft with lights, silently glides over Manhattan's Upper West Side buildings along the Hudson.At approximately 9:55 pm on the night of Thursday, May 9th, 2019, a craft flew over Riverside Drive in Manhattan.  It was flying very low, not far above the buildings that line this side of the Hudson, and was sort of see through, not unlike Wonder Woman's plane.  But with lots of lights and kind of triangle shaped, but with softer, rounded points.  It glided by with a barely audible swooshing sound...  I saw this through a 14th story window on Riverside Drive, until it was out of my frame of vision...about 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146055.html](http://www.nuforc.org/webreports/reports/146/S146055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
