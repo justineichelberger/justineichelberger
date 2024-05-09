@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in West Springfield (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 11:00 - 11:00 minutes.</sub><blockquote><sub>It was a clear, sunny day, the sky was blue and there were no clouds. As I was driving along, the sun glinting off something metalic ahead of me a little above the tree line, caught my eye.  It did not seem to be any type of aircraft or anything I had ever seen before.  It was crescent shaped and skipped along horizontally to the right for about the length of two or three housetops and then receded into nothingness, much like the fin of a large fish might appear out of the water and then disappear as the fish descended deeper into the water. I remember saying to myself, "What on earth was that?"  I looked all around up in the sky ahead of me but could no longer see it.  Thinking about it immediately after as I was still driving, I came to the conclusion that what I saw was only part of a larger craft of some kind, perhaps a saucer or dsk, the edge of which appeared out of another dimension briefly and went back in.  I am very puzzled by this, but I saw what I saw straight ahead of me, clearly without any obstruction.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38308.html](http://www.nuforc.org/webreports/reports/038/S38308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>For the 3rd night at sunset in Cape Coral, Florida, right after sunset a cylindrical object appeared at an angle for a couple minutes then dissappeared, pics to follow  a bit faint but you can make out the object in question,  day 3 !!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134029.html](http://www.nuforc.org/webreports/reports/134/S134029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
