@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 8 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Folkestone, Kent (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black balloon/round shaped going extremely fast over the South East coast of England.First notice in clear evening sky, and thought it was a baloon, but it travelled too fast to be a balloon  and it also went across and up  and travelled a good distance of sky in about two minutes managed to get my camera out but only managed to get one photo but by thenit was starting to disappear.  There were no lights or after tail to indicate fuel.  First it looked like a balloon but then rounder travelling much faster than a plane as I can see planes every day as we are in their path.  It looked completely black.  Whether the phot can be enlarged several times I do not know yet until I get the film developed.  There does seem to appear a lighter aura round the object, no sound.  From where it disappeared some 3-4 minutes an aircraft passenger was still climbing leaving England.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18837.html](http://www.nuforc.org/webreports/reports/018/S18837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fostoria (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I saw this type and color in 1967I was setting at my computer out on the sun porch, the computer is situated so my back is to the surrounding glass of the enclosure and when I look up I can see through the picture window and see what my cat's are in to. It was 2am in the morning and I heard a low hum, I thought maybe my computer was acting up so I straightend up to concentrate on the noise, it got a little louder and I saw an orange object in the reflection of the picture window headed due east toward Fostoria, I recently moved here and I'm between Fostoria and Bloomdale, it only lasted a couple of seconds and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22813.html](http://www.nuforc.org/webreports/reports/022/S22813.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
