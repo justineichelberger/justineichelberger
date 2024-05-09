@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Derwood (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Tiered Saucer UFO spotted in Derwood MDIt was a long time ago (a few years ago) and I was very young (somewhere between 3rd and 5th grade), but I remember it very distinctly.  Sadly, I don't remember the date or approximate time (this is because I am very bad at telling time.)  My family was driving along Redland Road, and when we past the local Bible Church, I saw something in the sky.  It was not moving, just seeming to float there motionlessly.  I'm unsure how far out it was, but it seemed like it was in front of the tree line.It was grey and metallic, very shiny and silvery.  It was tapered at the top and a bit at the bottom, think of a tiered cake combined with a typical flying saucer.  Closer towards the bottom, the main body of the UFO stopped, and there was a thinner ring of orange and possibly red lights?  I don't remember the exact colors, but I do remember there was a thinner ring that had orange lights that seemed to rotate, or at least flash at different colors to make it seem like it rotated.  According to my family members, I never mentioned it when I saw it, and none of them saw it, but I would attribute that to them being busy with other things while I enjoyed looking out the window.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122212.html](http://www.nuforc.org/webreports/reports/122/S122212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dublin (Republic of Ireland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Moving Bright StarI live in the country, I was standing out on my front lawn looking back at my house.  There was no sound from the object, it looked like a bright star but not twinkling, within a minute it faded to a dull star all the time travelling at a steady pace in a north-east direction, it appeared to go beyond our atmosphere into outer space but keeping the same steady pace until it disappeared.  There was a dog barking, I felt a little calmer than usual, it was eerily quiet except for the dog next door.  Very clear night sky out. During the whole incident the object must have been at least a mile high in the sky. It didn’t move like any flying object I’ve ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46049.html](http://www.nuforc.org/webreports/reports/046/S46049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
