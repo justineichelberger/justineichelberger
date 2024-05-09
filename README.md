@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:05 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:46 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rio Hato (Panama) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright light on the skyWe were in a place called Rio Hato which was a World War II US military installation, 108KM, west of Panama City on the Pacific coastline of the Republic of Panama.  At approximately one o'clock a.m. on May 9th, 2004, our group of six and two neighbors observed unusual sky light activity inland (north) of our location (Costa Blanca Golf and Resort). First we observed three different circular steadily bright white lighted objects shoot across the sky approximately five to ten minutes appart.  Approximately five minutes after observing these three circular lights, we  observed a narrow line of bright white light moving paralell to us.  As the line was continuing to move, suddendly a bright white oval appeard for approximately one to three seconds, and then change back into a single narrow bright white light.  We observed the sequence of light pattern for two times and then completely disappeared. Approximately five minutes later, we observed a four circular bright light traveling accross the sky, similar to the three objects which preceded the line and oval object sequence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36818.html](http://www.nuforc.org/webreports/reports/036/S36818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately unk - unk minutes.</sub><blockquote><sub>Photographing aboard USS Midway. UFO appeared in photo upon review of photo. Digital photo on scandiskSee summary. Did not see UFO at time of photographing; appeared on image upon later review. Original is on digital scandisk.((NUFORC Note:  Looks like it probably is a bird in flight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63207.html](http://www.nuforc.org/webreports/reports/063/S63207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
