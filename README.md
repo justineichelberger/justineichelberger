@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Woonsocket (RI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange sphere than blinking lights to slow down craft until stoppedI've wrote this on this site many times and just having it removed.... I came outside at 9 15 p.m. to see a large orange sphere falling fast [ONLY 3 houses away from us stright up] when suddenly 7 very white,very bright WHITE[ very WHITE] lights came on under the craft blinking very fast, then the craft slowed and as the craft slowed the blinking lights slowed , and slowed until full hover above a house [only 3 houses away ,about 10 feet above the house and just hovered there for 5 min. then slowly moved to due North to a military base 5 miles away...  THIS was OBVIOUSLY LIFE..  LIGHT tech.. is going to be our future... I think this is U.S.A. gov. tech..Not alien..  This was just so much more than just seeing a light moving this is something that takes brains to make and ride in, what else came turn on blinking light to slow down a craft.........besides us 5 people, others seen this all over the city ,somebody wrote it here too,but, that is also deleted</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153268.html](http://www.nuforc.org/webreports/reports/153/S153268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately two ours to current - two ours to current minutes.</sub><blockquote><sub>slow meandering observing ufo in sacramentofrom 4-6am noticed in the distance a bright slow moving zig zag path of the object.  hovered some 5 miles in the air and slowly moved nearer. as the sun came up i could see the light less but the object itself more.have this on film.also looked through telescope and noticed it was sphere to half sphere shaped and changed shape as it moved.i have had three total ufo sightings in my life...each time different.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69984.html](http://www.nuforc.org/webreports/reports/069/S69984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
