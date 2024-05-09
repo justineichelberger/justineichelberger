@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 9 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>For the 3rd night at sunset in Cape Coral, Florida, right after sunset a cylindrical object appeared at an angle for a couple minutes then dissappeared, pics to follow  a bit faint but you can make out the object in question,  day 3 !!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134029.html](http://www.nuforc.org/webreports/reports/134/S134029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort McMurray (Canada) (AB) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1:15 - 1:15 minutes.</sub><blockquote><sub>i dont even know what we saw, but they were fast and traveled in packsWe were sitting in my buddys hot tub and i was laying back and looking at the stars when all of sudden 6 objects flying at a high altitude and rate of speed flew over top of us and i yelled out ((deleted)) did anyone else see that, and luckliy one of my other buddys happened to be doing the same thing and saw the same 6 as well, so then the three of us kept watching the sky and then again this time my other buddy shouted out ((deleted)) theres twelve this time! i missed that group of them, but after seeing them twice in a matter of five minutes we all sat there and kept watching. They seemed to come back in about 5 to 10 minute intervals and sometimes groups of threes, twos, eights, fours, twos again and also sometimes at a lower altitude...they almost had a diamond or circle with wings look and glowed orange. This is the first time ive ever saw n e thing like this and im glad i was with my buddies or id of thought i was crazy, and i had to go home and go to bed cuz of work early in the morning, but if they are still flying by at the same intervals, then there would be some going by right now as i write this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63072.html](http://www.nuforc.org/webreports/reports/063/S63072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
