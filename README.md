@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vienna (NE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO’s over Vienna ExposionThere was a explosion in Vienna by a Jewish Temple, some type of ceremony going on, police and soldiers block off traffic and pedestrians from entering,  we felt it must be a terrorist attack, we seen people looking up and wife was taking phots from our rent a car on vacation.  We thought they were police or military drones that were large, but when we googled next day for information there was other reports of UFO sightings from other people, to our surprise it was lots of reports through out years like Vienna is a hot spot of activity,  we have photos taken that day, of ground activity and  UFO’s</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147179.html](http://www.nuforc.org/webreports/reports/147/S147179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange Lights/Fireballs above the LakeDriving home late at night. Noticed orange lights/fireballs in the sky. There was road work so I had to detour around the lake.  The 2 orange lights/ fireballs weren't moving. They were high enough in the sky that even when I turned onto a different street I could still see them. As I was passing the lake I noticed that they were right above it. I felt like I couldn't stop staring at it but I didn't want to wreck my car either. I checked the road again and turned my head back to the lights and a third one appeared...a bit smaller than the other two. They were in a diagonal line.  As I made my turn right to get onto the road behind my house, a Helicopter flew over the large apartment builings on the left corner and flew straight towards it.  I drove really fast home and ran and told my boyfriend what I'd seen.  He looked out our bedroom window and said he could hear the Helicopter but he couldn't see it.  He actually got in his car and drove over to the lake ! but he said he saw nothing.  Even the Helicopter was gone. He's bummed because I saw something and he didn't.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92385.html](http://www.nuforc.org/webreports/reports/092/S92385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
