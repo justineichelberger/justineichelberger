@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Atoka (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>There were about 21 UFOs with half being in a "V" shape and half in a random order.There was 10-11 orange UFOs in a "V" shape.  We tried to catch them on video, but they were too dim of a light.  Behind the "V" shape was about ten or eleven UFOs in random order.  We witnessed them disappear one by one as they passed by a water tower.  We have a video documenting the occurrence even though you can not see the UFOs.  I will not send the video because of explicit language.  I will show the video to an investigator.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109324.html](http://www.nuforc.org/webreports/reports/109/S109324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>This happened around MAY Of 1983.  It was around 9:30 PM.  Me my sister and two neighbor kids were out in the yard playing, when one of us noticed this orange ball of light coming from behind us not to far over the tree tops.  We had this tall hill behind our house and our house was on a hill so you could see this coming from a good distance.  As we stood and watched this fly over top of us you could see the ball of fire rolling and you could here the sound of crackling like you would a fire.  It wasn't loud you could just here the crackling as it slowly went over us.  I've never seen anything like this again, nor have I heard of anyone witnessing this before.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144691.html](http://www.nuforc.org/webreports/reports/144/S144691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
