@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lumberton (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>2 objects white disk and stealth bomber shape.Approx at 1 pm I noticed 2 objects in sky above Lumberton NJ.  One of the objects was a white disk shape other looked like a stealth bomber.  Both were completely still the stealth like object hovered but seemed to tilt down.  They suddenly disappeared.  With in 20 seconds I saw disk shape object again.  In a blink it was gone.  It didn't fly away it just disappeared .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97664.html](http://www.nuforc.org/webreports/reports/097/S97664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Camden (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We were sitting on the couch and we looked out the window we thought that we had seen what look like a plane it was hovering in the same spot for over an hour I then grabbed my phone and took a video out the window of it just sitting in the same spot I go over and sit down on the couch and post set a video and then after that I look up out the window and with a flash of light it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141461.html](http://www.nuforc.org/webreports/reports/141/S141461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
