@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:34 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Neddick (ME) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A bright orange object shaped like a very small hot air balloon moved very fast across the sky from south to north parallel to the coast.A very bright orange object moved at a very fast rate of speed across the sky from south to north.  It appeared to be shaped like  a hot air balloon but much smaller.  It was very bright almost like on fire at the bottom of the object.  The object appeared to be very close and low in altitude as it moved along the coast.  Within 20-30 seconds the object disappeared in the northern sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109332.html](http://www.nuforc.org/webreports/reports/109/S109332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>7 objects travelling VERY FAST, changing postions, travelling in formation, and creating no noise.At approx 0:45 hours I was laying on my couch looking out a large picture window towards the North East.  All lights in my house were turned off.  I saw what appeared to be a meteor shower in the northwest sky.  Something about the way the lights were travelling made me quickly realize it was not infact meteors.  I went out my front door and looked to the sky where the light were and watched as they moved positions, almost like how birds flying south do.  There appeared to be 7 of the objects moving at about the same speed but changing places.  The creepiest part of the whole experience was that they didn't seem too far off and they where completely silent.  I am involved with jet car racing and know that to attain a speed like what I witnessed would have to involve some sort of afterburning jet engine that would create and incredible amount of noise at that altitude and speed.  I an located just to the east of Edmonton, Alberta, Canada in Sherwood Park and from where I was they appeared to fly from The Fort Saskatchewan area towards the Camrose area.  That is a fairly accurate discription of the sighting.  I hope this helps you, cause I know it helps me even just writing this summary of events (I was a bit creeped out about the sighting) Thank you((NUFORC Note:  One of two similar reports about apparently the same event.  We will forward the reports to Canadian investigators.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36810.html](http://www.nuforc.org/webreports/reports/036/S36810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
