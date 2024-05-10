@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Camden (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We were sitting on the couch and we looked out the window we thought that we had seen what look like a plane it was hovering in the same spot for over an hour I then grabbed my phone and took a video out the window of it just sitting in the same spot I go over and sit down on the couch and post set a video and then after that I look up out the window and with a flash of light it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141461.html](http://www.nuforc.org/webreports/reports/141/S141461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Put-In-Bay (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>While camping on Put-In Bay I saw a strange blue-green light in the night sky.While camping at South Bass Island State Park, better known as Put-In Bay Island in Northwest Ohio, with my wife, mother-in-law, and sister-in-law we were sitting around the campfire talking.  In truth I had drank three beers over the course of the night; so, yes I had drank alcohol, but no I was far from drunk.  The weather was clear. I was looking eastward while everyone else was looking towards me.I was looking out and suddenly a blue-green oval light passed out from behind a stand of trees in to a clear patch of sky.  It looked to be about the size of a diner plate from my point of view.  I would say the angle was about 60 degrees.  There was no sound. It moved for a couple seconds and then seemed to disappear as if it was moving fast away.I do not believe we have been visited by intelligent life from another planet and it requires evidence to convince me otherwise; however, I do not know what it is I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109607.html](http://www.nuforc.org/webreports/reports/109/S109607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
