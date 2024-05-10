@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:31 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Freehold (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>What else could it have been?There was four of us on the porch just enjoying the night, my boyfriend saw it first and jokingly said " Look a UFO" so we all looked up and realized omg what else could it be. First of all it was a circle and it was orange it wasnt moving steadily it was kind of wobbling like a frisbe would if you threw it but It stayed in the air much longer than that and instead of coming down like a frisbee would it simply vanished into the clouds about 2 minutes later the second one appeared. This one seemed to be flying sideways and it to dissapeared within seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36825.html](http://www.nuforc.org/webreports/reports/036/S36825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I have seen for 3 nights in a row,comes at approximately 10 pm est.  And object up in the sky I have pictures and video footage of it.  This appears to be a white cigar shaped object that I can't explain.  It's facing south east and descends back to the north.  Please contact me I am really skeptical of what I'm seeing.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118907.html](http://www.nuforc.org/webreports/reports/118/S118907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
