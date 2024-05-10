@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At least 4 lights flying in & out of the clouds in the baca street area.  Their lights would get really bright & then dim, sometimes going out conpletely...then would reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127396.html](http://www.nuforc.org/webreports/reports/127/S127396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brisbane (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silver object with lights seen over state capital  city brisbane australia in broad daylight 10/05/08I was driving through Brisbane QLD australia with 3 of my children and 1 other child who is a friend of my 14 year old son. I looked up and there in the sky was this shiny metal object. The objects colour was that of aluminium foil. I thought at first maybe it was a plane that had the sun reflecting of it but it moved to the left (west) and that when you could see it was a silver colour. The shape was very hard to make out. Perhaps a cigar shape. I said to the kids - " Do you all see that up in the sky that silver thing"  They all replied " yeh up there"  As I was watching it I saw this lights come on, it reminded me of when someone turns on a set of spot lights in the daytime and they are driving towards you. The lights had to have some power behind it for me to see this from where it was hovering.  As I was  still watching it, it suddenly disappeared - it vanished. I turned back to the kids and said " Did you all see that - can anyone see where its gone to - its vanished - its disappeared"  Each of the children said they all saw it and watched it vanish into thin air. I know it was not a plane and I dont think it was a weather balloon unless they now come equiped with really high powered lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63089.html](http://www.nuforc.org/webreports/reports/063/S63089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
