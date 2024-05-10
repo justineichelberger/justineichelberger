@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:34 on 10 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Melbourne Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orange ball rapidly moving from the ocean heading northwest.  No Sound.Orange sphere appeared moving from the southeast, from the ocean,  heading straight northwest.  Upon initial observation it appeared a small airplane was on fire.  As it approached I realized there was no flame, just a ball like an orange sun.  No sound.Three commercial aircraft at cruise altitude, seen roughly 5 miles above object.  Lateral separation approximately 12 miles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109328.html](http://www.nuforc.org/webreports/reports/109/S109328.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Neddick (ME) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A bright orange object shaped like a very small hot air balloon moved very fast across the sky from south to north parallel to the coast.A very bright orange object moved at a very fast rate of speed across the sky from south to north.  It appeared to be shaped like  a hot air balloon but much smaller.  It was very bright almost like on fire at the bottom of the object.  The object appeared to be very close and low in altitude as it moved along the coast.  Within 20-30 seconds the object disappeared in the northern sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109332.html](http://www.nuforc.org/webreports/reports/109/S109332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
