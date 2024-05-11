@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Banos (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object appeared sw below and to the left of the moon. Object appeared first very bright then slowly fade to a dull shine.  The object stood still for  about 5 min slowly traveling SE at times object changed brightness or shine seems to be reflecting light rather than emitting it.  The object traveling still SE  east ward finally disappeared from view. I have I phone video of the incident if needed .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88901.html](http://www.nuforc.org/webreports/reports/088/S88901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilno (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>5 unkown crafts over Wilno, MNI was driving down the road into town and I seen what looked like birds high up in the sky, the sky was clear with little to no clouds and they were what looked like appearing and disappearing, for how high they looked they didn't seem to be birds, when I got to my house I went towards the backyard, then I realized they were going in circles will they were moving forward, like they were looking at something on the ground, but most of the land is fields but there are farmers out there so it looked like they were watching the farmers or something, from a distance one side looked black and the other side white, but when they got closer, the center was red and the wings were black, the center was kind of like and oval shape and the wings were triangle shaped the corners of the the wings were equal to the size of the center, I tried taking a picture of them on my cell phone but it didn't get them, I went pass some trees on the side of the road and they just disap! peared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81216.html](http://www.nuforc.org/webreports/reports/081/S81216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
