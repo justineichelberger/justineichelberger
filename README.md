@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Croydon (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were glowing orange rings of heated metal.It was on bonfire night we were watching the fire works from our garden view point. It was a very clear night, above us there was one object that was oblong in shape with  an inner core witch was black and the outer part of the object witch glowed orange and was joined by a second and third objects witch came together forming a triangle they seemed to float there for about three to four minute's before disbursing at quite a speed in one direction straight up. Regardless what people think this was no fire work nor was it a helicopter it was something from out of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100197.html](http://www.nuforc.org/webreports/reports/100/S100197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 bright red circle shaped objects almost jellyfish likecoming home from work, i saw 2 bright red circle almost jelly fish like obejects hovering  in the sky  about 100 or more feet apart from each other traveling from the whittier area heading over pico rivera towards the montebello area. one of the objects the one in the back appeared to drop almost like a ash/ fire debris from it and then vanish,  while the one in the front continued heading west bound towards the montebello area. until it got to far for me to see.   this is the second time i have seen this in about a month period. last time i saw 4 of these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36865.html](http://www.nuforc.org/webreports/reports/036/S36865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
