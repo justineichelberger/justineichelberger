@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Monroe (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was in my driveway and I happened to look up and I saw a bright ball of light pass overhead , very low. It first made me think of a comet but it had no tail following it and it stopped in mid flight and blinked out, then it reappeared and got really bright (Venus was is the sky behind me, so I know it wasn't it,but it looked like it) it moved slowly across the sky, very low ! It moved slowly up and it was kind of blinking and as I watched it went out completely. I never looked away or even blinked my eyes!! It was not a plane changing directions or anything that I have ever seen before. It made me uncomfortable enough that as soon as it disappeared  I felt scared and ran into my house.the object I saw was a ball of light with a fog or haze around it , it seemed to fly silently and low to the ground, it had no tail or trail behind it. It stopped , hovered and then blinked out only to reappear in the same spot where it stayed still and became brighter than it had been at first then it moved very slow sort of blinking , bright to almost out, then after about 10 seconds it blinked out completely. It was the size of  a Basketball when it first flew over me then when it blinked out and came back it was the size of Venus, only it no longer had the haze around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07767.html](http://www.nuforc.org/webreports/reports/007/S07767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>High Altitude UFO sighted over New York City during daylightWeather:  Sky clear. Sun setting.  Their was an object in the sky glittering brightly.  Azumuth 130 degrees.  When the glittering stopped for a few moments I could see a white light flashing connected to a thin cable.  I went inside to get my high powered binoculars to get a better look.  I clearly saw an object horizontal that looked like a cable connect to a flashing white light on each end.  The light flashed in sync.  Total of two flashing lights. Whatever that cable or wire was it glittered with the sun.  Over a period of one hour it transitioned from horizontal to vertical.  A high altitude jet passed by, appeared to be below its altitude.  I reported it as a high altitude weather balloon over JFK Airport to the Port Authority so a NOTAM could be issued to all pilots flying in the vicinity of JFK Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146079.html](http://www.nuforc.org/webreports/reports/146/S146079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
