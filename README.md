@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I observed a round black object pass in front of the moon through my telescope.While viewing the full moon through my Tele Vue Genesis-sdf refractor telescope, I saw a small, perfectly round, black object pass over the lunar disk. The object took approximately 10 to 15 seconds to make the transit. The object was in sharp focus, not fuzzy at all. The moon was also in focus at the time. It appeared as if out of nowhere on the eastern edge of the moon, travelled across the moon's face from east to west, then disappeared into the black sky at the moon's western edge. I looked to see if it was visible with the naked eye after it had passed the moon, but it was not. I do not recall exactly which eyepiece I was using at the time, but I am sure the magnification was somewhere in the 30x to 60x range. I am currently 34, and I have been an amateur astronomer ever since receiving my first telescope at age 7. I am thoroughly familiar with the night sky, and I have perfect vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09871.html](http://www.nuforc.org/webreports/reports/009/S09871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>it mopved slowly over my head and then rolled over several times and moved off in a different direction, it appeared to move pretty slothe craft was short and wide, it was twilight outside and the craft appeared to be a dark color. It was shaped like a yellow jacket(bee) and looked like it had something like wings on both sides in the front and back. I did not see any lights on the craft and it moved pretty slow right over my head. it was very cloudy out and the craft seemed to be right under the cloud cover. it moved right over my head and past me and then looked like it rolled over several times and changed direction. I was yelling for my wife to come outside and look at it but by the time she got out on the deck all she saw was a black dot on the horizon. I have never seen anything like this before. It may have been a large baloon like the size used in a parade cuaght in the the wind but i dont know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28745.html](http://www.nuforc.org/webreports/reports/028/S28745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
