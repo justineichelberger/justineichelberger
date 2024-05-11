@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 bright red circle shaped objects almost jellyfish likecoming home from work, i saw 2 bright red circle almost jelly fish like obejects hovering  in the sky  about 100 or more feet apart from each other traveling from the whittier area heading over pico rivera towards the montebello area. one of the objects the one in the back appeared to drop almost like a ash/ fire debris from it and then vanish,  while the one in the front continued heading west bound towards the montebello area. until it got to far for me to see.   this is the second time i have seen this in about a month period. last time i saw 4 of these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36865.html](http://www.nuforc.org/webreports/reports/036/S36865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Banos (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object appeared sw below and to the left of the moon. Object appeared first very bright then slowly fade to a dull shine.  The object stood still for  about 5 min slowly traveling SE at times object changed brightness or shine seems to be reflecting light rather than emitting it.  The object traveling still SE  east ward finally disappeared from view. I have I phone video of the incident if needed .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88901.html](http://www.nuforc.org/webreports/reports/088/S88901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
