@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hudson (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was driving to a friend's house late May 11, 2019.  as I was turning on her St I look up to see a unidentified flying object above my car.  I have never seen this before.  as I yelled what the heck is that and go to grab my phone to take a video.  that's when it flew fast in front of me. I was able to catch just a glimce of the fast object needed to speed up in my vehicle.  it was super fast, I know what I saw and not many believe me or they believe it to be a police drone. I know what a drone looks like. this was no drone.  I have video footage which I edited to be seen in slow motion because everything happened so fast.it was triangler with lights at the bottom it flashed or blinked every few seconds. it's was silver greyish looking. it was also very silent made no noises at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146169.html](http://www.nuforc.org/webreports/reports/146/S146169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Monroe (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was in my driveway and I happened to look up and I saw a bright ball of light pass overhead , very low. It first made me think of a comet but it had no tail following it and it stopped in mid flight and blinked out, then it reappeared and got really bright (Venus was is the sky behind me, so I know it wasn't it,but it looked like it) it moved slowly across the sky, very low ! It moved slowly up and it was kind of blinking and as I watched it went out completely. I never looked away or even blinked my eyes!! It was not a plane changing directions or anything that I have ever seen before. It made me uncomfortable enough that as soon as it disappeared  I felt scared and ran into my house.the object I saw was a ball of light with a fog or haze around it , it seemed to fly silently and low to the ground, it had no tail or trail behind it. It stopped , hovered and then blinked out only to reappear in the same spot where it stayed still and became brighter than it had been at first then it moved very slow sort of blinking , bright to almost out, then after about 10 seconds it blinked out completely. It was the size of  a Basketball when it first flew over me then when it blinked out and came back it was the size of Venus, only it no longer had the haze around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07767.html](http://www.nuforc.org/webreports/reports/007/S07767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
