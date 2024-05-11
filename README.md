@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:46 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Russia (Over) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I saw a gigantic orange ball inside clouds in the dead of night when I was flying to Japan over Russia.I saw a gigantic orange ball inside the clouds in the dead of night when I was flying to Japan over Russia.  As far as I can recall it was the size of a stadium and it was just static in the clouds (some what above them).  The orange ball emitted an orange aura and did not move at all.  Every body was sleeping on the plane and I was the only witness to this anomaly.  At the time I thought it was an atmospheric phenomenon, but now after seeing photos of comparable photos with identical objects being labeled as UFO's, I thought you might be interested in this sighting.  I really regretted not having a camera!  I'm now studying in Poland, so you can call me here or email me if you have any questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32036.html](http://www.nuforc.org/webreports/reports/032/S32036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hudson (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was driving to a friend's house late May 11, 2019.  as I was turning on her St I look up to see a unidentified flying object above my car.  I have never seen this before.  as I yelled what the heck is that and go to grab my phone to take a video.  that's when it flew fast in front of me. I was able to catch just a glimce of the fast object needed to speed up in my vehicle.  it was super fast, I know what I saw and not many believe me or they believe it to be a police drone. I know what a drone looks like. this was no drone.  I have video footage which I edited to be seen in slow motion because everything happened so fast.it was triangler with lights at the bottom it flashed or blinked every few seconds. it's was silver greyish looking. it was also very silent made no noises at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146169.html](http://www.nuforc.org/webreports/reports/146/S146169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
