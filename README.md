@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:44 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wilmette (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>As I was sitting in my back yard it started to thunder, than I looked up and there was a circle in the sky than it disapeared.I was at a friends house one night in the summer. We were on there trampoline just talking and lokking out at the stars when suddenly, I noticed a red little dot moving. As if it was moving around the stars! I quickly paused and thought if this was a UFO. I wasn't thinking about much, then just as I told someone about cause it was getting bigger and I was getting nervous, it disappeared. Then five minutes later it came back except it was  really small to see.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41877.html](http://www.nuforc.org/webreports/reports/041/S41877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alaska cruise (Norwegian Star) (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange light in the sky , outside Juneau,  Alaska.My husband and I were on an Alaska cruise (the Norwegian star).  On May 11, 2011, I was taking pictures of the sunset from our stateroom window.  We were somewhere outside Juneau, Alaska, in the interpassage on our way to Ketchikan.  I Observed a strange star like light in the sky.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  We have requested more detailed information about the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81715.html](http://www.nuforc.org/webreports/reports/081/S81715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
