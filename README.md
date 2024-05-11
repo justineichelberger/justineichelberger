@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:45 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bowling Green (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Hour - Hour minutes.</sub><blockquote><sub>Five fire ball like lites disappearing and reappearing.  Digital zoom camera showed C shaped formation and even a silver shape formI was turning off the water in my garden, when I seen two lites far away looked as if they were signal flares.  I watched as one started to fade out, then reappeared on the far right moving up and down side to side.  Then another appeared just above the second and looked as if it split into two.  They would stay in one spot for around one minute and fade reappearing a second later on the far opposite side.I asked my wife to grab the video cam and digital cam.  I video taped several minutes of this and zoomed in with the digital cam and found they a C-shaped in every picture taken.  In some pictures what looked to be lite colorful moons in the background and somthing silver in two other pictures.  In a couple of the pictures I included my boat to make sure the C shapes were not me moving the camera. Three Jets zipped thru the sky from Tampa in there direction and just before they got there the lites disappeared.  The jets turned around and headed back to Tampa. I'm in my early 30's. Colledge grad in electronics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36872.html](http://www.nuforc.org/webreports/reports/036/S36872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Croydon (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were glowing orange rings of heated metal.It was on bonfire night we were watching the fire works from our garden view point. It was a very clear night, above us there was one object that was oblong in shape with  an inner core witch was black and the outer part of the object witch glowed orange and was joined by a second and third objects witch came together forming a triangle they seemed to float there for about three to four minute's before disbursing at quite a speed in one direction straight up. Regardless what people think this was no fire work nor was it a helicopter it was something from out of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100197.html](http://www.nuforc.org/webreports/reports/100/S100197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
