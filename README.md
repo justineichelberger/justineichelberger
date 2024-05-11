@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:50 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>a long white shape went across the sky going extremely fast (this was a white bright light).We were driving home and we looked in the sky and right above the trees this white bright light went traveling across the sky really fast.  We all saw it but my mom.  There were 4 of us.  We didn't understand the shape but this was not a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109295.html](http://www.nuforc.org/webreports/reports/109/S109295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Garner (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Blue orbs fly over Garner (near soccer park over hey 50 south)Blue Lights moving high rate of speed would flash appear in different spot of the sky some times making “L” shaped pattern it was  moving south east direction away from the (opposite side of the sky) moon then it would appear below moon line with in 2-3 seconds went on for 45 minutes.  There was low flying plane seemed to chase or be chased plane flew low over tree tops near Sutton spring</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146063.html](http://www.nuforc.org/webreports/reports/146/S146063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
