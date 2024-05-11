@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:32 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hobbs (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I spotted a tic-tac shaped UFO floating across the sky.  I started recording it with my phone camera on video.  The next day upon closer looking I noticed a streaking light slide in behind the tic-tac ufo and overtake it at very fast speed.  I also saw other flashing, streaking and blinking UFO’s upon a closer look.  The clouds above and below the craft(s) were behaving strangely.   I posted it on YouTube today. link... https://www.youtube.com/watch?v=FNFzqPlCXsk</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156641.html](http://www.nuforc.org/webreports/reports/156/S156641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blacksburg (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange ball descending from the sky3 observers sitting on a porch, saw a ball of red/orange light descending and did not hear a crash.  More of an orange hue in the sky, took about 30 seconds, all individuals on the balcony saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146080.html](http://www.nuforc.org/webreports/reports/146/S146080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
