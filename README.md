@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>High Altitude UFO sighted over New York City during daylightWeather:  Sky clear. Sun setting.  Their was an object in the sky glittering brightly.  Azumuth 130 degrees.  When the glittering stopped for a few moments I could see a white light flashing connected to a thin cable.  I went inside to get my high powered binoculars to get a better look.  I clearly saw an object horizontal that looked like a cable connect to a flashing white light on each end.  The light flashed in sync.  Total of two flashing lights. Whatever that cable or wire was it glittered with the sun.  Over a period of one hour it transitioned from horizontal to vertical.  A high altitude jet passed by, appeared to be below its altitude.  I reported it as a high altitude weather balloon over JFK Airport to the Port Authority so a NOTAM could be issued to all pilots flying in the vicinity of JFK Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146079.html](http://www.nuforc.org/webreports/reports/146/S146079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>05/11/13, 14 to 16 objects appeared, Orlando, Florida, 21:05 duration approx 4 minutes, redish color.On May 11, 2013 about 2105 I was leaving a family members' house, as I got in my vehicle I saw some light that were acending 3 to begin with I started recording with my smart phone, two more light started acending now a total of 5.  As I recorded those light that were traveling in a east to south east direction I was not aware of what was taking place infront of me.  I recorded 3:57 seconds and by then the lights had disapeared into the clouds.  Got in my van and procceded home, I started to go over the recording when I noticed other subjects the in the recording that I had not noticed since I was recording 5 lights.  These lights came into view from left to right (west to east) two of them aproached in my direction (north to south) at a very low altitude, another one traveled by it self in an easterlly direction, the two that aproached me hovered for about 35 to 40 seconds and when those two departed the loaner that apeared by it self also left with those two! the other ones were out of view by that time.  During the recording an Airplane took of from Orlando IA, for a good comparison of sound and direction and lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100639.html](http://www.nuforc.org/webreports/reports/100/S100639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
