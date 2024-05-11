@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>it mopved slowly over my head and then rolled over several times and moved off in a different direction, it appeared to move pretty slothe craft was short and wide, it was twilight outside and the craft appeared to be a dark color. It was shaped like a yellow jacket(bee) and looked like it had something like wings on both sides in the front and back. I did not see any lights on the craft and it moved pretty slow right over my head. it was very cloudy out and the craft seemed to be right under the cloud cover. it moved right over my head and past me and then looked like it rolled over several times and changed direction. I was yelling for my wife to come outside and look at it but by the time she got out on the deck all she saw was a black dot on the horizon. I have never seen anything like this before. It may have been a large baloon like the size used in a parade cuaght in the the wind but i dont know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28745.html](http://www.nuforc.org/webreports/reports/028/S28745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>either one huge triangle with lights on each tip or 3 seperate craftsI couldn't sleep, so i decieded to go out and walk around the yard with my dog, looked up and  noticed the sky was clear, so i turned out all the outside lights to get a better look.  So i laid down in the bed of our truck and was looking at the big and little dipper in the sky, when i noticed 3 very faint/small stars moving. At first i thought i must be seeing things,  Then i saw that they where deffinatly moving from nw to se  at a very high rate of speed.  As far away as they were i sometimes lost them and i would have to refocus my eyes to see them again.It was either one huge craft with 3 light in the shape of and offset triangle, or 3 seperate crafts flying in perfect formation,  wow  was all i could think</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36987.html](http://www.nuforc.org/webreports/reports/036/S36987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
