@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilno (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>5 unkown crafts over Wilno, MNI was driving down the road into town and I seen what looked like birds high up in the sky, the sky was clear with little to no clouds and they were what looked like appearing and disappearing, for how high they looked they didn't seem to be birds, when I got to my house I went towards the backyard, then I realized they were going in circles will they were moving forward, like they were looking at something on the ground, but most of the land is fields but there are farmers out there so it looked like they were watching the farmers or something, from a distance one side looked black and the other side white, but when they got closer, the center was red and the wings were black, the center was kind of like and oval shape and the wings were triangle shaped the corners of the the wings were equal to the size of the center, I tried taking a picture of them on my cell phone but it didn't get them, I went pass some trees on the side of the road and they just disap! peared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81216.html](http://www.nuforc.org/webreports/reports/081/S81216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Northbridge (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 Darting UFOs, stationary at non-fixed intervals.My girlfriend and I went outside to look at the stars on may 11, 2005 at 21:45. We stood in her driveway only 20 feet from the house and began pointing out the common constalations. We saw a faint light darting across the sky, it may have moved a half inch or so from our location at a time. We first thought it was a plane. We dismissed this after watching it for one or two minutes. The movements were too irregular to be an airplane. It made quick, movements moving only a half inch or so at a time. It moved left, right, up, down, and every way inbetween. The object would be stationary at non-fixed interavals. At this point we went back into the house. We called for my girlfriend's father. He came outside. At this point we all noticed the a brighter, possibly closer object demonstrating the same movements. My girlfriends father went inside. My girlfriend and I followed him into the house and got her old teloscope and binoqulars. We assembled the teloscope, at this point it was 22:30 roughly, and the object were stationary for longer periods of time. The teloscope and binoqulars didn't help very much. They were old and too dirty. The objects were clearly round in shape. We continued to observes them until 24:10 roughly, and as time passed the objects were stationary for longer and longer periods of time. We ploted out the points, marking a place of referrence and used a one peak of my girlfriends roof to mark the object to the left and a large pine tree to mark the object to the right. I had to get home, so we decided to call it a night and check it the following evening, which would be 21:45 on may 12, 2005. I will repond again if we see it again.((NUFORC Note:  We suspect that the witnesses may have been looking at the star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43914.html](http://www.nuforc.org/webreports/reports/043/S43914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
