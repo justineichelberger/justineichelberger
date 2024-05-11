@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:44 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:50 on 11 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alaska cruise (Norwegian Star) (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange light in the sky , outside Juneau,  Alaska.My husband and I were on an Alaska cruise (the Norwegian star).  On May 11, 2011, I was taking pictures of the sunset from our stateroom window.  We were somewhere outside Juneau, Alaska, in the interpassage on our way to Ketchikan.  I Observed a strange star like light in the sky.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  We have requested more detailed information about the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81715.html](http://www.nuforc.org/webreports/reports/081/S81715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>a long white shape went across the sky going extremely fast (this was a white bright light).We were driving home and we looked in the sky and right above the trees this white bright light went traveling across the sky really fast.  We all saw it but my mom.  There were 4 of us.  We didn't understand the shape but this was not a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109295.html](http://www.nuforc.org/webreports/reports/109/S109295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
