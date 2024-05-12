@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright circle object.This was a round bright oblect.  At first it was bright white like a spot light.  Then it turned bright blue.  It appeared to be quick moving and was making quick 90' & 180' turns.  It appeared toward the Castle Craig area.((NUFORC Note:  We wonder whether the object might have been a model aircraft, or a quadcopter, with blue LED lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109363.html](http://www.nuforc.org/webreports/reports/109/S109363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sun Prairie (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Triangle formation of moving stars, and slow bright object with in minutes of each otherI was out in my back yard having a quick smoke and taking a look at the sky.  As I looked south, about 60 degrees off the horizon.  I noticed a triangle formation of stars that looked interesting because I was looking that the geometric features of the constilations.  I noticed that something was not quite right about these stars because they were moving.  The stars kept shape as they moved acrossed the sky from the South to the North, and the color was of that of a standard star.  The speed was constant, and no odd movements were made by the three stars.  As I watched; there were no similarities to the star that would point out if they were high flying aircraft.  No blinking indicator lights, or contrails coming the passing object or objects.  I also took note that if they were satelites, it is almost impossible to see them in the city, not to mention in a formation as well.  With growing up in an aviation family, and have seen many aircraft at and from many altitudes, this was quite odd.  As several minutes had passed, by the time the object had come to about 60 degrees off the horizon, the star like lights disapeared.Not much after I as seen the strange formation of moving stars, I was standing outside try to call some friends to see if they had seen what I had.  Now standing in the front yard, looking to the North.  I noticed that something very bright was now moving acrossed the sky.  It was moving from West to East and was about 20 degrees from the horizon.  It traveled to slow to be a jet, and did not make any noise.  The object was so bright that it illuminated a small low flying cloud as it passed through it.  No sudden movements were made as it traveled from West to East.No other aircraft were flying that I could tell as well at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36890.html](http://www.nuforc.org/webreports/reports/036/S36890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
