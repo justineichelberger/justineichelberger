@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>My girlfriend here at the University of Wisconsin told me that she was studying at a campus library one afternoon during exam week, sometime around May 12 give or take 3 or 4 days either way, and saw a strange object flying over Lake Mendota.She said the object was shaped like the cross-section of a regular boot would appear.  It didn't appear to make any strange flight patterns or have any lights, especially since it was daytime, but the boot was receding somewhat quickly away from her view.  A woman studying across from her noticed the object as well, and both agreed it was strange.  They ruled out a blimp, weather balloon, helicopter, and airplane.  Since it was already quite far, it was difficult to make out any particular coloring or other surface pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00657.html](http://www.nuforc.org/webreports/reports/000/S00657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5MM - 5MM minutes.</sub><blockquote><sub>MY UNCLE AND I WERE MOVING THAT NIGHT.  WE WERE ON OUR WAY BACK TO THE OLD APT IT WAS ABOUT 1:00 AM  AND MY UNCLE AND I WERE DRIVING DOWN THE STREET  AND ON THIS STREET THERE OUR A LOT OF TREES THAT HANG OVER THE STREET, SO AS WE WERE DRIVING  WE SAW A OBJECT HOVERING OVER THE TREES  IT WAS A BLACK TRIANGLE WITH A RED LIGHT IN THE CENTER OF IT.  AND WE LOOK AT ONE ANOTHER AS WE WENT PASS WE STOPED AND BACKUP  AND GOT OUT OF THE TRUCK. AND  IT SAT THERE FOR A FEW SECOUNDS AND IT HAD NO SOUND SO AS WE WERE LOOKING AT THIS THING IT TOOK OFF, AND IT WENT STREIGHT UP  WITH NO SOUND. I NEVER SEEN SUCH A THING IN MY LIFE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55034.html](http://www.nuforc.org/webreports/reports/055/S55034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
