@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riverview (Canada) (NB) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It stopped and changed directions frequently, and eventually disappeared.Me and my girlfriend were driving to her house when we spotted what appeared to be a UFO.  The object was slowly moving over upper Riverview, it appeared to be a large, diamond shaped craft with at least 6 lights around it; two where closer to the middle and were flashing.  It stopped in mid-air and changed directions several times; moving smoothly and fluently. We made sure it was not a helicopter as it was far too large and did not make any noise as it hovered not far ahead of us.  We turned around to chase the craft which was heading towards the river.  It began moving faster and faster and eventually disappeared.  The sky was barely cloudy so we would have been able to spot it, but we did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75391.html](http://www.nuforc.org/webreports/reports/075/S75391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>My girlfriend here at the University of Wisconsin told me that she was studying at a campus library one afternoon during exam week, sometime around May 12 give or take 3 or 4 days either way, and saw a strange object flying over Lake Mendota.She said the object was shaped like the cross-section of a regular boot would appear.  It didn't appear to make any strange flight patterns or have any lights, especially since it was daytime, but the boot was receding somewhat quickly away from her view.  A woman studying across from her noticed the object as well, and both agreed it was strange.  They ruled out a blimp, weather balloon, helicopter, and airplane.  Since it was already quite far, it was difficult to make out any particular coloring or other surface pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00657.html](http://www.nuforc.org/webreports/reports/000/S00657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
