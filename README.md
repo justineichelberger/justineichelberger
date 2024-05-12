@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:50 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Sphere with flashing and brightly colored, tentacled lights.  Sat right off the coast, just to the south of LAX for 40 minutes.  Was very visible.  Object slowly moved west off the coastline.  At times, the object would go into rapidly changing light sequences.  It almost seemed like a pattern.  Like it was trying to communicate.I watched the object through binoculars for 15 -20 minutes.  It flashed very brightly a few times and then would display color light patterns.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127377.html](http://www.nuforc.org/webreports/reports/127/S127377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lisbon (Portugal) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>UFO unvisible to naked you caught on high exposure photo.Beautiful night. I was taking night photos with my hi-end camera for use in a poster. I took some photos with extra high exposure time and ended up getting some flying objects not visible at naked eye (multiple shapes). Maybe they were invisible and got caught only because of the extreme exposure time. I don't know. It can also be a camera's fault, but is very unlikely because this is a high precision camera and only some regions of the sky show this thing. I have hi-res photos if you care to take a look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52426.html](http://www.nuforc.org/webreports/reports/052/S52426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
