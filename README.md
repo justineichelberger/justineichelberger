@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dunn (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>I was taking pictures of my roses when I downloaded them into my pc I saw this((NUFORC Note:  The witness forwarded a still photo to NUFORC, which we have examined.  The photo is ambiguous, since the image is blurred, and apparently distant from the camera, but our first guess would be that the small image in the photo was caused by a bird, perhaps a wren-type bird with a long tail, flew in front of the camera while the shutter was open.  That is only a guess.  We spoke with the witness, and she sounded to be quite serious-minded and credible to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28752.html](http://www.nuforc.org/webreports/reports/028/S28752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright circle object.This was a round bright oblect.  At first it was bright white like a spot light.  Then it turned bright blue.  It appeared to be quick moving and was making quick 90' & 180' turns.  It appeared toward the Castle Craig area.((NUFORC Note:  We wonder whether the object might have been a model aircraft, or a quadcopter, with blue LED lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109363.html](http://www.nuforc.org/webreports/reports/109/S109363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
