@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Death Valley Gas Station (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately Trip to California - Trip to California minutes.</sub><blockquote><sub>Midnight, Gas station, Death Valley, we saw an awesome feat of extra-terrestrial life in the sky.We was traveling home from a Disneyland trip with some friends. We stopped at a gas station at 11:30 at night in Death Valley. About 3 Football fields away my friend saw a flash then we all looked and two oval like saucers were sorta dancing back and forth in the sky, shooting lights at each other. We just stared, we ran in the station and told people to come look. A few kids ran out and looked but it was gone. We turned at an explosing sound and two parked semis lights, horns and engines flashed on and off. There was no one there though. Then everything was quiet</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22170.html](http://www.nuforc.org/webreports/reports/022/S22170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Crosslake (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Multiple lights traveling same SW to NE trajectory at 3 to 4 minute intervals.This sighting occurred Tuesday May 12, 2020 between 9:30 pm and 10:40 pm from Crosslake, MN.  Multiple satellite-appearing lights were observed traveling the same trajectory from SW to NE at approximately 3 to 4-minute intervals.  I counted 11 in this timeframe.  Only one could be seen in the sky at a time.  Their path took them through the ladle of the “Big Dipper”.I used binoculars to see if I could detect for wingtip strobe lights or green/red navigation lights to rule out whether these objects were commercial aircraft.  None could be visualized.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156432.html](http://www.nuforc.org/webreports/reports/156/S156432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
