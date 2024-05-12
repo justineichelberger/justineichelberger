@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:50 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lisbon (Portugal) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>UFO unvisible to naked you caught on high exposure photo.Beautiful night. I was taking night photos with my hi-end camera for use in a poster. I took some photos with extra high exposure time and ended up getting some flying objects not visible at naked eye (multiple shapes). Maybe they were invisible and got caught only because of the extreme exposure time. I don't know. It can also be a camera's fault, but is very unlikely because this is a high precision camera and only some regions of the sky show this thing. I have hi-res photos if you care to take a look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52426.html](http://www.nuforc.org/webreports/reports/052/S52426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bay Minette (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>five orange lights in baldwin county no sound that i could hearLast night as I left my grandma's house I noticed strange bright orange lights above the tree line.  I stopped and tried to take a photo with my phone but it could not reach the lights.  They appeared to be round objects that I could see for about 4 miles that did not leave the area.  They were flying in a strange pattern, and were not any craft I have ever seen flying at night before.  I was trying to see if anyone else saw this, and if it was something or just normal aircraft.  I am a married and a mother of two about to finish my bachalors.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88937.html](http://www.nuforc.org/webreports/reports/088/S88937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
