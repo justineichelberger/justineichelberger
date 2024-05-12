@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three lighted triangular craft make no sound and erratically circle just north of Orlando for five minutes.While working as a security guard I observed from atop a downtown parking garage what appeared at first to be three craft approaching from the north like airplanes do going to the main airport.  But then I observed that they were much too closely spaced to be regulated aircraft.  As they got near downtown they began to move in motions of lazy turns, banks and doublebacks like seagulls, at random and not in formation, and not like any planes I've ever seen.  The front of the craft had half a dozen white lights.  There were no other lights and no sound was heard.  I used an 8x eyepiece to get a better view. The rear of the craft was square so the whole thing appeared to be an obtuse triangle with the large angle at the nose.  The craft appeared black.  I double-checked myself that these were not blimps, spotlights, laserlights, helicopters, normal airplanes, birds, nor reflections.  Their size appeared to be about twice as big as a large commercial plane.  After a few minutes they moved slowly off to the northwest and disappeared in the haze.  Their altitude was about that of planes coming into the city just about 5-10 miles from the airport.  Their speed was similar to jets flying normally, or just a tad faster.  The weather was mostly clear with some haze.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22810.html](http://www.nuforc.org/webreports/reports/022/S22810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in South Yorkshire (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was stood at my door a strip of light reaching across the sky brocke up into bits then faded came in a different place split up again then faded it was very peacefull</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134074.html](http://www.nuforc.org/webreports/reports/134/S134074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
