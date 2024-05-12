@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright orange fireball.Bright orange fire ball, looked like a burning plane, but slow and inconsistent movement, moving southwest to northeast.  Stopped, wobbled and then dropped and disappeared.  Time reported is estimate.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127363.html](http://www.nuforc.org/webreports/reports/127/S127363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Death Valley Gas Station (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately Trip to California - Trip to California minutes.</sub><blockquote><sub>Midnight, Gas station, Death Valley, we saw an awesome feat of extra-terrestrial life in the sky.We was traveling home from a Disneyland trip with some friends. We stopped at a gas station at 11:30 at night in Death Valley. About 3 Football fields away my friend saw a flash then we all looked and two oval like saucers were sorta dancing back and forth in the sky, shooting lights at each other. We just stared, we ran in the station and told people to come look. A few kids ran out and looked but it was gone. We turned at an explosing sound and two parked semis lights, horns and engines flashed on and off. There was no one there though. Then everything was quiet</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22170.html](http://www.nuforc.org/webreports/reports/022/S22170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
