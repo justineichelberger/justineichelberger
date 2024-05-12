@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:39 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:20 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>glowing red lights speeding across the skyMy husband and I were standing outside looking at stars and sattelites. We were talking when all of a sudden we saw a weird looking light in the sky. It was a soft glowing orangish red color. It was moving very fast and made no noise at all. We aren't sure if it was just one or if there was two of them as there was one light behind the other. It was very strange to say the least!! I know that I have never seen anything like that before in my life and I have always enjoyed watching the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17628.html](http://www.nuforc.org/webreports/reports/017/S17628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Light that was in a cloud bank above apartment complex.  Appeared orange in the cloud, southwest stopped, moved northeast on parallel course to original, disappeared behind tree, appeared again to the south of original location. to theThe light appeared in the cloud bank above my apartment complex, fairly high in the sky.  It moved southwest, stopped, and moved northeast on a parallel path.  Then it disappeared behind a tree and appeared again to the south of the original locale. Then it disappeared totally in the clouds.  I only saw one and it was orange in color, but that could have been the clouds altering the light. Shortly after I witnessed this, I did see a commercial aircraft headed north, I imagine it was bound for the Indianapolis airport. I am an employee in the local mall and am 21 years of age.  I grew up just north of this town and know the area fairly well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07722.html](http://www.nuforc.org/webreports/reports/007/S07722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
