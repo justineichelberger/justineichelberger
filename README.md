@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in South Yorkshire (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was stood at my door a strip of light reaching across the sky brocke up into bits then faded came in a different place split up again then faded it was very peacefull</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134074.html](http://www.nuforc.org/webreports/reports/134/S134074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My dad was dropping me off at my grandma's house, but she forgot to unlock a door for me to go in, so my dad waited and I went around to the back door to find it liked as well.  I then went back around front to find that my dad had left.  It was just as the sun was barely coming up for sunrise and I was looking west, when a cat suddenly snuck up on me... It Iiked to have given me a heart attack!  But it looked up past me and meowed.  Wondering why on Earth a cat would look in the sky, as because grandma still hadn't unlocked the door, I looked up at what he had meowed at.  I looked up to find two craft at high altitude that looked just like a star...  At first, I thought it was just me, but then I stood their and watched one of them stop completely, while the other one morphed into the other than split again and started doing a figure 8 pattern around the other just about that time my grandma opened the door and I just stopped thinking about it...  Later though it started to raise suspicion and I just now got a chance to report it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134513.html](http://www.nuforc.org/webreports/reports/134/S134513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
