@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bay Minette (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>five orange lights in baldwin county no sound that i could hearLast night as I left my grandma's house I noticed strange bright orange lights above the tree line.  I stopped and tried to take a photo with my phone but it could not reach the lights.  They appeared to be round objects that I could see for about 4 miles that did not leave the area.  They were flying in a strange pattern, and were not any craft I have ever seen flying at night before.  I was trying to see if anyone else saw this, and if it was something or just normal aircraft.  I am a married and a mother of two about to finish my bachalors.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88937.html](http://www.nuforc.org/webreports/reports/088/S88937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Enid (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Glowing pulsating bumpy cylinder seen early a.m. In OklahomaVisiting from Texas and staying in a hotel in Enid, Oklahoma.  I heard a pulsating hum outside my hotel window that woke me up.  As I awoke, I noticed a greenish glow from outside.  I got up and pulled open the curtains and saw what looked like a tube or a bumpy cylinder shaped lampshade.  It was moving slowly through the parking lot from my right to left.  I was upstairs, 3 rooms from the end, on the east side of the hotel and when it got to the corner of the building it turned left and went around the corner to the front of the hotel.  I grabbed my phone and went down the stairs and outside and ran to the corner to get a better look.  It was gone.  The object appeared to be about 3 feet long and a diameter of about a small lampshade, maybe about the size that a soccer ball could fit in the end of it.  It appeared to be solid but hollow in the middle.  The light was pusating from inside of the object and was luminating in a haze from the ends.  The object was smooth, but had a series of bumps raised on it that almost looked like tree bark.  The object was moving slowly but steady from my left to right, south to north.  It was directly in my eyeline on the second floor of my hotel, maybe 18 feet in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134069.html](http://www.nuforc.org/webreports/reports/134/S134069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
