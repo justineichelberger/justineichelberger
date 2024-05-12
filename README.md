@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5MM - 5MM minutes.</sub><blockquote><sub>MY UNCLE AND I WERE MOVING THAT NIGHT.  WE WERE ON OUR WAY BACK TO THE OLD APT IT WAS ABOUT 1:00 AM  AND MY UNCLE AND I WERE DRIVING DOWN THE STREET  AND ON THIS STREET THERE OUR A LOT OF TREES THAT HANG OVER THE STREET, SO AS WE WERE DRIVING  WE SAW A OBJECT HOVERING OVER THE TREES  IT WAS A BLACK TRIANGLE WITH A RED LIGHT IN THE CENTER OF IT.  AND WE LOOK AT ONE ANOTHER AS WE WENT PASS WE STOPED AND BACKUP  AND GOT OUT OF THE TRUCK. AND  IT SAT THERE FOR A FEW SECOUNDS AND IT HAD NO SOUND SO AS WE WERE LOOKING AT THIS THING IT TOOK OFF, AND IT WENT STREIGHT UP  WITH NO SOUND. I NEVER SEEN SUCH A THING IN MY LIFE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55034.html](http://www.nuforc.org/webreports/reports/055/S55034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hernando (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>star like object with bizaar flight path appearing to stair step across sky at a rapid rateMay 12, 2007.First of all, I want to preface this statement by saying that I have lived near major cities where airports have been located or by Military bases all of my life and have never seen anything like this before. I will try to articulate what I saw but honestly, I don’t know if I can find the right words to describe exactly what I witnessed. This sighting happened south of Hernando, MS around 23:22 and the object moved in a northern direction across the sky, slightly west of Hernando towards the eastern Tunica, MS area, then very likely on to west of West Memphis, then to the southern part of Arkansas. This was a light, bright as a star but it did have a strange rhythmic flash that corresponded with its bazaar flight path. This object was moving so fast that I lost sight of it after about 3 seconds. It was very high in the sky and seemed to rapidly drop altitude multiple times before disappearing in a lateral direction. The light would stay on then, as it would disappear. The next thing I would see was the light again at a different altitude and in a different place in the sky…a flight path incompatible with any aircraft. It was like the object was stair stepping across the sky and on the downward movements, the light would disappear. While moving laterally, the light would disappear again and then come back on…only to reappear in a position that would totally exclude any aircraft movement. I can’t articulate how fast this thing was going!  What I saw tonight was neither an aircraft nor a meteorite. This was not space junk falling from the sky. I am not sure of what it was exactly, but I do know that it moved rapidly and in a fashion that was deliberate. This object was so fast that I can see how it would be missed on radar. I can only say that I got the feeling that whatever this was, it did not want to be spotted or observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56642.html](http://www.nuforc.org/webreports/reports/056/S56642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
