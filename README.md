@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:20 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:29 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Light that was in a cloud bank above apartment complex.  Appeared orange in the cloud, southwest stopped, moved northeast on parallel course to original, disappeared behind tree, appeared again to the south of original location. to theThe light appeared in the cloud bank above my apartment complex, fairly high in the sky.  It moved southwest, stopped, and moved northeast on a parallel path.  Then it disappeared behind a tree and appeared again to the south of the original locale. Then it disappeared totally in the clouds.  I only saw one and it was orange in color, but that could have been the clouds altering the light. Shortly after I witnessed this, I did see a commercial aircraft headed north, I imagine it was bound for the Indianapolis airport. I am an employee in the local mall and am 21 years of age.  I grew up just north of this town and know the area fairly well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07722.html](http://www.nuforc.org/webreports/reports/007/S07722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riverview (Canada) (NB) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It stopped and changed directions frequently, and eventually disappeared.Me and my girlfriend were driving to her house when we spotted what appeared to be a UFO.  The object was slowly moving over upper Riverview, it appeared to be a large, diamond shaped craft with at least 6 lights around it; two where closer to the middle and were flashing.  It stopped in mid-air and changed directions several times; moving smoothly and fluently. We made sure it was not a helicopter as it was far too large and did not make any noise as it hovered not far ahead of us.  We turned around to chase the craft which was heading towards the river.  It began moving faster and faster and eventually disappeared.  The sky was barely cloudy so we would have been able to spot it, but we did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75391.html](http://www.nuforc.org/webreports/reports/075/S75391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
