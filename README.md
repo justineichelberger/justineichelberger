@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:18 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Lake Guadalupe (Mexico) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was silent and metalic and reflective.Me and my brother were walking down a hill on a small peninsula of a lake outside Mexico City when e both noticed a metalic elongated egg or cigar that was hovering along side of us.  It appeared to do off in the distance 100yds or so depending on its size. It looked like it was matching our speed until we stopped and it continued slowly moving along. It dissappeared behind a tree and when we tried to see where it went it had gone without a trace. I am convinced I saw a UFO. I however, believe that UFO means Unidentified Flying Aircraft and not little green men in a spaceship.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32174.html](http://www.nuforc.org/webreports/reports/032/S32174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Heiskell (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Unexplained light in the sky over Heiskell.At ten o'clock, just as Frasier went off the air, it began to rain very hard outside. I went to the front door, which faces northwest, and looked out. Through the trees, slightly towards the west, where I usually see Venus in the evenings, I saw a bright, yellowish light flickering through the tree branches. I watched for a few seconds trying to determine if it might just be Venus I was seeing and realized that this was something different. I stepped out onto the front porch to get a better look. I had to crouch down to get a view of it without the obstruction of the tree branches. As I watched, the light grew in size and brightness and changed to a ruddy color. (At its largest, it was twice the size of Venus). It then began to drop what looked like blobs of red light toward the ground. It did this for about ten seconds at which time its intensity dwindled down to a pinpoint and the color back towards yellow. After a few seconds it became very bright and red and again rained down several large blobs of red. Another couple of minutes and it winked out completely. The only sounds I heard were from a jet flying over in another part of the sky. As a veteran of the Army, I've been on night laneuvers where flares were employed to light a battle area. With a flare there is always a crackling sound and smoke while it is deployed. There was neither smoke nor sound with this sighting. Nor was there any excess illumination caused by its presence. I've never seen a flare grown small then large again the way this thing did. A report from anyone else who saw this or a possible explanation would be welcome. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36922.html](http://www.nuforc.org/webreports/reports/036/S36922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
