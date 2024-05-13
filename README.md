@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:21 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:18 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tomahawk (WI) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>heard what souned like a very long sonic boom. but 10 min before I noticed a very unsal contrail looked like nothing I ever seen before, very jagged and all over the place. 1 hour later the smoke like contrail was still in the same area to the north west. Ive heard sonic booms before but never like this it was almost like a very load explosion far off. There seems to many things happening very very many contrails the last 4 wks. But this was very unsal.    I also have a vido tape from 1987 of a ufo in this area if you are interested. I relize its from 12 years ago but its very interesting. It still gives me goose bumps thinking about the morning i filmed it. Thank you for your time. bellThe answers below are from the 1987 ufo vido I took.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07717.html](http://www.nuforc.org/webreports/reports/007/S07717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Lake Guadalupe (Mexico) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was silent and metalic and reflective.Me and my brother were walking down a hill on a small peninsula of a lake outside Mexico City when e both noticed a metalic elongated egg or cigar that was hovering along side of us.  It appeared to do off in the distance 100yds or so depending on its size. It looked like it was matching our speed until we stopped and it continued slowly moving along. It dissappeared behind a tree and when we tried to see where it went it had gone without a trace. I am convinced I saw a UFO. I however, believe that UFO means Unidentified Flying Aircraft and not little green men in a spaceship.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32174.html](http://www.nuforc.org/webreports/reports/032/S32174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
