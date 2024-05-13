@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Thomasville (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Round bright objects seen in the sky over Thomas CountyOut walking the dogs with my husband and happened to look up.  It was a clear night.  Saw two or three round bright flickering objects in the sky moving towards the East sky.  When we both looked to the direction they were heading there were anywhere from 20-30 additional sized objects following in the same direction together, but not in any uniform pattern.  We watched them for approximately 15 to 20 minutes before they disappeared beyond the trees.  My husband and I discussed it again today and still have no idea what we saw.  If it wasn't for the speed of the two or three objects trying to catch up to the group, we thought maybe they were lighted balloons or lanterns that people let off into the sky, but they were too far up in the sky.  We heard no sounds of planes or saw any in the area at the time of this sighting.  I am a skeptical person as my husband is as well and we really saw something that was really unexplainable.  We know what we saw, and tried to! video record it with our phones, but they were too far up in the sky to get a good recording.  Never had this happen before.  We are in our 50's and professional individuals, and are stunned to say the least.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127351.html](http://www.nuforc.org/webreports/reports/127/S127351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Seattle (west side) (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>MY father and I were looking at the stars and we saw a triangle UFO with 3 white lights on each corner and 1 red light in the middle...My father and I were in our lawn, I was looking at the stars asking him questions and this triangle shaped object appeared. It had 3 white lights, one on each corner and one red light in the middle. The body of the UFO was dark gray or black. My father was in the military and first thought it was a B-2 bomber but he looked closer and found it was not. It was in the sky for about 2 minutes or more then sped up to about 200+ MPH and disappeared out of sight. Peolple in our area also saw a triangle object as we did that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13166.html](http://www.nuforc.org/webreports/reports/013/S13166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
