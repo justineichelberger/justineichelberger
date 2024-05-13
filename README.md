@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:46 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hailey (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White flashing object hovering over East Hailey then speeding out of sightWatched a flying object hover over my home then a flash like a camera flash it was dull at first then flashed a bright flash.  Went up straight then back down.  Could hear a really high pitch from it and almost as if there was static in the air.  Today my husband an I both have been suffering from a nasty migraine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156430.html](http://www.nuforc.org/webreports/reports/156/S156430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large Triangle CraftThis was a big triangle.  It didn't have the lights on the bottom that I have read about but it did have some faint lights around the perimeter and they were blue.  I live about 6 miles north west of NAS-JAX and it came from that direction so I assume it is very possible this was a military aircraft but it doesn't make a lot of sense to me that they would fly secret craft over very populated areas.  Anyway it was moving very slow and you could really only even make it out, at first, because of the perimeter lighting.  I am no aeronautical expert by any means but it was certainly lower than the normal craft we see flying around here (but I don't know what that elevation is...) I am going to guess that it was at around 8 to 10k feet.  This just happened so I am a little excited, I apologize if I am skipping around. After a couple of minutes it got brighter - significantly brighter - and then sped away very, very quickly - still heading north-west.  I only even went outside because my dogs were barking at the door yet no one was there.  I didn't even think to mention that until I got to the part of your form that asked if animals noticed.  I did take a picture on my phone but there is nothing there.  You can't even see the outline.  I can send it if you think you could find something on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127366.html](http://www.nuforc.org/webreports/reports/127/S127366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
