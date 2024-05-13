@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:46 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Extremely fast moving green light traveling south in Northern Virginia, then disapeared.We were traveling on I-95 South in Northern Virginia when I noticed a relatively low altitude (~1000 feet) bright green light.  The green light was also moving south at what I thought was a slow to moderate speed.  About twice the speed of my vehicle.  My initial thought was that it was an airplane taking off from Reagan International airport.  Then it just took off faster than anything I have ever seen and then just disappeared after about two or three seconds.  My wife and son both saw the exact same thing.  None of us ever saw anything move so fast.  We kept trying to come up with a rational explanation but could not.  The light did not leave a trail and it went from a slow speed to an extremely fast speed.  The light was very bright and circular in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118994.html](http://www.nuforc.org/webreports/reports/118/S118994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hailey (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White flashing object hovering over East Hailey then speeding out of sightWatched a flying object hover over my home then a flash like a camera flash it was dull at first then flashed a bright flash.  Went up straight then back down.  Could hear a really high pitch from it and almost as if there was static in the air.  Today my husband an I both have been suffering from a nasty migraine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156430.html](http://www.nuforc.org/webreports/reports/156/S156430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
