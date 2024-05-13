@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Heiskell (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Unexplained light in the sky over Heiskell.At ten o'clock, just as Frasier went off the air, it began to rain very hard outside. I went to the front door, which faces northwest, and looked out. Through the trees, slightly towards the west, where I usually see Venus in the evenings, I saw a bright, yellowish light flickering through the tree branches. I watched for a few seconds trying to determine if it might just be Venus I was seeing and realized that this was something different. I stepped out onto the front porch to get a better look. I had to crouch down to get a view of it without the obstruction of the tree branches. As I watched, the light grew in size and brightness and changed to a ruddy color. (At its largest, it was twice the size of Venus). It then began to drop what looked like blobs of red light toward the ground. It did this for about ten seconds at which time its intensity dwindled down to a pinpoint and the color back towards yellow. After a few seconds it became very bright and red and again rained down several large blobs of red. Another couple of minutes and it winked out completely. The only sounds I heard were from a jet flying over in another part of the sky. As a veteran of the Army, I've been on night laneuvers where flares were employed to light a battle area. With a flare there is always a crackling sound and smoke while it is deployed. There was neither smoke nor sound with this sighting. Nor was there any excess illumination caused by its presence. I've never seen a flare grown small then large again the way this thing did. A report from anyone else who saw this or a possible explanation would be welcome. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36922.html](http://www.nuforc.org/webreports/reports/036/S36922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Stationary star-like object suddenly moving for a period of time, then disappearing or stopping.It was a Moters day Party and alot of people were still wake when suddenly a strange oval kind of shape appeared from the 5 stars that were lined up and just stood in the air as if it was taking notes of the whole city.I'm not lying I have 59 witnesss</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22825.html](http://www.nuforc.org/webreports/reports/022/S22825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
