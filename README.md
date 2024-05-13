@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>over the ocean objectsI was standing looking out over the ocean and this dot in the distance just sat there and then it flew to go up straight and all of a sudden it just disapeared.  Then there was another one it did the same thing. it was brilliant yellow, round and it went so fast.  I called my husband out but when he got there they both had idsappeared.  There was no stream of steam or tail on it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79735.html](http://www.nuforc.org/webreports/reports/079/S79735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Essex (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Bright white flashing light, emitting sparks, making a slow incline over Essex coast in England.I saw a bright flashing light slowly moving across the sky, as it was moving it looked like sparks were shooting off it in different angles. It was slowly moving upwards and then very quickly disappeared. There was no noise. This was not an aeroplane as there was no other lights on it and no sound, plus it was not on the usual flight path that the planes in this area take.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63122.html](http://www.nuforc.org/webreports/reports/063/S63122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
