@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 12 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Crosslake (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Multiple lights traveling same SW to NE trajectory at 3 to 4 minute intervals.This sighting occurred Tuesday May 12, 2020 between 9:30 pm and 10:40 pm from Crosslake, MN.  Multiple satellite-appearing lights were observed traveling the same trajectory from SW to NE at approximately 3 to 4-minute intervals.  I counted 11 in this timeframe.  Only one could be seen in the sky at a time.  Their path took them through the ladle of the “Big Dipper”.I used binoculars to see if I could detect for wingtip strobe lights or green/red navigation lights to rule out whether these objects were commercial aircraft.  None could be visualized.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156432.html](http://www.nuforc.org/webreports/reports/156/S156432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw an intense light formation in the sky at 1a.m. in Austin, Tx., which stood still for a  while, rose vertically, then vanishedI was outside at 1 a.m. this morning, in Austin, Tx., when the sighting occurred.  I was looking off of my balcony, over the Lake Travis, and directly facing the 360 bridge. Out of nowhere, a very intense white beaming light appeared in the sky, and was motionless for about 30-60 seconds. There was just one formation. It looked at least 5-10 times larger than a bright, twinkling star.  I walked inside, scared, as I had never seen anything like it before, and looked through the window.  Almost immediately after I got inside, it began to rise vertically.  This went on for approximately 10-15 seconds, and then it disappeared quite instantly. There were no noises that accompanied it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50537.html](http://www.nuforc.org/webreports/reports/050/S50537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
