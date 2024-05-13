@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Seattle (west side) (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>MY father and I were looking at the stars and we saw a triangle UFO with 3 white lights on each corner and 1 red light in the middle...My father and I were in our lawn, I was looking at the stars asking him questions and this triangle shaped object appeared. It had 3 white lights, one on each corner and one red light in the middle. The body of the UFO was dark gray or black. My father was in the military and first thought it was a B-2 bomber but he looked closer and found it was not. It was in the sky for about 2 minutes or more then sped up to about 200+ MPH and disappeared out of sight. Peolple in our area also saw a triangle object as we did that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13166.html](http://www.nuforc.org/webreports/reports/013/S13166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lethbridge (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>White Glowing Triangle with 3 smaller glowing spheres.My girlfriend and I went to Tim Hortons, Bought our coffees.  And Noticed a beautiful subset.  We drove A few seconds away.  We Noticed a bright white light in the cloud.I started taking pictures.The objects seem to break up and scatter.Then they vanished.We waited around and they came back.  There were others there taking pictures as well .We .The objects left and came back atlas 3 times.My girlfriend and I finished out coffees and came home and loaded the pictures on my iMac.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134096.html](http://www.nuforc.org/webreports/reports/134/S134096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
