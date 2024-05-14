@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Enschede, Overijssel (Netherlands) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An UFO landed inside a fireworks factory, and he took off. 3 minutes later a huge fire caused the factory to explode, destroying a neighbourhood.This accident has caused a lot of questions in holland, everybody likes to know what caused such a terrible accident, I believe thatb the phenomenon I saw caused a chainreaction, following the destruction of the factory. I didn't tell anyone , i was affraid they would think I was fantisysing.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))((COMMENT FROM A READER IN THE NETHERLANDS))As I was browsing your archives with UFO reports, I found a report wich said that a diamond shaped UFO landed in a Fireworks factory in the Netherlands and the factory exploded. There are a few reasons that make me believe the report is a prank. First of all, the neighborhoud in wich the factory was located in a dense urban area. If a UFO or any other flying craft would have landed in this area, someone else should have noticed too. Secondly, there was a full-scale investigation to determine what the cause of the accident and the results concluded that the containers containing the pyrotechnics, weren't safe and the person who lit the fire has confessed to the fact that he had lit the fire. I am a resident of the town of Krommenie, wich is locared about an hour driving from Enschede. I read the full accident report, and I visited the site.  I think its a shame that an organisation such as NUFORC is fooled by a prank report and this could have been prevented if your screeners just did a little more background checking of the accident. Regards,  ((name deleted))((END))((NUFORC Note:  We are grateful to the reader for bringing the information, and our apparent oversight, to our attention.  Predicated on the comments above, we suspect that the original report may be a hoax.  We at NUFORC have very little control over whether people submit hoaxed materials to us, and we try to eliminate it before it gets posted to our site.  However, we cannot detect and remove all of it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12870.html](http://www.nuforc.org/webreports/reports/012/S12870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Habra (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My cousin took the dogs outside to do their business and noticed a white circular orb/craft above, but at low altitude.  He recorded the orb with his cell phone.  I have video, which I can email to you.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109529.html](http://www.nuforc.org/webreports/reports/109/S109529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
