@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 13 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lethbridge (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>White Glowing Triangle with 3 smaller glowing spheres.My girlfriend and I went to Tim Hortons, Bought our coffees.  And Noticed a beautiful subset.  We drove A few seconds away.  We Noticed a bright white light in the cloud.I started taking pictures.The objects seem to break up and scatter.Then they vanished.We waited around and they came back.  There were others there taking pictures as well .We .The objects left and came back atlas 3 times.My girlfriend and I finished out coffees and came home and loaded the pictures on my iMac.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134096.html](http://www.nuforc.org/webreports/reports/134/S134096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lafayette (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red round lights in a strange formation went across the sky.  They we're red/amber in color, moving slowly and then finally faded out.  We have video, not great, but we did our best.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127347.html](http://www.nuforc.org/webreports/reports/127/S127347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
