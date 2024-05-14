@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Viseu de Sus (Romania) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown strange lights moving across RomaniaIt was about 23:40, I was sitting in my room when my parrents rushed to the balcony and called me to see something.They told me that they saw a strange shaped object floating on the sky (about 35-40 degrees).We turned off all the lighting and we sat and waited to see it again (I am not sure if it was cloudy)  After about 2 minutes it appeared again, i would describe it as a bunch of rotating circles emiting yellow light ( the size would be aprox. like a cluster of 10 stars) It looked like it was changing colours,but i may be a chromatic aberation due to the ozone layer.My father is rather describing it like a moving light of a lighthouse ( he described it like a spherical object who is illuminated from behind,and the light surrounds it slowly)  It was moving from S to N, in about 20 seconds it moved about 1/4 of my visual radius and dissapeared.I would like to note that i can make the distinction betwen a meteorite or a satelite ot the iss.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70032.html](http://www.nuforc.org/webreports/reports/070/S70032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Horatio (AR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw lights and looked out my window  looked out and saw two teardrop shaped aircrafts .I was getting a glass of water in my kitchen and looked out the window and saw bright flashes of red,blue,and white. Then all of my electrical equipment turned off. I did not see the color or shape of the aliens because they never stoped they just shot by. I was so scared i just went back to bed without drinking my water or saying anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28793.html](http://www.nuforc.org/webreports/reports/028/S28793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
