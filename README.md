@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:41 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Stafford Forge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>triangle craft was going across parkway from left to right very low and slow. there was no noise. it had red lights underneath not blinking with a yellow/green glow to the rest of it. it then speeded up. and as i looked to where it was going a red circle object was in the distance in the direction the first craft was traveling. the red circle was hovering and as the first object got to it the first one seemed to disappear into the red object. the red circular then shot across the sky back in the direction the first object came from and was going from left to right  almost out of sight and within seconds back again to where we were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12875.html](http://www.nuforc.org/webreports/reports/012/S12875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des Plaines (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball in sky near O'Hare AirportI was out in my backyard when I saw a bright red-orange fireball shaped object through my tree. It was traveling east to west very high in the sky.  Thought it was a plane at first but no other lights and as stated, was very high in the sky.  As it traveled it turned shades of red to orange and pulsed.  Eventually totally vanished from sight like a light turned off.  Near O'Hare airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134118.html](http://www.nuforc.org/webreports/reports/134/S134118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
