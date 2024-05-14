@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des Plaines (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball in sky near O'Hare AirportI was out in my backyard when I saw a bright red-orange fireball shaped object through my tree. It was traveling east to west very high in the sky.  Thought it was a plane at first but no other lights and as stated, was very high in the sky.  As it traveled it turned shades of red to orange and pulsed.  Eventually totally vanished from sight like a light turned off.  Near O'Hare airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134118.html](http://www.nuforc.org/webreports/reports/134/S134118.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Camden (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange rectangular sunset facing eastI don't think it was a craft persae, but it was orange like a sunset and rectangular.  It couldn't have been the sun setting because we were traveling east.  It was hovering over the tree line at the horse track.  When we got to the stop light to turn onto 521 it was gone.  The trees were mostly tall, dark pines, abd it was partly cloudy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109577.html](http://www.nuforc.org/webreports/reports/109/S109577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
