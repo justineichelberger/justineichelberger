@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Camden (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange rectangular sunset facing eastI don't think it was a craft persae, but it was orange like a sunset and rectangular.  It couldn't have been the sun setting because we were traveling east.  It was hovering over the tree line at the horse track.  When we got to the stop light to turn onto 521 it was gone.  The trees were mostly tall, dark pines, abd it was partly cloudy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109577.html](http://www.nuforc.org/webreports/reports/109/S109577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A Bluish-white object with glowing aura hurtles through the sky at great speedsAs I was jogging westward along 53rd St. past the intersection of Rowena, I saw out of the corner of my left eye, a bright object hurtling across the sky, above the trees.  I immediately looked at it as it traveled out of sight behind trees.  The whole episode last 2-3 seconds, long enough to train my eyes on the object as it went out of view.What it looked like was a spherical bright object shrouded within a hazy fog or glowing aura, traveling at very fast speed.  The color of the object was bright white with a bluish tint, or more accurately, the sphere was bright white while the glow surrounding it was bluish-white.  It seemed, instinctively, like a meteorite flying through the air but there were things about it that made me question that possibility.  One, the trajectory was straight and level, not at an angle downward.  Also, the shooting stars I've seen in the past have always been bright and sharply defined, never one with a glowing aura surrounding it.  That immediately seemed very odd and out of place.  Plus, the time that I was able to view the object, 2-3 seconds, doesn't sound like a long enough time but compared to the shooting stars I'm familiar with, it's almost an eternity.  Not only that, it didn't feel like it was going to dissipate, or burn out, as it went behind the trees but rather to continue on its present trajectory.If I was to describe it's dimension and where it was within the environment, I would say it was roughly 200-300 feet in the air and was traveling at 100 MPH+.  (It could've have been higher but then the speed would have been amazingly fast.  I would stay with the original estimation.)  The object appeared about 3-5 feet wide while the glow extended outward 10 feet or so and maybe 15-20 feet behind.  That would seem to suggest a trail (or a tail) but I couldn't really detect anything like a vapor trail or smoke.If push came to shove, I would say it could've been a significant meteorite, if I had to say it was anything identifiable.  But the color, trajectory and the glow seems to conflict with that hunch.That's about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70041.html](http://www.nuforc.org/webreports/reports/070/S70041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
