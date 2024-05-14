@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:30 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lafayette (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red round lights in a strange formation went across the sky.  They we're red/amber in color, moving slowly and then finally faded out.  We have video, not great, but we did our best.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127347.html](http://www.nuforc.org/webreports/reports/127/S127347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Elkins (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>I just got home last night.  When I was getting out of the car. I looked on the sky and there was these 4 bright orange light flying in a diamond shap but they looked to be really far apart. 2 minutes later the other ones came right behind.  What ever this was is freaky I know is was not airplanes  because it not blinking or making any sounds.  I have never seen nothing like this in my life.  It had the dogs barking and the kids scared. I could get a pic because it was not showing up on the cam.  But I did report it to the local 911 center.  They said they had other reports alike.....????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81273.html](http://www.nuforc.org/webreports/reports/081/S81273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
