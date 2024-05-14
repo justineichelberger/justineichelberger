@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Habra (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My cousin took the dogs outside to do their business and noticed a white circular orb/craft above, but at low altitude.  He recorded the orb with his cell phone.  I have video, which I can email to you.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109529.html](http://www.nuforc.org/webreports/reports/109/S109529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Manhattan Beach (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>05/14/18 @ 0155h over LAX v-formation 6 items traveling westerly.6 bird-like figures in a loose v-formation at what appeared to be about 500 ft. elevation traveling in a westerly direction at high rate of speed.  Wings did not flap.  No lights visible. No noises heard. Initially thought they were fighter aircraft or geese, but the lack of lights or noise, and the high speed, didn't make sense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141491.html](http://www.nuforc.org/webreports/reports/141/S141491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
