@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 brilliant flashes seen over East OttawaDon’t know what I just saw. It was 23:00hrs. I was out in my backyard having a cigarette before bed. I was looking at the stars when I noted an obvious satellite travelling along a SSW to NNE vector. It passed just parallel along the bottom of the entire length of Ursa Major.That’s when a large pulse of light caught my eye a bit further east of the satellite.  It was a large bright pulse or flash of white light. I scanned for it expecting to see a plane and its running lights.  I couldn’t hear any engines since I expected it to be a small private plane at lower altitude given the size of the flash.  Thinking that the pilot was turning the interior lights on and off. I couldn’t see any usual running lights.  Then (about 10 or 15 seconds after the first flash) there was another flash or pulse, which took place in another spot further along what appeared to be a linear course, travelling away from my position. It was running in a SSW to NNE direction and lower in the sky.  A third flash occurred, the time between flash/pulse 2 and 3 was roughly about the same time between flash/pulse 1 and 2. It had no real shape that I could see, but was brilliant.  From what I could determine, the speed of this second object was constant.  After the third flash, there w! as nothing.As I was scanning the sky in that area I noted yet another light. Higher in sky.  It was a bright orange and larger in size to the satellite I first saw.  It too was travelling in the same direction as the first satellite and it followed basically the same course until it faded out. I am imagining that that was a satellite as well but never saw a brilliant colour of orange like that before.The weather was clear. There were no lights on in the backyard. Stars and constellations were visible. After a few minutes after seeing the flash I even saw an actual airliner travelling west to east that was passing close to my position but a bit further south.  It had its running lights on and could faintly hear its engines.I have been watching planes at night for years and know the usual flight paths of both commercial and private aircraft in the area.  I have also seen many natural phenomenon like fireballs, falling stars, etc.  I can't really tell what this 3-flash event was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88982.html](http://www.nuforc.org/webreports/reports/088/S88982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burlington (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright Flash that went toward the ground toward Lake Macintosh.Outside looking at the moon through telescope when we saw a slow moving light moving South to North.  As we watched it the whole light flashed bright.  A few seconds later a bright light flashed and fell from a triangular craft which we only could see because of the flash</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109578.html](http://www.nuforc.org/webreports/reports/109/S109578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
