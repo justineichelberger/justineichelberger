@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>various objects in the sky near Salem, ORI saw at least 5 objects in the sky near Salem, OR between 9:45PM and 10:15PM. I saw 3 white spheres and 1 red sphere, all glowing. I also saw another object that had three lights on it, 1 green and 2 red.  All of the objects were either stationary or moving very slowly. 1 white sphere, the red sphere, and the 3-lighted object were all directly above the freeway a few miles apart.  The other 2 white spheres were to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75424.html](http://www.nuforc.org/webreports/reports/075/S75424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbus (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Today is May14, 2016, I woke to use the restroom this morning about 2am, I stepped out on my porch in Mill Springs, NC, and was shocked at how bright the night sky was, and how vivid the stars were.  I looked southwest toward gsp airport and noticed the very bright space station, or Venus or whatever and o was captivated by what I saw, the stars were moving eratically.  I looked north away from the airport and started noticing stars were chasing each other at high speeds yet no tail was visible, all research I done today by calling news Channel 4 and gsp tower cotrol, to see if they had seen anything was in vain, I guess I was the only one in north or South Carolina to witness the event.  They were in battle formations, I saw at least half a dozen aerial dogfights but not close up, they looked like stars but moved at incredible speeds.  I also seen that when these fights occurred the UFOs involved were suddenly enveloped in what I can only describe as a dark cloud formation, which obstructed a lot of the visual details.  I woke my gf to witness what I was seeing, more for my reassurance of sanity than anything else and they didn't let us down, we watched as they did tit for tat until dawn when it all stopped and the sky was clear. It is very surreal and kinda scary.  What has our government done!??  The grey alien agenda, secret deals trading human lives for alien tech??  I believe all the lies are coming out soon, and when it does, you need to be prepared for it!  The US is shooting down other entities for fear they will stop the Greys aliens and ultimately restrict giving out too much technology to a race that can't even get along in its on world with humans, how much more dangerous could it be for the other factions of Aliens that have no agenda except to observe and record.  If anyone else happened to see the events I spoke of in Polk County, NC, or surrounding states by all means please put it out here.  We quite possibly could all be in very grave danger, not just the! USA, but the entire human race.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127541.html](http://www.nuforc.org/webreports/reports/127/S127541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
