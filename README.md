@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Highland Mills (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Spherical solid white light moving through sky, stopped and disappeared.Star like object heading across sky towards West Point NY.  After a minute the object stopped and then disappeared.  I was walking my dog at 4:00 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97726.html](http://www.nuforc.org/webreports/reports/097/S97726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Overton (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Objects first appear from out of no where, one at a time, the first night about every 5 to 7 min, then the next 3 nights timing was closer together. The look simular to a star, moving up in space and some actually looking like they land on a large star and exit from this star. I observ air craft going over and it is obvious that the objects we are seeing are in space, not in our atmospher. They travel straight, then they sometimes stop, then move sideways and usually come from or go to or travel by that bright star. We have observed shoting stars while seeing the objects, and actually watched one as it passed in front of the bright star. Looking thru the telescope, objects appear to be a bright light, with a light hugh of red lights around it, not noticable with out the telescope. Objects also seem to make turn around trips to this bright star. I am 36 years old, My husband is 49, My daughter is 20, All of us have watched this for the past 4 nights around the same time. I have never seen anything like this in my life and really want to know what this is, and hope this is being seen by others. I was not a believer before this, NOW I AM.((NUFORC Note:  We do not know what the witnesses are observing, but we note that a part of their description of the multiple objects is fully consistent with satellites.  The time they indicate is compatible with the sighting of orbiting satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17671.html](http://www.nuforc.org/webreports/reports/017/S17671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
