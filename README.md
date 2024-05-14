@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>SameRound ball color of sun but filtered with harness over top of it with craft below and bright blue light coming out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110778.html](http://www.nuforc.org/webreports/reports/110/S110778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Woodinville (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The silent object was the largest thing I have ever seen above the ground.Huge craft (at least football field size).  No sound.  It had colored lights that did not seem to be lighting up the surrounding area.  It was gliding very slowly about 100 feet above the trees behind our house.  Both my son and I witnessed the event in different parts of the house but did not discuss it for years.  I could not see the shape from the angle I saw it.  "My thoughts at the time were, wow!!! that's big.  I can't do anything about that" so I went back to bed.  It was surreal to me.  I was somewhat relieved when people started to report similar sightings many years later.  It wasn't what I had heard being reported at the time - not saucer shaped etc.  I am a school teacher and my son was about 8 at the time.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31657.html](http://www.nuforc.org/webreports/reports/031/S31657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
