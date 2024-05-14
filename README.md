@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in 406 Pine St Lot 2 (SD) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>&quot;So-called&quot; air traffic/thunder storm brings UFO to our skys.The reason I started taking pictures because the sky sounded like the North and South fighting in the Revolutionary War directly above us. I thought it was the calm before a Hail Storm. It's common for me to hear air traffic, since I live an hour away from an Air Base, but I've been hearing jets, helicopters, thunder without rain... at all hours of the day and night. This evening was absolutely beautiful out, no wind, sun on your back type day behind me and this Ominous cloud above the hills in front of me. I snapped this photo. You can see a small circle of light that is different from the surrounding cloud cover. If you zoom in, you can see five individual lights flying in a close pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156460.html](http://www.nuforc.org/webreports/reports/156/S156460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>various objects in the sky near Salem, ORI saw at least 5 objects in the sky near Salem, OR between 9:45PM and 10:15PM. I saw 3 white spheres and 1 red sphere, all glowing. I also saw another object that had three lights on it, 1 green and 2 red.  All of the objects were either stationary or moving very slowly. 1 white sphere, the red sphere, and the 3-lighted object were all directly above the freeway a few miles apart.  The other 2 white spheres were to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75424.html](http://www.nuforc.org/webreports/reports/075/S75424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
