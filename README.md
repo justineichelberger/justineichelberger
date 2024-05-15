@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was on greyhound bus and we saw 3 discs following us</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158530.html](http://www.nuforc.org/webreports/reports/158/S158530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A brilliant, greenish light that suddenly appeared within a grey cloud overhead.when I was a very young man, I and two of my friends were standing outside our Jr.High school talking. It was on the last day of class of my ninth grade year and school had been over for about 30 or 40 minutes. As I was listening to the other two guys talking, I was gazing up at the clouds overhead. All of a sudden, I saw a very bright light suddenly just turn on within a cloud allmost directly overhead. The light appeared to be moving within the cloud because of the way the shadows shifted within and without the cloud. The light appeared to be of a greenish hugh and moved slowly for about 10 seconds, then as suddenly as it had appeared, it just went out. For some strange reason, I never brought it up to the attention of my two friends who were still talking to each other. Indeed, I passed it off as a flare to myself and thought little of it afterward. Two other incidents in my later years have brought this incident into the context of a possible UFO sighting. One was the sneezing of a BB like object out of my left nostril that struck the palm of my hand and then struck  the passenger window of the car I was in with a loud "click" like metal on glass. The other was a daylight sighting of a cylindrical object that I reported to your center as having occured on Oct.21st 1999 in Kansas City, MO. It is no longer a question of "if there are UFO's". It is now a question of "what are they here for?" I am 48 years old now and am an archaeologist and a former armored cavalry officer. I do not have moments of fantasy and know what I've experienced.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22801.html](http://www.nuforc.org/webreports/reports/022/S22801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
