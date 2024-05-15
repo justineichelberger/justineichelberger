@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights over Summerville, SC.My wife was outside with the dog and called me out of the garage.  She said look up in the sky over there (W) in the distant there were numerous orange/red lights moving from west to east.  At first I thought they may be helicopters, but I couldn't hear the rotors.  Slowly the lights started to fade away and then across the sky more light started to appear, they were flying in a V- formation, then they started to separate to fly in their own paths.  I walked down the road trying to see what they were, but then they just dissapeared. My daughter also saw the light when she came out of her bedroom, through the window in our loft.((NUFORC Note:  Witness corrects date, to reflect a date in May 2016, not 2015.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127318.html](http://www.nuforc.org/webreports/reports/127/S127318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Parris Island (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Parris Island, S.C. boot camp, UFO !I was a boot and in-charge of a squad sized detail of marines, as we marched to the chow hall while on mess duty.  While we were marching, we all just stopped as we saw three bright lights approach us over water (04:00 hours am).The three lights seemed to come in close to us, and glow brighter as they approached.  All of a sudden, they grew smaller, and flew off in three different directions at great speed.  I THEN continued taking the troops to the mess hall.While there, one after the other marines who were with me, approached me and said (summary) "you must tell the drill instructor what we saw."  I had no hope of surviving the day IF i told the drill instructor what we saw.But when we arrived back at the barracks, I went to the drill instructors door, knocked, and he came out. After all the usual harrassment, he told me to step into his office.Once I told the drill instructor what happened, he did the unexpected, and closed the door and talked to me like a human.  He invited all of the other troops who were with me into his office (after calling the other drill instructors into his office).  The other boots went in one-by-one, and also came out unscathed. <> IF YOU KNOW Parris Island,... that is saying something.The next day, I was called into the drill instructors office again, and there were two men in suits and sunglasses there.  They asked me the same type of questions, and dismissed me.I never heard of anything after that, but searched for years (project bluebook, etc...).. for the incident.FOOTNOTE: I was promoted to PFC on Parris Island. I am sure it was not because I was the BEST marine in my platoon (platoon 311, 3rd battalion).If anyone knows anything, they should feel free to contact me at ((e-address deleted.  Please submit a report to NUFORC, using our Online Report Form.  PD))  Signing off at <> May 22, 2006 @ 23:22 hours</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50678.html](http://www.nuforc.org/webreports/reports/050/S50678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
