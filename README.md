@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 14 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Two sets of three horizontal lights appear at sequentially @ 9:40 pm on 14 May, 2019 in the south southeastern sky Pawleys Island, SC.At approximately 9:40 pm on May 14, 2019, we were sitting on the second floor balcony after dinner.  My friend exclaimed “What’s that?”    I immediately looked up and saw something in the night sky to the SSE of our location.  As soon as I looked up and saw the first lights, which were three horizontal lights, those lights disappeared as if they were “turned off”.  As those first lights were turning off, another set of three lights turned on, one at a time, then all three staying on for maybe 20 seconds.   Each light was shaped like a thin wide cat’s eye; bright white with an orange glow….I know the exact time as I had my cell phone in m hand and immediately raised it to take a photo; the object doesn’t  show in the photo.  We sat around speculating what it was and still don’t know.  I believe I could see the form of something behind the lights as if the lights were headlights on the object, whether a plane or whatever it is,  It did look dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146254.html](http://www.nuforc.org/webreports/reports/146/S146254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Gillett (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>red lightsMY mom came from work she had told us about the ufo and helicopters had followed her home then she got home the red light in the sky were sill there she got my brother and i up from bed and dad and we saw 2 light doing like dance in the sky not sure how long after we all went to bed.((NUFORC Note:  One of four brief reports from same source.  We attempted to contact the witness to confirm that the reports are sincere, but were unable to reach her by telephone.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147018.html](http://www.nuforc.org/webreports/reports/147/S147018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
