@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>lights floating in the airThis is an old one, but I want to tell it.  I worked afternoons in Oklahoma City and was commuting  back home down the freeway one night.  There was a lot of traffic going both ways. I was heading east on I40 near Choctaw OK and noticed a couple of lights off to the left, north of the freeway, up in the sky.  At first, I thought it was an airplane as Tinker AFB was about 5 miles away, I just went past it minutes earlier.  Here I was, driving down one hill and heading back up another, when I noticed a pair of lights that were stationary up in the sky, north of the freeway.  Just floating maybe a hundred feet up or two hundred. I thought it was weird, because I thought it was incoming aircraft like right next to each other in the sky.  Maybe 50 feet or a hundred feet apart.  Way too far apart to be a helicopter.  They did not move at all, and I thought maybe it was a work crew on a cell tower, with lights, but drove back to work the next day in the daylight and there ! was no tower there, or anything else.  Then a couple of nights later I saw the same thing, same area but south of the freeway.  My buddy was retired Air Force,  I asked him did the Air Force have anything like it and he just shook his head no.I opened my window, and tried to see it, but traffic was moving fast so I just drove on.  All I could hear was the traffic and the wind.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145069.html](http://www.nuforc.org/webreports/reports/145/S145069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>It was not a bird,or plane, {no wings or tail}I was taking pictures of the sunset, when I saw a ufo in the clouds, so I took a picture of it.  Then it was gone.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111479.html](http://www.nuforc.org/webreports/reports/111/S111479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
