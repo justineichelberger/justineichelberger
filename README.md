@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:47 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>San Diego UFO Videos of White and Black craft.I have video and would like to be contacted.. I was sitting in the hot tub with a friend when I noticed a bright white light very high in the sky. I went inside to grab my phone and capture the bright object.  When I reviewed it frame by frame I also detected a black object moving at high speed.  I have both object in two videos.  I did not see anything in the third video and I also took two photos of the blue sky, but didn't see anything in them.The day before this happened a similar object was reported in Japan and the day after (I think) about 50 of these same object were spotted in San Diego.  I have the fast moving white and black object in video.  I think the white object might have emitted a trail of smaller white ones.  The white objects were high in the sky, but the black one may have come closer.  I was facing about East, but one of the black one may have come from the North or West over my house.  Please call me this is a real and I want you guys to check it out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157893.html](http://www.nuforc.org/webreports/reports/157/S157893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Slowly moving cigar-shaped object with unusual flashing lights seen in Salem, OR in 1970's.I was walking with my boyfriend late at night.  We looked up and saw a cigar shaped object slowly moving overhead with a humming sound.  The lights of this object were most unusual.  There were approximately a hundred lightsof various colors around the "equator" of the object (parallel to the ground).  These lights would blink off and on making it appear that there was a continuous circle of light moving around the "equator" of the object (like might be seen with an advertising sign or a carnival ride).  We watched the object for awhile, but quite frankly we were more interested in each other, and so eventually stopped watching this slowly moving object.  Eventually it was gone, but I don't know how.The only aircraft that would be similar to this object would be a blimp, but I have heard that blimps don't travel at night.  Also, the lights were very unusual.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23359.html](http://www.nuforc.org/webreports/reports/023/S23359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
