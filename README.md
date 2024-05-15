@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:45 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Loramie (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>black retangular object with no sound or lightsWhen leaving a job site this morning at approximately 11:30 AM, I and another man observed a black rectangular object in the sky west of our location at Lake Loramie, Ohio. We observed this object for several minutes as it traveled on a northwesterly direction. While observing, we witnessed the object tumble lengthwise 180 degrees.  I took several pictures of this happening.I then got into my vehicle and proceeded to follow the object.  I drove north on St. Rte 362 along the west bank of Lake Loramie into Minster, Ohio.  I traveled west thru Minster on the Minster – Egypt Pike to St. Rte. 364 still observing the object.  I turned north on St. Rte. 364 and proceeded to St. Rte. 119.Turning west on St. Rte. 119, I follow the object into Maria Stein, Ohio.  Upon reaching Saint Johns Road in Maria Stein, I turned north again observing that the object appeared to become either triangular or diamond shaped and I again photograph it.  I looked at the road for traffic and upon looking back up, it has disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134133.html](http://www.nuforc.org/webreports/reports/134/S134133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in d.d.o (Canada) (PQ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>three white lights during the luner eclipse...it came out around the moon as it was comeing out of the earths shadow, and went across the sky north east , no sound , not very high, three big lights all white not very bright ,none flashing  way to big to be a plane and in a no fly zone, way to fast.((NUFORC Note:  We do not know whether this report is intended to be a serious one.  We do not know where "d.d.o." Canada is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28802.html](http://www.nuforc.org/webreports/reports/028/S28802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
