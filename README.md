@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Highbridge (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Brilliant orange cylinder with points of white. Appeared translucent and had a deliberate flight pathHello.  On Saturday May 15 at approximately 9:30 PM local time an object was observed moving West to East at several thousand feet. The object was brilliant orange with points of white and mostly cylinder in shape. It was traveling in a straight line and I didn’t hear any sound though the person I was visiting who I called outside to see it said she heard a motor. The object passed just to our north and then turned to a southeast heading. I contacted the Highbridge police department and no unusual sightings were reported. The local airport in Pittstown also stated there were no illuminated aircraft in the area    Duration was only five minutes.  The brilliant orange light remained as it disappeared below the distant tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163293.html](http://www.nuforc.org/webreports/reports/163/S163293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights over Summerville, SC.My wife was outside with the dog and called me out of the garage.  She said look up in the sky over there (W) in the distant there were numerous orange/red lights moving from west to east.  At first I thought they may be helicopters, but I couldn't hear the rotors.  Slowly the lights started to fade away and then across the sky more light started to appear, they were flying in a V- formation, then they started to separate to fly in their own paths.  I walked down the road trying to see what they were, but then they just dissapeared. My daughter also saw the light when she came out of her bedroom, through the window in our loft.((NUFORC Note:  Witness corrects date, to reflect a date in May 2016, not 2015.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127318.html](http://www.nuforc.org/webreports/reports/127/S127318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
