@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:44 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Bethany (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Mom was driving me home from a tutor lesson in Bethany, Oklahoma, in 1970, I was 10 years old.  She drove west on 39th Expressway also known as Rt. 66.As we were coming up to Council Rd. we noticed a big, bright light shimmering, right in front of us, not too high in the sky, the light looked reflective, like it was reflecting the sun.We both were questioning what in the world it could be.  The light shifted left, right then left, as if it blinked off for a split second, and back on in a different place in the sky.Mom then turned South onto Overholser Drive.  I remember yelling out for her to "pull over", she pulled off to the side of the road, the light that we saw was now a disc object hovering above a field to our left.I pressed my face against the glass window and look up, we saw a huge dull metal colored disc, it made no sound at all.  I was really scared and started crying.  I remember ducking down in the seat to hide.  I don't recall my Mom saying anything after she turned off the road.  I guess she was trying to process it all!  I cried for her to take us home!  We lived just a few short blocks away from where this happened.  She drove us home, our house backed up to Overholser Dr.  I ran to the backyard and looked down the street to see if I could see anything, it was gone.We both told my Sister and my Dad what had happened, they both just laughed and made little green men jokes to us.We have talked about it from time to time, over the years.  Mom is 87 years old and still remembers.  I'm 58 and will never forget what we saw that day.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138528.html](http://www.nuforc.org/webreports/reports/138/S138528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silver circle with black triangle ahead of stormThere was one flat disk object.  It flew directly overhead.  From below, looking up, it was a silver/grey circle with a large black equilateral triangle across the center reaching its points to the edges of the circle.  There was also a pattern of a few simple black lines across the grey area.  It was traveling low and fast, just at the height and ahead of a thunderstorm rolling in.  It appeared to either be being pushed by or trying to outrun the thunderhead.  It was very easy and clear to see and I watched it for about a minute as it flew off into the distance.Observer is a young 30s, mother, professional teacher with no previous UFO experiences.  I'm just curious what it was because it was so obvious and clear.  I assumed it was something to monitor the storm, but can't find info on any weather instruments that match the description.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105661.html](http://www.nuforc.org/webreports/reports/105/S105661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
