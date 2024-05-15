@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:45 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Parris Island (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Parris Island, S.C. boot camp, UFO !I was a boot and in-charge of a squad sized detail of marines, as we marched to the chow hall while on mess duty.  While we were marching, we all just stopped as we saw three bright lights approach us over water (04:00 hours am).The three lights seemed to come in close to us, and glow brighter as they approached.  All of a sudden, they grew smaller, and flew off in three different directions at great speed.  I THEN continued taking the troops to the mess hall.While there, one after the other marines who were with me, approached me and said (summary) "you must tell the drill instructor what we saw."  I had no hope of surviving the day IF i told the drill instructor what we saw.But when we arrived back at the barracks, I went to the drill instructors door, knocked, and he came out. After all the usual harrassment, he told me to step into his office.Once I told the drill instructor what happened, he did the unexpected, and closed the door and talked to me like a human.  He invited all of the other troops who were with me into his office (after calling the other drill instructors into his office).  The other boots went in one-by-one, and also came out unscathed. <> IF YOU KNOW Parris Island,... that is saying something.The next day, I was called into the drill instructors office again, and there were two men in suits and sunglasses there.  They asked me the same type of questions, and dismissed me.I never heard of anything after that, but searched for years (project bluebook, etc...).. for the incident.FOOTNOTE: I was promoted to PFC on Parris Island. I am sure it was not because I was the BEST marine in my platoon (platoon 311, 3rd battalion).If anyone knows anything, they should feel free to contact me at ((e-address deleted.  Please submit a report to NUFORC, using our Online Report Form.  PD))  Signing off at <> May 22, 2006 @ 23:22 hours</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50678.html](http://www.nuforc.org/webreports/reports/050/S50678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Longview (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My local television station had given the time of a passover of the international space station on this date (which I cannot remember exactly).  I went outside at the time reported for the passover, and as scheduled I saw the space station.  I believe the time was 9:18 p.m.  As I watched the station pass over my location from northwest to southeast, I saw another object that was travelling parallel to the station, but at a minimum of twice the speed of the station.  It may have been a meteor or a satellite, but it did not fade out as most meteors do.  The object was luminous and continued to the horizon until it disappeared from my view.((NUFORC Note:  Witness indicates that the date of the sighting in May 2009  is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70501.html](http://www.nuforc.org/webreports/reports/070/S70501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
