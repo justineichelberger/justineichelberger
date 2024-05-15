@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Clarksburg (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large Disc hovering over a National Guard Armoy for 2 minutes then gone.(I know this was a long time ago, but I still remember very well)  I was a a tough man contest in Clarksburg WV and had gone outside to smoke a cigarette (were not allowed to inside).  I was not the only one out there, others (strangers) were out there as well for the same reason.  We were all talking when I had a strange feeling,  I looked up and hovering directly over top of the Nathan Goff Armory (National Guard Armory), there was an enorrmous round disc shaped UFO.  It was as big as the building, and in the front of the building where I was standing, it hung out over the roof.  There was three sets of lights, one white, two blue, all of which were constantly in motion revolving around the thickest part of the UFO.  There was no sound, nor air disturbance.  We all saw it and watched it for about 2 minutes.  Nothing happed, it just hovered there.  Then you could feel an energy in the air, but nothing more, and the craft shot straight up and was gone.  Again, there was no sound or displaced wind, nothing, it was just gone.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46713.html](http://www.nuforc.org/webreports/reports/046/S46713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Dark Silent Chevron.A very dark, perfectly silent chevron shape with what seemed like 2 very dim lights on each end of the wings was flying at a moderate speed seemingly only a couple hundred yards off the ground.  Only saw the dark shape move across the dark sky for about 8-10 seconds before it disappeared behind houses.  Flew extremely straight, and away from where I was standing.  No blinking on the dim lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141548.html](http://www.nuforc.org/webreports/reports/141/S141548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
