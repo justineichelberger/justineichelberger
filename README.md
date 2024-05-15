@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Garden City (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>During a time frame of approximately one hour several light patterns and color were observed by several people.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134140.html](http://www.nuforc.org/webreports/reports/134/S134140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Highbridge (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Brilliant orange cylinder with points of white. Appeared translucent and had a deliberate flight pathHello.  On Saturday May 15 at approximately 9:30 PM local time an object was observed moving West to East at several thousand feet. The object was brilliant orange with points of white and mostly cylinder in shape. It was traveling in a straight line and I didn’t hear any sound though the person I was visiting who I called outside to see it said she heard a motor. The object passed just to our north and then turned to a southeast heading. I contacted the Highbridge police department and no unusual sightings were reported. The local airport in Pittstown also stated there were no illuminated aircraft in the area    Duration was only five minutes.  The brilliant orange light remained as it disappeared below the distant tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163293.html](http://www.nuforc.org/webreports/reports/163/S163293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
