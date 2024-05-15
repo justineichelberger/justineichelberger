@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silver circle with black triangle ahead of stormThere was one flat disk object.  It flew directly overhead.  From below, looking up, it was a silver/grey circle with a large black equilateral triangle across the center reaching its points to the edges of the circle.  There was also a pattern of a few simple black lines across the grey area.  It was traveling low and fast, just at the height and ahead of a thunderstorm rolling in.  It appeared to either be being pushed by or trying to outrun the thunderhead.  It was very easy and clear to see and I watched it for about a minute as it flew off into the distance.Observer is a young 30s, mother, professional teacher with no previous UFO experiences.  I'm just curious what it was because it was so obvious and clear.  I assumed it was something to monitor the storm, but can't find info on any weather instruments that match the description.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105661.html](http://www.nuforc.org/webreports/reports/105/S105661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>blue light(s) disappearing and reappearing in sporadic flight patternI was sitting on my back porch enjoying a beer when I looked out between the trees and saw what I initially thought was a shooting star, but realized it wasn't because it was overcast so there weren't any stars out and besides there is too much light pollution where I am to see stars.  So I quickly called my mom and step-dad out to witness it too.  It was a small blue orb-like light that appeared, streaked across the sky, then disappeared...and then appeared again.  It seemed to be flying around in circles, but in a sporadic flight pattern accelerating and decelerating and changing directions much faster than any modern military aircraft could do. It would appear, fly a looping, zig-zag pattern for a few seconds then disappear, only to appear again a few moments later.  It wasn't a spotlight because it was a little orb and I would have been able to see the beam of light.  There were possibly more than one because at one point my Mom saw two fly right by each other then split off in different directions, and I saw one with a red flashing light on it and then one without so there could have been multiple orbs.  It wasn't an airplane either because there wasn't a flashing white light and they flew very differently than a jet.  It seemed like there was only one, then more started popping up and then just like that they were gone.  Also, before they completely disappeared they seemed to be flying around at altitude then diving at the ground at steep angles and very rapid speeds, almost like a dive-bomber would.  I captured it on my iPhone but we were too far away and the camera is too poor I don't think you can see anything.  I first saw it around 2345 and they disappeared around 0000. It could have been going on before that but that is when I noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97800.html](http://www.nuforc.org/webreports/reports/097/S97800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
