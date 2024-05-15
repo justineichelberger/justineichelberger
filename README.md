@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Slowly moving cigar-shaped object with unusual flashing lights seen in Salem, OR in 1970's.I was walking with my boyfriend late at night.  We looked up and saw a cigar shaped object slowly moving overhead with a humming sound.  The lights of this object were most unusual.  There were approximately a hundred lightsof various colors around the "equator" of the object (parallel to the ground).  These lights would blink off and on making it appear that there was a continuous circle of light moving around the "equator" of the object (like might be seen with an advertising sign or a carnival ride).  We watched the object for awhile, but quite frankly we were more interested in each other, and so eventually stopped watching this slowly moving object.  Eventually it was gone, but I don't know how.The only aircraft that would be similar to this object would be a blimp, but I have heard that blimps don't travel at night.  Also, the lights were very unusual.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23359.html](http://www.nuforc.org/webreports/reports/023/S23359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>lights floating in the airThis is an old one, but I want to tell it.  I worked afternoons in Oklahoma City and was commuting  back home down the freeway one night.  There was a lot of traffic going both ways. I was heading east on I40 near Choctaw OK and noticed a couple of lights off to the left, north of the freeway, up in the sky.  At first, I thought it was an airplane as Tinker AFB was about 5 miles away, I just went past it minutes earlier.  Here I was, driving down one hill and heading back up another, when I noticed a pair of lights that were stationary up in the sky, north of the freeway.  Just floating maybe a hundred feet up or two hundred. I thought it was weird, because I thought it was incoming aircraft like right next to each other in the sky.  Maybe 50 feet or a hundred feet apart.  Way too far apart to be a helicopter.  They did not move at all, and I thought maybe it was a work crew on a cell tower, with lights, but drove back to work the next day in the daylight and there ! was no tower there, or anything else.  Then a couple of nights later I saw the same thing, same area but south of the freeway.  My buddy was retired Air Force,  I asked him did the Air Force have anything like it and he just shook his head no.I opened my window, and tried to see it, but traffic was moving fast so I just drove on.  All I could hear was the traffic and the wind.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145069.html](http://www.nuforc.org/webreports/reports/145/S145069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
