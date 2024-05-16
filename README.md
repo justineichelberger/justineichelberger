@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 lights in tight formation changing from white to red then green.Loud noise with objects hovering back and forth.High in sky slow but moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134303.html](http://www.nuforc.org/webreports/reports/134/S134303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Reynoldsville (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.004166666666666667 - 0.004166666666666667 minutes.</sub><blockquote><sub>This was definitely a UFO and not a satellite.The object changed shape several times.  We watched it the for almost half an hour.  It stayed in the same area of sky, but moved back and forth and up and down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127325.html](http://www.nuforc.org/webreports/reports/127/S127325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
