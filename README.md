@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 15 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mansfield (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>weird lights over north nottinghamshirewhilst out on the back yard i spotted 3 spheres in the sky, the 3 were tightly bunched and appeared as one they moved at a rapid pace in the sky covering only what seemed a small area for about 15 minutes, at times the shapes seemed to change. i managed to obtain about 10 photos of the objects at different stages, from stationary to moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28880.html](http://www.nuforc.org/webreports/reports/028/S28880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boulder (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Seen this twice in a week.makes loud helicopter like noice... it was just hoovering over the hill. Went outside it continued to moved somewhat slowly over hill, sound was gone and so was the object...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157104.html](http://www.nuforc.org/webreports/reports/157/S157104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
