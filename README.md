@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:48 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boulder (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Seen this twice in a week.makes loud helicopter like noice... it was just hoovering over the hill. Went outside it continued to moved somewhat slowly over hill, sound was gone and so was the object...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157104.html](http://www.nuforc.org/webreports/reports/157/S157104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kibworth, Leicestershire (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 Fireballs in the sky above Kibworth in Leicestershire England.Driving home saw 3 orangey red objects moving at slow speed shaped like a soccer ball, they looked like fireballs, stopped and got out of the car, one of them came towards us quite low and then went back up into the air and disappeared, carried on driving for approxamately one mile then saw two more right near my house and took a photograph on my mobile phone, object is very small on the photo as they were travelling away from us, so amazing to see, have never seen anything like it in our lives. If you require the photograph i have it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70059.html](http://www.nuforc.org/webreports/reports/070/S70059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
