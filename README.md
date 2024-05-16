@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:42 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Parksville (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two orange lights., One last night steady.two large orange lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109535.html](http://www.nuforc.org/webreports/reports/109/S109535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middletown (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Lit object hovering in sky over CT river.......Then planes began circling it in the area........it remained then moved upwardsViewed Glowing object in southeasterly direction from Southern Middletown area placing the object over the CT river near Haddam.  It glowed and hovered and did not remain stationary as it moved behind trees and then appeared again while I remained on my back porch in the same position.  After sighting this I noticed planes began flying towards the object.  Not typical planes or commercial aircraft.  These were different.  I could tell by the sound and light colors of the aircraft which were different than most commercial airliners.  The object remained for over two hours then began moving upward in the sky until it was gone.  It reappeared once again 2 weeks later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109793.html](http://www.nuforc.org/webreports/reports/109/S109793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
