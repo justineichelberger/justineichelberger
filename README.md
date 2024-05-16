@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bloomington (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting by about 10 persons aged 6-50, orange redish pulsating globes, southern californiaThere were a few of us present for this sighting as we’d been gathered all day for my cousin’s baby shower and were outside in the process of saying our good-byes when the sighting occurred.  Present were: Myself, 28, stay home mom of two, Softball/Baseball coach, umpire, and player My Husband – 30, Installation Technician/Manager 7+ yrs My children – ages 3 and 6, 6 yr old in Kindergarten and one of the top students in class, perfect                  attendance My brother – 19, college student Cousin – 25, Warehouse worker, college student Cousin’s girlfriend – 22, 9 months pregnant with first child Girlfriend’s brother and cousin – 23 & 25, males, background unknown My Aunt – early 50’s, preschool teacher 10+ yrs, Devout Christian  My cousin and I were outside at approximately midnight PST on the evening of 5/15/2010 turning into 5/16/2010. We observed about 12-13 much larger than stars size circles that looked like glowing, orange, pulsating globes. As we watched them float slowly towards each other into a pattern, he went inside to get the others present.Within seconds there was about 10 of us, ranging from my youngest of 3 years, and oldest of 6 years, to my brother, 19, my cousin and his friends and girlfriend, ranging from 19-25, then myself, 28, my husband, 30, and my aunt, early 50's.	As we all stood in my aunt’s front yard we observed a few of the lights just disappear. The remaining lights began to move into a formation of a straight line, each equally spaced apart. They were moving from right to left across the sky at this point. This happened in Bloomington, CA as we were looking I would say South/South East and watched the lights move I’d say North East.	There was no noise. There were no other crafts in the sky in that area at that time or for any time after. After the lights assembled in their line and proceeded in formation, all but one of the lights disappeared. Just poof, gone. No fading, twinkling, or anything similar. Just gone. One final light remained that slowly started moving South/South East away from us. But it wasn’t just away from us. It was up. And I mean way up. It almost started going literally straight up into the air into space it seemed from where it had been. It lost its “Glow” but still had a very distinct light to it, and was easy to follow as it disappeared into the heavens.	My son spoke of how scary the experience was, but he truly doesn’t understand, as neither do we, what truly happened. We've also submitted photos we were able to get plus a picture my 6 year old drew to the website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75447.html](http://www.nuforc.org/webreports/reports/075/S75447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Star Valley (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 53</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156744.html](http://www.nuforc.org/webreports/reports/156/S156744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
