@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:48 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:20 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kibworth, Leicestershire (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 Fireballs in the sky above Kibworth in Leicestershire England.Driving home saw 3 orangey red objects moving at slow speed shaped like a soccer ball, they looked like fireballs, stopped and got out of the car, one of them came towards us quite low and then went back up into the air and disappeared, carried on driving for approxamately one mile then saw two more right near my house and took a photograph on my mobile phone, object is very small on the photo as they were travelling away from us, so amazing to see, have never seen anything like it in our lives. If you require the photograph i have it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70059.html](http://www.nuforc.org/webreports/reports/070/S70059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Merced (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>extremely bright flash of light, lighting up sky in front of me and my wife with no clouds or thunder or soundme and my wife went to walk my dog at approximately 21:50 because she was barking uncontrollably when we got around the corner of our house an while approaching the neighborhood park the whole sky in front of us lit up for around threel seconds.  Warm night with no over cast or clouds.  Would compare brightness to a flash of lightning with out lightning or any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109533.html](http://www.nuforc.org/webreports/reports/109/S109533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
