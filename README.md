@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My wife was sitting on the back porch that faces west I went outside and me and 3 other people watched it while I took pictures.Me and my wife saw a craft it looked like a very faint saucer you could barely see the outline. the craft at first would dim out completely for about 3 minutes when an aircraft would be on its final aproach to landing at first. then after the craft was in the sky for about ten minutes it would stay illuminated dimming and then get brighter at times it moved side to side very slowly it was about 4-5miles away from us I rushed in the house to get my camera a cannon Eos-10s I had it set to 135mm I took about 35 pictures.  the light got bright it was a white light I took these pictures though the trees on my second story apartment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07784.html](http://www.nuforc.org/webreports/reports/007/S07784.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Baker City (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8-10 round orange lights. 3 in V formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119027.html](http://www.nuforc.org/webreports/reports/119/S119027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
