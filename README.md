@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bigelow (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was burning the brightest white of light , and it made a subsonic/supersonic sound like it was moving through spacetime, and then it come to a Hult.  That's how I spotted it.  It also made me feel a little strange but not scared.  I have spotted many of them lately, but only at night, that's why I knew this one was different.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141614.html](http://www.nuforc.org/webreports/reports/141/S141614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Floating high-altitude searchlight southeast of Denver, 5/16/2013This afternoon was mostly clear in the south Denver area, and completely clear in the direction I was viewing.  I grabbed my 12x binoculars to look at the moon and immediately upon taking my binoculars away from my eyes an incredibly bright white light was generally pointed directly at me, and sometimes varying direction randomly as a manually operated spotlight does..  This light was between 50,000 and 100,000 feet in altitude, just below and to the right of the moon from my perspective, and varying in intensity while still being directed at my precise position.  I was looking generally ESE.  Over the course of 5-10 minutes, I followed the object as it descended from approximately 60 degrees above the horizon to approximately 20 degrees.  During this descent, it paused a few times in a stationary position in relation to the power lines behind my house.  It did not create any contrails nor did it have a debris trail.  It was clearly above contrails from actu! al jets passing through the area at the time.  When the light wasn't pointed directly at me, I could see some type of round shape.  My wife also witnesses this object and said she saw two extruding portions of the shape.  I would estimate that this object was 10-25 miles away from me, based on the amount of haze between me and the object.  Passing jets were far less hazy through my binoculars. I work as a professional technician with lighting and video.  I would estimate the color temperature of the light as 5600K (It did not match the color temperature of the sunlight reflecting off aircraft in the area).  It was about as bright as a Super Trooper concert spotlight from 500 feet away on its tightest focus.  Anyone who has sat on the floor of a stadium concert and been in the beam of a follow spot should understand this analogy.  I saw no standard aircraft navigation lights. I have watched satellites fly overhead many times in my lifetime, and I have never seen one during daylight.  I have never seen a satellite linger in the same area of the sky, pause its movement, and vary its direction of movement.  I have also never seen a satellite or high altitude aircraft move so slowly. At one point while the beam was directed at me I felt a warming sensation in my abdomen. The encounter ended with the light turning off suddenly and the object fading from view in about 250 milliseconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97915.html](http://www.nuforc.org/webreports/reports/097/S97915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
