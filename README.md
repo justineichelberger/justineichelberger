@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Sphere Falls Towards Horizon, then Moves Horizontally across Tucson Night Sky,  May 16th, 2004My partner and I were relaxing on our deck in Tucson, Arizona at around 9:30 or so on Sunday evening May 16, 2004.  We are accustomed to seeing falling stars and other night-time sky activity (i.e. planes, military aircraft, etc.), especially since we have a deck that has 100% unobstructed sky views.   Suddenly, we became aware of a bright, round sphere which appeared to fall very rapidly towards the earth and we thought it was just the hugest, roundest, brightest falling star we had ever seen...perhaps even some type of meteor.  But then, as the light came closer to the horizon it moved sideways - truly one of the oddest sights either of us have ever seen.  Did anyone else see it - or can anyone else out there collaborate this story?  We didn't BOTH just imagine it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37023.html](http://www.nuforc.org/webreports/reports/037/S37023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Tan Valley (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Streaks of light ahead of red object.I was standing outside with my wife when we witnessed several red lights traveling from North to South while appearing to shoot out a trail ahead.  This happened 4 times before the objects disappeared.  There was no sound or smell with these.  Each of these appeared equidistant apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141617.html](http://www.nuforc.org/webreports/reports/141/S141617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
