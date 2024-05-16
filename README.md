@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Yosemite (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four Triangular UFO s sighted over Yosemite  last  year  one  craft  was  Very  large and transperent.Camping up on Yosemite last year about 7,000 ft elevation,the night was clear and cool around 1.30 a.m. when we were just about to turn in for the night and we see this bright blue flash south of our campsite.Next we saw one VERY large triangular craft appear after the flash and then two more flashs but not blue this time northwest of our campsite and two smaller craft appear and then a fourth craft appeared southwest of our campsite this one being the largest and almost transperent,we could see the stars through the craft.At this point we were very frightened and there was no noise from the craft and the animals around the campsite and your normal forest sounds had gone silent.The four of us went into our truck and armed ourselves and decided to leave when we saw a very bright red flash and looked out the truck windows and the objects were gone and so we packed our camping gear and headed home very frightened  and confused.We have talked of this incident between us but always have different recollections and timelines of the event.((NUFORC Note:  Date is approximate.  We would very much like to receive reports from the other three witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36132.html](http://www.nuforc.org/webreports/reports/036/S36132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Brockman (Australia) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brighter orange sphere descends from the sky.Observed it descend from sky.  A bright orange glow.  It the hovered over a certain altitude and it made zig zag movements.  It sometimes disappeared but it would reappear within 1-2 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119016.html](http://www.nuforc.org/webreports/reports/119/S119016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
