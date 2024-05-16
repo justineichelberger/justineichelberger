@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 16 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Westhampton (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Colorful spinning ferris-wheel-shaped object seen in Northwest sky.Seen in Northwest sky was a bright, flashing ferris-wheel-type shape just a tiny bit bigger than other stars.It was facing north/south and we saw it at an angle.We got our binoculars to get a (somewhat) closer inspection of it.It was spinning and flashing brilliant rainbow colors and appeared to move quickly to the side or up and down in micro-second bursts about a quarter of a centimeter or so.There were also little flashes of tiny white lights to the right and to the left of it... I saw 2 to the right and 1 on the left.We live close to Westfield Air Force Base and Barnes Airport in Westfield, MA, and there were 3 planes that came from that direction and went directly toward it and one dipped below the horizon and disappeared, and the second came about 5 minutes afterwards and flew higher at it and then dipped below the horizon.  A third plane went by and continued northward.There was definitely SOMEthing strange going on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50593.html](http://www.nuforc.org/webreports/reports/050/S50593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Simla (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>went ouy looked up green ball of light decended like a metor then split and right object went off at 90 degrees.Went out rear door of home faced North. A Bright green object came out of sky dropping like a metor, except slower. As it reached aprox 8000 feet it split with an object moving off to the West at a high rate of speed .Most unmetor like. Am going out to look around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03588.html](http://www.nuforc.org/webreports/reports/003/S03588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
