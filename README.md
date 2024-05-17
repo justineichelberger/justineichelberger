@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White possibly silver ball hovering above the mountains in the Arizona desert near Yuma. No lights no wings and seem to be hoveringI was a passenger in a Ford Tacoma 4 x 4. I looked over my right shoulder towards the north over a tall mountain range. I saw a white ball motionless as if it were hovering. I watched the ball for about five minutes thinking after driving I would lose visual. As we kept driving for approximately 20 minutes I maintained visual on the craft. It did not seem to move but maybe it was going the same Same speed as the car. It looks like a perfect sphere ball sometimes almost silver. It was several miles away from me and hovering approximately 8 to 15,000 feet in the air. Are used a Phone app called binoculars and attempted to get a closer view from my moving car. As I did so I for a brief short moment was able to look at the craft. It seemed a perfect circle. It was white and silver and seems almost motionless. As I focused my binocular apps on the possible craft it would seem to blur as if it had changed so the light from the sun was causing it to be silver or gy! rate almost. It made it hard to get a good picture. I watched this fear for at least 15 minutes probably more before I lost sight of it and it was nowhere to be found. There were no lights no wings. It was seems to be just hovering at times but seem to be able to stay in my view. There were no other planes around there were no lights it was over a mountain range and pure desert. It seemed very out of place and almost ominous in a fact to where I could not keep my eyes off of it. It was just a white bar possibly silver hovering above the mountain range and some white going with the speed of my car allowing me to keep ice on it for a short amount of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156523.html](http://www.nuforc.org/webreports/reports/156/S156523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A large white vapor-like airplane was right on the tail of a small private plane...when it made a sharp right turn and dissapearedI was sitting out on my back deck...beautiful clear blue sky...when I heard plane above me.  It was a small private plane..I could hear the engine....directly behind it right on it's tail was a large plane...only it was vapor-like.  I could see the blue of the sky right through it. I stood up to get a better look as it was about to become out sight over the roof of my house.   I saw the big plane make a sharp right and zoom off into ...no where...it just dissapeared.....I swear.... I was not intoxicated...and I am not crazy...I saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70067.html](http://www.nuforc.org/webreports/reports/070/S70067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
