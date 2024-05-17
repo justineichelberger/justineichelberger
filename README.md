@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Citrus Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light came in like a shooting star and then started to float as a plane would. The light seemed to move way faster then a normal plane, there were no indications of flashing lights as planes do. It looked like a bright star as it soared across our sky line until it got to the horizon and bolted upwards and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156492.html](http://www.nuforc.org/webreports/reports/156/S156492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Miami (Fl) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Man sees aqua-green obj., with bright orange nose, streak vertically from the night sky.  Light visible through clouds.  Obj. dims out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01503.html](http://www.nuforc.org/webreports/reports/001/S01503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
