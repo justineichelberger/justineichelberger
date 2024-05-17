@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>obect shooting something from itI was on my way home when I look up in the sky I noticed a light not like a plan it was bright and had red coming from it.  It look very different.  As I was look at the first one my dad said that it was another one.  I continued to look at it and it shot something from it,something I never seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119026.html](http://www.nuforc.org/webreports/reports/119/S119026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Villa Rica (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>FIVE PEOPLE SAW 10 TO 13 FIREBALLS LOOKING LIKE FLAMES THE SIZE OF A SMALL AIRCRAFT WITH NO SOUND FLYING BY AT EVEN INTERVALS.MYSELF AND FOUR OTHER PEOPLE SAW THESE - THERE WERE AT LEAST 10-13 AND MAYBE MORE BALLS OF FIRE MOVING SLOWLY ACROSS THE TREETOPS ABOVE LAKE TARA, VILLA RICA, GA, AT 9 PM SAT MAY 17TH FROM EAST TO SOUTH...  THEY MADE NO NOISE AND IT WAS SILENT WITH A CLOUDLESS DARK SKY AND NO MOON.  STANDING ON MY BALCONY, THE FIREBALLS MOVED AT EVEN INTERVALS APPEARING OUT OF THE TALL PINE TREES ON THE LEFT AND DISAPPEARING BEHIND THE TALL PINES ON THE RIGHT, TRAVELING SLOWLY JUST BEYOND THE BOAT DOCK, THEY APPEARED TO BE ABOUT THE SIZE OF A SMALL AIRCRAFT, BUT NO SOUND EMANATING FROM THEM.  LOOKING LIKE FLAMES, MY CAMERA SHOWS THEM TO BE ROUND.  ONE PICTURE WAS TAKEN WITH THE ZOOM.  THE OTHER PICTURE ENLARGED ON A COMPUTER SHOWS A FIREBALL WITH WHAT LOOKS LIKE A CAPITAL LETTER "N" IN THE MIDDLE.  THREE PEOPLE SAW THESE FROM THIS ADDRESS.  A PHONE CALL WAS MADE TO A NEARBY NEIGHBOR AND TWO OTHER WITNESSES AT THAT ADDRESS SAW THEM ALSO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109479.html](http://www.nuforc.org/webreports/reports/109/S109479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
