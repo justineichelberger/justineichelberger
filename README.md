@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Warrenton (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three orange &quot;fireballs&quot; were seen glowing in the southern sky.  They were in a triangle formation: two lights above and one.Three orange "fireballs" were seen glowing in the southern sky.  They were in a triangle formation: two lights above and one to the left, in the middle, equally spaced. All three moved across the sky headed to the west.  During this time, the one further to the left "flickered" & disappeared.  The other two lights stayed the same equal distance apart and then the bottom light "flickered" out also.  The light at the top continued to move westward and then "flickered" out too.Estimated elevation 6,000 feet.No unusual sounds were heard.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109497.html](http://www.nuforc.org/webreports/reports/109/S109497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufo seen near Wright Pat airforce baseI was about 10 years old when I seen this craft. I was woke up about 430 Am to come along with my mother so she could drop my father off at work. In the car was my sister my cousin whom was spending the night with us that night and I. We took I-75 back home as usual because my father worked 15 min away from where we lived. While on the highway after you pass I-70 But befor you get to benchwood rd exit (note Benchwood rd exit was not there 10 yrs ago)I notiched an circular oval shaped object hovering around the highway ligts. The ufo was very close to us and I could not beleive my eyes. It continued to circul the lights in rapid movements. The ufo flashed with lights that circled around the whole center of the craft. They were multi colored I remeber it was blue and red colored lights. As we passed the craft I looked back and continued to watch it untill I could no longer see it. I asked my cousin if we really just seen a ufo and she replied yes in a creeped out way. What i belive the ufo was doing was getting energy from the lights on the highway to help power its craft. That is what I beleive. I live 10 min from the wright pat airforce base and I came up with a theroy that maybe its a top secert craft they created that can spy. I have allways told everyone about this encounter but never thought about reporting it till watching shows on ufos.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57120.html](http://www.nuforc.org/webreports/reports/057/S57120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
