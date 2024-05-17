@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:58 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dubuque (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately hiking - hiking minutes.</sub><blockquote><sub>To quiet to be any kind of airplane, or helicopter, for being so close to us.Too quiet to be any kind of airplane, or helicopter.  At first we thought it was a park ranger because we were at Swiss Valley after hours, but it came closer then over our heads super close to us.((NUFORC Note:  The witness has corrected the date.  The sighting occurred very early on Saturday morning, May 1, 2014.  She will add more information about the report, and have one of the other witnesses submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109504.html](http://www.nuforc.org/webreports/reports/109/S109504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Four bright objects 11 am over Grand Junction flight path, unexplainable.I  was standing in my backyard late morning, I happened to look up toward the west and there were 4 separate objects that at first appeared to be parachuters, but  this  was in the  air traffic path here in Grand Junction, we are used to seeing many types of aircraft as Grand Junctional Regional  Airport is also a military  depot.I watched these objects  spin in  small circles, they were “floating”  and every time they would turn I would see a  quick flash of red and then white, super bright.   I could not estimate the distance.  After a few minutes they floated straight up and  stretched out into a straight line ( from north to south)  2 red now appearing to be bright stars facing south , and 2 white facing north  disappearing westward.  There was no sound.My best description  of these objects is parachuters, but this doesn’t seem probable since they were not decending.  I have 10 years Navy experience, and have seen  many aircraft, but nothing like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63485.html](http://www.nuforc.org/webreports/reports/063/S63485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
