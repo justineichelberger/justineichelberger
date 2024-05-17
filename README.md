@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:20 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lincoln (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 orange lit craft in v shape that appear to what seemed out of nowhere! MichiganI was looking out at a star but this star is somewhat odd because it seemed to have different color lights admitting from it.  I started seeing some oranges lights coming above the tree line.  What made me look out was the loud plane like sound but it didn’t last long like usual.  Then all of a sudden 3 quote large spot light orange lights, very low in a v like shape appeared right out of no where!  The three lights looked like they were right over our house.  They stayed in the v for about 10 seconds.  I grabbed my phone and flashed a picture and they then started moving in a fast circler way and just disappeared completely after about 30-45 seconds.  It was like they just came out of the stars. Afterwards tons of planes started roaming the same area.  It’s calmed down, but you can still hear craft outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146210.html](http://www.nuforc.org/webreports/reports/146/S146210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White possibly silver ball hovering above the mountains in the Arizona desert near Yuma. No lights no wings and seem to be hoveringI was a passenger in a Ford Tacoma 4 x 4. I looked over my right shoulder towards the north over a tall mountain range. I saw a white ball motionless as if it were hovering. I watched the ball for about five minutes thinking after driving I would lose visual. As we kept driving for approximately 20 minutes I maintained visual on the craft. It did not seem to move but maybe it was going the same Same speed as the car. It looks like a perfect sphere ball sometimes almost silver. It was several miles away from me and hovering approximately 8 to 15,000 feet in the air. Are used a Phone app called binoculars and attempted to get a closer view from my moving car. As I did so I for a brief short moment was able to look at the craft. It seemed a perfect circle. It was white and silver and seems almost motionless. As I focused my binocular apps on the possible craft it would seem to blur as if it had changed so the light from the sun was causing it to be silver or gy! rate almost. It made it hard to get a good picture. I watched this fear for at least 15 minutes probably more before I lost sight of it and it was nowhere to be found. There were no lights no wings. It was seems to be just hovering at times but seem to be able to stay in my view. There were no other planes around there were no lights it was over a mountain range and pure desert. It seemed very out of place and almost ominous in a fact to where I could not keep my eyes off of it. It was just a white bar possibly silver hovering above the mountain range and some white going with the speed of my car allowing me to keep ice on it for a short amount of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156523.html](http://www.nuforc.org/webreports/reports/156/S156523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
