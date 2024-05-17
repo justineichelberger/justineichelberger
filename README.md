@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Villa Rica (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>FIVE PEOPLE SAW 10 TO 13 FIREBALLS LOOKING LIKE FLAMES THE SIZE OF A SMALL AIRCRAFT WITH NO SOUND FLYING BY AT EVEN INTERVALS.MYSELF AND FOUR OTHER PEOPLE SAW THESE - THERE WERE AT LEAST 10-13 AND MAYBE MORE BALLS OF FIRE MOVING SLOWLY ACROSS THE TREETOPS ABOVE LAKE TARA, VILLA RICA, GA, AT 9 PM SAT MAY 17TH FROM EAST TO SOUTH...  THEY MADE NO NOISE AND IT WAS SILENT WITH A CLOUDLESS DARK SKY AND NO MOON.  STANDING ON MY BALCONY, THE FIREBALLS MOVED AT EVEN INTERVALS APPEARING OUT OF THE TALL PINE TREES ON THE LEFT AND DISAPPEARING BEHIND THE TALL PINES ON THE RIGHT, TRAVELING SLOWLY JUST BEYOND THE BOAT DOCK, THEY APPEARED TO BE ABOUT THE SIZE OF A SMALL AIRCRAFT, BUT NO SOUND EMANATING FROM THEM.  LOOKING LIKE FLAMES, MY CAMERA SHOWS THEM TO BE ROUND.  ONE PICTURE WAS TAKEN WITH THE ZOOM.  THE OTHER PICTURE ENLARGED ON A COMPUTER SHOWS A FIREBALL WITH WHAT LOOKS LIKE A CAPITAL LETTER "N" IN THE MIDDLE.  THREE PEOPLE SAW THESE FROM THIS ADDRESS.  A PHONE CALL WAS MADE TO A NEARBY NEIGHBOR AND TWO OTHER WITNESSES AT THAT ADDRESS SAW THEM ALSO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109479.html](http://www.nuforc.org/webreports/reports/109/S109479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Schaumurg (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Matte black object on clear sunny day at est. 15,000 feet with three witnessesTwo of my co-workers and I were out having a cigarette break and enjoying our beautiful cloudless day just now.  Looking up in the sky I caught a black circular object.  It was high in the sky and moving smoothly south. I pointed it out two my two co-workers who also clearly saw the object. We tracked it with our eyes for about two minutes. It was clear to the three of us this was neither a bird nor a plane.  As luck would have it, a flock of Canadian geese AND a passenger jet flew by while the object was still in sight. (We are about 15 miles west of O'Hare International Airport and we have a lot of geese this time of year). Based on the comparison of the geese flight and the airliner, it looked to be considerably higher than the airliner.  The airliner was 15 miles west of O'Hare and continuing west and looked to be about 10,000 feet and climbing.  The object crossed paths with it, so we had a great angle to judge this by. As for the object's appearance, it was pitch black with no reflective surface on this very sunny, clear day.  The airliner by contrast was very reflective and bright. Because of this matte, black appearance we would only be guessing at the object's real shape.  Because of the distance, our eyes condensed it to "circular". I called the Great Lakes Regional FAA Center in DesPlaines, IL.  They passed me to their operations center and took my name and phone number. We as a group are certain this was no normal aircraft. *It was higher than 10,000 feet, ruling out birds.*Because of this height, the size had to be considerably large.*It was matte black and non-reflective, ruling out weather balloons or commercial aircraft.*It was clearly odd-shaped, not conforming to normal silhouettes.  We could make out neither wings nor fuselage.*It left no contrail. (Neither did the passenger jet)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56710.html](http://www.nuforc.org/webreports/reports/056/S56710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
