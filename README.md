@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Itasca (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Thimble-shaped orange-white object observed sitting in trafficAround 4:30 PM on May 17, 2007, I had just left work, and after not driving more than about a block from my office (on Rohlwing Road in Itasca) was sitting in backed up traffic due to a train. I happened to look in the driver’s side mirror, at the traffic backing up behind me, and noticed something in the distance in the sky. At first I thought it was an airplane or helicopter, as the area isn’t far from O’Hare Airport, but I noticed that it had a sort of orangish-white glow to it, and as it very slowly horizontally moved along across the clear blue sky, I could see it had a shape that reminded me of a thimble. The size of it was from where I was sitting in my car about the size of my pinky-finger nail from about an arm and a half-length’s away. When the traffic began moving again, I pulled forward a few feet in my car, and when I looked again, couldn’t see the object again. The whole experience was no more than a minute or so long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56733.html](http://www.nuforc.org/webreports/reports/056/S56733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Everson/Bellingham (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Us seeing a real ufo gave us a weird feeling evening seeing the ufo going towards such a close thing such as a moon.On Sat. the 17th while were watching the stars at night we saw an ovalish object, flying threw outer space. and it was shining light blue. later one of us saw another ufo except this one was more round and shinning more white. and it was going south west. and the other ufo was going towards the moon which was south and it either went in the moon or around the moon but never came. or it landed on the moon. it was coming from the big dipper. and seeing the ufos it gave us a weird feeling. this experience happened at about 12:30 a.m  from Callie and Taylor((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63295.html](http://www.nuforc.org/webreports/reports/063/S63295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
