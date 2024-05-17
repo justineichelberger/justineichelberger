@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lakeville (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red,orange color. moved fast appeared fast then disappeared fast.Driving on interstate 35 just before Burnsville saw two red Orange lights appear fast.  They crossed each other one really fast lost sight of first one then re appeared and the second one disappeared very fast and shortly after that the one remaining was gone.  Both looked to be just above tree level but not blinking lights like a normal aircraft.   Couldn't explain how fast and smooth the objects moved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89019.html](http://www.nuforc.org/webreports/reports/089/S89019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Trianglular lights that made no noise, dogs barking.All the dogs in my neighborhood started barking, so I looked outside to see what was going on.  Then, I saw a triangle formation of lights that were in an elliptical orbit.  They made no noise, ruling out any helicopters or airplanes.  They faded in and out, for a few minutes.  Eventually, as the last light faded, all the dogs stopped barking.  Weird stuff man, I aint usually one to believe ufo stories,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109501.html](http://www.nuforc.org/webreports/reports/109/S109501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
