@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:01 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Neenah (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Flickering fire like objects in the sky moving fast eventually fade.Below a high cloud line, two fire like objects almost looking like hot air balloons in the dark, were traveling much more rapidly than a balloon could, and eventually faded before out of sight, almost like they burnt out.  They looked just like a fire in the sky, and even flickered.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97881.html](http://www.nuforc.org/webreports/reports/097/S97881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Auburn (Lakeland Hills) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 V shaped amber lights over Lakeland Hills moving north then went west and gone past the horizon in secondsOn the night of May 17th, 2019, at approximately 23:43, I was outside on my back deck in the Lakeland Hills neighborhood.  I looked to the west to watch some of the planes taking off to the south from Sea-Tac Airport, when 3 amber/orange colored lights in the shape of a "V" came over the top of my house at probably the same altitude as an approaching aircraft would.The lights moved across the sky very slowly, with the lights remaining constant; no flickering, on/off, pulsing, etc.  After roughly 1.5 minutes moving from south to north, they abruptly disappeared in what I would estimate to be probably the Kent or north Auburn area.  I didn’t know what to make of it until about 5-10 seconds later the lights returned moving west over the top of the Sea-Tac airport at an unfathomable rate of speed, and within 1-2 seconds the lights disappeared past the horizon.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147209.html](http://www.nuforc.org/webreports/reports/147/S147209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
