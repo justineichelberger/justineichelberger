@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 17 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A large white vapor-like airplane was right on the tail of a small private plane...when it made a sharp right turn and dissapearedI was sitting out on my back deck...beautiful clear blue sky...when I heard plane above me.  It was a small private plane..I could hear the engine....directly behind it right on it's tail was a large plane...only it was vapor-like.  I could see the blue of the sky right through it. I stood up to get a better look as it was about to become out sight over the roof of my house.   I saw the big plane make a sharp right and zoom off into ...no where...it just dissapeared.....I swear.... I was not intoxicated...and I am not crazy...I saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70067.html](http://www.nuforc.org/webreports/reports/070/S70067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Itasca (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Thimble-shaped orange-white object observed sitting in trafficAround 4:30 PM on May 17, 2007, I had just left work, and after not driving more than about a block from my office (on Rohlwing Road in Itasca) was sitting in backed up traffic due to a train. I happened to look in the driver’s side mirror, at the traffic backing up behind me, and noticed something in the distance in the sky. At first I thought it was an airplane or helicopter, as the area isn’t far from O’Hare Airport, but I noticed that it had a sort of orangish-white glow to it, and as it very slowly horizontally moved along across the clear blue sky, I could see it had a shape that reminded me of a thimble. The size of it was from where I was sitting in my car about the size of my pinky-finger nail from about an arm and a half-length’s away. When the traffic began moving again, I pulled forward a few feet in my car, and when I looked again, couldn’t see the object again. The whole experience was no more than a minute or so long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56733.html](http://www.nuforc.org/webreports/reports/056/S56733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
