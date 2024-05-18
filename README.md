@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:26 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:11 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Douglas (GA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was on my way to work.I saw what looked like a big copper colored sphere.It split into two then four then eight. I did this until there were at least fifteen objects. Every time they split ,they did so under each other,like an x patern falling from sky.Then they went into a bird like v formation .They then took off at a very fast burst of speed.Until then i was a skeptical person ,now i am not.((NUFORC Note:  No return address was indicated for this report, but we include it here because it is somewhat reminiscent of some other similar reports from seemingly credible sources.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08617.html](http://www.nuforc.org/webreports/reports/008/S08617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>6 distant lights in v-shaped form flying very slowly seen over  Las Vegas Blvd, Nevada then fading as it passed overhead.We were watching the fountain show at the grounds of Bellagio Hotel along Las Vegas Blvd. when we noticed a distant group of lights in the night sky about 10:00 high from the southwest which seems to be just floating up there. We realized later that it was actually moving at a very slow speed, much slower than the planes that were flying that night. It moved from the southwest to the northeast direction passing overhead us. The v-hsaped lights has its pointed part pointing to the east while moving at very slow speed. It took about 4 minutes to pass us overhead. As it was moving, the object was rotating very slowly, too. It completely rotated 180 degrees during the course of its flight such that it's v-point was now pointing west after it passed overhead. All the time, it never changed it's northeasterly direction. After passing overhead, it's speed gradually decrease and it's lights began to grow dimmer and dimmer like it was going away from us or moving up. There were no clouds that night and it was not like the clouds were covering it making it's lights to fade. It took about 2 minutes for the lights to completely fade out. When we reviewed the video I took of it we counted about 6 lights total making the v-shaped object. Other people who was there watching the fountain show were able to see the object we were looking at.During the length of observation, there were no sounds heard that would point to the object as the source. There were planes flyng that night before, during and after the sighting. The lights are of one color which is white. The course of flight was straight and constant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29464.html](http://www.nuforc.org/webreports/reports/029/S29464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
