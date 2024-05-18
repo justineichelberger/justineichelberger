@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Elsmere (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 23:11 - 23:11 minutes.</sub><blockquote><sub>Light came over Town of Elsmere then shot off.I was sitting outside with a few of my friends, when I looked up and saw a light move across the sky and then zoom off into the sky. It was round and white, it was also a very clear night. I live in the Philadelphia International Airport, and New Castle County Airport's airspace. I have never seen anything like this before in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28869.html](http://www.nuforc.org/webreports/reports/028/S28869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Murrysville (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball decending from above and vanished behind the hills.On my way headed home from work I spotted a green fireball descending from above.  I was on Route 22 heading east down a hill before passing the Wendy’s on my right.  It looked like it was a green flair being dropped and then quickly fizzled out. The thing that distinguished it from a flair was the speed it was falling and the size. In short, the object was flickering and disappeared behind the hills. This is the second I have seen in this area.  The other was at some point last year, about same time and further down the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97938.html](http://www.nuforc.org/webreports/reports/097/S97938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
