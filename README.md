@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Iwas driving south from Nashville on Nolensville Rd at 9:30 p.m. Lights to my right (west) just off the road caught my eye.  This area on the southern Davidson/northern Williamson county line is rather rural.  My first thought was that two light planes were about to collide.  They were close and very low to the ground.  Suddenly I realized that what I was seeing was two boomerang crafts nested one behind the other only about two hundred feet off the ground.  They were perfectly still.  There was a small pinpoint light on the wing tip of each craft.  I was so astonished I stoppped the car and got out.  There was absolutely no sound and no movement.  The craft were black and metallic and the bottom appeared to have a ridge line.  I could see the sky between the two but they were probably no more than 20 to 25 feet apart.  At this point, I became extremely frightened and jumped in my car and sped away home.  Calls the next day to law enforcement offices, etc., turned up on other reports.  However, the airport authority was extremely interested and similar reports were received of a low flying, soundless object about an hour before mine approximately 50 miles north of this location. I had never heard of the boomerang or chevron craft before this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08182.html](http://www.nuforc.org/webreports/reports/008/S08182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cross Roads (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>glowing light and organic and tubular shaped metallic craftDuring the month of May and June 2007, I witnessed an odd light west of my home which is a few miles east of Denton, Texas in north central Texas. In May around the 13th at 11:00 PM, I went to close my blinds in the west window of my room. I noticed a very bright light just above the tree line to the west. I grabbed my camera and ran out to get a closer look and get beyond the trees in my yard. The light was hovering in one spot. I took a few photos and observed it a while longer and it began to wiggle back and forth slightly. It “wiggled” maybe 30 seconds and blinked out. When I first downloaded the photos I couldn’t really see anything, I took them into Microsoft Picture It and slightly lightened them and the orange glowing ball was clearly evident. There was no moon and it was very dark otherwise as I live outside of town. In June close to the 8th, I witnessed a very similar "object" again in the western sky. Once again I took my camera and got a few shots in before it disappeared. This time when I downloaded them, the light had a very odd shape that I don’t even know how to describe, except as organic with tubular extrusions with ball shaped ends and was a silver metallic color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58268.html](http://www.nuforc.org/webreports/reports/058/S58268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
