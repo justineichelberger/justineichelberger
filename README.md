@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:47 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>8 unexplained Orange lights  in a zig zag row on  May 18, 2012, League City, TXMe and my husband were sitting at a red light at the FM518 & 270 intersection.  I was going to make a left hand turn on to 518 toward 2094 when I saw 8 bright orange lights in the sky directly in front of us. It was 8 lights in a zig zag pattern in a row moving slowely.  Our light turned green and we decided to make a slight right onto 518 and turn into the Sonic there.  We stopped and parked in the back they seemed so close and flying close to each other. We starred completly puzzled trying to figure out what they could be...I have never believed in UFO's or things like this, but I have been unable to find any answers as to what it was?  It seems like once they hit the same spot in the sky they started to disappear.  Even if there were clouds...as bright orange as these lights were I would assume we would have still been able to see a slight aura if they disappeared due to clouds, but we did not see anything it was as if they just vanished?!?!?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89106.html](http://www.nuforc.org/webreports/reports/089/S89106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Elsmere (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 23:11 - 23:11 minutes.</sub><blockquote><sub>Light came over Town of Elsmere then shot off.I was sitting outside with a few of my friends, when I looked up and saw a light move across the sky and then zoom off into the sky. It was round and white, it was also a very clear night. I live in the Philadelphia International Airport, and New Castle County Airport's airspace. I have never seen anything like this before in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28869.html](http://www.nuforc.org/webreports/reports/028/S28869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
