@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:10 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rio de Janeiro (Brazil) () reported seeing craft that fit the description of some 'Light' over a period of approximately 40 s - 40 s minutes.</sub><blockquote><sub>Two fast blinking lights stationary for +-45s at stars' altitude/distance and vanished - Rio de Janeiro/BrazilI've been seeking for information about something I and two other witnesses saw on the sky on Sunday, 18/05/2003, circa 02:00, Rio de Janeiro, GMT-3. I was at the balcony of a penthouse, with almost complete view of Copacabana sky, talking by phone with my girlfriend, who was at home. As we spoke, I was gazing at the sky, looking to nowhere, when my attention was caught by something I thought was a reddish planet (Mercury, I thought) or star, at aprox. 35 deg. high. It was a crystal clear night, no refraction due to polution nor clouds. About ten seconds later the star's color turned to a bright white, and I turned my full focus to it. A friend of mine was a few meters away from me and I urged him to look up and watch the scene. Few seconds later, the star began to blink at a constant rate (2 or 3 blinks per second). Immediatly another light source -- localized at a some -120 deg. angle relative to the first one and close to it (from my viewpoint, a finger width at full arm length) -- began blinking at the same rate, but kind of alternating the phases. Seconds later tiny glitters, almost invisible, appeared in the space between them. When +- 40 seconds had elapsed from the "whitening" of the first star, the second one suddenly disappeared, and less than 5 seconds later the first one glowed a little bit brighter and vanished. Almost all the time the two stars stood still. The two light sources were definitely no baloons nor low atmosphere gears -- we were sure they were located way far at space. If they didn't blink they would look like ordinary and common stars, just a bit brighter than the others. BTW, as I was talking to my girlfriend I told her to go to the window (she lives some 15 blocks far from where I was, and also facing Copacabana beach) and try to see what I was seeing; she confirmed, having seen about the second half of the 45 seconds show, as we talked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28965.html](http://www.nuforc.org/webreports/reports/028/S28965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Brookville (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Diamond Shaped, covered with lights, Approximately 200 feet in the air.I was travelling west on Interstate 80 near a rest stop before Brookville, PA. In the sky, very low, was  a diamond shaped object completely covered with smaller white lights. This object would have been slightly larger than a full moon. It was very overcast, but no rain. There were many cars pulled off the road viewing this object. I and a friend left after 10 minutes of viewing this object. There must be others that have reported this, because it was just too obvious. No Noise what so ever!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12921.html](http://www.nuforc.org/webreports/reports/012/S12921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
