@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sapulpa (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a floating craft that when it left shot away like a rocket (unlike an airplane).The're were 2 ships.  They were a greyish blackish color with lights around them.  The lights flashed like in a chaser mode.  It made a light humming noise like a back masager.  I saw this flating over the local grocery store at about 22:35.  They just floated there for about 5 minutes the shot off like a rocket.  Nothing that I saw came out of or went into the craft but could definently tell it was not an airplane.((NUFORC Note:  We presume the witness means to write a date of May 18, 2001.  We have amended the date here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17693.html](http://www.nuforc.org/webreports/reports/017/S17693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Zadar (Croatia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Red light in the sky, the object moved at speed from one place to another, then vanishdLocation, Europe, Croatia, city Zadar, 18.05.2011.  Around 4 am local time I saw something I think is UFO, it was an object with red colour that was first falling down then going away in a sort of concentric or elipting circles, it is hard to precisely describe((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81296.html](http://www.nuforc.org/webreports/reports/081/S81296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
