@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Waynesburg (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Seen a ball of fire move across the sky then stopped in mid flight and zig zag back and forth.I was coming outside an apt...looked off to my right and seen this huge ball of fire moving across the sky....as it was coming closer it started slowing down....then came to a stop....and then started zig zagging back and forth for a minute or so....then disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109467.html](http://www.nuforc.org/webreports/reports/109/S109467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glen Ellyn (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A single small jet contrail moving very fast and gaining altitude.UFO Report from May 18, 2014  I am reporting this event witnessed by myself alone outside.  It was so unusual, I thought it would be reportable.  I have never made a report like this before.  I am skeptical of UFO’s in general, but believe that people like myself report unusual occurrences in order to find out the truth regarding such occurrences.  There may be a plausible explanation for certain occurrences.I am a retired firefighter, living in the suburbs of Chicago.  I am a U. S. Army veteran.  I have a college degree.  I have always had a keen interest in military aviation and space travel.  I have been to many of the annual Chicago Air and Water Shows at the Lake front.  I watch the skies for jet travel, local and transcontinental, and recognize the “circle route” when I see it.  I also have friends who are airline pilots.Yesterday, May 18th, in the evening, I witnessed what I would call an unusual occurrence.  I was at a local dog park with my Golden Retriever.  It is located at 185 Spring Ave., 60137 (41.865944, -88.044325).  This park has a large open sky area.  At approximately 20:32 hours, right at twilight, I witnessed what looked like a single jet contrail moving across the sky at a very high altitude.  I could not visualize the aircraft, but it seemed very small.  The surprising fact was that the front of the contrail, was moving faster than anything I have ever seen before.The contrail itself was smaller than a commercial aircraft contrail that I have witnessed, single, hazy, and white.  The background of the sighting was blue sky and I was facing north.  It also was evaporating at a fast rate as it crossed the sky.  It was moving from the north to the east, at a heading of approximately 100 degrees.  It disappeared in a very few seconds.  The altitude appeared to be as high as I have ever seen a commercial aircraft.  The aircraft appeared to be moving three times faster than a commercial flight.  The aircraft may have been in a circle route, because it appeared to be gaining altitude in a straight line.  The contrail stopped, and disappeared without any further sighting.So my first thought is maybe a military fighter jet.  I have seen them before at this approximate altitude.  What was missing was the roar of the jet engine.  No sound came from this fast moving aircraft.  That is all I remember at this time.Respectfully submitted</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109455.html](http://www.nuforc.org/webreports/reports/109/S109455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
