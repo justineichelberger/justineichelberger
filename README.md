@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lagrangeville (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4 lights going in a in and out, circling.  Moving fast but stopped above Union Vale Middle School field and stayed for quite a while.((NUFORC Note:  Anonymous source.  Possible advertising lights??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146202.html](http://www.nuforc.org/webreports/reports/146/S146202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lagrange (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>4 bluish-white lights moving in a circle then meeting in the middle (objects were moving north-east)4 bluish-white lights flying in a circle and meeting in the middle.  Could not have been any event or music festival lighting as they were moving North-East.  I followed the lights for about an hour until I got right under them and they just vanished.  There is two small private airports in the area but the lights were seen in the opposite direction.  Also, no aircraft to my knowledge could emit that kind of light formation.  It also could not have been a drone because these lights were very far apart.  (It was seen in the next town over)  The objects were silent and as they were flying in a circle they were also "wobbling"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146200.html](http://www.nuforc.org/webreports/reports/146/S146200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
