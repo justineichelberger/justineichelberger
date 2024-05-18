@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Marin (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>high speed objects over the ocean North of San FranciscoI was on a feild trip with my fifth grade class at a place called Fort Ross North of San Francisco.  Two of my freinds and I observed 2 disc shaped objects ping ponging around the sky above the pacific ocean.  Upon first sight of the objects I thought they were shooting stars, because of the shear rate of speed.  But as soon as they started bouncing around, foward, reverse, left, right we new we were veiwing something none of us had ever seen before.  While in flight they seemed to make hard angle turns as if from one point to another in any direction.  I guesed they may have been as far as 100 miles out to sea at times.And maybe up to 6000 feet elevation all the way down to 500 feet in as little as a secound.  They cleared a set of coastal mountains that looked to be quite far away to the left of our horizon but then were instantaniously back centered over our feild of vision.  I guesed the experience lasted close to 20 to 30 secounds because my freinds and I had time to look at one another and ask each other if we were all seeing the same thing, which was confirmed.  At the time of the sighting I had a sense of feeling priveleged to be seeing what we were seeing.  My other freind shared a similiar feeling.  The kid stsnding to the right of me was terrified and refused to go camping the following weekend with his family.  The discs did have some sort of running lights, they circled the disc none seemed to stay a consistent color changing from red,green,yellow,white, and maybe blue every couple of secounds.  This event took place 20 years ago but is still crystal clear in my memory.  We were all in 5th grade not to young and not to old, we all new what we had seen. I know I saw a UFO that night to this day.  Years later I ran into my Freind Jeff with whom I veiwed the UFO with.  I just had to bring the incident back up, it had been 16 years since I had even seen him, he recalled the experience just as I had remembered it.  My guese is the ufos were either silver or a silver white it was dark but I could see the running lights reflecting off the craft.  They didn't appear to be to big maybe the width of a 10 person leer jet.  The ufos were silent from where we stood....20 years ago, but it doesn’t((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22476.html](http://www.nuforc.org/webreports/reports/022/S22476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lagrangeville (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4 lights going in a in and out, circling.  Moving fast but stopped above Union Vale Middle School field and stayed for quite a while.((NUFORC Note:  Anonymous source.  Possible advertising lights??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146202.html](http://www.nuforc.org/webreports/reports/146/S146202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
