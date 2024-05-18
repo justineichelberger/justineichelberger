@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lagrange (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>4 bluish-white lights moving in a circle then meeting in the middle (objects were moving north-east)4 bluish-white lights flying in a circle and meeting in the middle.  Could not have been any event or music festival lighting as they were moving North-East.  I followed the lights for about an hour until I got right under them and they just vanished.  There is two small private airports in the area but the lights were seen in the opposite direction.  Also, no aircraft to my knowledge could emit that kind of light formation.  It also could not have been a drone because these lights were very far apart.  (It was seen in the next town over)  The objects were silent and as they were flying in a circle they were also "wobbling"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146200.html](http://www.nuforc.org/webreports/reports/146/S146200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bowie (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Very bright light in the sky over AnnapolisThe sky was clear and blue. at 3:15PM I was driving east on Route 50 from D.C. towards Bowie, and a very bright (stronger in intensity than, say, Venus) light suddenly appeared in the distant sky straight ahead at a 45-degrees position over the horizon, for approximately twenty five to thirty seconds.  Since Route 50 was congested I could only glance at it about five or six times during the 25-second period.  Each glance lasted about two to five seconds.  Then it was gone--just vanished.  I continued to watch where it had been until I got to Route 301 to turn off and there was no plane or dark object that would indicate an aerial vehicle producing it.  When I got home I checked the map and it appeared to have been high over Annapolis or Edgewater, Maryland, a distance of 17 miles from where I saw it.  But that's a guess--it could have been farther away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134279.html](http://www.nuforc.org/webreports/reports/134/S134279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
