@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Northampton (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I have seen videos of these but never thought I would see it myself.Wave of 6 lights seemed to be at low altitude but not low enough to see a shape or the light emitted concealed the shape.  There was now sound that we could hear and they seemed to be traveling at a cruising speed and were different sizes.  The largest being the red one with kind of a haze to it.  The next largest seemed to be red, orange, and yellow but flickering kinda like it was on fire but not.  The second wave came in about 2 minutes after the first with 4 objects in the wave 2 of which seemed like duplicates of the red and the fire ball type in the first wave all seemed to be going in same direction from where I was standing North to South.  The other objects seemed just like a white light but it didn't look like normal white light one did have a tint of green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109496.html](http://www.nuforc.org/webreports/reports/109/S109496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Iwas driving south from Nashville on Nolensville Rd at 9:30 p.m. Lights to my right (west) just off the road caught my eye.  This area on the southern Davidson/northern Williamson county line is rather rural.  My first thought was that two light planes were about to collide.  They were close and very low to the ground.  Suddenly I realized that what I was seeing was two boomerang crafts nested one behind the other only about two hundred feet off the ground.  They were perfectly still.  There was a small pinpoint light on the wing tip of each craft.  I was so astonished I stoppped the car and got out.  There was absolutely no sound and no movement.  The craft were black and metallic and the bottom appeared to have a ridge line.  I could see the sky between the two but they were probably no more than 20 to 25 feet apart.  At this point, I became extremely frightened and jumped in my car and sped away home.  Calls the next day to law enforcement offices, etc., turned up on other reports.  However, the airport authority was extremely interested and similar reports were received of a low flying, soundless object about an hour before mine approximately 50 miles north of this location. I had never heard of the boomerang or chevron craft before this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08182.html](http://www.nuforc.org/webreports/reports/008/S08182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
