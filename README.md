@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 18 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright white ball of light  about 10:00 position in sky  NE to SE seen by binoculars towards end last five seconds stars were going by fairly fast as it was moving to low to be a plane and too fast to be a satelite. observer is a 55yr old male who has seen approx. Nine UFOS in his life so far starting at approx.nine yrs.old.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be serious-minded and credible.  However, several reports from the same subject on subsequent nights make us wonder whether the witness might have observed a satellite.  However, NUFORC received a second report from Oklahoma of an object that sounds similar to what the witness describes above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44028.html](http://www.nuforc.org/webreports/reports/044/S44028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Waynesburg (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Seen a ball of fire move across the sky then stopped in mid flight and zig zag back and forth.I was coming outside an apt...looked off to my right and seen this huge ball of fire moving across the sky....as it was coming closer it started slowing down....then came to a stop....and then started zig zagging back and forth for a minute or so....then disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109467.html](http://www.nuforc.org/webreports/reports/109/S109467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
