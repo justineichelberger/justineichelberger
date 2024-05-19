@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:44 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Eddington (ME) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large metalic cigar shaped object seen just before sunset.My 10 year old son and I were out for a walk and we saw a large metalic cigar shaped craft fly in front of the moon.  The light from the moon illuminated the craft very well.  The craft had no wings, tailing or lights.  The object made no noise and did not emit a contrail. It was visible for less than a minute before it was gone from our view.  In contrast about 10 minutes later a passenger  jet also flew over heading in the same direction and I could hear it, and I could see the red mmarkings on it, as well as the wings and lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100385.html](http://www.nuforc.org/webreports/reports/100/S100385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elk Grove Village (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As I was driving down Mecham Blvd headed toward Biesterfield Rd I saw orange glowing lights flying overhead.  I pulled over and counted four at first but then they just kept coming.  I counted around eight total. I thought they could have been meteors but they were definitely within the atmosphere.  There was also no noise coming from them.  We live about twenty minutes from O'hare so we see a lot of planes but these were not planes.  Just curious if anyone else had seen the same thing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89051.html](http://www.nuforc.org/webreports/reports/089/S89051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
