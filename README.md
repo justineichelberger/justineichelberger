@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Elizabethtown (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright Oval Dissolved/Flickered in night skyVery cloudy, over-cast, raining on and off throughout the evening.  Noticed a bright oval/bell shaped light with a dim redish hue radiating from the object.  It was late at night and looked as if there was a magnificent sunset coming through the clouds.  The object/light lasted for 4 or 5 seconds and flickered/dissolved away. As it dissipated I could still see a purplish light as if I was staring at a bright light and gone; it did not fly away in a particular direction it was stationary.The color of the light: oranges, reds, yellows, whites, purples (like a orange sunset with definitive edges)   My friend and I were both baffled and in shock!  We both described the same thing back to each other to make sure we saw the same thing, our descriptions were exact. A plane flew by minutes later and it was 1/30th the size and much higher in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81316.html](http://www.nuforc.org/webreports/reports/081/S81316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw 3 blinking red lights that blinked from bright red to white in a triangle formation flying south at same speed. It was silent and low flying.  It flew behind trees so blocked my view then it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89073.html](http://www.nuforc.org/webreports/reports/089/S89073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
