@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pleasant View (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Green oval glowing objects zipped across the sky.I was coming home after droping my brother at his house.  He lives a few miles up the road.  I was headed back home going SE.  I saw 2 green oval shaped glowing objects "zipping" back and forth.  They were going too fast to see the "zipping" but they would apear in front of and then beside me in the sky.  They were big like the size of a house in the sky.  I don't know what they were but I'm open to all possibilites (advertising lights, military crafts, airplanes, or UFO).  They did scare me because I know what advertising lights, military crafts, and airplanes look like (we live close to an army base) and I've never seen anything like this.  So I called my husband on my cell phone.  The closer I got to home I seemed to be going more towards them and then my cell phone went out.  As soon as I got home we went inside and stayed in for the night.  I don't know what they did after that because we were too freaked out to investigate and haven't seen anything since.  My brother's neighbor saw them from his house that night too but we've haven't heard anything on the news/or in the paper about it.  Of course now I'm the laughing stock of the family!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37156.html](http://www.nuforc.org/webreports/reports/037/S37156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (90 mi SW of; on I-10) (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 objects sited 90 miles SW of PhoenixI was driving from California to Phoenix on I-10 when I noticed a large orange object.  It was very low in the sky, just above the hills.  It must have been over 10 miles away because it's position never seemed to vary with respect to my car.  While I was watching it, another object appeared to rise out of the top of the first one.  Both were very large,about the size of a thumbnail on an outstretched arm.  After a few minutes, a third object appeared, blinked-out, and then re-appeared.  All three objects then hovered for about 3 minutes.  I kept looking for a road that might head out to them so I could get a closer look and a picture.  I finally pulled off on Hofsetter Rd. and stopped about 100 yards away from the freeway.  I opened my trunk to get my digital camera and when I got ready to take a video- they were gone. Very frustrating.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44037.html](http://www.nuforc.org/webreports/reports/044/S44037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
