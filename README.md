@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 Orange orbs coming from the White tank mountains heading east5 orange, slow moving orbs heading east coming from the White Tank Mountains were visible then disappeared quickly.  An additional 2 orange orbs came over the mountain then also disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97841.html](http://www.nuforc.org/webreports/reports/097/S97841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seabeck (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Low flying very bright object with a blinking light that I could see for miles and miles.Last night, I couldn’t sleep so I was looking for shooting stars.  This was about 3:00 am.  Along came a very low flying object  that looked like a plane.  It fascinated me though because all three points on the “plane” were so bright!   There was one point on the object that continued to blink every few seconds.  I continued to watch it fly.   Since it was so clear last night I watched if for miles and miles.  I could still see the blink probably 40-50 miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89054.html](http://www.nuforc.org/webreports/reports/089/S89054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
