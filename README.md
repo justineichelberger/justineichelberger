@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately indefinite - indefinite minutes.</sub><blockquote><sub>Strange behavior above Denver sky.I have seen these objects hovering over the Denver sky every night since I first noticed them over 3 months ago.  Each one has his/their area but each one moves erratically within that area.  Strange behavior to say the least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127441.html](http://www.nuforc.org/webreports/reports/127/S127441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some '' over a period of approximately 1.1666666666666667 - 1.1666666666666667 minutes.</sub><blockquote><sub>Man & mother witness "point of light" approach an aircraft.  Obj. then rose in sky, moved to horizon in 60 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01510.html](http://www.nuforc.org/webreports/reports/001/S01510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
