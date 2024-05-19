@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (90 mi SW of; on I-10) (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 objects sited 90 miles SW of PhoenixI was driving from California to Phoenix on I-10 when I noticed a large orange object.  It was very low in the sky, just above the hills.  It must have been over 10 miles away because it's position never seemed to vary with respect to my car.  While I was watching it, another object appeared to rise out of the top of the first one.  Both were very large,about the size of a thumbnail on an outstretched arm.  After a few minutes, a third object appeared, blinked-out, and then re-appeared.  All three objects then hovered for about 3 minutes.  I kept looking for a road that might head out to them so I could get a closer look and a picture.  I finally pulled off on Hofsetter Rd. and stopped about 100 yards away from the freeway.  I opened my trunk to get my digital camera and when I got ready to take a video- they were gone. Very frustrating.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44037.html](http://www.nuforc.org/webreports/reports/044/S44037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Elizabethtown (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright Oval Dissolved/Flickered in night skyVery cloudy, over-cast, raining on and off throughout the evening.  Noticed a bright oval/bell shaped light with a dim redish hue radiating from the object.  It was late at night and looked as if there was a magnificent sunset coming through the clouds.  The object/light lasted for 4 or 5 seconds and flickered/dissolved away. As it dissipated I could still see a purplish light as if I was staring at a bright light and gone; it did not fly away in a particular direction it was stationary.The color of the light: oranges, reds, yellows, whites, purples (like a orange sunset with definitive edges)   My friend and I were both baffled and in shock!  We both described the same thing back to each other to make sure we saw the same thing, our descriptions were exact. A plane flew by minutes later and it was 1/30th the size and much higher in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81316.html](http://www.nuforc.org/webreports/reports/081/S81316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
