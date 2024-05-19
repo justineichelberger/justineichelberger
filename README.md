@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:44 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Wellington (New Zealand) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sphere moving at incredible speed over a habour horizontally, stops in mid air, hovers, then shoots into sky at unbelievable speed.One ship at high speed moving over a harbour in a horizontal line for about a mile.  Craft came to an abrupt stop, hovered for 5 seconds, shot into the sky vertically for about 3 miles at an unbelievable velocity from a standing start.  Then dispersed into three craft and dissapeared.((NUFORC Note:  Date of incident may be approximate.  Witness does not indicate whether the sighting occurred during morning, or evening, hours.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27908.html](http://www.nuforc.org/webreports/reports/027/S27908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Eddington (ME) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large metalic cigar shaped object seen just before sunset.My 10 year old son and I were out for a walk and we saw a large metalic cigar shaped craft fly in front of the moon.  The light from the moon illuminated the craft very well.  The craft had no wings, tailing or lights.  The object made no noise and did not emit a contrail. It was visible for less than a minute before it was gone from our view.  In contrast about 10 minutes later a passenger  jet also flew over heading in the same direction and I could hear it, and I could see the red mmarkings on it, as well as the wings and lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100385.html](http://www.nuforc.org/webreports/reports/100/S100385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
