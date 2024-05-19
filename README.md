@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Paula (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Diamond/ huge yellow lights. Slow and low, grey metallic bottom.I was listening to music in bed while staring at the night sky through my window when a Diamond shape aircraft flew right over my home, it was quite low, to the point where the lights on the craft weren't a blur; I could see them clearly and detailed.  There where 4 lights in each corner, they were pretty huge lights, they were a cool yellow.  Sine the aircraft flew right above me i was able to see underneath, the bottom was a metal grey.  I would say it most likely resembles a TR-3B but I recall it being a diamond shape and no center light.  It did make noise that could easily be heard almost like a blow-dryer on a really really low setting. It flew real low and real slow.  I was able to get out of bed go outside stare at it a bit, come back inside to get my mother, and return outside to continue watching it before it disappeared behind the mountain that is a mile and a half away from our house.  Although it disappeared we can still hear it clearly for the 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109444.html](http://www.nuforc.org/webreports/reports/109/S109444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hastings (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>big black triangle shaped object lasting 20 seconds or so overhead then gone without any soundMy stepson and I were in the house,I was watching tv and my stepson was in his bathroom. My husband was in the shower in the 2nd bathroom. All of a sudden my stepson and I both heard this low rumble and was getting louder by the minute. We heard this noise for about close to a minute before we both went running outside the front door. We looked up and saw this HUGE black triangle shaped thing go over the treetops right directly over head. There were no lights whatsoever but it was really really big. The noise was like a low roar and lasted maybe about 20-30 seconds. I thought it was an aircraft from the army, like one of those stealth bombers. I have never seen one except on tv but there were no lights anywhere on it. After it went over us it was gone, not one sound. Just like it had vanished into thin air. My husband never heard anything.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43117.html](http://www.nuforc.org/webreports/reports/043/S43117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
