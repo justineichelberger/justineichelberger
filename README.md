@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:35 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Studio City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Metallic looking with periodic flashing/reflection.((NUFORC Note:  We have requested more information about the alleged sighting, but have received no response.  PD))((ADDENDUM FROM WITNESS))You stated on your website that you requested more information from me but have recieved no Response. I did indeed send a response on the 20th!Here is a copy of my original response... in case the original was lost.I was sitting outdoors, at a small hamburger restaurant, with a friend. I initially saw what I thought was a small mylar ballon descending behind the sign at the mall we were at. A few moments later I saw the object rising again. At this point I still believed it to be a balloon and watched it as it rose somewhat rapidly to a few hundered feet. At this time I pointed it out to my friend who also saw it. It suddenly stopped very abruptly and just hovered for a few seconds. At this point I realized that it probablywasn't a ballon and was also much farther away then I had originally assumed. The objected seemed to be flickering or reflecting light in a manner that I realized, after a while, was in a regular cyclicpattern. It seemed to then slowly drift upward and to the West. It then shifted direction and started moving a little more rapidly towards the East until it went from our site.There was a (light colored) helicopter in the area a few minutes prior to the event. Having seen thehelicopter a few minutes earlier made it quite clear, by comparison , that whatever we saw was not aconventional craft.The whole event seemed to last about 10-15 minutes in total. I'm very surprised that there aren't morereports about this as it is a very heavily populated area. On top of it all, I'm pretty much a scepticabout these sorts of things so I'm very baffled by the whole experience. I'm an artist by profession and feel that I've got a pretty good eye for discerning the qualities of different objects and can say with a fairamount of certainty that it was not like any conventional aircraft I have ever seen.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44030.html](http://www.nuforc.org/webreports/reports/044/S44030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately indefinite - indefinite minutes.</sub><blockquote><sub>Strange behavior above Denver sky.I have seen these objects hovering over the Denver sky every night since I first noticed them over 3 months ago.  Each one has his/their area but each one moves erratically within that area.  Strange behavior to say the least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127441.html](http://www.nuforc.org/webreports/reports/127/S127441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
