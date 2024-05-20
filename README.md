@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:50 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:02 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black, triangular object sighted during middle of day in large metro area.I had just been to a job fair held inside a large hotel at 46th and Main.  It is situated on the top of a large hill in the center of the city. I walked out the back entrance and was enjoying the weather-clear blue skies and 70 degree warmth-when I noticed what I thought was a stunt kite due to the shape of the object.  I watched it for a few minutes wondering where the individual was who was flying the kite when it tipped over, and became a sliver of black, perpendicular to the ground.  It appeared to circle around the city but was very hard to follow because it was so thin.  I got to my car and tried to drive to where I had last seen it so I could get a view from underneath but I was never able to do so. When I first saw the object it was angling up into the sky.  After it reached a height far above the rooftops, it tipped over.  It was probably as big as my thumbnail with my arm extended.  I couldn't hear a sound and kept thinking that I should hear *something*.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05952.html](http://www.nuforc.org/webreports/reports/005/S05952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A saucer shape object appeared in the air a few hundred yards away and went downwards behind the trees.Driving down 1 26 on the way to open mic in Asheville drivin by Brevard road exit at sunset also looking at the clock noticing it was 8:30 after the event had happened, The benefit of mr kite was playing, and when witness 1 saw something a saucer shaped object with I would say neon lights almost too bright to see, it hovered for a little while and then went diagonally down behind the trees it seemed really close but it was hard to tell it could have been 200 yards or it could have been far away.Witness 1  at first said to witness 2 while drivin in the car, "Hey, that doesn’t look like a normal kind of plane does it?"We both agreed it looked like the stereotypical UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70126.html](http://www.nuforc.org/webreports/reports/070/S70126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
