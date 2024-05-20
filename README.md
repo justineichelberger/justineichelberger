@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Olive Branch (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Flashing light point covers 60° arc of sky on cloudless night in fewer than three seconds.At approximately 22:30 on 5/20/14 I was sitting on my patio facing south looking at a cloudless, star-lit sky.  A flashing light zipped overhead from south to north.  It appeared over a neighbor's rooftop roughly 30° above the horizon.  It disappeared directly over my own rooftop at 90° in fewer than three seconds.  I could have easily mistaken it for a meteor except it was blinking.  It had no time to blink more than two to three times, and had I not been facing in the right direction at the moment it happened, the event would have taken place too quickly to have been even noticed.  Whether it was within or outside the earth's atmosphere, it was traveling at a breathtaking rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109417.html](http://www.nuforc.org/webreports/reports/109/S109417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burlington (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was taking my usual walk down the dike, when I noticed 3 dimond-shaped objects in the sky.Chaning color and shape...I was taking my usual walk down the dike, when I noticed 3 dimond-shaped objects in the sky. They were travling VERY fast and they sometimes changed shape and color. The main color was blue but they were also silverish for a while. The main shape was dimond but sometimes cigar shaped. Seamed to be going up and down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37202.html](http://www.nuforc.org/webreports/reports/037/S37202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
