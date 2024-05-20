@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Olive Branch (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Flashing light point covers 60° arc of sky on cloudless night in fewer than three seconds.At approximately 22:30 on 5/20/14 I was sitting on my patio facing south looking at a cloudless, star-lit sky.  A flashing light zipped overhead from south to north.  It appeared over a neighbor's rooftop roughly 30° above the horizon.  It disappeared directly over my own rooftop at 90° in fewer than three seconds.  I could have easily mistaken it for a meteor except it was blinking.  It had no time to blink more than two to three times, and had I not been facing in the right direction at the moment it happened, the event would have taken place too quickly to have been even noticed.  Whether it was within or outside the earth's atmosphere, it was traveling at a breathtaking rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109417.html](http://www.nuforc.org/webreports/reports/109/S109417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Galveston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i wrote to this site about 1 year ago and did not get a response from you.when i was 10 years old my mom called me and my brother and sister into a bedroom to look into a $50 old telescope to see what appeared to be a ufo. we live on an island and where living 5 blocks from the beach. nothing was in the way of our view. there wasnt any aircraft that flew that course out in the gulf of mexico.no blimps at 2am or any other object that we could have miss understood to be what we saw.when it was my turn to look into the scope i saw what appeared to be a bubble shaped neon blue/purple object. it looked like how a bubble looks in a glass of water. i could see the 3 dimention in the shape. please bare with me. it then changed shapes, colors, patterns and into numbers. it first changed from 3d form to 1d view into a round circle.it then flashed one at a time every color including neons1 per second.after the colors came every pattern there was. triangle,square,octegon ect.then inside the circle flashed the number 1,2,3,4,5 all the way to about 20 then sped up so fast i couldnt count until it stopped at 100. i will always remember. im now 28. i dont know what it was.ive never heard of any ufo doing this. and not a satilite. they move. and if it was a satilite then why colors and patterns? i know that all i saw is universal to human culture. if you have heard of anything like this contact me please. this is not a hoax.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52302.html](http://www.nuforc.org/webreports/reports/052/S52302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
