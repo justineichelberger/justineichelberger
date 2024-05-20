@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Boonsboro (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A large ball of pulsating light with 2 smaller flashes of light shooting out from the sides then disappearing.A large ball of white pulsating light that seemed to change to an orange color was very low to the ground it seemed to be hovering and there was no sound what-so ever.  There were no visual obstructions and no wind.  After watching it for approx 5-6 min there were 2 smaller flashes of light that came from the bottom of it and then would disappear.  The object would hover for a little longer then it would vanish.   This ritual happend 3 times in the course of approx 40 min. Besides myself there were 2 other witnesses. There were various aircraft to be within the vicinity as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75476.html](http://www.nuforc.org/webreports/reports/075/S75476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Drexel Hill (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>May 1971(approximately 1-2am) Clear skies.I was 12 years old when I snuck out of my house and went to a local park. as I walked to the park I witnessed a very large bright craft slowly descending from a cloud.Scared out of my wits and sweaty, I hid behind a log parking barrier.  The craft discharged an orange beam to the area where I was hiding.  Hitting the top of one of the logs I ran away fast as I could.The next morning I went back to where I hid and found a large burn mark on the top of the log were the orange beam struck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152517.html](http://www.nuforc.org/webreports/reports/152/S152517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
