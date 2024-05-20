@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Drexel Hill (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>May 1971(approximately 1-2am) Clear skies.I was 12 years old when I snuck out of my house and went to a local park. as I walked to the park I witnessed a very large bright craft slowly descending from a cloud.Scared out of my wits and sweaty, I hid behind a log parking barrier.  The craft discharged an orange beam to the area where I was hiding.  Hitting the top of one of the logs I ran away fast as I could.The next morning I went back to where I hid and found a large burn mark on the top of the log were the orange beam struck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152517.html](http://www.nuforc.org/webreports/reports/152/S152517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large dark, triangular UFO with three white lights on corners was seen hovering without movement or sound at night near Charlotte, NC.Driver was traveling south in her vehicle on Interstate 77 near intersect of Interstate 485 just north of Charlotte, NC, half way between Charlotte and Huntersville, NC.  At 10:25 pm (22:25 pm) on May 20, 2021. One large triangle shaped smooth/sleek object with three bright white (LED) lights on each corner was seen in the sky at approximately the height from the ground of 3-4 full grown oak trees tall.  It was dark in color (black or dark silver gray) and appeared to have a smooth undersurface, which is what was in view of this driver.  There was no sound and it remained stationary (hovering) in place without movement.  The three corners of the object appeared to be somewhat rounded. (Difficult to determine some details as it was very dark outside.) Reminded driver of the smoothness/sleekness and shape of a Stingray, somewhat sci-fi or "futuristic" in appearance.  The large size of this object appeared to be similar to or slightly larger than a commercial a! irline carrier (Jumbo Jet), only a solid large triangular shape rather than a slender body with wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163323.html](http://www.nuforc.org/webreports/reports/163/S163323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
