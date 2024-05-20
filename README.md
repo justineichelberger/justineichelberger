@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cave Creek (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Disc shaped object blinking lights and hovering in Phoenix Sky.An oval, disc shaped object had blinking lights going around it.  The object hovered in place for 20 minutes at least, as I went inside to get a camera the object had disappeared by time I got back outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109416.html](http://www.nuforc.org/webreports/reports/109/S109416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cartwright (ND) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The aircraft was rectangle in shape and moved very slow with no sound.As I was traveling eastbound on HWY 200, just 3 miles east of the Montana/North Dakota boarder, I looked to the southeast and saw a metalic object.  The object was rectangle in shape.  It was a very sunny day and the sunlight was reflecting from it greatly.  The object was traveling at what appeared to be a slow rate of speed.  It was heading what appeared to be in a east by south east direction.I stopped my vehicle at approximately mile marker 4.5.  I shut my vehicle engine off and rolled my window down.  The object did not make any sound what so ever.I have studied military aircraft all of my life and did not recognize this aircaft at all.  The aircraft eventualy turned south and disappeared. End of Report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55925.html](http://www.nuforc.org/webreports/reports/055/S55925.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
