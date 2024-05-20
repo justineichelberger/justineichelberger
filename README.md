@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:10 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 objects around the Pacific Coast.Hi. We were celebrating kids b day party.  And around 7pm (still was light, very beautiful weather).  We (about 20 people) saw about 6 or 7 flying objects maybe more then 3 miles away from us.  I'm absolutely sure it was not nothing I know or I ever saw before, the same the other people say.  We saw round shape light objects.  Was flying not so fast around the cost of city of long beach.  First object seems as leader, because was as first and was most high, then was a little space and then was other I guess 5 objects behind flying the same speed.  And they were randomly first one high the other one behind was a little under but behind still.  Third one being agaIn different hight.  But all was very close.  And all these object were something like no like light blink but it was more like white bright shine light slowly up and off and just like this they were flying around the coast.  We saw them until one house was in front of us.  Some man record it.  But I can't connect with him.  But I hope I will.  Cuz I don't know him.  I was just watching them with happy feelings ND fear at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134209.html](http://www.nuforc.org/webreports/reports/134/S134209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Azle (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>box kite shaped with cylinder center connecting the two endsMy wife and I had neighbors visiting 05/21/06 appox 10:00 PM.on our front porch.The neighbors son 7yrs old said look a satilite is falling! We all looked up into the star lite sky and seen something very strange, it was moving faster than any aircraft from south to north it was shaped like a box kite, with two squares at each end with a cylinder conneting in the middle. The object had no sound and two diffused lights one light was on the upper box and the other light was on the lower box. It took about 9 seconds to travel all the way across the sky, faster than any of us had ever seen.About 5 minutes later two navel jets flew past in the same direction as the object we had seen.  I came in and called 911 to report the object.  The dispatcher said that she had received a few other calls on this.  The next morning we contacted nbc5 news to see if anyone had reported anything over the north Texas sky.  The lady took my wifes name and number but said nothing had been reported.  I than contacted Alliance airport tower, they gave me the number to the Joint Reserve Naval Air Base approximatly 10 miles from us.   The Reserve Base tower checked their logs from the previous night but would not give me any information but offered to take a report from me which I did.  They said they would get back with me in 3 to 4 days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50651.html](http://www.nuforc.org/webreports/reports/050/S50651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
