@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 19 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hastings (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>big black triangle shaped object lasting 20 seconds or so overhead then gone without any soundMy stepson and I were in the house,I was watching tv and my stepson was in his bathroom. My husband was in the shower in the 2nd bathroom. All of a sudden my stepson and I both heard this low rumble and was getting louder by the minute. We heard this noise for about close to a minute before we both went running outside the front door. We looked up and saw this HUGE black triangle shaped thing go over the treetops right directly over head. There were no lights whatsoever but it was really really big. The noise was like a low roar and lasted maybe about 20-30 seconds. I thought it was an aircraft from the army, like one of those stealth bombers. I have never seen one except on tv but there were no lights anywhere on it. After it went over us it was gone, not one sound. Just like it had vanished into thin air. My husband never heard anything.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43117.html](http://www.nuforc.org/webreports/reports/043/S43117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 objects around the Pacific Coast.Hi. We were celebrating kids b day party.  And around 7pm (still was light, very beautiful weather).  We (about 20 people) saw about 6 or 7 flying objects maybe more then 3 miles away from us.  I'm absolutely sure it was not nothing I know or I ever saw before, the same the other people say.  We saw round shape light objects.  Was flying not so fast around the cost of city of long beach.  First object seems as leader, because was as first and was most high, then was a little space and then was other I guess 5 objects behind flying the same speed.  And they were randomly first one high the other one behind was a little under but behind still.  Third one being agaIn different hight.  But all was very close.  And all these object were something like no like light blink but it was more like white bright shine light slowly up and off and just like this they were flying around the coast.  We saw them until one house was in front of us.  Some man record it.  But I can't connect with him.  But I hope I will.  Cuz I don't know him.  I was just watching them with happy feelings ND fear at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134209.html](http://www.nuforc.org/webreports/reports/134/S134209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
