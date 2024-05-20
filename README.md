@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>slow moving bright light with a trail colors like a prismWent outside to take Dog out,was a clear night.Seen a bright light with colors like a prism.There was a trail of light attached.It moved slow not like a shooting star.It was approx 200 ft above ground it was unlike anything I had ever seen until I seen a picture posted about bright lights in Hawaii on the same night.The one picture looked simular to what I had seen last night.  The light went down a couple blocks away but no noise and abruptly disappeared did not hit ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109385.html](http://www.nuforc.org/webreports/reports/109/S109385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Madisonville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>City wide blackout with strange strobe lightsCounty wide blackout left our neighborhood in city limits pitch black.  Husband and I went outside and saw strobe light flashing of green, red, and white over the tall oaks.  People from all over the county saw something different but all thought it had something to do with something not of this world.  The reports today on SurfKy.com stated something vaguely of an explosion.  It doesn't seem to fit due to the massive amounts of people that were outside at midnight to see (and feel) this.  It felt very uneasy.  The dogs started going berserk in the neighborhood just before the power came back on.   The lights lasted for about 15 of the 45 minutes that the power was out.  Very strange.  If it WAS an explosion, there was no sound and no damage that an "explosion" that could be viewed from all sides of the city would have made.  We are getting lied to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109431.html](http://www.nuforc.org/webreports/reports/109/S109431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
