@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:50 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Madisonville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>City wide blackout with strange strobe lightsCounty wide blackout left our neighborhood in city limits pitch black.  Husband and I went outside and saw strobe light flashing of green, red, and white over the tall oaks.  People from all over the county saw something different but all thought it had something to do with something not of this world.  The reports today on SurfKy.com stated something vaguely of an explosion.  It doesn't seem to fit due to the massive amounts of people that were outside at midnight to see (and feel) this.  It felt very uneasy.  The dogs started going berserk in the neighborhood just before the power came back on.   The lights lasted for about 15 of the 45 minutes that the power was out.  Very strange.  If it WAS an explosion, there was no sound and no damage that an "explosion" that could be viewed from all sides of the city would have made.  We are getting lied to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109431.html](http://www.nuforc.org/webreports/reports/109/S109431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black, triangular object sighted during middle of day in large metro area.I had just been to a job fair held inside a large hotel at 46th and Main.  It is situated on the top of a large hill in the center of the city. I walked out the back entrance and was enjoying the weather-clear blue skies and 70 degree warmth-when I noticed what I thought was a stunt kite due to the shape of the object.  I watched it for a few minutes wondering where the individual was who was flying the kite when it tipped over, and became a sliver of black, perpendicular to the ground.  It appeared to circle around the city but was very hard to follow because it was so thin.  I got to my car and tried to drive to where I had last seen it so I could get a view from underneath but I was never able to do so. When I first saw the object it was angling up into the sky.  After it reached a height far above the rooftops, it tipped over.  It was probably as big as my thumbnail with my arm extended.  I couldn't hear a sound and kept thinking that I should hear *something*.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05952.html](http://www.nuforc.org/webreports/reports/005/S05952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
