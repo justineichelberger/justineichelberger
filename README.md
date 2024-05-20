@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately till sun up - till sun up minutes.</sub><blockquote><sub>very bright, large light hovers in horizon.a very large bright light suddnly appears in sky as we were fishing. it slowly moved upward we were facing east. i took a picture and it shows another craft moving to it. there is no way to explain what we saw in the sky. i would call it the mother ship. i dont understand how nobody else did not see this thing.((NUFORC Note:  The photograph was forwarded to NUFORC.  It does not appear to us to be related to any type of bona fide UFO that we are aware of.  We will attempt to post it in the future.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19302.html](http://www.nuforc.org/webreports/reports/019/S19302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange/Red burning ball sailing in midnight sky5/19/12 going into 5/20/12 at about midnight-Bright orange/red circle, sailing in the dark sky, it sailed in a upside "u" shape slowly enough for picture taking as if it wanted a picture taken and then it disappered into the blackness of the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89078.html](http://www.nuforc.org/webreports/reports/089/S89078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
