@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A saucer shape object appeared in the air a few hundred yards away and went downwards behind the trees.Driving down 1 26 on the way to open mic in Asheville drivin by Brevard road exit at sunset also looking at the clock noticing it was 8:30 after the event had happened, The benefit of mr kite was playing, and when witness 1 saw something a saucer shaped object with I would say neon lights almost too bright to see, it hovered for a little while and then went diagonally down behind the trees it seemed really close but it was hard to tell it could have been 200 yards or it could have been far away.Witness 1  at first said to witness 2 while drivin in the car, "Hey, that doesn’t look like a normal kind of plane does it?"We both agreed it looked like the stereotypical UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70126.html](http://www.nuforc.org/webreports/reports/070/S70126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ricetown (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Third year in a row multiple lights in forest, more witnessesVarious (many) sightings over the past month of multiple lights at night in forest behind home, flying in yard, over house.  Third year in a row, starting usually around 10th of Apr lasting maybe 3 wks, multiple lights weaving in & out of trees in forest.  The lights react to noise, speech.  They will come close to humans.  The lights are usually white/yellow in color but at times are lime green, sometimes red.  When rain appears the lights will rapidly ascend to disappear in sky.  I have not noticed any sounds coming from the objects.  I am not the only witness on my property.  Also, a neighbor with no prior knowledge of my sighting these lights told me of his very similar experience in a nearby farm home he is renovating.  This is a heavily forested area, a ntl forest.  The objects appear brown/gray in color and seem to be the size of a computer mouse or smaller but when passing by my security light do so hastily as if not wanting to be seen for more than their light! .  I believe this is worthy of a closer look as the lights are not shy.  I have not seen propellers, antennae or any other protrudence from The lights.  The lights maneuver with incredible agility amongst the trees and appear to be curious about people. A neighbor claims knowledge of a downed craft/object as reported by a third party. Also I have video but not of good quality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141578.html](http://www.nuforc.org/webreports/reports/141/S141578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
