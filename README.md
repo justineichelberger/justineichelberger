@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large dark, triangular UFO with three white lights on corners was seen hovering without movement or sound at night near Charlotte, NC.Driver was traveling south in her vehicle on Interstate 77 near intersect of Interstate 485 just north of Charlotte, NC, half way between Charlotte and Huntersville, NC.  At 10:25 pm (22:25 pm) on May 20, 2021. One large triangle shaped smooth/sleek object with three bright white (LED) lights on each corner was seen in the sky at approximately the height from the ground of 3-4 full grown oak trees tall.  It was dark in color (black or dark silver gray) and appeared to have a smooth undersurface, which is what was in view of this driver.  There was no sound and it remained stationary (hovering) in place without movement.  The three corners of the object appeared to be somewhat rounded. (Difficult to determine some details as it was very dark outside.) Reminded driver of the smoothness/sleekness and shape of a Stingray, somewhat sci-fi or "futuristic" in appearance.  The large size of this object appeared to be similar to or slightly larger than a commercial a! irline carrier (Jumbo Jet), only a solid large triangular shape rather than a slender body with wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163323.html](http://www.nuforc.org/webreports/reports/163/S163323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A saucer shape object appeared in the air a few hundred yards away and went downwards behind the trees.Driving down 1 26 on the way to open mic in Asheville drivin by Brevard road exit at sunset also looking at the clock noticing it was 8:30 after the event had happened, The benefit of mr kite was playing, and when witness 1 saw something a saucer shaped object with I would say neon lights almost too bright to see, it hovered for a little while and then went diagonally down behind the trees it seemed really close but it was hard to tell it could have been 200 yards or it could have been far away.Witness 1  at first said to witness 2 while drivin in the car, "Hey, that doesn’t look like a normal kind of plane does it?"We both agreed it looked like the stereotypical UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70126.html](http://www.nuforc.org/webreports/reports/070/S70126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
