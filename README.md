@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red craft in loose formation with sweeping lights followed by 2 more craft circling.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have changed the time, to reflect an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127434.html](http://www.nuforc.org/webreports/reports/127/S127434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Olive Branch (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Flashing light point covers 60° arc of sky on cloudless night in fewer than three seconds.At approximately 22:30 on 5/20/14 I was sitting on my patio facing south looking at a cloudless, star-lit sky.  A flashing light zipped overhead from south to north.  It appeared over a neighbor's rooftop roughly 30° above the horizon.  It disappeared directly over my own rooftop at 90° in fewer than three seconds.  I could have easily mistaken it for a meteor except it was blinking.  It had no time to blink more than two to three times, and had I not been facing in the right direction at the moment it happened, the event would have taken place too quickly to have been even noticed.  Whether it was within or outside the earth's atmosphere, it was traveling at a breathtaking rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109417.html](http://www.nuforc.org/webreports/reports/109/S109417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
