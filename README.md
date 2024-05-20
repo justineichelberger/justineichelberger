@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cartwright (ND) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The aircraft was rectangle in shape and moved very slow with no sound.As I was traveling eastbound on HWY 200, just 3 miles east of the Montana/North Dakota boarder, I looked to the southeast and saw a metalic object.  The object was rectangle in shape.  It was a very sunny day and the sunlight was reflecting from it greatly.  The object was traveling at what appeared to be a slow rate of speed.  It was heading what appeared to be in a east by south east direction.I stopped my vehicle at approximately mile marker 4.5.  I shut my vehicle engine off and rolled my window down.  The object did not make any sound what so ever.I have studied military aircraft all of my life and did not recognize this aircaft at all.  The aircraft eventualy turned south and disappeared. End of Report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55925.html](http://www.nuforc.org/webreports/reports/055/S55925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Killeen/Fort Hood (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large round object, maybe a little higher that it was wide. Hovering over  Northeast Fort Hood area (Fort Hood Air Field)On my way home from my Antique Radio shop. I was going toward Killeen city proper on Hwy 195. Object appeared to hover over the North end of Killeen, East end of Fort Hood, basically over the Fort Hood Airfield. It was daylight. Object was large, round, somewhat taller that it was wide. It appeared to be reddish silver, which could have been from the sun's reflection. It appeared to have something like portholes around the upper center of it. I had about a quarter of a mile to go to get home. I turned onto a side street and lost my view because of trees. When I could see the area again, it was gone. I have had three sightings, and all three have been over and around the Fort Hood are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10540.html](http://www.nuforc.org/webreports/reports/010/S10540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
