@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Camarillo (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>A flying saucer with many lights (some colored) was seen from my house at 1:30 AM.This past Monday night, I got off of work pretty late, around midnight, and went home.  I made myself some spagetti, and watched the tonight show for a little while.  I was not very tired because I had alot of coffee after work, and caffine keeps me up, and since I had the next day off, I didn't see any rush to get to bed.  I was just about to head to bed at about 1:30 when I took my cocker spaniel outside to use the bathroom before she went to sleep for the night.  As I go outside, I was looking upp at the sky because the stars are very visable from my house, especially at that time of night.  I saw what seemed to be a round object moving fairly slowly around the sky.  It had bright lights, was definetly brighter than any star or planet.  My dog saw it also, as she started to bark.  I noticed blue and red lights on it as well.  As it was hovering pretty far up, it moved in circles, not straight like an airplane or satalite would, changing directions frequently.  I was amazed and immediatly ran inside to get my husband.  When he came out, at first we couldn't see it, but after another minute or so, it appeared again, and did the same thing, circling around.  We watched it for another five or so minutes, and then it was no where to be found again.  I am sure this was no airplane or anything else of that nature.  It did not make any sound (that which we could hear at least) and did not look like anything I had ever seen.  I did not believe in UFOs until this night, but you can bet I know what I saw, and I believe in them now!((NUFORC Note:  This is one of a flurry of reports we received from Ventura County, CA, following three telephone calls we received on May 18, 2002, from a raucous student party.  The reports seemed to us to be not convincing at the time of the call, a fact which we shared with the callers.  Shortly afterwards, approximately a dozen reports were submitted from that area.  We have no way of confirming any of these reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22977.html](http://www.nuforc.org/webreports/reports/022/S22977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red craft in loose formation with sweeping lights followed by 2 more craft circling.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have changed the time, to reflect an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127434.html](http://www.nuforc.org/webreports/reports/127/S127434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
