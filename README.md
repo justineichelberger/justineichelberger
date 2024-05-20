@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 20 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burlington (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was taking my usual walk down the dike, when I noticed 3 dimond-shaped objects in the sky.Chaning color and shape...I was taking my usual walk down the dike, when I noticed 3 dimond-shaped objects in the sky. They were travling VERY fast and they sometimes changed shape and color. The main color was blue but they were also silverish for a while. The main shape was dimond but sometimes cigar shaped. Seamed to be going up and down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37202.html](http://www.nuforc.org/webreports/reports/037/S37202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cave Creek (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Disc shaped object blinking lights and hovering in Phoenix Sky.An oval, disc shaped object had blinking lights going around it.  The object hovered in place for 20 minutes at least, as I went inside to get a camera the object had disappeared by time I got back outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109416.html](http://www.nuforc.org/webreports/reports/109/S109416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
