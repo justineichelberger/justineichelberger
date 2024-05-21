@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apache Junction (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White round or square box UFO w/silver object along side at times.White round craft 30,000 ft high.  4 times bigger than a jet plane.  No contrails.  Moving North to south ,slowly.  Made turn west and was above clouds watch time 20 min.  Went west above clouds for 10 min.  Came out going west into or above another cloud. 15 min later came out side of cloud and was smaller by 1/2.  Another silver dot was next to it and flue from the east side south and around to the south side and back above clouds.  20 min later.  Came into view and was smaller.  A silver flash of light was next to it.  West of UFO a jet with contrails was at 40,000 ft or more west of it.  Jet was going south and white disk or box went higher and out of sight.  Tried to take a picture but was to high.  Watched with binoculars most of the time.Never moved fast but made tight turns.  At first, thought it was a satellite going north to south but when it made a right turn knew it wasn’t a plane or satellite.  Was too high for helicopter.  I thought it was more box shaped, my wife said it was round.  End…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146162.html](http://www.nuforc.org/webreports/reports/146/S146162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lago Vista (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 23:00 - 23:00 minutes.</sub><blockquote><sub>I AM A 55 YEAR OLD RETIRED, PROFESSIONAL AND WAS IN THE BACKYARD LETTING MY DOGS OUT WHEN I FIRST SAW THE OBJECT.  IT LOOKED LIKE A STAR BUT WAS A DIFFERENT COLOR.  ORIGINALLY, IT WAS A DEEP YELLOW AND THEN BECAME A BIT MORE ORANGE OVER TIME.THE OBJECT APPEARED ROUND IN SHAPE AND WAS PRIMARILY MOTIONLESS FOR OVER AN HOUR, ALTHOUGH IT DID SEEM TO BOUNCE SLIGHTLY AT TIMES.  THEN, IT BEGAN MOVING NORTH ACROSS THE SKY, WELL ABOVE THE HORIZON. IT STOPPED A FEW TIMES, MOVED UP AND DOWN IN AN UNUSUAL MANNER, THEN CONTINUED NORTHWARD.I’VE NEVER SEEN ANYTHING LIKE THIS.  IT DID NOT MOVE AS FAST AS A SHOOTING STAR, OR IN THE SAME MANNER OR DIRECTION THAT A PLANE WOULD.ONCE THE OBJECT STARTED TO MOVE, I WATCHED IT FOR ABOUT 3 MINUTES UNTIL I COULDN’T SEE IT ANYMORE.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible sighting of a "twinkling" star, we wonder.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89124.html](http://www.nuforc.org/webreports/reports/089/S89124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
