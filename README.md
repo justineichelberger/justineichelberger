@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bradley Beach (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>BRADLEY BEACH N.J MAY 21 2009 approximately 9:00 PM. My son and I witnessed Two perfect orange circles moving along side each other, moving  in the direction of  a large Air Plane.The circles were defined the center was not as orange and not  solid as the outer perimeter, they crossed each other twice then went out of site.We were still looking up and saw another like object moving across the sky in the other direction until out of site.The sky was clear we had  100 percent visibility.The moments were  fast & smooth unlike an Air Plane or beam of light.There was no light trail.They did not appear to travel in a downward direction.what are could they have been? THIS SIGHTING LASTED approximately 15 TO 30 SECONDS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70151.html](http://www.nuforc.org/webreports/reports/070/S70151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Kensington (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>saw a golden/orangeish orb on walk.I saw a small golden/orange orb when I was on a walk. It was behaving unlike any normal aircraft.  The way it arced through the sky and faded in and out of sight I knew exactly what I was seeing.  I have actually reported Ufos on this site the last two years matching this exact description.  I noticed a couple post within the last couple weeks matching this description in my general area.  After I quickly realized what I was seeing I said to myself here comes the jets, and sure enough within a couple seconds I heard a jet going in the direction it disappeared to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119090.html](http://www.nuforc.org/webreports/reports/119/S119090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
