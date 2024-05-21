@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>observence of four strange flying shining objects which we could not identify the exact shape because of light surounding themTravelling from US to Canada border, my friend and I have seen flying objects which were just above us. The objects were like laser light and changing shape. they followed us quiete a while and we could see them from the windshield very clearly. My friend being a religous person claimed that they could be angels. The objects appeared to be around 50 meters above us. Those 4 object were seperating and coming back together again. If some kind of flying objects would follow us and take pictures or so, they would fly the same way they did. I have seen the same kind of object previously around September 1983 in Istanbul. The similar object was moving big distances very fast.((NUFORC Note:  The report is reminiscent of four advertising lights in the night sky.  The sighting does not appear to us to be UFO-related.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28196.html](http://www.nuforc.org/webreports/reports/028/S28196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Oxford (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cigar rotating from end toend the size of 2jumboesSeen at 3PM on the first day of eights week on the thames sorry rubbish at this the river was busy first time crowded for months was it wathing us? i saw it vanish into cloud at6 8000 FT it was the width of my thumb at arms length it was lead colour and followed the river it got higher and vanished from view the odd thing it was rotating from end to end in regular fashion one turn every 20secs one side was shiny like polished the other side matt no sound the other witness were amazed i am aviation fan and seen all flying objects explained but not this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56954.html](http://www.nuforc.org/webreports/reports/056/S56954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
