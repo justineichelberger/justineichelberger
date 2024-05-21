@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>There are 2 objects in my photo..I will send it to you if you warrent it.I don't have an email addy to send it to that is the only way I will send it for now...but you are welcome to a copy of it to see if you can explain it  the main obj is in the center of image to the left increase size and scan mountain horizon..the second obj is the large cloud ..on  the left of center obj....it is sitting ion edge of clound in front.((NUFORC Note:  We have requested a copy of the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44164.html](http://www.nuforc.org/webreports/reports/044/S44164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vernon (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A formation of lights breaking the sound barrier and doing odd manuevers.I was awaken by a loud rumble. I assumed a plane may be in distress.  I immediately looked outside and saw what appeared to be the lights of a low flying commercial airliner flying directly toward the Vermont Yankee Nuclear Power Plant, less than 1 mile from our house.  Then, it split into three separate lights, all of red, doing manuevers that airplanes aren't capable of. They all appeared to be breaking the sound barrier.  They continued, after doing manuevers, to travel east toward Hinsdale, NH.  Within minutes, there where several airplanes flying that same direction.  I, as a volunteer firefighter, turned on my radio and listened for an extensive period and never heard any reports of any crashes in our area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70117.html](http://www.nuforc.org/webreports/reports/070/S70117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
