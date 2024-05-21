@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Belton (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>8 Cigar Shaped CraftMy Wife and I were taking our regular walk and heading home when I noticed a large Silver Cigar shaped Object off in the distance heading E/NE towards our location.  I also noticed another object flying parallel to it but at a pretty good distance apart which turned out to be a Grey colored jet.  The object was 4-5 times larger than the Jet as the Jet went almost directly over us and it's altitude was quite high.  As it went past it was Bright Silver due to the sun reflecting off of it.  Not long after that one got out of another Cigar shaped Object appeared heading in the same flight path as the first only there was no jet following this one.  All in all we were able to see a total of 8 of these Objects flying in the same direction but not all were in the exact same flight path as the first 2.  One of the Objects emitted some sort of a trail almost like a chem trail of a Jet but it didn't last long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89111.html](http://www.nuforc.org/webreports/reports/089/S89111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Shiny, white ball flying next to our plane.Approximately 30 minutes into my flight from Columbus, Ohio, to Dallas, Texas, I saw a shiny white ball with an opaque, white "finger" type cloud behind it, connected to the ball, coming toward the plane.  It was very close to us,right in front of the right wing.  Behind it,perpendicular to it and the plane, was what looked like a jet trail that we can see from the ground. (It was dissipating)  The shiny white UFO, for lack of a better discription,"flew" without any fins or propellers.  It flew along side us until we flew too far to see it anymore, its trail dissipating like a jet trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141645.html](http://www.nuforc.org/webreports/reports/141/S141645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
