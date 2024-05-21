@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Oxford (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cigar rotating from end toend the size of 2jumboesSeen at 3PM on the first day of eights week on the thames sorry rubbish at this the river was busy first time crowded for months was it wathing us? i saw it vanish into cloud at6 8000 FT it was the width of my thumb at arms length it was lead colour and followed the river it got higher and vanished from view the odd thing it was rotating from end to end in regular fashion one turn every 20secs one side was shiny like polished the other side matt no sound the other witness were amazed i am aviation fan and seen all flying objects explained but not this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56954.html](http://www.nuforc.org/webreports/reports/056/S56954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two objects small and very fast video proofFuture son in law witnessed the event my security camera records it.  It was 7:15 pm and first one small object came out of the clouds and stops then another comes beside it it makes a sharp right and travels out of sight then the one that stopped shoots a right so fast you don't see it then they both fly through camera view again the second one flying away from camera very fast .note:  recorded at half speed from monitor to ipad.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127745.html](http://www.nuforc.org/webreports/reports/127/S127745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
