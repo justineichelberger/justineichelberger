@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vernon (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A formation of lights breaking the sound barrier and doing odd manuevers.I was awaken by a loud rumble. I assumed a plane may be in distress.  I immediately looked outside and saw what appeared to be the lights of a low flying commercial airliner flying directly toward the Vermont Yankee Nuclear Power Plant, less than 1 mile from our house.  Then, it split into three separate lights, all of red, doing manuevers that airplanes aren't capable of. They all appeared to be breaking the sound barrier.  They continued, after doing manuevers, to travel east toward Hinsdale, NH.  Within minutes, there where several airplanes flying that same direction.  I, as a volunteer firefighter, turned on my radio and listened for an extensive period and never heard any reports of any crashes in our area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70117.html](http://www.nuforc.org/webreports/reports/070/S70117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>observence of four strange flying shining objects which we could not identify the exact shape because of light surounding themTravelling from US to Canada border, my friend and I have seen flying objects which were just above us. The objects were like laser light and changing shape. they followed us quiete a while and we could see them from the windshield very clearly. My friend being a religous person claimed that they could be angels. The objects appeared to be around 50 meters above us. Those 4 object were seperating and coming back together again. If some kind of flying objects would follow us and take pictures or so, they would fly the same way they did. I have seen the same kind of object previously around September 1983 in Istanbul. The similar object was moving big distances very fast.((NUFORC Note:  The report is reminiscent of four advertising lights in the night sky.  The sighting does not appear to us to be UFO-related.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28196.html](http://www.nuforc.org/webreports/reports/028/S28196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
