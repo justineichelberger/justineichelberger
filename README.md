@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:25 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Big Spring (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Purple haze/light in sky at 3 AM and vanished.I was walking my dog, trying to take pictures of him, when he started growling and barking. Startled, I start looking around I then noticed a purple haze in an oval form in the sky.  I was able to take a picture but before I could video it was gone.  This morning I get on Facebook and see a post asking if anyone had seen it, and I posted my picture.  I was then directed to this page.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127436.html](http://www.nuforc.org/webreports/reports/127/S127436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mount Joy (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three amber lights form perfect triangle, and slowly disappear one by one.We had a party earlier in the day, and most of our family was still visiting.  As we were cleaning up the backyard, I looked up into the sky and saw these three bright lights.  I said to my boyfriend, "What is that?"  He didn’t look up just yet, but answered me by saying "Iit’s just a star."I said, "There is no way that is just a star."  He looked up and saw it, and started screaming for other family members to come outside.  As everyone gathered in the backyard we all stood in amazement and watched these three amber colored lights slowly form into a perfect triangle.As they glistened for about two minutes, the one in the right bottom corner started to slowly fade, almost as if it was getting further away from us until it disappeared.  The light on the bottom started slowly getting smaller and smaller until that one was gone.  Then the last light on the very top also faded slowly and within a minute the triangle was gone, into thin air.We couldn’t believe our eyes.  None of us have ever seen anything like it in our entire lives.  My boyfriend and I have always believed that there are other forms of life out there, and this just confirmed it.((NUFORC Note:  We spoke via telephone with this witness, and she sounded quite sincere to us.  We suspect that her report is an accurate portrayal of what was seen.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81508.html](http://www.nuforc.org/webreports/reports/081/S81508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
