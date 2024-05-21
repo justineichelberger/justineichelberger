@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:31 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 Orange Circles Seen Over Ocean in Myrtle BeachWe were staying at Dunes Village. I had taken my grandkids on the beach with flashlights to look for seashells.  They were attempting to catch small fish in edge of surf when I glanced up and saw two orange with varying degrees of yellow and orange globes or circles coming in off the ocean very fast. I started screaming for them to look because it looked as though the objects were coming right at us.  The kids looked but weren’t very concerned but I was scared.  The objects appeared to be right near the shore and then they just disappeared.  I went back to the room and searched on internet to see if anyone else had seen the lights and was surprised to discover that they had been seen for years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141724.html](http://www.nuforc.org/webreports/reports/141/S141724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright Flashing green light over West San Jose Descends and heads south loops and disappearsI was out smoking a cigar tonight at 9:16 PM and I observed a flashing bright green light rising in the horizon at about 280° west and noticed it was climbing and thought it was an airliner.  The light abruptly descended and headed south too fast to be an airliner and did a sharp loop and then disappeared heading away from about 253 degrees West.  The light was only visible for 45 seconds.  I came back into the house and grabbed my compass to check the headings.  I did not hear any noise and it appeared to be at a high altitude.  I was the only witness and hope someone else may have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156639.html](http://www.nuforc.org/webreports/reports/156/S156639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
