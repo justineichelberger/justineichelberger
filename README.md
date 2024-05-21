@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Paradise Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>We saw four UFOs pass over our heads they were moving mostly east and a bit north.  They seemed to be following each other.   Orange circular glows with no other visible shape based on vantage point.   No sound was heard as they passed over.  Sighting did not last long due to our vantage point between buildings.  Eerie experience!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89133.html](http://www.nuforc.org/webreports/reports/089/S89133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>There are 2 objects in my photo..I will send it to you if you warrent it.I don't have an email addy to send it to that is the only way I will send it for now...but you are welcome to a copy of it to see if you can explain it  the main obj is in the center of image to the left increase size and scan mountain horizon..the second obj is the large cloud ..on  the left of center obj....it is sitting ion edge of clound in front.((NUFORC Note:  We have requested a copy of the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44164.html](http://www.nuforc.org/webreports/reports/044/S44164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
