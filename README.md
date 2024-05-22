@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Several white orbs flying in perfect formation for 20 minutesThere were several white light orbs flying in a tight and almost perfect formation across the night sky at low altitude. There was a pattern in which each orb would flash its light in my direction, one at a time. They were flying in a direction and would disappear as more would keep appearing. This went on for close to 20 minutes. There were airplanes close by, sharing the airspace and there is an airport close by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163344.html](http://www.nuforc.org/webreports/reports/163/S163344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spicer (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30 lights flying in a perfect line.  Moving very fast. Moving Northeast.((NUFORC Note:  We suspect that the date is incorrect, and should be 05/24/2019.  We will contact the source to confirm.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146356.html](http://www.nuforc.org/webreports/reports/146/S146356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
