@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 yellow lights((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97811.html](http://www.nuforc.org/webreports/reports/097/S97811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in In flight () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unexplained glowing sphere in-flight en-route to LAXA glowing sphere just above the horizon was visible.  The object grew larger and duller as we flew past the lower right hand edge but the edge of the sphere glowed continuously.  I have been an airline pilot for 22 years and never seen anything like this before.  We have a photograph and video but it is extremely hard to see in the photo and invisible in the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97928.html](http://www.nuforc.org/webreports/reports/097/S97928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
