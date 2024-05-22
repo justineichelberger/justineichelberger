@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spicer (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30 lights flying in a perfect line.  Moving very fast. Moving Northeast.((NUFORC Note:  We suspect that the date is incorrect, and should be 05/24/2019.  We will contact the source to confirm.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146356.html](http://www.nuforc.org/webreports/reports/146/S146356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Alexander City (GA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bluish, pink, silent, very fast moving objects over Lake Martin.Two half circle, maybe chevrons, flew overhead at a very high rate of speed. While overhead, the objects had a bluish white hugh and a very pink center. Again, they were only overhead for a brief moment. They moved very fast. There was no sound. The two objects flew close together. One object was slightly in front of the other. Both objects maintained the same altitude and vector until they reached a group of objects in the distance. In the distance the objects all look liked stars. A line of stars much like the Starlink. But, they appeared to rotate around something. The group stayed in the distance for maybe 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163456.html](http://www.nuforc.org/webreports/reports/163/S163456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
