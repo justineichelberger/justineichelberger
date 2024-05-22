@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Troy (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Some kind of light, coming from the ground up, illuminated the entire sky to a mellow shade of green... The entire sky.I was driving to work this morning, and keep in mind, I take this way to the freeway almost every morning at the same exact time, and I’ve never seen anything like this.  Also, I live sort of in the country, there’s not a lot of activity around this time, and it remains relatively dark out.  So, as I was passing this small intersection thing, I looked down at my phone, and about a second after I looked up, there was this green light that illuminated the entire sky in that direction.  There was a lot of precipitation in the air, so it wasn’t as bright as it would have been without it.  I thought I was imagining it for a second, it looked like it shot from the ground up and when I say the entire sky was a mellow shade of green, I mean THE ENTIRE SKY was green.  And after about 3-4 seconds, maybe longer, the light shrank back down, and looking in my rear view, it didn’t happen again.  Normally, I’d brush something like this off, but about two years prior, in the same general area that I was driving past, I had been out for a walk.  I took a wrong turn down this trail (keep in mind, it was about 3 or 4 in the morning, I was walking thru the woods and I had my phone flashlight to help guide me a little bit), and about ten feet down this trail, I had woods on one side of me, and an open field on the other and in the field, I noticed (you know how when you shine a flashlight on an animals eyes they illuminate a shade of orange or red?) my flashlight illuminated two orangey eyeballs.  I knew it wasn’t a normal animal because it was TALL and it sent chills up my entire body.  And you know when you make accidental eye contact with someone or something, you feel it?  I felt it alright.  I backed away slowly until I got to the main trail and started sprinting home.  The point of backing up rather than immediately running away was to ensure that I wasn’t being followed.  Now, the thing that confirmed my eerie feelings, was once I hit the road, I looked up at the sky, saw a white flash of light slightly grow and then quickly shrink, disappearing completely.  It felt like something out of a movie.  Since then, I haven’t been on any more night walks.  I wish I had pictures because I feel absolutely insane trying to explain this with no physical evidence.  But as I experience things, my first thought is never to take a picture, it’s always either panic, or “WHAT IN GOD'S NAME WAS THAT THING?”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146137.html](http://www.nuforc.org/webreports/reports/146/S146137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Brighton (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Evenly spaced stars moving west to east across sky.A series of stars, in a perfectly spaced linear alignment, crossed the sky from west to east as viewed from our neighborhood. I am not sure if these were satellites, however, I have never seen these before. My husband also saw these.  They lined up perfectly, like buttons on a sideways sweater, and travelled at the same pace.  Weird. There may have been about 8 to ten.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163356.html](http://www.nuforc.org/webreports/reports/163/S163356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
