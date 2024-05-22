@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:43 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Warwick (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Four Glowing Orange Lightsitting in my back yard i was alerted by my wife who first saw the lights. i and another witness moved to the front yard and i took out my phone and started to record. we then noticed a second set of lights following the first. they did not look like any aircraft i had ever seen before. they were glowing maybe slightly pulsating lights. i thought maybe i heard a jet type engine but if i did it was very faint.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163375.html](http://www.nuforc.org/webreports/reports/163/S163375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Giant Orange OrbMy husband woke me at 3:11am told me come outside. He and our daughter were having a snack in the kitchen and noticed a bright orange light to the southwest. We went outside and at first it was disk shaped but it turned out to be obscured by clouds. It was actually a GIANT ORANGE GLOBE. I MEAN GIANT.  It was bright bright orange but, the color was swirling and changing. There was a light that light was spinning horizontally. There was no physical craft, just light. The clouds were moving around it but it was stationary from our angle.  It eventually looked like it was moving away from us a disappeared to the west. This took 10 seconds. We watched for a total of 10 min. It was huge. I bet you can find a security camera that caught it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163359.html](http://www.nuforc.org/webreports/reports/163/S163359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
