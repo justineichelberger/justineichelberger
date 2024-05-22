@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lebanon (IL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighted high flying Cylinder UFO with split contrail.On the way back from fishing at Washington County on Highway 64, I saw a cylinder UFO flying fast enough to leave a contrail. The time was about 6:45 PM. The contrail was split in two pieces so I thought it had to be a plane, but I could see no wings, tail or engine. It was quite long and appeared to be just under the high stratus clouds. It was silver in color and appeared to have structure, but I saw no markings. My wife was with me, but I did not point it out to her as it was straight up and would have interfered with her driving. We were approaching O’Fallon and were probably nearest to Lebanon.((NUFORC Note:  We spoke briefly with this witness, and we found him to be sincere and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28932.html](http://www.nuforc.org/webreports/reports/028/S28932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lyons Bald Mountain  Full Description of event/sighting: Sitting out on back porch facing ENE. To the NE, constellation Cassiopeia just rising above mountain. Saw what I thought were two stars just to the left of the constellation when one went down below the mountain. I told my brother I saw something go down and I told him it was to the left of the other star next to Cassiopeia. As I watched, the other "star" began to drop as well. It was almost yellow compared to the real stars and just before it went behind the mountain, it turned red. Got a feeling of dread that made me almost sick to my stomach when it changed color. Sighting lasted no more than a couple of minutes. The feeling of malevolence lasted a bit longer. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37114.html](http://www.nuforc.org/webreports/reports/037/S37114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
