@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Light' over a period of approximately still going on. its now 1 - still going on. its now 1 minutes.</sub><blockquote><sub>Unidentified Light circling housesIt looks like a light blue light.  At first we thought that it was a raid light or a government light, but it seems to be staying over a few houses.  It is contineously circling a few houses.((NUFORC Note:  Witness elects to remain totally anonymous.  We assume the source implies an evening sighting, not a morning sighting, so we have amended the time above to 22:00 hrs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44076.html](http://www.nuforc.org/webreports/reports/044/S44076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Several white orbs flying in perfect formation for 20 minutesThere were several white light orbs flying in a tight and almost perfect formation across the night sky at low altitude. There was a pattern in which each orb would flash its light in my direction, one at a time. They were flying in a direction and would disappear as more would keep appearing. This went on for close to 20 minutes. There were airplanes close by, sharing the airspace and there is an airport close by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163344.html](http://www.nuforc.org/webreports/reports/163/S163344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
