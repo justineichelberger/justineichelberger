@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 21 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lago Vista (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 23:00 - 23:00 minutes.</sub><blockquote><sub>I AM A 55 YEAR OLD RETIRED, PROFESSIONAL AND WAS IN THE BACKYARD LETTING MY DOGS OUT WHEN I FIRST SAW THE OBJECT.  IT LOOKED LIKE A STAR BUT WAS A DIFFERENT COLOR.  ORIGINALLY, IT WAS A DEEP YELLOW AND THEN BECAME A BIT MORE ORANGE OVER TIME.THE OBJECT APPEARED ROUND IN SHAPE AND WAS PRIMARILY MOTIONLESS FOR OVER AN HOUR, ALTHOUGH IT DID SEEM TO BOUNCE SLIGHTLY AT TIMES.  THEN, IT BEGAN MOVING NORTH ACROSS THE SKY, WELL ABOVE THE HORIZON. IT STOPPED A FEW TIMES, MOVED UP AND DOWN IN AN UNUSUAL MANNER, THEN CONTINUED NORTHWARD.I’VE NEVER SEEN ANYTHING LIKE THIS.  IT DID NOT MOVE AS FAST AS A SHOOTING STAR, OR IN THE SAME MANNER OR DIRECTION THAT A PLANE WOULD.ONCE THE OBJECT STARTED TO MOVE, I WATCHED IT FOR ABOUT 3 MINUTES UNTIL I COULDN’T SEE IT ANYMORE.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible sighting of a "twinkling" star, we wonder.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89124.html](http://www.nuforc.org/webreports/reports/089/S89124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bolingbrook (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My husband and I were sitting outside when I noticed lights, that looked like stars, moving in a straight line formation spaced out evenly like in a parade line. Was about 50 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163353.html](http://www.nuforc.org/webreports/reports/163/S163353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
