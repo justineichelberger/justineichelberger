@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Greenwater (4 Miles east of) (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>((NUFORC Note:  This object was photographed by an astronomical camera in Woodinville, WA.))Looking ESE towards Naches Pass while stargazing on a ridge above Greenwater, I saw a very bright and quick meteor-type trail, immediately followed by a bright but silent flash, seemingly just behind the next mountain over.  I was the only one to see the trail, though my dad saw the flash.My dad, uncle (both MUFON members) and I were stargazing the night of 22 May.  We were roughly 4 miles east of Greenwater, Washington on what on the maps is called Huckleberry Mountain, at about 3500 feet. From this vantage point we could see from due east (over some mtns. covering lower 20 deg. of sky) to the NW.  The three of us were regularly looking in different directions.  At 23:15, I was looking to the ESE roughly 45 deg. up, when just below this a very bright meteor- like streak quickly shot nearly straight down (to horizon).  I'm not sure if I saw it from start to finish, but it seemed to only begin 10-20 deg. above the horizon to begin with.  What made this event worth mentioning was the immediate 'explosion' after I lost sight of the streak behind a ridge.  I say explosion because it really lit up that part of the sky, enough so that my dad, who was looking in another direction, noticed it as well. Unfortunately my uncle was looking behind us, and did not see any of this.  To me it seemed that this explosion was a double flash, although this did occur in less than a second.  This immediately got all of our attention, and we were silent for a period afterwards in case we could hear a sound from the event, but we never heard anything. After discussing it, we decided that this event was most likely a meteor which either burnt up just before hitting the ground, or perhaps a meteorite which landed in or beyond the Cascades.  The only caveat to this explanation was that I have seen many meteors, though no 'bolides', and this was not the brightest I've seen.  I have heard accounts of bolides which actually left a trail, etc., and this did not occur. As for more exact locations and directions, we were located 47 deg 8' N, 121 deg. 34' W, and the flash and explosion occured at a direction of roughly 90-100 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07881.html](http://www.nuforc.org/webreports/reports/007/S07881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pike Creek (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright Round White Light with Flashing Red or Orange light.Intensely Bright Round Object that seemed to be hovering and rotating.  Intermittent blinking red or orange light (similar to flash rate of a beacon)  No noise produced.  I initially thought it was an Ultralight or a Drone, but no propeller noise or engine noise was present.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119097.html](http://www.nuforc.org/webreports/reports/119/S119097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
