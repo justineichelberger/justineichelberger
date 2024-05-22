@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pike Creek (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright Round White Light with Flashing Red or Orange light.Intensely Bright Round Object that seemed to be hovering and rotating.  Intermittent blinking red or orange light (similar to flash rate of a beacon)  No noise produced.  I initially thought it was an Ultralight or a Drone, but no propeller noise or engine noise was present.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119097.html](http://www.nuforc.org/webreports/reports/119/S119097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Carmel Valley (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC:  The following report was caused by the launch of a Titan IV missile from Vandenberg AFB in California.  Please see other reports for this date and time.  By all accounts, the launch was a very dramatic aerial event, seen from many hundreds of miles away from the groundtrack of the missile.))Rectangular object spotted in sky. Soon after intial sighting two other objects floated down and away from the main object. Then all three disappeared.While driving down Carmel Valley Road, I peered up into the sky and noticed the bright orange retectangular object high  in the sky. We pulled over to observe the strange coincidence. The rectangular object became long and skinny with a white bottom and an orange top. When the object regained it's original shape the were two smaller objects floating down. It almost seemed as if the three objects had an aura around it. Then a few minutes later the main object then  retracted to a smaller shape and kind of came in and out of focus, eventually disappearing along with the two other objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07868.html](http://www.nuforc.org/webreports/reports/007/S07868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
