@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Brighton (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Evenly spaced stars moving west to east across sky.A series of stars, in a perfectly spaced linear alignment, crossed the sky from west to east as viewed from our neighborhood. I am not sure if these were satellites, however, I have never seen these before. My husband also saw these.  They lined up perfectly, like buttons on a sideways sweater, and travelled at the same pace.  Weird. There may have been about 8 to ten.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163356.html](http://www.nuforc.org/webreports/reports/163/S163356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>At about 11:30 pm , I was sitting in my chair on the deck outside relaxing and watching the sky .   When all of a sudden to the right of me , I saw a bright light moving in a south easterly direction .    An airplane was was coming in for a landing at the airport, when the light began to fade out and I saw a large outline of a large round shadow moving away from where the shadow and light had come from. the lights from the landing lights lit up the corner of the craft and I saw the side of a round side of the craft then it just disappeared  into the dark and the stars were coming out from behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77150.html](http://www.nuforc.org/webreports/reports/077/S77150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
