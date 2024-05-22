@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lyons Bald Mountain  Full Description of event/sighting: Sitting out on back porch facing ENE. To the NE, constellation Cassiopeia just rising above mountain. Saw what I thought were two stars just to the left of the constellation when one went down below the mountain. I told my brother I saw something go down and I told him it was to the left of the other star next to Cassiopeia. As I watched, the other "star" began to drop as well. It was almost yellow compared to the real stars and just before it went behind the mountain, it turned red. Got a feeling of dread that made me almost sick to my stomach when it changed color. Sighting lasted no more than a couple of minutes. The feeling of malevolence lasted a bit longer. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37114.html](http://www.nuforc.org/webreports/reports/037/S37114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Little Chute (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Bright white light moving from north west to south east. Near the Big Dipper constellation.  The Light disappeared after it went past the big dipper.  The light was moving at a high rate of speed.  It vanished after about 40 seconds.  The Light seemed to be leaving the Earths Atmosphere. It looked very similar to a star that moves in my best description.  This did  not look like a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75587.html](http://www.nuforc.org/webreports/reports/075/S75587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
