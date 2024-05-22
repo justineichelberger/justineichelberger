@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Giant Orange OrbMy husband woke me at 3:11am told me come outside. He and our daughter were having a snack in the kitchen and noticed a bright orange light to the southwest. We went outside and at first it was disk shaped but it turned out to be obscured by clouds. It was actually a GIANT ORANGE GLOBE. I MEAN GIANT.  It was bright bright orange but, the color was swirling and changing. There was a light that light was spinning horizontally. There was no physical craft, just light. The clouds were moving around it but it was stationary from our angle.  It eventually looked like it was moving away from us a disappeared to the west. This took 10 seconds. We watched for a total of 10 min. It was huge. I bet you can find a security camera that caught it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163359.html](http://www.nuforc.org/webreports/reports/163/S163359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lebanon (IL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighted high flying Cylinder UFO with split contrail.On the way back from fishing at Washington County on Highway 64, I saw a cylinder UFO flying fast enough to leave a contrail. The time was about 6:45 PM. The contrail was split in two pieces so I thought it had to be a plane, but I could see no wings, tail or engine. It was quite long and appeared to be just under the high stratus clouds. It was silver in color and appeared to have structure, but I saw no markings. My wife was with me, but I did not point it out to her as it was straight up and would have interfered with her driving. We were approaching O’Fallon and were probably nearest to Lebanon.((NUFORC Note:  We spoke briefly with this witness, and we found him to be sincere and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28932.html](http://www.nuforc.org/webreports/reports/028/S28932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
