@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>Brite lights moving in sequence in triangular formation various size with no lighting other than being very brightOne fast moving white light in clear sky no clouds. No flashing lights and no colors.  5 minutes later, 4 more in rectangular formation heading same direction but one very small and traveling faster until reaching one of the others then traveling at same speed as others.  Kind of eratic flying not staying in perfectly straight line but moving fast and high with no trails or sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89128.html](http://www.nuforc.org/webreports/reports/089/S89128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bolingbrook (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My husband and I were sitting outside when I noticed lights, that looked like stars, moving in a straight line formation spaced out evenly like in a parade line. Was about 50 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163353.html](http://www.nuforc.org/webreports/reports/163/S163353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
