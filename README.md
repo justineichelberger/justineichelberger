@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Golden Lake (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two Red/Orange lights Golden Lake May LongWas having a fire with friends on the north east side of Golden Lake.  We noticed some lightning far to the west.  Shortly after that I saw a red/orange light on the lake’s South West horizon.  I pointed it out to friends.  At that time it looked like it could have been a plane far in the horizon.  Several minutes later we all saw another light appear (same colour).  Within 30 seconds I had the feeling that we were not seeing regular planes.  I grew up beside an airport and my dad flew his own plane.  What I was seeing did not behave the way two aircraft would have.First, the lights were too big to be strobes, and their colour looked too orange.  Furthermore, the lights looked like they were wavy (not solid point). although this wavy effect could have been atmospheric effect.Second, what struck me as odd was how within a minute, both lights came so close together.  If they were in fact far away and high altitude, their convergent paths would require great speeds.  However, if the lights had been closer to us and lower down, it would have been equally strange for the lower object to ascend the way it did. almost straight up.  Simply put, they were moving too fast and too strangely to be aircraft.  In fact, one of the objects looked like it made a few jerky movements (almost like fast zig zags).  Then, they both faded out.  It was hard to tell if they went into the clouds or not; I suspect they did.The clouds cleared for a brief period shortly after the sighting (moonlight improved visibility).  It was at that time that we could estimate the cloud cover that had previously been over the sighting; I’d say at least 7000 feet.I know there is a military base in the area so who knows.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81522.html](http://www.nuforc.org/webreports/reports/081/S81522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Black, three dimensional, diamond shaped object which remained perfectly still for an hour and exhibited a faint orange glow around itLooking into the Eastern sky over the Atlatic ocean, I observed a three-dimensional diamond shaped object having the appearance similar to a lantern.  The object was black in clor and remained perfectly still in the sky.  There was no movement what-so-ever, not even wind movement.  When the sun came up completely, the object then appeared to have a faint orange circular glow around it that was not visible prior, or in the picture I took.  I was unable to observe it for longer than an hour.  However it was still there when I left my house.  When I returned home in the afternoon, it was not longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44092.html](http://www.nuforc.org/webreports/reports/044/S44092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
