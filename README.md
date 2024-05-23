@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Moulton (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A light proceeded across the sky from south to north i did not observe any thing to set it apart from an airplaneI was outside smoking a cigerette and was looking for jupiter then i noticed a light going south to north at about a 45 to 60 degree angle up inthe sky.the light proceded at a constant speed and i did not observe any flashing lights like a plane becon.the light proceeded across the sky for about 2 to 3 min and then just dissappeared.the iss is not due to fly over this region for another week</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50694.html](http://www.nuforc.org/webreports/reports/050/S50694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brandon (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At 11pm eastern time, i was driving west on compton road in brandon florida.  as i approached a stop sign i looked into the distance and saw 5 lights in a row in the sky.  they were about 10-15 miles away, they were a whitish yellow color with a dark center.  my best friend was in the car with me at the time and saw the same exact thing. the middle light was the largest and began to flicker then proceded to jolt twords the sky as it dimmed out. about 30 seconds later the other 4 light which were smaller in appearance did the exact same thing. i asked around my area if anyone else saw it and the response was no. i know what i saw it has stuck with me for years. Im a member of the ((deleted--military)) and a ((deleted--college)) student.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82333.html](http://www.nuforc.org/webreports/reports/082/S82333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
