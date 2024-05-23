@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tunapuna (Trinidad/Tobago) (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Clear sky, metallic looking,spinning gliding disc,fast unnatural movements,recurrent in areaHello, I would like to at least inform you that this occurred in the Caribbean. The object has appeared in the area 3 times in total within 2months April and May. There are two witnesses me and my mother, she saw it first. Describing it as a small doughnut shaped object black looking in color. I told her if she is sure of what she saw it seemed very small, so I asked her maybe if it was high up, she said as high as the vultures, which I assume is far, we have many vultures flying around in the area.  About 2weeks later I saw it for myself, as I explained it to her I was like ok I think iam seeing it.  We both ran out to observe, it was slightly lower as she said it seemed bigger. It glided very slowly, I decided to tail it on the road and as I did this it sped up.  So did I, it eventually turned vertically on its side and began wheeling itself up into the sky until it vanished out of sight. After that it took about 1week to appear later again, each time it appea! red it came earlier at first it was maybe around four then around 2 the last time about 11:35.We remember this one the best, it came out from the sky, this was the first time we saw where it came from. In the direction where it appeared I believe what they call a rainbow cloud is where we saw it coming from. IT came very close to where we were, about 20 feet away where I was able to tell every detail. It was disc shaped and it was not black, just metallic. Up close it spun like a top while still moving and it reflected the colors from all around it, the sky, the car, the roof, everything. I screamed from outside at my dad to get his camera because I refused to move, it bolted straight up into the sky at an incredible speed. Since this last encounter it never returned or at least it doesn’t show itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92240.html](http://www.nuforc.org/webreports/reports/092/S92240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Moab (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>What I saw was I large fire ball going across the sky. I was there for about 5 minutes then vanished behind a cloud.I was on a camping trip with my school.  My frind and I were looking up at the sky when we saw a fire ball going across the sky.  I have no clue how fast or big it was but it was amazing.  It was red, yellow, black, and orange.  It went behind a cloud for a few seconds then came back out. It had a tail about twice the size of it.  It made no sound at all and had a haze around it.  My frind and I called over someone else to see it but by the time he looked up it went behind anoughter cloud.  We looked up for about five minutes but it never came out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08133.html](http://www.nuforc.org/webreports/reports/008/S08133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
