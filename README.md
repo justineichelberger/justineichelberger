@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Bright white sphereWhile letting dogs out before bed saw an extremely bright white 'star' like object. It was moving slowly in the west about 8000ft. It was in the flight path of two very high flying jets. Watched it moving WNW for about six seconds and it just flickered off like a light switch. Could not have been meteor, too slow.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50704.html](http://www.nuforc.org/webreports/reports/050/S50704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>ufo sighting in Vancouver WashingtonObject was still for about 20 minutes then moved very quickly up and down and side to side then dissapeared for about 3-5 minutes then reapeared then moved toward the south extremely fast untill we lost sight. weather conditions clear skies.Have excellent video of object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70173.html](http://www.nuforc.org/webreports/reports/070/S70173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
