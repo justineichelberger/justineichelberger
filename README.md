@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Youngsville (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Viewed 3 reds lights in perfect and even spaced triangular formation in northern sky; no noise!I was on the back patio grilling dinner around 19:30 on Friday 23 May 14.Being a pilot by trade, I notice in the east northeast sky a set of 3 red lights formed in a triangle.  The formation looked perfect flying, equal spacing.The formation was moving in a northern direction slowly and without any noise.Only red lights and not aircraft position lights (red on left, green on right, white on rear)  Eventfully flew away and faded into the night sky, not fast moving!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109794.html](http://www.nuforc.org/webreports/reports/109/S109794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red flying globesCity of Maricopa, AZ  At approximately 7:55 PM of May 23rd 2012, local Arizona time, driving back home from the local Wal-Mart,  I noticed 2 flying red balls/globes flying 100 to 150 feet above my residential subdivision of Glenn Wylde just 1 block away from my residence .  As I noticed the 2 flying globes, I pulled over immediately, got out of my car and observed this event in more detail. The flying red globes made a 90 degree turn from southeast heading to a northeast at approximately 25 to 30 miles per hour flight speed at a complete silence. They were probably as big as a large car and I noticed that their flight was at a controlled manner due to the fact that the second globe was following the first with the same distance all the time. I witnessed this event for approximately 30 to 45 seconds.  I snapped a picture of one of the flying globes with my phone’s camera.After that I got back in my car and drove about 100 feet around the corner to get to my residence’s street when I noticed another red flying globe, but this time they were 3 red flying balls/globes with the same path as the other 2, heading northeast, approximately 100 to 150 feet above the ground at the same speed as the other earlier 2 red globes, same size at a complete silence like the other 2. I pulled over immediately, got out of my car and recorded a video of the event.  I then drove to my residence and pulled in my driveway. I proceeded to my house to tell my wife what I have witnessed and recorded,  then I proceeded back out front to get the groceries out of my car and I noticed another flying red globe, same size, flying slowly 100 to 150 feet above ground and  heading  the same northeast path  as the previous 5 red globes. I rushed into my house to tell my wife and we ran through my house to get to my backyard. We got outside and both of us witnessed this red flyi! ng globe at a very slow control flight over my backyard heading the same direction as the previous 5.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89174.html](http://www.nuforc.org/webreports/reports/089/S89174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
