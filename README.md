@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:20 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Berkeley (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Spotted at noon in Berkeley, Ca. as a light in Eastern sky, that stopped for a brief period, changed course and disappeared into the clOn May 23, 2007 at approx 12:09 PM., in Berkeley Ca... I was sitting in line to enter the Berkeley dumps, when I saw a plastic bag, that the wind had picked up and was floating in the air. With nothing else to do , I watched this bag floating for approx. one minute. This was in a Easternly direction.That's when I noticed a small metallic object quite a distance away, moving very fast. I have no idea of it's distance. At first I thought it was a satellite, because it seemed very small compaired to an airplane. It also appeared to be shinny, as if the sun was reflecting off of it. I watched it for about 15 seconds.Suddenly, it appeared to stop for about 5 seconds. That's when it really got my attention. Then it made a 35 degree right hand turn, and seemed to have slowed down. I reached for my digital camera and snapped a photo in the general area. This is photo # 440. I could not see the object in this first photo. When I looked again for the object, I lost sight of it. After about 30 seconds, I saw it again, and snapped another photo. Bingo...This would be photo # 441. That's when the dump guy signaled me to drive ahead onto the weigh-in scale, and my encounter was over. I have never witnessed any sightings before and have no idea, of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56913.html](http://www.nuforc.org/webreports/reports/056/S56913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Algonac (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball over canal, changed directions and eventually split into 3 lights forming triangle.In the sky not too high up over one of the canals...what looked to be a ball of fire,  Orange and yellow in color, no sound.  Moved slowly south, then shifted direction west. Couldn't have been too far from the ground and just lifted. Stayed in the sky for about 5 minutes, maybe more.  Got smaller which I'm guessing was going higher up, and split into 3 lights, forming a triangle... orange lights.  It floated for another minute I'd say before It dimmed in and out, then to just disappear. 8 witnesses.  Maybe a few more across the canal who were in their back yard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75520.html](http://www.nuforc.org/webreports/reports/075/S75520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
