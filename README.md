@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:50 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:20 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sutton West (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Very bright light streaking across the sky faster than a plane can fly. Then stopped for a couple second. Then went back and forth short distances in a zig zag pattern. I lost sight of it when I went to get my camera..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156676.html](http://www.nuforc.org/webreports/reports/156/S156676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Berkeley (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Spotted at noon in Berkeley, Ca. as a light in Eastern sky, that stopped for a brief period, changed course and disappeared into the clOn May 23, 2007 at approx 12:09 PM., in Berkeley Ca... I was sitting in line to enter the Berkeley dumps, when I saw a plastic bag, that the wind had picked up and was floating in the air. With nothing else to do , I watched this bag floating for approx. one minute. This was in a Easternly direction.That's when I noticed a small metallic object quite a distance away, moving very fast. I have no idea of it's distance. At first I thought it was a satellite, because it seemed very small compaired to an airplane. It also appeared to be shinny, as if the sun was reflecting off of it. I watched it for about 15 seconds.Suddenly, it appeared to stop for about 5 seconds. That's when it really got my attention. Then it made a 35 degree right hand turn, and seemed to have slowed down. I reached for my digital camera and snapped a photo in the general area. This is photo # 440. I could not see the object in this first photo. When I looked again for the object, I lost sight of it. After about 30 seconds, I saw it again, and snapped another photo. Bingo...This would be photo # 441. That's when the dump guy signaled me to drive ahead onto the weigh-in scale, and my encounter was over. I have never witnessed any sightings before and have no idea, of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56913.html](http://www.nuforc.org/webreports/reports/056/S56913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
