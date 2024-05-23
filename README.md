@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South Kortright (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1 HR. - 1 HR. minutes.</sub><blockquote><sub>Crippled an at the bottom of our lakeOK, first of all Im not a person who  believed that I would  see an anactual UFO.  I cant even prove the event.  What I saw made the hair on the back of my neck stand up an I must admit I was afraid.  We, like alot of the country, have been experiencing bad weather on this evening. All of a sudden ligthtning struck some object in the sky and I watched something zig zag back an forth and land in our small lake.  Well the lightening was very bad an I had to wait until it calmed down to go out an look. I saw a series of lights an what apeared to be a small craft object in the water.  I admit I was fearfull to get too close an went back in the house when the storm picked up again. Later again that night I went out to check on it an nothing was their.  I really believe it sank an I been thinking of getting a snorkel an mask an diving down an look for it I truly believe they drowned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81614.html](http://www.nuforc.org/webreports/reports/081/S81614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 156</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163698.html](http://www.nuforc.org/webreports/reports/163/S163698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
