@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Black, three dimensional, diamond shaped object which remained perfectly still for an hour and exhibited a faint orange glow around itLooking into the Eastern sky over the Atlatic ocean, I observed a three-dimensional diamond shaped object having the appearance similar to a lantern.  The object was black in clor and remained perfectly still in the sky.  There was no movement what-so-ever, not even wind movement.  When the sun came up completely, the object then appeared to have a faint orange circular glow around it that was not visible prior, or in the picture I took.  I was unable to observe it for longer than an hour.  However it was still there when I left my house.  When I returned home in the afternoon, it was not longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44092.html](http://www.nuforc.org/webreports/reports/044/S44092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Youngsville (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Viewed 3 reds lights in perfect and even spaced triangular formation in northern sky; no noise!I was on the back patio grilling dinner around 19:30 on Friday 23 May 14.Being a pilot by trade, I notice in the east northeast sky a set of 3 red lights formed in a triangle.  The formation looked perfect flying, equal spacing.The formation was moving in a northern direction slowly and without any noise.Only red lights and not aircraft position lights (red on left, green on right, white on rear)  Eventfully flew away and faded into the night sky, not fast moving!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109794.html](http://www.nuforc.org/webreports/reports/109/S109794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
