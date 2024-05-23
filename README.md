@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 22 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 23 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>At about 11:30 pm , I was sitting in my chair on the deck outside relaxing and watching the sky .   When all of a sudden to the right of me , I saw a bright light moving in a south easterly direction .    An airplane was was coming in for a landing at the airport, when the light began to fade out and I saw a large outline of a large round shadow moving away from where the shadow and light had come from. the lights from the landing lights lit up the corner of the craft and I saw the side of a round side of the craft then it just disappeared  into the dark and the stars were coming out from behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77150.html](http://www.nuforc.org/webreports/reports/077/S77150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Allenhurst (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>oval  shape lightOUTSIDE ON STEPS, I LOOKED UP AND A LIGHT APPEARED, FROM INWARD TO OUTWARD TO FORM A OVAL SHAPE, THAT  LASTED  ABOUT 4 SECONDS.  THE OBJECT WAS ALMOST ABOVE ME.  THE LIGHT WAS  A  SOFT BRIGHT WHITE COLOR WITH ALMOST  A HINT OF BLUE. I WATCHED THE OBJECT UNTIL IT WAS OUT OF OUT OF EYE RANGE,WHICH TOOK ABOUT 3 sec.  I ALSO NOTICED 2 JETS FLYING LOW WITH AFTERBURNERS ON.  TWO MONTHS LATER I SAW A ORANGE LIGHT  RIGHT ABOVE ME GROW FROM SMALL TO BIG  AND THEN SMALL AGAIN, WHILE MOVING SLOW AND  LOW.  IT WAS ALMOST  9:00 PM.  AFTER THAT  INCIDENT  I WAS AWAKEN BY A STRANGE SOUND, IT WAS A SMALL PLANE (CESNA) WITH  A BLUE,GREEN AND  YELLOW LIGHT FLYING LOW TURNING ON  AND  OFF LIGHTS IN DIFFERENT PATTERNS (IT WAS 12:30 am) strange..((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58725.html](http://www.nuforc.org/webreports/reports/058/S58725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
