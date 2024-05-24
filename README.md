@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Volcano (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A UFO was seen over Hawaii near the Mauna Kea Observatories.I am an inactive licensed private airplane pilot with fair vision. I have studied aviation weather and am an amateur astronomer. I was walking on Jade Ave. in Volcano, Hawaii at approximately 19:35. I saw what appeared to be a classic disc shaped UFO hovering between Mauna Loa and Mauna Kea. My vision is not the best and this could have been a lenticular cloud. The sun had set and the sky was clear. There was just one UFO and the color appeared to be gray. The event lasted perhaps five minutes. I have seen strange objects which appear to be shooting stars (space junk?) on a few times before over that area.There are a military base, and astronomical observatories in that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44114.html](http://www.nuforc.org/webreports/reports/044/S44114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carrier Mills (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing colored light in sky disappears.I was in my car with 2 others on the way to town.  Someone said that they thought they could see Mars so we all loooked out of the windows and opened the sunroof.  When we opened the sunroof we all saw something in the sky that was moving fast and changing colors.  I was about to turn and we decided to follow it.  We lost it behind a tree for a second and then it was gone.  I saw it change from red to orange to green to purple.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89195.html](http://www.nuforc.org/webreports/reports/089/S89195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
