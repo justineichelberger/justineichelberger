@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Canton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light bulb shaped craftOne craft was observed.  It was shaped like a light bulb, tapered at one end, and was orange and yellow in color.  It emitted no sound, did not touch down, and was visible for approximately 1 to 1.5 minutes before flying north. Unknown background of observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119148.html](http://www.nuforc.org/webreports/reports/119/S119148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Hayward (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Hayward, Wisconsin UFO Sighting in 1966.It's still clear in my mind, even though it happened over 50 years ago.  It was the evening of May the 24h, 1966, in Hayward, Wisconsin.  I was outside the house near the lake, scanning with my telescope and standing in the little open area in the grove of trees where I docked my little fishing boat.  It was about a quarter of 10.  Then, I had that feeling we all get sometimes, that something is watching you.I looked up, and there it was, a flying saucer.  It was just above the treetops, maybe a hundred feet across and twenty-five feet or so high.  It was silvery white in color with a reddish circle of lights around the center.  It made no sound.  It was not swamp gas, I've seen that before.  It moved out over the lawn and hovered in the open near the house.  The reddish lights began blinking and shining on the ground, my telescope, my boat, and the house; it reminded me of a camera taking flashbulb photos.I also remember feeling I was in no immediate danger.  In any event, I was transfixed on the spaceship.  At that moment, the object began to slowly rise up and gain speed.  It then accelerated  and raced into the stars, it was out of sight and was what would have been thousands of miles beyond the moon and the farthest stars I could make out in a manner of seconds.I rushed into the house to tell my mother what I had seen, and the news was on.  There were reports of sightings by others in the area, and in several areas in Minnesota and the Midwest.  So, I wasn't alone in seeing something that was quite obviously out of the ordinary.  Other than my mother, I never told anyone about it until years later, family and a few friends.Something that happened a few months later, on November 18, 1966, made me believe that something might be going on we don't have all the details to explain.  A military plane mysteriously crashed nearby.  Some friends of mine and I went to the site even though it was off limits and saw hunks of metal skewered into trees, an obvious area where the plane had sheared off trees as it plummeted to earth and the like.  I had the feeling that it was looking for something that day, maybe another UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143420.html](http://www.nuforc.org/webreports/reports/143/S143420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
