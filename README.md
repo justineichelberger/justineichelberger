@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:06 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mason City (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Hovered from east stopped went north 1..  then 3 minute 2. and 3rd one 3 minutes saw me..oval fire color</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109681.html](http://www.nuforc.org/webreports/reports/109/S109681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Brentwood (TN) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Young boy (14 yrs.), mother, & friend witness large, white obj., size of moon fly almost overhead</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00516.html](http://www.nuforc.org/webreports/reports/000/S00516.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
