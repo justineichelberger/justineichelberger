@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:45 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Amery (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Quite Bright light traveling at a high rate of speed.  Light went a distance that we could see.  The light turned red then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70180.html](http://www.nuforc.org/webreports/reports/070/S70180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Volcano (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A UFO was seen over Hawaii near the Mauna Kea Observatories.I am an inactive licensed private airplane pilot with fair vision. I have studied aviation weather and am an amateur astronomer. I was walking on Jade Ave. in Volcano, Hawaii at approximately 19:35. I saw what appeared to be a classic disc shaped UFO hovering between Mauna Loa and Mauna Kea. My vision is not the best and this could have been a lenticular cloud. The sun had set and the sky was clear. There was just one UFO and the color appeared to be gray. The event lasted perhaps five minutes. I have seen strange objects which appear to be shooting stars (space junk?) on a few times before over that area.There are a military base, and astronomical observatories in that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44114.html](http://www.nuforc.org/webreports/reports/044/S44114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
