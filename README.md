@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:42 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kahului (HI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw an UFO drop down from sky and hu Hover in sky for several minutes.  Then it flood lighted me with super bright light.  Then two smaller lights ejected downward off from the right side of the UFO to earth.  A fee minutes after a final smaller light exited from below the UFO to Earth.  Then the UFO lights dimmed and it flew horizontally behind mountain and no longer could be seen.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146722.html](http://www.nuforc.org/webreports/reports/146/S146722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saranac Lake (at local resort) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A shiny oval in the skyI went outside to sit the sun, following a few brief rain showers and while looking up at the cloud's edge to west, I saw a small shiny oval dashing about. The closer it came to me overhead, the neighbor's dog began to bark.  This oval went from west to east to south to north and then disappeared from sight going to the southwest.  I noticed a faint halo, like a force field around this object and as it got closer to the sun, a metallic like shine could also be seen.  Its speed was tremendous and its ability to turn and twist in different directions was astonishing.  It was completely silent and about the size of a jet airliner and probably about in same altitude as a jet airliner.  If I were categorize the object I just observed, I'd say that it is exactly identical to the objects filmed in the 1950 Great Falls, Montana, film, but more oval in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109656.html](http://www.nuforc.org/webreports/reports/109/S109656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
