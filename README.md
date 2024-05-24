@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was on the Sandy beach at 0745 and had noticed something flying over me and as I looked I saw that there were 7 sliver spheres half seemed small and the other half of the spheres were large,they were vertical to each other.  I couldn't get the size of them but they seemed to be traveling fast I'd say something around 400 hundred miles an hour.but the clouds were going fast from east to west from Molokai to Oahu and the spheres were traveling from north to south.  But then all at the same time and when no clouds were near them they just disappeared then after a few seconds they reappeared and then again gone then very clearly reappeared .  I'd guess altitude was 4to5 k ft,I was 82nd and jumped for years sport jumping as well so I think I know altitudes.then 5 min.1 more came into view and this one was small same direction.then I saw a friend who I told and he didn't say much,then again this time 3 more ,same direction all small then gone into the clouds. I tol! d my friend "look there 3 of them right there" but he said he had bad eyes.  just like turning the off switch of there cloaking device twice and then left it on.cool.I can't stop watching the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75589.html](http://www.nuforc.org/webreports/reports/075/S75589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Armstrong (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>String of lights drifting over Okanagan night sky.Clear night sky, 5 Kilometers outside of a small town, so no light pollution.  I walked outside from a friend's place, after playing board games, looked up at the sky and noticed a set of 4 or 5 lights, no brighter than the stars around it, drifting across the sky, heading East.  They were in a row (straight line) and if you held your hand up to the sky and spread your thumb and pointer finger 2 inches from each other, that's how long it was.  I went back in to the house and got the other 2 people inside to come out, we watched it drift across the sky for 2-3 minutes, unable to come up with an explanation.  It eventually went over the nearest mountain range.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146260.html](http://www.nuforc.org/webreports/reports/146/S146260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
