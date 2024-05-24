@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Pacoima (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SOMETHING  RIGHT AT MY WINDOW!!!!I WAS ABOUT 6 YEARS OLD AT THE TIME. I SHARED A BEDROOM WITH MY OLDER BROTHER; HE WAS 14 YEARS AT THE TIME. I WOKE UP IN THE MIDDLE OF THE NIGHT, FOR SOME STRANGE REASON. I LOOK OUT THE WINDOW ABOVE MY BROTHERS BED AND SAW THIS HEAD AND BODY HOVERING LIKE SUPERMAN. I STOOD THERE STIFF; ALL I CAN SEE WAS BIG BLACK EYES AND A LARGE HEAD. THIS THING WAS WAVEING AT ME! NOW I NEVER KNOW WHAT THIS THING LOOKED LIKE, BUT WHEN I SAW PICTURES OF IT I KNEW WHAT IS WAS, EXACTLY WHAT I SAW. I JUMPED OFF THE BED, GOT BACK INTO MY OWN. I YELLED AT MY BROTHER TO WAKE UP, AND I SAID LOOK AT THE WINDOW. AND HE DID AND HE STARED AT IT FOR 45 SECONDS, AND HE GOT SCARED AND TRIED TO WAKE UP MY DAD. MY DAD SAID GO BACK ASLEEP IT PROBLY A CAT. MY BROTHER AND ME WERE SCARED WE SLEPT IN OUR PARENTS ROOM FOR THE NIGHT. NOW ME AND MY BROTHER NEVER TALKED ABOUT IT SINCE, UNTIL TEN YEARS AFTER, I ASKED HIM ABOUT A HE TURN WHITE AND A FEW MINUTES LATER HE LOOK AT ME AND WAVED THE SAME WAY THAT THING I SAW. AND I GOT SCARED BECAUSE THE NIGHT WHEN IT HAPPED, I NEVER TOLD HIM IT WAS WAVING AT ME! SEE I THOUGH SINCE I WAS SO YOUNG, I WAS SEEING THINGS. BUT MY OLDER BROTHER SAW IT TOO. DESCRIPTION OF THE BEING: ABOUT 4 FEET LONG, THIN, GREY SKIN, LONG FINGERS BIG HEAD AND EYES, AND LOOKED CLAMMY.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33079.html](http://www.nuforc.org/webreports/reports/033/S33079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was having a campfire party and me and other witnesses saw 6-8 lights moving in a single line across the northern sky.  I saw them meet up with another light on the eastern horizon that reacted to them.  This other light was at rest in front of them then moved behind them and shortly after they all disappeared either from being too far in the horizon or something else.  The line of lights is substantiated by other people. The light they met up with them that reacted to them seems to only have been fully seen by me and maybe my close friend.They were no odd shape or color.  They all appeared as stars would in the night sky.((NUFORC Note:  Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146259.html](http://www.nuforc.org/webreports/reports/146/S146259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
