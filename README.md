@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:06 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:54 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Brentwood (TN) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Young boy (14 yrs.), mother, & friend witness large, white obj., size of moon fly almost overhead</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00516.html](http://www.nuforc.org/webreports/reports/000/S00516.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Albany (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>There were 8 red dots above the Flint River.Last night I went to the store with my roommate.  As we were leaving I looked toward the Flint River.  In the sky were 8 red dots in the formation of the Big Dipper but upside down. The lights were slightly blinking.  As I watched all but one of the lights started moving, all in different directions.  As the lights moved one by one they disappeared. The last sight of it I had there were three dots left, two moving and one stationary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109682.html](http://www.nuforc.org/webreports/reports/109/S109682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
