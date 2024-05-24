@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pennellville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright circular object spotted in Pennellville,NY  - 5/24/09 10:00PMI happened to be walking to my girlfriend to her car for the night when I glanced to the sky and saw a bright white object moving very fast across the sky. I could hear no sound, the light was constant, and  it had no trail behind it. She left and I proceeded to watch for roughly 2minutes as the object went across the sky and went out of view behind some pine trees. The object was bigger than any of the stars that were in the sky. Two Planes were spotted after with single flashing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70177.html](http://www.nuforc.org/webreports/reports/070/S70177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large bright long light sitting on Pacific Ocean's horizon off coast of Carlsbad, southern California.6:30am Tuesday, May 24th, 2016... Our backyard looks west towards the Pacific Ocean where we can see San Clemente Island, and just north of that is Catalina Island.  We noticed this very bright long light sitting on the ocean horizon.  At first thought it was the Sun's reflection, but that would be impossible for the Sun's location at that time.  Then thought it may have been a cruise ship, but have never seen one out there before, plus on closer look, through binoculars, we couldn't see any body of structure, just either one long bright light, or big lights close together looking as one.  The lights were stationary.  No movement, no flashing, no noise. nothing.  Just stationary, perched on the water's horizon.  My wife and I watched it for about 5 mins, then went inside.  About 5 mins later I went to check on it and it had completely gone... I have a photo on my cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127488.html](http://www.nuforc.org/webreports/reports/127/S127488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
