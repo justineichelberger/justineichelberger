@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carrier Mills (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing colored light in sky disappears.I was in my car with 2 others on the way to town.  Someone said that they thought they could see Mars so we all loooked out of the windows and opened the sunroof.  When we opened the sunroof we all saw something in the sky that was moving fast and changing colors.  I was about to turn and we decided to follow it.  We lost it behind a tree for a second and then it was gone.  I saw it change from red to orange to green to purple.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89195.html](http://www.nuforc.org/webreports/reports/089/S89195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Canton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light bulb shaped craftOne craft was observed.  It was shaped like a light bulb, tapered at one end, and was orange and yellow in color.  It emitted no sound, did not touch down, and was visible for approximately 1 to 1.5 minutes before flying north. Unknown background of observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119148.html](http://www.nuforc.org/webreports/reports/119/S119148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
