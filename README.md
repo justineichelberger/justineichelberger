@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 24 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Holiday Hills (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>object in sky falls from sky stops for 30 - 40 seconds , illuminates then flies back up to starslate night fishing with my girlfriend and 1 other friend began at 1245 am , clear sky , lots of stars , friend thought he saw 2 shooting stars between 1245 and 300 am , around 330 my girlfriend saw a something moving around with movements only that can be compared to a hummingbird star bound , all three of us observed , object came down rapidly i thought it was a asteroid or meteor coming down right on us i began to run , object stopped and illuminated a blueish, white light it was the shape of a guitar pick , object was back star bound within 60 seconds observed others moving around 6- 8</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75866.html](http://www.nuforc.org/webreports/reports/075/S75866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Melaka (Malaysia) () reported seeing craft that fit the description of some 'Light' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>a light that drifted moving downwards then hovered in the sky and flashed an orange light like a signal.i was in the car with a friend waiting at a traffic light.i looked up and at first i thought it was a star,then it moved,like drifted downwards,then the light stopped and just hovered,it had a halo around it,it looked a bit like a saucer shape but i am not sure as it was so far away,then it flased an orange light for a second,it kept hovering.Then i did'nt see anymore as the traffic light changed and we had to leave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28942.html](http://www.nuforc.org/webreports/reports/028/S28942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
