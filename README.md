@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:50 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in University Place (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We witnessed orange red orbs approximately 500 to 1,000 feet in the air Spaced 30 yards apart all on the same flight plan orbiting for several 1,000 feet  They were moving in a westwardly direction one after another and then disappeared  Any others who witnessed these?((NUFORC Note:  Location of sighting is an estimate.  Source of report did not indicate a location, except for a ZIP code.  Witness elects to remain anonymous; provides no contact information, even thought he/she requests a response from NUFORC.  Possible hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110017.html](http://www.nuforc.org/webreports/reports/110/S110017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Leonard Wood (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Circular lights in sky over Fort Leonard Wood, MOI was walking with my girlfriend to my house, when we stopped for a moment.  We both were looking at the night sky, and she pointed to the southwest of us, and that's when she said "Spaceship!" and we both saw two "flames" (emitting a bright orange-red glow) in a perfect circles, from what looked to us, usual cruising altitude for normal jets, except, at that altitude, they are never that large. They both looked to be about 96 feet wide, and about 128 feet apart.  The one on the left disappeared, in what could be described as a dissolving manner, and the second one did the same about 1 second after. That was the end of that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75535.html](http://www.nuforc.org/webreports/reports/075/S75535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
