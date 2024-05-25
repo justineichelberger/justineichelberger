@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This is the second sighting of the exact same nature.Reddish-orange circular object outlined by elo heading north to south.  It was traveling at a decent rate of speed and then slowed down for 20 seconds as it went over our airport here it went vertical and out of sight no more lights.  There was no such thing flashing it was a constant light until it went vertical out of sight.  I called the airport sheriff and he said he saw nothing and gave me the phone number to the tower and nobody at the Tower answer the phone.  This is my second fighting of an object like this.  The first one was the size of a moon and was probably 40 miles away.  The one thing I can't explain and I find interesting is that when I sleep I hear high pitched Morse code in my ears.   I know you said you don't read anything that is a joke or a hoax I know this is crazy to most but the cold in my ears has gone on for years before I started to have sightings.  I would like to know if you have gathered any other information that coincides with this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109782.html](http://www.nuforc.org/webreports/reports/109/S109782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Cross' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright green and red lights.Bright green lights and one red blinking light.  Object moved towards me swiftly at helicopter height then abruptly stopped to change direction to its right. Then proceeded on in a spiral motion and disappeared behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109721.html](http://www.nuforc.org/webreports/reports/109/S109721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
