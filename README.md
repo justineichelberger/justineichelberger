@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bloomington (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Band of UFO's flying across the night sky.Many UFO's spotted flying from South SW to North NE in a straight line. 100+ white dots with no tail or trail were less concentrated and even few and far between at the head and tail.  Very concentrated in a perfectly straight band all the same size and luminosity.  We could not determine the distance of items and there was no breaking or burning noticed as they flew across the entire sky.  Took about 2 minutes to fly across they sky.  This was right over the Mall of America.  My dad and I were mesmerized by the objects as they looked like a fleet.  The last few objects were noticed to be following far behind but were traveling the exact same speed as the rest of the objects.  I have a picture of this but it's not high quality.((NUFORC Note:  Possible sighting of cluster of Space Link satellites??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146336.html](http://www.nuforc.org/webreports/reports/146/S146336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Paulsbo (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>It was submarine shaped only with sharper rectangular edges defining its exterior. Did not have an intake openingWitness was enjoying the beautiful orange cast of a colorful sunset, upon the landscape in his rural yard, including dense trees. The treeline starts 200 to 400 yards away. He was seated on his deck facing east. A quiet time since there is very little traffic on his road and the birds were settling in for night. A fast moving object caught his eye above the trees headed directly west into the sun. It was a beautiful brown metallic structure. The intensity of sunlight made it shine and revealed shadows indicating layers of metal. It was submarine shaped only with sharper rectangular edges defining its exterior. It did not have an intake opening for jet a engine. It did not have a propeller. It made no noise. Silent and fast. He did not have time to grab a camera. His cellphone was in the house as he liked to enjoy nature without electronics. Just prior to this siting a bald eagle flew directly over the open part of the yard heading northeast almost at eye lev! el since their house is on an elevated part of the property. The navel base at Keyport, WA was lowering their flag just prior to the sighting. (MUFON CMS 94857)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149984.html](http://www.nuforc.org/webreports/reports/149/S149984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
