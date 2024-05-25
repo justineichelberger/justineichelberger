@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:18 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:50 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Carriere (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Line of horizontal lights flying through the sky at a high rate of speedI was sitting outside and caught a horizontal line of lights in the sky moving at a high rate of speed and did not make a sound. The sighting only lasted a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156665.html](http://www.nuforc.org/webreports/reports/156/S156665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in University Place (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We witnessed orange red orbs approximately 500 to 1,000 feet in the air Spaced 30 yards apart all on the same flight plan orbiting for several 1,000 feet  They were moving in a westwardly direction one after another and then disappeared  Any others who witnessed these?((NUFORC Note:  Location of sighting is an estimate.  Source of report did not indicate a location, except for a ZIP code.  Witness elects to remain anonymous; provides no contact information, even thought he/she requests a response from NUFORC.  Possible hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110017.html](http://www.nuforc.org/webreports/reports/110/S110017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
