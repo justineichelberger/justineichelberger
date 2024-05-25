@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Paulsbo (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>It was submarine shaped only with sharper rectangular edges defining its exterior. Did not have an intake openingWitness was enjoying the beautiful orange cast of a colorful sunset, upon the landscape in his rural yard, including dense trees. The treeline starts 200 to 400 yards away. He was seated on his deck facing east. A quiet time since there is very little traffic on his road and the birds were settling in for night. A fast moving object caught his eye above the trees headed directly west into the sun. It was a beautiful brown metallic structure. The intensity of sunlight made it shine and revealed shadows indicating layers of metal. It was submarine shaped only with sharper rectangular edges defining its exterior. It did not have an intake opening for jet a engine. It did not have a propeller. It made no noise. Silent and fast. He did not have time to grab a camera. His cellphone was in the house as he liked to enjoy nature without electronics. Just prior to this siting a bald eagle flew directly over the open part of the yard heading northeast almost at eye lev! el since their house is on an elevated part of the property. The navel base at Keyport, WA was lowering their flag just prior to the sighting. (MUFON CMS 94857)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149984.html](http://www.nuforc.org/webreports/reports/149/S149984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in South Fallsburg (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sitting on bench at golf course, looking up I saw round dark grey object not moving in the sky at cloud level. 4 times I looked down then back up and object was still there.Object left unbelievably fast, a vapor trail or  cloud,  trailing the  path of object was left. I know what I saw.In 1960 I was 5 years old . My Grandparents owned a Hotel in South Fallsburg NY. The experiences I remembered after seeing this object 30 years later is scary. My mother can verify that I was missing 1 night, and everyone at the Hotel was looking for me. I was omly 5, but I now remember.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11789.html](http://www.nuforc.org/webreports/reports/011/S11789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
