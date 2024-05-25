@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Otsego (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At approximately 12:10 a strait string of lights 10 or more With two close at the tail end brilliant moved across the sky And than just vanished((NUFORC Note:  Possible sighting of cluster of Space Link satellites??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146349.html](http://www.nuforc.org/webreports/reports/146/S146349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Morrison (CO) reported seeing craft that fit the description of some 'Egg' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Small red and black object seen flying over Red Rocks Park near Morrison, Colorado.While hiking on the Dakota Ridge east of Red Rocks & Matthews/Winters Park, a small flying object was observed at 8:20P.M., just minutes after sunset.  The object was flying southward down the valley above state highway 26 from I-70 toward the town of Morrison.  The object was glossy red on top and black underneath, about three feet long & two feet high.  In shape and color it looked vaguely like a giant ladybug flying without it's wings.  The object was roughly at eye-level when observed from the hiking trail on Dakota Ridge, flying about 150-200 feet above the valley floor.The object was silent and flew at a constant speed of roughly 30MPH, perfectly straight and perfectly level, covering a distance of more than a mile while observed.  Despite erratic breezes, the object moved in an absolutely rock-steady manner with no shifting around or any changes in speed, direction or altitude.   Although breezes were generally blowing in the same direction that the object was moving, the wind's direction was erratic and it's intensity was inconstant during observation.  The object seemed to be moving at a speed and in a manner that the ambient wind conditions would not have allowed if it were free-floating.My first impression upon seeing the object after my companion pointed it out was that it was a small flying device of some kind.  The possibility that it was a balloon was discussed but rejected -- the object's motion was unnaturally constant, level and steady.  The object was observed for one or two minutes until it was lost in the distance against the backdrop o</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23019.html](http://www.nuforc.org/webreports/reports/023/S23019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
