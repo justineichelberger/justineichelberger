@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hazelwood (MO) reported seeing craft that fit the description of some 'Cross' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular "T"-shaped object observed in St. Louis County.Without the aid of binoculars it appeared as an orb of light that changed colors.  It flew in view from left to right, up and down, rotated or spun at random, as well as sat in one place. When observing it with binoculars it was a triangular shape made up of three light bars.  It appeared to have a "T" shape to it. The center section was white, and the sides where red and green. There was nothing that could be seen that connected the light bars together.  When observed with the naked eye it appeared to be an orb and had a glow or haze that changed color, once seen through binoculars it had a distinct shape made of the three bars of light without glow/haze.  The bars of light did not change color. It was observed by my girlfriend and I for about ten to twelve minutes.  I have 4 videos taken via cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98126.html](http://www.nuforc.org/webreports/reports/098/S98126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dothan (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A Light againThis is the same craft seen in my earlier report for 5/24/2004, and was in roughly the same location, though the amount of activity was much less than on the previous night.  I intend to bring in a telescope, hoping that it will be repeated again tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37162.html](http://www.nuforc.org/webreports/reports/037/S37162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
