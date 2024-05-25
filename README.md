@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in South Fallsburg (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sitting on bench at golf course, looking up I saw round dark grey object not moving in the sky at cloud level. 4 times I looked down then back up and object was still there.Object left unbelievably fast, a vapor trail or  cloud,  trailing the  path of object was left. I know what I saw.In 1960 I was 5 years old . My Grandparents owned a Hotel in South Fallsburg NY. The experiences I remembered after seeing this object 30 years later is scary. My mother can verify that I was missing 1 night, and everyone at the Hotel was looking for me. I was omly 5, but I now remember.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11789.html](http://www.nuforc.org/webreports/reports/011/S11789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright star-like light eratically  flashing on and off  over phoenix, not behaving like conventional craft, no soundat around 9:30 or 10:00 pm while swimming the backstroke in my pool I observed an eratically behaving light disappearing and reapearing in different areas of the sky. It was the size of a very bright star (like venus) it caught my eye and seemed to move a little than disapeared and reapeared  in a different area of the sky flashing back into view with different intensity each time  ...no noise or sound, but the object was very high altitude  ...very strange.((NUFORC Note--Anonymous report.  We would like to hear from anyone else who may have witnessed this event.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12957.html](http://www.nuforc.org/webreports/reports/012/S12957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
