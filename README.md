@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:46 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:46 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I witnessed a black shape-shifting black mass in the sky .At 7:45 ((p.m.)) eastern time I witnessed a black shape-shifting black mass in the sky traveling in a gentle southeast to northwest direction approximately 2 miles south of the indiana/michigan border between Niles, Michigan and South Bend, Indiana. I watched this phenomenon for at least 20 minutes before it was obscured by moving clouds.  I saw several jets go by and the speed of this black shape-shifting mass seemed to be at the same altitude but move very slowly. I attributed it to some extremely high flying bird formation but it seemed very unusual. On November 16th 1999, I observed a low flying fireball over New Carlisle, Indiana and you were kind enough to let me know something about it.  I still had the email and your address. I am an amateur sky-watcher and I never seem to have any photography equipment when I see these things. Has anybody else seen this and is there an explanation? Thanks in advance for your response .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44130.html](http://www.nuforc.org/webreports/reports/044/S44130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 solid red circular lights silently hovering and slowly moving eastward in a line formationWhile driving home, we all saw 4 silently hovering and moving slowly eastward red solid lights in a line formation.  Three of them were in a row while the fourth lagged a little below and to the left.  One  vehicle occupant attempted to take a photo, but it came out poorly since the car was in motion.We lost sight as We turned on a street, trees were in the way.The lights were solid red, silent, and no strobes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109731.html](http://www.nuforc.org/webreports/reports/109/S109731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
