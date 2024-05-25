@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:46 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 solid red circular lights silently hovering and slowly moving eastward in a line formationWhile driving home, we all saw 4 silently hovering and moving slowly eastward red solid lights in a line formation.  Three of them were in a row while the fourth lagged a little below and to the left.  One  vehicle occupant attempted to take a photo, but it came out poorly since the car was in motion.We lost sight as We turned on a street, trees were in the way.The lights were solid red, silent, and no strobes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109731.html](http://www.nuforc.org/webreports/reports/109/S109731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sisseton (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Line of 30 lights in a lineOn the above date and time I was outside burning trash.  I got inside my car and started it to warm up as it was cold outside.  I live in the country about 4 miles from town. I stepped outside my car to smoke.  I looked up and noticed at least 30 lights about the brightness of a a satellite all moving in a straight line heading in a northeast direction, more east than north.  Each light was single equal distance apart from each other about 6 inches long at arms length moving single file in a straight line.  I thought I was looking at something burning up in our atmosphere but each light was a single point of light with no trail behind it.  Then each light got bright like an iridium flare then went back to normal. Each light was a single point of light.  They each got bright for a few seconds dimmed and kept moving in a straight line.  After observing for about 15 seconds they all went dim with the last light lighting up bright like an iridium flare and all of them going dark.  My neighbors cows all started mooing loudly during this event.  Night sky was clear, cold, no wind.((NUFORC Note:  Satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146283.html](http://www.nuforc.org/webreports/reports/146/S146283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
