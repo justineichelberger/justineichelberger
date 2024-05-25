@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Cross' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright green and red lights.Bright green lights and one red blinking light.  Object moved towards me swiftly at helicopter height then abruptly stopped to change direction to its right. Then proceeded on in a spiral motion and disappeared behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109721.html](http://www.nuforc.org/webreports/reports/109/S109721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Purcell (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>A small round object moved across sky from southeast to northwest at high velocity without vapor trail no noise at a altitude lower than other observed commercial aircraft and at much greater speed in straight line.  Three other aircraft in same view simultaneously.   First time reporting.  Live near tinker afb.  Not in line with any flight patterns ever observed.  I am a 50 y/o resident of central oklahoma, Mcclain county.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98108.html](http://www.nuforc.org/webreports/reports/098/S98108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
