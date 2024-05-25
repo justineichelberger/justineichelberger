@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wikieup/Kingman (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Around 3:30 hours, a bright flash of light ascended, as it ascended the intensity of the light grew until it was very bright, then vanished. This was spotted before Wikieup heading south from Las Vegas, Nevada.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70190.html](http://www.nuforc.org/webreports/reports/070/S70190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Clearfork (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately UFO - UFO minutes.</sub><blockquote><sub>Bright Orange Ball in the skyI was Driveing on my way back home after dropping off my Aunt. Something that was quite larger and rounder than a star" about the size of a baseball" Caught my eye in the sky. It was Bright Orange and it paused in the sky for just a second and shot out extremly fast then I couldn't see it no more. It scared me to death!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28967.html](http://www.nuforc.org/webreports/reports/028/S28967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
