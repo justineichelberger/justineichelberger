@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:18 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Clarion (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Football sized craft passed over my home in 1992It was the night of my prom and very dark out. I just went inside to get changed and go out to the car that was waiting for me. I came back out and I was just getting into the car when I noticed a lot of wind blowing around a very big tree that we had in the front yard.  I happened to glance upward when I saw something about the size of a football field moving very very slowly about 100 ft above the tree line.  It had lights that blinked and some that didnt change or blink.  I remember that I was frozen in my place I couldnt even speak.  I finally got my bearings and ran into the house to tell my mom about my sighting and franticly yell for a camera.  I was in the house for a matter of like 10 seconds and ran back out to look up and it moved clear across the sky but I could still see it moving about like I would have to guess 1 mile away and up the same distance from the treeline that I had seen it in the first place.  All I could think was INCREDIBLE, it moved that amount of distance in a matter of seconds.  I spent the night telling my friends about what I had seen and them not believing me.  It was when we were listening to the radio that night that when the announcer mentioned the object in the sky and asking anyone that had seen it to call the station.  I kept telling my friends that THAT was what I saw!  It is so very vivid in my head...I close my eyes and still see the craft and how it didnt make any noice when it moved over my house.  It made a ton of wind to make my huge tree just rock and sway all over the place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44605.html](http://www.nuforc.org/webreports/reports/044/S44605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Carriere (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Line of horizontal lights flying through the sky at a high rate of speedI was sitting outside and caught a horizontal line of lights in the sky moving at a high rate of speed and did not make a sound. The sighting only lasted a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156665.html](http://www.nuforc.org/webreports/reports/156/S156665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
