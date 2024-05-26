@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Foothill Ranch (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>One squashed-oval object.   Colour= burnt-orange, rimmed in a fuzzy neon light blue.   Size= 3 or 4 large stars put together.My dog was cowering about my feet; a usual situation when there is wind or storm present. I went outside to check the area. There were no stars visable, as the sky was overcast and misty. There was hardly even a breeze. I, then, saw a squashed-oval object - burnt orange, rimmed in a fuzzy neon light blue, in the upper half of the Southern sky. I thought that it was just a pretty star, robed in mist, until I realized that it was much too big, and moving away. It was about the size of three/four very large stars. Within the course of approx. 10 secs. it grew smaller, and smaller, until it disappeared. My dog's neurotic behavior ceased! I had no idea as to the identity of the object seen. I am a Naturopath residing/vacationing in California.((FOLLOW-UP COMMUNICATION FROM WITNESS))This is a correction of the "DATE" listed for the previous sighting entry.Stated as 05/25/03 - changed to 05/26/03((END))((NUFORC Note:  Date changed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28945.html](http://www.nuforc.org/webreports/reports/028/S28945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lebanon (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>UFO Over Lebanon, MOhttp://www.youtube.com/watch?v=-qIvLlspMSY  This video was taken in Lebanon, MO on 5/26/12 at 4:49am using generation 3 pvs-7 night vision goggles recording onto a Sony Cybershot camera.I immediately discounted it as a plane since it was flashing, but then as it got closer I noticed it had 3 lights and then as it got even closer it actually had 4 lights.This craft appeared silently in the sky over Lebanon, MO, approximately 3-4 miles in the air at 146 deg SE, traveling NW at 320 deg unknown rate of speed.Appears to be some sort of craft that may be mimicking an airplane since it has flashing lights.  You can clearly see 4 bright lights (maybe engines) that are connected by some sort of dense frame structure.  Also appears to connect through the middle of the craft from the front light to the back light.After altering the contrast etc I was able to determined from the video that the tail light flashes, then the left light followed by the nose light.  It does not appear that the right light flashes at all.Once it passed over me the goggles became too saturated with the light and washed out the object and prevented me from getting a sharp image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89205.html](http://www.nuforc.org/webreports/reports/089/S89205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
