@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Revere (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two star like spherical objects glide across night sky deep in space.I was on the beach walking my dog. The night sky was as clear as I have ever seen it. It was so clear that I do not remember the last time I have seen this many stars in the sky. As I was staring up at the sky, I witnessed a small spherical object, the same brightness and distance as the stars, glide slowly across the sky until it disappeared. I thought I was seeing things, so I continued to stare up at the sky. Roughly 5 minutes later I witnessed the same thing happened again. I thought it could have been aircraft, but there were no flashing lights and these objects appeared to be deep into space and roughly the same size as the smaller stars. The second of the two objects that I saw had a periodic glare of bright light emitting from it, almost like the reflection of something off a rotating object. I have witnessed meteor showers before, but this was nothing like it. These appeared to move slowly across the sky, but were moving very fast in relation to the position of the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156705.html](http://www.nuforc.org/webreports/reports/156/S156705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in London (Hamstead Heath) (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>hamstead heath the new ufo!!!!!!!!!!!!!we were walking out near midnight in hampstead heath and we came over the brink of a mound and a sudden flash of light hit us and we stood tranfixed at three objects just hovering over the ground around 10 foot hight in a triangler formation and switching places every 10-15 seconds?? the colour was like nothing id ever seen is was constanly changing flashes and sparks of diffrent colours!! we tried to use are mobils to contact someone but no reception on either phone so we tried to take pictures but we couldnt i mean we took them but they come up blank or just white!!! there were two of us there was also a intense heat and aura from the objects but no effect on ground around them!! it was like the sound of the wilderness was shut out and we just heard a humming sound from the objects? then they were just gone with such speed we couldnt see where they went!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37188.html](http://www.nuforc.org/webreports/reports/037/S37188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
