@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white light, traveling high and fast from Mt. Baker to Bellinham Bay then, lost sight due to trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44975.html](http://www.nuforc.org/webreports/reports/044/S44975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sooke (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving circle of light.Ella Beach just outside Sooke.  We notice a slow moving object heading east about 1000 feet in the air.  I would estimate it was about 60 feet in size.  It was just as bright as a star and made no noise.  I caught some of it on video but the battery in my camera died.  I viewed the object for well over 2 minutes; it was moving so slow.Friday, June 2nd, 2017, same location.  This time much higher in the air and moving much faster. It was moving in a southern direction toward Washington state.  This one appeared to phase out of reality and disappeared.  7 witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134437.html](http://www.nuforc.org/webreports/reports/134/S134437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
