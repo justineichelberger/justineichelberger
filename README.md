@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was watching the sky for several minutes watching satellites, clouds, lightning and stars. Then, just east of the big dipper, I saw 3 lights traveling east as if they were satellites traveling together at the same speed and in single file.  I told my wife to look at what I see and she saw them as well.  They the clouds covered them quickly after and I thought they might just be stars together and the moving clouds made them look as if they were moving.  But as I waited for the cloud cover to blow away,  I saw two more lights traveling the same direction but a not in the same area of the sky.  As the cloud cover blew away, I could see some stars, but there weren't any stars close together.  Not sure what I saw, but I have never seen satellites that traveled that close together traveling in the exact same direction.((NUFORC Note:  Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146406.html](http://www.nuforc.org/webreports/reports/146/S146406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Foothill Ranch (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>One squashed-oval object.   Colour= burnt-orange, rimmed in a fuzzy neon light blue.   Size= 3 or 4 large stars put together.My dog was cowering about my feet; a usual situation when there is wind or storm present. I went outside to check the area. There were no stars visable, as the sky was overcast and misty. There was hardly even a breeze. I, then, saw a squashed-oval object - burnt orange, rimmed in a fuzzy neon light blue, in the upper half of the Southern sky. I thought that it was just a pretty star, robed in mist, until I realized that it was much too big, and moving away. It was about the size of three/four very large stars. Within the course of approx. 10 secs. it grew smaller, and smaller, until it disappeared. My dog's neurotic behavior ceased! I had no idea as to the identity of the object seen. I am a Naturopath residing/vacationing in California.((FOLLOW-UP COMMUNICATION FROM WITNESS))This is a correction of the "DATE" listed for the previous sighting entry.Stated as 05/25/03 - changed to 05/26/03((END))((NUFORC Note:  Date changed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28945.html](http://www.nuforc.org/webreports/reports/028/S28945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
