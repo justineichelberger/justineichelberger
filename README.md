@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 25 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hackleburg (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately sunset til sunsrise - sunset til sunsrise minutes.</sub><blockquote><sub>I saw a sperical object swerving right above road that had antennas coming out of it and right as I got up to it, it shot straight up.((NUFORC Note:  Contact information is flawed.  We suspect that the report may be a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109704.html](http://www.nuforc.org/webreports/reports/109/S109704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lisbon (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Definitely caught my eye in the night sky! Other people had to of seen this!Slow moving pulsating orange light.  Not extremely high in the sky. Seemed to change shape from oblong to triangle.  Absolutely no sound from flying object!  I have 2 pictures of this UFO.  I tried to cut and paste the photos in here but I was unable to?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98218.html](http://www.nuforc.org/webreports/reports/098/S98218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
