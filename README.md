@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Newton (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately night - night minutes.</sub><blockquote><sub>I spotted 2 bright craft over the trees in my yard. And objects that looked  like stars but started following a plainHi i live in newton nh. Im realy into ufos and aliens and abductions. My girlfriend and i always go driving late at night looking for ufo's. rarely we spot any thing unusual. One night at the end of my yard out in the woods we saw a wierd bright light a solid one no blinking like plane. and no sound. so we observed it.  My girlfriend was amazed it was  jerky in movement and it would stop for about 30 sec. and keep moving. it would go up a little and move wierd no plane can do this .then finaly it was out of our sight. So we waited and it didnt come back so my girlfriend went in the house. I stayed out and waited maybe it will come back..so i waited it didnt come back. So i was looking up at stars for a wile  and i notice one moving and i thoght maybe a satilite but over more i saw an airplane flying. And i noticed 3 stars start moving after the plane flew buy them . What ever they were they seem to be following the plane. And ive seen 5 at once  moving in many directions. But i see that solid light every night i go out there. It seems like its looking for somthing or studying that area. friday 5/26/00 i was useing  my girlfriend fathers digital camcorder.I saw it again then it was gone same thing as always but maybe about 90 min later i saw it coming from over the tree a distance away so i ran down to the end of the yard and notice ther was another one closer i was shocked i turned on the camcorder then the one closer disapeared  no noise at all from neather one. If it was a plane you would here the engine. even more at night. I got scared becouse i didnt no were it went and i rans so fast in my house my girlfriend said whats wrong...i said oh my god it came back. this time there was 2.  Never saw it again that night . But I saw it again the next night. i have 1 witneses of it. And i did manage to get one on tape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13036.html](http://www.nuforc.org/webreports/reports/013/S13036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carlisle (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO over South Central PA 5/26/14After working in my yard on Memorial Day I was sitting on my front porch at 15:00 looking due east at the horizon.  At about 45 degrees east, north east I noticed an object in the sky.  I thought it might be a bald eagle circling for its prey.  However, the object was too high in the sky to be a bird.  As I looked further I noticed the object was hovering above something, as if it was observing something.  After noticing that the object was not moving, and having concluded it was not a bird, it suddenly zoomed off due east at fantastic speed.  I have never seen any aircraft that operated like that before.  It was either a government test vehicle (which I highly doubt) or a UFO.  About one half an hour later I noticed two high flying jets going both east to west and west to east at a high rate of speed.  Those both had contrails and were moving much more like traditional jets.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109809.html](http://www.nuforc.org/webreports/reports/109/S109809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
