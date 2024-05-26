@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bonnyville (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lights following one another in a straight line across the sky.Went camping with my uncle last night we looked up to see what looked like a bright star in place just above us.  The light slowly headed east then went up and disappeared about two minutes later a row of five lights in a straight line each light a separate entity then went at a quick pace then another five right behind there was absolutely no sound from these crafts.  Each was heading in a north eastern direction we were in a very remote area north of Bonnyville, Ab, not sure what they could be was wondering if anyone else saw this((NUFORC Note:  String of Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146456.html](http://www.nuforc.org/webreports/reports/146/S146456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Marlboro (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown shape flying sraight lineMy son and I saw a flying object with a hole in the center moving straight across the sky. The object was black and metallic, and shape was definitely not a plane, helicopter, balloon, blimp, kite, hang glider, or any other known aircraft.  As the object flew west to east, it slowly spun as it proceeded along a straight line. No lights on the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109751.html](http://www.nuforc.org/webreports/reports/109/S109751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
