@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>long slender white object.In the sky a bright white long slender object moving diagonally varrying in length as it moves back and fourth on its path.  It seems to have a sphere of heat waves surrounding the visible white line.  It is moving steadily and never erratic.  A shiny dot appears briefly around the object and then goes away for several min.     When it dissapears behind trees it always comes back in the same place, and has no erratic motion like a kite would,  no appearant strings.     Just saw it fly straight back toward a cloud and dissapear.It keeps getting closer and then further away.   I am baffled</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81530.html](http://www.nuforc.org/webreports/reports/081/S81530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bonnyville (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lights following one another in a straight line across the sky.Went camping with my uncle last night we looked up to see what looked like a bright star in place just above us.  The light slowly headed east then went up and disappeared about two minutes later a row of five lights in a straight line each light a separate entity then went at a quick pace then another five right behind there was absolutely no sound from these crafts.  Each was heading in a north eastern direction we were in a very remote area north of Bonnyville, Ab, not sure what they could be was wondering if anyone else saw this((NUFORC Note:  String of Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146456.html](http://www.nuforc.org/webreports/reports/146/S146456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
