@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:44 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carlisle (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO over South Central PA 5/26/14After working in my yard on Memorial Day I was sitting on my front porch at 15:00 looking due east at the horizon.  At about 45 degrees east, north east I noticed an object in the sky.  I thought it might be a bald eagle circling for its prey.  However, the object was too high in the sky to be a bird.  As I looked further I noticed the object was hovering above something, as if it was observing something.  After noticing that the object was not moving, and having concluded it was not a bird, it suddenly zoomed off due east at fantastic speed.  I have never seen any aircraft that operated like that before.  It was either a government test vehicle (which I highly doubt) or a UFO.  About one half an hour later I noticed two high flying jets going both east to west and west to east at a high rate of speed.  Those both had contrails and were moving much more like traditional jets.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109809.html](http://www.nuforc.org/webreports/reports/109/S109809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Star lake (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I looked up  at sky I saw a light flash once I thought it was light flashing on  passing aircraft  But then I saw  light flashing until it made a circle of lights Then it skiped across the  sky  in straight line flashes example  ___  ___  ____ The flashes of light were even in length such as skiping across the sky((NUFORC Note:  We observe that the report is consistent with the erratic reflection given off by a tumbling booster in orbit.  I have seen many of them.  However, that is only a guess.  The pattern in the report probably will not reproduce when it is posted to the website.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17848.html](http://www.nuforc.org/webreports/reports/017/S17848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
