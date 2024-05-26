@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:48 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lebanon (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>UFO Over Lebanon, MOhttp://www.youtube.com/watch?v=-qIvLlspMSY  This video was taken in Lebanon, MO on 5/26/12 at 4:49am using generation 3 pvs-7 night vision goggles recording onto a Sony Cybershot camera.I immediately discounted it as a plane since it was flashing, but then as it got closer I noticed it had 3 lights and then as it got even closer it actually had 4 lights.This craft appeared silently in the sky over Lebanon, MO, approximately 3-4 miles in the air at 146 deg SE, traveling NW at 320 deg unknown rate of speed.Appears to be some sort of craft that may be mimicking an airplane since it has flashing lights.  You can clearly see 4 bright lights (maybe engines) that are connected by some sort of dense frame structure.  Also appears to connect through the middle of the craft from the front light to the back light.After altering the contrast etc I was able to determined from the video that the tail light flashes, then the left light followed by the nose light.  It does not appear that the right light flashes at all.Once it passed over me the goggles became too saturated with the light and washed out the object and prevented me from getting a sharp image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89205.html](http://www.nuforc.org/webreports/reports/089/S89205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>long slender white object.In the sky a bright white long slender object moving diagonally varrying in length as it moves back and fourth on its path.  It seems to have a sphere of heat waves surrounding the visible white line.  It is moving steadily and never erratic.  A shiny dot appears briefly around the object and then goes away for several min.     When it dissapears behind trees it always comes back in the same place, and has no erratic motion like a kite would,  no appearant strings.     Just saw it fly straight back toward a cloud and dissapear.It keeps getting closer and then further away.   I am baffled</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81530.html](http://www.nuforc.org/webreports/reports/081/S81530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
