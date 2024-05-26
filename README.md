@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Jacinto (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3-4 orangish-yellow objects in the sky over Riverside county.It was around 10 PM on May 26th, I was laying in bed using my computer when a bright yellow-orangish light in my peripheral vision got my attention. I walked to the window and opened my blinds to get a better view assuming it was a helicopter because the light was stationary in the sky. I found it odd that there were no blinking aircraft lights, just a ball of bright light so I opened my window and there was no sound at all. Then it started to go higher and higher and it got dimmer from my perspective until it faded out into nothing in about 45 seconds to a minute after I first saw it. Then another one moved into view about 30 seconds later moving horizontally in the sky and it also climbed out of view like the first. I told my family and three of us watched as a third one appeared. I got my phone and attempted to record a video but I just took a picture of one of them because I hit the wrong button. After the last one climbed out of view I waited a few minu! tes and there were no more lights. I saw at least three separate objects and there was possibly a fourth because I left to go call my family and I lost track. All of this lasted about 5 to 7 minutes from the time I saw the first one until the last one disappeared. I know it wasn’t flares because flares don’t move horizontally in the sky and it wasn’t a drone because drones don’t fly that high in the sky. I tried to research to see if there were any rocket tests or anything like that in my area but I couldn’t find anything online. I’m just an average person, I’m not into conspiracy theories or anything like that so I’m not trying to imply anything like it was aliens but it was definitely unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156697.html](http://www.nuforc.org/webreports/reports/156/S156697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>multi-colored lights (3 - red middle light), blinking in irregular patterns. Seen North of Modesto, near cross streets, Orangeburg and Oakdale.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127526.html](http://www.nuforc.org/webreports/reports/127/S127526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
