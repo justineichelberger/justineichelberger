@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sooke (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving circle of light.Ella Beach just outside Sooke.  We notice a slow moving object heading east about 1000 feet in the air.  I would estimate it was about 60 feet in size.  It was just as bright as a star and made no noise.  I caught some of it on video but the battery in my camera died.  I viewed the object for well over 2 minutes; it was moving so slow.Friday, June 2nd, 2017, same location.  This time much higher in the air and moving much faster. It was moving in a southern direction toward Washington state.  This one appeared to phase out of reality and disappeared.  7 witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134437.html](http://www.nuforc.org/webreports/reports/134/S134437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Old Lyme (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Teenage BoyBasically I was trying to fall asleep on a somewhat cloudy day with a full moon.  I was having trouble falling asleep because at the lake near my house people were shooting off fireworks because it was the day before Memorial Day.  There are skylights in my room that are angled at 45 degrees so while I was lying on my side I was staring out one.  I can usually see aircraft towards the top of the window flying around but it’s just planes and such. While I was staring out the window a pencil shaped object that had lights on it went flying by.  It was close to the ground and traveling very fast.  It made no noise and was going in a straight line from east to west.  I do not do drugs or drink which is why I am very confused about what I saw.  I did further research about UFO’s in Old Lyme and found out a similar story that described the same craft I saw which took place five years earlier. Thanks you for reading</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98208.html](http://www.nuforc.org/webreports/reports/098/S98208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
