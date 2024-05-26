@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:45 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lisbon (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Definitely caught my eye in the night sky! Other people had to of seen this!Slow moving pulsating orange light.  Not extremely high in the sky. Seemed to change shape from oblong to triangle.  Absolutely no sound from flying object!  I have 2 pictures of this UFO.  I tried to cut and paste the photos in here but I was unable to?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98218.html](http://www.nuforc.org/webreports/reports/098/S98218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw a light that moved side to side and up and down then flashed bright with a baby blue color and a hazy blue aura around it.DATE/TIME & LOCATION: On May 26,2021 around 9:00pm, on the road 'NorthShore' while heading North. Coming up to the road 'Lake mead' heading to Vegas.  My girlfriend and I were heading back to Las Vegas after a day at Lake Mead. It was dark out and I was looking up at the sky/stars. I noticed a star like light that started to slowly glide across the sky. Regular white color light at first. SIGHTING: I saw a light gliding across the sky for around 10 seconds. I saw it begin moving to the right then it started to move left really quickly then moved right again, that’s when it looked like it was ascending to the point it looked like a star, it got really small. Then it descended back down and while doing so it flashed so bright with a baby blue looking color and hazy bluish aura around it. For a brief second, it was the brightest looking light in the sky. I then saw it keep gliding across the sky slowly for about 6 seconds then it quickly ascended again and while doing so it flashed 2 times like a camera flash, with a baby blue color. It then seemed to disappear into the dark sky. After about 2 seconds I saw it flash 2 more times with a baby blue color and it went up so high into the sky that it just looked like a star. I kept looking at it and it seemed like it just faded away. Number of objects: 1  My conclusion: I have came to the conclusion that what I saw was not anything Earth like. Not a satellite, not a plane or helicopter. Not a drone or military training act. The way that it moved left and right seemed like it just moved in the direction it wanted to without any effort, to put an example its as if it was a cursor on a computer, it moved so easily and quickly, side to side then up and down. It also didn’t have the flashing lights that planes and helicopters have. The only times it flashed was when it moved up then down, other than that it just looked like a star in the sky that was gliding. And the fact that in the end of all of it, it looked like it had just faded away into nothing. And it couldn’t have been a comet, its movements and bright flashing several times was nothing like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163539.html](http://www.nuforc.org/webreports/reports/163/S163539.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
