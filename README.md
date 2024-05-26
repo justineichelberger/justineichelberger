@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:05 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Waukesha (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was driving south on west avenue toward college avenue, thought it was an airplane above the trees  moving in for a landing at the local airport.  It suddenly stopped and backed up.  Then took off at a greater speed as it was backing up',  till I could no longer see it from the trees blocking it.  I waited for another report here to confirm what I saw, before I posted it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119397.html](http://www.nuforc.org/webreports/reports/119/S119397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was watching the sky for several minutes watching satellites, clouds, lightning and stars. Then, just east of the big dipper, I saw 3 lights traveling east as if they were satellites traveling together at the same speed and in single file.  I told my wife to look at what I see and she saw them as well.  They the clouds covered them quickly after and I thought they might just be stars together and the moving clouds made them look as if they were moving.  But as I waited for the cloud cover to blow away,  I saw two more lights traveling the same direction but a not in the same area of the sky.  As the cloud cover blew away, I could see some stars, but there weren't any stars close together.  Not sure what I saw, but I have never seen satellites that traveled that close together traveling in the exact same direction.((NUFORC Note:  Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146406.html](http://www.nuforc.org/webreports/reports/146/S146406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
