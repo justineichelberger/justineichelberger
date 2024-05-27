@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:56 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:17 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Swanzey (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange silver sphere over Swanzey,NHI was getting ready to observe Saturn at approximately 20:30 hours on 5/27/08, with my Takahashi FS 102 refractor when I noticed a funny ''star'' in the vicinity of Leo.I could not yet see other stars in the sky as it was not quite dark enough.As I slewed my scope to the object,that was not listed on any of my charts,I immediately noticed that this was nothing that I've ever witnessed,(Been an avid amateur astronomer for 22 years!)It was silver in appearance,with odd dark grey shadings and funny reflective lights seemed to omit from it.There was also a small point of light that was circling the sphere in oblong  irregular patterns.It was completely stationary,I know because the sidereal tracking was turned on on my mount and I had to compensate for it.It remained there for approximately 10-20 minutes.My girlfriend,who was with me also witnessed the ''event''.It then suddenly just disappeared into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63572.html](http://www.nuforc.org/webreports/reports/063/S63572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in House Springs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two very bright white flashing / flickering orbs turning solid at times.My 10 year old son observed lights from our living room window (around 11:30 pm) in the sky south of our home.  He called out to me and said “Dad, something is flying around outside and I don’t think it’s an airplane, it’s kind of freaking me out”.  My wife and I made it outside in time to watch about 30-45 seconds of two (think welding arc) intensely bright white lights flashing and flickering then turning solid and back again before disappearing behind the ridge line.  They were at slightly different altitudes and to far apart to be two lights of the same craft, but moving in unison.  They had no distinguishable shape, and no sound.Altitude was 500–1000 feet.  Speed fluctuated from something faster than a typical light aircraft to perhaps slower than stall speed for a light fixed wing aircraft.  Direction was roughly west to east and a mile +/- from our location.  After losing sight of the objects we hopped in the car and drove to see if we could follow but ultimately found nothing.This is the third UFO sighting we have had in 9 years of living in this area and the first we have reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109789.html](http://www.nuforc.org/webreports/reports/109/S109789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
