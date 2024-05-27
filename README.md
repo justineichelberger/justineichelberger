@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Yellowish orange sphere.For the past week, on and off, we have seen two orange spheres with lights moving slowly in the sky.  They move from south to northwest then to east</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119184.html](http://www.nuforc.org/webreports/reports/119/S119184.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Grande (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast moving orange light in night sky.i witnessed an orange dot of light in the northern sky traveling from west to east.  It was brighter then the surrounding stars and moved faster then a jet plane.  I watched it through a good set of field glasses and did not see any flashing or marking lights like on a plane.  It traveled in a straight line to the horizon and vanished into the haze over the mountains east of the city of La Grande.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109759.html](http://www.nuforc.org/webreports/reports/109/S109759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
