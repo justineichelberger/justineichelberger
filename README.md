@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Pine Bush (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>There was a very large object with bright yellow lights going across, it was moving slowly for about 7 seconds, then vanished.There was a very large object in the sky, shaped like cigar shaped rock with many rectangular yellow lights going across the object.. It was above the clouds the lights were very bright. This was witnessed by 6 kids on bicycles and at least 2 adults.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163381.html](http://www.nuforc.org/webreports/reports/163/S163381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Tonawanda (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bell shaped craft in no hurry sight sees Niagra Falls & Buffalo.Bell shaped object almost covered by thumb nail at arm's length.  It moved from west to south-east at three thousand ft.  Sun reflected red & orange off round bottom from horizon to 1/2 distance to my position(I was on roof of two story house with clear view W.S.&E).  Object was black with shimmer on each side moving at a constant  200mph., if I judged the altitude right.  When the object was closest to me, my dog in the house made one loude howl as if hurt.  As it traveled away from me a two prop driven plane, lights on, came out of the west at two thousand ft. 300mph, traveling to the NNW.  After the object passed the plane, it flashed red around its center once and continued till out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98226.html](http://www.nuforc.org/webreports/reports/098/S98226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
