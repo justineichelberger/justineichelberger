@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:43 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three lights appeared over the ocean; lasting for several seconds; exactly like the sighting in Myrtle Beach on 9/08((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Many other sighting reports from this area, for this date, and on prior occasions.  PD)))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70242.html](http://www.nuforc.org/webreports/reports/070/S70242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clarence (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>While going up my driveway, I thought I saw colorful lights in the North West sky, right after the sun went down.  After getting out  of my vehicle and looking up I saw green and red lights.  At times it was moving in a  circular fashion, then zig zag, then shooting up and down.  Its pace was like a happy being in the sky.  It also appeared to have a white light on it.  I went inside and grabbed my binoculars and came out to see more.  There it was still looking like a  star but far to twinkly and moving.  I moved my position to the back yard (where it was darker)and proceeded to watch for any change.  I see it appear to be dancing and changing shape into an ancient harp or a circular shape, then dancing again..... I don't know, the sky is very clear tonight with a crescent moon.... Go out and look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134162.html](http://www.nuforc.org/webreports/reports/134/S134162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
