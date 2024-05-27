@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:51 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Atwood (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>one opject, it shined, reflected light very well.  It appeared high in the sky, very small looked greyish/white. when i noticed it, then it faded away. I looked up a few seconds later- there it was again, and again it faded away.  this happened in febuary, around the same area. i do deliveries mon. thru fri. and travel between decatur, illinois and matoon, illinois everyday.  This time i noticed it on route 36 around atwood illinois, on my way back to decatur.  i have had a similar experience last summer at night. looking up this time the ufo was moving slow, same size as a star, not blinking like a plane, and disapeared like the others.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37280.html](http://www.nuforc.org/webreports/reports/037/S37280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dade City (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Bright white light covered surface object moving very slowly towards northwestAt approximately 10 pm, 5/27/18, my wife and I departed a relative’s residence in San Antonio, FL, to return to our home 6 miles to the east in Dade City, FL.  As I stepped out I noticed what I thought was a very bright star, brighter than any other stars in the night sky.  I commented how bright it was to my wife and two relatives.  We began to question if the object was a star, and noted that the object was moving very slowly.  One of the relatives got their binoculars and each of us used them in an effort to identify the object.  Each of us said the object appeared to have some type of very bright white lights surrounding its entire surface, with my wife’s sister describing the lights as being arranged in a diamond pattern.  We continued watching the object for about 5 minutes and then my wife and I headed home.Upon arriving home 15-20 minutes later, I looked toward the west and spotted the object.  It was moving very slowly toward the north, at about 40-50 degrees above the horizon.  I attempted to photograph the object using a telephoto lens, however, without the aid of a tripod the photograph is not sharp, and is not a good representation of what 4 of us observed.  I watched the object until it disappeared beyond the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141653.html](http://www.nuforc.org/webreports/reports/141/S141653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
