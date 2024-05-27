@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:17 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:43 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in House Springs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two very bright white flashing / flickering orbs turning solid at times.My 10 year old son observed lights from our living room window (around 11:30 pm) in the sky south of our home.  He called out to me and said “Dad, something is flying around outside and I don’t think it’s an airplane, it’s kind of freaking me out”.  My wife and I made it outside in time to watch about 30-45 seconds of two (think welding arc) intensely bright white lights flashing and flickering then turning solid and back again before disappearing behind the ridge line.  They were at slightly different altitudes and to far apart to be two lights of the same craft, but moving in unison.  They had no distinguishable shape, and no sound.Altitude was 500–1000 feet.  Speed fluctuated from something faster than a typical light aircraft to perhaps slower than stall speed for a light fixed wing aircraft.  Direction was roughly west to east and a mile +/- from our location.  After losing sight of the objects we hopped in the car and drove to see if we could follow but ultimately found nothing.This is the third UFO sighting we have had in 9 years of living in this area and the first we have reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109789.html](http://www.nuforc.org/webreports/reports/109/S109789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three lights appeared over the ocean; lasting for several seconds; exactly like the sighting in Myrtle Beach on 9/08((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Many other sighting reports from this area, for this date, and on prior occasions.  PD)))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70242.html](http://www.nuforc.org/webreports/reports/070/S70242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
