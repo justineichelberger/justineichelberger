@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lynn (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fast moving light vanishes from sightAs my boyfriend and I were standing outside my house in my back yard he looked up and noticed a fast moving white light in the sky.  We watched it as it moved across the sky and then it suddenly faded away.  My boyfriend noted that it was as if the object moved up away from the Earth and out into space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37198.html](http://www.nuforc.org/webreports/reports/037/S37198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Pine Bush (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>There was a very large object with bright yellow lights going across, it was moving slowly for about 7 seconds, then vanished.There was a very large object in the sky, shaped like cigar shaped rock with many rectangular yellow lights going across the object.. It was above the clouds the lights were very bright. This was witnessed by 6 kids on bicycles and at least 2 adults.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163381.html](http://www.nuforc.org/webreports/reports/163/S163381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
