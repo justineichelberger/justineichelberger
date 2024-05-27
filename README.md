@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clarence (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>While going up my driveway, I thought I saw colorful lights in the North West sky, right after the sun went down.  After getting out  of my vehicle and looking up I saw green and red lights.  At times it was moving in a  circular fashion, then zig zag, then shooting up and down.  Its pace was like a happy being in the sky.  It also appeared to have a white light on it.  I went inside and grabbed my binoculars and came out to see more.  There it was still looking like a  star but far to twinkly and moving.  I moved my position to the back yard (where it was darker)and proceeded to watch for any change.  I see it appear to be dancing and changing shape into an ancient harp or a circular shape, then dancing again..... I don't know, the sky is very clear tonight with a crescent moon.... Go out and look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134162.html](http://www.nuforc.org/webreports/reports/134/S134162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yucatan (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Dark sphere traveling fast over the countryside road.While traveling in Mexico in the highway 180D in the Yucatan Peninsula I was taking pictures of the landscape, I never notice anything unusual.  After I came back from my trip, I download the pictures to my laptop and organize in folders.  While checking them I notice something unusual in one of the pictures.It looks like a dark sphere traveling over the tree line in the opposite direction .I double check all the pics of that part of the road, that “thing” appears in only one of my photos- the more I look at it, the more I wonder what is that…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120545.html](http://www.nuforc.org/webreports/reports/120/S120545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
