@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:58 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Summer Lake (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>multiple light emitting / color changing objects, much of the time moving at a high rate of speed.. other times being still..the sighting started right before the sun started to go down. I was at Summer Lake Hot Springs for a concert. This place provides a view of at least 15 miles of surrounding area for approx. 270 degrees. these ufo's were spotted above Summer Lake. At first: I noticed what looked like a streak of light across a large part of the sky. something had gone by at high speed at the edge of my vision. I kept my attention on that part of the sky. within a minute I saw it again, but this time it was more visible (brighter / slower movement). I ran to the tent and grabbed my camera. I witnessed what looked like balls of light moving in groups. these lights were a golden color and could be seen changing at a high rate between red,green,blue,and white. they faded in and out, as if they were disappearing and reappearing. some of the time they would stay in a semi-transparent state. I took pictures of the area whenever I saw them. much of the time they were moving so fast t! hat I wasn't sure if I caught them. *** Later in the evening multiple balls of light appeared above the horizon. They seemed to be a few miles away. after taking a few pictures, they disappeared. moments later they were spotted by my friend. they were within a mile or less and where moving extremely low to the ground. My friend and I then witnessed the lights go into the lake and disappear. the lights then reappeared and were within what seemed to be about 1000 yards of us. the dark pictures are of these lights when they were what seemed to be a few miles away. the lights then disappeared back into the lake. they were seen moving at a high rate of speed and then disappeared. that was the last we witness of them.The original images can be found here: http://imgur.com/7C3S7&33ww0&4rOMK&TVTrwl&fFDvZ&Gpyw6&6DviJ&Y4kgr&xhpGL&0yme0&Ya6fD&wGiqp&QFadJ&qZjqj&YVmWx&f2arL&Fxtxb&j7o14((NUFORC Note:  Twinkling stars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76008.html](http://www.nuforc.org/webreports/reports/076/S76008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Burlington (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three groups of istant successive fast moving lights in formation traveling from east to west, each light flashing one after the other.On the night of May 26th at 10:15-10:30pm, over Burlington, I saw a string of lights high up in the atmosphere. At first, when I saw only one light, I thought it could be a satellite (it looked like a distant star), but it was going too fast. But then I saw another, then three, then four lights in a row information, flying from east to west. The first one would flash, then the second, then the third, etc. I followed them with my eyes until they were out of sight. Then another formation started from the exact same location, doing the same thing. And it happened a third time. It took about five minutes for the whole show.((NUFORC Note:  Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146431.html](http://www.nuforc.org/webreports/reports/146/S146431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
