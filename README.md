@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Nassau County (Long Island) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC Note--The report seems to us to be somewhat reminiscent of a blimp.  We have received many reports of blimps from the NYC area.  However, we are not aware of blimps that have the cockpit on top of the gas envelope.  We do not know what gave rise this report.  PD))Glowing object in Nassau County, NY on 5/27/00While driving on the Southern State parkway, a large, glowing object with flashing lights along the bottom appeared in th sky.  We first thought it was an arplane or water tower, but as it got larger and closer, it appeared to have a hub or dome on the top of it.  It was dificult to view b/c we were moving on the parkway and trees were obscuring our view.  We tried to get off the parkway to retrace our steps to see it again, but it was gone.  At one point, it turned and had an ovoid shape.  The dome on the top was more visible and appeared like a circle.  The main thing about it was that it was glowing and the details viewed were a result of varying amounts of "glow."  There were no definite lines that defined it.  Actually, at the exact point that we viewed this object, there was  car that had veered off the parkwa minutes before our arrival and struck a tree.  We wondered if that person had seen it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12986.html](http://www.nuforc.org/webreports/reports/012/S12986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Watonga (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Tornado watching turns into ufo sighting.I was working when I saw a wall cloud go overhead so I starting recording it.  To my surprise a tornado formed and dropped out of the sky about 400 yds to my west.  I started taking pictures of the video and didn't see the ufo until later.  This was not the first time I have seen a ufo. another time when I was 11 or 12 and many witness were there at that time the ufo was big about the size of a football field with colored lights going around the middle, it also seemed as though there big windows all around.  This again was a big saucer type.((NUFORC Note:  Time and date appear to us to be flawed, and witness provides no valid e-address.  We wonder whether this might be a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119174.html](http://www.nuforc.org/webreports/reports/119/S119174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
