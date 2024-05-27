@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Watonga (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Tornado watching turns into ufo sighting.I was working when I saw a wall cloud go overhead so I starting recording it.  To my surprise a tornado formed and dropped out of the sky about 400 yds to my west.  I started taking pictures of the video and didn't see the ufo until later.  This was not the first time I have seen a ufo. another time when I was 11 or 12 and many witness were there at that time the ufo was big about the size of a football field with colored lights going around the middle, it also seemed as though there big windows all around.  This again was a big saucer type.((NUFORC Note:  Time and date appear to us to be flawed, and witness provides no valid e-address.  We wonder whether this might be a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119174.html](http://www.nuforc.org/webreports/reports/119/S119174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hanford Nuclear facility (near) (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two female senior citizens driving from Kennewick, WA, north near Hanford Nuclear facility.  Both of us witnessed a very pretty round turquoise object suddenly appear on the left side of the road over a field.  We couldn't tell the distance but if you think of the size of the moon from an earthly observance, it was about 2/3 of that size. It didn't look spherical, just a round flat turquoise colored image.  It stayed there for about 2 seconds then zoomed away very fast till it disappeared.  It left no trail or fire.  Very intriguing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110648.html](http://www.nuforc.org/webreports/reports/110/S110648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
