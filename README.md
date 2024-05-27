@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Grande (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast moving orange light in night sky.i witnessed an orange dot of light in the northern sky traveling from west to east.  It was brighter then the surrounding stars and moved faster then a jet plane.  I watched it through a good set of field glasses and did not see any flashing or marking lights like on a plane.  It traveled in a straight line to the horizon and vanished into the haze over the mountains east of the city of La Grande.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109759.html](http://www.nuforc.org/webreports/reports/109/S109759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Spring (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red and orange orbsOn the eve of May 27, 2017, 9pm, my family and i were out looking at the moon thru the telescope we had bought for our son for his 8th birthday that friday.  When my nephew started yelling look look over there what is that flying.  When i turned around we saw the 1st orb looked like fire red and orange glow fly by tree top lvl abot 50 feet in the air.  Flying very fast and moving in all directions very quickly.  I knew i had to film, it so i pulled out my camera phone. While doing so other people in passing by cars and people walking by started yelling what are those.  A second orb same color and size flew in at a faster rate and chased the 1st orb turn by turn they seemed to dance.  I finely got my phone to record and only caught the second one, but was very excited to capture it before they flew off into the sky.  They made no noise at all.  And the orbs were so bright not sure what we saw, but hope others will see this and have more info</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134334.html](http://www.nuforc.org/webreports/reports/134/S134334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
