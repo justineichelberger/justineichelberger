@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 26 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maurertown (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright green light in the shape of a soft ball.On the night of May 25th to the 26th 2007,I was sitting on the couch and decided to go on the front porch to have a cigarette. It was a warm night and the sky was clear. I was looking up in the sky at the half moon when I noticed a bright green light in the shape of a soft ball sail across the sky from south to north, at first I thought it may be an asteroid, but at a second glance, it streaked across the sky in perfect intervals of two second dashes and absolutely no sound,leaving no sign of a trail, until it went so far north that I couldn’t see it any more.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56815.html](http://www.nuforc.org/webreports/reports/056/S56815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Irving (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stationary triangular pulsing red lights seen in Irving, IL on 05/27/12 at 17:30 hours.I looked up into sky and saw a red triangular shaped, solid, and slightly pulsing light. At first I thought it was a plane coming to land at Lambert Airport in St. Louis but it wasn't moving and was too big to be a plane.  The lights were not the same as on a airplane getting ready to land.  I watched it for about four minutes until a text message came from my daughter. After I read her short text, I looked up and it was gone and nowhere to be seen. I live in the country where street lights, etc... so not ruin the view of the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89236.html](http://www.nuforc.org/webreports/reports/089/S89236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
