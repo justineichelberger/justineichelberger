@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:56 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Irving (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stationary triangular pulsing red lights seen in Irving, IL on 05/27/12 at 17:30 hours.I looked up into sky and saw a red triangular shaped, solid, and slightly pulsing light. At first I thought it was a plane coming to land at Lambert Airport in St. Louis but it wasn't moving and was too big to be a plane.  The lights were not the same as on a airplane getting ready to land.  I watched it for about four minutes until a text message came from my daughter. After I read her short text, I looked up and it was gone and nowhere to be seen. I live in the country where street lights, etc... so not ruin the view of the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89236.html](http://www.nuforc.org/webreports/reports/089/S89236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Swanzey (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange silver sphere over Swanzey,NHI was getting ready to observe Saturn at approximately 20:30 hours on 5/27/08, with my Takahashi FS 102 refractor when I noticed a funny ''star'' in the vicinity of Leo.I could not yet see other stars in the sky as it was not quite dark enough.As I slewed my scope to the object,that was not listed on any of my charts,I immediately noticed that this was nothing that I've ever witnessed,(Been an avid amateur astronomer for 22 years!)It was silver in appearance,with odd dark grey shadings and funny reflective lights seemed to omit from it.There was also a small point of light that was circling the sphere in oblong  irregular patterns.It was completely stationary,I know because the sidereal tracking was turned on on my mount and I had to compensate for it.It remained there for approximately 10-20 minutes.My girlfriend,who was with me also witnessed the ''event''.It then suddenly just disappeared into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63572.html](http://www.nuforc.org/webreports/reports/063/S63572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
