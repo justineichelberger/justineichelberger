@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yucatan (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Dark sphere traveling fast over the countryside road.While traveling in Mexico in the highway 180D in the Yucatan Peninsula I was taking pictures of the landscape, I never notice anything unusual.  After I came back from my trip, I download the pictures to my laptop and organize in folders.  While checking them I notice something unusual in one of the pictures.It looks like a dark sphere traveling over the tree line in the opposite direction .I double check all the pics of that part of the road, that “thing” appears in only one of my photos- the more I look at it, the more I wonder what is that…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120545.html](http://www.nuforc.org/webreports/reports/120/S120545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>As I walked out my front door, I saw a green light as I was looking north.At first I thought it was a plane but not normal color.I looked away, as I walked to my car, then looked back at the light about 10 seconds later.  I saw that it had moved closer to me towards the south.  This suprised me since it seemed to have moved quite a distance in the span of 10 seconds.As I was looking at it it dropped straight down and then at a right angle at about 60 degrees and then out of sight behind the hills to the north.The duration of the movement was less than one second.I don't know the distance, but I would say at least 10 miles away from my position.  What ever it was it moved impossibly fast and turned at a sharp angle.The weather was clear with no clouds and a beautiful stary night.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134156.html](http://www.nuforc.org/webreports/reports/134/S134156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
