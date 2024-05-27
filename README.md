@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 27 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Burlington (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three groups of istant successive fast moving lights in formation traveling from east to west, each light flashing one after the other.On the night of May 26th at 10:15-10:30pm, over Burlington, I saw a string of lights high up in the atmosphere. At first, when I saw only one light, I thought it could be a satellite (it looked like a distant star), but it was going too fast. But then I saw another, then three, then four lights in a row information, flying from east to west. The first one would flash, then the second, then the third, etc. I followed them with my eyes until they were out of sight. Then another formation started from the exact same location, doing the same thing. And it happened a third time. It took about five minutes for the whole show.((NUFORC Note:  Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146431.html](http://www.nuforc.org/webreports/reports/146/S146431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Liberty (KY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>huge black cigar shaped object over central ky.i witnessed this object 3 times. each time late at night. traveling east to west. approximate size at least one quarter mile in length. width,approximately 200feet. altitude approximatly. 2-miles high. flying directly over small town. i lived on a ridge top overlooking the town. the lights from town lit up the bottom of the craft. it was dark in color possibly black. with no visible markings. and no visible wings. it had one extremely large red light on the bottom/center. that changed in brightness. and seemed to pulsate very slowly. that was the only light on the craft. it had a very deep low tone that i could hear from inside the house. from a long way off. i was outside and waiting for it before i even saw it. it moved very slowly for an air ship. not more than 100 miles an hour. not less than 60 miles an hour. as it approached closer, the low hum turned into more of a vibration of electrical noise. it was so big, and at such a low altitude, it was rather disturbing. and gave me an uneasy feeling. i am ex-navy/air. and i have never seen anything like this ever. it was the biggest object i have ever seen in the air. it had a dull look to it's under belly. and was deffinatly dark. most likely flat-black. it was seen by only me. i have never heard of anybody else in this town or anywhere else describing the same thing. i saw it three times. over the corse of 4 months. at that time i was watching the skies frequently. almost every night during that summer. between 9pm and 12pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53494.html](http://www.nuforc.org/webreports/reports/053/S53494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
