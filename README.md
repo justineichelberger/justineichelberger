@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:08 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:18 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Me and a friend were walking at about 8:45 and we saw a big black circular thing in the sky.  She said its a UFO then we saw it get even closer and even faster. We were both surprised and scared.  The lights on the craft were blue and white.  We know this was not a plane becuase why would a plane look like a big black circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141676.html](http://www.nuforc.org/webreports/reports/141/S141676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2hrs+ - 2hrs+ minutes.</sub><blockquote><sub>white round object motionless over albuwuerqueLeft home for a morning jog at 7:30. Noticed this object in the south 35-40 degrees up. Object remained in the same position throughout the whole duration of my run. It was always to the south at the same angle. There were hot air balloons in the sky. The object was higher than the balloons but lower than flying passenger plains. It is still there(9:45) I can see it from my window. It is round and white, lighter on the sunny side, it has a size of a pencil  tip (1mm). I took a picture (attached) with 2.8 zoom. The object is at the very center of the picture just left to the tree.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56837.html](http://www.nuforc.org/webreports/reports/056/S56837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
