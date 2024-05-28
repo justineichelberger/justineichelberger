@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:48 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately still there - still there minutes.</sub><blockquote><sub>glaring light in the sky, motionless and as high as zero gravity.I was having a cigar and noticed a light up in the sky in the scottsdale fountain hills sky and thought it was a helicopter til i realized how high and how still it was. it did not move. I am writing this almost 15 mintutes after i first saw it i just checked and it is still there. Could be a thing in the sky or a space borne object but if it is space it would be big if in our sky well this is my first sighting but i stare at the sky every night and this seems out of the ordinary. I need to mention it glares like a flashlight but far up in the sky farther than helicopters can go.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63579.html](http://www.nuforc.org/webreports/reports/063/S63579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gilbert/Chandler (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Observed nine circles, NW of Queen Creek, over Chandler. They went from a box formation to triangle formation.This is for cross reference purposes to note more than one witness to this visual:  Description: My daughter called me stating that the local radio, 97.8 FM (website has audio recording of it) is talking about 11 to 16 disks in the sky above Chandler (she was driving to work and couldn't see). I went out my front door talking to her and initially looked in the direction of Chandler, NW, to try and see what she was talking about. Didn't see anything and joked with her about needing to drive into Chandler to try and observe what the radio was talking about. Said good byes. I then went back out and leaned on my Honda roof and slowly started to scan the sky in the direction of Chandler. I then came across 2 white/shiny disks/orbs at about a 35degree angle. They were side by side with about a pinky width between them. I then continued scanning the skyline, due to the reported 11 to 16, and ended up observing 7 more white/shiny orbs/disks at about a 45 degree angle that stuck out against the clear blue sky. This second set of obrs/disks were in 2 groups. One group of three were in a triangle pattern while the other was in a box formation (one orb/disk in each corner of a "box" and a "triangle" formation. Ran in and told my wife (which she just laid there) and then grabbed the camera and proceeded to take 40 pictures with my Vivitar, vivicam 5386, 3x zoom f=5.4-16.2mm. By this time my wife walked out to see what I was talking about (her eyes were still adjusting to waking up, and didn't see anything). She advised I should wake up my 8yr old to have her come look. During the whole time of observing, I was quit elated that I FINALLY got to see things in the sky. My eyes kept feeling wierd, trying to adjust on such small objects. (photo attached, zoom into the bottom center of the picture, right of the date).Case Number: 17222 MUFON Log Number: US-05282009-0025 Status: Assigned Longitude: -111.851 Latitude: 33.2901</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70488.html](http://www.nuforc.org/webreports/reports/070/S70488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
