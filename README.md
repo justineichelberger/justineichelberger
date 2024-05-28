@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tamborine Mountain (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>Light/Orb in private rainforest every night for 3 nights straight.My family lives in the hinterlands of Australia with rainforest surround our property.  A couple months ago I tried interacting and inviting a E.T to my location with Steven Greer's exercise.  I didn't have the laser so all I could do was remote view and show them where I was. Nothing happened that night, so I forgot about it.Since Tuesday night (05/28/2013) what ever it is has been in my family's rainforest waking my mother up in the middle of the night to see a large light moving back and forth for three nights straight so far.Also last night two heavy lamps suddenly fell in my parents room that was close to the window that shows the rainforest, my mum heard it fall but all my dad could hear was a very light bell ringing sound that he thought sounded very calming.One more thing too, on the first day this unidentified thing started showing itself my dog's eye was damaged quite badly.  I don't know if that has anything to do with it, but I thought I should add it in since it's very coincidental to me.The reason I'm reporting this is in the case of anything more happening in the next few days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98266.html](http://www.nuforc.org/webreports/reports/098/S98266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Canastota (NY) reported seeing craft that fit the description of some 'light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Summary : MULTIPLE LIGHTS SIGHTING AND VIDEO MAY 28, 19973 to 12 IN DIFFERENT FORMATIONS- 4 HOURS/2 NIGHTS10 WITNESSED- ONEIDA LAKE, NY.- WITH FULL LAKEREFLECTIONSFIRST VIEWED 10:52PM MAY 28, 1997-  3 IN TRIAN-GULAR FORMATION. THEY FADED AND THREE MOREAPPEARED- THEY FADED AND FIVE APPEARED IN DIFFERENTFORMATION- THIS CONTINUED FOR APPROX 30 MINUTES-DIFFERENT FORMATIONS AND NUMBERS- AT ONE SIGHTING12 APPEARED AT ONCE- THEY SEEMED TO HOVER ANDDID NOT MOVE AT ANY FAST RATES- THEN JUST FADED AWAYTHEN AGAIN AT 3:00 AM ON MAY 29, 1997 THE SIGHTINGSTOOK PLACE AGAIN- DIFFERERT AMOUNTS,DIFFERENTFORMATIONS FOR ABOUT 45 MINUTES ON AND OFF- THENAT 10:45 PM THAT EVENING AGAIN MISC FORMATIONSAND NUMBERS APPEARED- AT LEAST 10 PEOPLEWITNESSED SOME OF THESE SIGHTINGS- OBJECTSWERE APPROX. 4-5 MILES ACROSS ONEIDA LAKE, N.YOVER A VILLAGE CALLED JEWEL, N.Y.-  ON THE VIDEOSTHE LIGHT REFLECTIONS CAN BE SEEN AS SEPERATESOURCES SHINING AGAINST THE WATER THE FULL DISTANCEOF THE LAKE (APPROX 4 MILES)OBSERVERS: ((Three names deleted))OTHER NUMEROUS NEIGHBORS IN AREAALSO ANOTHER OBSERVER 10 MILES FROM US ON TOPOF A MOUNTAIN (MUNNSVILLE, N.Y.)OTHER STRANGE HAPPENINGS ON MAY 28, 1997 OTHERINDIVIDUALS SPOTTED 3 LIGHTS IN TRIANGULAR FORMATION16 MILES AWAY- IN THAT SAME AREA AND TIME,NIAGARAMOHAWK POWER HAD A TRANSFORMER FAILURE AND LIGHTSIN AREA WENT OUTAPPEARANCE WAS A BRIGHT LIGHT ORANGE/RED/WHITEVIDEOS WHERE TAKEN FOR MOST OF SIGHTINGS(40 MINUTES)OF DIFFERENT AMOUNTS AND FORMATIONS-</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02249.html](http://www.nuforc.org/webreports/reports/002/S02249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
