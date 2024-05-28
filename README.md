@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carlsbad (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:15 - 00:15 minutes.</sub><blockquote><sub>star-like lights zipp across the sky out of Aries.i was looking at the Aries constellation when the a star started streaming across sky. but didnt get brighter or burn out.  my husband and i watched it with the binoculars for about ten minutes one was rapidly changing blue red white???   It was like the stars were joy riding and then were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89257.html](http://www.nuforc.org/webreports/reports/089/S89257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 UFO's sighted east of Nashville, TN, at 9:13 CST 5/28/15.5 objects, 3 evenly spaced followed by 2 all following the same ingress and egress trajectory.  East of Nashville.  Ceiling 10,300 ft at time of event, objects approximately 10,000 ft.   All craft in controlled decent, leveled off and then executed coordinated climb in trail formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119197.html](http://www.nuforc.org/webreports/reports/119/S119197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
