@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>unknown craft in Ak as seen on weather cameraI am somewhat a weatherbuff so I was on http://weather.weatherbug.com checking out 30 day elapsed video and caught sight of something I cannot explian, a triangular shape came into view at the top of the screen. Cannot identify as any known aircraft. Go onto weatherbug.com view camera for Little rock AK date is 5-28-2008 Eyes to the sky people</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64108.html](http://www.nuforc.org/webreports/reports/064/S64108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madbury (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue circle appears out my window while I’m chillin in bed.  It sounded like an airplane until it became louder, then blue flash to wite.Heard what sounded like the hiss and ruble of a plane, soft at first, then slowly becoming deeper and more.  My cat freaked out, and at that point, as I was looking up from my bed I saw a blue light linger in the sky through my translucent shades.  After about 30 seconds, I got up to see what it was.  I saw a large blue circle flash to white and move swiftly across the sky.  Scared me so much, I couldn’t believe what I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146490.html](http://www.nuforc.org/webreports/reports/146/S146490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
