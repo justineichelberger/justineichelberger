@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:51 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:56 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cedarburg (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Round object, turned from solid metal to red light before disappearing.A round object appeared at least 25,000 feet.  Object appeared through a translucent cloud.  Object initially appeared metallic silver color then turned to a deep red light which lasted 2-3 seconds then disappeared.  It never reappeared, but was very clear and solid.  This remained still, never moving.  It could no way be a plane or jet as the cloud moved uncovering the object which made it clearly visible.  A plane\jet would have been visible with wings and would have been moving.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127716.html](http://www.nuforc.org/webreports/reports/127/S127716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disk or Saucer moving south to north in Dallas, Texas.I noticed some very interesting clouds, partially hiding the sun and thought the picture would look nice on my screen saver.  I grabbed my 11 mega pixel digital camera and took three pictures.  The time between the first and second pictures was about 1 minute, and the time between picture 2 and picture 3 was about 30 seconds. The next day I downloaded the pictures to my computer and noticed something I had not seen when I took the pictures.  You will see some kind of object on the far left side of the frame in the first picture.  It appears the same object moved toward the center of the frame in the next two pictures. I was shooting due West and there are flight paths for both Dallas Love Field and DFW airport in that direction, but this does not look like an airplane to me.((NUFORC Note:  Objects are the result of the witness pointing a digital camera directly into the sun.  Not UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63641.html](http://www.nuforc.org/webreports/reports/063/S63641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
