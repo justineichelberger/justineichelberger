@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Canastota (NY) reported seeing craft that fit the description of some 'light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Summary : MULTIPLE LIGHTS SIGHTING AND VIDEO MAY 28, 19973 to 12 IN DIFFERENT FORMATIONS- 4 HOURS/2 NIGHTS10 WITNESSED- ONEIDA LAKE, NY.- WITH FULL LAKEREFLECTIONSFIRST VIEWED 10:52PM MAY 28, 1997-  3 IN TRIAN-GULAR FORMATION. THEY FADED AND THREE MOREAPPEARED- THEY FADED AND FIVE APPEARED IN DIFFERENTFORMATION- THIS CONTINUED FOR APPROX 30 MINUTES-DIFFERENT FORMATIONS AND NUMBERS- AT ONE SIGHTING12 APPEARED AT ONCE- THEY SEEMED TO HOVER ANDDID NOT MOVE AT ANY FAST RATES- THEN JUST FADED AWAYTHEN AGAIN AT 3:00 AM ON MAY 29, 1997 THE SIGHTINGSTOOK PLACE AGAIN- DIFFERERT AMOUNTS,DIFFERENTFORMATIONS FOR ABOUT 45 MINUTES ON AND OFF- THENAT 10:45 PM THAT EVENING AGAIN MISC FORMATIONSAND NUMBERS APPEARED- AT LEAST 10 PEOPLEWITNESSED SOME OF THESE SIGHTINGS- OBJECTSWERE APPROX. 4-5 MILES ACROSS ONEIDA LAKE, N.YOVER A VILLAGE CALLED JEWEL, N.Y.-  ON THE VIDEOSTHE LIGHT REFLECTIONS CAN BE SEEN AS SEPERATESOURCES SHINING AGAINST THE WATER THE FULL DISTANCEOF THE LAKE (APPROX 4 MILES)OBSERVERS: ((Three names deleted))OTHER NUMEROUS NEIGHBORS IN AREAALSO ANOTHER OBSERVER 10 MILES FROM US ON TOPOF A MOUNTAIN (MUNNSVILLE, N.Y.)OTHER STRANGE HAPPENINGS ON MAY 28, 1997 OTHERINDIVIDUALS SPOTTED 3 LIGHTS IN TRIANGULAR FORMATION16 MILES AWAY- IN THAT SAME AREA AND TIME,NIAGARAMOHAWK POWER HAD A TRANSFORMER FAILURE AND LIGHTSIN AREA WENT OUTAPPEARANCE WAS A BRIGHT LIGHT ORANGE/RED/WHITEVIDEOS WHERE TAKEN FOR MOST OF SIGHTINGS(40 MINUTES)OF DIFFERENT AMOUNTS AND FORMATIONS-</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02249.html](http://www.nuforc.org/webreports/reports/002/S02249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodville (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately not/known - not/known minutes.</sub><blockquote><sub>June 12, 2016  A UFO was photographed in my back yard, May 28, 2016, at 9:30 PM.  It was caught on my game night camera.  I live outside of town, and I am concerned about our pet's safety from coyotes.It would seem to be about two feet in diameter and maybe three inches in thickness.  It seemed to be a circle.I have one photo which I lightened on my computer.  It was a very dark night.  I can see from that improvement it is inside my yard.I wonder if this can be a drone?  Please share information regarding this UFO if there is any.((NUFORC Note:  We have looked at the photo, and suspect that the object is not an alien space craft.  The quality of the copy sent to NUFORC is not high, but it appears to us as though the object of interest is in the near field of the camera, and probably is relatively small.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127839.html](http://www.nuforc.org/webreports/reports/127/S127839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
