@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:51 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Homosassa (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright light, mostly white, which appeared to be able to move left to right, and up and down.My nephew called me outside at night, just after the storms and rain seemed to clear.  We saw as we were facing south, to the west a very bright light just above the tree line.  It was mostly stationary, so at first we thought it was a star.  However this appeared to be larger than any of the other stars.  It appeared to get brighter and larger so I went to get my telescope.Once I got the scope and had it lined up the light dipped slowly down then dimmed and went dark.  I put the telescope down and when I did it reappeared got real bright, and appeared to move to the left, then the right.  As I set my telescope up again and my nephew tried to video it, it dipped down into the tree line.  Then it dimmed and disappeared completely.  Attempts to video or take pictures were unsuccessful. The object appeared to me to have blue and green on top and was mostly bright white. The blue and green seemed to alternate.No sound was noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141675.html](http://www.nuforc.org/webreports/reports/141/S141675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Deming (south of) (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>travelling westbound on amtrak.....recorded object on video tape.....never timed it...just guessing....just found your websitewhile riding west on amtrak...near demming new mexico....i was on the left side of the train looking south....in the distance i saw an object...not sure what it was....hovering in the distance.  took out my video camera and taped maybe 2 minutes of it....never checked how long i taped the object.  the camera is only a 6x zoom so the object is still not very large.  it never did anything more while i was taping it...i mentioned it to another passanger, but he didn't seem too interested in it.  it is difficult to tell the shape very well, but i have shown this tape to some friends and they were at a loss as to what it might be also</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04787.html](http://www.nuforc.org/webreports/reports/004/S04787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
