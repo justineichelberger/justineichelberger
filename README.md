@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Barstow (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I have a picture. I will send it.((NUFORC Note:  No other information provided by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17827.html](http://www.nuforc.org/webreports/reports/017/S17827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Too erractic to be a normal action.At approximately 8:45 pm an early star looking shape object appeared in the southern sky.The object seem to move in a south west diagonal direction.  The object moved faster than a celestial object ( star ) but slower than a aircraft or weather balloon.  The rising and stationary position seemed like it could be a weather balloon until it retracted to its mid way point.  The object faded as if someone was covering the object with a blanket fading in and out very fast.  At 9:05pm the object disappeared.  At approximately 9:45pm the same general direction we saw a sharp and bright light turn on with a 15 second delay of a second time.This may simply be a weather balloon phenomena but in case its not just wanted to mention it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98260.html](http://www.nuforc.org/webreports/reports/098/S98260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
