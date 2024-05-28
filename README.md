@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:56 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disk or Saucer moving south to north in Dallas, Texas.I noticed some very interesting clouds, partially hiding the sun and thought the picture would look nice on my screen saver.  I grabbed my 11 mega pixel digital camera and took three pictures.  The time between the first and second pictures was about 1 minute, and the time between picture 2 and picture 3 was about 30 seconds. The next day I downloaded the pictures to my computer and noticed something I had not seen when I took the pictures.  You will see some kind of object on the far left side of the frame in the first picture.  It appears the same object moved toward the center of the frame in the next two pictures. I was shooting due West and there are flight paths for both Dallas Love Field and DFW airport in that direction, but this does not look like an airplane to me.((NUFORC Note:  Objects are the result of the witness pointing a digital camera directly into the sun.  Not UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63641.html](http://www.nuforc.org/webreports/reports/063/S63641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kea'au (HI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Power outage, witnessed a transformer blow out, then 3 bright green flashes filled the entire sky.I was riding in a car with my brother, and we saw all of the street lights and people's homes turn dark.  The power came back on just as we were approaching an intersection, and a transformer on a power pole blew out, sending sparks all over the road.  At the same time, my brother shouted "Wow, Look!", pointing his attention to a series of extremely bright green flashes that filled the entire sky.  We couldn't see exactly where it was coming from, but it seemed like it was somewhere off the coast of the island.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56855.html](http://www.nuforc.org/webreports/reports/056/S56855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
