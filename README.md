@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:51 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodville (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately not/known - not/known minutes.</sub><blockquote><sub>June 12, 2016  A UFO was photographed in my back yard, May 28, 2016, at 9:30 PM.  It was caught on my game night camera.  I live outside of town, and I am concerned about our pet's safety from coyotes.It would seem to be about two feet in diameter and maybe three inches in thickness.  It seemed to be a circle.I have one photo which I lightened on my computer.  It was a very dark night.  I can see from that improvement it is inside my yard.I wonder if this can be a drone?  Please share information regarding this UFO if there is any.((NUFORC Note:  We have looked at the photo, and suspect that the object is not an alien space craft.  The quality of the copy sent to NUFORC is not high, but it appears to us as though the object of interest is in the near field of the camera, and probably is relatively small.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127839.html](http://www.nuforc.org/webreports/reports/127/S127839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cedarburg (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Round object, turned from solid metal to red light before disappearing.A round object appeared at least 25,000 feet.  Object appeared through a translucent cloud.  Object initially appeared metallic silver color then turned to a deep red light which lasted 2-3 seconds then disappeared.  It never reappeared, but was very clear and solid.  This remained still, never moving.  It could no way be a plane or jet as the cloud moved uncovering the object which made it clearly visible.  A plane\jet would have been visible with wings and would have been moving.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127716.html](http://www.nuforc.org/webreports/reports/127/S127716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
