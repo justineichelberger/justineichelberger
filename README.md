@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kea'au (HI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Power outage, witnessed a transformer blow out, then 3 bright green flashes filled the entire sky.I was riding in a car with my brother, and we saw all of the street lights and people's homes turn dark.  The power came back on just as we were approaching an intersection, and a transformer on a power pole blew out, sending sparks all over the road.  At the same time, my brother shouted "Wow, Look!", pointing his attention to a series of extremely bright green flashes that filled the entire sky.  We couldn't see exactly where it was coming from, but it seemed like it was somewhere off the coast of the island.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56855.html](http://www.nuforc.org/webreports/reports/056/S56855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carlsbad (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:15 - 00:15 minutes.</sub><blockquote><sub>star-like lights zipp across the sky out of Aries.i was looking at the Aries constellation when the a star started streaming across sky. but didnt get brighter or burn out.  my husband and i watched it with the binoculars for about ten minutes one was rapidly changing blue red white???   It was like the stars were joy riding and then were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89257.html](http://www.nuforc.org/webreports/reports/089/S89257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
