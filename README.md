@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madbury (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue circle appears out my window while I’m chillin in bed.  It sounded like an airplane until it became louder, then blue flash to wite.Heard what sounded like the hiss and ruble of a plane, soft at first, then slowly becoming deeper and more.  My cat freaked out, and at that point, as I was looking up from my bed I saw a blue light linger in the sky through my translucent shades.  After about 30 seconds, I got up to see what it was.  I saw a large blue circle flash to white and move swiftly across the sky.  Scared me so much, I couldn’t believe what I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146490.html](http://www.nuforc.org/webreports/reports/146/S146490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Unknown silent, lighted craft hovered overhead, Buffalo NYA craft of unknown shape and size, at an altitude of 4,000 to 5,000 ft. approached from the east, making no noise, and emitting an intense red glow, with yellowish back-lighting.  The craft initially maintained a straight forward motion and consistent speed (although it was much slower than a jet plane).As the craft approached the apex of the sky above me, slightly to my north, it slowed even further, it came to a complete stop, and hovered in that position for about a half minute. then it appeared to lift straight upward at a high rate of speed, still silent, as it lifted away, the lights became smaller and dimmer, until it was no longer visible.The sky conditions where partly cloudy, and I did see jet plane traffic overhead at their normal 30+ thousand feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81555.html](http://www.nuforc.org/webreports/reports/081/S81555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
