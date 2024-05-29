@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 28 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Deming (south of) (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>travelling westbound on amtrak.....recorded object on video tape.....never timed it...just guessing....just found your websitewhile riding west on amtrak...near demming new mexico....i was on the left side of the train looking south....in the distance i saw an object...not sure what it was....hovering in the distance.  took out my video camera and taped maybe 2 minutes of it....never checked how long i taped the object.  the camera is only a 6x zoom so the object is still not very large.  it never did anything more while i was taping it...i mentioned it to another passanger, but he didn't seem too interested in it.  it is difficult to tell the shape very well, but i have shown this tape to some friends and they were at a loss as to what it might be also</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04787.html](http://www.nuforc.org/webreports/reports/004/S04787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:03 - 00:03 minutes.</sub><blockquote><sub>Black teardrop object  above Portland, ORTwo adults witnessed a black teardrop shaped craft hovering in the sky and flipping around.  Was visable for a few mins.  Moved up and down in the sky while gyrating moving in criss cross fashion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89354.html](http://www.nuforc.org/webreports/reports/089/S89354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
