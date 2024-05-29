@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Lextington (clearfork resivior) (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>i saw what looked like a fireball with no sound comeing across the sky at just above 300ft above tree top level i brought this to my fathers attention and i woke up my 8 yearold son to show him the object he did not no what it was eaither it came from the north it seemed then it stoped over the center of the lake for about 5 min. then it proceeded east very fast . then out of sight.i had a nother incodent in in 1999 october on i-270 outer belt westbound in columbus ohio about 0:7:00 am i am a truck driver so i get to see a lot of the usa this morning i had a car slowing down as if he was distracted by something he stoped about the 45mm and looked off toward the air port well i slowed down an i saw plane's takeing off in several directions but what coaught my eye was a object that looked silver oveld in shape in the morning mist it was havering what appered to be looking over something as far as i no it could have been a probe from a ufo searching for something or takeing data.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12063.html](http://www.nuforc.org/webreports/reports/012/S12063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sphere UFO in high altiude moved slowly and stopped then moved again. I could notice that the movement of the craft was different from any humanmade airplane. It also moved to the side so rapidly too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63597.html](http://www.nuforc.org/webreports/reports/063/S63597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
