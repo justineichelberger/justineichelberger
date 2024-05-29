@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small light changed direction and speed, then stopped and became dim as if moving higher out of sight.Hubby and I laying in our new backyard.  Watched what we thought was a star or satellite change direction, move faster or slower, finally stop, and seem to get dimmer, as if moving higher and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109815.html](http://www.nuforc.org/webreports/reports/109/S109815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in South Lake Tahoe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Single bright light blinked out and back to different positions; Emitted powerful triangular search beam to ground.On May 29, 1976, three (3) adult witnesses, ages 21-23, observed an extremely bright white light just Southeast of Fallen Leaf Lake at about a 50 degree angle above the Southern horizon while camping in Desolation Wilderness. It did not move across the sky, rather it disappered and reappeared in a different part of the sky instantaneously. It disappeared/reappeared twice. There was no sound, no wind,a new Moon, no other lights were seen that night. This event occurred at approx. 23:00 hours PDT. The white light in the sky (UFO) emitted a triangular beam of light down to the ground like an extremely bright searchlight beam which lit up the entire mountainside like daytime. When we tried to to "hide" from the view of the object, it would move to realign itself with our line-of-sight. I used a flashlight to send a Morse Code message to the object, but there was no response. When last viewed, the object appeared to be descending from an altitude of 4000-500 ft. to an altitude of 1000-2000 ft. about 1 mile away when it disappeared behing the tree line. Lattitude=38°54'34.49" / Longitude=120° 2'42.30"W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91929.html](http://www.nuforc.org/webreports/reports/091/S91929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
