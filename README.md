@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was listening to you on the Art Bell show when you had a recording of the woman of whom witnessed the sighting over the Monte Carlo Casino.  I was hopeing that somebody else beside myself and my fiance' and a neighbor had seen this event.  It was around 9:00 pm on a Saturday.  Our apartment is located a couple of blocks east of the main Las Vegas Strip behind the Sands Convention center. Me and my fiance' were standing out on the balcony looking to the west over the casino area and notice around 9 to 10 bright spherical objects flying in a 'V'formation moving relatively slow in a northernly direction. About this time my neighbor of whom works at Macharran Airport was walking up the stairs to his apartment.  I pointed the objects out to him and mentioned to him that those weren't air planes and he should know considering that he works at the air port, we watched them for about 3 minutes and they just faded out while moving in a northernly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07986.html](http://www.nuforc.org/webreports/reports/007/S07986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fonda (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Every Night - Every Night minutes.</sub><blockquote><sub>The object changes colors and moves.The object  changes colors it also dims once in a while.  It also moves across the sky. It is a shere shape. We have seen it every night  for 2 weeks. It changes from green to red to blue to white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75601.html](http://www.nuforc.org/webreports/reports/075/S75601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
