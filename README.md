@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:54 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. George Island (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three large bright red, slow moving "shooting stars" seen over the Gulf of Mexico. Each was followed by sonic vibrationsSitting on the beach looking into the southern sky over the water saw one bright red object move slowly over the sky. Looked like a very large, slow moving, red shooting star. It lasted for about 10 seconds. It was followed by a loud and long, low frequency sonic vibration. About 15 minutes later two similar objects appeared simultaneously at a different location in the southern sky. These objects were also followed by a loud s</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56870.html](http://www.nuforc.org/webreports/reports/056/S56870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lynden (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three red, yellow spherical objects flickering and pulsating; larger than an airplane lights; in a triangular formation flying in the night sky from south to north followed by two of the same types of lights all five flying in the same path, faster then an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127594.html](http://www.nuforc.org/webreports/reports/127/S127594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
