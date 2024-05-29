@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ohatchee (AL) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright white light falling straight down, stopping and changing direction by 90 degrees due northMy husband and I were sitting outside in our yard watching the night sky.Suddenly, while looking directly overhead, we saw the appearance of a bright white round light, falling straight downward but abruptly stopping and then changing directions by 90 degrees, where it headed north (parallel to the ground).It moved at moderate speed northward until we could no longer see it.  It never flickered or wavered.  It was lit the entire time, made no sound that we could hear and moved in a straight path, both directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89279.html](http://www.nuforc.org/webreports/reports/089/S89279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>black shape  changing changing color and flying at a heigth of a three story buildingIt was changing shape and flying in circles. it passed though clouds and flue at really fast speeds. then turned into a kind of hexagon shape. the oddest thing was that i blinked and felt a breeze when the UFO flashed.also changed color and landed in the woods.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56859.html](http://www.nuforc.org/webreports/reports/056/S56859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
