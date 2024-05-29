@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:43 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:03 - 00:03 minutes.</sub><blockquote><sub>Black teardrop object  above Portland, ORTwo adults witnessed a black teardrop shaped craft hovering in the sky and flipping around.  Was visable for a few mins.  Moved up and down in the sky while gyrating moving in criss cross fashion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89354.html](http://www.nuforc.org/webreports/reports/089/S89354.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Purlear (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 Circling Bright LightsAs I was taking out the trash I noticed 4 very bright white lights in the southeast sky about 30 to 40 degrees above the horizon. They were moving about randomly in a small area sort of making circles and moves like figure eights. I called my wife out to look and just as she stepped out, the lights got very bright, like car head lights 100 feet away. This lasted about 15 seconds before the lights dimmed again to when I first saw them, and then they all moved off to the east going very, very fast and I lost sight of them going over some trees. There was no noise, and the lights were much brighter than the couple of stars visible as the sky was still a little light from sunset. I have seen many airplanes and helicopters in my life, and these were not normal aircraft, nor meteors, nor lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50790.html](http://www.nuforc.org/webreports/reports/050/S50790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
