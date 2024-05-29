@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fonda (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Every Night - Every Night minutes.</sub><blockquote><sub>The object changes colors and moves.The object  changes colors it also dims once in a while.  It also moves across the sky. It is a shere shape. We have seen it every night  for 2 weeks. It changes from green to red to blue to white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75601.html](http://www.nuforc.org/webreports/reports/075/S75601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Port Clinton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular object with red, white and blue flashing lights.Heard the sound first of a steady decent...  Noise was so close I thought whatever it was would land on our tent.  When I looked up I saw a circular object flying very low and fast with red, white and blue flashing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127592.html](http://www.nuforc.org/webreports/reports/127/S127592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
