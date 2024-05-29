@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 29 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Port Clinton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular object with red, white and blue flashing lights.Heard the sound first of a steady decent...  Noise was so close I thought whatever it was would land on our tent.  When I looked up I saw a circular object flying very low and fast with red, white and blue flashing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127592.html](http://www.nuforc.org/webreports/reports/127/S127592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cody (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white light/ resembling headlights extinguishing in secondsBetween 11:30 and 11:45 I went outside to have a cigarette.  I was in the Beartooth mountain range 30 miles outside of Cody, Wy, and noticed a bright white light to the west of me. The light first looked like a airline headlight, which was very bright given the height of the perceived object.  The light made its way to the east and lasted approximetly 10 seconds before it disappeared.  I stood outside for 5 more minutes to see if I could glimpse the craft which I thought could have possible been hidden due to the sparse clouds.  I did not see the light again.21 year old girl. Outdoor enthusiast, studying natural resource biology.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98630.html](http://www.nuforc.org/webreports/reports/098/S98630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
