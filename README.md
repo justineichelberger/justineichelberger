@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Macedon (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw red dot far East of Palmyra watched for over 5 minutes and it didn't move, then erratic movement, splitting into two lights and dimming of light.  Returned with phone light was gone  (Eerie feeling, like it knew I was watching)  10-15 min later whirling noise passes over, while I'm in bed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134340.html](http://www.nuforc.org/webreports/reports/134/S134340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Elko (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20160.0 - 20160.0 minutes.</sub><blockquote><sub>Two VERY bright , transluscent spheres over NevadaAbout a week and a half ago, when leaving my house, an EXTREMELY bright light caught my attention.I pointed it out to my husband, asking him what it was.  He didn't  know but he said he saw it the night before.  It appeared to be stationary and it had several sattelites positioned around it.   We lost sight of it as we drove into town, so we planned to look at it with telescope when we got home.  When we got home an hour later it was gone.  But we did notice another one  by the moon(at about 10 oclock position) and we did look at it through the scope.  What we saw was a sort of transparent looking sphere with strange circles in it and to the left of the sphere at 8 o'clock was a much smaller light and to its right were three smaller lights in perfect alignment to 2 o'clock.  Every night since then I can see the one by the moon and I have not seen it move at all,  however, the first one I saw appears after dark  and moves at different times and rates of speed.  Tonight it started moving away at about 9:30pm and had disappeared from view within 1 hour.  What are they?((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56891.html](http://www.nuforc.org/webreports/reports/056/S56891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
