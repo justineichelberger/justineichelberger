@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately All night - All night minutes.</sub><blockquote><sub>When reported the tower control men said he saw it.On May 30, 2014, I happened to look out my window and saw a low flying object over my nneighborhood, at first I thought it was a plane but I said it's to low so I grabbed my binoculars a went outside and what I saw was no plane it was a flat round object that had multi colored lights all around it. The object traveled N then turned E went up high then SE when it traveled SE another object followed it as to give chase  then stopped.  The main object still traveling finally stopped in the SE sky.  After about 30 minutes the main object started to travel back to my area traveling now NW coming low once again I then saw a small plane traveling N, it seem when the object came close to the plane it retracted back to the SE sky. I then tried to call my local airport but no answer, I then called a local news room while I was speaking to the woman I saw other objects flying high in the eastern sky giving off bursts of light or flashes the woman thought I was nuts and hung up.  I then called Lemoore air base they told me to call my local 911 so I did so they in turn connected me to the fresno airport tower and after telling them what I was viewing and the location of the object in the SE sky changing color he then said hold on as he looked for it he told his co-workers what the report was and he said to them "I'm dead serious" He the picked up the phone and said that he could see it as well he then told me to call 877 787 7444 Bigelow arrow space  ((sic.  Aerospace)) I said okay and hung up I then called the number but it was a bunk line.  There is something going on in the eastern sky of fresno and it must be looked into((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109848.html](http://www.nuforc.org/webreports/reports/109/S109848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Southington (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately Picture - Picture minutes.</sub><blockquote><sub>Took several pictures of the moon and noticed and noticed the object during a later review of the pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156866.html](http://www.nuforc.org/webreports/reports/156/S156866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
