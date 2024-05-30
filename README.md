@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:37 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>High altitude rod or cylinder shaped object with white blinking lights observed in SFAn object seen heading south east after dusk in San Francisco (8:50 PM Pacific Standard Time) on Thursday, May 30th, 2013:  On a perfectly clear evening sky, I observed what could have been dismissed as a shooting star, except that it was bright white, rod shaped and had blinking white lights.   I happened to be looking out my front window which is a south eastern exposure and saw a blinking series of lights on what appeared to be an elongated craft which seemed to be rod or cylinder shaped. It traveled about the same speed as you'd observe a fighter jet or shooting star passing through the atmosphere - extremely fast.  What made me consider the very high altitude of the object in the atmosphere was the fact that the lights faded out far above the horizon, as a shooting star would.  It was only visible for what seemed to be a fraction of a second, however long it takes to witness a solid shooting star.  I was stunned!  There was no sound.  I half expected a sonic boom, but there was none.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98249.html](http://www.nuforc.org/webreports/reports/098/S98249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:10 - 1:10 minutes.</sub><blockquote><sub>I saw an advanced muffled helicopter rapidly chasing a darting white dot in the sky.Yes.  Very simple. I live in the middle of Las Vegas, NV – never seen a UFO before.  Last Tuesday night (6-30-17) I stepped out onto my balcony and saw a muffled helicopter chasing one white dot at very high speed due East, then both objects darted to the North, heading straight towards Nellis AFB.  I made a quick report to 911.  Dot moved like a UFO; the chopper moved more like a fighter plane.  I wasn’t going to do this report until I heard you with George on Coast last night.  Thanks.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134412.html](http://www.nuforc.org/webreports/reports/134/S134412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
