@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Very fast moving lights that showed a circular formation.  The lights were red and sometimes orange and white.  The objects moved with a very fast zig zag path never straight unless it was stopped and then it appeared to be hovering.  We live near an army base so at first thought it could be manuevers until the objects became more numerous.  They were directly moving from the east to the west.  The lights appeared to be moving around in a circle simultaneously while the entire object zig zagged it is very hard to explain without seeing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75614.html](http://www.nuforc.org/webreports/reports/075/S75614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Amelia (suburb of Cincinnati) (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white orb released 2 smaller green orbsUFO – Cincinnati ,Ohio   Bright red very large orb heading from the west to the east travelling at a high rate of speed came to a dead stop.  The orb then turned color from a bright red to a very bright white.  It then released a small green orb out of the bottom.  The green orb started a slow eastern trajectory then gained speed out of sight.  The very bright white ‘mother’ orb still stationary turned back to bright red and traced its original path back west.  A few minuets later the bright red orb came back and stopped again and again it turned bright white and another bright green small orb was released from the bottom.  The green orb took the same path to the east as the first one and in the same manner.  The ‘mother’ again turned back to bright red and took a western trajectory at a high rate of speed and continued out of sight.  I stayed outside for about 15 minuets watching the sky but it did not return.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156795.html](http://www.nuforc.org/webreports/reports/156/S156795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
