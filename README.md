@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>was driving north on US 15 from poway during late rush hour noticed a group of small objects entering field of vision from the left at a distance of about 500 yards. objects flew in v-shaped formation and lead object was 2 or 3 times the size of the smaller objects  ruled out birds becuase they were traveling faster than the cars and they moved with precision across my field of view perpendicular to the highway, maintined tight formation, did not appear to flap wings, and were of two different sizes. Unlike mother and baby birds though because they were all traveling in tight fromation and at the same speed, which appeared faster than any baby birds would seem capable of. Altitude was low, probably less than 500 feet  Lead object must have been about 6-10 feet nose to tail and was oblong shaped. formation flew out of line of vision into a canyon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29020.html](http://www.nuforc.org/webreports/reports/029/S29020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eden (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spherical, silent fireballs in the night sky spotted by two people driving.While driving, we spotted 2 flickering orange (fire colored) spherical, slow-moving silent objects in the sky.  Since I was driving, I couldn't get a good depth perception.  I knew right away that they were the same things I had seen sitting on my deck a few summers ago only that time there were three and they were much lower.  I would guess that they were larger than a basketball but not bigger than exercise ball.  Both times, they were moving faster than the wind current and seemed directed. I never did figure out what they were and still can't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109841.html](http://www.nuforc.org/webreports/reports/109/S109841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
