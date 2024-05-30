@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kasson (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We were outside playing bean bags and we all noticed.  Circular object that was bright red and orange moving in a straight line fast, then slowly vanished.  Was not a plane, helicopter, or meteor.  We tried to get our camera but it vanished to quickly.  We posted to facebook wheree.  Another person also commented on seeing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109844.html](http://www.nuforc.org/webreports/reports/109/S109844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>White haze/light moving at amazing speeds.  Far greater than any known military or commercial aircraftI went to bed early on this night and awoke around 12:15am, to a thumping noise.  Although I do not believe the noise is related, I somehow felt the need to look out my window.  I pulled the blinds back and noticed a white hazy object, hovering above the treeline across the street from where I live.  The object was at a distance of anywhere between 5-7 miles away.  It was a particularly clear night and the stars were out.  It was a white light moving in a small circlular patter, very eratically.  I stared in disbelief and then walked outside to observe.  It was very quiet.  The object hovered for about 3 minutes off to the west and then suddenly shot directly to the north very rapidly, maintaining altitude and distance.  I continued to observe the light for about another minute, before it shot off at an amazing speed toward the north, northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70275.html](http://www.nuforc.org/webreports/reports/070/S70275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
