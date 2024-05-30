@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nolanville (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>small, off metallic orange saucer	I can’t remember the exact date because i was in about 3rd grade, it was sometime after lunch and we were, I believe, walking back to class.  I was with my class in the hall and my teacher stopped for a few minutes to talk with another teacher real quick.  For whatever reason I was turned around, I’m guessing to get my teacher’s attention, and everyone else was facing the other way.  We had a large wall on that side of the building that was just glass, and through I saw what looked like a small saucer type shape with an odd metallic orange color scoot across the sky.  It was a clear cloudless day, it had a single, central disc with a smaller ring on top and a small ring on the bottom, and both were spinning and had white lights on them.	 	 Above the top ring was a small half sphere that was a slightly lighter tint of the off metallic orange but I still couldn’t see inside well enough.  I tried for the whole amount of time to get my classmates to turn and see it but they seemed to just stare at me blankly.  By the time they all turned and my teacher noticed me it had just hid behind the wall of the school, I seemed to be the only one to see it.  I just couldn’t explain it, when I saw it time seemed to just fail to acknowledge me, and it just flew across the sky.  The geological environment around the school was these sort of small hills and it was flying just above them on the left side of the school, maybe not even ¼ of a mile away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102310.html](http://www.nuforc.org/webreports/reports/102/S102310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>was driving north on US 15 from poway during late rush hour noticed a group of small objects entering field of vision from the left at a distance of about 500 yards. objects flew in v-shaped formation and lead object was 2 or 3 times the size of the smaller objects  ruled out birds becuase they were traveling faster than the cars and they moved with precision across my field of view perpendicular to the highway, maintined tight formation, did not appear to flap wings, and were of two different sizes. Unlike mother and baby birds though because they were all traveling in tight fromation and at the same speed, which appeared faster than any baby birds would seem capable of. Altitude was low, probably less than 500 feet  Lead object must have been about 6-10 feet nose to tail and was oblong shaped. formation flew out of line of vision into a canyon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29020.html](http://www.nuforc.org/webreports/reports/029/S29020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
