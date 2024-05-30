@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:30 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:24 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Saw 10 lights appear in the NW ski, one after another. They came down vertically, made a 90 degree turn to the right, and disappeared into the night ski. I did reord this event on my phone. As I was going back into O my house J saw another light appear in the same area. I started record again. I saw 48 lights come down, make a right turn, and then make left turn following the same path.This video lasts for 4.5 minutes. Since then I can regularly sit out at night and see lights traveling in straight lines, stop and turn around and repeat. Mapping a pattern of grids.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164077.html](http://www.nuforc.org/webreports/reports/164/S164077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Juan Capistrano (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>sali a sacar basura fuera de mi hogar para depositarla en los contenedores y al regresar a la casa observe que en el cielo habian muchas volitas luminosas o blancas, algunas pegadas como si fueran atomos y de algunas se fueron separando mas volitas, llegando a contar como treinta o mas, notando que empezaron a formar como triangulos, descartando la posibiladad de que fueran globos ya que no se movian tipicamente como un globo y permanecieron algunas en la misma posicion,posteriormente alcanze a videograbar algunas y estando grabandolas se fueron desvaneciendo una por una, se hace notar que el clima era de aproximadamente 80 grados f.y el cielo era completamente azul, sin ninguna nube.,si gustan analizar el video lo pongo a su disposicion.. gracias</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37238.html](http://www.nuforc.org/webreports/reports/037/S37238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
