@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange lights over the front range 05/30/15.Four orange lights moving in perfect formation in a 45 degree angle at of an elevation of 500-1000 feet.  First moving over Boulder/Longmont, from the south, moving north, along the front range, then appeared to change direction and turn back and headed back SW, all while in amazingly precise movements, and absolutely silent!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119243.html](http://www.nuforc.org/webreports/reports/119/S119243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nolanville (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>small, off metallic orange saucer	I can’t remember the exact date because i was in about 3rd grade, it was sometime after lunch and we were, I believe, walking back to class.  I was with my class in the hall and my teacher stopped for a few minutes to talk with another teacher real quick.  For whatever reason I was turned around, I’m guessing to get my teacher’s attention, and everyone else was facing the other way.  We had a large wall on that side of the building that was just glass, and through I saw what looked like a small saucer type shape with an odd metallic orange color scoot across the sky.  It was a clear cloudless day, it had a single, central disc with a smaller ring on top and a small ring on the bottom, and both were spinning and had white lights on them.	 	 Above the top ring was a small half sphere that was a slightly lighter tint of the off metallic orange but I still couldn’t see inside well enough.  I tried for the whole amount of time to get my classmates to turn and see it but they seemed to just stare at me blankly.  By the time they all turned and my teacher noticed me it had just hid behind the wall of the school, I seemed to be the only one to see it.  I just couldn’t explain it, when I saw it time seemed to just fail to acknowledge me, and it just flew across the sky.  The geological environment around the school was these sort of small hills and it was flying just above them on the left side of the school, maybe not even ¼ of a mile away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102310.html](http://www.nuforc.org/webreports/reports/102/S102310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
