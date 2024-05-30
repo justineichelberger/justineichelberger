@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:55 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:30 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 bright orange balls over Davis CaAs I was driving in East Davis at approximately 22:35, I noticed 3 fairly close orange balls in the sky hovering and not moving.  At first I thought someone had launched some sort of lanterns or lights, but the objects began moving apart and then quickly started moving East towards Sacramento (fairly fast). I pulled over so I could have a closer look.  The objects were fairly low just above the treeline and the ojects had a very bright orange color.  They were clearly not an aircraft as their movement away from eachother was non linear.  There were no sounds present. I have never seen anything similar in this town before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89306.html](http://www.nuforc.org/webreports/reports/089/S89306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Saw 10 lights appear in the NW ski, one after another. They came down vertically, made a 90 degree turn to the right, and disappeared into the night ski. I did reord this event on my phone. As I was going back into O my house J saw another light appear in the same area. I started record again. I saw 48 lights come down, make a right turn, and then make left turn following the same path.This video lasts for 4.5 minutes. Since then I can regularly sit out at night and see lights traveling in straight lines, stop and turn around and repeat. Mapping a pattern of grids.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164077.html](http://www.nuforc.org/webreports/reports/164/S164077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
