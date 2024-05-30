@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eden (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spherical, silent fireballs in the night sky spotted by two people driving.While driving, we spotted 2 flickering orange (fire colored) spherical, slow-moving silent objects in the sky.  Since I was driving, I couldn't get a good depth perception.  I knew right away that they were the same things I had seen sitting on my deck a few summers ago only that time there were three and they were much lower.  I would guess that they were larger than a basketball but not bigger than exercise ball.  Both times, they were moving faster than the wind current and seemed directed. I never did figure out what they were and still can't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109841.html](http://www.nuforc.org/webreports/reports/109/S109841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Middletown (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Rectangular object, 3 contiguous sections; the outer 2 sections a dark green, the inner a brighter lighter green.Was around midnight. My boyfriend and I snuck onto the college green at OCCC. No one else was in view. The sky was completely clear; no cloud cover, moderate light pollution. We were watching satellites move across the sky and looking for shooting stars.He asked me "What is that?" and pointed up, in an westerly direction I believe. I saw in the sky a small rectangular shape. I'm not sure of the exact size, as it appeared to be pretty high in the sky; If I extended my arm fully, I could easily cover my view of it with my thumb. It was approximately a 4 to 1 length to width ratio in size. It appeared to be in 3 even, connected sections: the outer 2 sections were a darkish green, the center section was a brighter, lighter green. It moved slowly across the sky; it took about 2-3 minutes to move about the length of my hand if my arm were extended, before disappearing. It did not change direction, and moved across the sky with one of the long edges leading as opposed to a narrow end. There was no sound accompanying the movement that I or my boyfriend could discern.This has always been a very strong memory for me, as I had (and have) never seen anything resembling it, both in terms of real aircraft, as well as fictional UFOs from stories and movies.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27907.html](http://www.nuforc.org/webreports/reports/027/S27907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
