@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I saw a huge triangluar shaped ship close up only about 600 ft above me for about 45 seconds and then it disappeared.UFO Report   May 30, 2015.          On Saturday, May 30, 2015, at approximately 8:00 PM, over the Green Valley area of Henderson, NV, my wife and I got in the car to go out and eat, like we do every Saturday night.  We got in the car and turned around the corner just a 100 ft from our home and a bright light caught the corner of eye and I looked up and couldn't believe what I was seeing.  There was a huge triangular shaped black ship with seven large bright lights on the two sides of the V-shaped front.  I could see the ship up close, as I am sure it was below 1000 ft elevation and still daylight. It had been a rainy and overcast day in the Las Vegas area and it appeared that the ship had just popped out of a low cloud bank.   My wife couldn't see it, as she was sitting on the other side of the car, so I stopped and asked her to get out and look up, but just as she started get out, it disappeared.  It was like someone turned a switch and it disappeared before my eyes.  I had a clear visual look at the ship for about! 45 seconds.  The ship was large with a 300 to 500 ft long triangular sides and looked like a flat black wing which seemed very super sonic.  The unusual thing was the lights, they were not mounted on the superstructure.  There was a rigging made with black pipes attached to the fuselage that held the lights and protruded out from the ship about 10 feet.  I questioned how they could fly through the atmosphere at high speed with lights like that.  There were seven lights, one right on the point and 3 each down each side.  They were large,  rectangular, the longest length vertical.  They were 3 or 4 ft high and 2 or 3 ft wide.  The ship was moving very slow, less than 30 miles an hour and there was no noise of visible engines or intakes.I am very familiar with the B2 bomber, as a saw it fly over very low over us at at the Rose Parade, several years ago.  I also had the opportunity to stand under it at Nellis AFB during Air Force air show a few years ago.  The  ship I saw was bigger than the B2, possibly two or three times the size.  It is scary to even think about this huge thing was hovering only about five or six hundred above the roof tops of the homes in the Las Vegas area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119671.html](http://www.nuforc.org/webreports/reports/119/S119671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Notice a light flashing in the mountain. Blue then red. It's wilderness area no roads or homes. Started watching it and began to move flying sideways, hovering, up down , disappearing then reappearing. Caught the last part of it on phone, light had turned to white. Maybe a drone?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163524.html](http://www.nuforc.org/webreports/reports/163/S163524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
