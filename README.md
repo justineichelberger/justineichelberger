@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Six orange crafts flew over our house late Friday night, one at a time.On May 30, 2015, two of my daughters, myself, and their dad saw 6 orange crafts fly directly over our house.  One at a time.  They were so bright they looked like fireballs.  We took photos using our cell phones and I had a camera in the car out front, too, so I got some shaky shots with that as well.  They came from south to north approximately 2-4 minutes apart..making no sound at all. They also appeared to be flying lower than a plane would.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119369.html](http://www.nuforc.org/webreports/reports/119/S119369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bayonne (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Green object on memorial day in the NJ skiesIt was around 1:30 PM, while sitting in my back yard under a clear beautiful blue sky on Memorial Day afternoon, my sister in-law and my husband called me outside to see what looked to be a round shaped, almost  neon green  colored object that changed shape from round to oval in about a minute and dissapeared into the clouds. I was just wondering if there were other reports around my neighborhood at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44185.html](http://www.nuforc.org/webreports/reports/044/S44185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
