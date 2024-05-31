@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Pulsing green lights in Lake Ontario.Looking across to Toronto from Hamilton just after midnight we saw a line of 10-15 flashing green lights in Lake Ontario.  They stretched from about Pickering as far as we could see to the east.  These green lights would pulse and seemed to have a white light above them in the air.  The green lights seemed to be on the Lake.  Periodically a flame, or some light source, would emit from the flashing green light to the white light up above.  This is the weirdest thing I have ever seen.  This was happening for at least 2 hours.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109855.html](http://www.nuforc.org/webreports/reports/109/S109855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Warminster (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A friend of mine in Warminster PA last night at 910pm while online stated that he was seeing from his window two unidentified phenomenon. First only one appeared in the sky (Sky condition thunder and lightning, electrical flashes)He stated the first one was a single whitish light which divided into three lights, twirled in a spiral pattern then returned to regroup into the single light. I asked him to time the occurrance and he said 20 seconds. About 10 minutes later he said another identical phenomenon appeared, so that two of them were in the sky simultaneously. I asked him to try to interpret them as the electronic billboard of a commericial blimp and he said that it did not seem to him that that was it.  I emailed another person who was in Warminster PA online at the same time and asked them to look into the sky but they said they saw nothing. My friend said that the occurrance "faded" into the electrically charged sky. Total time of occurrance about 20 minutes. I suggested that he email the Airforce to try to document the phenomenon with them.((NUFORC Note:  We wonder whether this event can be ascribed to an advertising light, but that is only a guess.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23091.html](http://www.nuforc.org/webreports/reports/023/S23091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
