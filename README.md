@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:49 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White or metallic orb in skyI was sitting outside when I noticed a white or metallic sphere in the sky. It did not move quickly but did move toward me from north to south, opposite of the direction of the few clouds that were in the sky. The sphere appeared to move back and forth along an axis or like a gyroscope as it moved across the sky.I took photos and video with my cell phone and sent to friends. When I looked back toward the sky, less than 2 minutes later, the sphere was nowhere to be seen. This was odd to me as it wasn't a quick moving object and would not have logically been able to move out of sight in that amount of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163545.html](http://www.nuforc.org/webreports/reports/163/S163545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was talking with friends when we saw two fireballs flying accross the sky in southwest detroit.  Lasted approx. 5 min.I was talking with my friends outside when we saw 2 orange fireballs flying through the sky.  My friend reported seeing one of them stop in midair.  They lasted approx. 5 min and then faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56895.html](http://www.nuforc.org/webreports/reports/056/S56895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
