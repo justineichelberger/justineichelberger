@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:53 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Freeport (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Mysterious Space Craft with Red Light.I believe I saw a UFO space craft on May 31, 2014 while driving 50mph in Freeport, TX.It was descending, and then it elevated within a blink an eye, afterwards it accelerated at high speed towards my local chemical plants.  There were clouds it flew into, and then it disappeared.The craft looked similar to a helicopter except it didn’t have a propeller or tail.  It was oval shaped with a red light under it.  It was about 12- 15 feet in length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109856.html](http://www.nuforc.org/webreports/reports/109/S109856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Jettisoned star-like object falls, hovers, moves laterallyMy brother and I were joking about a star in the northern sky (low on horizon) since it was coming at us (and how it better be a star or we're in trouble).  Gradually, lights consistent with airplane were clearly seen, so no big deal.  Then what can only be described as an object of some type was jettisoned from the "plane" and floated downward for approx 5 seconds. There was a very clear light trail as it fell and my first thought was that the plane had jettisoned garbage (etc.)...until the falling object stopped, hoevered a moment, then moved laterally for another 5 or seconds and then halted. We had been out with my brother's son earlier with his new telescope and there were very few stars at that time to view (clear night, half moon).  When I left the house, there were more visible stars, but still few on the northern horizon.  I do know there was only one star clearly visible in the area where the plane was flying prior to the object falling.  After that object had taken up position, there were now two stars in the sky. My brother is a former LtJG with the Navy and pulled out binoculars to observe the plane before it peeled off.  His comment: 'I don't recognize the light patterns on the plane' although he has been out for a seven years and things likely have changed. I have no idea how to characterize what we saw, though my first guess is that this is not a UFO per se but a surveillance device of some type.  Time issue: from the time the object dropped, it was about 15 seconds before the plane crossed near us (not directly overhead, but reasonably close).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17880.html](http://www.nuforc.org/webreports/reports/017/S17880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
