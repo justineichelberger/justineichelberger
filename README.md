@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:13 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:41 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Gabriel Mountains (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Burning bright, orange, white and dark edge along bottom.  Nearly stationary.  Faded away over 5 minutesI spotted the object (oval in shape) while driving east on Angeles Crest Hwy.  My position was about one mile east of Vincent Gap, at a turn off.  The object was to the south south west, in the direction of Azusa, Duarte, of which there is a clear view through the San Gabriel River Valley.  The object was burning bright, orange, white with a dark edge along the bottom.  Very nearly stationary.  About 1/8" at arm's length.  It faded away over 5 minutes, growing somewhat smaller, but not appreciably.  Most of the observation was through 8X binoculars.  I had the feeling it was initially 2 - 3 miles away.  The angle of elevation was a couple of degrees below the horizon and did not change during the sighting.  My position was approximately at 7300 feet.  I could see surface features in the background, probably 30 miles away.  (If it was not stationary, it would have had to have been traveling nearly directly away from me.)   It moved very slightly toward the west during the viewing.  It did not change shape.  The initial "Fire" faded to a neutral color within a couple of minutes, then eventually faded into the smoggy background.  It left no traces of smoke or other atmospheric effects.  Sky was very clear, bright sun, little wind.  Positions noted on Topo map, available on request. For reasons I will not go into now, I've ruled out the possibility of it being any conventional aircraft, a balloon, or an object on the ground.  Other observers might have been at Vincent Gap, hiking along the San Gabriel River, at the San Gabriel Reservoir, or in Azusa/Duarte area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37283.html](http://www.nuforc.org/webreports/reports/037/S37283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Plant City (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Heard very very fast militiary type aircraft approaching from west to east and then the sound traveled vertical.  There was no visisble craft.  The noise sounded like a militiary jet doing manuevers at an airshow,but once again no visible craft.The sound was measured with my arms sticking straight out east and west (63 inches) and it would have taken the craft 3 seconds of travel time to cover the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98274.html](http://www.nuforc.org/webreports/reports/098/S98274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
