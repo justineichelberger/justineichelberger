@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Star-like light suddenly vanishes after a few minutesA few friends and I were sitting on the deck in the back of my house a little after 10:30pm since it was a warm night.  We noticed a white colored star-like light in the northeast sky towards the direction of Greensburg.  It was as bright as Venus and was moving in our direction.  Oddly, the light would flicker at times, staying bright for several seconds and then gradually losing luminosity until it was barely noticeable, and return back to brightness once again.  This occurred a few times. A few minutes later, as we continued talking about it, the light simply vanished without a trace.  There were breaks in the clouds that night so it should still have been noticeable as it passed above the clouds and back into open view.  Location of sighting was in the Fort Allen neighborhood, near Hempfield Area High School.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89539.html](http://www.nuforc.org/webreports/reports/089/S89539.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Jonesboro (AR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 143</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163991.html](http://www.nuforc.org/webreports/reports/163/S163991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
