@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 30 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Point Richmond (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>1 person witnesses a dark triangular UFO with lights in a star-like cluster that crosses 1/3 of sky in about 5 seconds.I was looking at the big dipper when what appeared to be a group of stars like the pleiades started moving towards the big dipper, crossed it, and continued moving north past the tree line all in a straight line.Total time viewed about 5 to 7 seconds.  As I stared at it, the background stars were blocked out as it passed in the shape of a large dark triangle with some star-like lights in a smaller area in the center.All planes in the sky had flashing lights on them and moved much slower.  This craft had no flashing lights, and crossed 1/3 of the sky in 5 to 7 seconds.  It was impossible to judge distance or size, though it crossed the cup of the big dipper and seemed to be about a third of the cup in size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98271.html](http://www.nuforc.org/webreports/reports/098/S98271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Freeport (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Mysterious Space Craft with Red Light.I believe I saw a UFO space craft on May 31, 2014 while driving 50mph in Freeport, TX.It was descending, and then it elevated within a blink an eye, afterwards it accelerated at high speed towards my local chemical plants.  There were clouds it flew into, and then it disappeared.The craft looked similar to a helicopter except it didn’t have a propeller or tail.  It was oval shaped with a red light under it.  It was about 12- 15 feet in length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109856.html](http://www.nuforc.org/webreports/reports/109/S109856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
