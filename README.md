@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Milton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangular craft, maybe three in formation, flying South over Milton, FlFriday, 5/31/19, took pets outside before bedtime, at approximately 9:45pm Central Time.  Was about 25 feet into yard, looking back toward house.  Facing South.  Always look at stars but this time was shocked to see that there was a triangular craft, which was very lightly illuminated at the three corners and not very high, flying overhead at a speed that was undeterminable.  I think the illumination might have possibly been the lights from city of Milton (FL) and of surrounding subdivisions reflecting on the craft. Without that illumination the craft would have been nearly, if not completely, invisible.  As it was it was not something one would notice without being directly under the flight path I don’t think.  It was flying from North to South and made absolutely no noise whatsoever.  As the craft flew over it appeared to turn in an South-Eastward direction.  At this point it almost appeared that it might have been three triangular craft flying in a format! ion which gave the appearance of being one larger craft.  The craft disappeared from sight as it turned but not because of distance.  I think because ground lights reflecting upward lost the angle which caused the craft to be highlighted.  Watched for it for about 10 more minutes but did not see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146558.html](http://www.nuforc.org/webreports/reports/146/S146558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Smyrna (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large triangular craft with three bright lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63630.html](http://www.nuforc.org/webreports/reports/063/S63630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
