@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Harwood Heights (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On may 31 2005 at about 10:30 pm I saw very fast moving light .It was flying across the "Big Dipper" constellation, making two circles with same speed.After second circle it disappear from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44227.html](http://www.nuforc.org/webreports/reports/044/S44227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ashtabula (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a bright light floating and then disappearing when noticedWell for starters I never wanted to believe in any of this stuff!!!  Not that I do not think there are other intelligent life forms out there, I just do not want anything messing with me! I was a skeptic and still am a skeptic, and want to forget all of this, but I cannot hold this in any longer.On May 31, 2007 I graduated from high school. My friend and I decided to go to my favorite spot in town, the point. It is a place in our harbor that kids go to at night to make out. My friend and I are both girls, and for one do not drink. We were just chatting about life down at the point as there is a really nice view of the Ashtabula river and the river leading into Lake Erie. There is also a very shitty view of the train yard and coal.As evening turned into night and we continued to be amazed at how we had just got out of 12 years of torture we sat on a brick ledge looking out on the river.I remember around 8 or 9 p.m. I was looking at my friend and she had her back to the south of the river. I remember seeing a light out over the river and marina behind her and thought that it could possibly just be a helicopter going to the local hospital.About 15 minutes later we were still sitting on the brick ledge looking directly at the river when suddenly there was a bright light passing in front of our vantage point. It was clearly following the river. It was probably a football field or less away from us and maybe 100 feet above the river. At that point I think I said what is that light, and at the very minute the light dimmed out.Now it could have been a helicopter or some kind of military aircraft, which I hope it is. The fact that the light went out as soon as we spotted it, makes me feel like it knew we could see it. The other strange things though that make me believe it was from out of this world are: 1.)	It was heading north out toward the lake and Canada 2.)	It was flying low to the ground 3.)	It made no sound 4.)	It had to fly under/ between sides of a coal bridge because it was so low to the ground The last fact really makes me believe it was from out of this world. If it were a plane or helicopter it would have to have maneuvered through that bridge or gone higher up in the sky to pass it and quickly.Ok I feel a lot better, but I still do not want to believe this crap, but it was amazing to see, I guess.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69185.html](http://www.nuforc.org/webreports/reports/069/S69185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
