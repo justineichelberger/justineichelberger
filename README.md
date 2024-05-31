@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Slinger (WI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>4 orange/red  glowing orbs over Slinger, WI.Yellow/Orange glowing Orb coming from east, traveling Nothwest.  Several thousand feet in altitude.  Looked yellow/orange as it was approaching, then red as it continued.  Before we lost sight of the first, a second  and then a third appeared in the same flight pattern.  Seemed evenly spaced.  Absolutely no sound coming from them.  After we lost sight of the first three, about 5 minutes later, a fourth appeared.  Again same flight pattern & silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110078.html](http://www.nuforc.org/webreports/reports/110/S110078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Craft plummeted over Denver, CO, flashing orange and blue/green, flipping end over end, suddenly ascended rapidly out of sightFrom an 11th floor rooftop near Cheeseman Park, Denver, CO, while looking SE toward Glendale, one perhaps saucer-shaped craft was seen rapidly descending, alternately blinking orange or green/blue light at perhaps 2-second intervals.  It flipped rapidly during its descent, like a coin that had been tossed in the air.  It suddenly stopped plummeting and at incredible speed zipped back and forth for a few seconds, then diagonally upward, until out of sight, above and south of the Tech Center in Greenwood Village.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70361.html](http://www.nuforc.org/webreports/reports/070/S70361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
