@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Maryland (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>The craft was Triangular,one story thick,in the middle was a half sphere   ,and it made a deep humming sound.Myself and my mother were out late one night looking at the stars through my telescope.When we heard a deep humming sound coming from in back of us and we looked up and saw the craft.It was huge triangular in shape and it looked as thick as a one story building and in the middle there a half sphere which was glowing pink.We stared up at for I don't know how long ,but then it moved away over Andrews Air Force Base.After the craft left my left ankle hurt and when I looked down at it it looked like a dough  nut and it hurt for a week.There is still a little scar there.Is really to bad my mother can help confirm my story because she is as current mentally unstable.But I know what I saw and there were probily others who saw it too.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17948.html](http://www.nuforc.org/webreports/reports/017/S17948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Nevada (Over) (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Inflight sightingI was 5 years old my mother put me in a plane going from Phoenix to Portland alone to visit my father because they were devorced. Some where in mid flight, I was sitting on the right side of the plane when suddenly a small twin engine jet looking craft flew up to me and appeared in between the front of the aircraft and the wing no further than 10 feet away. When this happend every body started staring out of the window. I remember getting up out of my seat and standing in front of the passenger window looking at the craft and seeing beings inside waving at me. No kidding. That's what really stuck in my memory, then suddenly all I remember was sitting in my seat with the rest of the passengers and getting off the airplane as if nothing ever happend. I must be the only person who remembers this event.((NUFORC Note:  Date is approximate.  Source elects to remain anonymous.  One of two reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23771.html](http://www.nuforc.org/webreports/reports/023/S23771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
