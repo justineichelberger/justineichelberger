@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>During the process of putting things away in my new upstairs apartment I looked out my window and I saw a 10' tall object suddenly appear about 100 feet from my window.  When it stopped it made very fast pendulum type movements.  It looked like a 4'in diameter multi-colored ball with a 6' multi-colored stick coming up from the center of it.  In 3 seconds it flung out upward, and disappeared into outer space.  I never heard a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149865.html](http://www.nuforc.org/webreports/reports/149/S149865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Hart's Location (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Circular light over Hart's Location, NH, moving from point to point with no acceleration/deceleration.This was many years ago, though I remember it vividly. The location was along the Saco River in Hart’s Location, New Hampshire.  This was a spot I had camped at several times, just off of Route 302.  I had always been there with others previously.  This time I went up alone, on a motorcycle.The campsite was in a wooded area, but by the river there was a clear view of much of the sky.It was probably the latter part of the evening, so it was dark.  No rain.  I think it was a reasonably clear sky.I went down by the river, maybe to get some water, and I happened to look up at the night sky, as I typically do.  I noticed a round white light.  It was maybe twice the size of any of the visible planets.  It was stationary, until it moved, with no acceleration, from where it had been to another point, stopping immediately with no deceleration.  This sequence repeated itself a few times over the next several minutes.  It was hard to tell how high the object was, because there was no way to tell how large it was.  It made no sound, but the river runs rather fast along this section, and is shallow and rocky, so the noise of the river may have muffled any sound.  Nothing other than this transpired.  No one else was at the site, so I couldn’t get anyone to corroborate.  It was getting late, and no new developments seemed likely, so I went back to the campsite and ultimately to sleep.  But I was wondering who else in the area may have seen this, so, the next morning, and the mor! ning after, I checked all the available newspapers, but to no avail.  I didn’t report anything myself to any authority, though I’ve told the story to various people over the years when I thought they’d be receptive.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86425.html](http://www.nuforc.org/webreports/reports/086/S86425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
