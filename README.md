@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Greenville (DE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White disc makes sharp turns and then shoots up as fast as lightning.A white colored disk, exactly the color of high clouds.  Moved in a zigzag formation and then shot up into space.  Was far up in the sky.  But it moved incredibly fast.  It was inconceivable that a craft was able to cover such a large span of space in less than 2 seconds.  It changed horizontal direction twice at precise turns of about 60 degrees.  Than made a vertical turn and shot up into space, again, at lightning speed.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106103.html](http://www.nuforc.org/webreports/reports/106/S106103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Incredible fireball breaking up over S/W IdahoA bright light caught my eye from the East, I turned and managed to say "Now, what is this?"  In that time had moved almost directly Northeast of us.  As it streaked across the sky at an amazing pace.  We could see what appeared to be burning chunks breaking off of the fireball and burning up.  As it shot it's way on a Northwestern path it burned itself out.  There was no sound, and no smoke or vapor trail.  It was intensely bright, very noticable in the dusky evening sky.  It was not completely dark out as there was still a bright western sky.  It's path was a straight line going from Southeast to Northwest.  Looking East, East being twelve o'clock, it was sighted at one o'clock and shot to our northern side burning out at the eight o'clock position while traveling in the same straight line.  It may have been a meteorite, but never have I seen one that was so bright, incredibly close or large, that lasted for several seconds.  I only witnessed it for three to five seconds, who knows how long it was visible since we had just walked out side?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50814.html](http://www.nuforc.org/webreports/reports/050/S50814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
