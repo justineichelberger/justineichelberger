@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fremont (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Triangle ship at low flying altitude,at least one football field long in size.This ship was a BIG BLack Triangle, IT WAS flying very low and is over 2 football fields long!  It had a flashing light at each corner, that went from white to red as we were watching it go right above our heads! It was a clear night, and it made no sound.  The weather was clear,no rain, no winds. we were traveling on highway 880 and getting off at our exit at Dixon Landing road.I will send in a picture that I drew of it.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate; provides no time for the sighting.  Given that the witness has submitted reported sighting to NUFORC in years past, we do not understand why she waited seven months to report this sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49057.html](http://www.nuforc.org/webreports/reports/049/S49057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Floating translucent sphere floats right byMy attention was turned to the street when the horn on my old Plymouth starting honking on its own.  There was no security system on this old car.  The honking had stopped but I grabbed my keys to see why it was doing that.  As I approached the drivers side, I looked and saw a translucent sphere about the size of a basketball floating towards me from up the street.  It maintained a height if about 4' off the ground. I opened the car door, got in, and shut the door.  The sphere floated right by the window maybe 2' away.  I watched it follow the road around the corner through my side and rear view mirror.  I did not bother to follow it as I was quite perplexed.  It was translucent enough that it seemed to want to appear invisible.  I never really acted like I had seen it, and it seemed to act like I couldn't see it, as it never changed trajectory or speed.  I had just moved into this suburban neighborhood after spending a couple of years in a very remote location near Lake Shasta, where many other strange occurrences had occurred. Prior to this, I had never seen a 'UFO', nor have I since.  I have, however, seen and experienced many strange things not in the sky, but close to the ground.  I had never researched this until today, reading other similar accounts sends chills and makes me quite emotional. Very strange indeed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108122.html](http://www.nuforc.org/webreports/reports/108/S108122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
