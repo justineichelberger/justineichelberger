@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:45 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 family members observe bright light for 5 minutes near Yucca Valley, CA 1967This sighting took place at my family’s cabin to the North of Yucca Valley, CA.  Those present were: my mother and stepfather; my two grown brothers; my husband and me.  It was early June, 1967.  It was approximately 10pm. It was a very warm evening and we had played cards and then went outside to sit and enjoy the evening.  No alcohol had been consumed. We were quietly talking and discussing UFO’s. My stepfather said he thought he’d seen a UFO just over the city of Yucca Valley a few nights earlier. He described his sighting as a bright light in oval or round shape. He said it made no sound. There was a bit of debate and my wondering was could he have just seen some type of craft from the nearby Marine Corps base, 29 Palms. The subject changed and we were discussing other topics when, all of a sudden an oval light appeared out of no where, no sound. We did not hear it coming. It shot across the sky, stopped instantly and hovered in the distance, it seemed like it was about ½ mile away. It was not possible to judge its height exactly, but it looked like it might have been between 500 and 1,000 ft above us and to the South of where we were sitting. We were all stunned. It just sat motionless and completely silent for around 5 minutes. Then it blinked 3 times and vanished. I mean literally vanished, without a sound.  Whatever the craft was it was like nothing any of us had ever seen before.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89797.html](http://www.nuforc.org/webreports/reports/089/S89797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>sitting in my car 20 miles outside calgary waiting for ((name deleted))  to change his tire on his van as i was waiting looked up in the sky at the stars were bright out in the country then i seen a little blue dot going around in little circles looked down at my dash of my car then looked up again to make sure i was not seeing things.rolled down my window and yelled to ((name deleted)) COME HERE.I got out and pointed my finger and said look up there ((deleted)) was going were were then he said i see it I asked him what do you see, a blue dot going around in a little circles it seemed that it found out that we spoted it it stoped dead in it's tracks went around once more flew off in a split second till this day it's been one of the most fantastic things i have every seen hey this is not bullshit it really happened.........thanks ((initials deleted))((NUFORC Note:  Time and date in 1980 are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21034.html](http://www.nuforc.org/webreports/reports/021/S21034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
