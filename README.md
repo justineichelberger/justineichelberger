@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:45 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:11 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>sitting in my car 20 miles outside calgary waiting for ((name deleted))  to change his tire on his van as i was waiting looked up in the sky at the stars were bright out in the country then i seen a little blue dot going around in little circles looked down at my dash of my car then looked up again to make sure i was not seeing things.rolled down my window and yelled to ((name deleted)) COME HERE.I got out and pointed my finger and said look up there ((deleted)) was going were were then he said i see it I asked him what do you see, a blue dot going around in a little circles it seemed that it found out that we spoted it it stoped dead in it's tracks went around once more flew off in a split second till this day it's been one of the most fantastic things i have every seen hey this is not bullshit it really happened.........thanks ((initials deleted))((NUFORC Note:  Time and date in 1980 are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21034.html](http://www.nuforc.org/webreports/reports/021/S21034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Stratford (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar shaped, moved slowly.My son for several nights demanded I look out the window to see the "UFO".  I refused. I had seen one in 1967or so and it had freaked me out so badly that I didn't want to look.  Finally one night he just would not be quiet so I looked. I saw a small in the distance cigar shaped object moving slowly.  I got the binoculars and saw that it had three colors, I think.  I remember red or orange and brown, possibly white. It just slowly moved out of sight. It was NOT a plane.  It looked like a cigar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13186.html](http://www.nuforc.org/webreports/reports/013/S13186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
