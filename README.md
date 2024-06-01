@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Gulf of Mexico (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was on board Coast Guard Cutter Acushnet WMEC 176 when we encountered loss of electronic power while towing a electronic surveillance buoy. A sudden fog bank arose out of nowhere, and the tow line went limp. We then observed said object on our stern at @ 220 degrees to bow. It didn't leave until a Navy fighter appeared. It accelerated at incredible speed. The ships log was taken, and we were told that "Nothing has happened, and that's an order".((NUFORC Note:  Date is approximate.  We have inquired as to what a more accurate date might be.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25539.html](http://www.nuforc.org/webreports/reports/025/S25539.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Snohomish (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Triangle of three lights in the night sky, stationary but rotating like a wheel.I heard you on 97.3 FM tonight and wanted to see pictures of the car with the dents on the passenger side.  I came across an image of another report of 3 lights in a triangle shape very high in the sky.  I immediately recognized these lights.  When I was young, I used to lay in my front yard and look at the sky at night.  Very often I would see these exact objects.  They remained stationary, but slowly rotated (like a wheel).  I used to go out and look at them and wonder what they were.  My wife grew up only a few blocks away and remembers seeing the same thing.  (please refer to the Rolla, MO report)((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73093.html](http://www.nuforc.org/webreports/reports/073/S73093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
