@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Provincetown (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three white lights at high altitude in a triangle formation moving at "jet liner" speedThis is a posting that relates to a sighting that occured in West Dennis, Massachusetts, on 8/31/97, and which is listed in this database.  My sighting involved a night out near the beach in Provincetown, MA, looking for satellites. I observed a triangle formation of three white lights moving at a "jet liner" speed, as if at 35,000 feet altitude, and at 50 degrees elevation or so.  The lights moved across a short arc and disappeared in sequence.  I was impressed by their lock-step movement, and I thought at the time that even military craft would not fly at that distance apart.  This sighting may seem innocuous, except that the West Dennis case involves what I am sure is the same sort of thing.  On another occasion, by the way, I was looking for satellites in Maine while on vacation and I saw a white light moving like a satellite, when it suddenly made a 90-degree turn!  This happened in Aug. of 1992 near Bath, ME.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06372.html](http://www.nuforc.org/webreports/reports/006/S06372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Homedale (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Witnessed a fireball in the western sky above the Owyhee Mountains just before sunset.I was approximately five years old at the time.  I was playing with my neighbor on my front porch.  I noticed the fireball in the sky in the western horizon.  The sun was just out of view under the crest of the mountain range.  What is strange about the fireball is that it seemed to hypnotize me.  All I remember is just staring at it.  It did not appear to move vertically or horizontally.  It did not get closer or farther away. After a period of time it just was gone.  I did not know what a UFO was at the time.  I never told anyone other than my family, nor did I ever talk to my neighbor about it. I don't even know if my neighbor saw it, although he was with me.  I don't recall talking to him about it at the time it occured, either. Although I have been fortunate enough to see "unidentified flying objects" since, I have not seen anything resembling the fireball on that summer evening, nor have I seen anything as significant. I would like to know if any one else has seen anything like this.  The experience was sublime.  Even as a child, I sensed something sacred; perhaps that is the irony of my curiosity after all this time.  If anyone is interested in sharing info, feel free to email me.  I have other information to share. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07647.html](http://www.nuforc.org/webreports/reports/007/S07647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
