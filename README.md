@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Shelter Cove (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Light overe ocean traveled at low speed until directly overhead at200 to 400 ft. classic saucer with dome on top appeared cast of gold and lit from within. no lights or windows. Resolution to where a 6-inch fitting would be obvious. no sound, lit beach for a radius of 75 yards. WE panicked and ran for car a mile away. Followed us to car. Ignition functioned and I persuaded a terrified 4 people to continue to observe, After 6 minutes it rose at an incredible speed straight up , becoming a star within 6to 10 seconds. No sound, sonic boom or trail. DIAMETER; 150 feet dome to dome height perhaps 40 to 50 feet. Stress not a blurry light. This was a vehicle that saw us on the shore and came in to examine us. One anomaly. We all sensed a force intruding on our minds once we reached car.. I was a science student and amateur pilot at time, a good observer, rational as hell. This sighting remains crystal clear after some 34 years and I have zero doubt it was a craft from a distant neighborhood. That's a joke. Area is known as the lost coast of Ca. for its isolaion.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52485.html](http://www.nuforc.org/webreports/reports/052/S52485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Provincetown (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three white lights at high altitude in a triangle formation moving at "jet liner" speedThis is a posting that relates to a sighting that occured in West Dennis, Massachusetts, on 8/31/97, and which is listed in this database.  My sighting involved a night out near the beach in Provincetown, MA, looking for satellites. I observed a triangle formation of three white lights moving at a "jet liner" speed, as if at 35,000 feet altitude, and at 50 degrees elevation or so.  The lights moved across a short arc and disappeared in sequence.  I was impressed by their lock-step movement, and I thought at the time that even military craft would not fly at that distance apart.  This sighting may seem innocuous, except that the West Dennis case involves what I am sure is the same sort of thing.  On another occasion, by the way, I was looking for satellites in Maine while on vacation and I saw a white light moving like a satellite, when it suddenly made a 90-degree turn!  This happened in Aug. of 1992 near Bath, ME.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06372.html](http://www.nuforc.org/webreports/reports/006/S06372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
