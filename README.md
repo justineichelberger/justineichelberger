@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 31 May 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stavanger (Norway) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Huge dark region in the sky pulling on cloudsYesterday afternoon I was fishing in the fjords of the North Sea.  It was a windy weather and not very sonny because the clouds here and there. About 6 pm I was lying in the boat contemplating the sky.  Nothing special at first.  Then, I realize the clouds around were elongated, stream-like and pointed in a center above my head.  It seems strange.  Then I perceived the sky above me was darker, behind the clouds and I startle.  It was like something very big and dark hided there.  First I thought it must be an optical illusion because it was almost a perfect oval with its center just above my head. It was big, very big, and bigger than a large city!  I was impressed by the “phenomenon” thinking that is natural – the sky is darker above the head and lighter further on.  About a half an hour I realized it moved slowly to east!  So it was not natural and not an optical illusion I thought.  The clouds were attracted to it or been sucked by it.  I thought the thing is sucking the water from the clouds?  It must be!  I don’t know how long the phenomenon occurred but after an hour or so the dark spot was smaller and smaller like it was moving upwards.  The spot was definitely not a cloud!  I really hope somebody else experiences the same, so I am not crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98336.html](http://www.nuforc.org/webreports/reports/098/S98336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 family members observe bright light for 5 minutes near Yucca Valley, CA 1967This sighting took place at my family’s cabin to the North of Yucca Valley, CA.  Those present were: my mother and stepfather; my two grown brothers; my husband and me.  It was early June, 1967.  It was approximately 10pm. It was a very warm evening and we had played cards and then went outside to sit and enjoy the evening.  No alcohol had been consumed. We were quietly talking and discussing UFO’s. My stepfather said he thought he’d seen a UFO just over the city of Yucca Valley a few nights earlier. He described his sighting as a bright light in oval or round shape. He said it made no sound. There was a bit of debate and my wondering was could he have just seen some type of craft from the nearby Marine Corps base, 29 Palms. The subject changed and we were discussing other topics when, all of a sudden an oval light appeared out of no where, no sound. We did not hear it coming. It shot across the sky, stopped instantly and hovered in the distance, it seemed like it was about ½ mile away. It was not possible to judge its height exactly, but it looked like it might have been between 500 and 1,000 ft above us and to the South of where we were sitting. We were all stunned. It just sat motionless and completely silent for around 5 minutes. Then it blinked 3 times and vanished. I mean literally vanished, without a sound.  Whatever the craft was it was like nothing any of us had ever seen before.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89797.html](http://www.nuforc.org/webreports/reports/089/S89797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
