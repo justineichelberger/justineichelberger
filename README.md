@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Floating translucent sphere floats right byMy attention was turned to the street when the horn on my old Plymouth starting honking on its own.  There was no security system on this old car.  The honking had stopped but I grabbed my keys to see why it was doing that.  As I approached the drivers side, I looked and saw a translucent sphere about the size of a basketball floating towards me from up the street.  It maintained a height if about 4' off the ground. I opened the car door, got in, and shut the door.  The sphere floated right by the window maybe 2' away.  I watched it follow the road around the corner through my side and rear view mirror.  I did not bother to follow it as I was quite perplexed.  It was translucent enough that it seemed to want to appear invisible.  I never really acted like I had seen it, and it seemed to act like I couldn't see it, as it never changed trajectory or speed.  I had just moved into this suburban neighborhood after spending a couple of years in a very remote location near Lake Shasta, where many other strange occurrences had occurred. Prior to this, I had never seen a 'UFO', nor have I since.  I have, however, seen and experienced many strange things not in the sky, but close to the ground.  I had never researched this until today, reading other similar accounts sends chills and makes me quite emotional. Very strange indeed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108122.html](http://www.nuforc.org/webreports/reports/108/S108122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver sphere or orb hovering over lower Manhattan Financial DistrictApproximately June 2006, midday around 1 or 2pm on a Saturday or Sunday afternoon, my girlfriend and I were lounging on the roof deck of our apartment building in lower Manhattan’s financial district. I was listening to my iPod while looking up at the sky which was crystal clear blue with no clouds when I noticed a tiny silver round object hovering above. The object was at such a high altitude that it was hard to keep my eye on it. It moved slowly in a south-east direction but would stop and hover completely motionless every so often. I pointed it out to my girlfriend who found it hard to see at first because of the high altitude. She eventually saw it as well. We watched it for a little longer and eventually ignored it as it was hard to track with the naked eye. We are both professionals living and working in Manhattan and really have no reason to fabricate this story.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60632.html](http://www.nuforc.org/webreports/reports/060/S60632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
