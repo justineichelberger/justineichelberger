@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:50 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kennewick (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Observed traingular object with dim off-white lights on underside of each corner. Traveled with "no sound at all".Observed object traveling north to south from my front step. I was facing east when I saw the object. It caught my eye at about my 10 o'clock position (east/west axis) 1 o'clock (north/south axis). It continued South, to about my 2 o'clock position, where it faded in the haze.  I observed the object for approximately 8 seconds. My view was blocked for about 1 second by a tree in my yard. The object traveled at a steady rate of speed and appeared not to veer from its southern course. I could not determine its altitude. There was no sound during or after the object passed over my location. The object was the shape of an equilateral triangle, dark in color (slightly darker than the night sky), with what appeared to be dim off-white lights under each corner facing downward. The "lights" on each corner reminded me of the new round LED brake lights used on trucks and buses. The lights were steady in brightness and did not flicker or pulse. After the oject had passed, I wondered why an aircraft would have such lights mounted on the underside. Maybe they weren't lights. Perhaps this was the visible effects of propulsion.....I don't know. As a size reference, after the sighting, I cut out a ½-triangle from a piece of paper. Holding the triangle at arm length gave a good size aspect of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18011.html](http://www.nuforc.org/webreports/reports/018/S18011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>stay away!1 big light 2 little lights the big light ive seen a number of times before  unfamilar little lights can bring them out . dont like too !scrary!!((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64774.html](http://www.nuforc.org/webreports/reports/064/S64774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
