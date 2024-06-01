@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:11 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Stratford (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar shaped, moved slowly.My son for several nights demanded I look out the window to see the "UFO".  I refused. I had seen one in 1967or so and it had freaked me out so badly that I didn't want to look.  Finally one night he just would not be quiet so I looked. I saw a small in the distance cigar shaped object moving slowly.  I got the binoculars and saw that it had three colors, I think.  I remember red or orange and brown, possibly white. It just slowly moved out of sight. It was NOT a plane.  It looked like a cigar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13186.html](http://www.nuforc.org/webreports/reports/013/S13186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portugal () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>An imense light crossed Portugal during 45 minutes, making no sound, thousands saw it  !During 45 minutes a fire ball with an intensive ray of light crossed Portugal from south to north, thousands of people saw it, it had no sound, and much of the radars detected it, airports and military ones.   There are two home video movies of the ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37368.html](http://www.nuforc.org/webreports/reports/037/S37368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
