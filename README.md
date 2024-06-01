@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portugal () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>An imense light crossed Portugal during 45 minutes, making no sound, thousands saw it  !During 45 minutes a fire ball with an intensive ray of light crossed Portugal from south to north, thousands of people saw it, it had no sound, and much of the radars detected it, airports and military ones.   There are two home video movies of the ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37368.html](http://www.nuforc.org/webreports/reports/037/S37368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent object appears to be flying towards the shore of the Pacific OceanI was visiting my Army buddy who lived in Monterey after returing from Vietnam.  We were walking his dog on the shore of Monterey Bay at around 8 p.m.  A soundless light was approaching from the west at a moderate speed.  As it grew closer a second light eminated from a different part of the craft.  When I thought about this later, it appeared that we may have been "scanned", or something to that effect.  It made a sharp left turn and continued up the coast.When my friend checked his watch after the craft left our field of vision he noticed that we had lost around a half hour in time.  At this late date, I don't remember how I felt afterwards, but I do know that I felt different after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109429.html](http://www.nuforc.org/webreports/reports/109/S109429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
