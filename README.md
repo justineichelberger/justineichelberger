@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Incredible fireball breaking up over S/W IdahoA bright light caught my eye from the East, I turned and managed to say "Now, what is this?"  In that time had moved almost directly Northeast of us.  As it streaked across the sky at an amazing pace.  We could see what appeared to be burning chunks breaking off of the fireball and burning up.  As it shot it's way on a Northwestern path it burned itself out.  There was no sound, and no smoke or vapor trail.  It was intensely bright, very noticable in the dusky evening sky.  It was not completely dark out as there was still a bright western sky.  It's path was a straight line going from Southeast to Northwest.  Looking East, East being twelve o'clock, it was sighted at one o'clock and shot to our northern side burning out at the eight o'clock position while traveling in the same straight line.  It may have been a meteorite, but never have I seen one that was so bright, incredibly close or large, that lasted for several seconds.  I only witnessed it for three to five seconds, who knows how long it was visible since we had just walked out side?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50814.html](http://www.nuforc.org/webreports/reports/050/S50814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fremont (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Triangle ship at low flying altitude,at least one football field long in size.This ship was a BIG BLack Triangle, IT WAS flying very low and is over 2 football fields long!  It had a flashing light at each corner, that went from white to red as we were watching it go right above our heads! It was a clear night, and it made no sound.  The weather was clear,no rain, no winds. we were traveling on highway 880 and getting off at our exit at Dixon Landing road.I will send in a picture that I drew of it.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate; provides no time for the sighting.  Given that the witness has submitted reported sighting to NUFORC in years past, we do not understand why she waited seven months to report this sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49057.html](http://www.nuforc.org/webreports/reports/049/S49057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
