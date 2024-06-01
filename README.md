@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Homedale (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Witnessed a fireball in the western sky above the Owyhee Mountains just before sunset.I was approximately five years old at the time.  I was playing with my neighbor on my front porch.  I noticed the fireball in the sky in the western horizon.  The sun was just out of view under the crest of the mountain range.  What is strange about the fireball is that it seemed to hypnotize me.  All I remember is just staring at it.  It did not appear to move vertically or horizontally.  It did not get closer or farther away. After a period of time it just was gone.  I did not know what a UFO was at the time.  I never told anyone other than my family, nor did I ever talk to my neighbor about it. I don't even know if my neighbor saw it, although he was with me.  I don't recall talking to him about it at the time it occured, either. Although I have been fortunate enough to see "unidentified flying objects" since, I have not seen anything resembling the fireball on that summer evening, nor have I seen anything as significant. I would like to know if any one else has seen anything like this.  The experience was sublime.  Even as a child, I sensed something sacred; perhaps that is the irony of my curiosity after all this time.  If anyone is interested in sharing info, feel free to email me.  I have other information to share. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07647.html](http://www.nuforc.org/webreports/reports/007/S07647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Maryland (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>The craft was Triangular,one story thick,in the middle was a half sphere   ,and it made a deep humming sound.Myself and my mother were out late one night looking at the stars through my telescope.When we heard a deep humming sound coming from in back of us and we looked up and saw the craft.It was huge triangular in shape and it looked as thick as a one story building and in the middle there a half sphere which was glowing pink.We stared up at for I don't know how long ,but then it moved away over Andrews Air Force Base.After the craft left my left ankle hurt and when I looked down at it it looked like a dough  nut and it hurt for a week.There is still a little scar there.Is really to bad my mother can help confirm my story because she is as current mentally unstable.But I know what I saw and there were probily others who saw it too.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17948.html](http://www.nuforc.org/webreports/reports/017/S17948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
