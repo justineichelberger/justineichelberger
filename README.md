@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Rochester (approching) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately afew minutes - afew minutes minutes.</sub><blockquote><sub>My wife and I were driving from Brockport to our home in Rochester, NY, in the evening when we spotted three bright discs hovering in the night sky. They were bright white in color and moved in tandem from one area of the sky, at rapid speeds, across the night sky over to where the airport was located. The next morning an article appeared in the Rochester newspaper detailing a man who claimed he had been chased by a flying object.  I was teaching at ((school name deleted)) (grade deleted)) in the Rochester public schools and the next day students in my class claimed that a craft similar to what we has seen came down and hovered around their playing field.  ((name deleted))((NUFORC Note:  Witness indicates that the date of the incident in 1965 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55088.html](http://www.nuforc.org/webreports/reports/055/S55088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Greenville (DE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White disc makes sharp turns and then shoots up as fast as lightning.A white colored disk, exactly the color of high clouds.  Moved in a zigzag formation and then shot up into space.  Was far up in the sky.  But it moved incredibly fast.  It was inconceivable that a craft was able to cover such a large span of space in less than 2 seconds.  It changed horizontal direction twice at precise turns of about 60 degrees.  Than made a vertical turn and shot up into space, again, at lightning speed.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106103.html](http://www.nuforc.org/webreports/reports/106/S106103.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
