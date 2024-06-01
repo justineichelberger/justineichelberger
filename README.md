@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver sphere or orb hovering over lower Manhattan Financial DistrictApproximately June 2006, midday around 1 or 2pm on a Saturday or Sunday afternoon, my girlfriend and I were lounging on the roof deck of our apartment building in lower Manhattan’s financial district. I was listening to my iPod while looking up at the sky which was crystal clear blue with no clouds when I noticed a tiny silver round object hovering above. The object was at such a high altitude that it was hard to keep my eye on it. It moved slowly in a south-east direction but would stop and hover completely motionless every so often. I pointed it out to my girlfriend who found it hard to see at first because of the high altitude. She eventually saw it as well. We watched it for a little longer and eventually ignored it as it was hard to track with the naked eye. We are both professionals living and working in Manhattan and really have no reason to fabricate this story.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60632.html](http://www.nuforc.org/webreports/reports/060/S60632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>During the process of putting things away in my new upstairs apartment I looked out my window and I saw a 10' tall object suddenly appear about 100 feet from my window.  When it stopped it made very fast pendulum type movements.  It looked like a 4'in diameter multi-colored ball with a 6' multi-colored stick coming up from the center of it.  In 3 seconds it flung out upward, and disappeared into outer space.  I never heard a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149865.html](http://www.nuforc.org/webreports/reports/149/S149865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
