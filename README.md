@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orinda (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar-shaped UFO, silver, non-descript moving North/Northeast in East Bay Hills of Contra Costa County, CAOne cigar shaped, metallic object, moving North East. Not shiny, but silver.  At first thought it might be a plane, but saw no wings or tail.  Non-descript, meaning, no detail seen.  Couldn't tell if it was far away, or close.  Just moving in the direction North, North-east until the hills blocked the view. I am a recording engineer who works in Berkeley and was driving on 24 West, approaching the Caldecott tunnel..traffic was slow, and I had time to look out my window.  At first I saw this object and thought to myself, "Oh, maybe that's a blimp, or a weather balloon, but then realized it was not that at all."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37291.html](http://www.nuforc.org/webreports/reports/037/S37291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed 4-5 strange flashing objects moving erratically in the sky.UFO Sighting in Tucson, AZ:  I was standing in front of my apartment, watering my plants, when I saw a strange shape appear out in the sky.  At first I thought it was a balloon or large piece of paper blown by the wind, but then I realized it was too big to be that.  It was about 2 to 3 miles away, and it was floating 300-400 feet off the ground.  It was flashing, and seemed to be spinning as well. The sun was at an angle that I couldn’t see it too well.  It rose at a speed that was far faster than the wind could carry it.I was contemplating calling my mom, when another one appeared coming from below and to the right. It went up and joined the other one, it followed it for a few seconds and then went off on it’s own.  I don’t recall what exactly they did in terms of formation. I called my mom over and showed them to her.  She saw them better because she had sunglasses on.  Another one appeared several seconds later. They were flying around erratically, constantly changing altitudes. The highest I saw them get was 4000-5000 feet.  By the time they left there were 4-5 of them and we were sure these were UFO’s. They left going north.I can’t really say how big they were, but they were big enough to be seen without assistance from very far.  I think they were probes or scouts of some sort, but I’m not sure.  They were definitely NOT something I’ve seen before, except on TV in shows about aliens or UFO’s. Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70340.html](http://www.nuforc.org/webreports/reports/070/S70340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
