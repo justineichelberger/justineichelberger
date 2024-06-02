@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 1 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Grandview (Canada) (MB) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>as i think back on the year it happened i was 8 going on 9 my mother brought me and my two brothers outside because we lived just in a small farmhouse, the object we observed was straight north of u from location we at ..at 75% angle was postion of object in the northern sky  relation to us on the ground where looking straight out along ground was 0%, by reference size could not be correlated but it was a solid mid to light blue triangular kite shaped object as a cross embedded on the blue the cross was of a mid to light white in hue, runnin along the perimer of object was a darker blue with traces of light whit and fleks of orange... measurement i would give to this date diffuculty as the object appeared to be in a very extreme high position in night northern almost as if it was placed outside our atmosphere.....night sky wa clear there was no haze or any cloud disruption to distort a plain eye view of object for the entire 30 minutes it remained in a fixed orbit relative to our position..when we went to bed it was still there... subsequent attempts that summer to see again..we have never seen it prior to or ever after that one evening,hard to explain in size reference as it distance was high up ..but distance was stable n stationary clear view..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61536.html](http://www.nuforc.org/webreports/reports/061/S61536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Perdido Key (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three spherical objects floating by while on the beachMy boyfriend and I were on the beach, watching the sky (we don't get the chance to see nearly as many stars where we live) saw three separate silver spherical objects, no navigation lights or any other type of lighting, just rolling through the sky.  Made sure to check J-tracker when we got home to make sure we weren't seeing a satellite. No satellites passing through were posted.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98351.html](http://www.nuforc.org/webreports/reports/098/S98351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
