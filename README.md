@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:48 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Welland (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange things in the skylast night i was siting out and enjoying a fire and just watching the stars, when i see what i first thought was a falling star,(from west to east)..... but what cought my attention was the varing speed at which it travelled moderate to hovering to full boogie) many many times faster than any plane i have ever seen, then it stopped and hovered then sped off, came back west a little, then i could cleary see it go completely verticle in a spiral then headed south. I have never really believed in UFO before last nigt. also i kept a more carefull eye on the sky aftward and noticed about six more very very high speed things all going southernly at one constant speed, and looked like a more straight or direct route,??????.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23126.html](http://www.nuforc.org/webreports/reports/023/S23126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Boardman (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Diamond shaped object emitted small red spheres while travelling in a stop/start triangular patternAfter leaving a local movie theater at 10:45 at night, my wife and I looked up into the eastern sky and noticed a strange, bright white diamond shaped object, traveling along and then stopping in the eastern night sky.  It appeared to be approximately 3,000 feet up at an 90 degree angle to us. The object then proceeded to flash multiple colors, and move in a triangular-like pattern in the sky, stopping and emitting what looked like a small red light sphere that traveled in a lower altitude away from the stopped object and quickly disappeared from view.  This happened three times over the course of a few minutes.  Approximately 5 minutes after the event started, it had stopped, and the bright white diamond shaped object disappeared to the East in a cloud bank.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134455.html](http://www.nuforc.org/webreports/reports/134/S134455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
