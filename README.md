@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mound House (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Bright orbs flying over our house nightly.Almost every night for the past 15 days we have strange bright  lights shining on our house. (We back to BLM) At the same time we can see lots of orbs flying in and outside our house. We checked the cameras outside and noticed up on the mountain some type of vehicle was shining a bright beam of light over towards our home. We have on film one strange orb/craft flying in front of our house above our deck. We also have what I would describe as a large very bright “bug” flying around the deck which changes shape.(We have a photo of this). We have also noticed that these are not seen with the naked eye, these have only been spotted on our cameras that recorded motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156870.html](http://www.nuforc.org/webreports/reports/156/S156870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Selkirk (Canada) (MB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three red lights on triangular shapped craft or 3 seperate objects in triangle formation!I was in my backyard reading a book by candle light on the 2nd of June 2002 at about 11:00-11:30 PM CST. I don't know the exact time becasue I stayed outside for a while after I saw it to see if it would come back again. When I'm reading a book I take a break after each chapter to have a cigarette and to think about what I have just read. After completing the 1st chapter of the book "The Stranger" I stopped and had my break. While I was smoking my cigarette I was gazing into the sky as it was one of the clearest nights I have seen recently and saw something that I could not explain! I saw what was either a triangular shapped craft or three crafts flying in a triangular formation. I don't know whether it was just one or multiples because I was unable to make out any part of the structure only three red lights. I am not an aviation expert at all but I am fairly certain that it was not a airplain as the object(s) was alot closer than planes usually fly and it was one of the fastest moving objects I have ever seen in my life. I am extremly skeptical about these types of things and would appreciate if someone would be able to clear this up for me. I have been searching the net since I saw the object(s) and the closest picture I could find was this one http://www.totalufo.net/ufos/pics/belgufo.htm but there was no middle light and I was unable to make out and defined shape like the one in this picture which is why it could have been three seperate objects.Extra Information: It didn't occur to me until later but there was a problem with the TV changing inputs and turning on and of after I had come inside. Think this might be nothing but it had never happend bofore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23128.html](http://www.nuforc.org/webreports/reports/023/S23128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
