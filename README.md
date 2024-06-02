@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light swell, north of Phoenix.I live in south central Phoenix and was sitting in my house, watching a movie and I noticed a bright blue light coming from the north.  It was white-blue and it swelled on and off twice for a little over one second.  I thought it was storming due to the wet pavement, but then I noticed that the sprinklers were on and the sky is clear...  What was that?((NUFORC Note:  Object reported by the news as a probable meteor.  We agree.  See photos of smoky trail left high in the sky above Arizona.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127653.html](http://www.nuforc.org/webreports/reports/127/S127653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Florissant (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Unidentified green light.I am writing this message because I made another report yesterday afternoon.  I have since reviewed my instant messenger conversation log and realized I made a mistake about the time and date the sighting occurred.  It occurred on June 2, 2011 around 23:00 and it was traveling in a Northerly direction.  Also to add a note about the color of green; it was green like a stop light green light.  The object also made no sound whatsoever.  My father used to work for TWA airlines and he said that in the area this happened there would be no aircraft with green lights.  He also said they would not be from a helicopter either.Here is my original message for reference so you can update your records:   Hello, I live in Florissant Mo, about two weeks ago,  I was walking up to the mcdonalds on lindberg ave.  I saw a solid green light in the sky that appeared to move slow and looked like it could not be more then 100 feet in the air.  It looked like it was moving maybe 15 mph i mean pretty slow.  I saw the light for maybe 10 seconds and then it curved upward the light started moving really really fast for about two seconds while moving upwards and then just dissappeared.  I did not report it to the police because they would likely not take it seriously. Anyway that is what I saw.((ORIGINAL REPORT APPENDED HERE))Low flying green light over Florissant, Missouri.Hello,  I live in Florissant, Missouri; about two weeks ago I was walking up to the McDonalds on Lindbergh Avenue.  I saw a solid green light in the sky that appeared to move slow and looked like it could not be more than 100 feet in the air.  It looked like it was moving maybe 15 mph i mean pretty slow.  I saw the light for maybe 10 seconds and then it curved upward the light started moving really fast for about two seconds while moving upwards and then just disappeared. I did not report it to the police because they would likely not take it seriously. It made no sound.((END APPENDED REPORT))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81826.html](http://www.nuforc.org/webreports/reports/081/S81826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
