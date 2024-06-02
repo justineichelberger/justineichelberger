@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green light over the area around Austin.It was a green oval that shot across the sky through the clouds. It was very bright, and was traveling very fast. It made no sound as it went by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70337.html](http://www.nuforc.org/webreports/reports/070/S70337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Siesta Key (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange color,  appeared about the sizeof a tennis ball, moved vertically until barely visible, then moved at a high speed westwardThere was no sound. I noticed a bright orange ball to the north of my location on the beach.  It seemed to hover for a few seconds after I noticed it.  Then it started to move vertically. I pointed it out to a young lady who also saw it and we watched it go almost out of sight and then turn west and move rapidly out of sight over the Gulf of Mexico.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75716.html](http://www.nuforc.org/webreports/reports/075/S75716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
