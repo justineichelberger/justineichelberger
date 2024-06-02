@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Harlingen (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular shaped object with orange aura spotted in Harlingen, TX. on 6/2/2006I work at a car dealership and most of the time I spend at work is outside waiting on customers.  On this day was overcast with storms in the area, but it never rained where I was.  My coworkers and I were always watching the sky to see if there was a rainshower near by.  At about 15:00hrs I spotted an object in the distant sky which I thought was a helicopter approaching to a landing strip about a mile away from my location.  I noticed that the speed at which the object was approaching was very slow and I proceeded to ask my two other coworkers their opinion of what the object was.  The responses they gave me (a hawk, a baloon, a kite, a blimp) were slowly being eliminated as the object moved closer to our location in Harlingen, Tx.  The best description that I can give about the object is as follows.  It was black in color and had a triangular shape.  At one point in my observation, it seemed as if it was a convetional private jet airplane that was out of control because it had a faint sound of a jet engine and was rotating as it made its approach.  As it moved closer, I began to notice a disturbance that encompassed the object; a light orange colored aura.  It also left a trail of disturbed air also tinted in orange which demonstrated its movement.  At it's closest point, five other coworkers joined me in the observation of the object.  the object was approaching from the ESE and took a turn to the WSW and began moving away from my location at almost the same speed as the approach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50812.html](http://www.nuforc.org/webreports/reports/050/S50812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White bright light flying past in the sky for 2 mins and disappeared suddenly.There was a circular bright white light flying in the sky. It was steadily moving, and it wasn't an airplane. It went on for about two minutes and just disappeared suddenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156889.html](http://www.nuforc.org/webreports/reports/156/S156889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
