@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:26 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Too fast to capture on camera.Looked like Space Shuttle with contrail, except flashing red and white lite very fast moving object.  Not a commercial plane.  Maybe a military plane, but supersonic.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119290.html](http://www.nuforc.org/webreports/reports/119/S119290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ischia (Italy) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately Very Quick - Very Quick minutes.</sub><blockquote><sub>Picture of UFO in Italy last weekhttp://www.macc.com/UFO.6.2.2010.Ischia.Italy.jpg  My Fiance just got back from a two week trip to Italy.  Last Wednesday they hiked to the top of a mountain in Ischia, an Island off Naples to visit a statue of the Holy Mother.  They took a sequence of pictures.  Never noticing anything in the sky.  Although it was a perfectly clear day. It wasn't until they got back to the house later when reviewing the pictures that they noticed a UFO that was above them.  This object was not in the sequence of pictures before or after this one.  Interestingly, and within 48 hours of this photograph they heard there was a report on the mainland in Naples that made the local news of someone claiming an actual UFO landed on their property.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75696.html](http://www.nuforc.org/webreports/reports/075/S75696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
