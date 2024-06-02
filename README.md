@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:48 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Beacon Rock State Park (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange spheres moving across the night sky that look like fire.We were camping at Beacon Rock State Park in the Washington Columbia Gorge when we saw fireball appearing spheres moving across the sky at about the level that a small plane would fly.Initially there were five of the fireballs in a formation. I believe there were a row of three and then a row of two. After that there were about a dozen more orange spheres in single file spaced far apart moving west to east. We kept thinking that the display was over and then another fireball would pop into view from the western sky. They were quite bright and moving faster than a small plane would.  They were gaining elevation at a low angle. They would eventually disappear. It is unclear whether they entered the cloudbank and were just no longer visible or perhaps burned out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89442.html](http://www.nuforc.org/webreports/reports/089/S89442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Welland (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange things in the skylast night i was siting out and enjoying a fire and just watching the stars, when i see what i first thought was a falling star,(from west to east)..... but what cought my attention was the varing speed at which it travelled moderate to hovering to full boogie) many many times faster than any plane i have ever seen, then it stopped and hovered then sped off, came back west a little, then i could cleary see it go completely verticle in a spiral then headed south. I have never really believed in UFO before last nigt. also i kept a more carefull eye on the sky aftward and noticed about six more very very high speed things all going southernly at one constant speed, and looked like a more straight or direct route,??????.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23126.html](http://www.nuforc.org/webreports/reports/023/S23126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
