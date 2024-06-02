@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:28 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Andrews (Canada) (NB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO Objects FoundThere have been Several UFO Sightings over the Past few Years, Recently on June 1st 2011 15:00 hours, Sunny, Two Cigar Shaped Tubes over Chamcook Mountain, Travelling East to West, Witnessed by my Self and One other Person with Me.(His Third Encounter)  On June 18th 2011 16:30 hours, Sunny, My Son Witnessed a Orange Glowing ball UFO Hovering over Navy island Beach for 4 to 5 minutes before it when Up and Disappeared.It was Seen Several more Times over the Summer and on a Very Cloudy Night it was Seen by many People in Town Shining a Beam down into the Water.On July 2nd  2011 18:00 hours, Overcast, I Witnessed from Indian Point an Orange ball UFO over Pagan Point, Travelling slowly South to North along the Beach followed by a Flash of light, then I Felt this Very Powerful Wave of Emery go by Me and an Object Dropped from the Sky, By then the UFO Disappeared.The Next Day July 3rd 2011 08:00 hours, Overcast, I went Out to the Area to Find what ever had Fallen from the Sky near the UFO.The First thing i Found was a Meteorite looking, Soft Ball sized  Rock (1468g) with makings like a Space Capsule Heat Shield with Fresh Reentry Burns and Looks just Like an ALIEN EYE looking at You and A Map of our Solar System.Next to the First Rock was a Second Meteorite looking Rock the Size of a Golf Ball (166g) with a Very Dark Green Colour and a Texture like Reptile Skin.The Third Rock Inches away is a Bust (1466g) of a Reptilian King on one Side and the Queen on the other side Both with a Crown and a Horn on Top of the Head plus Teeth. (Very Creepy)  The Fourth Rock was Found Earlier in the Year. A local News Paper did a Story on the find a Basket Ball sized Rock/Meteorite 20kg (Now broken-up) With vanes of Gold, Silver and Copper. The Gold and Copper is in the Shape of Perfect 'Borg' Cubes, the Silver flows like Water.I Think this is an Area that Attracts Dimensional UFOs & Hitchhikers like Meteorites and Space Junk.I Would love to See that is Inside the Rocks, But after Seeing the History Channels Ancient Aliens on Plagues that May half Come from Meteorites this is Very Scary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84258.html](http://www.nuforc.org/webreports/reports/084/S84258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mound House (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Bright orbs flying over our house nightly.Almost every night for the past 15 days we have strange bright  lights shining on our house. (We back to BLM) At the same time we can see lots of orbs flying in and outside our house. We checked the cameras outside and noticed up on the mountain some type of vehicle was shining a bright beam of light over towards our home. We have on film one strange orb/craft flying in front of our house above our deck. We also have what I would describe as a large very bright “bug” flying around the deck which changes shape.(We have a photo of this). We have also noticed that these are not seen with the naked eye, these have only been spotted on our cameras that recorded motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156870.html](http://www.nuforc.org/webreports/reports/156/S156870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
