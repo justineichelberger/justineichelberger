@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:51 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Perdido Key (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three spherical objects floating by while on the beachMy boyfriend and I were on the beach, watching the sky (we don't get the chance to see nearly as many stars where we live) saw three separate silver spherical objects, no navigation lights or any other type of lighting, just rolling through the sky.  Made sure to check J-tracker when we got home to make sure we weren't seeing a satellite. No satellites passing through were posted.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98351.html](http://www.nuforc.org/webreports/reports/098/S98351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kenton (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I saw a big blue light  while sleeping in my van in the desert.My family and I were on vacation.  We were in the middle of nowhere and decided we had to sleep in the van.  We were parked along the road beside the Black Mesa trailhead.  The almost full moon was very bright and was lighting up the unfamiliar landscape.  My husband and I got out and thought about putting up our tents but I heard a buzzing and decided to just sleep in the car,as the kids were already asleep and I didn't want to wake them and have them cry out in the night. My husband got a sleeping bag and put it down on the passenger side of the van.  Before I took my glasses off, I looked around and noticed there was no lights to be seen in any direction. I slept for a couple of hours and something woke me up at 1:43.  I raised my seat and put on my glasses and looked to my right to see black cows mooing and sniffing around my husband.  While I worried about him being trampled by cows, I looked around at  the desert landscape.  I looked out my driver's side window and saw a large blue disk shaped light.  It was below the horizon, so I got the feeling it was on the ground. It's color was pretty much the color of a blue street light, but it was much too big to be a street light. It was shimmering.  I thought that maybe there was a lake in that direction and the moon was reflecting off of it.  I went back to sleep, but would wake up every now and then to see if it was still there.  I am sure it was there for at least two hours, maybe more. As soon as it was light enough, I looked in that direction expecting to see a lake or a barn or house, but there was nothing there.  It couldn't have been more than a mile or so away due to the fact there were hills in the way. I estimate the object was about mini van size.  It never moved while I was looking at it and the light and color didn't change.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18371.html](http://www.nuforc.org/webreports/reports/018/S18371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
