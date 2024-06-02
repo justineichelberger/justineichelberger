@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed 4-5 strange flashing objects moving erratically in the sky.UFO Sighting in Tucson, AZ:  I was standing in front of my apartment, watering my plants, when I saw a strange shape appear out in the sky.  At first I thought it was a balloon or large piece of paper blown by the wind, but then I realized it was too big to be that.  It was about 2 to 3 miles away, and it was floating 300-400 feet off the ground.  It was flashing, and seemed to be spinning as well. The sun was at an angle that I couldn’t see it too well.  It rose at a speed that was far faster than the wind could carry it.I was contemplating calling my mom, when another one appeared coming from below and to the right. It went up and joined the other one, it followed it for a few seconds and then went off on it’s own.  I don’t recall what exactly they did in terms of formation. I called my mom over and showed them to her.  She saw them better because she had sunglasses on.  Another one appeared several seconds later. They were flying around erratically, constantly changing altitudes. The highest I saw them get was 4000-5000 feet.  By the time they left there were 4-5 of them and we were sure these were UFO’s. They left going north.I can’t really say how big they were, but they were big enough to be seen without assistance from very far.  I think they were probes or scouts of some sort, but I’m not sure.  They were definitely NOT something I’ve seen before, except on TV in shows about aliens or UFO’s. Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70340.html](http://www.nuforc.org/webreports/reports/070/S70340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Winnipeg Sighting - North-East Sky -On Friday night, I was playing Texas Hold'em with my wife and a close friend when I notice an object in the sky surrounded by a Neon Green glow. I say the object in the Eastern sky through the opened balcony door. I ran out onto the balcony and the object seemed to be flying north. It appeared that the object was flying not much faster than most satellites. At one point it seemed it jumped up and then continued going north. I am not sure if there were clouds out that night of not, but I lost the object in the North-East sky. At the time of the sighting, I was in my friend's home located in St. Boniface (Winnipeg) near the intersection of Taché and St. Mary' Rd. If you have seen this obeject as well, please email ((e-address deleted)) . They are working closely Canadian Reports to determine what this object is.((NUFORC Note:  For the sake of anonymity, which we guarantee to everyone who contacts our Center, we have had to delete the e-address provided above by the witness.  However, if you witnessed the phenomenon described here, please submit a report to our Center, using the Online Report Form at www.UFOCENTER.com, and we will forward the information to the appropriate parties in Canada.  Thank you!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50860.html](http://www.nuforc.org/webreports/reports/050/S50860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
