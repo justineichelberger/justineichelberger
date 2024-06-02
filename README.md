@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:51 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>erratic fast moving star like object with bright flash every few secondsI could not sleep went outside around 330 to smoke a cigarette, a bright flash of light ok in the sky caught my eye.  I don't deserve a star like object moving from north to south in an irratic pattern flashing a bright light every few seconds.  like a bright camera flash!   I watched it until it disappeared .  I saw 2 star like objects not flashing heading in the opposite direction, and then that's when I noticed a second bright I was like object heading from north to south flashing every few seconds dim then bright up and down very strange. all together I saw 5 objects in the sky moving in different directions!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89342.html](http://www.nuforc.org/webreports/reports/089/S89342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ottawa (near) (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white light moving fast across the sky.A friend and I were sitting on the swing around 10 p.m chatting and looking at the stars.  A bright light moved across the sky at a rapid pace heading north, then it turned and headed east.  Just a solid bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109911.html](http://www.nuforc.org/webreports/reports/109/S109911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
