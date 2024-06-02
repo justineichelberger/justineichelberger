@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 2 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some '' over a period of approximately on going - on going minutes.</sub><blockquote><sub>no doctors no what the foreign objects are  i have been to 4 ent doctors there two foreign objects on my body in the area of my facial cheeks.  one on each side one dr. is convinced i had surgery done but i have no scars.the others dont know what they are i also seen a psychiatrist about my situation he then took my films to a ent professor at ucla.and he also had no answer.i also had 2 different ct scans at 2 hospitals a radio graphic tech for 15 years heard about my situation and performed a ct scan no charge and was also perplexed.she had never seen anything like that before. one dr. asked me if ihad ever been shot in the face with bbs i said no!they are symetrical in shape and size also they are also aligned perfect with each other.((NUFORC Note:  We spoke with this witness, and he sounded to us to be quite sincere, and willing to document his statements.  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62520.html](http://www.nuforc.org/webreports/reports/062/S62520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orinda (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar-shaped UFO, silver, non-descript moving North/Northeast in East Bay Hills of Contra Costa County, CAOne cigar shaped, metallic object, moving North East. Not shiny, but silver.  At first thought it might be a plane, but saw no wings or tail.  Non-descript, meaning, no detail seen.  Couldn't tell if it was far away, or close.  Just moving in the direction North, North-east until the hills blocked the view. I am a recording engineer who works in Berkeley and was driving on 24 West, approaching the Caldecott tunnel..traffic was slow, and I had time to look out my window.  At first I saw this object and thought to myself, "Oh, maybe that's a blimp, or a weather balloon, but then realized it was not that at all."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37291.html](http://www.nuforc.org/webreports/reports/037/S37291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
