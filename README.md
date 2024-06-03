@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jamaica (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My girlfriend and I had rented a room at Jetts Motel for the weekend. On the way home we decided to walk from the motel to Hillside and archer ave which is some distance away(PLEASE check distance yourself). We left the motel at 11:07 pm stoped and talked for about 10 min, as we were walking down Hillside Ave my girlfriend noticed a light in the sky. It wasn't bright or glowing as most UFO's are discribed at first glimpse I thought it was a plane, then she pointed out the the pattern of the lights which were really weird and we know it wasn't a plane because the height at which it was flying we would of definatly heard it and it was moving extreamly slow. We watched it for about 5-7 min then it started to move at average speed of plane in flight. I made a joke and said that the only way we would know it is a UFO was if we were to see a couple of jets go after it and like 2 min after making that statement we heard a loud noise and looked up and saw 4 jets going after the craft. When the jets got closer, the craft took at sucha tremdous speed it was unbeliveible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18155.html](http://www.nuforc.org/webreports/reports/018/S18155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Loudon (NH) reported seeing craft that fit the description of some 'Flash' over a period of approximately ~1½ - ~1½ minutes.</sub><blockquote><sub>Blueish-greyish flashes of light at 6-10 second intervals, moving stars (couldn't have been planes or satellites), triangle in the sky.Me and my sister and her friend were outside on our trampoline.  It was about 9:30 or 10:00 pm and we had a clear view of the night sky from where we were.Then we saw a bluish greyish flash of light and thought it was lightning so we ignored it.  Then it happened again, and continued to happen.  So we decided to look for the source but we couldn't find one.It surrounded the treeline and didn't seem to orient from somewhere.  It typically happened between 6-10 seconds from each other.  Every time my mother came out to check on us, it wouldn't occur until she left, then it would happen right after.  Even if a car was passing by, it wouldn't happen until right after the car had left.We saw small objects moving through the sky.  They appeared white, my sister even said she saw a red one.  They were too small to be satellites and didn't have lights on them so they weren't planes either, it was also completely silent besides the river running through the yard.  The objects also moved in a completely straight line, some parallel to others moving completely straight, therefore, we concluded they couldn't be satellites.We also saw three stars aligned in a triangle formation.  We looked it up and found the "Summer Triangle" constellation, but it was too unproportional to what we had seen, so we don't know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127679.html](http://www.nuforc.org/webreports/reports/127/S127679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
