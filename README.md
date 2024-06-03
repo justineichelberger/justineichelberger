@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:31 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:52 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newport (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>UFO photo sightingUFO sighting off castle hill, Newport, rhode island.   We were taking photos of Newport harbor on a digital camera and when we reviewed photos the UFO appeared as you can see below.   UFO was not seen except for in photo.   We were standing in an open field with nothing above us or around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76377.html](http://www.nuforc.org/webreports/reports/076/S76377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jacksonville (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle UFO chased by ospreesI was sitting in my car and saw a sphere just above the canopy of the trees.  The ball was gold and hung in the air.  It was coming towards my car but hovering as if it had seen me.  My street is a culdisac, I drove straight and drove through to the other end of the street.  The sphere was gone but directly in front of me I saw a triangle, at each point of the triangle was different balls of light.  One light was red.  The triangle tilted sideways and nose dived quickly into the woods.  I parked in my driveway and told my husband.  I went back outside and called a friend of mine who has interest in aliens as I was telling him I saw another light in the same area as the first light was.  I thought it was the ufo again and called my husband outside.  He said it was an ospree (military aircraft) 2 flew over head towards the direction of the ufo.  I think the ufo either landed or crashed.  I heard no noise from the ufo AT ALL but I did hear the noise of the planes I can tell the difference.  I think they were chasing it.  I want to know if anyone else has seen the type of ufo I have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75670.html](http://www.nuforc.org/webreports/reports/075/S75670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
