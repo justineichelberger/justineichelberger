@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Leeds (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A golden sphere traveling at a slow rate then it was gone in a flash like the star ship enterprise in warp drive?on my way to work i saw a golden sphere gliding across the sky.I stopped my truck and just looked at this gold sphere like it was something out the tv show star trek then it started to move faster and faster and then it was gone in a flash like a firewore exploding.i know want i saw and i'm not making this up.It might seem i've left it along time before i've submited this but i would like to know if anyone else has witness anything like this before?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34362.html](http://www.nuforc.org/webreports/reports/034/S34362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some '' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Meteor sighting in Washington state, 3june04I had awakened about 5 minutes before the event. I was sitting up in bed and saw a very bright light cross the skylight above.  It appeared to travel west to east.  Initally, the light was white, then changed to orange.  Based on the brightness I would have judged it to be the hovering height of a search helicopter.For a moment I thought it was a helicopter, but there was no accompanying helicopter noise.  My next thought was a marine flare, but I am not near the water.  Shortly after seeing the intense light, I heard a sound similar to fire-cracker bursts. I then thought it must have been a fire work, such as a roman candle, although it seemed much to bright for that, and described it as such to my room-mate over breakfast.  I was relieved to have a more reasonable identification when I heard about meteorite sightings on late morning radio. ((NUFORC Note:  Dramatic meteor over Seattle.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37321.html](http://www.nuforc.org/webreports/reports/037/S37321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
