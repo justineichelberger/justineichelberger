@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:31 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Swartz Creek (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four orange lights in the night sky vanish, two by two.On the way home from Hometown Days, I and my daughters notices 4 orange-colored lights in the sky in a linear, but slightly curved formation.  The lights were south of the railroad tracks and west of Morrish Road and I would guess that they were between Hill and Grand Blanc Roads. The lights were far apart enough to appear to be 4 different objects, not 4 lights on a single object. After walking past a tree, two of the 4 lights were no longer there. Within a time period of about 5-6 seconds the two remaining lights moved upward and further away and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81794.html](http://www.nuforc.org/webreports/reports/081/S81794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newport (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>UFO photo sightingUFO sighting off castle hill, Newport, rhode island.   We were taking photos of Newport harbor on a digital camera and when we reviewed photos the UFO appeared as you can see below.   UFO was not seen except for in photo.   We were standing in an open field with nothing above us or around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76377.html](http://www.nuforc.org/webreports/reports/076/S76377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
