@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:18 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:51 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Faster then anything I've ever seen1 fast moving circle headed down.  Too fast to be a shooting star.  My radio cut out as soon as I saw it, flipped back on when it was gone((NUFORC Note:  Hoax??  Date is flawed.  Anonymous report; no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127693.html](http://www.nuforc.org/webreports/reports/127/S127693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Hi. Tonight I witnessed 2 orange &quot;pyramid&quot; shaped UFO's moving at approx. 100 to 150 mph over the Palm Beach International aiHi. Tonight I witnessed 2 orange "pyramid" shaped UFO's moving at approx. 100 to 150 mph over the Palm Beach International airport area.  They were separated by about 1 mile and a half and seemed to be about 30 feet wide front to back and side to side.  They were making no sound and were not fighter jets using afterburners.  I was in  the U.S. military and was in areas to watch fighters in training at bases overseas and they were not fighters.  They appeared to resemble a pyramid shape pointing into the sky as they were flying.  they were moving in a north north east direction.  I saw no beams being used.  As I went down the road to see where they were going they disappeared over the airport without landing at the airport.  The craft actually were flying directly over president Trumps Golf Course here in Palm Beach and I have seen these same types of crafts with different shapes flying over the same area before.  About 4 years ago I saw seven crafts flying ! in a circular pattern over the same golf course moving slower at about 70 or 80 mph.  Those craft disappeared into a large cloud bank after circling the area for about 40 minutes.  In total I have seen about 15 small lighted or orange type unidentified craft flying over or around this area before.  This is no joke and is real.  I'm sitting right under where I saw them tonight writing this to you and only feet from the Palm Beach airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141730.html](http://www.nuforc.org/webreports/reports/141/S141730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
