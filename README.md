@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sylmar (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3  YELLOW TURNING ORANGE THEN RED LIGHTS & DISAPPEARING IN THE SKYHELLO THIS IS MY STATEMENT, SYLMAR CALIFORNIA , I WAS OUTSIDE WITH MY DOGS ABOUT 10:00 PM WHEN I WAS LOOKING WEST, I SEEN A YELLOW LIGHT TRAVELING NORTH BOUND, THE LIGHT WAS TURNING ORANGE THEN A FULL RED IN COLOR NO BLINKS , FLASHES OR NOISE I FOUND THAT ODD, THEN I SEEN SECOND LIGHT  WITH THE SAME COLOR AND FLIGHT PATTERN THE FIRST LIGHT DISAPPEAR BEFORE MY EYES I  WENT INSIDE CALLED MY WIFE WHO WAS ASLEEP.WE BOTH SEEN THE SECOND LIGHT AS WELL WITH SAME COLOR AND FLIGHT PATTERNS AND IT DISAPPEAR BEFORE OUR EYES.  WE BOTH ASKED EACH OTHER WHAT THAT WAS. WHEN SHE WENT BACK INSIDE I SEEN A THIRD LIGHT WITH SAME COLOR AND FLIGHT PATTERNS.I ASK MY WIFE TO COME OUT TO SEE THE THIRD LIGHT AND SHE SAID NO, THE THIRD LIGHT ALSO DISAPPEAR BEFORE MY EYES.  I CALLED  L.A.P.D THEY TOLD ME TO FAA I DID FFA TOLD ME TO CALL UFO CENTER AND I DID .  THE LIGHT LAST FROM 20 TO 30 SECONDS BEFORE DISAPPEARING.THANK YOU</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98405.html](http://www.nuforc.org/webreports/reports/098/S98405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Steamboat Rock (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by the source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119321.html](http://www.nuforc.org/webreports/reports/119/S119321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
