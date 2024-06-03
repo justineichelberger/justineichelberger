@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:20 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A Very Descriptive, Multi-Ship, Broad Daylight Observation in Denver in 2001My vantage point: Downtown Denver, 22nd Floor clear of the NE sky/horizon.  On a call, I watched a storm cloud moving South, low ceiling, coming directly over the city.  A glimmer caught my eye, underniether the storm cloud, of which I observed 5 pill/saucer aircrafts.  The crafts stayed in relatively close proximity of each other.  They would swing out, in a free flight circle pattern.  Each in a different direction.  This would be my best explaination of what thier movements were like:  They had no boundries as to which direction or speed.  The would scramble from a certain "dot pattern".  As Braille is a series of "dot patterns" to reprent a certain letter/number, the crafts would swing out tens of yards, and return to the central point, and creat a new "dot pattern".  It was a sort of a communication dance.  I ran to the other room and 5 co workers came over to the window to see.  I pointed the crafts out and we each stood in excited silence.  As they watched, I scanned the storm cloud.  At the very south tip of the could (front edge), I saw a 6th ship entirely motionless, as if supervising the Communication Dance.The shape and color of the ships were interesting as well.  They were a pill shaped, most likely the size of a minivan.  They were at to much of a distance to see any detailed caps, lids, handles, or symbols.  Their undersides were a dark shade, possibly to camoflauge when looking up at them, from underniether a storm cloud.  The tops were a very metallic silver, which would glimmer off the afternoon sun, at such an angle to beam under the approaching storm cloud.-6 total Ships -A Communicational Dance -Metallic roofs, and Dark underbellies.-2:00 in the afternoon, plarty cloud sky, storm cloud approaching -My high vantage point from downtown Denver -Ships mainly over Stapleton/Commerce City/Rocky Flats area -Low pressure level storm cloud, which the ships were under, so they weren't very high in the sky (maybe Traffic Helicoper heights) -No lights were seen on ship, fore the time of day -No exhast trails present -No haze, ships has a very clear appearance -All Ships were of the same "make & model', thus objects not emitted from each other -No beams, just a lot of motion and apparent intentional movement -No change in color, solid colors of the structure -No landings -No sound, due to our distance -No aircraft in the vicinty, but Stapleton is Denver's old airport, and there are Military bases in the area, as well as D.I.A.-No physical distruptions in our vicinty due to activity I, and my co-workers, were Internet Service Technicians working on a sunday afternoon.  A few were local college students, and a few just locals, as myself.((NUFORC Note:  We will request that other reports be submitted by the other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27803.html](http://www.nuforc.org/webreports/reports/027/S27803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phillips (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red then green flashing object, saw it for about 60 seconds then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109933.html](http://www.nuforc.org/webreports/reports/109/S109933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
