@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Poplarville (MS) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>8 chevron shaped UFOs over Poplarville, MS; two disappeared.My sister ran in and said she saw lights.  We my mother,two brothers thought it was just a satellite.  When we got outside and looked.  The 8 chevron shaped objects flashed red, yellow, green, blue, and white.After about 12:05 p.m. two disappeared.  I decided to call the hotline and explained all of the activity that we saw then went and got my neighbor to verify we weren't seeing things</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119311.html](http://www.nuforc.org/webreports/reports/119/S119311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jamaica (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My girlfriend and I had rented a room at Jetts Motel for the weekend. On the way home we decided to walk from the motel to Hillside and archer ave which is some distance away(PLEASE check distance yourself). We left the motel at 11:07 pm stoped and talked for about 10 min, as we were walking down Hillside Ave my girlfriend noticed a light in the sky. It wasn't bright or glowing as most UFO's are discribed at first glimpse I thought it was a plane, then she pointed out the the pattern of the lights which were really weird and we know it wasn't a plane because the height at which it was flying we would of definatly heard it and it was moving extreamly slow. We watched it for about 5-7 min then it started to move at average speed of plane in flight. I made a joke and said that the only way we would know it is a UFO was if we were to see a couple of jets go after it and like 2 min after making that statement we heard a loud noise and looked up and saw 4 jets going after the craft. When the jets got closer, the craft took at sucha tremdous speed it was unbeliveible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18155.html](http://www.nuforc.org/webreports/reports/018/S18155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
