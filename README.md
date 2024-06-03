@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some '' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Meteor sighting in Washington state, 3june04I had awakened about 5 minutes before the event. I was sitting up in bed and saw a very bright light cross the skylight above.  It appeared to travel west to east.  Initally, the light was white, then changed to orange.  Based on the brightness I would have judged it to be the hovering height of a search helicopter.For a moment I thought it was a helicopter, but there was no accompanying helicopter noise.  My next thought was a marine flare, but I am not near the water.  Shortly after seeing the intense light, I heard a sound similar to fire-cracker bursts. I then thought it must have been a fire work, such as a roman candle, although it seemed much to bright for that, and described it as such to my room-mate over breakfast.  I was relieved to have a more reasonable identification when I heard about meteorite sightings on late morning radio. ((NUFORC Note:  Dramatic meteor over Seattle.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37321.html](http://www.nuforc.org/webreports/reports/037/S37321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Maple Shade (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Went outside to have a cigarette.  I noticed lights kinda of low in the trees.  First two bright lights blinking, then it turned into one light.  Then another light appeared to left that started blinking.  It appeared to be lights in a circular form going around something .The right lights kept changing into two lights then one light.  The  left  light would blink about every 30 seconds.  Then on the left I would see the woods lights focused on me.  I was a freaked out and went inside.  Waited about 10 minutes and looked out of my window, it will still there.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141741.html](http://www.nuforc.org/webreports/reports/141/S141741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
