@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 00:05 - 00:05 minutes.</sub><blockquote><sub>Bright, irregular, flashes across the night sky similar to alien Iridium flare.The object started near west (~260 deg) and continued to east alternating between very bright flashes and dim flashes over different intervals.  It crossed near the rate of a plane but very direct.  It was dusk with just a bit of light blue on the horizon and the stars of the Big Dipper were just becoming visible.  The brightness for a brief flash was as bright as the surface of the moon and was consistently brighter than Venus.  I checked HA ((www.Heavens-Above.com)), and nothing matched the discription.((NUFORC Note:  We have amended the time above, in order to reflect a nighttime sighting.  We spoke via telephone with the witness, and he seemed to us to be serious-minded.  We suspect that he is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134419.html](http://www.nuforc.org/webreports/reports/134/S134419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hoover (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 21:30 - 21:30 minutes.</sub><blockquote><sub>When me and my were walking out my house, we saw a bright light and we thought it was airplane, then we thought it was helicopter, but it didn't had any sound it was moving very smoothly and it went far but then it move towards us and then stop then it was flashing it bright light.  i have record every thing on my phone, and Peter I'm a big fan of your work and I try to listen to you George Norris show every Friday.  keep up the good work.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128375.html](http://www.nuforc.org/webreports/reports/128/S128375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
