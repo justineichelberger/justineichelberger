@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:20 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phillips (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red then green flashing object, saw it for about 60 seconds then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109933.html](http://www.nuforc.org/webreports/reports/109/S109933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Boise/Idaho Falls (between; Hwy 22) (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Circle orb sighted between Boise and Idaho Falls on Hwy 20.We were driving between Boise, Idaho, and Montana, in an area that they use to use as a military range for guns and bombs.  The sun was just starting to come up and I seen in the distance this floating circle thing in the sky but was to low to be a star or airplane, and I thought well I am heading towards it and see what it is.  I came around a curve and it seemed to stay close then go around another curve, and then it was far away, then close again, and as I got closer to town, it got higher and higher, but I do have picture of it from my cell phone. Now, where I first saw this hovering above ground, there was bright lights on the ground, and when I came back thru the same area the next day, there was nothing there except lots of lava rock.  I do have the exact hwy number as well written down and can show on map where it happened.  Hwy 20 in the Idaho Nate Engineering Lab, U. S. Dept. of Energy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110151.html](http://www.nuforc.org/webreports/reports/110/S110151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
