@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Loudon (NH) reported seeing craft that fit the description of some 'Flash' over a period of approximately ~1½ - ~1½ minutes.</sub><blockquote><sub>Blueish-greyish flashes of light at 6-10 second intervals, moving stars (couldn't have been planes or satellites), triangle in the sky.Me and my sister and her friend were outside on our trampoline.  It was about 9:30 or 10:00 pm and we had a clear view of the night sky from where we were.Then we saw a bluish greyish flash of light and thought it was lightning so we ignored it.  Then it happened again, and continued to happen.  So we decided to look for the source but we couldn't find one.It surrounded the treeline and didn't seem to orient from somewhere.  It typically happened between 6-10 seconds from each other.  Every time my mother came out to check on us, it wouldn't occur until she left, then it would happen right after.  Even if a car was passing by, it wouldn't happen until right after the car had left.We saw small objects moving through the sky.  They appeared white, my sister even said she saw a red one.  They were too small to be satellites and didn't have lights on them so they weren't planes either, it was also completely silent besides the river running through the yard.  The objects also moved in a completely straight line, some parallel to others moving completely straight, therefore, we concluded they couldn't be satellites.We also saw three stars aligned in a triangle formation.  We looked it up and found the "Summer Triangle" constellation, but it was too unproportional to what we had seen, so we don't know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127679.html](http://www.nuforc.org/webreports/reports/127/S127679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 00:05 - 00:05 minutes.</sub><blockquote><sub>Bright, irregular, flashes across the night sky similar to alien Iridium flare.The object started near west (~260 deg) and continued to east alternating between very bright flashes and dim flashes over different intervals.  It crossed near the rate of a plane but very direct.  It was dusk with just a bit of light blue on the horizon and the stars of the Big Dipper were just becoming visible.  The brightness for a brief flash was as bright as the surface of the moon and was consistently brighter than Venus.  I checked HA ((www.Heavens-Above.com)), and nothing matched the discription.((NUFORC Note:  We have amended the time above, in order to reflect a nighttime sighting.  We spoke via telephone with the witness, and he seemed to us to be serious-minded.  We suspect that he is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134419.html](http://www.nuforc.org/webreports/reports/134/S134419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
