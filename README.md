@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Moore (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Wife and I saw cigar shaped object, silver, shiny for about 1 minute not moving anywhere and then vanish.I hesitate to even admit to seeing what I saw a couple of days ago (for one I am not a believer in that there are UFO's from out of space and secondly I wouldn't call this a significant finding but am curious if anyone else saw this.)  My wife and I were heading out to take the kids to the dentist and while driving my wife and I (without even having to say hey look at that) saw a very shiny silver object in the sky.  My immediate answer to her was, "yeah, it is an airplane.", especially considering the airport is in the same direction.   Although answering her this away I still was keeping an eye on it because it didn't appear to be moving and we had such a clear view of this as well.  I pulled over into a parking lot to get a better look and NO where could you locate this object.   We both looked every where in the sky and could not locate the object again.  We both know that on some days if an airplane is way way in the sky it can appear to come in and out, this was not way in the sky.  It was high enough to be an airplane but it was low enough to have a great view, especially on a sunny day and no clouds in the sky.  My wife does believe in these type things.  I myself am an IT professional and have been brought up in a manner not to believe in these sorts of things.  Will be curious to keep checking updates to see if anyone else happened to have seen the same object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63702.html](http://www.nuforc.org/webreports/reports/063/S63702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Poplarville (MS) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>8 chevron shaped UFOs over Poplarville, MS; two disappeared.My sister ran in and said she saw lights.  We my mother,two brothers thought it was just a satellite.  When we got outside and looked.  The 8 chevron shaped objects flashed red, yellow, green, blue, and white.After about 12:05 p.m. two disappeared.  I decided to call the hotline and explained all of the activity that we saw then went and got my neighbor to verify we weren't seeing things</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119311.html](http://www.nuforc.org/webreports/reports/119/S119311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
