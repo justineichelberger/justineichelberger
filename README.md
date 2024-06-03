@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Maple Shade (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Went outside to have a cigarette.  I noticed lights kinda of low in the trees.  First two bright lights blinking, then it turned into one light.  Then another light appeared to left that started blinking.  It appeared to be lights in a circular form going around something .The right lights kept changing into two lights then one light.  The  left  light would blink about every 30 seconds.  Then on the left I would see the woods lights focused on me.  I was a freaked out and went inside.  Waited about 10 minutes and looked out of my window, it will still there.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141741.html](http://www.nuforc.org/webreports/reports/141/S141741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Delavan (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>looled like star or planet untill it changed colors blue  then red then back to whitei was driving west  on hwy 50 coming up to intersection when i saw a bright planet or star  that i never saw before in that part of the sky            i was looking very hard at it  then i pulled the car over to the side of the road,it changed colors  it was red then blue then wht then red thne blue  then it was gone    it just  was gone so fast!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07957.html](http://www.nuforc.org/webreports/reports/007/S07957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
