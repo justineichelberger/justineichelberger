@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nagrota (Jammu) (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I suddenly noticed a white bright light, bright as a star which was moving toward a north easternly direction in a very slow pace.After taking a bath I came out of my bathroom, I noticed a bright light in the sky, it was moving in a very slow pace.But was bright like a twinkling star.  I have seen airplanes and I know the thing I observed was not one of them, and I am currently serving in the military.  The object was moving towards north east direction with twinkling white bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109947.html](http://www.nuforc.org/webreports/reports/109/S109947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green circle low in the sky in Fort CollinsIt was 11:20pm on June 3rd.I extited my front door which faces west, and I saw a bright neon green circle just above the houses.It lasted a few seconds, maybe two or three seconds.  The circle just appeared and moved a short distance across the sky, south to north, was still for just a moment and then vanished, as if it had been erased.  It was not moving as fast as a meteor would, but it was moving.From my perspective, the bright neon green circle was a few inches above the houses and moved from left to right a few inches, like two inches.This object did not have the same characteristics as a meteor.  It did not have a tail, nor did it shoot high across the sky and fade away.  Meteors are fairly easy to track because they consume more distance in the sky than this object.  As low as this object was, and that it was headed across the sky instead of a falling or having had an arc flight pattern, like meteors do, it could not have possibly come from the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75725.html](http://www.nuforc.org/webreports/reports/075/S75725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
