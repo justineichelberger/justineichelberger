@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ocotillo (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>On a morning hike, we settled to rest after walking 4 miles on a desert trail.  We stopped to drink some water and eat some snacks.  My friend Jo-Jo sudenly told me " What the hell is that?" Jo-J0, I , and 1 other  looked into the sky and observed 7 medium sized triangles glowing in the air, motionless.  At first, we thought they might have been stealth bombers, but they were much larger, and had an ominous glow.  For 5 minutes, they sat there.  After  five minutes , the crafts darted into the sky, and made 3 vast loops through the air.  The crafts were suprisingly low.  We took cover, and were scared of being detected.  We had never seen anything like this before.  After the three loops, the crafts stayed again motionless for another 3 or so minutes, and then they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07129.html](http://www.nuforc.org/webreports/reports/007/S07129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in NASA Space Shuttle () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Watching NASA t.v. as shuttle was flying over storm clouds.  Two objects appeared, one near top of screen, other near bottom.I was watching NASA t.v. and the camera was pointed out towards earth and was showing a series of lightning strikes in the storm clouds below.  Suddenly, a small bright object appeared near the upper left corner of the screen, moving to the right towards the "3 o'clock" position of the screen.  Just as the first object exited the view another object appeared from the lower left corner of the screen.  It shot up towards the upper right (7 o'clock to 1 o'clock).  Both objects were between the shuttle and the clooud tops but much closer to the earth than the shuttle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07948.html](http://www.nuforc.org/webreports/reports/007/S07948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
