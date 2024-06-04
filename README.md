@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bucharest (Romania) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Hello, I wish to submit an ufo report to you.  I send this to you now because i did not know about your site until now (thank you Coast to Coast AM).I saw this craft while travelling by plane from Bucharest, Romania to Heraklion, Crete, Greece.  We reached the highest travelling altitude and were on autopilot I guess, when my girlfriend saw this faint white streak of light coming down from space perpendicular to our line of sight.  By the time we got our camera out it changed its angle to about 45 degrees, and still coming down, then it changed its angle to horizontal and after 30 sec it disappeared from our line of sight.  I`m going to send you 2 pictures we managed to get.  In one of them if you zoom in, i think there is a disc shaped craft, but i fervently believe in UFO`s so i might be mistaken.  But i want  to know what this was nonetheless, because i am pretty sure it wasn`t an airplane.  So please tell me what this was after you investigate the pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91378.html](http://www.nuforc.org/webreports/reports/091/S91378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Milwaukee (South) (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw a bright row of lights in the sky attached to a saucer-shaped craft.  We saw the craft land in a nearby street and approached itWe saw a bright set of lights in the sky (like stadium lights) that appeared to be about 1 1/2 away.  The lights dimmed.  The craft made a sharp turn to the right and hovered.  We ran to our car.  We saw the craft land through the bushes.  It landed almost like it was going down stairs.  We drove about 1/2 mile twords it and saw the craft in the middle of the street.  It appeared to be moving twords us.  We Y-turned and when we looked back it was gone completely.((NUFORC Note:  We received no other reports from this area for this time.  The witness, a student, does not state what he and his friends were doing at the time of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13069.html](http://www.nuforc.org/webreports/reports/013/S13069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
