@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:19 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Loud rumbling noise, huge oblong object, mile off ground, steady light on each end, lights were a foot apart, from my reference point, estimate the actual size would be that of a foot ball field, moved slowly and loudly coming from Bremerton (northwest) heading toward Olympia (southeast)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119326.html](http://www.nuforc.org/webreports/reports/119/S119326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>"blimp" like shaped object moving across the sky at sunset. Absolutely silent. Let us have a good look, but got  no pic.I am ((age deleted)) and my daughter is ((deleted--20's)), her husband is ((20's)). I am an MA in ((language)), and a BA in ((art field)), and in ((languages)). My daughter is ((executive))r for the ((store name deleted)) here in Eugene. Her husband is a ((finance)). I am currently babysitting my grandchild fulltime.     My daughter and I were on their deck at about 8:30 or a little after because I was telling her about the curious jet/chem trails I had seen earlier in the day. We noticed a jet in the distance going straight up, and I mentioned how odd that seemed to me... I see them every so often and wonder where they came from... anyhow, we watched it for a minute or two, and then it just disappeared, the trail ending abruptly. We remarked that that was odd, because we could no longer see the "jet" either.   A few seconds later, we noticed an object moving in a south easterly direction which meant it was horizontally moving right out where we were looking... which was to the north.  As it came closer, we could see that it was actually more of a stunted blimp shape, but cigar shape is the closest to it that you have for me to choose from here. I was, I believe either silver or gold...the sunset seemed to make it look slightly reddish, but I could tell it was not red.It moved slowly overhead..we could both see it clearly. We waited to hear a sound, so we could be sure whether we were looking a plane or not. One can hear the sound of a jet that is so high you can barely see it. This object was not that high at all. NO sound. Nothing. We both watched it until my daughter suddenly asked her husband to get the camera. He ran to get it, and she tried to get a shot of it, but said it didn't appear in her sights. It didn't register. It was pretty much gone by then anyhow. Just wish we had thought of the camera right off. Would have been a great photo opportunity. Her husband saw it too, but didn't seem interested. It was her birthday, so I just looked at her and said "Happy birthday. You have seen your first UFO. The only reason I feel so is that this object definitely did not have wings, was certainly "metallic" (not a blimp) And was absolutely silent in its passage. I have obbserved this type of object before, and always, they are silent.((NUFORC Note:  We suspect the witnesses may have seen a contrail, being illuminated by the setting Sun.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37547.html](http://www.nuforc.org/webreports/reports/037/S37547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
