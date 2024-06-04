@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireball.  With flamesMoving across the sky then disappeared.((NUFORC Note:  We attempted to contact the source of the report, but were unsuccessful in doing so.  We wonder whether this is a serious report.  The photograph submitted by the witness is not very convincing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142067.html](http://www.nuforc.org/webreports/reports/142/S142067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Narragansett (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>I was with my cousin and dad and we’re all fishing and I hear my dad yell ((profanity deleted)) turn around” and I turn around to see a disc shaped object with 10 yellow lights floating about 110 meters above a nearby house, u have video evidence of the incident. The object was pitch black and the sky was lit by the moon yet I could not make anything out besides a disc shake around the lights and about 12 seconds after first sighting the aircraft flew out of sight, no sound, perfect flight. This coincidence was very interesting but scary</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156909.html](http://www.nuforc.org/webreports/reports/156/S156909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
