@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 3 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Steamboat Rock (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by the source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119321.html](http://www.nuforc.org/webreports/reports/119/S119321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Abilene (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Slow flashing lightI fell asleep on the couch while watching tv and when I woke up it was about 2 in the morning. So I went to go let the dog out before going to bed. While standing at the back door waiting for the dog to do her business I saw this light. It was flying kind of low and slow and flashing on and off really slow. It was really bright, it kind of reminded me of a flash on a camera. My back door faces west, so it looked like it was maybe out towards Dyess and was flying north. I watched it for a few seconds and it just stopped. I see airplanes flying here at night since Dyess is here and my house is near an airport, but this wasn't like the lights on a regular plane. It was very weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46191.html](http://www.nuforc.org/webreports/reports/046/S46191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
