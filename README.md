@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 136</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146780.html](http://www.nuforc.org/webreports/reports/146/S146780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>: Panama City Beach FL Back Beach RoadDuring the first week of June in 1998 , exact day/date I can not remember , I was driving West on Back Beach Rd. ( Hwy 98 ) , I pulled over at the cable company by the big Christian Church . It was about 10:30 p.m. I noticed something moving towards the East in the sky .  I thought with tourist season in effect that it was a helicoptor but it was strange to see one at night and at back beach road . As it got closer , I noticed it was not a helicoptor , I had no clue what it was . It was dark in color , almost transparent with the exception of 3 reddish lights , one on each corner but very dim . It was about 100-150 feet above the ground , and not a sound what so ever . Several vehicles pulled over to witness this , I had a disposible camera and took the whole roll full of pictures , but all I got was black pictures back when they were developed . No TV news reported it , I called the police and was told several calls had come in but no one knew what this was . To this day it still baffles me . This thing was huge .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14760.html](http://www.nuforc.org/webreports/reports/014/S14760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
