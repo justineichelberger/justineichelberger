@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A light, reddish orange in color, resembling that of an aircraft, approached from the West briefly, then dipped and disappeared.I went outside the house to smoke a cigarrette.  The porch light was on.  A car had passed by in the neighborhood and it sounded as if it had just blown a tire a block or so away before approaching our (my fiance and I) house.  This is unrelated, I'm sure.  I am always aware of my surroundings and we do get many military craft flying in to the local military base.  I noticed a what appearded to be an aircraft flying in toward Tacoma from the West.  This is not a normal flight path but some planes do fly in this direction I suppose headed toward Sea Tac or Boeing Field in Seattle.  At first I noticed the color of the light wasn't 'normal' - more of a reddish/orange light.  And I was wiating for familiar 'wing lights' to be present.  This was a single light and it appeared to be moving in a very straight (due East) direction.  I watched it for a few seconds and maybe after 20 seconds or so I noticed the light dimming (this object appeared to be headed toward my direction) and slightly dip dramatically straight down and disappear.  This is hard to judge distance (of course) but if my field of view was shown in a photograph I suppose the 'dipping' of the object would be measured as 1/4 inches on an 8X10 photo.  So, this didn't dip very far before disappearing.  There were clouds present and this object appeared behind the clouds but was very visible. I have never reported a sighting before.  I wanted to report this and am sure other's saw this.  I am not aware of any other places to make a report to - I suppose I could contact the newspaper, but don't know if it would be treated with any credibility.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17918.html](http://www.nuforc.org/webreports/reports/017/S17918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Andover (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>just sitting out side bright orange ball from the north to the south no noise or flashing lights right over the house.((NUFORC Note:  Date, and perhaps time, are defective.  We attempted to contact source of report, but were unsuccessful.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127697.html](http://www.nuforc.org/webreports/reports/127/S127697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
