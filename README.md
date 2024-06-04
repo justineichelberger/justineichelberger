@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Milwaukee (South) (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw a bright row of lights in the sky attached to a saucer-shaped craft.  We saw the craft land in a nearby street and approached itWe saw a bright set of lights in the sky (like stadium lights) that appeared to be about 1 1/2 away.  The lights dimmed.  The craft made a sharp turn to the right and hovered.  We ran to our car.  We saw the craft land through the bushes.  It landed almost like it was going down stairs.  We drove about 1/2 mile twords it and saw the craft in the middle of the street.  It appeared to be moving twords us.  We Y-turned and when we looked back it was gone completely.((NUFORC Note:  We received no other reports from this area for this time.  The witness, a student, does not state what he and his friends were doing at the time of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13069.html](http://www.nuforc.org/webreports/reports/013/S13069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Helena (AL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Appear to see two white drones while a radar "blob" phenomenon occurs near RedstoneEarly this evening, I was watering plants in my backyard.  As a big fan of aircraft, I tend to check for traffic in the sky.  At 17:35, I looked up and noticed two white craft, one behind the other and slightly to the starboard side of the leading craft.  At first glance the two craft looked military.  Then I noticed how they looked more rounded at the nose which then made me think that they were drones.  This made a lot of sense because the two craft were moving fast relative their altitude.  If they were at a higher elevation then their airspeed would have been pushing supersonic and there were no subsequent sonic booms.  I estimate that these two craft were around 1000 - 1200 feet.  They were traveling from north to south near the I-65 corridor.  The sky was mostly clear, warm, humid, around 85 degrees with a light SE wind.  The two crafts were out of view in under fifteen seconds.  I made a point to try to listen to the noise produced by these craft.  Am! idst some background traffic and neighborhood noise, I could hear a slight whine that would seem to be associated with a turboprop engine, but much quieter.  The event ended and I thought that I had witnessed my first domestic drone flights- nothing more. Only until a few minutes ago did I think that I "only saw two drones".  Media outlets in Huntsville, AL are now reporting a mysterious radar "blob" echo that appeared on multiple radar products over the Huntsville area this afternoon, exactly over the northwest corner of Redstone Arsenal.  Here is a link to the current radar blob event: http://valleywx.com/2013/06/04/mystery-blob-over-west-huntsville/  Huntsville is about 117 miles north of my location.  Maybe these were simply drones returning to Eglin AFB after an exercise in cloaking.  Needless to say, the event that I witnessed in conjunction with media reports about a radar blob with Internet chatter of ongoing C-5 activity was enough to make me share this with you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98434.html](http://www.nuforc.org/webreports/reports/098/S98434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
