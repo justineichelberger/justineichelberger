@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in NASA Space Shuttle () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Watching NASA t.v. as shuttle was flying over storm clouds.  Two objects appeared, one near top of screen, other near bottom.I was watching NASA t.v. and the camera was pointed out towards earth and was showing a series of lightning strikes in the storm clouds below.  Suddenly, a small bright object appeared near the upper left corner of the screen, moving to the right towards the "3 o'clock" position of the screen.  Just as the first object exited the view another object appeared from the lower left corner of the screen.  It shot up towards the upper right (7 o'clock to 1 o'clock).  Both objects were between the shuttle and the clooud tops but much closer to the earth than the shuttle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07948.html](http://www.nuforc.org/webreports/reports/007/S07948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pendleton (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Red, green and white pulsating lighted object.  Never moved; still there as I am typing this.  I tried setting up my telescope to no avail.  I woke my husband up and he did see it through binoculars.  It was a full moon and this object was south west of the moon.  I tried to take a picture with my phone camera and my sony camera but neither one worked.  Just weird...no sound either.((NUFORC Note:  We suspect that the object may have been a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119328.html](http://www.nuforc.org/webreports/reports/119/S119328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
