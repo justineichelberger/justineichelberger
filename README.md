@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 4 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Narragansett (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>I was with my cousin and dad and we’re all fishing and I hear my dad yell ((profanity deleted)) turn around” and I turn around to see a disc shaped object with 10 yellow lights floating about 110 meters above a nearby house, u have video evidence of the incident. The object was pitch black and the sky was lit by the moon yet I could not make anything out besides a disc shake around the lights and about 12 seconds after first sighting the aircraft flew out of sight, no sound, perfect flight. This coincidence was very interesting but scary</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156909.html](http://www.nuforc.org/webreports/reports/156/S156909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange orange lights over Lakeland 6-4-16 12:35Approximately  21:35, June 4, 2016, a group of what appeared to be some type of aircraft passed over the camping area at Sun ‘n Fun, Lakeland, Florida.  Four of us saw approximately 40 to 50 orange orb shaped objects proceed from south to north.  The sighting lasted about 15 minutes, starting with  large group, then appearing on the southern horizon in smaller groups.  Some photos, but only on phone, not good quality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127709.html](http://www.nuforc.org/webreports/reports/127/S127709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
