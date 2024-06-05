@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Harrison (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 121</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146777.html](http://www.nuforc.org/webreports/reports/146/S146777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>amber orb chevron fly -by over evening backyard partyWe were on the back deck of a neighbors home about an hours ago, the deck was facing north and I was looking north west and a chevron of amber orbs came into view moving NW going SSE. I yelled for the other folks on the deck to look up and a group of guys all looked up at once to see the chevron fly by. They were moving faster then a normal fighter jets would. There were no running lights or red and green light you would expect to see on a airplane. As the chevron passed by I noticed a deviation of two orbs moving out of formation and then right back into formation. Since we had music playing through outside speakers I could not distingush a sound factor, I would say the chevron was about 15k up, you would think if they were jets you would have heard something. Knowing that other folks on the deck witnessed this event made me feel much more at easy. We all spoke about the event for a while and drop the subject. This was a very strange event, definitly not planes, jets or satellites, these thing were moving at a very fast rate of speed. At first sight I thought it was one unit, but when the deviation out of formmation happend it seemed they were all separate but moving in tandem with each other.I'm a 51 year old , professional business person. All the other folk involved are all professional business people as well. This was a very intresting experence to say the least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37409.html](http://www.nuforc.org/webreports/reports/037/S37409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
