@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Bright strange green/blue spark emitting object seen over Wichita KsWas on break looked up as I was heading in just in time to see a bright green/blue pulsating light with a trail of bright orange sparks trailing as it moved at an unusual angle/speed toward the ground moving east to west. object disappeared into in coming storm clouds.   Absolutely silent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89387.html](http://www.nuforc.org/webreports/reports/089/S89387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>SIGHTING AT CLOSE RANGEA ROUND FLYING OBJECT WENT ABOVE OUR HEADS WE ROAD OUR BIKES UNDER IT FOR TWENTY SECONDS AND OBSERVED THE CRAFT MOVING SLOWLY WEST AND MAKING A LOOP TO THE SOUTHEAST BEFORE DISAPERING.IT MADE NO SOUND AND HAD RECTANGULAR LIGHTS OSILATING IN A CLOCKWISE DIRECTION.I AM A PILOT AND HAVE SEVERAL HOURS FLYING EXPERIANCE BUT NONE ON THE COMPUTORE.I HAVE NOT SAID ANYTHING BEFORE BECAUSE OF FEAR OF COMPLICATION FROM US GOVERNMENT,I WOULD LIKE TO SPEAK TO SOMEONE THAT WOULD WILLING TO LISTIN TO MY STOREY. I AM STILL IN CONTACT WITH THE OTHER TWO PEOPLE WHO SAW THIS.OUR CONTACT WITH THE UFO WAS NO LESS THAN TWENTY FEET ABOVE OUR HEADS BUT I FEEL THAT IT HAD NO EFFECT ON ME.IS THAT CLOSE OR IS THAT NORMAL FOR A SIGHTING OF THIS KIND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71144.html](http://www.nuforc.org/webreports/reports/071/S71144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
