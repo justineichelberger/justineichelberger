@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocean Park (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Daytime Sighting of Orange Metallic Cigar Shaped Object (graphic and simulated video attached).Our group was sitting in the park talking, when my attention was brought to a dark orange metallic cigar shaped object drifting slowly high above our heads.It was moving slowly and steadily to the north.  It seemed like a blimp or balloon because it was moving so slowly and had no lights, made no sounds and did not change direction or speed.I shouted excitedly to my group to get up and look!  Two of the group did get up to look and observed and confirmed the same dark orange metallic cigar shape drifting to the north.Here is a link to a re-creation of the event.https://www.oceanparksociety.com/ufo    Also, a prior sighting three months earlier in the same area with the same path by another individual should be coordinated for discussion.http://www.nuforc.org/webreports/154/S154285.html   He wanted to know if others were seeing the same object.Well, we have!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158926.html](http://www.nuforc.org/webreports/reports/158/S158926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Goldthwaite (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange blinking lights in a horizontal positionI walked out on my front porch to feed my cats and looked up in the sky which would be to the north and saw what looked like 5 orange lights in a horizontal position.The lights were octagonal in shape and were blinking or [fading] on and off in no particular order.I stood there and watched it for about 2 minutes and suddenly the lights faded out, again in no particular order, and when the lights were gone I could not see what was behind them.The sun had just set below the horizon but there was still enough light to see the sky, there were no clouds and the visibility was clear.I backed up to get my binoculars just inside the door while still staring at the sky to make sure I didn't lose the position on where the lights had been. I grabbed the binoculars and could see nothing! I scanned the sky to look for planes or anything else that might be up there.I never saw what was behind the lights and never heard a plane, helicopter, or any other craft!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110667.html](http://www.nuforc.org/webreports/reports/110/S110667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
