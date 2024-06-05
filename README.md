@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Amber/orange unknown lightLeaving a Saturday night game at White Sox park to go to a parking north of park anf parallel to the Ryan expressway, my daughter and I observed a very bright amber/orange light to the north over the skyline of the downtown area.  It seemed to be much larger than a star and was "flickering"....we were walking with the crowd and observing over our left shoulders and could not detect movement of the light...we looked away for a few seconds and when reaching the parking lot and looked again to see the light, it was gone.  There were no stars visible as the entire area was covered by a cloud layer and there were no airplanes in that part of the sky at that time.My daughter said it was similar to the type of light she had seen in the skies over the southwest suburban Chicago area in a fixed triangle formation on the night of July 4th, 2008</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75687.html](http://www.nuforc.org/webreports/reports/075/S75687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Far Rockaway (Queens) (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It came from the ocean or from over the oceanOn June 5th, 2021 at 4:58PM, as I was looking out my kitchen window, I watched as a slow-moving object left a trail of smoke straight up, as it went up.  It was moving slow enough for me to have time to run and get my cellphone to record as it cleared the top of the buildings and arced to the right. It seemed to pick up speed until it was moving so fast, it was difficult to keep the camera focused on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163627.html](http://www.nuforc.org/webreports/reports/163/S163627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
