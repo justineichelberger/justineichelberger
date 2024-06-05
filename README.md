@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Winlock (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw strange like fly toward us and then shoot srtaigh up furhter into the sky,this is 5th time seeing this light.My girlfriend and I witnessed a strange light slowly flying over our heads. We have witnessed this light four times together and once I witnessed it myself. The light usually flys in a straight line and then vanishes in mid flight. Thelast night I witnessed it I actaully saw it change direction and fly straigh up futher into the sky as a plain approached it. We did happen to get video of it on our camera on one of the nights. The lights did not flash nor did it have any flashing lights with it, it also made no sound what so ever and from the looks of it the light flew lower than most of the planes that fly overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70392.html](http://www.nuforc.org/webreports/reports/070/S70392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New York City, Manhattan (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Objects hovered over Brooklyn in one location for more than 20 minutes, viewed by many observersAt approximatly 8:30 my daughter received a call from her boyfriend who was having dinner with his father at another location in downtown manhattan (He said there were many people with him observing this phenomena). She attempted to look out the window to see something (At this time I was not aware that her call was about a ufo). She then ran out the door asking her brother to go with her. After several minutes I called her on her cell phone to ask her why she ran out of the house.She told me that she was looking at a ufo. I immediatly grabbed my camera and ran outside to see. Many people were looking at this black circular shaped object hovering in the sky above Brooklyn somewhere. We observed the object from 7th st. between Ave's B & C. It hovered for a long time in the same location sometimes getting closer and other times moving away but never really leaving its position in the sky. The object appeared to wobble and also possesed a light corona. Not to far from it was a second object that hovered but was fainter and from time to time would completely vanish from site. After about 20 minutes it started to fade, it was however begining to get dark which might explain it's slow disapearence. After waiting a long time we decided to go up to the roof of the building and observe from there. At that point it started to get dark faster and the object faded further but was still visible.We decided to go in as we had no devices to zoom in on the object. This is the first time I am reporting a ufo but not the first time I have observed one. When I was in my twenties I worked for Fairchild Republic. The creators of the A-10 wharthog and other military aircraft on Long Island. I understand the mechanics of flight and it's characteristics. It was unusual for something of this nature to hover for so long in one loction. Only a helecopter could do this but the elevation made no sense and does not explain it's shape, woobling, length of time in one position and corona.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44273.html](http://www.nuforc.org/webreports/reports/044/S44273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
