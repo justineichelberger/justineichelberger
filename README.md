@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While outside letting my dogs out at the above time and date, a bright light, blueish-white, streaked overhead, going south to north, above the cloud cover, so it appeared opaque.  It traveled very fast, like a meteor, but very low from my perspective.  I would estimate that it was like a dime held at arm's length.  About 2 minutes afterward I heard a slight rumble that startled my dogs as well.  There was no sound at all as it went overhead.  I seemed like the flight of the object was heading downward.  This event just happened as I am reporting so I will continue to observe outside, and relay more data if necessary.((NUFORC Note:  The facts provided by the witness are not inconsistent, we observe, with a sighting of a meteor.  Some meteors can generate a sonic report, which are audible at ground level, and there usually is a 1-2 minute lag time between a sighting, and the audible report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119352.html](http://www.nuforc.org/webreports/reports/119/S119352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Amber/orange unknown lightLeaving a Saturday night game at White Sox park to go to a parking north of park anf parallel to the Ryan expressway, my daughter and I observed a very bright amber/orange light to the north over the skyline of the downtown area.  It seemed to be much larger than a star and was "flickering"....we were walking with the crowd and observing over our left shoulders and could not detect movement of the light...we looked away for a few seconds and when reaching the parking lot and looked again to see the light, it was gone.  There were no stars visible as the entire area was covered by a cloud layer and there were no airplanes in that part of the sky at that time.My daughter said it was similar to the type of light she had seen in the skies over the southwest suburban Chicago area in a fixed triangle formation on the night of July 4th, 2008</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75687.html](http://www.nuforc.org/webreports/reports/075/S75687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
