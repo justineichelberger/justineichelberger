@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighting Over Brooklyn New YorkIt was a Clear Evening and it was still Light.  I looked up for some reason and there was a Disk flying high over head.  It was Dark on the bottom and Silver on the top.  It moved diagonally above Me. I saw no Vapor Trails or heard no sound.  It went North on Ocean Ave. over Sheepshead Bay Brooklyn, NYC.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42498.html](http://www.nuforc.org/webreports/reports/042/S42498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Winlock (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw strange like fly toward us and then shoot srtaigh up furhter into the sky,this is 5th time seeing this light.My girlfriend and I witnessed a strange light slowly flying over our heads. We have witnessed this light four times together and once I witnessed it myself. The light usually flys in a straight line and then vanishes in mid flight. Thelast night I witnessed it I actaully saw it change direction and fly straigh up futher into the sky as a plain approached it. We did happen to get video of it on our camera on one of the nights. The lights did not flash nor did it have any flashing lights with it, it also made no sound what so ever and from the looks of it the light flew lower than most of the planes that fly overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70392.html](http://www.nuforc.org/webreports/reports/070/S70392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
