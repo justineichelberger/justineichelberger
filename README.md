@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Hyannis (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>boomerang sliver shiny shaped objectAs I was driving to work in the eary morning around 7 am I was heading down a street towards the water,no other cars or people were around.  When I came to a stop sign I looked towards the water which was directly in front of me.  To my amazement, I also looked up to see a shiny boomerang shaped object it was sliver and shiny, huge it was.....just hovering above the water there were beach houses all around it looked like it was partially over a house.  I rolled down my window expecting to hear something or waiting for it to move,  But nothing no noise or movement what so ever it just hoovered, I couldn't believe what I was seeing I wanted to shout out to anyone but not a soul was around.I sat there for about a minute and slowly drove on watching it for as long as I could,I have never told anyone about this except a close friend. I scoured the newspapers for anyone else seeing this but there was never anything.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53504.html](http://www.nuforc.org/webreports/reports/053/S53504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Williston (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw large craft very high sat in one position forover ten minutes with slight position changes.  The while time I was hearing a hovering noise almost right over my home.  It scared me, so I went inside the hovering nose lasted forapprox two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146646.html](http://www.nuforc.org/webreports/reports/146/S146646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
