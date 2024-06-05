@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:52 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Olathe (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Peanut sape heading north, low and fast, No noiseMy friend and I were sitting outside smoking a cigerette, as we do everynight. We were just looking up in the sky for MARS and I looked straight up above me, when I asked my friend, "WHAT IS THAT?"  He looked up and say said, "WERE" and he pointed to a star and said that is MARS. I said, "NO RIGHT ABOVE YOU. " He looked straight up and said "What the H--- is that?" We both saw an objejct kind of shaped like a peanut, is the best way to discribe it, Round on both ends and thin the middle, it almost looked like a Transport helicoptor.  But there was NO Sound what so ever, it was totaly silent. It looked like metal and just the city lights making the bottom of it glow like a very dull reflection, He said he can see 3 light on it, I coulndn't. The object was heading due North comming from the South, it was about 2500 feet off the ground and we are guessing it was traveling about 150 mph or faster, but there was NO SOUND WHAT SO EVER. I have no idea what it was I have never seen or ever heard of anything like it, to this day we still are talking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18821.html](http://www.nuforc.org/webreports/reports/018/S18821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kennewick (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Rectangle object was being chased by all black helicopter.Wife and I were driving to appointment at 10:00 am, when she noticed a rectangle object just floating in the sky (looked white and silver).  After few minutes it started to travel north west very slowly getting faster and faster.  Seen all black helicopter chasing it.  The object stopped suddenly letting the blacked out helicopter get somewhat close, then took off so fast it was instantly gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109975.html](http://www.nuforc.org/webreports/reports/109/S109975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
