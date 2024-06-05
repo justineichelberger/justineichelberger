@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:23 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Seattle/Tukwila (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>ALIENS AND U.F.O.S SIGHTED NEAR HOME.IT WAS AROUND DUSK , MY BROTHER AND I WAS ON OUR WAY HOME. WE NOTICED WHAT LOOKED TO BE A FLYING TRIANGLE.MY BROTHER TOOK OUT OUR DIG. CAMARA FROM THE CLOVE-BOX AND TOOK SEVERAL PICTURES. WHEN WE GOT HOME I DOWNLOADED THE PICTURES INTO THE COMPUTOR. THEN WE SAW WHAT SHOCKED US . ON THE PICTURES WHERE SEVERAL U.F.O.'S A EXPLOSION ONTOP A TELEPHONE POLE . WE DID NOT I REPEAT DID NOT SEE THESE CRAFT OR THE FIRE ONTOP THE PHONE POLE. WAIT THAT IS NOT ALL WHEN WE STUDIED THE PICTURES IN DETAIL WE WHERE EVEN MORE SHOCKED TO SEE WHAT SEEM'S TO BE IN THE BOTTOM HALF OF THE PICTURE , '' TWO ''ALIENS AND WHAT LOOKS TO BE A RIP IN SPACE AND RIGHT BELOW THE RIP LACK FOR A BETTER WORD A POWER SOURCE. .YOU LOOK AT THE PICTURES AND YOU TELL ME .EVER SINCE THAT NIGHT I OR MY BROTHER HAVE NOT SLEPT WELL.COAST TO COAST AM PUT OUR PICTURES ON THERE WEB PAGE. WE ARE NOT U.F.O. FREAKS OR MENTALLY OFF. WE WHERE JUST AT THE RIGHT PLACE AT THE RIGHT TIME WITH A CAMARA. I WILL SEND YOU THE PICTURES,IF YOU ARE INTRESTED PLEASE CONTACT MY BROTHER AND I .   THANK YOU     ((name deleted))((NUFORC Note:</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44453.html](http://www.nuforc.org/webreports/reports/044/S44453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighting Over Brooklyn New YorkIt was a Clear Evening and it was still Light.  I looked up for some reason and there was a Disk flying high over head.  It was Dark on the bottom and Silver on the top.  It moved diagonally above Me. I saw no Vapor Trails or heard no sound.  It went North on Ocean Ave. over Sheepshead Bay Brooklyn, NYC.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42498.html](http://www.nuforc.org/webreports/reports/042/S42498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
