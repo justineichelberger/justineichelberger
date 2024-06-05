@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Williston (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw large craft very high sat in one position forover ten minutes with slight position changes.  The while time I was hearing a hovering noise almost right over my home.  It scared me, so I went inside the hovering nose lasted forapprox two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146646.html](http://www.nuforc.org/webreports/reports/146/S146646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocean Park (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Daytime Sighting of Orange Metallic Cigar Shaped Object (graphic and simulated video attached).Our group was sitting in the park talking, when my attention was brought to a dark orange metallic cigar shaped object drifting slowly high above our heads.It was moving slowly and steadily to the north.  It seemed like a blimp or balloon because it was moving so slowly and had no lights, made no sounds and did not change direction or speed.I shouted excitedly to my group to get up and look!  Two of the group did get up to look and observed and confirmed the same dark orange metallic cigar shape drifting to the north.Here is a link to a re-creation of the event.https://www.oceanparksociety.com/ufo    Also, a prior sighting three months earlier in the same area with the same path by another individual should be coordinated for discussion.http://www.nuforc.org/webreports/154/S154285.html   He wanted to know if others were seeing the same object.Well, we have!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158926.html](http://www.nuforc.org/webreports/reports/158/S158926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
