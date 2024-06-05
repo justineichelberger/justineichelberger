@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:14 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Polk (south of) (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Object/beingIf my room-mate had not been with me and also witnessed this, I honestly would think I was going crazy.  This is the second report I have filed with you and this event happened approximately 10 miles from the first event (green fireball).  We were driving home from Bolivar at about 3:30 in the morning on 64 highway.  This particular stretch of the road has several hills on it.  My room-mate was asleep in the passenger seat, and as I start to crest the top of one of the hills, there on the side of the road is what would almost appear as someone sitting on a bike.  I honestly believe that it was not human, and it wasn't actually a bike.  It was sitting on a silver triangle shaped frame the point of the triangle pointing at the ground.  Honestly it was like no metal I have ever seen.  It had no wheels on it. (just a note I had my high beams on so we both got a really good look at it)  Whatever this thing was that was sitting on the bike was dressed entirely in this white/silverish material.  It had a full faced helmet on, but not like a motorcycle helmet.  It only had a small black oval at the eye area for it to see out of.  Neither of us saw any kind of skin what-so-ever. Every inch of it's body was covered.  Now it was a very hot night.  There is no way it was a person sitting on a bicycle completely covered including gloves and boots, it just doesn't make sense. It almost seems like the thing wanted us to see it.  You know when a car passes you at night and they have their bright lights on, you can't really see into the car.  But this thing, it was almost like in slow motion, looked right at us as we drove by.  I looked at my room-mated and asked her if she had seen it, and she replied that yes she had.  She had been dead asleep and woke up for some reason, just as we were passing this thing.  It scared me bad enought that I quickly rolled up my window and punched the gas.  I just knew that this thing was going to come up beside me on the road which thankfully it didn't. This triangle had no lights or reflectors on it of anykind.  We drove back by that area the next day to check it out.  And the place that we saw it was at the end of a dirt road that joins highway 64 with no houses around for at least 5 miles.  I know it was not some farmer sitting on the edge of the road on a bike at 3:30 in the morning in a silver outfit with matching boots, gloves, and helmet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37791.html](http://www.nuforc.org/webreports/reports/037/S37791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Upper Arlington (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My wife and I are were on a late night walk when she pointed out a shooting star, only it was not a shooting star, it appeared to be a one at first, but a after it stopped briefly it sped out of view within a matter of seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110084.html](http://www.nuforc.org/webreports/reports/110/S110084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
