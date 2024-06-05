@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:14 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Upper Arlington (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My wife and I are were on a late night walk when she pointed out a shooting star, only it was not a shooting star, it appeared to be a one at first, but a after it stopped briefly it sped out of view within a matter of seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110084.html](http://www.nuforc.org/webreports/reports/110/S110084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While outside letting my dogs out at the above time and date, a bright light, blueish-white, streaked overhead, going south to north, above the cloud cover, so it appeared opaque.  It traveled very fast, like a meteor, but very low from my perspective.  I would estimate that it was like a dime held at arm's length.  About 2 minutes afterward I heard a slight rumble that startled my dogs as well.  There was no sound at all as it went overhead.  I seemed like the flight of the object was heading downward.  This event just happened as I am reporting so I will continue to observe outside, and relay more data if necessary.((NUFORC Note:  The facts provided by the witness are not inconsistent, we observe, with a sighting of a meteor.  Some meteors can generate a sonic report, which are audible at ground level, and there usually is a 1-2 minute lag time between a sighting, and the audible report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119352.html](http://www.nuforc.org/webreports/reports/119/S119352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
