@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Goldthwaite (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange blinking lights in a horizontal positionI walked out on my front porch to feed my cats and looked up in the sky which would be to the north and saw what looked like 5 orange lights in a horizontal position.The lights were octagonal in shape and were blinking or [fading] on and off in no particular order.I stood there and watched it for about 2 minutes and suddenly the lights faded out, again in no particular order, and when the lights were gone I could not see what was behind them.The sun had just set below the horizon but there was still enough light to see the sky, there were no clouds and the visibility was clear.I backed up to get my binoculars just inside the door while still staring at the sky to make sure I didn't lose the position on where the lights had been. I grabbed the binoculars and could see nothing! I scanned the sky to look for planes or anything else that might be up there.I never saw what was behind the lights and never heard a plane, helicopter, or any other craft!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110667.html](http://www.nuforc.org/webreports/reports/110/S110667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Harrison (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 121</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146777.html](http://www.nuforc.org/webreports/reports/146/S146777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
