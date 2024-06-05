@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in West Paterson (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>at approx. 3:30 a.m. est I was awaken by an intense wind tunnel like sound coming from outside my window.Upon looking out my window, I saw something that would change my life forever. Make me a believer in the u.f.o. phenomenon. A disk like object appeared hovering above the tree line outside my window. As it hovered above the trees there was a series of red lights circulating around the lower portion of the object.The top of the craft, I really couldn't make out that well being that there was a white hazy glow above the red lights. Below that there seemed to be 2 white lights blinking on and off. At first i thought it was a plane but after watching it descend lower and to my right, I realized it was not possible movement for an airplane. All of a sudden it instantly turned into a very bright red dot, something along the lines of a laser pen. It quickly made a figure 8-like shape before turnig back into the disk-like shape and slowly made its' way below the tree line. Upon waking up the next morning, to my surprise i had found out that there was a problem with Airforce 1 not being picked up on radar approx. near the vicinity of LaGuardia Airport. This experience has definately made me a believer and will always feel close to the"other" side. I am a 22 year old male from Northern New Jersey.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03883.html](http://www.nuforc.org/webreports/reports/003/S03883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hanna (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>bright light in day time with what apperaed dashes around itAs I developed a picture I took while we were flying a rc plane.  The picture had a very bright light in it.  Upon enlarging it you could see rings or almost like dashes that made a cirlcl around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37496.html](http://www.nuforc.org/webreports/reports/037/S37496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
