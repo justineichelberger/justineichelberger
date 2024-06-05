@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 5 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Amber/orange unknown lightLeaving a Saturday night game at White Sox park to go to a parking north of park anf parallel to the Ryan expressway, my daughter and I observed a very bright amber/orange light to the north over the skyline of the downtown area.  It seemed to be much larger than a star and was "flickering"....we were walking with the crowd and observing over our left shoulders and could not detect movement of the light...we looked away for a few seconds and when reaching the parking lot and looked again to see the light, it was gone.  There were no stars visible as the entire area was covered by a cloud layer and there were no airplanes in that part of the sky at that time.My daughter said it was similar to the type of light she had seen in the skies over the southwest suburban Chicago area in a fixed triangle formation on the night of July 4th, 2008</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75687.html](http://www.nuforc.org/webreports/reports/075/S75687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in West Paterson (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>at approx. 3:30 a.m. est I was awaken by an intense wind tunnel like sound coming from outside my window.Upon looking out my window, I saw something that would change my life forever. Make me a believer in the u.f.o. phenomenon. A disk like object appeared hovering above the tree line outside my window. As it hovered above the trees there was a series of red lights circulating around the lower portion of the object.The top of the craft, I really couldn't make out that well being that there was a white hazy glow above the red lights. Below that there seemed to be 2 white lights blinking on and off. At first i thought it was a plane but after watching it descend lower and to my right, I realized it was not possible movement for an airplane. All of a sudden it instantly turned into a very bright red dot, something along the lines of a laser pen. It quickly made a figure 8-like shape before turnig back into the disk-like shape and slowly made its' way below the tree line. Upon waking up the next morning, to my surprise i had found out that there was a problem with Airforce 1 not being picked up on radar approx. near the vicinity of LaGuardia Airport. This experience has definately made me a believer and will always feel close to the"other" side. I am a 22 year old male from Northern New Jersey.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03883.html](http://www.nuforc.org/webreports/reports/003/S03883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
