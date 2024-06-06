@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:47 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange spheres with a small white halo in 2 groups traveling northwest.Witnesses:  male 64 female 59.  Male witness- saw 4 round lights suddenly appear from the southeast, traveling northwest. Bright orange center almost red with a halo of bright white light. Steady on lamination not flashing. They made a slow path way  path across the sky the turned due west as a military cargo plane flew toward them.  Suddenly 4 more of the same glowing spheres appeared from the same path the previous 4 had taken.  I ran from the street to my front door to get my wife.  She followed me and saw 6 of the 8.  The other 2 had disappeared. As we watched and attempted to photo with our iPhones, the spheres disappeared in the sky.  They did not appear to shut off or speed away.  They just vanished. I have lived near the Wright-Patterson Air Force Base most all of my life.  I have never seen anything like I saw last night.  My wife made the same comment.  No flashing lights as you would expect to see from a aircraft.  The pictures we took show only 4 white dots.  They made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110027.html](http://www.nuforc.org/webreports/reports/110/S110027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Brussels (Belgium) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red glowing object flying by on a cloudy night.About 2 weeks ago I was looking through my bedroom window around midnight.  The sky was completely covered with clouds.  Around 23:55 I saw a red light in the sky moving from the north-east to the south.  Thinking it was just a plane, I didn't really pay much attention to it.  Until I noticed it was impossible for a plane to be visible because of the cloudy weather and the red light didn't flinch like those of a plane would.  Because I'm an amateur astronomer, I grabbed by binoculars as fast as I could.  When I was back at the window with my binoculars the object was already halfway, so in the east direction.  When I looked at the object I still had no idea what it was.  It looked like an egg shaped object with a red light in it.  Because it was very cloudy, I guess the light must have been very bright.  Because no other objects were seen (stars, planes, ...)  The object suddenly vanished and was never seen again.  I discussed this sighting with others, but no one come up ! with an answer to what it could be.  After searching on the web, I found similar pictures of red objects in the sky.  One of the which looked the most to what I've seen was also in Belgium and also around midnight.  Thanks for the help to resolve this mystery, it deeply concerns me.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134677.html](http://www.nuforc.org/webreports/reports/134/S134677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
