@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Caliham (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It happened one nite when I was young I was at most 5 years old. I had the habit of getting sleeping with my 2 older Sisters and getting up in the nite to go get in bed with my parents. This nite I awoke and started my trek through the kitchen. I saw bright lights and I hid in the space betwene the Refridgerator and the wall. I saw 2 dull bright figures that were maybe 3 ft tall and gowing eyes. this site frightened me and I put my hands over my eyes and was peeking through my fingers. too my fright I closed my fingers when I peeked again through my fingers I was face to face with them. I sank to the floor and ran past to my Sisters room where I got between my two Sisters and pulled the covers over my head. The next morning we had some Men in Black suits asking all kinds of questions about Lights and fires by the Barn. I told the men a lie and said I didnt see anything . I never saw a ship only the whole house was lite up. I saw something that nite and it scared me alot. I have never heard of anything like the appearance of the little men I saw. am always curious to know if anyone else in the area saw anythong. The closest City would be Beeville Texas. I am grown now and work at Harborview In Seattle. I have spoken to some profesional people about what happened to me and there reply was that they wish They coukld have seen one. to me I wish I never seen anything.   thank you for your time  Please do not contact me by phone . email is fine especially regarding other like little men reports((NUFORC Note:  Date may be approximate, althought the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41019.html](http://www.nuforc.org/webreports/reports/041/S41019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange spheres with a small white halo in 2 groups traveling northwest.Witnesses:  male 64 female 59.  Male witness- saw 4 round lights suddenly appear from the southeast, traveling northwest. Bright orange center almost red with a halo of bright white light. Steady on lamination not flashing. They made a slow path way  path across the sky the turned due west as a military cargo plane flew toward them.  Suddenly 4 more of the same glowing spheres appeared from the same path the previous 4 had taken.  I ran from the street to my front door to get my wife.  She followed me and saw 6 of the 8.  The other 2 had disappeared. As we watched and attempted to photo with our iPhones, the spheres disappeared in the sky.  They did not appear to shut off or speed away.  They just vanished. I have lived near the Wright-Patterson Air Force Base most all of my life.  I have never seen anything like I saw last night.  My wife made the same comment.  No flashing lights as you would expect to see from a aircraft.  The pictures we took show only 4 white dots.  They made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110027.html](http://www.nuforc.org/webreports/reports/110/S110027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
