@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montgomery (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a slow moving light too far to be an airplane that faded awayI went outside to smoke my last cigarette of the day and i was staring up into the nights sky when i noticed an object that resembled an airplanes flight pattern. It was moving slow and in a straight line. But the first thing i noticed funny about it was that it was soooo far away. Even a plane traveling at its highest distance from the surface of the earth has some distinctive shape to it. and usually has a few lights on it to where you can make out the wings. Well this object I saw looked as if it was a very distant star. It was faint but definately visible with the naked eye. I just followed its flight until it just faded away very slowly. At first i thought mabye it was a very high plane that just went into some cloudy haze and that was the reason for it fading away, but when you look over a little more i could see every other star in the sky with the naked eye. I waited to see if it was going to come out of this unseen cloud but it never resurfaced . It simply went away. Now I'm not saying it was a UFO but for one its distance, its speed, and it just fading away makes it a little suspicious. It could have been an asteroid or some large rock or ice flying through space having the suns light reflected on it. But unless there is documentation of such an event it will still remain a mystery to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44276.html](http://www.nuforc.org/webreports/reports/044/S44276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Leesburg (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A light on the horizon moving in quick and unusual manner before disappearing.I was standing on a boat dock casually looking at stars.  I noticed a blinking light to the South-Southwest at approximately 45 degrees.  The light was small and at a considerable distance.  I initially thought it was just an airplane or helicopter. The light began moving East and back West in very fast straight lines.  The movements were first short and then covered increasingly longer distances until it was due South, standing still directly over the horizon of the lake.  The light then moved up and down in quick jerking motions, and East and West in very short jerking motions.  It then shot off diagonally to the South-Southwest at a speed faster than any of it's earlier movements and disappeared.  I often spend time watching for another similar light but have seen nothing in the 10 + years since.  It is important to note that in 1992 the army base at Fort McLelland, which is now closed, was still open.  Fort McLelland is South-Southeast of Weiss Lake where the sighthing occurred.  The date of the sighting was near other sightings in Northeast Alabama.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27065.html](http://www.nuforc.org/webreports/reports/027/S27065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
