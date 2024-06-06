@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My wife and I were on our way to Reno. I was looking at a large cloud formation that was pouring out an unbelievable amount of rain. While looking, a shiny object caught my eye. It was just at cloud level. It was V shape in formation, pointing west. It was made up of 7 silver balls. It passed in and out of the clouds, and finally dissappeared in them.My wife and I were on our way to Reno. I was looking at a large cloud formation that was pouring out an unbelievable amount of rain. While looking, a shiny object caught my eye. It was just at cloud level. It was V shape in formation, pointing west. It was made up of 7 silver balls. It passed in and out of the clouds, and finally dissappeared in them. At first I thought the formation could have been balloons because of its low elevation. However, the object never changed shape. The object was just at the bottom level of the clouds. It would pass through lower parts of the clouds, and then re-imerge. It was very windy that day. Extremely windy, however, the bject never deviated from its straight course. Sorry, I had no camera at the time, nor a camcorder. My wife and I live in Quincy, CA. About 75 miles from Reno. We were going for a few hours to shop. I work at the saw mill, and she works for Safeway. Also, my mother and father were watching KCRA news on Channel 3. The luive "sky cam" was overlooking Sacramento on 06/04/98 at 12:20pm. Both of the also saw balls of lights in the clouds. They saw 2 sets of 2 balls emerge from the clouds together. They also saw a formation that appeared as the Big Dipper appears in the sky. Although they do have a VCR, the "sky cam" shots over Sacramento are very brief, allowing them to only observe the event. Haime Maussan has video of balls of light coming out of heavy cloud cover over Mexico City, some of them observing the planes closely. What are these things doing in the clouds? Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03879.html](http://www.nuforc.org/webreports/reports/003/S03879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gold Bar (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A (just one) black floating cylinder shaped object moved in air floating ...turned like it was being driven from horizontal to vertical then back to vertical very smoothly.  I lost sight becasue I was driving.  Very strange!  Sunny 86 degrees day, a few scattered clouds, but very visible.  When it turned i saw a shiny part on top of cylinder shaped object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127752.html](http://www.nuforc.org/webreports/reports/127/S127752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
