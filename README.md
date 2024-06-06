@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:12 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Leakesville (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately throughout the night - throughout the night minutes.</sub><blockquote><sub>There were balls of light that would move through the sky some fast some slow.  They were white, and were of varying sizes.  They would fade out after sometime.  One ball of light shot out green boomerang shaped objects.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119391.html](http://www.nuforc.org/webreports/reports/119/S119391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object traveling at an extreme speed and maneuvers not capable by any known aircarftRoughly around 2:30am this morning I went out on my deck to have a smoke before going off to sleep.  After about 5 minutes or so I gazed at the stars as I normally do during the night.  As I looked over an adjacent house I noticed a flying object moving at and incredible speed.  It was not at an altitude of a commercial airliner.  It passed behind a tree line.  A few seconds came back into sight, made a incredible vertical change in direction.  Rose for about a mine and shot horizontally.  The object continued in this head for about 15 seconds and rose vertically again then vanished.The speed this object moved was at nothing I have ever seen in my life.  The sharp turns and maneuvers it made are just not feasibly possible with any known aircraft.  It did not have any distinct shape, just a white circle light.  This sighting whatever it is will be stuck in my mind for a very long time indeed.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56982.html](http://www.nuforc.org/webreports/reports/056/S56982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
