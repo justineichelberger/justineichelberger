@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object traveling at an extreme speed and maneuvers not capable by any known aircarftRoughly around 2:30am this morning I went out on my deck to have a smoke before going off to sleep.  After about 5 minutes or so I gazed at the stars as I normally do during the night.  As I looked over an adjacent house I noticed a flying object moving at and incredible speed.  It was not at an altitude of a commercial airliner.  It passed behind a tree line.  A few seconds came back into sight, made a incredible vertical change in direction.  Rose for about a mine and shot horizontally.  The object continued in this head for about 15 seconds and rose vertically again then vanished.The speed this object moved was at nothing I have ever seen in my life.  The sharp turns and maneuvers it made are just not feasibly possible with any known aircraft.  It did not have any distinct shape, just a white circle light.  This sighting whatever it is will be stuck in my mind for a very long time indeed.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56982.html](http://www.nuforc.org/webreports/reports/056/S56982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Waianae (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>we saw this in broad daylight, and the sky was perfectly clear.we saw this object in broad daylight.   the sky was perfectly clear.   there was no mistake.a sperical object.   moving slowly.   having a trail of " sparks".   the color was a very very bright blue, sort of floureswcent.   we watched it for about 10 seconds, and then it suddenly dissappeared.it was beautiful. i feel very fortunate to have seen it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28362.html](http://www.nuforc.org/webreports/reports/028/S28362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
