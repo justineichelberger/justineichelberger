@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Brussels (Belgium) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red glowing object flying by on a cloudy night.About 2 weeks ago I was looking through my bedroom window around midnight.  The sky was completely covered with clouds.  Around 23:55 I saw a red light in the sky moving from the north-east to the south.  Thinking it was just a plane, I didn't really pay much attention to it.  Until I noticed it was impossible for a plane to be visible because of the cloudy weather and the red light didn't flinch like those of a plane would.  Because I'm an amateur astronomer, I grabbed by binoculars as fast as I could.  When I was back at the window with my binoculars the object was already halfway, so in the east direction.  When I looked at the object I still had no idea what it was.  It looked like an egg shaped object with a red light in it.  Because it was very cloudy, I guess the light must have been very bright.  Because no other objects were seen (stars, planes, ...)  The object suddenly vanished and was never seen again.  I discussed this sighting with others, but no one come up ! with an answer to what it could be.  After searching on the web, I found similar pictures of red objects in the sky.  One of the which looked the most to what I've seen was also in Belgium and also around midnight.  Thanks for the help to resolve this mystery, it deeply concerns me.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134677.html](http://www.nuforc.org/webreports/reports/134/S134677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montgomery (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a slow moving light too far to be an airplane that faded awayI went outside to smoke my last cigarette of the day and i was staring up into the nights sky when i noticed an object that resembled an airplanes flight pattern. It was moving slow and in a straight line. But the first thing i noticed funny about it was that it was soooo far away. Even a plane traveling at its highest distance from the surface of the earth has some distinctive shape to it. and usually has a few lights on it to where you can make out the wings. Well this object I saw looked as if it was a very distant star. It was faint but definately visible with the naked eye. I just followed its flight until it just faded away very slowly. At first i thought mabye it was a very high plane that just went into some cloudy haze and that was the reason for it fading away, but when you look over a little more i could see every other star in the sky with the naked eye. I waited to see if it was going to come out of this unseen cloud but it never resurfaced . It simply went away. Now I'm not saying it was a UFO but for one its distance, its speed, and it just fading away makes it a little suspicious. It could have been an asteroid or some large rock or ice flying through space having the suns light reflected on it. But unless there is documentation of such an event it will still remain a mystery to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44276.html](http://www.nuforc.org/webreports/reports/044/S44276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
