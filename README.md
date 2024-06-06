@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:11 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gold Bar (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A (just one) black floating cylinder shaped object moved in air floating ...turned like it was being driven from horizontal to vertical then back to vertical very smoothly.  I lost sight becasue I was driving.  Very strange!  Sunny 86 degrees day, a few scattered clouds, but very visible.  When it turned i saw a shiny part on top of cylinder shaped object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127752.html](http://www.nuforc.org/webreports/reports/127/S127752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I  stood  at  the  kitchen  window  and  just  froze, I  couldn't  believe  what  I  was  seeing .It was  round  red light  flying  around  twenty feet over the ground.  It flew horizontal  across around  fifty feet and  just  disappeared.  It was  in the  center of an apartment complex.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134498.html](http://www.nuforc.org/webreports/reports/134/S134498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
