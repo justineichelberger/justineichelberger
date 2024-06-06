@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:23 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ball Ground (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 129</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163728.html](http://www.nuforc.org/webreports/reports/163/S163728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Aurora (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black / opaque/ silent sphere transversing the evening skyThe evening of June 6th at 20:10-20:18, I witnessed a black spherical object to the east towards the flight paths of Ohare and Midway airports.  Initially though it was a nearby mylar balloon ascending in the evening wind.  Upon observing, I realized it was considerably more distant because a light aircraft landing nearby at a community field eclipsed the object and based on the size I would have estimated it to be much closer if it was a "free-ranging" balloon.  Still skeptical, I observed and noticed the sphere ascending slowly to the south at a steady rate.  A faint fuzziness existed around its perimeter. I photographed the sky using a blackberry camera phone such that each frame should encompass the sphere.  To my amazement the object passed behind a thin but opaque cloud during the observation period.  This then confirmed that it was much higher and further away than a mylar balloon or facsimile.  The object maintained its altitude (estimated ~2000-3000 ft).  The presence of numerous jets landing and small private aircraft preclude the notion of a misidentification of a plane as a black/opaque sphere.  Six images were taken as it progressed southward to ultimately disappear.  I am posting this observation in response to seeing NUFORC reports of similar  in the vicinity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76559.html](http://www.nuforc.org/webreports/reports/076/S76559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
