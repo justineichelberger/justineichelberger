@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Leesburg (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A light on the horizon moving in quick and unusual manner before disappearing.I was standing on a boat dock casually looking at stars.  I noticed a blinking light to the South-Southwest at approximately 45 degrees.  The light was small and at a considerable distance.  I initially thought it was just an airplane or helicopter. The light began moving East and back West in very fast straight lines.  The movements were first short and then covered increasingly longer distances until it was due South, standing still directly over the horizon of the lake.  The light then moved up and down in quick jerking motions, and East and West in very short jerking motions.  It then shot off diagonally to the South-Southwest at a speed faster than any of it's earlier movements and disappeared.  I often spend time watching for another similar light but have seen nothing in the 10 + years since.  It is important to note that in 1992 the army base at Fort McLelland, which is now closed, was still open.  Fort McLelland is South-Southeast of Weiss Lake where the sighthing occurred.  The date of the sighting was near other sightings in Northeast Alabama.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27065.html](http://www.nuforc.org/webreports/reports/027/S27065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Camuy () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Cylinder type of ufo in the middle of the day.The thing looked like a Pen. Color was silver but looked like glass. Very reflective of the sun like you almost wanted to close your eyes. It had a crystal dome and blue lights floating around it. The most important part of this is that it was hovering vertically with no sound or visible propulsion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161131.html](http://www.nuforc.org/webreports/reports/161/S161131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
