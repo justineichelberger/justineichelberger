@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tuolumne Meadows (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangular object with intense red strobes near Yosemite; Mono LakeApproximately an hour after sunset, wife & I were unloading car at Yosemite campground in a valley with East- West orientation.  Conditions were clear and cloudless, sky still midnite blue, not yet black, and not yet full of stars.  We paused in our labors to admire the high jet contrails in the eastern sky, which still glowed a bit, catching the last of the light.Facing East, the object appeared from the South, first one, then two, and finally three tiny but intensely bright red lights, so bright and pure red, they made me think of a laser's intensity.  These were NOT beams, but strobing point sources of a light wavelength so narrow it made me think of a red Helium- Neon or diode laser.  These were unlike any civilian or military running lights either of us had ever seen; nothing to indicate port, starboard, or leading edge.  They were arranged in a rough equilateral triangle, one corner either canted toward or away from us.  As we quickly ran through the possibilities, we told each other to remember as much detail as possible; this was something unique!  As the object soundlessly moved in a straight line from south to north, we each noted its appearance as it drifted over the contrails.  My wife's impression was of a vague solid triangular object with red strobes at each corner floating ABOVE the contrails, which would make it enormous.  My own impression was of a skeletal triangular structure with the same red lights at each corner, passing in front of them contrails, which would still render the object rather gigantic.  There was a rather large gap between each light, notable because all planes must maintain high altitude over the Sierras, and thus their running lights appear close together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89521.html](http://www.nuforc.org/webreports/reports/089/S89521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Virginia (while driving on I-95;  2 hrs S of Wash., D.C.) (VA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cigar-shaped whitish object, hovering (possibly moving slightly, north to south)I was driving from a friend's house in North Carolina, where I'd spent the weekend, to my home in Arlington, Virginia.  As I was moseying northward on I-95, I looked to my left and saw a cigar-shaped object of what seemed to be a whitish tint.  The object was bright, but not too bright to look at directly (perhaps a bit brighter than a full moon).  The object seemed to be hovering, although it may have been moving slightly from north to south (since I was moving south to north, I can't be sure if this was simply motion relative to my own).  Soon, the object was obscured by the trees and I did not see it again; I may have witnessed it for close to two minutes but am not sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08775.html](http://www.nuforc.org/webreports/reports/008/S08775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
