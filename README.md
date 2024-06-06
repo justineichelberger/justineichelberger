@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:22 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:45 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Long Beach/Cerritos (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>3 bright dots in a form of a triangle pointing south.On Monday evening we were driving on the 5 South heading towards the 605 south freeway. We looked up on our left hand side it was 3 little bright dots, in the form of a triangle and the tip of it was slightly point lower than the rest and pointing toward 5 south. It was there for awhile even as we exited we still saw it in the distant. There was also an airplane close to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70952.html](http://www.nuforc.org/webreports/reports/070/S70952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Woodstock (Canada) (NB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>NOTICED OBJECTS IN  PICTURES.I WAS OUTSIDE TAKING PICTURES OF CONTRAILS, (CHEMTRAILS) OF JETS PASSING OVERHEAD.  NOW THE REASON I WAS PHOTOGRAPHING THESE WAS BECAUSE THEY DIDN'T JUST DISSAPATE LIKE A NORMAL CONTRAIL USUALLY WOULD BUT STAYED IN THE SKY AND FORMED A BLANKET OF INTERMITTENT CLOUDS THAT STRETCHED ALONG THE SKYLINE.  ANYWAYS, I DID NOT NOTICE ANYTHING AS I WAS TAKING PICTURES BUT ONLY CAUGHT THE OBJECT(S)IN SEVERAL PICTURES AFTER TAKING THEM OFF OF MY CAMERA.  I'VE CAUGHT THESE OBJECTS IN THE SKY FOR 3 TO 4 DAYS NOW. THEY ARE DISTANT, BUT DEFINATELY NOT BIRDS,MOSQUITOES, OR AIRPLANES.((NUFORC Note:  We believe that the alleged "chemtrails" are nothing more than typical contrails.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50888.html](http://www.nuforc.org/webreports/reports/050/S50888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
