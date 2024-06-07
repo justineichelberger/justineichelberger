@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright red object hovering in place for approx 15 seconds, then fast speed, then hover, finally faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110058.html](http://www.nuforc.org/webreports/reports/110/S110058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Manitowoc (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shiny silver large disk in sky near cedar crest, hole in the middle with lights.  Would hover in 1 place then start turning and spinning, would stop and hover.  Was very shiny, hurt our eyes to look at it.  Took off into the sky after coming down and going back up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146744.html](http://www.nuforc.org/webreports/reports/146/S146744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
