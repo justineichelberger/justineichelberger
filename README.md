@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellmore (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Slow flying bright object with white bright light.White object flying about 2 miles high.  White bright light.  As it was moving west, it climbed up, and the light disappeared.  It start it at 10:48 pm, and lasted it for 4 min..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134463.html](http://www.nuforc.org/webreports/reports/134/S134463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wolfe City (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White sphere moves from horizon to horizon and back again in a matter of seconds.On the night of June 7, 2008, at approx. 10:55 pm, in Wolfe City TX, my drummer, his girlfriend and I were walking to my vehicle to put up my band equipment. We noticed a bright white light in the sky to the south of us.We first thought the craft to be an airplane or helicopter but then realized that it didn't have blinking warning lights as most aircraft do. We looked through a pair of binoculars I has in my car and confirmed it did not have warning lights. It was also moving way too fast to be either of those aircraft.The object was a blinding white sphere shaped object. It was moving from south to north at a very high rate of speed. It went from horizon to horizon in a matter of seconds and then started going back south again.Jokingly we said it must be a UFO. Again, jokingly I tried to signal it with the light from my cellphone (it is very dark at night where he lives). I opened and closed my phone a few times and when I was done the light vanished.It reappeared almost all the across the horizon to the north of us and stopped for about 30 seconds or so and then flew back to the south faster than anything I have ever seen. I have seen many different aircraft in my lifetime, from cargo planes to jet fighters to helicopters, and NONE of the are capable of moving that fast.It is hard to guess how big it was as there was nothing else to compare it to at the time.((NUFORC Note:  Could not have been ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63754.html](http://www.nuforc.org/webreports/reports/063/S63754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
