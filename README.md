@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Northbrook (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 148</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146801.html](http://www.nuforc.org/webreports/reports/146/S146801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Buffalo (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The sighting my mother and I saw was at approximately 10:00 pm at night, 10 miles before hitting our town Buffalo, MO.We were on our way home from work and we were on the highway and came up over the hill and we saw this glowing light, so I immediately started recording on my phone.  The shape is unclear but the light eventually went into three lights then back to one, and then joy disappeared for a split second, then repeated itself once or twice again and then just disappeared for good.  It was located by a cellphone or some kind of tower with its red lights to warn pilots.  So I thought it was weird something in the sky seemed to be so close to it and not moving exactly.  The color of the lights were white, kinda relish tint and yellow tint color to it as seen in the video.  This happened within a 3-5 minute period and that's about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127779.html](http://www.nuforc.org/webreports/reports/127/S127779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
