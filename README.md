@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Channel Islands & Norwich () reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Recent sightings over Norwich and the Channel Islands UKam not sure if these recent sightings in the UK have been reported or not.  I enclose links to the stories. http://www.eveningnews24.co.uk/content/News/story.aspx?brand=ENOnline&category=News&tBrand=enonline&tCategory=news&itemid=NOED26%20Jun%202007%2009%3A28%3A12%3A383  sighting recently in Norwich  http://www.thisislondon.co.uk/news/article-23401615-details/'Mile-wide+UFO'+spotted+by+British+airline+pilot/article.do  recent sighting over the channel islands  myself and my partner also saw a strange white light fly accross the night sky approximately 2 weeks ago.  my partner (who doesnt believe in ufo's or anything like that) pointed out this white light that was travelling from west to south.  he wondered what it was as it did not have the flashing lights of a plane (we live under the busy heathrow flight path) and there was no sound.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57348.html](http://www.nuforc.org/webreports/reports/057/S57348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellmore (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Slow flying bright object with white bright light.White object flying about 2 miles high.  White bright light.  As it was moving west, it climbed up, and the light disappeared.  It start it at 10:48 pm, and lasted it for 4 min..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134463.html](http://www.nuforc.org/webreports/reports/134/S134463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
