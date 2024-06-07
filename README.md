@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:41 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Commerce (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was three lights in a triangle. It hovered. It sat there for a couple of minutes. There was two other persons there that saw it. One is no longer with us due to his death. It happened in 1974 when I was in high school. We never told anyone because we could not believe it and did not think anyone else would. I have wondered about it since. After we watched it hover there, all of the sudden it took off over the horizon. But we thought it went down a couple of blocks over in my neighborhood. So, we went on our bicycles to see where it landed. Then we realized that it had gone over the horizon and not in our neighborhood. It was an inexplainable experience. This is what happened and there is no doubt about it. It is what it is. It happened! I have not resolved it yet. I still wonder and don't know what it was.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18757.html](http://www.nuforc.org/webreports/reports/018/S18757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Ominous sun like light, not projecting, like burning within a craft of some sort.About week ago at night [10pm] while walking 'Chester' I saw a UFO and I was quite amazed that I could not explain what had happened.  Well last night there was four of these objects flying over our house so I ran back and got mom to take pictures.We did not get photos to turn out.  By the way while we were standing there looking at them one by one they turned and climbed out of vision within seconds.The first incident was lower and somewhat frightening in that the light from it looked like a small sun with changing values {brightness} as in searching the sky and moved from east to northwest in an arc overhead lower then planes [30,000] but had no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99952.html](http://www.nuforc.org/webreports/reports/099/S99952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
