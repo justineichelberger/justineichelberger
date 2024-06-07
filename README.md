@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 6 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lemars (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright aircraft caught my eye at dawn in the west and flew east.  Seemed to be closer than planes usually fly but crossed the horizon at a much greater speed.  And seemed to fly effortlessly. I have seen this craft before about 6 mo this ago an again yesterday and today and have videos of them all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89392.html](http://www.nuforc.org/webreports/reports/089/S89392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Commerce (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was three lights in a triangle. It hovered. It sat there for a couple of minutes. There was two other persons there that saw it. One is no longer with us due to his death. It happened in 1974 when I was in high school. We never told anyone because we could not believe it and did not think anyone else would. I have wondered about it since. After we watched it hover there, all of the sudden it took off over the horizon. But we thought it went down a couple of blocks over in my neighborhood. So, we went on our bicycles to see where it landed. Then we realized that it had gone over the horizon and not in our neighborhood. It was an inexplainable experience. This is what happened and there is no doubt about it. It is what it is. It happened! I have not resolved it yet. I still wonder and don't know what it was.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18757.html](http://www.nuforc.org/webreports/reports/018/S18757.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
