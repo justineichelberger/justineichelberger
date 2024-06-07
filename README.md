@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Florala (??) (AL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Also a few months ago I had a very vivid dream in which I was on board a craft, and was able to see the road, ground, telephone poles, lines, trees and so forth from a window that was what I believe to be the control center of the craft. I was standing at a console along with an being which was a vistor from another planet. I asked him how did they manover the craft and he showed me a panel with square controls and I was allowed to turn the one he pointed out, to my surprise we made an abrute right angle turn but I felt no motion what so ever in the craft. I then asked what did they use for purpollision and he showed me a clear tank filled with some type of clear liquid which bubbled from the centre outward. There were two being standing on either side of this unit. The unit appeared to be maybe two feet in higth and one foot in diameter. It was sitting on some type of table, but I cound not see any support for the table top. It just sort of hovered there you might say. This is the last thing I remember about the dream. I just wanted to send this in and get your views. I truely believe we as a nation and the people of the world are being visited by extra tresstials from some far distant planet. But, I wonder what is their motive, what knowledge they must posess, what is their history, do they know if space is infinate, questions like this. Questions that one day will be answered because persons such as yourself are making a serious effort to explore these reports of sightings, contact, material evediance, and singals from far beyond. Perhaps one day the questions will be answered and then all the world population will know the truth. Thank you for alloweing me the time and space to report my experience to you. I look forward to your responce.PS: I am the person which reported the sighting at Florala, Alabama.Best Regards,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58838.html](http://www.nuforc.org/webreports/reports/058/S58838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Channel Islands & Norwich (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Recent sightings over Norwich and the Channel Islands UKam not sure if these recent sightings in the UK have been reported or not.  I enclose links to the stories. http://www.eveningnews24.co.uk/content/News/story.aspx?brand=ENOnline&category=News&tBrand=enonline&tCategory=news&itemid=NOED26%20Jun%202007%2009%3A28%3A12%3A383  sighting recently in Norwich  http://www.thisislondon.co.uk/news/article-23401615-details/'Mile-wide+UFO'+spotted+by+British+airline+pilot/article.do Recent sighting over the channel islands  myself and my partner also saw a strange white light fly accross the night sky approximately 2 weeks ago.   my partner (who doesnt believe in ufo's or anything like that) pointed out this white light that was travelling from west to south.   he wondered what it was as it did not have the flashing lights of a plane (we live under the busy heathrow flight path) and there was no sound.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57347.html](http://www.nuforc.org/webreports/reports/057/S57347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
