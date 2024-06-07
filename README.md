@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Manitowoc (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shiny silver large disk in sky near cedar crest, hole in the middle with lights.  Would hover in 1 place then start turning and spinning, would stop and hover.  Was very shiny, hurt our eyes to look at it.  Took off into the sky after coming down and going back up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146744.html](http://www.nuforc.org/webreports/reports/146/S146744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Lights over Salem, OregonWe were outside on our front porch when noticed lights approaching at a fast speed.  The object began to slow down, then hovered for about three to five seconds.  Then the object quickly ascended approximately 20-30 feet then quickly descended to the original position.  The object again hovered for a few more seconds then quickly moved to the right; faster than any plane I have ever seen.  It made another quick right, stopped, hovered, then made a quick descend out of our sight.  The lights were a yellowish-orange color that pulsated and changed to red.  This has to be the craziest thing I have ever seen and I hope it was a UFO because I have never seen one before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89465.html](http://www.nuforc.org/webreports/reports/089/S89465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
