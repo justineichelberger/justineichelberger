@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Buffalo (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The sighting my mother and I saw was at approximately 10:00 pm at night, 10 miles before hitting our town Buffalo, MO.We were on our way home from work and we were on the highway and came up over the hill and we saw this glowing light, so I immediately started recording on my phone.  The shape is unclear but the light eventually went into three lights then back to one, and then joy disappeared for a split second, then repeated itself once or twice again and then just disappeared for good.  It was located by a cellphone or some kind of tower with its red lights to warn pilots.  So I thought it was weird something in the sky seemed to be so close to it and not moving exactly.  The color of the lights were white, kinda relish tint and yellow tint color to it as seen in the video.  This happened within a 3-5 minute period and that's about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127779.html](http://www.nuforc.org/webreports/reports/127/S127779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rye (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright orange orb or sphere...being chased by two helicopters at night..During the night of June 7, 2018, around 10:12 PM, I heard a helicopter.  It was loud not like a charter helicopter which flies by during the day for scenic tours.  So I had gone outside to see it and when I viewed the helicopter and seeing the lights of it.....to the left and just a little ahead of that was this bright orange round orb.  It was no reflection it was just this bright orange round globe.  And after seeing the first helicopter....there was one right behind it and was chasing this light...glow....orb...round existence of what is was.  It only lasted for maybe 20 seconds and wished I had my cell phone to video it.  It WAS something I have never seen before for that. I live just across from the ocean in Rye, NH.  I may have seen things on video or television before.....but this was live...and real.........!!!((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite sincere in describing his sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141767.html](http://www.nuforc.org/webreports/reports/141/S141767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
