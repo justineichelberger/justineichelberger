@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Billings (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>My wife and I were driving east on Missouri Rt 14 about 1 mile west of Billings MO  when we both witnessed a green object which resembled a meteor, except that it was much larger than any we have seen before.  Its color was the same made by copper when exposed to a flame.  It was just north of northeast and was about the size of my little finger nail when held at arm's length. It was about 30 degrees above the horizon and travelled downward in a straight line at about a 45 degree angle.  It travelled rapikly and disappeared below the visible horizon.  I am 65 years old, hold two degrees and am a manager at a local utility.  My wife is 52, a house wife and retired nurse and speech pathologist and holds three undergraduate degrees and a master's degree.  Neither of us have ever seen any anomolous objects before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18240.html](http://www.nuforc.org/webreports/reports/018/S18240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Leap frogging lightsObserved two balls of light leap frogging across the sky in the Carolina Forest area.  Lights were whitish colored and were moving in a south eastern direction.  After seeing the lights leap-frog several times, the lights disappeared.  No noise or physical shapes observed, just lights.  Trailing light would fade and another would appear in a leaping fashion and repeat in a south eastern direction.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127763.html](http://www.nuforc.org/webreports/reports/127/S127763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
