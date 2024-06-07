@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Leap frogging lightsObserved two balls of light leap frogging across the sky in the Carolina Forest area.  Lights were whitish colored and were moving in a south eastern direction.  After seeing the lights leap-frog several times, the lights disappeared.  No noise or physical shapes observed, just lights.  Trailing light would fade and another would appear in a leaping fashion and repeat in a south eastern direction.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127763.html](http://www.nuforc.org/webreports/reports/127/S127763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7 fireballs in a row in the southern skyes at 1:30 amTHIS WAS ABOUT MY  7TH SIGHTING IN 3 YEARS I WAS SITTING OUTSIDe ON MT DECK ENJOYING A WARM BEAUTIFUL NIGHT.  I LOOKED TO THE SOUTH AND IN THE TREE LINE HIGH IN THE SKY I WITNESSED A ORANGE FIREBALL , THEN  7 MORE FOLLOWED.THE FIRE BALLS WERE ALL EVENLY SPACED APART. TRAVELING FRON EAST TO WEST.  I wasnt schocked as this has been my 7th sighting. all the others have been over the last 3 years and in different parts of the sky.Last years sightings, I was able to telephone my neighbors and they witnessed the sightings, that time they came out of the north going sought bound.I dont drink and have never done drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98601.html](http://www.nuforc.org/webreports/reports/098/S98601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
