@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Muskegon (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A large triangle with lights on the corners moving west to east.I was sitting out side and saw a flash (like lightning from a distance) and said to my wife thats odd lighting and no clouds. Then I looked up around the unbrella canopy of our table to be sure there were no clouds, thats when I saw a swirling flash or something and then saw three lights forming a triangle moving west to east and no stars showing with in the triangle. No sound. I was hitting my wifes shoulder yelling look.she did not see. The lites that made up the corners was not the same color as the stars but yellow in comparison.I watched it till it went out of sight. Had it not been moving I never would have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23490.html](http://www.nuforc.org/webreports/reports/023/S23490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While taking the pooch for a ride I saw an unusual craftOn Thursday night, June 7, I was taking my dog for a ride (it relaxes both of us), we pretty much take the same route for each ride.  I have seen planes in this area before, but usually they are high and just passing over from St. Louis to Kansas City. This night, this plane looked "odd". It had two bright lights on the front and no blinking lights.  I stopped the truck and turned the engine off but I was a little too far away to get a good look.  I figured it was a (regular) plane.  The next night, Friday, at just about the same time, it was the same route, only with a slight variation which put me closer to the path of this "plane". Once again I stopped the truck and turned off the engine.  I watched as it flew almost overhead.  I thought, that's odd, it looked triangular, it had three whitish lights on each tip, but I was still thinking it was a plane, and then I saw the red light in the center of the triangle, it appeared larger than the white ones and I also noticed smaller lights which seemed to be closer to the body of the craft, so that the others seemed to protrude. Then it hit me that this might not be a conventional aircraft! It traveled a path, each night, from northwest, making an arc just about the 122 mile marker on highway 70 and then heading southwest. Northwest direction would be the direction that Whiteman AFB is and the home of the Stealth.  It wouldnt surprise me to find out that this was a Stealth aircraft. I did call Whiteman and spoke with the airflight control, who told me they didnt know what the underside of the Stealth looked like at night. So no info there.. Nor were they aware of any flights at those times, but...? I assured them I wasnt a spy, of course if I were I would all ready know all this! I am a UFO investigator though, MIG: Missouri Investigatorsroup,(B.Becker@iname.com)and I have taken reports describing exactly this same type of craft.  I dont know what it is, or whose it is, but I know its here.((NUFORC Note:  Our gratitude to Barbara Becker, of MIG in Missouri, for this report.  Any witnesses to the above event are encouraged to contact her.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17921.html](http://www.nuforc.org/webreports/reports/017/S17921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
