@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Riebeeckstad/Welkom (South Africa) () reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Orange slow moving object in night sky above Welkom, Free-StateWent out of home at Maree Street in Riebeecstad, and noticed a round orange object in the sky.  At first I thought it was a star but it slowly moved North and then back. Trying to figure out if my eyes are deceiving me, I stepped around and marked the object with some tree branches so I stood still and saw it move again.Went back to the home to get mobile phone and tried to take a video, but was unsuccessful.  Then went back into house and when I came out it was gone.The object was larger than the stars around it.  It was orange in color and moved slowly. Unfortunately was not able to see when it left.Was facing East when I saw object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83007.html](http://www.nuforc.org/webreports/reports/083/S83007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Lake Tahoe (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO captured in hiker's photo in South Lake TahoeAs I was looking over the photos I had taken while hiking in Van Sickle Bi-State Park, I noticed a UFO in the sky in one of my photos.  I did not see the object "live", I only noticed it after the fact.  I also took a 2nd photo that was identical in composition to the UFO-bearing photo just a few seconds later.  There was no UFO in the 2nd photo.Both photos bear the time stamp of 1:35PM.  It was a bright and sunny afternoon.  There were a few other hikers in the area, but the park was largely empty while I was hiking.The UFO in my photo is somewhat rectangular, with a black bottom, silver sides, and an antenna coming out of the top.  There is also a bright circle of light on the underside of the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127989.html](http://www.nuforc.org/webreports/reports/127/S127989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
