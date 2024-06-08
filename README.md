@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:00 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs? (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unk - unk minutes.</sub><blockquote><sub>Cloud covered object with black parallel column from sky to the groundWhile driving from work (Highlands Ranch, CO, to my apartment in Colorado Springs, CO, while stopped I took a picture of the Sun descending behind the Rocky Mountains, fairly common thing for me to do, on the evening of 06/08/17 at 2028.  I am sure at the time I didn't notice anything unusual or would have thought more about it, so at that moment it was just a sunset.  I transferred my pictures from my Iphone SE to my laptop and never thought about it, as I was working a lot of hours at the post office.  Well yesterday (06/19/2019) I am going through my pictures on my laptop and came across a very odd one.  Towards the sunset there is a large dark parallel column from the clouds to the ground.  I zoomed in and at the top there appears to be a single stationary object in the cloud, silver with a very flat top.  Thought it might be just part of the cloud, but never seen a cloud like that.  There is nothing that was on the window of my car that would have caused t! his or on my phone.  Not sure why but I took a second picture zooming in on that area and there is no black parallel column.  Attaching both pics for you to look at.  I was afraid to show or tell anyone my suspicion cause, I didn't want to be looked like I was crazy.  Only showed one other fellow photographer and she said it looked weird too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148390.html](http://www.nuforc.org/webreports/reports/148/S148390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:35 - 00:35 minutes.</sub><blockquote><sub>From latitude 41.682 longitude -85.977 looking SSE ~63° stationary object moved very slowly NNE. Could not make out shape using binoculars. Too light to use telescope. Silver colored. WAS NOT A PLANE. Did not move more than 30° in ½ hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08127.html](http://www.nuforc.org/webreports/reports/008/S08127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
