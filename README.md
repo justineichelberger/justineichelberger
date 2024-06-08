@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Brilliant Orange Orb/Sphere Moves Across SkyMy family and I were taking a walk when we noticed a super bright orange orb/sphere in the sky.  It was a steady (not blinking) brilliant light that was unlike any type of plane/helicopter/star I’ve even seen.  It was moving across the sky pretty quickly.  It moved from South to Southwest.  I pulled out my phone and was able to take a video of the object.  It was a cloudy night, so I saw it move across the sky then I was able to see it in front of a group of clouds.  As it continued to move in a Southwest direction it eventually disappeared behind the clouds and I didn’t see it again.  Total time of sighting was approx. 1-2 minutes.About 10 minutes after that I saw what appeared to be a military aircraft coming from the direction of where we saw the sphere heading.  My guess would be that the military craft pursued the sphere, then when it broke pursuit it turned around and appeared to be heading towards Whiteman Air Force Base.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110097.html](http://www.nuforc.org/webreports/reports/110/S110097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>More "Phoenix Lights" over North Phoenix at approximately I-17 Freeway and Carefree HighwayAs I arrived to work as a security guard at a trucking company in North Phoenix at 9:20 pm, I saw out the side window of my car 3 lights in a triangular formation fade out one by one over about two seconds; they were amber or yellowish orange in color. I saw them only at a glimpse as they started fading out. I do not know how long they had been there. They were to the North and slightly West of my location. This would mean the lights were roughly over I-17 freeway and perhaps Carefree Highway. I have seen these "Phoenix Lights" many times over the last couple of lights, so I continued to observe that portion of sky in case they would appear again. They did appear lower on the horizon; this time there was somewhere between 6 and 10 of them that appeared in a streak or straight line almost as if it were one that was in motion but only appeared in a series of dots of light. This second set of lights appeared about 5 minutes after the first set. The duration of this second set in a line formation was maybe 1 to 2 seconds. All of the lights in the second sighting were amber except for the last one which was red. They appeared from right to left at a slight angle from higher to lower (maybe 2 or 3 degrees off parallel with the ground). The lights were so low to the ground the second time that I could barely see them over the building to the North of this trucking yard. The first set of lights was much higher up in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44323.html](http://www.nuforc.org/webreports/reports/044/S44323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
