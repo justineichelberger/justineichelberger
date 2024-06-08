@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 7 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rye (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright orange orb or sphere...being chased by two helicopters at night..During the night of June 7, 2018, around 10:12 PM, I heard a helicopter.  It was loud not like a charter helicopter which flies by during the day for scenic tours.  So I had gone outside to see it and when I viewed the helicopter and seeing the lights of it.....to the left and just a little ahead of that was this bright orange round orb.  It was no reflection it was just this bright orange round globe.  And after seeing the first helicopter....there was one right behind it and was chasing this light...glow....orb...round existence of what is was.  It only lasted for maybe 20 seconds and wished I had my cell phone to video it.  It WAS something I have never seen before for that. I live just across from the ocean in Rye, NH.  I may have seen things on video or television before.....but this was live...and real.........!!!((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite sincere in describing his sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141767.html](http://www.nuforc.org/webreports/reports/141/S141767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs? (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unk - unk minutes.</sub><blockquote><sub>Cloud covered object with black parallel column from sky to the groundWhile driving from work (Highlands Ranch, CO, to my apartment in Colorado Springs, CO, while stopped I took a picture of the Sun descending behind the Rocky Mountains, fairly common thing for me to do, on the evening of 06/08/17 at 2028.  I am sure at the time I didn't notice anything unusual or would have thought more about it, so at that moment it was just a sunset.  I transferred my pictures from my Iphone SE to my laptop and never thought about it, as I was working a lot of hours at the post office.  Well yesterday (06/19/2019) I am going through my pictures on my laptop and came across a very odd one.  Towards the sunset there is a large dark parallel column from the clouds to the ground.  I zoomed in and at the top there appears to be a single stationary object in the cloud, silver with a very flat top.  Thought it might be just part of the cloud, but never seen a cloud like that.  There is nothing that was on the window of my car that would have caused t! his or on my phone.  Not sure why but I took a second picture zooming in on that area and there is no black parallel column.  Attaching both pics for you to look at.  I was afraid to show or tell anyone my suspicion cause, I didn't want to be looked like I was crazy.  Only showed one other fellow photographer and she said it looked weird too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148390.html](http://www.nuforc.org/webreports/reports/148/S148390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
