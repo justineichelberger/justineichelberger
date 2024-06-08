@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>On the You Tube video, Real Sound of Space Shuttle STS-117 Launch, 3 miles.  UFO cuts through cloud just like in the Iranian launch.  Surprised no one else has noticed it yet.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83743.html](http://www.nuforc.org/webreports/reports/083/S83743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Troy (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My wife ((wife's name deleted)) was standing on our deck (south facing) and called me as she was wondering what a single reddish globe light in the sky was.  The object came from the south (from Westfield/Eden direction) and traveled towards us.  As the object neared, a second object (same color) appeared from the same direction.  Shortly thereafter, a third object appeared.  They appeared to be ‘globes’ and moved in a somewhat fast rate of speed.  There was no noise.  Their movement was very ‘smooth’ (no quick movements).Object 1 traveled towards us and, at one point, began ascending straight up (it disappeared).  Objects 2 and 3 passed the house (to our left look at the objects).  As they passed, I noticed what appeared to be a single light (underneath) the object.  I could make out a black shape (outline from the light) but could not distinguish what it was.  That is, they flew low enough for me to see that it did not have a bank of lights.I am confident in saying that it was not a plane as I did not see wings.  The light was bright and did not flicker or pulse.  I have seen and heard drones when deployed to Afghanistan.  This was not, in my opinion, a drone.I am forwarding a picture captured of object 2 and 3 from our deck.  I have other pictures but the size of the file would be too big to email.  These were taken from my android phone (Samsung).  Note that although it appears to be a ‘globe’ it is my sense that what you see is the light (under?) the object.  I cannot confirm that it was, in fact, a roundish shape.Both ((wife's name deleted)) and I observed this.  End of report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134489.html](http://www.nuforc.org/webreports/reports/134/S134489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
