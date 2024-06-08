@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:02 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Lake Tahoe (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO captured in hiker's photo in South Lake TahoeAs I was looking over the photos I had taken while hiking in Van Sickle Bi-State Park, I noticed a UFO in the sky in one of my photos.  I did not see the object "live", I only noticed it after the fact.  I also took a 2nd photo that was identical in composition to the UFO-bearing photo just a few seconds later.  There was no UFO in the 2nd photo.Both photos bear the time stamp of 1:35PM.  It was a bright and sunny afternoon.  There were a few other hikers in the area, but the park was largely empty while I was hiking.The UFO in my photo is somewhat rectangular, with a black bottom, silver sides, and an antenna coming out of the top.  There is also a bright circle of light on the underside of the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127989.html](http://www.nuforc.org/webreports/reports/127/S127989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bushkill (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>The light speed up fast and then followed behind us and then ziped away and was gone.but yet there was no sound.My daughter and I were traveling threw the Shawnee one of the back roads home,when a very bright light was speeding up behind us I was the driver of the vehicle, I then said ''why is this guy traveling so fast and speeding up behind us'',my daughter who was in the car as well then looked back and saw a bright light as well..... I continued to be confused because the very bright round light was in air when I continued to look back and say what the hell is that it zipped away just diapering to our left and was gone in a flash.well you could not make a left turn we were driving threw mountains in the woods when it vanished.My daughter and I were freaked out and didn't know what to think.when we reached home we shared our experience with everybody but they just laughed at us so we never mention it or nor do we discuss it amongst each other,But it never leaves my mind to wonder what was that? what did we see.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64532.html](http://www.nuforc.org/webreports/reports/064/S64532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
