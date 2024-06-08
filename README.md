@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Afton (St. Louis Co.) (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Solid white light moved rapidly across the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89461.html](http://www.nuforc.org/webreports/reports/089/S89461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Brilliant Orange Orb/Sphere Moves Across SkyMy family and I were taking a walk when we noticed a super bright orange orb/sphere in the sky.  It was a steady (not blinking) brilliant light that was unlike any type of plane/helicopter/star I’ve even seen.  It was moving across the sky pretty quickly.  It moved from South to Southwest.  I pulled out my phone and was able to take a video of the object.  It was a cloudy night, so I saw it move across the sky then I was able to see it in front of a group of clouds.  As it continued to move in a Southwest direction it eventually disappeared behind the clouds and I didn’t see it again.  Total time of sighting was approx. 1-2 minutes.About 10 minutes after that I saw what appeared to be a military aircraft coming from the direction of where we saw the sphere heading.  My guess would be that the military craft pursued the sphere, then when it broke pursuit it turned around and appeared to be heading towards Whiteman Air Force Base.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110097.html](http://www.nuforc.org/webreports/reports/110/S110097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
