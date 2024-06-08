@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several bright lights dropped out of cloud coverage/night time followed by same grouping minutes later by myself and neighbordropped down bright red  went back into cloud cover  next ones not as bright same pattern dropped down out of cloud heading northwest up into clouds  minutes later same activity but fewer   first was 4 maybe 5  next was 3  couple of several single the more they came the less bright red to light clear colors that all disappeared into the clouds    looked like balloons on fire   colors got ligher with each group</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89470.html](http://www.nuforc.org/webreports/reports/089/S89470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1943, an anonymous witness in France (over, somewhere) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>light next to my b-17i was a left waist gunner on a B-17. over france we saw a  light,the  altemeter went crazy and kept going from sea lvl to 10000 ft even though we were flying higher, but none of the other instruments faild or so the pilot said;it stayed with us for about 5 min. we wanted to shoot it but the pilot said "if it was hostile it would have killed us by now. teh engenner thought it was a kraut secret weapon.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33297.html](http://www.nuforc.org/webreports/reports/033/S33297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
