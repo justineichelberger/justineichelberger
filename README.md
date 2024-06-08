@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Troy (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My wife ((wife's name deleted)) was standing on our deck (south facing) and called me as she was wondering what a single reddish globe light in the sky was.  The object came from the south (from Westfield/Eden direction) and traveled towards us.  As the object neared, a second object (same color) appeared from the same direction.  Shortly thereafter, a third object appeared.  They appeared to be ‘globes’ and moved in a somewhat fast rate of speed.  There was no noise.  Their movement was very ‘smooth’ (no quick movements).Object 1 traveled towards us and, at one point, began ascending straight up (it disappeared).  Objects 2 and 3 passed the house (to our left look at the objects).  As they passed, I noticed what appeared to be a single light (underneath) the object.  I could make out a black shape (outline from the light) but could not distinguish what it was.  That is, they flew low enough for me to see that it did not have a bank of lights.I am confident in saying that it was not a plane as I did not see wings.  The light was bright and did not flicker or pulse.  I have seen and heard drones when deployed to Afghanistan.  This was not, in my opinion, a drone.I am forwarding a picture captured of object 2 and 3 from our deck.  I have other pictures but the size of the file would be too big to email.  These were taken from my android phone (Samsung).  Note that although it appears to be a ‘globe’ it is my sense that what you see is the light (under?) the object.  I cannot confirm that it was, in fact, a roundish shape.Both ((wife's name deleted)) and I observed this.  End of report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134489.html](http://www.nuforc.org/webreports/reports/134/S134489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Stockton on Tees (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>ufo  or brightest star everlooks like 3 bright stars all in 1 observed this craft over 1 1/2 year period.it used to be in the south west sky about 45 degrees from the horizon. it could be seen on ave 3 times a week.never in exactly the same place but always in roughly the same direction.some clear nights it was there and some it wasnt.then about 5 or 6 months ago i just stopped seeing it.that was until tonight about 3 am a star the same brightness but in the south south east about 25-30 degrees up from the horizon..its not a planet or star,thought it could be a satalite until i stopped seeing it for months and now it back  i will post as soon as i see it again so you can all take a look ty jason im also about to purchase a new telescope so it it is still around i will get some pictures bright star /ufo((NUFORC Note:  Possible sighting of stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70400.html](http://www.nuforc.org/webreports/reports/070/S70400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
