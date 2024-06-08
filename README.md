@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1943, an anonymous witness in France (over, somewhere) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>light next to my b-17i was a left waist gunner on a B-17. over france we saw a  light,the  altemeter went crazy and kept going from sea lvl to 10000 ft even though we were flying higher, but none of the other instruments faild or so the pilot said;it stayed with us for about 5 min. we wanted to shoot it but the pilot said "if it was hostile it would have killed us by now. teh engenner thought it was a kraut secret weapon.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33297.html](http://www.nuforc.org/webreports/reports/033/S33297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Portsmouth (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>2 orange circles move  across the sky, but together at the same speed not falling more like 2 rockets but went all the way across the sky and got smaller and smaller until they disappeared like if they were gone into space.  I have seen rockets that go into space, and they were nothing like it usually when u see a rocket they have a arch like leaving atmosphere these went straight across, then upwards motion</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134485.html](http://www.nuforc.org/webreports/reports/134/S134485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
