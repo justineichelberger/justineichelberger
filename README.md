@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Indio (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 Bright Red lights coming over Indio HillsSaw 3 huge red-glowing lights coming over the North Indio Hills.. heading East to West..  later turned into traditional white light orbs in sky...disappeared heading Northwest</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127785.html](http://www.nuforc.org/webreports/reports/127/S127785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Dennisport (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Kite flying and Alien interest?A friend and I were flying a kite on West Dennis Beach (Dennisport, MA) as it started to get dark we saw a saucer over the water about 100 to 200 feet from us about 50 to 100 feet up it was hovering for about a minute and took off at great speed out to sea about a hafe a mile out it shot up diagonaly faster and disappered((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26056.html](http://www.nuforc.org/webreports/reports/026/S26056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
