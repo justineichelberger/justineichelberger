@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:58 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:45 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>brilliant orange light or chinese lantern at or less than 1000ft moving east to west across Oakville, Ontario midnight, June 9th 2013Around midnight on the 9th of June 2013 my sister ran from outside to call me to see something.  I ran outside and saw a very bright, orange light that seemed to be glowing brighter at it's center.  The light was about 700-1000ft in the air approximately 1/2 km from my position.  It seemed stationary, enough so that I took the liberty to run inside for my camera.  When I returned the 'light' was diminishing in size. Perhaps not extinguishing, but moving away rather quickly.  My sister, her husband, myself and finally my father were witnesses. Naturally, I was unable to capture it on film.  We're still discussing whether it could have been a chinese lantern.  We all agree the light was not bobbing and was definitely stationary at times.  The wind presently at Oakville, Ontario is from the NE at 13km/h.  The object was moving from east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98511.html](http://www.nuforc.org/webreports/reports/098/S98511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Papillion (NE) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Chrome-like cigar w/ wings, quiet, low flying in unusual flight pattern, with no identification markings.Sitting on balconey @ approx 17:00 hrs. on 06/09/02 saw a low flying, very quiet, cigar shaped object with wings. Especially unusual: 1. Made no sound while passing over head, but had a low hum after passing 2. Direction: straight South to North. 3. Very shiny as chrome in the sun. 4. NO markings, numbers, or any other identification of any kind. 4. Very low flying, much lower than even most private aircraft. 5. Watched as object very slowly moved North, then through a cloud, reappeared, then went through a larger cloud and NEVER appeared again.Have never seen an object like this in size, shape, color, flight pattern, etc. Do live by an Air Force base and commercial airport, but still have never seen anything like this. This is the first time that I have ever reported a sighting of an unexplained object in the sky. I was moved to report this as it was so very unusual. So...a military aircraft or other man made object?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23214.html](http://www.nuforc.org/webreports/reports/023/S23214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
