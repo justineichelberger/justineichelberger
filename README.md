@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black circular object, no lights, traveling across sky slowly, unaffected by wind currentsWhile swimming my friend and I noticed a circular-disk like object.  It was dark black and seemed unaffected by the wind.  As we watched it go by it stayed about the altitude and speed as far we could discern.  Several people were there on their respective boats and pointed it out in the sky.  Many were jokingly speculating a drone or UFO.  We are unsure which it is, and unable to find any information on the object.  Once it disappeared over the tree line, we didn't see it again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110072.html](http://www.nuforc.org/webreports/reports/110/S110072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 1 frame on webcam - 1 frame on webcam minutes.</sub><blockquote><sub>Web cam catches bell shaped craft.A website that takes web cam pics every fifteen minutes of Downtown Vancouver, BC, shows two objects in it's frame at 06/09/2003 7:30 a.m. This site archives all of it's images. One object clearly shows it's bell shaped and is metalic in color. UFO's - http://www.katkam.ca/pix/20030609/0730.jpg((NUFORC Note:  We have looked at the images, and our impression is that they are birds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29112.html](http://www.nuforc.org/webreports/reports/029/S29112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
