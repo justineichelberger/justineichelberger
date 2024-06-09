@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:45 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Papillion (NE) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Chrome-like cigar w/ wings, quiet, low flying in unusual flight pattern, with no identification markings.Sitting on balconey @ approx 17:00 hrs. on 06/09/02 saw a low flying, very quiet, cigar shaped object with wings. Especially unusual: 1. Made no sound while passing over head, but had a low hum after passing 2. Direction: straight South to North. 3. Very shiny as chrome in the sun. 4. NO markings, numbers, or any other identification of any kind. 4. Very low flying, much lower than even most private aircraft. 5. Watched as object very slowly moved North, then through a cloud, reappeared, then went through a larger cloud and NEVER appeared again.Have never seen an object like this in size, shape, color, flight pattern, etc. Do live by an Air Force base and commercial airport, but still have never seen anything like this. This is the first time that I have ever reported a sighting of an unexplained object in the sky. I was moved to report this as it was so very unusual. So...a military aircraft or other man made object?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23214.html](http://www.nuforc.org/webreports/reports/023/S23214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Banning (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>A young woman was driving eastbound on Highway I-10 near Banning and Idlewild, CA.  It was dark when she left home at 0400 hours, on 09JN96, and she had noted the moon in the eastern sky, so she knew what that celestial body looked like. At 0500 hrs., she noticed a "slice of light" above a nearby mountain top.  It was bright, "like a star."  She continued to watch the object for an estimated 35 minutes (approx. 40 miles), and the object appeared to stay in the same location. She noted that whe was about the only vehicle on the highway, except for a truck that was behind her, "approximately 2 miles."Then, the left side of the bright object blinked twice (she thought), and the whole object turned black, or perhaps gray.  However, the object remained stationary, and the "core part" of it appeared to the observer to be round.  She also added that the object looked like a "sideways Vee."  (?) The object remained stationary during this part of her sighting.  However, when the object was abreast of her, off to the left (?) side, it suddenly disintegrated and disappeared, like an "etch-a-sketch."  She believes she witnessed a UFO as a teenager.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01551.html](http://www.nuforc.org/webreports/reports/001/S01551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
