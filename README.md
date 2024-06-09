@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Johnson Park, NE CA.,Shasta Co., calif (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>While observing Mars and Spica I observed a glowing white orb approaching from the South West. The object wa traveling faster than an orbiting sattelite. It then stopped and began to ascend until I could no longer see it. I am famaliar with aircraft and am sure it was no airplane or helicopter. I am also sure it was no meteorite.I would like to know if anyone else saw what I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07990.html](http://www.nuforc.org/webreports/reports/007/S07990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in London (northwest) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Object dissappeared into what may have been outer space.Me and my sister were in the garden and were looking at aeroplanes in the night sky when a light what looked like a bright star was moving very fast at high altitudes, It had no coloured or flashing lights to indicate as an aircraft, baring in mind this just happened no more than 20 minutes ago as I type this report, I am certain it were too fast to be a conventional aircraft carrier. I really thought it was swiftly travelling east over me in a direction to central London, however I then realised it was travelling vertically, a few seconds later in faded into the sky all logic points to the fact it may have entered orbit.((NUFORC Note:  Witness indicates that the date of the incident is approximate, elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46075.html](http://www.nuforc.org/webreports/reports/046/S46075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
