@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 8 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in La Vergne (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Picture of a UFO while taking pictures of the sky?I was taking pictures of the sky around sundown and a small, metallic object showed up in two of the pictures.  I am submitting the better picture as it appears there is a trail behind the object in the direction it is moving.  I have also used a few filters in Photoshop just to accentuate the detail of the trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29110.html](http://www.nuforc.org/webreports/reports/029/S29110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Floating reflective cube traveling very slowly in two directions high in the sky.Around 6pm 6/9/2019 at Butler Creek Elementary in Gresham, Oregon.  My 2 boys and I saw what was about the size of a car if I had to guess.  It didn’t appear to be round it had flat sides because the sun light would reflect off it from time to time.  It was moving very slow like it was floating almost couldn’t tell it was moving, but had the moon in the background for reference.  Very few clouds in the sky.  It looked like a floating cube.  Airplane’s we flying very close as in a few miles from it.  The Portland airport is close so not abnormal to see planes.  We were looking to the southeast.  If 90 degrees was straight up it was about 70 degrees.  It was originally moving southwest for a few miles then turned northeast after it pasted the moon.  It was at about 10,000 feet.  It looked like it was reflecting different colors a reddish color and mostly generic sunlight reflection.  My 12 year old son spotted it first.  We watched it for about 20 minutes then we lost it. Videoed 3 different times longest for a little over 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146731.html](http://www.nuforc.org/webreports/reports/146/S146731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
