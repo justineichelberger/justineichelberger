@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:11 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Mateo (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Light in the sky flashing 11 seconds as if rotating about the craft the same way a lighthouse does. object/light high in the sky moving at a moderate rate.  Saw it flash at least 3 or 4 times.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible advertising lights???  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89471.html](http://www.nuforc.org/webreports/reports/089/S89471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Aurora (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two lights in north aurora, white to yellow to orange in color, slow in movmentI was driving back from Yorkville coming down oak street turning off of Orchard road heading toward North Aurora.  As I was driving down North Aurora, I quickly saw two lights which I have spotted weeks before in Montgomery/Oswego, and on another occasion right outside of Yorkville.I have seen these lights for a total of about three times, two of which are the exact same lights/craft and motioned the same...two different locations, the first sighting was in Yorkville about three weeks ago where I saw two lights in the sky.  It started with one light, than another from a very far distance moved in a strange arc toward the other later to "align", shortly after "aligning" one will go out or disappear only to reappear somewhere else.  This happened three weeks ago in Yorkville.Today, 9 June 2011 I have spotted the same exact lights and the "crafts" put on the same light show.  The only difference, is that this time I had a witness, my close roommate.  I quickly called them out to view what I had been seeing; to my luck, I was able to show them too my roommate before they disappeared.What I saw tonight exactly: 1)  Two lights of the same luminosity both hovering and stationary but occasionally moving slow from one direction to another.2)  The colors change from white, yellow or almost a "burning orange", it also seems that the colors and light changes, sometimes they look very distant and faint only to out of no where become very bright again.3)   I saw the lights on 9 June 2011 in North Aurora, however, I saw these same lights three weeks ago outside Yorkville.4)  Two weeks ago I saw a "fireball" craft, almost the exact same craft found in the most recent "Oswego UFO sighting", the report can be found easily on google.  (An excerpt from the article:  "It appeared to be a ball of fire falling toward earth at a 45-degree angle.  Suddenly, he says, the flame extinguished and the trail of smoke changed direction, rising to a 30-degree angle..."   What was interesting is that it did look similar to the lights, but it was extremely close...I could see what seemed like a "flame" but not a flame from any fire I have seen.All in all, it appears this same report has been made about five days ago.  I want to know more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81713.html](http://www.nuforc.org/webreports/reports/081/S81713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
