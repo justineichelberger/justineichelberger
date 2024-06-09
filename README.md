@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Festus (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>silent ship w/3 blue lights on bottom with escort of 3 crafti seen 2 blue small orbs fly at great speed across the sky one of which changed direction and shoot into outer space. they were followed by an orange oblong smoky ship(looked like it was covered in a cloud)which was twice as large as the blue orbs  and was moving at about 400-500mph. the fourth ship was illuminated by the lights of the city it had 3 light blue domes on the bottom of the ship the out line was domed with what appeared to be a dome on top. this ship was large  and was seen at 40 deg of the horison and looked to be about 100 ft across if it was about a mile away. itmoved at a slow steady pace. all ships moved along the same flight path moving form north to south. one blue and one orange ship made a second appearance after the largest ship had past. total time was less than 5 min from begining to end.((NUFORC Note:  Witness describes self as a medical professional, with technical background.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57038.html](http://www.nuforc.org/webreports/reports/057/S57038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Johnson Park, NE CA.,Shasta Co., calif (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>While observing Mars and Spica I observed a glowing white orb approaching from the South West. The object wa traveling faster than an orbiting sattelite. It then stopped and began to ascend until I could no longer see it. I am famaliar with aircraft and am sure it was no airplane or helicopter. I am also sure it was no meteorite.I would like to know if anyone else saw what I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07990.html](http://www.nuforc.org/webreports/reports/007/S07990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
