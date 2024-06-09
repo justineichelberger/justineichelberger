@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Farmington (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Huge Florescent Blue Orb Much Larger Than The Moon.At approximately 11:00 p.m 5 Correction's Officers working B-Side Yard at Farmington Correctional Center witnessed a brilliant occurrence in the southern sky which they determined may have been Saint Elmo's Fire.Storms were present earlier in the evening, but the sky was clear & stars were shining at the time of the sighting.It began as a splendid florescent blue streak in a zig zag motion. Resembling a line like on a chart.Then it produced a very huge (much larger than a full moon) florescent blue floating orb.None of the 5 had ever seen anything like it.  After much discussion on the topic that it may have been an ufo, one of the officers (a sailor) determined that it may have been St. Elmo's Fire.  All agreed that it should be reported to NUFORC anyway.As the wife of the Yard Sgt. I was elected to make this report.Even though I did not see it.  The 5 were to tired at the end of shift to report it themselves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98543.html](http://www.nuforc.org/webreports/reports/098/S98543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw a white grocery bag like object climb to over 10,000ft with a smaller white object trailing the larger one to the SW.While at the Reading WWII reinactment, we were watching,with binoculars, several aircraft doing flybys. As we looked to the SW, I spotted what looked at first like a white balloon being carried upwards very rapidly. The cloud deck was at about 8,oooft and the object went above them to about 10,000ft and then hovered as if caught in an air pocket. Several other people thought it looked like a grocery type white bag, but there was a smaller piece of a white object that we saw traveling along with the larger "bag". It looked unattached. After about 15 minutes of being "motionless" the objects started to climb higher until they were out of site to the SW. About 25 people around us saw and watched the objects climb. I've been to many airshows over the years and never saw anything like this before - it definetly was not a balloon. I was monitoring the radio freqs of the airport, but nothing was mentioned about the object.((NUFORC Note:  We would welcome additional reports from other witnesses to this incident.  It does seem odd to us that a simple bag, containing either hot air or helium, would continue to rise so far in such a short period of time, rise above the clouds, and then continue to rise out of sight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17938.html](http://www.nuforc.org/webreports/reports/017/S17938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
