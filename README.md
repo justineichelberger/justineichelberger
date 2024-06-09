@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carol Stream (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright green object slowly moving across the sky.I was sitting in my car at work monitoring the property when in the distance I noticed some fireworks going off so I took my camera and began photographing them.  After about 15 minutes of watching I noticed something coming out from behind the trees.  It was bright green in color with a red line going down the center of it horizontally, which also seemed to be some re-circulating light.  It was moving very slowly through the area where I had seen the fireworks and after this object appeared the fireworks ceased to fired.  The object slowly moved across the sky until I could not see it anymore when it disappeared behind a warehouse down the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64257.html](http://www.nuforc.org/webreports/reports/064/S64257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Woodinville (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very bright starI was on my deck looking at the stars. One star flashed very brightly grew to 5 or more time it size then faded and appeare to move up higher in the sky fromn 70' to .85'It did not act as shooting star.((NUFORC Note:  Probably flash of Iridium flare.  Please see:  http://heavens-above.com/iridium.asp?lat=47.754&lng=-122.162&alt=0&loc=Woodinville&TZ=PST&Dur=2&Date=37415.6277083333PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23220.html](http://www.nuforc.org/webreports/reports/023/S23220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
