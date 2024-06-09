@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:58 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Floating reflective cube traveling very slowly in two directions high in the sky.Around 6pm 6/9/2019 at Butler Creek Elementary in Gresham, Oregon.  My 2 boys and I saw what was about the size of a car if I had to guess.  It didn’t appear to be round it had flat sides because the sun light would reflect off it from time to time.  It was moving very slow like it was floating almost couldn’t tell it was moving, but had the moon in the background for reference.  Very few clouds in the sky.  It looked like a floating cube.  Airplane’s we flying very close as in a few miles from it.  The Portland airport is close so not abnormal to see planes.  We were looking to the southeast.  If 90 degrees was straight up it was about 70 degrees.  It was originally moving southwest for a few miles then turned northeast after it pasted the moon.  It was at about 10,000 feet.  It looked like it was reflecting different colors a reddish color and mostly generic sunlight reflection.  My 12 year old son spotted it first.  We watched it for about 20 minutes then we lost it. Videoed 3 different times longest for a little over 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146731.html](http://www.nuforc.org/webreports/reports/146/S146731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>brilliant orange light or chinese lantern at or less than 1000ft moving east to west across Oakville, Ontario midnight, June 9th 2013Around midnight on the 9th of June 2013 my sister ran from outside to call me to see something.  I ran outside and saw a very bright, orange light that seemed to be glowing brighter at it's center.  The light was about 700-1000ft in the air approximately 1/2 km from my position.  It seemed stationary, enough so that I took the liberty to run inside for my camera.  When I returned the 'light' was diminishing in size. Perhaps not extinguishing, but moving away rather quickly.  My sister, her husband, myself and finally my father were witnesses. Naturally, I was unable to capture it on film.  We're still discussing whether it could have been a chinese lantern.  We all agree the light was not bobbing and was definitely stationary at times.  The wind presently at Oakville, Ontario is from the NE at 13km/h.  The object was moving from east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98511.html](http://www.nuforc.org/webreports/reports/098/S98511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
