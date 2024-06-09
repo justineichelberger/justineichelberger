@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 1 frame on webcam - 1 frame on webcam minutes.</sub><blockquote><sub>Web cam catches bell shaped craft.A website that takes web cam pics every fifteen minutes of Downtown Vancouver, BC, shows two objects in it's frame at 06/09/2003 7:30 a.m. This site archives all of it's images. One object clearly shows it's bell shaped and is metalic in color. UFO's - http://www.katkam.ca/pix/20030609/0730.jpg((NUFORC Note:  We have looked at the images, and our impression is that they are birds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29112.html](http://www.nuforc.org/webreports/reports/029/S29112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Norfolk (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>No lights, no trail, no haze around the object, no beams , no change in color, no landing , no sound,I heard a loud engin sound and didn't see anything in the sky.  I kept looking the sound went away and I saw a cigar shaped aircraft with NO WINGS fly from  Northeast direction toward the Southeast.  The craft was very high but I could clearly see separation between the front half and a dark band and it looked as if the back half was separate but attached sort of like two short cigar shapes made of what I would think of a dull aluminum.  There was a large dark band at the rear of the first part.  It was really high and I could see it clearly.  No wings and it was going what I would think of as slow and I kept the object in my view  thinking I could get my cell phone and have enough time to get a picture.  I looked down and looked up it was gone it should have been in my view at least 30 seconds more the way it was moving.  If it was a plane it wouldn't have been gone that fast.  It just didn't seem to move across the sky that fast it was a clear sky.  I put my head down and looked back up in a spit second and it was gone.  The change in speed was not something a regular plane could have accomplished.   Which brings me back to it had no wings! This is the second time I have seen something in the sky from my back yard.  I saw a sphere a few years ago around this time of year.  Crazy isn't it.I am just a regular person that believes in God and as God is my witness I saw what doesn't seem to be anything I have ever seen on TV before.  I really don't like star wars type of stuff so I don't know if it is something that the movies has copied.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63777.html](http://www.nuforc.org/webreports/reports/063/S63777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
