@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:48 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:55 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Golts (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>June 9, 2013 at 21:03 my family was on a back road called Black Bottom Road, near the village of Golts, Maryland.  They passed an area of woods and looked in the rearview mirror of the truck and saw a glowing effervescent light shining in a circle (about 50 yards across) behind them.  They stopped the truck in the middle of the road, exited and walked to the rear of the vehicle.  It was a blue/grey colored light with an amorphous texture. The light went from ground level to slightly above the tops of the trees, and appeared to be circler, almost as a huge bubble.  There was no sound or odor, and you could only see about 10ft into the light.  There appeared to be no source above the light, however, it was difficult to see past it.  It was a clear night, no inclement weather that evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98564.html](http://www.nuforc.org/webreports/reports/098/S98564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>they were very visable as if they were at the same level that planes fly at.But they moved realy fast.The light seemed to follow them!I was walking out to let my dog use the bathroom in the bushes when a bright orange/ish w/ blue lights (was very noticable) caught the corner of my eye! When i looked up the object had moved in a glimpse movement.It was in one spot, then another and then another. After those three movements,it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37523.html](http://www.nuforc.org/webreports/reports/037/S37523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
