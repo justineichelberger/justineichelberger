@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 9 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Banning (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>A young woman was driving eastbound on Highway I-10 near Banning and Idlewild, CA.  It was dark when she left home at 0400 hours, on 09JN96, and she had noted the moon in the eastern sky, so she knew what that celestial body looked like. At 0500 hrs., she noticed a "slice of light" above a nearby mountain top.  It was bright, "like a star."  She continued to watch the object for an estimated 35 minutes (approx. 40 miles), and the object appeared to stay in the same location. She noted that whe was about the only vehicle on the highway, except for a truck that was behind her, "approximately 2 miles."Then, the left side of the bright object blinked twice (she thought), and the whole object turned black, or perhaps gray.  However, the object remained stationary, and the "core part" of it appeared to the observer to be round.  She also added that the object looked like a "sideways Vee."  (?) The object remained stationary during this part of her sighting.  However, when the object was abreast of her, off to the left (?) side, it suddenly disintegrated and disappeared, like an "etch-a-sketch."  She believes she witnessed a UFO as a teenager.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01551.html](http://www.nuforc.org/webreports/reports/001/S01551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dayton (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While trimming a tree in yard, witness observed object to appear directly overhead. He only observed the bottom of the object. It was a disc and it  had visible structures of concentric rings and spokes coming from the center. The rings and spokes formed segments that were colored gold, silver, and a luminous yellow-like quality that he found especially difficult to describe. It appeared below the clouds and appeared to be quite large, though he reportedly had no visual reference with which to compare it. It appeared suddenly, made no sound, made no movements, and disappeared just as suddenly after about 5 seconds. For being so anomalous, his reaction to seeing the object was one of brief puzzlement.  He felt no fear or shock and simply returned to his chore.  He thought about it as he worked and considered it a hallucination of some sort.  However, he had never hallucinated before and the object had such a quality of being "present" that he found it ! hard to categorize it as a hallucination and said nothing of it to anyone and simply thought about it for some time before deciding to make the report. (MUFON CMS)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162027.html](http://www.nuforc.org/webreports/reports/162/S162027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
