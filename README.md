@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:37 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Carrollton (TX) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A greenish light lit up the whole area.In approximately 1960 or 1961 (I was 14 or 15 years of age), I was laying on the floor of our living room watching TV in Carrollton, Texas.  The drapes were open onto the patio.   The glass area was approximately 22 feet. It was shortly after dusk.  My mother was there too. I saw a green glow light up the whole outside.  It stayed light for about one minute and then was gone.A neighboring family (2 adults and 2 children) was up at their trailer at Lake Texhoma  (near Tanglewood and Lowe’s High Point) on this same night.  They were sitting outside and saw the same greenish glow.  A few minutes they heard and saw jets fly over.  The jets were from Perrin Air Force Base, which was located outside of Dennison, Texas.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62646.html](http://www.nuforc.org/webreports/reports/062/S62646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fox Lake (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hazy Red Oval shap with blurred moving light. Static in the sky. Became smaller in shape the dissapeared.I was walking with a friend and I glanced up into the sky. I saw a hazy red oval shape in the sky. At first I dismissed it for the moon behind clouds but then I saw that it was a clear night and that it didn't look quite right. I asked my friend who dismissed the possiblity of an aeroplane or a helicopter because it was so static in the sky. Also there appeared to be a blurred flashing light in the bottom left hand corner of the object that lept accross the base to the other side ever few seconds. After around 2 or 3 minutes of bafflement the object all of a sudden began to shrink in size until it was mearly a third of the size of it's origional shape and almost circular. Whether that's because of it moving position in the sky and it's shape percieved to change as it moved i don't know. It was too far away to tell. After it stopped shrinking it stopped for a few seconds and then calmly dissapeared into the night sky at a 45 degree angle. I was never a firm believer in U.F.O sightings but I saw this with my own eyes along with a witness and I'm am at odds with myself to determine what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51033.html](http://www.nuforc.org/webreports/reports/051/S51033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
