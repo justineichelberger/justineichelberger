@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Come to Myrtle Beach and see for yourself...seeing is believing.I was checking out some UFO reports and was giving up for the night, when I notice two bright orange lights, just south west of me.  After about a few seconds they disappeared. I started walking toward the beach again, then all of a sudden, I  saw the lights due east of me, blinking on and off for about 20 minutes. I took my eye of them for a second after that, and they broke up into about 6 smaller lights, and flew away, blinking very fast..((NUFORC Note:  We have corrected the date above to reflect a sighting on Tuesday night, June 10th, 2014.  We spoke via telephone with the witness, and he stated that the sighting was Tuesday night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110131.html](http://www.nuforc.org/webreports/reports/110/S110131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rhinebeck (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Thin black cigar descending below treelineI was eastbound about 2/3 over the Kingston Rhinecliff Bridge.  I saw to the ESE a black thin cigar (or disc on edge) descending at an angle then stopping for a second then going straight down below the treeline about two miles away. I went to where I thought it went down and drove around asking everyone I saw if they had seen anything.  No one had. I went home and called the local State Police barracks on Rte. 9 south of Rhinebeck to report it.  They were amused and said they hadn't had any other reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66750.html](http://www.nuforc.org/webreports/reports/066/S66750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
