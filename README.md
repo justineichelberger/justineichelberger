@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:37 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fox Lake (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hazy Red Oval shap with blurred moving light. Static in the sky. Became smaller in shape the dissapeared.I was walking with a friend and I glanced up into the sky. I saw a hazy red oval shape in the sky. At first I dismissed it for the moon behind clouds but then I saw that it was a clear night and that it didn't look quite right. I asked my friend who dismissed the possiblity of an aeroplane or a helicopter because it was so static in the sky. Also there appeared to be a blurred flashing light in the bottom left hand corner of the object that lept accross the base to the other side ever few seconds. After around 2 or 3 minutes of bafflement the object all of a sudden began to shrink in size until it was mearly a third of the size of it's origional shape and almost circular. Whether that's because of it moving position in the sky and it's shape percieved to change as it moved i don't know. It was too far away to tell. After it stopped shrinking it stopped for a few seconds and then calmly dissapeared into the night sky at a 45 degree angle. I was never a firm believer in U.F.O sightings but I saw this with my own eyes along with a witness and I'm am at odds with myself to determine what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51033.html](http://www.nuforc.org/webreports/reports/051/S51033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Come to Myrtle Beach and see for yourself...seeing is believing.I was checking out some UFO reports and was giving up for the night, when I notice two bright orange lights, just south west of me.  After about a few seconds they disappeared. I started walking toward the beach again, then all of a sudden, I  saw the lights due east of me, blinking on and off for about 20 minutes. I took my eye of them for a second after that, and they broke up into about 6 smaller lights, and flew away, blinking very fast..((NUFORC Note:  We have corrected the date above to reflect a sighting on Tuesday night, June 10th, 2014.  We spoke via telephone with the witness, and he stated that the sighting was Tuesday night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110131.html](http://www.nuforc.org/webreports/reports/110/S110131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
