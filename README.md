@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Windham (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Cigar shaped ufo , anyone in Windham area seen ufos??While waiting in the Wal-Mart parking lot, looking towards Wal-Mart a weird shaped craft caught my eye, I could not tell really what it was. The craft was moving really slow, it was a whitish haze color(Probably haze cause of the visibility), long cigar shape, huge!!! Probably a quarter of a mile away, thats how big this cigar shape ufo was. I kept looking at the ufo losing it on some of the trees that were in the way and these trees were not big at all it took probably 15 secs. to find it on the other side of each tree I lost it in, after about 3 trees the object disappered!! I was like "What the hell!?!?!?" but I did see some flashing of quick lights after in the other side of the tree. There is a airport right next to this Wal-Mart but I really think it wasn't an airplane. It was a cigar shape object! This is my 6th time in my life I seen a ufo, I seen a V-shaped, a disk, and a couple triangle shaped ufos, its so weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63808.html](http://www.nuforc.org/webreports/reports/063/S63808.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>At least 25 UFO floating in the sky.At least 25 UFO floating in the air.  Seem to stay float in a still position and about 2 of them seem to "dance" around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134523.html](http://www.nuforc.org/webreports/reports/134/S134523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
