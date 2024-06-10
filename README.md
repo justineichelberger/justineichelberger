@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisville (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Yellow Light with trail of sparks arcing across the skyMe and my friend were driving to my house, and along the road, I had looked up, and i saw what looked like a plane with a trail.  But the trail could have been my bad vision blurring the light into something else.  But then it started shooting a trail of sparks like a firework, and i turned to my friend and I told him to look up and see it too.  and he did and he saw it as well.  It was a more yellow light, rather than a white light.  And we thought it could have just been a firework, but then it started making a perfect arc in one direction, then turned and went upwards making another perfect ark.  We then got out of the house, and the sky sounded completely silent. At this point we started freaking out and considering our options.  Was it a jet that caught fire and was crashing? A new type of fire work?  But it looked like it was directly above Denver. We drove past a few houses and trees that blocked our sight from it.  And before i knew it it was gone.The trail coming off of the light was maybe seven sparks long at first, but then it grew in length to about possibly twenty sparks.  It almost looked like something was cutting a hole in the sky with an angle grinder.  But obviously it wasn't. Hope this information is useful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81727.html](http://www.nuforc.org/webreports/reports/081/S81727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Milton (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>06/10/87.single bright silver,or chrome object paced my truck along 401 heading west for 30 minsOn the approx day in question I was traveling west on hwy 401 just past Milton Ont.I looked to my right out the passenger window(I was driving a cab over Kenworth tractor)and saw a perfectly round sphere hovering about 100 feet off the ground.It looked like a shiny ball bearing.At first I thought it was a balloon of some kind,but it was too perfectly round.It was pacing traffic,traveling west,and appeared to be traveling at the same speed as my truck.It appeared to be about an eighth of a mile north of the highway.It stayed parallel to my truck for about 30 minutes,then rose straight up out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77963.html](http://www.nuforc.org/webreports/reports/077/S77963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
