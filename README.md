@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Unspecified location (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Orange light in the sky third time seeing it in my life.It was a orange light that appeared in the sky and slowly faded away, as it came closer to me, but not really close, maybe 1 block away in my neighborhood, after coming my way.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110117.html](http://www.nuforc.org/webreports/reports/110/S110117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Moundsville (WV) reported seeing craft that fit the description of some 'Flash' over a period of approximately west - west minutes.</sub><blockquote><sub>it looked like a star that was flashing red, white, and yellow.We was watching the sky and then we saw a shooting star.  My friend said he saw another one. I looked over and knoticed it was flashing and moving to the west and it was flashing red, white, and a little bit of yellow. We watched it for about 5 min. It was going up and down. It was about the same hight as an airplane but you couldn't hear it and it wasn't taking the shape of an airplane. After about 15 min. from the first time we saw it it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13068.html](http://www.nuforc.org/webreports/reports/013/S13068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
