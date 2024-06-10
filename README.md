@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Second time seeing same craft.  Have pictures/video of craft shape.  Very near airport. Bright multicolored light.  Left as dawn arrived.((NUFORC Note:  We wonder whether the witness might have been looking at a "twinkling" star, or perhaps a planet.  The still photo, which was forwarded by the source of the report, indicates a tiny, blurry object, seen against a dark nighttime sky.  We are unable to certify that it is an authentic UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134577.html](http://www.nuforc.org/webreports/reports/134/S134577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright blue light in the southern sky of Puyallup, WA.I saw what looked like a meteor streak down across the southern sky.  It was extremely bright.A few seconds later I saw another, similar streak but this one seemed to burn out quickly and did not make it down to the horizon as the first one did.Then, I saw a bright blue light with a tiny glint of red light emerge slowly up from the horizon, traveling upward.At first I thought this might be fireworks or a drone but my window was open and the night was silent. The blue light appeared to be miles away and its altitude too high to be a hobby drone.The light continued slowly until it was out of view.  It was too bright to be an aircraft and it was absolutely silent.  I suppose it could be some phenomenon associated with a meteor shower, but I've never seen anything that bright moving slowly upward.  We do have McChord Air Force base nearby as well but this is the first time I've witnessed anything quite like what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119489.html](http://www.nuforc.org/webreports/reports/119/S119489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
