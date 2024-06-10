@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>At least 25 UFO floating in the sky.At least 25 UFO floating in the air.  Seem to stay float in a still position and about 2 of them seem to "dance" around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134523.html](http://www.nuforc.org/webreports/reports/134/S134523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Muskegon (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Shape "<". Five to seven lights on each side. Moved swiftly. Silent.The shape "<". Heading Southwest. Moving swiftly across the sky. About five to seven lights on each side of shape. However did not appear to stay in formation.  A couple of the lights moved out slightly and back in quickly.  It was silent.  I have never believed in this stuff.  I know little about it.  Now I am having a hard time explaining what happened. When I looked on the sight. It just fit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57029.html](http://www.nuforc.org/webreports/reports/057/S57029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
