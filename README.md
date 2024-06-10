@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Hutchinson (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It made no sound and did not travel at speed's of any aircraft I had seen.There was one triangle shape object moving from from south east to north west.  It was a white light moving in a zig zag pattern, but it never made a turn. It would stop and go backwards (without turning around) at a slight angle about half the distance it had traveled. Then go back at a slight angle about twice as far it had in reverse.  It continued like that until it was out of my sight.  It was summer and my bedroom window was open.  I heard no sound from it. I was roughly 10-12 year's old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153094.html](http://www.nuforc.org/webreports/reports/153/S153094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright glowing triangular object with red flash moving erratically in a fixed point.bright yellow orange object hovering in one spot but moving slightly in all directions.  Appears to have a faint reddish flash flickering on its side.  Light fades out several times then reappears strongly.  Slowly dropped below horizon over 30 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57026.html](http://www.nuforc.org/webreports/reports/057/S57026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
