@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Milton (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>06/10/87.single bright silver,or chrome object paced my truck along 401 heading west for 30 minsOn the approx day in question I was traveling west on hwy 401 just past Milton Ont.I looked to my right out the passenger window(I was driving a cab over Kenworth tractor)and saw a perfectly round sphere hovering about 100 feet off the ground.It looked like a shiny ball bearing.At first I thought it was a balloon of some kind,but it was too perfectly round.It was pacing traffic,traveling west,and appeared to be traveling at the same speed as my truck.It appeared to be about an eighth of a mile north of the highway.It stayed parallel to my truck for about 30 minutes,then rose straight up out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77963.html](http://www.nuforc.org/webreports/reports/077/S77963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Extremely Fast and Small Flying StrawI spotted something in a Martial Arts Instructional video, I don't know exactly what it was but it was shaped like a straw with swirls around it like a drill bit, and it moved across the screen in a crescent motion extremely fast. It was maybe 8 inches in actual length because it travels in front of the instructor. It was moving so fast that it could not be seen while playing the movie regularly, I had to play it in slow motion to capture it. It is only on the screen for about 3 frames. The movie that it was in was Shaolin Kungfu Drunken Fist Form, which is sold by wle.com((SECOND REPORT FROM SAME WITNESS))Extremely Fast and Small Flying Straw #2I spotted something in another Martial Arts Instructional video, I know that it was just like the thing I saw in the other report. It was shaped like a straw with swirls around it like a drill bit, and it moved across the screen in a straight motion extremely fast. It was maybe 8 inches in actual length because it travels in front of the instructor, just like the other case. It was moving fast but I could see it while playing the movie regularly. It is only on the screen for about 6 frames. The video that it was in was Three Section Staff, which is sold by martialartsmart.com  I find it very strange that in these martial arts videos I would see these things, even with this case the object was seen indoors and the last was outdoors. I don't know what they are but there has got to be something on them.((END))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42002.html](http://www.nuforc.org/webreports/reports/042/S42002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
