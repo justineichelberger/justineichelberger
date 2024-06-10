@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Glade Spring (VA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Woman, children, and grandmother witness 4 bizarre, bright green "stars" hovering nearby.  Suddenly got brighter, streak off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00559.html](http://www.nuforc.org/webreports/reports/000/S00559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright orange fireballs east of Salt Lake City, UTMy daughter and I witnessed four deep orange fireballs above the eastern side of the Wasatch front mountain range, just east of Salt Lake City, Utah.   The event lasted about 10 minutes.   We spotted them from our balcony, and they seemed to resemble aircraft flairs becuase they appared at a height that is typical to aircraft and drifted downwards. After observing them drift downwards for a few minutes, two of them faided out of sight.  The other two began to float upwards and hovered for about two minutes, then down again behind the mountains.  Within about one minute, one drifted up from behind the mountains, then hovered, and faded out of sight.  I managed to take about one minute of video of the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89516.html](http://www.nuforc.org/webreports/reports/089/S89516.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
