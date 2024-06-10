@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:55 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hillsboro (outside of) (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright red circular object was falling slowly down in a straigt line leaving a trail of smoke brhind it.I live in Missouri and i am currently  working for the Census Bureau. Saturday evening, on my way home from work, i  witnessed a strange occurance, which I have described breifly  below. I was driving down C highway  (Hillsboro), heading towards Y highway(Hillsboro, DeSoto) @ about 7:30p.m. To  the left of me was a series of  large fields And behind them were large  tree--covered hills   In the sky high above the hills was a  single object, a bright red perfect circle, moving slowly down in a straight  line, a; leaving a trail of smoke behind it   As it feel it never seemed to gain  speed, the circle grew bigger and brighter, the trail of smoke also grew. It  finally descended behind the trees leaving the trail of smoke.    I never heard any sounds and although  I looked for it, I never saw it again, or determined what it was.   The entire ordeal took about 10-15  minutes the object was visible for a long stretch of the  road. My question is, do you have any idea  what this could have been? It was definately there. I ruled out fireworks,  because there was no noise and it moved very slowly. I have never seen an  airplane go straight down, either crashing or landing; besides, if it had been a  plane crash or something like that it would have been on the news. The area is  outside of city limits, and mostly farm land. The closest airport (which is very small) is two towns away (Festus/Crystal City)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13084.html](http://www.nuforc.org/webreports/reports/013/S13084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisville (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Yellow Light with trail of sparks arcing across the skyMe and my friend were driving to my house, and along the road, I had looked up, and i saw what looked like a plane with a trail.  But the trail could have been my bad vision blurring the light into something else.  But then it started shooting a trail of sparks like a firework, and i turned to my friend and I told him to look up and see it too.  and he did and he saw it as well.  It was a more yellow light, rather than a white light.  And we thought it could have just been a firework, but then it started making a perfect arc in one direction, then turned and went upwards making another perfect ark.  We then got out of the house, and the sky sounded completely silent. At this point we started freaking out and considering our options.  Was it a jet that caught fire and was crashing? A new type of fire work?  But it looked like it was directly above Denver. We drove past a few houses and trees that blocked our sight from it.  And before i knew it it was gone.The trail coming off of the light was maybe seven sparks long at first, but then it grew in length to about possibly twenty sparks.  It almost looked like something was cutting a hole in the sky with an angle grinder.  But obviously it wasn't. Hope this information is useful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81727.html](http://www.nuforc.org/webreports/reports/081/S81727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
