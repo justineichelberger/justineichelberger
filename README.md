@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle Formation Spotted over Austin TXAT 2:29 am on June 11, 2006, my friend and I spotted 3 distincts red lights descending over the Austin area known as HYde park.  My friend assumed that they were flares, but I pointed out that they didn't behave like flares.  The lights kept a distinct triangular formation and did not light up the sky as flares are apt to do. They continued to descend until they were level with the horizon and fading out of our viewing range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50901.html](http://www.nuforc.org/webreports/reports/050/S50901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Silver Sphere sighted, Flew off!  A USAF Jet circled the area in search of the object.I was relaxing in my parents spa.  About ten minutes had past and I got a strange feeling that I was being watched.  I opened my eyes and stared up into the sky.  I noticed a silver greyish ball in the sky just hovering, approx 2 football fields high. I thought it was the damnest thing.  Being a person with a rational mind I ran inside and told my wife, and mother to come see. I realized that a multiple sighting would have more weight than a single eye witness account. They rushed outside and I had them look in the area of the object.  I was actually suprised it was still there 3 min must have passed since I first saw it.  "I thought it could be a weather balloon" My mother has poor eyesight and can not see even with the help of her glasses.  My wife could not see it until it emitted a orange glow from underneath that lasted about 1.5 sec.  That helped her focus in on the object.  Shortly after it emitted a blue orange glow underneath and went up out of the atmosphere. Out of site. No sound was heard during the whole event and it was quite windy.  The object never diviated from it's local position, was not affected by the wind.  At that point I desided it wasn't a weather balloon I continued to scan the sky about 1 minute after the object left the atmosphere a military jet flew into the area where the object was and circled as if searching for something then it left. Usually jets don't fly in our area that low.  I then called the local MUFON group and and told them what I saw.  They blew me off. I was 24 years of age at the time and personally didn't believe in UFO's at that time.  Several days after the incident I had seen some strange lights in the sky, green shooting comets on a horizontal plane with the earth. I am a member of the US Reserves.  My reasons for reporting this is to have a documented report of this incident, I feel it is worth mentioning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04354.html](http://www.nuforc.org/webreports/reports/004/S04354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
