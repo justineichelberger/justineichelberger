@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Edwardsburg (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange object reported in the Edwardsburg skyAt approximatly 11:30P.M. a very large bright orange cigar shaped object appeared in the north sky just above a row of trees.  It sat there for approximatly 5 minutes and then just dissappeared.  This is the third time in about two months that I have seen this.  Sometimes it appears to move slightly up and down or back and forth but it always dissappears in the same way I have watched it for over half an hour once.  This is a rural area without alot of lights.  There is aircraft traffic and I have observed that if an aircraft comes into the general airspace it quickly dissappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63854.html](http://www.nuforc.org/webreports/reports/063/S63854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>large, bright, white sphere seen to the west over Phoenix from AhwatukeeAs we were walking our dogs, we saw a very bright, white sphere in the sky about 30 degrees off the horizon (north, northwest). It looked like a planet but about 4 times as big and much brighter and did not seem to be moving. 15 minutes or so later, we saw it again from our back yard and watched it for about 10 minutes, during which time it did not move. Around 8:15, it zoomed away within about 1 minute into a pinprick until it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible high-altitude balloon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70456.html](http://www.nuforc.org/webreports/reports/070/S70456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
