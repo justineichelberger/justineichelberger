@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:31 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Nowra (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 16:29 - 16:29 minutes.</sub><blockquote><sub>On one sunday afternoon an object was seen 2-3km away in the east and without doubt it was a fling saucer.When I was seven I had a friend over and it was the end of the day and time to take him home when my mother saw something in the east. At first we thought it was just a remote controlled aircraft that the navy used to tow targets for naval practice and sometimes aircraft practice. But it was a sunday and there was strictly no flying of these aircraft on sunday. we then viewed it for a while heading south. Until a tree blocked our view. But when we were meant to see it again it could not be found. There were 5 of us that we know of who saw the craft...... My mother who had first spotted the aircraft. my father. my syster. my best friend and me. The object was disk shaped but not spinning, and had black squares painted on it. It had a very reflective under belly and with the sun behind us made it seem very bright. It was about 2-3km away and only lasted a few minutes. But I did not see all of it, I went and got a pair of benoculas and this alowed me to make the further descriptions above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15861.html](http://www.nuforc.org/webreports/reports/015/S15861.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Johnstone (near Haverfordwest) (UK/England) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Rectangle object in sky seen in Wales, UKThe sky was a grey/blue with a few clouds, good visibility, no rain. Travelling as a passenger in a van, i seen a light rectangle in the sky in the distance.  At first i thought it was something on the window of the van, then i thought it must be a part of the moon or something, but it was rectangle.  The object never moved in the sky as we turned a corner and i watched it out the open window of the van.  It was there for 5 minutes, then it vanished and i spent another 5 minutes looking for it but it was gone.  It looked like one of them home made movies of someone filming a UFO, and you go yeah right thats a fake, well that was what it was like.  There were no flashing light, just one continous lightness through the whole object.  There were other people in the van with me but i felt stupid suggesting it was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26012.html](http://www.nuforc.org/webreports/reports/026/S26012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
