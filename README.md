@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 10 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Commerce City (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>I was distracted by a very large, bright, light between some clouds to the west mountains, but the light was over the city of Denver, not coming from space…  It wasn't moving at all, no noise was coming from it ...but it was almost as if it knew I was watching because it dimed the light and moved side ways to the right to hide behind a clould then completely disappeard..((NUFORC Note:  We have amended the date above.  We attempted to contact the source of the report, in order to obtain the time of the sighting, but were unsuccessful in reaching her.  We cannot certify that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119473.html](http://www.nuforc.org/webreports/reports/119/S119473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Halifax (Canada) (NS) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>So much to say and so little space. Odd Dark object flying from Dartmouth out of Harbour, not a bird!This would be my second viewing of what I would call a UFO sighting. I once sighted something out of the ordinary here in Halifax while walking in Point Pleasnt Park after hours when the park was closed. Although you are not allowed to be in the park after hours a few friends of mine liked to play childish games in the dark with flashlights, usually in the fog. I was facing I believe south looking over the North West Arm ( a body of water in the Halifax Harbour ) Where something caught my eye, This had been back in 2003, at the time I didnt think too much about it, mainly because I didnt want to get caught by my friends. The time was about 11 PM and the night was foggy. A blue blob moved from avove me from the north side of the water to the south in a quick swift motion. It went pretty fast. Becasue it was foggy i didnt see any shape to it just an odd blue color, like looking into a CD or something. But this was not the report I was looking to submit.Two nights ago I was awake and feeling bored, I went out for a walk down the waterfront here in Halifax and sitting on the boardwalk near the Metropolis building, or what I refer to it as, I seen an odd dark spot move across the sky from the dartmouth area to the harbour entrance. I'm guessing it went East to west. No sound and not moving fast. No lights and no real shape. really it looked like a huge blackish shaddow moving across the sky. I did have my Digital camera with me and I did manage to capture a video of this event but when I tried viewing the video on my PC I seen nothing in the video. I was not going to say anything about this sighting becasue people dont seem to believe in UFO, but what I seen 2 nights ago was not a plane, it had no lights and no shape, Was not a bird, only seaguls fly at night and I've seen my share of them flying here at night, plus they would show up on this video. My video is a mere 20 seconds long becasue it was done on my Digital cam.. Anyone else see anything like this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44382.html](http://www.nuforc.org/webreports/reports/044/S44382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
