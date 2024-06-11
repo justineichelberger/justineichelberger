@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Witnessed saucer from afar glowind with white lights, constantly diming and disapearing ever so often.I dont believe in UFO's or aliens or any far-fetched things of that nature. I woke up at around 12:00am from some sort of noise that is too hard to describe. For the first time in as long as i have lived in my house (5 years), i opened my blinds. Instantly i saw a disk or saucer glowing with white lights in the sky. It must have been very distant because it was very small. The lights would become very bright and then dim so that it was invisible. This went on for about 30 minutes, while i tried to figure out how to turn the flash off of my parents new digital camera. I feel ashamed that i didnt wake them up upon this event in order to perserve my pride. I am an Honor student at Stanton College Preparatory HighSchool. # 1 magnet school in the nation. That said, i still dont believe in UFO's; but i have seen many aircrafts fly by my location, this one was floating in the same position almost glowing for that period of time. I did not take any medication of any type, nor have i ever taken a drink or illegal substance in my entire life. (I am 16). Thank you, i hope i will find someone else in my area who has also recalled this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44371.html](http://www.nuforc.org/webreports/reports/044/S44371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort A. P. Hill (military reservation) (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Super fast silent object over military base with high mobilityOur unit was at annual training and on that day we were in a patrol base pulling 30% security.  We all had night vision goggles on and our weapons of course.  But around 2:30 am a semi bright object was seen through the trees high up, the same height a jet would be.  And it took off traveling at a crazy speed faster then any F-15 or F-35. Then just changed directions without flipping and went back the other direction.  Then it went straight up then down.  After that it took off and disappeared.  It appeared an additional two times traveling at the same high speed. In terms of speed it went from my 150° to my 300°  "150°-0°-300°" in about 2-3 secounds at about 50° in the sky traveling parallel with me.  Every one that was on security saw it, but i was only able to confirm it with 4 of the 12 that were on guard.  None of us heard any sound with it.  It looked like it had an IR strobe light on it, but I took my NODs off and it was still semi visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98671.html](http://www.nuforc.org/webreports/reports/098/S98671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
