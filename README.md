@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Man reports very bright body just below the moon.  (Possible planet?)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00560.html](http://www.nuforc.org/webreports/reports/000/S00560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Molokai (above) (HI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Spheres over the Hawaiian Islands.The round spheres seamed to shift in colors as they were in a formation of 5 going from bottom to the top taking turns.  A better description would be a mating dance of some sea creatures. This would go on and be repetitive and ongoing.  Made no sense and I placed my view to see if it could have been a star and since there were five spheres they would disappear out of view from the wall I used to see if it was just a twinkle light from a star.  By using a building and the stars to measure their movements I knew this was not just a light source.  They were seen from far away but their speed they could accelerate in was astounding.  The most common color shifting was grey blue to deep blue with some pink hues. The objects had no base or top. Just a perfect sphere.  This was not close up, but this I could see. This is my second time I encountered this phenomena.  The first time I only could see three spheres. On June 10 the day prior to see the five spheres at sunset, ! the electric turned off at the house without explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119492.html](http://www.nuforc.org/webreports/reports/119/S119492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
