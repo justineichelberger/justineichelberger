@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:31 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On June 11, 2016, at 20:00 in Newburgh, IN, at St. John's Catholic Church, a close relative of mine and myself witnessed what appeared to be 2 independent triangular aircraft that was solid red.  Both aircraft were indentical in size, shape and speed, the estimated size was roughly 10 times that of a star or a 1/3 of the moon, but appeared to be at a very substainal height.  Both aircraft traveled from the southwest to the east, and made it from horizon to horizon in no more than 15 seconds.Each aircraft entered the sky and exited the sky in the same location within 10 minutes of each other.After each sighting, we witnessed heavy air traffic in the vicinity of the exiting location by presumably both human and indentifiable aircraft.  The presence was not threatening, at anything it was welcoming and I  even shouted for the aircraft to take me with it.After witnessing the second aircraft we sat on a nearby swing set to hopefully have 1 more sighting.  Approximately 15 minutes after the 2nd sighting had concluded we witnessed what appeared to be an aircraft that was stationary and astetically identical to a star begin moving from the northwest to the southeast and disappear into the night sky.  The third aircraft was visible for 1 minute before fading out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127869.html](http://www.nuforc.org/webreports/reports/127/S127869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Nowra (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 16:29 - 16:29 minutes.</sub><blockquote><sub>On one sunday afternoon an object was seen 2-3km away in the east and without doubt it was a fling saucer.When I was seven I had a friend over and it was the end of the day and time to take him home when my mother saw something in the east. At first we thought it was just a remote controlled aircraft that the navy used to tow targets for naval practice and sometimes aircraft practice. But it was a sunday and there was strictly no flying of these aircraft on sunday. we then viewed it for a while heading south. Until a tree blocked our view. But when we were meant to see it again it could not be found. There were 5 of us that we know of who saw the craft...... My mother who had first spotted the aircraft. my father. my syster. my best friend and me. The object was disk shaped but not spinning, and had black squares painted on it. It had a very reflective under belly and with the sun behind us made it seem very bright. It was about 2-3km away and only lasted a few minutes. But I did not see all of it, I went and got a pair of benoculas and this alowed me to make the further descriptions above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15861.html](http://www.nuforc.org/webreports/reports/015/S15861.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
