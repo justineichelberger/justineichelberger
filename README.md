@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some '' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Triangle bruise - like burn - no pain, one inch on each side, on armMy husband woke up with a triangle burn? mark on his arm.  It is about an inch on each side, perfect in shape.  This makes the third triangle between he and I.  I have a triangle bruise on my right foot that appeared on 6/6/2006 and before that, I had a triangle bruise with three red horizontal lines on my back of left arm about a month ago (reported here.)  My husband reports that there is no pain, no itching, no memory of missing time, but just stumped as I am about how he got it and how I got mine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50911.html](http://www.nuforc.org/webreports/reports/050/S50911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Starr (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a robotic-like Dark gray "hummingbird" come up to my kitchen window!I was getting ready for my shower, and had a eerie feeling that I was being watched. Looked out my kitchen window facing east, and freaked abit. I saw a( I know not a normal UFO---but still was "flying") dark gray hummingbird tha was about 12 in. long and had a wingspan of about a foot also. Black beady eyes( cameras), and a sharp-cone-shaped 'beak'. It's wings moved just like the Ruby-thoated ones we all see in our flowers, just a blur. It had come around my house and right up to my window--watching (recording??) and sat there(hovering)about 30 sec.. It then did as the rest of the hummingbirds do--autogryated(that is backed up and 'rolled' over and made a sweeping turn out of my yard). I have had other events that are NORMAL ufos'back 76&78, tho they scared me and caused me to almost loose it. I also live in a place that when I was kid that I was scared to death of---due to the little men tha walked up to me and asked me to describe the "funny' mirrored ball to them. It was their power ball! Oh! the sighting in 78 was of a bright light that made moves as if it was trying to find a door out of a glass shoebox in the sky, then the 8 people tha were with me went to the Starr Fire dept. to ask them if they saw this. When they wree gone a "STUBBY-winged PLANE" made a silent arc down from the light and stopped in front of me, THEN I saw a 'pilot' & copilot get out and walked up to me, then BLANK till my friends got back. My friends were upset with me as I didn't know they were back for about a hour, the said I was like a zombie!((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42817.html](http://www.nuforc.org/webreports/reports/042/S42817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
