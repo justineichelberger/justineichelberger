@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:36 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:07 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Florence (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We a UFO crashed very close to were we live.I can't exactly remember what time it was, but I think it was 2001 around the time specifide. Me, my Dad and my brother were going to the dump to take out the garbage. We started driving down our rode and went around a curve. Once we reached the end of the curve we saw this metalic looking UFO hovering right over the trees. We kept driving and the UFO went behind the trees for probaly 3 to 5 seconds before we saw it again and it had moved way up into the sky. We were all shocked because it moved to fast. But it wasn't far away so we couldn't see it anymore it was still pretty close to us. Then we kept driving down the rode and came to an area by our house that is a open field with no trees were the UFO was. We could see it clear as day. Across from the field are trees and as we drove the UFO started to hover down right above the trees over by were I used to go go school. Then it disapeared behind the trees. Then the next right were we saw the UFO hovering right across from the school in an area that there are lots of little pine trees there was a big clearing back in the woods and there were army trucks and 18 wheelers out by the rode. They weren't there the day before we saw the UFO. So when we saw this we thought immediately that the UFO must have crashed back there in the trees. After this the next day there were still some trucks back there but they had cleared out pretty much out of the area. Now there is still an open area where we think the UFO crashed. Now there is just a no trespassing sign up where a path leeds to the open area. This is my incounter with a UFO.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52223.html](http://www.nuforc.org/webreports/reports/052/S52223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I am a trained scientist and skeptic.  I come from a military and nasa background. This thing I am seeing and recording, hovering, is huge, glowing, ivory, and splitting into two pieces as it speeds.  I am trying to do the math on it's movement, but it is difficult.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Source does not describe what "it" is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70459.html](http://www.nuforc.org/webreports/reports/070/S70459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
