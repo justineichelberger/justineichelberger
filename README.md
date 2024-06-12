@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kaslo/Nelson area (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 480.0 - 480.0 minutes.</sub><blockquote><sub>Peanut shaped silver metalic - large - very high upThe object appeared to be very high in the sky.  From the little village of Kaslo, looking south toward Nelson, BC. (seen almost straight up by slightly soutward, toward Nelson.)  When viewed through a pair of binocculars it appeard to be 'peanut' shaped.  It did not move at all during the course of the day.  A jet-liner seemed to fly close by, perhaps below the object.  It was silver-metalic in colour.  Could it be a weather baloon?  Terribly big for that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08052.html](http://www.nuforc.org/webreports/reports/008/S08052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>WAS NOT SEEN IN NEVEDA, BUT IN NORFOLK, VA!!!!AS I WAS WALKING FROM MY CAR TO THE SHIP LASTNIGHT, I NOTICED AN OBJECT IN THE SKY.BEING USE TO THE AIR TRAFFIC ON BASE, I THOUGHT IT WAS JUST A PLANE PASSING BY.BUT WHEN I LOOKED AT THE OBJECT, I NOTICED HOW THE LIGHTS WERE POSITIONED.INSTEAD OF THE LIGHTS BEING ON EACH END OF THE CRAFT, THEY WERE LINED UP SIDE BY SIDE. MULTIPLE COLORS SUCH AS RED, GREEN, YELLOW, AND ORANGE.IT WAS STRANGE TO ME AT FIRST, BUT I KIND OF THOUGHT IT WAS PROBABLY A HARRIER.IT ENTERED INTO SOME STORM CLOUDS, AND SUDDENLY IT TURNED INTO A BRIGHT RED, BUT IT WAS IN AN OVAL LIKE FLASH.IT DID NOT COME OUT THE OTHERSIDE OF THE CLOUDS.I WOULD HAVE SEEN IT IF CHANGED COURSE, BECAUSE THE BASE IS HUGE.WHAT DO YOU THINK ABOUT IT? I DIDN'T TELL ANY HIGHER UPS ABOUT IT, BECAUSE I'M NOT CRAZY!((NUFORC Note:  Report appears to have been submitted from government source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23269.html](http://www.nuforc.org/webreports/reports/023/S23269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
