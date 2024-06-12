@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Pittsburg (KS) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>NOT a ufo report. This is an abduction.this is not a craft report. It is an abduction report I don't know who to write to submit so I chose you. I was 2 years old and I believe I was abducted. I have the same description as most, levitating, bright lights coming from windows. I was not afraid, I felt calm, I just remember floating from my Hydabed in the front room and I turned vertical. I look around around my body,only to find no one carring me. I levitated south through the front room into the kitchen and it was dark then. when I got to the back door in the kitchen i just "blacked out" thats about it. I'm really serious about this, even being 2 years old my memory is so vivid. I remember telling my friends in daycare, and throughout. I would like you to send this account to anybody willing to listen.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52600.html](http://www.nuforc.org/webreports/reports/052/S52600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Butler (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3-4 shiny objects in sky, no jet streams, no noise..appeared to have popped up in the sky from nowhere.Hi, I and another witnessed sever shiny objects in the sky yesterday. None had a jet stream behind them. The first object was moving west at a very high altitude. We watched it till it dissapeared farther into the west, then another object that looked like the same one reappeared quite aways behind and to the side of where that had dissapeared. Almost like it had jumped a far distance behind where we saw the first object dissapear at. That one soon was out of sight. It was probably 10-15 minutes after seeing that, and 2 objects appeared almost side by side, no jetstream, both were shiny, had seemed to appear out of nowhere and began moving further away from each other. One headed south and the other moved westward. There was no sound, no jetstream,they seemed to just pop up in sight out of nowhere and I couldn't tell you the exact speed, but they were moving pretty fast. I thought I noticed one speeding up at a good rate and another that just was kind of floating forward for a few seconds or so. I really wanted to try and notice altitude and speed change variation but it was really hard to tell. Both objects were extremely shiny bright. Metallic I would say. And, I don't see it everyday but every so often I'll notice something like this in the skies in my area. Interesting skies down here. Thank You.((NUFORC Note:  One of many reports from same source of alleged sightings of UFO's.  Telephone number provided by source of report is bogus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70485.html](http://www.nuforc.org/webreports/reports/070/S70485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
