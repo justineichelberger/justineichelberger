@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Steger (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>revolving diamond (football) like, fast, noiseless, three sided with 3 green lights per side.chicago boundone craft heading north towards chicago (navy based near there)revolving clockwise slowly with three green lighted ports or dot like in appearance florescent like color, on three sides shaped nearly like a football. The space in between the lights were black and featureless. The ends were lightless and not much difference except a possible larger back end but not sure.The ufo produced no sound whatsoever. The craft was on a horizon track like following  the arc of the city lighted horizon where it turns blue to black sky. The craft was going at a steady fast pace that lasted no more than three seconds as I had sighted it to my right and followed it as far I could see it go to the left or north before leaving my field of vision. I had three other friends at the time with me but I could not even remark within that time of what I saw besides the ridicule I would have gotten with a mention of what I saw. As of this writing of this I am considering attempting making a paper mache replica of this since I still have a very vivid memory in my head of this occurance and desire to understand the craft and its movements like I have never have seen by any craft before or since by someone that used to work at an airport and know of planes fast and slow and none have ever compared to the speed and movement of said "ufo" that I had witnessed that life altering night.....there are other people in the skies and foolish are the people who do not believe in other life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36498.html](http://www.nuforc.org/webreports/reports/036/S36498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange orb spotted on north side of Indianapolis near Castleton area.First, let me begin by saying that i have NEVER reported or seen anything like this before in my life.  I know that we are not the only ones living in the universe.  However coming in contact with something not from here is very eye opening.  I was laying down in my bed, there is a dog in our neighborhood who was barking.  There is a window right above the head of my bed.  I see a light out the corner of my eye.  I turn my head to look and there it was:  A large bright orange orb.  I couldn't even say it was a plane or a helicopter.  It was close enough that I could see exactly what it was.  I got scared, ran downstairs to wake up my 73 yr old mother.  I can't get the image out of my head.  This happened at 4:00 am,  it was still completely dark outside.  I'm still scared, because I just don't understand and I can't justify what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127853.html](http://www.nuforc.org/webreports/reports/127/S127853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
