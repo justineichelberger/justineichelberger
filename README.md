@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fighter jet and UFO over North HoustonOn June 12,2000, I was riding my bike down the street, facing the North side of Houston. I looked up and saw a US air force fighter jet flying west, just below the clouds. Since I normally like to see the contrails from the jet, I was watching closely.  I saw a object above the contrails.  At first I thought it was a helicopter because it setting very still. After staring at the object, I realized it was round and metallic, emitting no sound. It was tilted in about a twenty degree angle, with it's belly facing toward the south.  It had a grey-silver belly and the top half was a darky to black.  I kind of dark color I have never seen before that appeared to be vibrating.  The sun gleamed off the bottom since it was late in the afternoon. Two teenage boys, nearby playing basketball, were also looking up at the object as I was riding by them.  I said to them, "Looks like a UFO doesn't it?" and they responded, "Yes, it sure does".  I look at the sidewalk for a second and when I looked at it again, it had disappeared. I stopped and looked around for awhile but it did not reappear.  The fighter jet left the area and did not return. Now I believe I have seen a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13766.html](http://www.nuforc.org/webreports/reports/013/S13766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star gets brighter then fades completely outWhile standing out on deck last night watching thunderstorms to the south, I turned to go in when I noticed in northern sky a light or star that should not have been there. I'm limited to star mass due to city light pollution so you get to know what is where from observing over the years. This star was bright and in wrong place. It got brighter and brighter and brighter and I thought I was possible seeing a nova. It was exciting but then upseting at the same time. About five seconds in it started fading and faded fast like it was dying. It didn't seem to move, it just went out. Strange to say the least. It was not in the atmosphere, it was among the stars. I'm wondering if any one else observed this event. It was different.((NUFORC Note:  Flare from Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70486.html](http://www.nuforc.org/webreports/reports/070/S70486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
