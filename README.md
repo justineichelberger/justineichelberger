@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 11 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>large, bright, white sphere seen to the west over Phoenix from AhwatukeeAs we were walking our dogs, we saw a very bright, white sphere in the sky about 30 degrees off the horizon (north, northwest). It looked like a planet but about 4 times as big and much brighter and did not seem to be moving. 15 minutes or so later, we saw it again from our back yard and watched it for about 10 minutes, during which time it did not move. Around 8:15, it zoomed away within about 1 minute into a pinprick until it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible high-altitude balloon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70456.html](http://www.nuforc.org/webreports/reports/070/S70456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>cigar shaped object pulsating brilliant white lightI was out watering my lawn, when I looked up and noticed a cigar shaped object flying in a NE direction.  There was noting else in the sky.  The sun was already down on the horizon but it was still light outside (dusk).  After watching about 2 seconds, the object lit up and "glowed" very white.  This object had a distinct dark line in the middle of the craft and when it first "glowed" the front half of this thing appeared to glow first followed by the rear end of it following.  The whole craft was illuminated and it went back to the original finish that appeared to be something like an airplane. It pulsated twice now with both ends illuminating at the same time.  The dark line in the middle stayed dark.  I turned toward the west to see if there was anyway that it was reflecting the sun but the sun wasn't even above the horizon and had it been reflecting the sun it would not have been such a brilliant white light.  It was traveling faster than I hav! e witnessed airplanes traveling.I witnessed another cigar shaped object in the identical place in the sky a few years ago, but it never "illuminated" like this one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119559.html](http://www.nuforc.org/webreports/reports/119/S119559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
