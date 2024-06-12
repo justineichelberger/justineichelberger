@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Montebello (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>two to three second display of  synchronized lights travelling really fast.I was a passenger in the rear of a car when i saw the lights.  We were headed east on Washington Blvd and the lights were also heading east.  They were towards the north.  I observed the light in the north sky.  At first, i saw one light, green like a laser light. It was going horizontally really fast.  At first, i thought that it was a firework, but then it did something amazing.  While flying, it split into two, with the second light coming off at a perfect 45 degree angle then immediately paralleling the first light.  At the same time that the second light paralleled the first light, a third light shot out of the second light then on turn also paralleled the other two lights.  The first light was slightly ahead of the second light which was slightly ahead of the third light.  I immediately yelled at my 2 companions but it happened too fast and they didn't catch it.  I know what i saw and i don't need witnesses.  I have seen and believe.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108988.html](http://www.nuforc.org/webreports/reports/108/S108988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Steger (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>revolving diamond (football) like, fast, noiseless, three sided with 3 green lights per side.chicago boundone craft heading north towards chicago (navy based near there)revolving clockwise slowly with three green lighted ports or dot like in appearance florescent like color, on three sides shaped nearly like a football. The space in between the lights were black and featureless. The ends were lightless and not much difference except a possible larger back end but not sure.The ufo produced no sound whatsoever. The craft was on a horizon track like following  the arc of the city lighted horizon where it turns blue to black sky. The craft was going at a steady fast pace that lasted no more than three seconds as I had sighted it to my right and followed it as far I could see it go to the left or north before leaving my field of vision. I had three other friends at the time with me but I could not even remark within that time of what I saw besides the ridicule I would have gotten with a mention of what I saw. As of this writing of this I am considering attempting making a paper mache replica of this since I still have a very vivid memory in my head of this occurance and desire to understand the craft and its movements like I have never have seen by any craft before or since by someone that used to work at an airport and know of planes fast and slow and none have ever compared to the speed and movement of said "ufo" that I had witnessed that life altering night.....there are other people in the skies and foolish are the people who do not believe in other life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36498.html](http://www.nuforc.org/webreports/reports/036/S36498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
