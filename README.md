@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cambridge (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 objects seen when mistaken for a balloon in cambridge ontario june 12 2013.sitting out on our deck at 4:40 pm ontario time, my wife and i saw an object drifting NNW to NWdirection so slowly that I though it was a balloon and going behind a tree.  Took 1 photo and waited for it to reappear from behind the tree but it never did.  After a few minutes of waiting I reviewed the photo and only then noted that there were 2 objects in the picture.  Closer viewing showed the larger object flat bottomed and the fainter object, tubular in shape. Waited 10 minutes but no other showings of these objects I have good 1 quality picture of the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98596.html](http://www.nuforc.org/webreports/reports/098/S98596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Approximately 2,000 agl above downtown salt lake city.  Headed straight flight no sound north west.  7 to 9 bright white lights triangular shape.  I am a pilot this was not normal.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89542.html](http://www.nuforc.org/webreports/reports/089/S89542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
