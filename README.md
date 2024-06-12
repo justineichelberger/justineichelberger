@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lafayette (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Slow moving, soundless, low flying orange light traveling directly over Lafayette, Ohio.Orange light traveling south at approx. 40mph directly over Lafayette, Ohio, at about 500'.  The light shifted to a SE direction at about the position of the railroad track in the center of town.  The orange light did not change color or intensity as it approached and passed.  There were no sounds emitted by the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81732.html](http://www.nuforc.org/webreports/reports/081/S81732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Pittsburg (KS) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>NOT a ufo report. This is an abduction.this is not a craft report. It is an abduction report I don't know who to write to submit so I chose you. I was 2 years old and I believe I was abducted. I have the same description as most, levitating, bright lights coming from windows. I was not afraid, I felt calm, I just remember floating from my Hydabed in the front room and I turned vertical. I look around around my body,only to find no one carring me. I levitated south through the front room into the kitchen and it was dark then. when I got to the back door in the kitchen i just "blacked out" thats about it. I'm really serious about this, even being 2 years old my memory is so vivid. I remember telling my friends in daycare, and throughout. I would like you to send this account to anybody willing to listen.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52600.html](http://www.nuforc.org/webreports/reports/052/S52600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
