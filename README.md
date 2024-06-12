@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star gets brighter then fades completely outWhile standing out on deck last night watching thunderstorms to the south, I turned to go in when I noticed in northern sky a light or star that should not have been there. I'm limited to star mass due to city light pollution so you get to know what is where from observing over the years. This star was bright and in wrong place. It got brighter and brighter and brighter and I thought I was possible seeing a nova. It was exciting but then upseting at the same time. About five seconds in it started fading and faded fast like it was dying. It didn't seem to move, it just went out. Strange to say the least. It was not in the atmosphere, it was among the stars. I'm wondering if any one else observed this event. It was different.((NUFORC Note:  Flare from Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70486.html](http://www.nuforc.org/webreports/reports/070/S70486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lafayette (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Slow moving, soundless, low flying orange light traveling directly over Lafayette, Ohio.Orange light traveling south at approx. 40mph directly over Lafayette, Ohio, at about 500'.  The light shifted to a SE direction at about the position of the railroad track in the center of town.  The orange light did not change color or intensity as it approached and passed.  There were no sounds emitted by the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81732.html](http://www.nuforc.org/webreports/reports/081/S81732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
