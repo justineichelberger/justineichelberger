@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Multiple Red/Orange lights in the sky moving around in seemingly random patterns.While riding home in a taxi from a dinner party, heading NW on Myra Rd. in Walla Walla, WA, the driver suddenly stopped on a road without other traffic.  He pointed out the multiple (probably a dozen) Red/Orange lights in the NNW sky which seemed to be moving randomly about, but obviously together in one section of the sky.   All five of the vehicle's occupants got out and witnessed the lights while standing outside of the vehicle.  The sky was otherwise very dark. While the movement of the lights seemed somewhat random, there was also a cohesiveness to them that indicated that there was a connection of some sort between them.  They were not moving in any logical pattern, nor were they moving in such a way that could be explained by the normal flight paths of typical aircraft. They hovered and moved up, down and sideways across what appeared to be great distances in a very short time.((NUFORC Note:  We are not aware of a military facility near Walla Walla, but we believe that the first possibility to rule out would be airborne flares.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62311.html](http://www.nuforc.org/webreports/reports/062/S62311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fighter jet and UFO over North HoustonOn June 12,2000, I was riding my bike down the street, facing the North side of Houston. I looked up and saw a US air force fighter jet flying west, just below the clouds. Since I normally like to see the contrails from the jet, I was watching closely.  I saw a object above the contrails.  At first I thought it was a helicopter because it setting very still. After staring at the object, I realized it was round and metallic, emitting no sound. It was tilted in about a twenty degree angle, with it's belly facing toward the south.  It had a grey-silver belly and the top half was a darky to black.  I kind of dark color I have never seen before that appeared to be vibrating.  The sun gleamed off the bottom since it was late in the afternoon. Two teenage boys, nearby playing basketball, were also looking up at the object as I was riding by them.  I said to them, "Looks like a UFO doesn't it?" and they responded, "Yes, it sure does".  I look at the sidewalk for a second and when I looked at it again, it had disappeared. I stopped and looked around for awhile but it did not reappear.  The fighter jet left the area and did not return. Now I believe I have seen a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13766.html](http://www.nuforc.org/webreports/reports/013/S13766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
