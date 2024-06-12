@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:35 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:13 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cooperstown (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Event occurred at around 23:30 June 12, 2009.  While sitting at the lake edge, watching planes and satellites pass overhead, I had seen one shooting star earlier.  I was facing approximately SE and my brother was NE toward me.  A bright white light, coming from the north, first caught my attention out of my peripheral vision as it passed by, approximately straight out over the lake, or at about 12 o'clock.  It was at maybe 40 degrees above the horizon, or two to three times the height of the hills across the lake.  Initially I thought it was a meteor, as I saw two successive flashes, as sometimes meteors will do if they break up of “pop”.But then, as the light proceeded south at roughly the speed of a fast moving shooting star, it continued to pulse in a very constant and rhythmic manner: pulse-pulse...pause...pulse-pulse...pause...pulse-pulse, etc.  I called it to my brothers attention and finally got him to turn around and look to the south just in time to see it (thank you!).Total time of incident was about 10 seconds, and maybe 6-8 two-pulse sets.  The object went from about a 12 o'clock position to just above the southern horizon in that time.  There was no sound heard during or after.  Object appeared to be moving in a straight line; however, just before disappearing it seemed to wander some, erratically and laterally.  Upon thinking about this a bit, it seems likely that this apparent lateral movement was most likely a visual effect of now looking at the fast receding object straight from behind, and that its path was not perfectly straight.  The lateral movement was only a degree or two at most.I have been a practicing geologist of 30 years and my brother is a university professional.  In all my years of star gazing, I have never seen anything of this nature.  In my mind this was clearly not any type of natural phenomenon.  Impossible to be a satellite by nature of its extreme speed.  It left no visible ionized trail as a meteor does and the rhythmic pulsing was dead constant like a strobe.  Would it be possible for a meteor to skip across the outer atmosphere, like a skipping stone on a pond and cause the observed effect?  I think that the rhythmic pattern of flashes eliminates this possibility and it went too far and for too long.  I have no ready and reasonable explanation what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70544.html](http://www.nuforc.org/webreports/reports/070/S70544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cambridge (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 137</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146912.html](http://www.nuforc.org/webreports/reports/146/S146912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
