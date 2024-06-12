@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Approximately 2,000 agl above downtown salt lake city.  Headed straight flight no sound north west.  7 to 9 bright white lights triangular shape.  I am a pilot this was not normal.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89542.html](http://www.nuforc.org/webreports/reports/089/S89542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>My friend and I were driving home and we saw a light in the sky. At first I thought it was a plane or helicopter but noticed no same signature like blinking red lights that planes and helicopters use. So we watched it for a bit(not taking my eyes off the road for any long periods of time) and then it disappeared through a cloud bank. Then after we went over the Sepulvida Pass we saw it in the San Fernando Valley. Then again after a few minutes of observation the craft took off straight in the air (the weather was clear over the pass).My friend and I were returning home from dinner near Los Angeles International Airport and were driving on the San Diego Freeway ( the 405) when I noticed this strange light in the sky moving north my guess is near the Pacific Ocean.  It struck me as strange because planes and helicopters have a blinking red light and this object did not. So as we were driving north on the 405 we were watching the object disappear in a cloud bank(low clouds moved in as is usual June weather here) and then we just didn't think of it. We continued to drive and after we got over the Sepulvida Pass(a hill that seperates the San Fernando Valley from West Los Angeles) we saw the object again. (still continuing north in the San Fernando Valley) the as we went from the San Diego Freeway north to the Ventura Freeway east the object just took straight off in the sky. Needless to say my friend and I were pretty freaked seeing this and I wanted to report it to you as soon as I had a chance. My backround is I work as a data entry clerk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08026.html](http://www.nuforc.org/webreports/reports/008/S08026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
