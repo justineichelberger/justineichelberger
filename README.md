@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange orb spotted on north side of Indianapolis near Castleton area.First, let me begin by saying that i have NEVER reported or seen anything like this before in my life.  I know that we are not the only ones living in the universe.  However coming in contact with something not from here is very eye opening.  I was laying down in my bed, there is a dog in our neighborhood who was barking.  There is a window right above the head of my bed.  I see a light out the corner of my eye.  I turn my head to look and there it was:  A large bright orange orb.  I couldn't even say it was a plane or a helicopter.  It was close enough that I could see exactly what it was.  I got scared, ran downstairs to wake up my 73 yr old mother.  I can't get the image out of my head.  This happened at 4:00 am,  it was still completely dark outside.  I'm still scared, because I just don't understand and I can't justify what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127853.html](http://www.nuforc.org/webreports/reports/127/S127853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Single flashing bright white lingers in sky as it bounces around and changes direction for 6 minutes.I was laying down when I noticed a light in the sky from my bedroom's window.  I got up and looked more closely to see it, initially assuming this was  an airplane with lights on the wings flying at night.  This also made sense to me because it was cloudy tonight.  The weird thing about it was that the light coming from whatever was flying was what seemed like bouncing around in the cloudy skies, but  all the whilst staying in one spot.  The light was bright white.  I then called a friend over to check it out without saying what I was looking at, and then it started to  become very erratic.  The light would bounce and also change direction.  My friend also noticed the flashes had a pattern, it was one flash a slight pause and then 3 quick flashes.  The direction change wasn't extraordinary, just bizarre in the sense that it was not a normal flying pattern for a plane.  My window was also open and there was no sound emitting.  A couple times, in the six minutes of its ! duration,we looked away, once to turn the lights off inside my apartment to get a better look, then again to look for my binoculars, and then again to find a place to report this.  As we were looking for my binoculars, within the span of around less than 20 seconds, we looked at the previous spots it was no longer there or had vanished.  What this flying thing was I have no idea.  To me and my other witness the only thing that was evident, and very clear was this bright bouncing and changing light flashing in a pattern.  We are both young adults.  I am from the Midwest, and he is from the PNW.  I have never seen anything like it.  We considered the possibility of drones and while I don't know what that would look like at night with a flashing light it did hover mainly as it changed directions, however it looked really high and to me in relativity with that height the light must have been massive, or extremely bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141930.html](http://www.nuforc.org/webreports/reports/141/S141930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
