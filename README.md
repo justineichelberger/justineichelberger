@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>My friend and I were driving home and we saw a light in the sky. At first I thought it was a plane or helicopter but noticed no same signature like blinking red lights that planes and helicopters use. So we watched it for a bit(not taking my eyes off the road for any long periods of time) and then it disappeared through a cloud bank. Then after we went over the Sepulvida Pass we saw it in the San Fernando Valley. Then again after a few minutes of observation the craft took off straight in the air (the weather was clear over the pass).My friend and I were returning home from dinner near Los Angeles International Airport and were driving on the San Diego Freeway ( the 405) when I noticed this strange light in the sky moving north my guess is near the Pacific Ocean.  It struck me as strange because planes and helicopters have a blinking red light and this object did not. So as we were driving north on the 405 we were watching the object disappear in a cloud bank(low clouds moved in as is usual June weather here) and then we just didn't think of it. We continued to drive and after we got over the Sepulvida Pass(a hill that seperates the San Fernando Valley from West Los Angeles) we saw the object again. (still continuing north in the San Fernando Valley) the as we went from the San Diego Freeway north to the Ventura Freeway east the object just took straight off in the sky. Needless to say my friend and I were pretty freaked seeing this and I wanted to report it to you as soon as I had a chance. My backround is I work as a data entry clerk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08026.html](http://www.nuforc.org/webreports/reports/008/S08026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Multiple Red/Orange lights in the sky moving around in seemingly random patterns.While riding home in a taxi from a dinner party, heading NW on Myra Rd. in Walla Walla, WA, the driver suddenly stopped on a road without other traffic.  He pointed out the multiple (probably a dozen) Red/Orange lights in the NNW sky which seemed to be moving randomly about, but obviously together in one section of the sky.   All five of the vehicle's occupants got out and witnessed the lights while standing outside of the vehicle.  The sky was otherwise very dark. While the movement of the lights seemed somewhat random, there was also a cohesiveness to them that indicated that there was a connection of some sort between them.  They were not moving in any logical pattern, nor were they moving in such a way that could be explained by the normal flight paths of typical aircraft. They hovered and moved up, down and sideways across what appeared to be great distances in a very short time.((NUFORC Note:  We are not aware of a military facility near Walla Walla, but we believe that the first possibility to rule out would be airborne flares.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62311.html](http://www.nuforc.org/webreports/reports/062/S62311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
