@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:13 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:49 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cambridge (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 137</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146912.html](http://www.nuforc.org/webreports/reports/146/S146912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Crawley (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>It appeared over me and sat there. Once i looked at it, it blinked out like a light.I was walking home through a local park after school one day wen i saw something strange. First of all the whole area i was in went dark as if something huge was over the top of me. Then i saw a huge black object hover over the top of me. At first i couldnt really see it but the the clouds become clear and i could see it in detail. It was very big and it was a kinda triangle shape. It was also black in colour. I saw the underneatth of it very well and it was very smooth with no kind of indication as to how it was held together. I could see wot looked like some kind or entrance which was also triangle but a lot smaller. It hovered above me for about 5 mins and i just stood and looked at it. I could also see some kind of distortion around the object too. It looked like it was folding the air around it because it was distorted. It was quite low down and must have been about 10 metres above me but i couldnt feel no wind or hear any noise from it. As fast as it appeared, it dissapeared. One minute it was there and the next it blinked out like a light as if it had some kind of advanced acceleration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15472.html](http://www.nuforc.org/webreports/reports/015/S15472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
