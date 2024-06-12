@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cherry Grove (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange orbs seen by wife and me over ocean at Cherry Grove.Single light started thought it was from flare gun over course of the next 5 minutes lights came and went with the last few seconds there was 6 lights almost looked like it was doing leap frog then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110169.html](http://www.nuforc.org/webreports/reports/110/S110169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Montebello (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>two to three second display of  synchronized lights travelling really fast.I was a passenger in the rear of a car when i saw the lights.  We were headed east on Washington Blvd and the lights were also heading east.  They were towards the north.  I observed the light in the north sky.  At first, i saw one light, green like a laser light. It was going horizontally really fast.  At first, i thought that it was a firework, but then it did something amazing.  While flying, it split into two, with the second light coming off at a perfect 45 degree angle then immediately paralleling the first light.  At the same time that the second light paralleled the first light, a third light shot out of the second light then on turn also paralleled the other two lights.  The first light was slightly ahead of the second light which was slightly ahead of the third light.  I immediately yelled at my 2 companions but it happened too fast and they didn't catch it.  I know what i saw and i don't need witnesses.  I have seen and believe.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108988.html](http://www.nuforc.org/webreports/reports/108/S108988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
