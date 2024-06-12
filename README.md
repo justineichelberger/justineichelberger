@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:27 on 12 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Golden (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I did not see a definite craft of sorts, but heard a very distinct sound.  It felt like an engine.  When I say felt, I mean I was directly under the cloud cover and could tell something was above me.  Whatever it was had ample cloud cover and was moving at a steady pace with lightning and rain.  Granted this is common for the area, but the sound that was traveling with the cloud was certainly an anomaly.  I certainly felt there was something above me moving just ahead of the storm.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127840.html](http://www.nuforc.org/webreports/reports/127/S127840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Barksdale AFB (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black Triangle Over Barksdale AFB Summer 1999All four witnesses (including myself) were active duty in the USAF when we observed the object.  Summer of 1999, I, my supervisor, a subordinate, and Our boss, were on the flightline at Barksdale AFB.  It was dead silent with a clear sky and no wind to mention.  We first noticed some stars were missing and then realized something was blocking them out.  We were the only four people out there on the line.  It was triangular in shape approximately 200 feet in length and 80-90 feet wide at the rear.  There was a single red light at the front and a white light at either trailing tip.  It flew around 5 mph and was completely silent.  It was less than 800 feet in altitude.  It flew directly from the south end of the ramp to the north end.  We were able to easily drive ahead of the object to view it longer.  Our Boss called the tower and nothing showed on radar.  We all stood there until the craft was out of sight and then returned to working.  No reports were filed, no one wanted to be investigated, ridiculed, or worse.  Due to my current position, I omit certain information on the report registery information, but can be contacted at the e-mail I have provided this agency.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61281.html](http://www.nuforc.org/webreports/reports/061/S61281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
