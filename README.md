@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Banks (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>LARGE WHITE BALL OF WHITE LIGHT HOVERING OVER NEAR CEDAR CANYON RD AND HWY 6 AREA OF BANKS, OREGON.  WHEN APPROACHED BY A JET IT LEFT IN AN EASTERLY DIRECTION FASTER THAN ANYTHING MAN MADE I KNOW OF.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81773.html](http://www.nuforc.org/webreports/reports/081/S81773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright orange reddish color object observed rising until it just disappeared.This object appeared to rise up from the ground wobbling. then proceeded to travel straight up northeast direction while elevating high into the sky. it was looking like the light was just dimming out as it was rising. until it just turned off like a light switch. but when it first started up it was really bright like a real close star but dimmed more and more as it was rising. the color of the light was an orange reddish color.although when it first lifted it was multiple colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70511.html](http://www.nuforc.org/webreports/reports/070/S70511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
