@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jessup (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Basically seened UFO make a sideways U turn, lasted 3 seconds red in color, odd shapeI looked up into the sky and noticed a weird shaped red object west from my house towards the next town of Peckville and it made a a side ways letter U shape and when it went back to the same distance of the start it seemed to disappear behind the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37549.html](http://www.nuforc.org/webreports/reports/037/S37549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bertram (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>oval slow moving crafti was outside walking my dog and i noticed a white to orangish oval craft approaching from the west. the craft was glowing  but not extremely bright. it was  moving slowly,just gliding along above the tree tops ,maybe 500 feet?? when it got close to the city water tower it became dimmer. i only saw it a few seconds after that and it was gone. this has made me a little nervous. also it made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44394.html](http://www.nuforc.org/webreports/reports/044/S44394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
