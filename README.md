@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright orange reddish color object observed rising until it just disappeared.This object appeared to rise up from the ground wobbling. then proceeded to travel straight up northeast direction while elevating high into the sky. it was looking like the light was just dimming out as it was rising. until it just turned off like a light switch. but when it first started up it was really bright like a real close star but dimmed more and more as it was rising. the color of the light was an orange reddish color.although when it first lifted it was multiple colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70511.html](http://www.nuforc.org/webreports/reports/070/S70511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cheektowaga (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Orangish/Red Round Glowing Objects Spotted Near Buffalo Airport.While coming out of an establishment on Union Rd near Genesee St, I observed a orangish, red, glowing round object about 800ft in the sky.  During the first moments of observing this object, I was carefully trying to figure out what it could be.  There were no strobe lights on it and no other colored lights, and it made no sound. I first thought that it could be someone on a self-propelled hang glider with a light attatched to it, or even a hot air balloon; until I noticed the object almost come to a complete stand still in the sky with no loss in elevation.  Right at that moment out of the corner of my eye, from the right side, I noticed a second similar object moving quickly towards the first object that was hovering. It looked like the first object had waited for the second one to catch up.  Right when they got closer together, they both began to rise in unison. It was right at that time that the Buffalo Airport was landing planes and without realizing it at first, these two objects were in the glide path of the jet that was about to land. The pilot of the landing jet had to see these two objects as they were in his direct line of sight while he was landing.  The Buffalo tower must have seen them also.  So these two round glowing balls of light rose up to get out of the way of the incoming jet.  As the jet passed underneath them, they continued to rise at a high rate of speed; disappearing in seconds.  These two object had intelligent motion.  First, one slowed down and waited for the other; then they rose up to get out of the way of an oncoming jet, then they ascended at rate of speed never seen before into the night sky.  No aircraft, glider, hellicopter, or balloon could have did what I seen these two objects do.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89625.html](http://www.nuforc.org/webreports/reports/089/S89625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
