@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Suffield (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Out walking dog and noticed movement in cumulus cloud above.  Saw birdlike figure going in and out of cloud.  It was big enough to be a plane but it wasn't.  It was very black.  Maybe drone?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119629.html](http://www.nuforc.org/webreports/reports/119/S119629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Barstow (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There were  red and blue lights  round lights coming toward us.  It was the size of a small car hovering.Me and a girlfriend went to Las Vegas for her birthday by car.  As we approached the connecting freeway highway 15 from highway 58 there was a truck blocking the road because he tried to turn around and got stuck.  After several attempts of people trying to help him, cars found a way to get around.  There was a ditch behind the truck, and cars tried to drive partially under the truck into the ditch.  We made it, and not far up the road there were red and blue lights coming toward us.  I assumed it was a police car.  When it reached us it stopped or drove backwards because I was still driving.  It all seemed like in slow motion.  There were no wheels underneath, and we were looking desparately for tires.  It hovered right next to my car and the drivers side as if it was looking in at us.  I said, do you see what I see and she said yes.  I proceeded to try and get away and it stayed with us a short time and then took off like a light, there was no sound as I rolled down my window.  Now you see it, now you don't.  We called our family to tell them when we arrived in Las Vegas in our hotel about the incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42480.html](http://www.nuforc.org/webreports/reports/042/S42480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
