@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:48 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dunbar (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White circle object with no plane paralleled trails.I saw a white object, very high in the sky, towards the East moving from the moon, moving faster than a normal airplane and leaving no white parallel trails, and it was traveling from NE moving SW.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146815.html](http://www.nuforc.org/webreports/reports/146/S146815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wake Forest (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Star-like object flying at moderate speed in an "S" motion, before dimming out and disappearing.Outside with dog. Very clear sky, many stars out.  Noticed what I first thought was a plane at high altitude but it had no flashing lights and made no sound.  Just a single white star-like object moving at moderate speed.  It did not fly in a straight line but rather a strange "S" type motion. I tracked it across the sky where it soon  dimmed out and disappeared completely.  Stayed outside another 5 minutes or so and saw nothing further.I am familiar with airplanes, meteors, comets, etc. It was not any of these.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119536.html](http://www.nuforc.org/webreports/reports/119/S119536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
