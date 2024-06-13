@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Lafayette (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 22:20 - 22:20 minutes.</sub><blockquote><sub>the quick moving "star" balls sped away faster than anything i had everseen and change color in the process of leaving.This event occured a few years ago. I just learned of this sight and wanted to share my experience. I was outside, enjoying the few nights of good weather we get, put stars together trying to name constalations and such. I began to notice that a certain cluster of stars i was trying to patternize were not cooperating. From then i observed that there were specificly 3 "stars" that were in motion. they moved at different speeds and didn't appear to make any specific pattern in their movement but stayed within a certain area. i went inside to look for my binoculers for a better look. it did seem that the quickest one was "in-charge" and the next quickestwas withit but the one that moved fairly slow didn't seem to fit in but the other kind of gave it space and yet didn't go to far from it. the binoculars didn't help much but the lights seemed to all be in a "teardrop" or "triangular" shape.They stayed in sight for about the next 20 minutes and then quickly took off. they seemed to move in a blurred speed and motion but they also seemed to go in slightly different directions and then head the same way.i also notice a slight change in color as they sped away,they now seemed to be an almost redish-orange like if they were burning. I tried to take a grip of what i had seen considering i hadn't been drinking or anything and wasn't tired. I never saw them again but do feel strongly about what i have seen considering that a couple months later i was watching the show sighting and a man had video taped a similar occurence in another state.i also checked with the local weather station to see if there were any reports of a metor encounter but they told me that there was no weather report of any metors to have ben seen at that time.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23054.html](http://www.nuforc.org/webreports/reports/023/S23054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dunbar (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White circle object with no plane paralleled trails.I saw a white object, very high in the sky, towards the East moving from the moon, moving faster than a normal airplane and leaving no white parallel trails, and it was traveling from NE moving SW.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146815.html](http://www.nuforc.org/webreports/reports/146/S146815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
