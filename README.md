@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Stuttgart (Germany) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 sightings in Germanyhello,  my englisch inst the best but i try. i was 11 years when i saw a purple sphere in our small forest near our village.  first i was curious why the forest was that bright. usually no people ever get into this forest the plants are very hard to get through but as 11 year old it was possible. it was my playground were i went to everyday. i saw the purple light from outside the forest border and went inside.  what i saw was unbelievable. a levitating purple glowing sphere, it was extremly bright.  it was levitating app. 1 meter above the ground between the trees.  i went closer to see whats inside the sphere but it was to bright and i got scared when it became brighter the closer i got. finally fear took over my mind and i fled back to my bike which was outside the forest and went home. the next day i went there again to see if it is still there. The ground where it levitated was dry and darker than the area around it. Since i met this sphere i felt that something happened to me. my parents had to buy me a Astrotelescope and i used it everyday to watch the sky in hope to see them again. i havent talked about this until i was 21 but this event has changed my live. i saw another sphere/orb when i was at holidays in Egypt in 1993 moving with our plane when we flew back to germany from egypt. The orb flew lower at the same speed as our plane. It was white , bright and it looked like it wasnt moving in the air. no shakes nothing. it wasnt a reflection in the window. other people in the plane saw it too, they tought its a rocket that would shot the plane down and we all would die. I saw this orb when we were over Cairo. The reason i saw it was that i looked at the pyramids. i known it was something else. Since these two events happened to me i am extremly interested in Astrophysics, UFOs, Aliens. They changed my live completly. Today i am 42 years old and still waiting for the day to see one of these objects again. They are out there, everyday. Sometimes they come down and we can see them. best wishes  Andrew Germany</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97173.html](http://www.nuforc.org/webreports/reports/097/S97173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Luthersburgh (PA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It shined my car and then took off like a flash then met up with two more white light crafts plus 2 red fiery looking crafts</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163680.html](http://www.nuforc.org/webreports/reports/163/S163680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
