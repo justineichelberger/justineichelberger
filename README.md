@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Southampton (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Silver grey tube shaped object spotted in skies over Southampton, Hampshire.One object sighted comprising a long cylindrical tube, silver grey in colour, moving slowly across the sky.  The object turned vertically and climbed before returning to a horizontal position.  It then turned again and climbed through light cloud cover and eventually disappeared from view.  It was a clear day and we manged to capture the object on film, circa 5 shots, with a digital camera.Background of observers - 1, System Migration Manager (Engineering) 2, Assistant to a Marketung Director</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37573.html](http://www.nuforc.org/webreports/reports/037/S37573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Odd, glowing oval sped across sky in 10-15 seconds.The object traveled from one side of the sky to the other in 10-15 seconds.  Fast.  At first, it resembled a balloon with a flame inside of it. It seemed to wobble and coalesce and change slightly as it traveled.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89576.html](http://www.nuforc.org/webreports/reports/089/S89576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
