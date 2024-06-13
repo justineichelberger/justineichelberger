@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 13 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lansdale (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange orbs in skyWhile driving on Line Street in Lansdale, near Lansdale Hospital, approximately 9:10 p.m., saw two fireball objects, or orange orbs, heading toward Main Street.  They seemed to be moving slowly or hovering but then would pick up in speed.  They would change directions, and then suddenly disappeared.  Next, two more fireballs or orange orbs shot up and moved at a very fast speed but then seemed to slow down and float or hover.   They made no noise and were about 500 feet high in the sky.  We stopped our car and watched the objects move out of sight.  All occurred in about two to four minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110206.html](http://www.nuforc.org/webreports/reports/110/S110206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jessup (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Basically seened UFO make a sideways U turn, lasted 3 seconds red in color, odd shapeI looked up into the sky and noticed a weird shaped red object west from my house towards the next town of Peckville and it made a a side ways letter U shape and when it went back to the same distance of the start it seemed to disappear behind the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37549.html](http://www.nuforc.org/webreports/reports/037/S37549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
