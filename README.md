@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:48 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>06/14/14 Strange light, amazing speed, changed locationsApprox. 10:30 in the eve I stepped outside to smoke a cigarette, I normally see air traffic from the airport and view the skies often, this eve I was looking up toward the ocean beach are and noticed an odd light, it wasn't a helicopter or plane of any type. What brought my attention, it was abnormal in color and flickering and standing still just above the horizon. I watched for a few moments then at an unbelievable speed it zipped to the left and stopped, I knew because of the speed it moved it was something to watch. it sat there for a few moments then zipped again this time towards my location, that's when I thought to myself this thing has amazing speed, then all of a sudden it zipped up at an angle again towards my location traveling so fast it disappeared to what must have been the upper atmosphere, it wasn't falling it was climbing at such a speed, that nothing I have ever seen before compared to it. Then 2 days later the local news stations reported! UFO's spotted on or around that same time frame</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114642.html](http://www.nuforc.org/webreports/reports/114/S114642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cypress (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright white fireball with a blue tail over Orange County.My wife and I were driving on Cerritos Ave. en route to the 605 freeway onramp.  A bright white fireball shot down from the sky.  Very quick and abrupt. I was the only one to fully witness this quick incident in vivid detail. My wife saw a flash of brightness from the corner of her eye.  Similar to a "shooting star," what I saw was remarkably closer and larger in perspective.  It didn't look to be far away in space but nearby in our sky. The core was bright white and had a glowing aura of blue. The tail appeared blue as well. It shot somewhat diagonally in a slight south to north direction and disappeared from my vision behind a cluster of trees. Rather than streaking across the sky, it gave me the impression that it was crashing down.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63913.html](http://www.nuforc.org/webreports/reports/063/S63913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
