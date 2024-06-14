@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Miami Springs (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>On June 14th,  2006 at about 4:25pm It was a clear blue sky I was looking due west  I noticed High in the sky a bright silver objectI just got from work and sitting on my porch facing West of Miami International Airport. I always like to sit on the porch to read my newspaper and for something I look out to the west and something round and silver & shine was moving very slow.It surprise me & kept looking at it until it gave a high shine & quilt it disappear from the pot I was tracking it. I seen airplanes from far away, but I'm sure it was an shine silver object. I had seen similar object in the past like this in my life but I did know or place to report it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50954.html](http://www.nuforc.org/webreports/reports/050/S50954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Niagara-On-The-Lake (Canada) (ON) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large fridge shaped object, observed for 10 minutes, moving slowly at low alltitude over populated area during morning rush hour.I was driving to school heading eastbound through farm land from St. Catharines to Virgil In the Niagara penninsula. It was a clear sunny morning in June. The sighting began when I noticed a fridge shaped object hanging in the air appearently motionless over the Niagara municipal airport. I stopped the car immediatley. I was about 1km directly north of the airport. The object appeared to be approximately 60 feet tall and perhaps 20 feet wide. Sort of a rounded rectangle, it appeared to be grey in colour. It couldn't have been more than 150 feet off the ground. At first I thought it may be an unusual hot air balloon. Except it had no basket at all. I then noticed it was moving very slowly away from my position to the south. I watched in amazement for about 10 minutes as it slowly disappeared over the southern horizon, the Niagara escarpment. It's course would have taken it directly over the Queen Elizabeth Highway, a major artery for traffic through tthe region, no doubt very busy at the hour. I called the airport later that day and was told there was no balloon activity in the area that day .((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22787.html](http://www.nuforc.org/webreports/reports/022/S22787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
