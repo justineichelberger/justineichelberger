@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Formation of lights, arranged in the pattern of an "arrow symbol" or "christmas tree."  Hovered, moved, and hovered again.  Afterwards, a bright glowing object moved from my right to left, jitterd and dissapeared.I was inside my apartment, looking outside the window that faces south over the city of Columbus.  It was about 4:30 AM.  I was watching the stars and the moon.  I looked up about 75 degrees, and I saw a formation of lights.  The lights were not a brilliant in their luminicity, and I assumed that it was rather high in the atmosphere.  When I first saw it, I thought the stars were moving...impossible...then I realized what I was seeing.  It looked like a large arrow in the sky, and it moved about "one foot" across my field of view, then it hovered and just stayed there.  To demonstrate what it was, make an equalateral triangle with a 6 dot pattern...then attach a smaller square, using 5 dots.  There should be a total of 11 dots.  (I don't remember exactly how many lights there were)  I assumed I was seeing many craft, but now wonder if it may have been one craft with many lights.  I wastched it for about 20 seconds, just hovering in the sky (it "pointed" upwards at an angle of 45 degrees.)  I walked away from the window, amazed, and went to the bathroom and looked in the mirror.  I came back, and the lights were gone.  Off to my right, there was a bright light.  I didn't hear any noises and it seemed to move quite quickly across the sky, at about 1 foot per second.  I expected for it to go off into the horizon, but it did not.  There was a tree near my window, just off to my left.  It flew "between" two branches and slowed down.  Then it moved upwards quite eradically and blinked out.  I think this was all meant for me to see for some reason.  There is more to tell, about myself actually...and it leads to conclude that I may be a subject of theirs.  I would like very much to be contacted about this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05923.html](http://www.nuforc.org/webreports/reports/005/S05923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Regtangular shape moving between lakes Erie and OntarioRectangular shape with approx. 5 separate groups of 3 lights in a row flew overhead, no sound. Mirage like field surrounded the anomaly, wavering like a heat mirage on the road.  We have seen this same craft {?} heading in the same direction last year almost to the day. Anomaly moves from SSE to NNW. Seems to travel between Lake Erie and Lake Ontario.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157070.html](http://www.nuforc.org/webreports/reports/157/S157070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
