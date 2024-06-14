@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Wallingford (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>the object huverd about 900 ft. no noise thousands of lites took off out of site in secounds no noisemy friends stopped over unexpectedly frantic come outside there is a ufo directly across the street from my house hovering above the  field  was an huge object i describe as 1000 rows of lights across five hundred rows vertical the lights were many colors the object made no sound as i was just about to get a telescope the object moved to the east a few hundred ft. then faster then i ever saw anything move speed off to the s.east with no sound and out of site in less then three seconds the  news reported it was a flying  club of planes flying in circles ,inposible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83780.html](http://www.nuforc.org/webreports/reports/083/S83780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Blue Springs (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A small bright light traveling very fast almost horizontaly for a few seconds traveling east to west.I was driving home after work (about 11:30 or so) on I-70 east bound from Kansas City. Looking out of the upper left of the windshield I noticed a very bright, white light streaking west to east.  It was almost horizontal through the sky and moved very fast. At first I thought it was an airplane from the light and the path.  But it traveled very fast and almost at the end of its visibility the light dimmed quickly then brightened again and traveled a little farther then disappeared.  I would have been convinced it was a meteorite except that it had a very flat path (almost horizontal). It was visibile only a few seconds and could have been some natural object, but the one I have ever seen like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13100.html](http://www.nuforc.org/webreports/reports/013/S13100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
