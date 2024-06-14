@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Regtangular shape moving between lakes Erie and OntarioRectangular shape with approx. 5 separate groups of 3 lights in a row flew overhead, no sound. Mirage like field surrounded the anomaly, wavering like a heat mirage on the road.  We have seen this same craft {?} heading in the same direction last year almost to the day. Anomaly moves from SSE to NNW. Seems to travel between Lake Erie and Lake Ontario.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157070.html](http://www.nuforc.org/webreports/reports/157/S157070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately Night - Night minutes.</sub><blockquote><sub>I was looking out my bedroom window, that's when I saw a floatng object,  it was green and red.  It just hovered there,  I'm not sure how long.  I don't remember if it was curcular or a triangle..  I'm quite certain it was a circle.But I went to go get my phone, when I went back to take photos, it wasn't there.I felt like I lost track of time, I don't even know how long I just sat there, watching the craft change from green to red.  The craft itself wasn't changing colours, but the lights where.((NUFORC Note:  Source of the report provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141834.html](http://www.nuforc.org/webreports/reports/141/S141834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
