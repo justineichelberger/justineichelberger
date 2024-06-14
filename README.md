@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:27 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Winter Haven (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange skies over Winter HavenWhile in the drive-thru lane at a bank, my 13-year-old son spotted something unusual in the sky.  What we saw were 3 oval-shaped objects, of uniform size and description.  These ovals were somewhat bright.  They would appear in a bowed line, then disappear only to reappear in a triangular formation.  They would then disappear and reappear again in a line but slightly "dancing" in a snake-like manner.  This cycle continued for 5 or more minutes, with no set pattern as to how they would appear.  However, the patterns that the object or objects made appeared to be equal and precise.  In addition, while they were visible, the "tube" device that carries the transaction from the driver to the teller seemed to not be working as we had a difficult time getting the machine to work until they were gone.  This was witnessed by me, a 37-year-old mother of two, my two children, both boys ages 13 and 8, and my son's 14-year-old friend.  My 30-year-old sister-in-law was in the front seat next to me, but she was unable to see this object.  We are not sure why as it stayed within the same basic area (disappearing and reappearing within the same general area and the area wasn't very large.  The rest of us were able to view the show for 5+minutes.  This was at 3:15 in the afternoon and the skies were otherwise clear</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44423.html](http://www.nuforc.org/webreports/reports/044/S44423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Equalateral Triangle of stars, simultaneously disappear on 6/14/2014 over St. Louis, Missouri.While watching a Shakespeare Play at Forest Park, I noticed in the night sky some stars.  It was a pretty clear night and very windy.  I took special notice of three stars that were equilaterally aligned and formed a perfect triangle.  I watched them for about four minutes thinking how crazy it was that they were so evenly distanced apart.  Then simultaneously they all went out.  I thought wow that’s really weird so I’ll just wait to see if they reappear, maybe clouds went over.  But they did not reappear and this was about 9:45 pm.  And the other stars that were in the sky did not go out.I whispered to my husband that I thought I saw a UFO and he said maybe it was a summer Triangle.  Why did they all go out at once?  I was curious if anyone else reported this sighting.  I did not notice any other colored lights.  I simply thought that these were stars, until they all went out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110340.html](http://www.nuforc.org/webreports/reports/110/S110340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
