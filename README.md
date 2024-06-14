@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Blue Springs (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A small bright light traveling very fast almost horizontaly for a few seconds traveling east to west.I was driving home after work (about 11:30 or so) on I-70 east bound from Kansas City. Looking out of the upper left of the windshield I noticed a very bright, white light streaking west to east.  It was almost horizontal through the sky and moved very fast. At first I thought it was an airplane from the light and the path.  But it traveled very fast and almost at the end of its visibility the light dimmed quickly then brightened again and traveled a little farther then disappeared.  I would have been convinced it was a meteorite except that it had a very flat path (almost horizontal). It was visibile only a few seconds and could have been some natural object, but the one I have ever seen like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13100.html](http://www.nuforc.org/webreports/reports/013/S13100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Taylor (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>green streak across sky.Driving on Phelham/Allen Road it was almost fully dark and kind of cloudy. I was going North when I looked up to the right slightly and I saw what looked like a green light or fireball shape streak down at an angle and disappear. I thought maybe it was fire works so I continued looking around to see if there was more but I saw none, the light reminded me of a shooting star, seemed to have a tail light when it disappeared, fireworks do not just disappear like that, was a weird experience for me.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90236.html](http://www.nuforc.org/webreports/reports/090/S90236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
