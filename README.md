@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White and very bright red lights seen in Bellevue WA.I was driving east-bound on I-90 from Seattle.  When I was on the Mercer Island floating bridge, I noticed a low-flying object flying away from me toward Bellevue.  It had one small white light on top, and a very bright red light flashing on the bottom.  It was moving slowly like a helicopter and in a straight trajectory.  It didn't look like any helicopter I had ever seen, however.  It continued for about 8 minutes and then slowly descended in a northeasterly direction until it disappeared from view.  It is possible that it was a conventional craft with enhanced landing lights, but it appeared to behave strangely and I couldn't identify it for certain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63887.html](http://www.nuforc.org/webreports/reports/063/S63887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Monroe (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flash of white light and object gone. Monroe, NYStanding in my back yard at approximately 22:15 and event occurred in which myself and a friend believe we were watching a satellite orbiting the sky. About 15 seconds into watching what we thought was a satellite the object flashed a white light and was out of site as a dim dot on the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75794.html](http://www.nuforc.org/webreports/reports/075/S75794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
