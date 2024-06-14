@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:21 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Melford (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Round metallic object moving slowly across the skyline for approximately 7-10 seconds, stopped then vanished. No sound or lights.A metal round object came into view above the treeline. Appx. a mile south of my position. No lights, no sound. The object moved smoothly from West to East,  Steady and slow. The object stopped then vanished, disappearing immediately. This happened with a 7-10 second time period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157105.html](http://www.nuforc.org/webreports/reports/157/S157105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ontario (NY) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>this was like a massive metor flying over my house with a long and wide tail no noise but it then suddenly disappeared it was amazing that it should appear like that and then suddenly stop (the trail)there was no color but a trail of a white long and wide streak of vapor</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08096.html](http://www.nuforc.org/webreports/reports/008/S08096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
