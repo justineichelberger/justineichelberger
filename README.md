@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>CIRCLE OF 8 RED LIGHTS APPEARED IN WESTERN SKY TONIGHT, AND THEN FADED AWAY, WITH NO NOISE..I SAW ABOUT 8 RED LIGHTS IN A CIRCLE IN THE WESTERN SKY, ABOUT 20 DEGREES ABOVE THE HORIZON, JUST BELOW THE BIG DIPPER.  THE LIGHTS MOVED INDEPENDENTLY OF EACH OTHER AND THERE WAS NO NOISE. ONE BY ONE, THEY FADED AWAY OVER ABOUT 2 MINUTES.  THEN 2 MORE APPEARED TO THE WNW. THESE 2 LIGHTS SEEMED TO FOLLOW EACH OTHER AND APPEARED TO BE CLOSER (LARGER).  SIZE APPEARED TO BE MUCH LARGER AND BRIGHTER THAN MARS APPEARS TONIGHT. WE HAVE NEVER WITNESSED ANYTHING LIKE THIS!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110213.html](http://www.nuforc.org/webreports/reports/110/S110213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Wallingford (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>the object huverd about 900 ft. no noise thousands of lites took off out of site in secounds no noisemy friends stopped over unexpectedly frantic come outside there is a ufo directly across the street from my house hovering above the  field  was an huge object i describe as 1000 rows of lights across five hundred rows vertical the lights were many colors the object made no sound as i was just about to get a telescope the object moved to the east a few hundred ft. then faster then i ever saw anything move speed off to the s.east with no sound and out of site in less then three seconds the  news reported it was a flying  club of planes flying in circles ,inposible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83780.html](http://www.nuforc.org/webreports/reports/083/S83780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
