@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Monroe (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flash of white light and object gone. Monroe, NYStanding in my back yard at approximately 22:15 and event occurred in which myself and a friend believe we were watching a satellite orbiting the sky. About 15 seconds into watching what we thought was a satellite the object flashed a white light and was out of site as a dim dot on the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75794.html](http://www.nuforc.org/webreports/reports/075/S75794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Miami Springs (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>On June 14th,  2006 at about 4:25pm It was a clear blue sky I was looking due west  I noticed High in the sky a bright silver objectI just got from work and sitting on my porch facing West of Miami International Airport. I always like to sit on the porch to read my newspaper and for something I look out to the west and something round and silver & shine was moving very slow.It surprise me & kept looking at it until it gave a high shine & quilt it disappear from the pot I was tracking it. I seen airplanes from far away, but I'm sure it was an shine silver object. I had seen similar object in the past like this in my life but I did know or place to report it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50954.html](http://www.nuforc.org/webreports/reports/050/S50954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
