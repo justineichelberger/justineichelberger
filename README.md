@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately Night - Night minutes.</sub><blockquote><sub>I was looking out my bedroom window, that's when I saw a floatng object,  it was green and red.  It just hovered there,  I'm not sure how long.  I don't remember if it was curcular or a triangle..  I'm quite certain it was a circle.But I went to go get my phone, when I went back to take photos, it wasn't there.I felt like I lost track of time, I don't even know how long I just sat there, watching the craft change from green to red.  The craft itself wasn't changing colours, but the lights where.((NUFORC Note:  Source of the report provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141834.html](http://www.nuforc.org/webreports/reports/141/S141834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Staffa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>OBJECT WAS EXTREMELY FAST AND BRIGHT. IT WAS OBVIOUSLY NOT A NORMAL AIRCRAFT.THE OBJECT WAS SEEN FLYING WEST TO EAST AT APPROXIMATELY 3,000 FEET. IT WAS A WHITE LIGHT WHICH WAS FLYING EXTREMELY FAST AND IN A STRAIGHT LINE. MY MOTHER FIRST OBSERVED THE OBJECT AS WE WERE SITTIN ON THE FRONT DECK ON THE EAST SIDE OF HER HOUSE IN THE TOWN OF STAFFA ONTARIO. THE OBJECT FLEW DIRECTLY (IT SEEMED) OVER THE TOWN OF STAFFA WHICH IS ABOUT 100 METRES NORTH OF MY MOTHERS HOUSE. SHE OBSERVED THE OBJECT AND CALLED MY AND MY BROTHERS ATTENTION TO IT. THE OBJECT WAS QUITE EASY TO PICK OUT DUE TO ITS SIZE AND BRIGHTNESS (AT LEAST 3 TIMES AS BRIGHT AND TWICE AS LARGE AS ANY STAR IN THE SKY). THE OBJECT CONTINUED IN A STRAIGHT EASTERLY DIRECTION UNTIL IT WAS ABOUT 11 O CLOCK OF OUR POSITION FACING EAST. IT THEN SHOT UP AT A 60 DEGREE ANGLE CONTINUING EAST AND QUICKLY BEGAN TO SHRINK IN SIZE. IT SEEMED TO ACCELERATE EVEN MORE AT THIS POINT AND BEGAN TO DIM. IT ACTUALLY APPEARED TO LEAVE THE ATMOSPHERE. THE ACCELERATION WAS INCREDIBLE. THERE WAS NO INDICATION OF ENGINES (SOUND, AFTER BURNER FOR ACCELERATION, ETC). I HAVE SEEN MANY FIGHTER AIRCRAFT EXCELLERATE WITH AFTER BURNERS OVER THE YEARS BECAUSE OF MY MILITARY CAREER BUT NOTHING EVEN REMOTELY COMPARED TO THIS.MY MOTHER IS RETIRED AND 70 YEARS OLD. SHE WORKED IN SECRETERIAL MOST OF HER LIFE. MY BROTHER IS 49 YEARS OLD AND OF POOR HEALTH. HE LIVES AT HOME WITH MY MOTHER, RECENTLY HE HAS BEEN LOSING HIS EYESIGHT DUE TO THE EFFECTS OF LONG TERM DIABETES. HE EASILY OBSERVED THE OBJECT WHEN HIS ATTENTION WAS DRAWN TO IT. I AM ((30 +)) YEARS OLD AND RECENTLY RETIRED FROM ((public service/position of responsibility)). I AM IN GOOD HEALTH AND AM NOT PRONE TO SEEING THINGS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22653.html](http://www.nuforc.org/webreports/reports/022/S22653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
