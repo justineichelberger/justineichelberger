@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mt. Juliet (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>On 6-14-18 I was driving East on I-40 headed back home to Lebanon from work.  As I was driving, I look to my left and saw a object just sitting in the sky,  It was brown in color and its shape was a long thin cylinder with what appeared to be windows down the length of the side.  It was stationary, but then it shot off to the East  (same direction I was traveling) and flew in to a cloud and did not come out the other side which did not make since because at the rate it was traveling it should have appeared on the other side of the cloud in about 3 second after entering.  I watched the cloud for some time, until it became impossible for me to turn my head back in that direction any longer.  The event only lasted around 8 to 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141833.html](http://www.nuforc.org/webreports/reports/141/S141833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White and very bright red lights seen in Bellevue WA.I was driving east-bound on I-90 from Seattle.  When I was on the Mercer Island floating bridge, I noticed a low-flying object flying away from me toward Bellevue.  It had one small white light on top, and a very bright red light flashing on the bottom.  It was moving slowly like a helicopter and in a straight trajectory.  It didn't look like any helicopter I had ever seen, however.  It continued for about 8 minutes and then slowly descended in a northeasterly direction until it disappeared from view.  It is possible that it was a conventional craft with enhanced landing lights, but it appeared to behave strangely and I couldn't identify it for certain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63887.html](http://www.nuforc.org/webreports/reports/063/S63887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
