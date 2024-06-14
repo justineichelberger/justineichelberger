@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Staffa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>OBJECT WAS EXTREMELY FAST AND BRIGHT. IT WAS OBVIOUSLY NOT A NORMAL AIRCRAFT.THE OBJECT WAS SEEN FLYING WEST TO EAST AT APPROXIMATELY 3,000 FEET. IT WAS A WHITE LIGHT WHICH WAS FLYING EXTREMELY FAST AND IN A STRAIGHT LINE. MY MOTHER FIRST OBSERVED THE OBJECT AS WE WERE SITTIN ON THE FRONT DECK ON THE EAST SIDE OF HER HOUSE IN THE TOWN OF STAFFA ONTARIO. THE OBJECT FLEW DIRECTLY (IT SEEMED) OVER THE TOWN OF STAFFA WHICH IS ABOUT 100 METRES NORTH OF MY MOTHERS HOUSE. SHE OBSERVED THE OBJECT AND CALLED MY AND MY BROTHERS ATTENTION TO IT. THE OBJECT WAS QUITE EASY TO PICK OUT DUE TO ITS SIZE AND BRIGHTNESS (AT LEAST 3 TIMES AS BRIGHT AND TWICE AS LARGE AS ANY STAR IN THE SKY). THE OBJECT CONTINUED IN A STRAIGHT EASTERLY DIRECTION UNTIL IT WAS ABOUT 11 O CLOCK OF OUR POSITION FACING EAST. IT THEN SHOT UP AT A 60 DEGREE ANGLE CONTINUING EAST AND QUICKLY BEGAN TO SHRINK IN SIZE. IT SEEMED TO ACCELERATE EVEN MORE AT THIS POINT AND BEGAN TO DIM. IT ACTUALLY APPEARED TO LEAVE THE ATMOSPHERE. THE ACCELERATION WAS INCREDIBLE. THERE WAS NO INDICATION OF ENGINES (SOUND, AFTER BURNER FOR ACCELERATION, ETC). I HAVE SEEN MANY FIGHTER AIRCRAFT EXCELLERATE WITH AFTER BURNERS OVER THE YEARS BECAUSE OF MY MILITARY CAREER BUT NOTHING EVEN REMOTELY COMPARED TO THIS.MY MOTHER IS RETIRED AND 70 YEARS OLD. SHE WORKED IN SECRETERIAL MOST OF HER LIFE. MY BROTHER IS 49 YEARS OLD AND OF POOR HEALTH. HE LIVES AT HOME WITH MY MOTHER, RECENTLY HE HAS BEEN LOSING HIS EYESIGHT DUE TO THE EFFECTS OF LONG TERM DIABETES. HE EASILY OBSERVED THE OBJECT WHEN HIS ATTENTION WAS DRAWN TO IT. I AM ((30 +)) YEARS OLD AND RECENTLY RETIRED FROM ((public service/position of responsibility)). I AM IN GOOD HEALTH AND AM NOT PRONE TO SEEING THINGS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22653.html](http://www.nuforc.org/webreports/reports/022/S22653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>06/14/14 Strange light, amazing speed, changed locationsApprox. 10:30 in the eve I stepped outside to smoke a cigarette, I normally see air traffic from the airport and view the skies often, this eve I was looking up toward the ocean beach are and noticed an odd light, it wasn't a helicopter or plane of any type. What brought my attention, it was abnormal in color and flickering and standing still just above the horizon. I watched for a few moments then at an unbelievable speed it zipped to the left and stopped, I knew because of the speed it moved it was something to watch. it sat there for a few moments then zipped again this time towards my location, that's when I thought to myself this thing has amazing speed, then all of a sudden it zipped up at an angle again towards my location traveling so fast it disappeared to what must have been the upper atmosphere, it wasn't falling it was climbing at such a speed, that nothing I have ever seen before compared to it. Then 2 days later the local news stations reported! UFO's spotted on or around that same time frame</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114642.html](http://www.nuforc.org/webreports/reports/114/S114642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
