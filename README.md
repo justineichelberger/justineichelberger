@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rockland (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>UFOhttps://www.youtube.com/watch?v=nPUhuDl9HC8  Video was took in Rockland, Maine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119766.html](http://www.nuforc.org/webreports/reports/119/S119766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Line Lexington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Series of about 7 orange circular objects flying through the sky.There was a series of at least seven objects flying through the sky.  The objects were small, circular, and orange.  The objects all seemed to come from the same general location and move towards another separate but common location (From the NE to SE).  The objects did not make any noise.  They moved faster than a helicopter but slower than a plane.  They all seemed to fade out of view around the same area but there were not many clouds in the sky. We tried to film the objects with a camera but were unsuccessful in really capturing anything worth sending in.  Background of Witnesses – Teacher, Structural Engineer, Marketing Consultant, and Custom Clothing Entrepreneur.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110228.html](http://www.nuforc.org/webreports/reports/110/S110228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
