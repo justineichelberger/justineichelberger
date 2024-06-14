@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:27 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:06 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Equalateral Triangle of stars, simultaneously disappear on 6/14/2014 over St. Louis, Missouri.While watching a Shakespeare Play at Forest Park, I noticed in the night sky some stars.  It was a pretty clear night and very windy.  I took special notice of three stars that were equilaterally aligned and formed a perfect triangle.  I watched them for about four minutes thinking how crazy it was that they were so evenly distanced apart.  Then simultaneously they all went out.  I thought wow that’s really weird so I’ll just wait to see if they reappear, maybe clouds went over.  But they did not reappear and this was about 9:45 pm.  And the other stars that were in the sky did not go out.I whispered to my husband that I thought I saw a UFO and he said maybe it was a summer Triangle.  Why did they all go out at once?  I was curious if anyone else reported this sighting.  I did not notice any other colored lights.  I simply thought that these were stars, until they all went out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110340.html](http://www.nuforc.org/webreports/reports/110/S110340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>My sister was leaving my house and she called the family out side and we seen 7 fireball UFO and  then we saw the moon moving.((NUFORC Note:  We suspect that the submission is an attempt to hoax.  The source describes self in a fashion that seems incongruous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110226.html](http://www.nuforc.org/webreports/reports/110/S110226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
