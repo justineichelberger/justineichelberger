@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Niagara-On-The-Lake (Canada) (ON) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large fridge shaped object, observed for 10 minutes, moving slowly at low alltitude over populated area during morning rush hour.I was driving to school heading eastbound through farm land from St. Catharines to Virgil In the Niagara penninsula. It was a clear sunny morning in June. The sighting began when I noticed a fridge shaped object hanging in the air appearently motionless over the Niagara municipal airport. I stopped the car immediatley. I was about 1km directly north of the airport. The object appeared to be approximately 60 feet tall and perhaps 20 feet wide. Sort of a rounded rectangle, it appeared to be grey in colour. It couldn't have been more than 150 feet off the ground. At first I thought it may be an unusual hot air balloon. Except it had no basket at all. I then noticed it was moving very slowly away from my position to the south. I watched in amazement for about 10 minutes as it slowly disappeared over the southern horizon, the Niagara escarpment. It's course would have taken it directly over the Queen Elizabeth Highway, a major artery for traffic through tthe region, no doubt very busy at the hour. I called the airport later that day and was told there was no balloon activity in the area that day .((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22787.html](http://www.nuforc.org/webreports/reports/022/S22787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rockland (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>UFOhttps://www.youtube.com/watch?v=nPUhuDl9HC8  Video was took in Rockland, Maine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119766.html](http://www.nuforc.org/webreports/reports/119/S119766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
