@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 14 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Line Lexington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Series of about 7 orange circular objects flying through the sky.There was a series of at least seven objects flying through the sky.  The objects were small, circular, and orange.  The objects all seemed to come from the same general location and move towards another separate but common location (From the NE to SE).  The objects did not make any noise.  They moved faster than a helicopter but slower than a plane.  They all seemed to fade out of view around the same area but there were not many clouds in the sky. We tried to film the objects with a camera but were unsuccessful in really capturing anything worth sending in.  Background of Witnesses – Teacher, Structural Engineer, Marketing Consultant, and Custom Clothing Entrepreneur.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110228.html](http://www.nuforc.org/webreports/reports/110/S110228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of lights seen in southwest skyWe live in north Phoenix - Tatum Ranch, near Tatum and Dynamite.  Three members of my family saw apparently the same light formation shown in the photo that appears on the main page of this website.  We watched it for approximately five minutes from our back yard before it blinked out.  The "formation" of lights appeared to our southwest - barely above the horizon in the far distance and were amber colored and "flickering".  We also watched through binoculars.  From our perspective the lights didn't appear to be moving, but appeared to be a great distance away and we couldn't see different colors.  This sighting brought to mind the "Phoenix Lights" phenomena of March '97 and the videos shown of the so called "flares".  We didn't hear anything mentioned about the lights that night on the local news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37724.html](http://www.nuforc.org/webreports/reports/037/S37724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
