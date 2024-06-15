@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:35 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Guaíba (Brazil) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00:00:30 - 00:00:30 minutes.</sub><blockquote><sub>Estava em frente a minha casa de veraneio olhando para o céu para os lados do oeste e vi um objeto esférico de cor azul como uma bolha de gás a uma altura de 10 m do solo se deslocando na horizontal como um mini cometa.((NUFORC Note:  Date in 1974 is approximate.  If someone can translate from Portugese for us, I would be grateful.  PD))((TRANSLATION FROM A READER/JUNE 2ND, 2004))Hello Peter.I don't know if you got the translation for this yet (below), so here's my lil help. "I was in front of my vacation house, looking at the sky, facing west, then I saw a spheric blue object, like a gas bubble. It was about 10 meters from the ground level, moving horizontaly like a mini comet."  ((I assume she means moving fast by that.))If you ever need any translations from portuguese or german, please feel free to email me at any time. kind regards,  ((name deleted))((END))((NUFORC Note:  We express our gratitude to this translator of Portugese and German for providing the translation!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28562.html](http://www.nuforc.org/webreports/reports/028/S28562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Scarsdale (NY) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Im not sure what im reporting. Perhaps a close encounter from my childhood? I really dont knowI see all these posts about things happening in the past. I might as well share my one unexplainable experience. It either occured in 92 or 93. I know this because my youngest sisters crying woke me up in the very early hours of the morning and at that time she must have been one or two yrs old. Im guessing between 1 and 3AM this event occured. I was laying on my bunk bed which was placed against the wall, which right on the other side was my baby sister. Her crying not only woke me up, but my parents also. And in a minute i could hear my stepdad walking across the hardwood floor of the living room to tend to my sister. I awoke facing the wall inches from my face. I turned on my opposite side to get more comfortable and i saw something standing two feet away from my position in my room. I had not a clue as to what it was. But whatever it was it was not there when i had gone to sleep. It was as tall as my bunk bed, so i was horizontal with the upper portion of it. i was very scared, frozen into staring at it. I saw no discernable features, it didnt move, but it definately was smooth (skinned?) cuz the only light from the fishtank around the corner allowed me to see it well enough. I stared for five minutes while right around the corner my stepdad tended to my sister. I was too scared to move or utter a sound, so i forced myself to turn back towards the wall, shut my eyes, and sleep. The next morning that space in my room was empty, exactly as it were when i went to sleep.I havent told any of my family about this, they already think im crazy. Ive told a few friends. But this is one of those childhood memories when i was about 8 or 9 yrs of age, before i knew anything about aliens or abductions. I KNOW it wasnt a nightmare. I hope my sharing this helps someone out there, and i could care less if im believed or not.((NUFORC Note:  Date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27966.html](http://www.nuforc.org/webreports/reports/027/S27966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
