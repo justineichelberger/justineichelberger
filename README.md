@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brainerd (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>First we Seen this weird light shoot across the sky.  Light orange in color.  On highway 2 in Pine Center, MN, but I'm not exactly sure if this was a UFO or not but, my boyfriend and i were driving back from grand casino mille lacs taking the back roads (highway 2).  As soon as i took the left towards the pepsi plant something very strange happened.  It was like i went deaf and could hear nothing.  Not even the sound of my own breathing, while this was happening i had seen glittery sparks over my eyes for about 7 seconds.  Keep in mind we are driving while this is happening.  Then as soon as the weird glitter sparks were gone i had noticed NOTHING around me had changed!!!  It was like we had went through this weird cut in time or something?!  I started to freak out and preceded to ask my boyfriend if he had just experienced the same thing but, before i even had time to ask him, he asked me. "did you feel that?!?!"  I'm not sure if this was some kind of slice in time or if it was the aliens messing with us??  Or maybe we were abducted or something and just didnt realize it.  Whatever it was, we were both really freaked out.  Also, note that we are/were completely sober people.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108353.html](http://www.nuforc.org/webreports/reports/108/S108353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>huge metal ball shaped ship hanging low in air then moved away at 2 o'clock angle at great speed.my brother a friend and i, at about 3pm in the afternoon looked up and saw a space ship. it was huge like a big silver metal ball hanging in the air below the clouds (it was sunny with a few low puffy white clouds against a clear blue sky) .it was perhaps three times as long a dc-10 airplane, it had no markings and no seams.we stood their looking and it knew we saw it.i taped my friend with my left elbow and wispered go get somebody trying not to move my lips but it knew somehow and before my friend could turn around the ship shuttered and moved away at about a 2 o'clock angle at great speed, their was no sound or exhaust.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31358.html](http://www.nuforc.org/webreports/reports/031/S31358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
