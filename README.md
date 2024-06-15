@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Romania () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>A round disk with a green colour all around it and a red one under.The UFO has been noticed by my step mom and my dad as they were driving on the way home (I've always know that there're UFOs out there, but my dad's experience strenghed my testimony). So they were driving home one night, in the middle of nowhere down a public road around 11:oo PM at night, and they still had at least 4 hours of driving until thy would get home. The road on both sides had trees, pretty tall ones, poplars i think. For some reason my step mom bent forward and looked up through the car's windshiled and about the height of the tree tops ABOVE thier car she saw the UFO.  They said it was round and and it has green lights on around the edge(but the light wasn't been produced as if there were light bulbs inside)..........it was something plain. And then she told my dad that there is a UFO above their car, and when my dad got to look the UFO was gone somewhere on the right side of my dad but WAY doen the fields, so he only got to see it go really quick, leaving the place which was bove thier car. That lasted about 8 second. NOW I BELIEVE IT>((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53860.html](http://www.nuforc.org/webreports/reports/053/S53860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Rectangular very bright and big green object seen over Madison, AlabamaOn the night of June 15, 2019, I went to my backyard and walk to the middle and something like a very far, distant noise made me to turn my head to the sky, completely over my head.As I was looking, I realize it was a very bright and intense green light coming from an big object or whatever it was.  I looked at intervals during 1 or 2 minutes, and then suddenly, I understood that something was not right, because it was big, kind of square and it didn’t move.So I continued looking, went inside, came back, and it was still there, just over me.  I went inside again and thought that I should take a picture, but I didn’t want to leave it alone and loose it maybe.  So I came back again to the backyard and it was still there, not moving.  I could feel some kind of energy.This time I went inside and grabbed my iPhone, and I focused over my head looking directly to the “object”.  In the instant I took the picture the “big object” moved in a fraction of second to the right and just disappeared.I am a retired Biologist and Full Professor of Cellular biology graduated in Venezuela.  I lived 13 years in Atlanta, GA and 3 years in Alabama.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146969.html](http://www.nuforc.org/webreports/reports/146/S146969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
