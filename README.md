@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>1979 ufo  and entities sighting up closeWalking home from my grandmas house with my father.  Seen a bright star and pointed it out  to my father.  It got his attention and we stopped and stared.  My father said it was too close to be a star.  I said then its an airplane.  My father said no its moving too slow to be an airplane. So we stared as it slowly approached us.  As it got closer it looked like two stars connected then it disappeared,invisible.  It appeared to us within seconds a saucer right above the telephone pole on a residential street!  The bottom was spinning fast with bright blinking lights there was a huge window with a bright white light and two silhouettes with oval shaped heads one taller than the other the four of us staring at each other.  Then the window was gone and it began moving slowly up higher and higher then it moved in a zig zag the last move it sped off so fast faster than anything on earth and it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97799.html](http://www.nuforc.org/webreports/reports/097/S97799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1952, an anonymous witness in Timmins (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately hours - hours minutes.</sub><blockquote><sub>1952 disks and missing timeHummm well...when I was 11 or 12 yrs old, my father told me that he and my Brother had seen several disk shaped, silvery-gray-whitish object over the city of Timmins in the summer of 1952/53? (not exactly sure of time, I wasn't there).  He told me this in 1962, I was 11 or 12 at that time so my brother was 4 or 5 yrs at the time of the sighting, since he is 2 1/2 yrs older than me. He does not remember this. Maybe this is more interesting.  That same yr 1962 around the last week in Aug.  I was walking home from town, I have walked this road a million times so I know exactly how long it takes under many different circumstances.  The point is...between 2 foot steps and 2 flashes of light...I lost 2:20 minutes of time.  I am willing to give up the 20 minutes as just misplaced, however not the 2 hours.  I went absolutly nutz for two days tring to figure out how and where I lost 2 hours, to the point of my head really hurting me. At this point I felt (somehow) that if I stoped thinking about it, the pain would stop, and it did.  It was years before I could recall this without pain.  Between the 2 foot steps, I nearly stumbled and caught myself from falling at that point a drop of blood fell on my right hand, I reached to my forhead and felt a small indentation (I've often wondered about an implant). AND one night while watching TV, a very high pitched sound filled the room and the 1/4 inch plate glass over the picture tube...shattered, I was then that I realised/wondered if it came from me as I felt a strange sensation over my right eye.  OK well thats a mouthfull for now. This is all I wish to disclose about myself at this time.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32325.html](http://www.nuforc.org/webreports/reports/032/S32325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
