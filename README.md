@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:27 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Ecorse (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 disk-like aircraft moved around another in the night sky, lined up and took off at the speed of lightI am not sure about the date.  It was 1997 or 1998.  I was in Ecorse, Michigan, going through the backdoor of a friend’s house, when I looked up at the night sky and saw 5 disk-like aircraft moving around one another when all of the sudden they all lined up and took off at the speed of light. It was stunning.  They were not normal aircraft or anything I have ever seen.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122848.html](http://www.nuforc.org/webreports/reports/122/S122848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ontario (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>About 12 orange fireballs seen moving in an eastward flight pattern in Ontario, NY, on Saturday, June 15th, around 10:30 pm.One elementary school teacher and one  computer programmer were driving on County Line Road in Ontario, NY, off of Lake Road. We saw orange balls of light in the sky, moving swiftly eastward.  There were about five at first, then some in pairs and some alone, all on the same flight pattern.  We pulled over to the side of the road to watch.I took a movie of them on my iPhone.  A car with a man and a woman pulled up alongside ours and the woman asked if we knew what those things were-we said we did not. (It should be noted that about three years agoe we did see two orange fireballs in Brighton, NY (in Rochester) on Monroe Avenue, that looked exactly like these, except they moved in an elliptical pattern around each other.  These ufos moved in a straight line at a steady, consistent pace. We tried to follow the last one but they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98650.html](http://www.nuforc.org/webreports/reports/098/S98650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
