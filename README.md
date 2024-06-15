@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Thomasville (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saucer with red, green and white flashing lights over our horse pasture.I was 10 years old when my mom called me out on the porch and asked me if i see what she is seeing.  She was calling really loud.There was a saucer shaped craft hovering over the back side of our horse pasture 100 yards from our porch and about 20 feet off of the ground.  The horses ran back to the side of the pasture that the house was on.It had red green and white flashing lights around the middle edge.  You could clearly make out the saucer shape.It sat there about 10 minutes then slowly lifted straight up over the tree tops and flew away but not at a high rate of speed.  We could only hear a faint humming sound.I know it has been a long time since I saw this when I was a child but I will never forget it. My mom never wanted to say anything or let me because she thought people back then would think she was crazy.((NUFORC Note:  Date indicated for the incident probably is approximate, although the source of the report does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124624.html](http://www.nuforc.org/webreports/reports/124/S124624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>1979 ufo  and entities sighting up closeWalking home from my grandmas house with my father.  Seen a bright star and pointed it out  to my father.  It got his attention and we stopped and stared.  My father said it was too close to be a star.  I said then its an airplane.  My father said no its moving too slow to be an airplane. So we stared as it slowly approached us.  As it got closer it looked like two stars connected then it disappeared,invisible.  It appeared to us within seconds a saucer right above the telephone pole on a residential street!  The bottom was spinning fast with bright blinking lights there was a huge window with a bright white light and two silhouettes with oval shaped heads one taller than the other the four of us staring at each other.  Then the window was gone and it began moving slowly up higher and higher then it moved in a zig zag the last move it sped off so fast faster than anything on earth and it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97799.html](http://www.nuforc.org/webreports/reports/097/S97799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
