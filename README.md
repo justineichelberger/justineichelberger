@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it didn't make any sound, no light beams like a police helicopter, no vibration from rudder as one would expect from heli.one object seen, it flew very low about 10 story high,  making cicular paths, it made no sound and was flashing colored lights like oxydized green/red lights flashing in weird sequence. i couldn't make out the shape because it was night time and no decal or id visible, no self light. usually at that time of the hour you can pretty much hear car alarms or fire engine far away but, this flying machine didn't make any sound.((NUFORC Note:  Exact date is unknown, but we will attempt to have the witness reconstruct the date.  We have assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17624.html](http://www.nuforc.org/webreports/reports/017/S17624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gravette (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two moving objects in spaceIt was a clear night and I could see an object in space moving very quickly, like that of a satelite as seen in space by a human being on earth.  Then I noticed there was a second object hundreds of miles away from the first object, both moving in complete and utter sinc with each other.  It was two objects, because there were stars between them, but they seemed to mirror one another, never differing in distance from one another, both moving jaggedly but in complete sinc with one another, through space.  It struck me as the oddest thing I've ever seen.  Speaking nothing of the strangeness of their movements at such obvious distance from eachother, the things resembled satelites in color and size.  The whole thing lasted less than 5 minutes, until they were out of site beyond the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71954.html](http://www.nuforc.org/webreports/reports/071/S71954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
