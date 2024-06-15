@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gravette (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two moving objects in spaceIt was a clear night and I could see an object in space moving very quickly, like that of a satelite as seen in space by a human being on earth.  Then I noticed there was a second object hundreds of miles away from the first object, both moving in complete and utter sinc with each other.  It was two objects, because there were stars between them, but they seemed to mirror one another, never differing in distance from one another, both moving jaggedly but in complete sinc with one another, through space.  It struck me as the oddest thing I've ever seen.  Speaking nothing of the strangeness of their movements at such obvious distance from eachother, the things resembled satelites in color and size.  The whole thing lasted less than 5 minutes, until they were out of site beyond the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71954.html](http://www.nuforc.org/webreports/reports/071/S71954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Cod (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Bright white circle flying at a high rate of speed.Two friends and I were standing outside in the front yard having a smoke at this vacation rental property in Chatham (Cape Cod) at around 9:30 pm or 10:00 pm.  I glanced upward at one of the trees in the yard and through the branches; I noticed a bright white light flying in the sky at a fairly high rate of speed.At first I didn’t think it was unusual because I could only see it partially through the branches and it didn’t seem like a big deal, but then it picked up speed and changed direction a bit and started flying towards us.  I told my friends to look at it and tell me what it was. Well, both of them immediately said, “Holy crap!”  We knew it wasn’t a plane, satellite, helicopter or anything else manmade because this thing was HUGE and it was moving faster than any aircraft known to us.  We were watching it for about 60 seconds with a very clear view of it when all the sudden, it disappeared right in front of our eyes.My friends have never seen a UFO before and quite frankly, they think I might be a little crazy because I’ve seen so many of them over the years.  But all three of us knew that what we just saw didn’t have a reasonable explanation as it was definitely unidentifiable!!!  We told the other four people in the house about it and they of course thought we were crazy and they didn’t take it seriously at all.Also, about 11:30 pm, we went into the backyard to have one last smoke before bed and I noticed a very small white-greenish light flying about 15ft above us through the trees.  We don’t know if it was some kind of bug or not (although it would have been a little large for a bug), but we have no idea what that was either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110453.html](http://www.nuforc.org/webreports/reports/110/S110453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
