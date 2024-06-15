@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ontario (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>About 12 orange fireballs seen moving in an eastward flight pattern in Ontario, NY, on Saturday, June 15th, around 10:30 pm.One elementary school teacher and one  computer programmer were driving on County Line Road in Ontario, NY, off of Lake Road. We saw orange balls of light in the sky, moving swiftly eastward.  There were about five at first, then some in pairs and some alone, all on the same flight pattern.  We pulled over to the side of the road to watch.I took a movie of them on my iPhone.  A car with a man and a woman pulled up alongside ours and the woman asked if we knew what those things were-we said we did not. (It should be noted that about three years agoe we did see two orange fireballs in Brighton, NY (in Rochester) on Monroe Avenue, that looked exactly like these, except they moved in an elliptical pattern around each other.  These ufos moved in a straight line at a steady, consistent pace. We tried to follow the last one but they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98650.html](http://www.nuforc.org/webreports/reports/098/S98650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saugus (MA) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two groups of orange lights in Saugus, Massachusetts.Amidst the clear sky and full moon of June 15th, 2011, 4 objects of orange color and spherical shape rose in the sky travelling from an eastern position towards the northern sky.  Three of the objects travelled in a triangular pattern, while the fourth curved in the sky and disappeared into the bottom orange light. As the objects headed north the light of each began to dim until they completely disappeared.Roughly fifteen to twenty minutes later 6 to 7 objects of the same orange color and spherical shape rose in a similar triangular pattern heading in the same east to north route.  Their travel pattern was uniform, and once again all of the objects slowly faded at the exact time.At no time did any of the objects generate a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81800.html](http://www.nuforc.org/webreports/reports/081/S81800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
