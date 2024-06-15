@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Cod (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Bright white circle flying at a high rate of speed.Two friends and I were standing outside in the front yard having a smoke at this vacation rental property in Chatham (Cape Cod) at around 9:30 pm or 10:00 pm.  I glanced upward at one of the trees in the yard and through the branches; I noticed a bright white light flying in the sky at a fairly high rate of speed.At first I didn’t think it was unusual because I could only see it partially through the branches and it didn’t seem like a big deal, but then it picked up speed and changed direction a bit and started flying towards us.  I told my friends to look at it and tell me what it was. Well, both of them immediately said, “Holy crap!”  We knew it wasn’t a plane, satellite, helicopter or anything else manmade because this thing was HUGE and it was moving faster than any aircraft known to us.  We were watching it for about 60 seconds with a very clear view of it when all the sudden, it disappeared right in front of our eyes.My friends have never seen a UFO before and quite frankly, they think I might be a little crazy because I’ve seen so many of them over the years.  But all three of us knew that what we just saw didn’t have a reasonable explanation as it was definitely unidentifiable!!!  We told the other four people in the house about it and they of course thought we were crazy and they didn’t take it seriously at all.Also, about 11:30 pm, we went into the backyard to have one last smoke before bed and I noticed a very small white-greenish light flying about 15ft above us through the trees.  We don’t know if it was some kind of bug or not (although it would have been a little large for a bug), but we have no idea what that was either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110453.html](http://www.nuforc.org/webreports/reports/110/S110453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Beavercreek (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I thought it was ORINS BELT, it was something i thought i would never see in my lifetimeOne summer night me and my friend walking to my house cutting through yards, and for some reason we stopped and looked at the stars. I said look is orin belt, but it wasn't. It had to many stars on the belt. Instead of three there where five, i thought this was odd, as we starred and questioned what it was the first star on the left moved down and very quickly moved to the left behind the fifth star. After reaching its postion it did this circle motion in a counter clockwise motion while staying in its postion,it stopped and disapeared. I said,"did you see that"! As soon the words were spoken the second star did the exact samething....and so on until all five stars where gone. I didn't blink once because i didn't want to miss a thing. This is on in a million shot to see and i am glade me and my friend where there to witness something amazing! Believe me this wasn not airplane, it moved to quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56373.html](http://www.nuforc.org/webreports/reports/056/S56373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
