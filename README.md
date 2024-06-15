@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saugus (MA) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two groups of orange lights in Saugus, Massachusetts.Amidst the clear sky and full moon of June 15th, 2011, 4 objects of orange color and spherical shape rose in the sky travelling from an eastern position towards the northern sky.  Three of the objects travelled in a triangular pattern, while the fourth curved in the sky and disappeared into the bottom orange light. As the objects headed north the light of each began to dim until they completely disappeared.Roughly fifteen to twenty minutes later 6 to 7 objects of the same orange color and spherical shape rose in a similar triangular pattern heading in the same east to north route.  Their travel pattern was uniform, and once again all of the objects slowly faded at the exact time.At no time did any of the objects generate a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81800.html](http://www.nuforc.org/webreports/reports/081/S81800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately Sunset - Sunset minutes.</sub><blockquote><sub>A round  bright silver shinning saucer.It was sunset, the sky was turning orange. We were swinging on a swing set. When out of nowhere we look up and see a silver and shinny saucer. It was going too fast to be an airplane and there were no lights. It was there and gone in less than 10 seconds. We were amazed by the site.((NUFORC Note:  Date is approximate.  Source elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24065.html](http://www.nuforc.org/webreports/reports/024/S24065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
