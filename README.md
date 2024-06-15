@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:22 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lawrenceburg (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was watching the sky one night at about330am having no luck about to head into bed something caught my eye then to the right I saw a disc going from south to north clear night view from bottom was round with a copper look. It had two rows of lights the inside row was red w a outer row of red lights As It got farther away the side view I could see top had a bright red dome the bottom rows seemed to be spinning around in clockwise manner. I watched very carefully and made mental notes.  went toward Lexington, KY, 10 miles away.  watched till out of sight going higher in altitude not going over horizon like an airplane would It is a favorite hobby star searching and ufo hunting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114120.html](http://www.nuforc.org/webreports/reports/114/S114120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Ecorse (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 disk-like aircraft moved around another in the night sky, lined up and took off at the speed of lightI am not sure about the date.  It was 1997 or 1998.  I was in Ecorse, Michigan, going through the backdoor of a friend’s house, when I looked up at the night sky and saw 5 disk-like aircraft moving around one another when all of the sudden they all lined up and took off at the speed of light. It was stunning.  They were not normal aircraft or anything I have ever seen.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122848.html](http://www.nuforc.org/webreports/reports/122/S122848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
