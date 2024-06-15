@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Rectangular very bright and big green object seen over Madison, AlabamaOn the night of June 15, 2019, I went to my backyard and walk to the middle and something like a very far, distant noise made me to turn my head to the sky, completely over my head.As I was looking, I realize it was a very bright and intense green light coming from an big object or whatever it was.  I looked at intervals during 1 or 2 minutes, and then suddenly, I understood that something was not right, because it was big, kind of square and it didn’t move.So I continued looking, went inside, came back, and it was still there, just over me.  I went inside again and thought that I should take a picture, but I didn’t want to leave it alone and loose it maybe.  So I came back again to the backyard and it was still there, not moving.  I could feel some kind of energy.This time I went inside and grabbed my iPhone, and I focused over my head looking directly to the “object”.  In the instant I took the picture the “big object” moved in a fraction of second to the right and just disappeared.I am a retired Biologist and Full Professor of Cellular biology graduated in Venezuela.  I lived 13 years in Atlanta, GA and 3 years in Alabama.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146969.html](http://www.nuforc.org/webreports/reports/146/S146969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it didn't make any sound, no light beams like a police helicopter, no vibration from rudder as one would expect from heli.one object seen, it flew very low about 10 story high,  making cicular paths, it made no sound and was flashing colored lights like oxydized green/red lights flashing in weird sequence. i couldn't make out the shape because it was night time and no decal or id visible, no self light. usually at that time of the hour you can pretty much hear car alarms or fire engine far away but, this flying machine didn't make any sound.((NUFORC Note:  Exact date is unknown, but we will attempt to have the witness reconstruct the date.  We have assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17624.html](http://www.nuforc.org/webreports/reports/017/S17624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
