@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:05 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>High flying, fast, large white object Eastern WashingtonI was waiting at the Hastings Park and Ride bus Terminal in North Spokane.  I was waiting for the 11:55 am bus headed north to my home in Deer Park.  I estimate the time to be about 11:30 am.  I was facing north and I happen to look up at the sky to see a very large, white object heading east to west at height and with speed.  What surprised me was the speed it seemed to travel and the size it was.  Normally, when one sees a plane at that height the plane is small, hard to see, and moving at a speed that appears slow to our relative perspective.  This white colored object, however, was 3 to 4 time larger that a plane would be at that height and is travel through a large cloud break at a very fast pace.  Much faster than any convention planes I’ve ever seen.  Oddly enough it also left no condensation trail of any kind.  I would normally discount this as the sun reflecting off an airplane but I can still not account for the size of this thing, the lack of any type of condensation trail, and the speed it was moving at.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110287.html](http://www.nuforc.org/webreports/reports/110/S110287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Butler (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>I don’t know if it was a Udo or whatever, but when I was in about fourth grade I saw what I thought was a man fall from the shy.  I remember running to my dad and telling him a man fell from the sky, but by the time I got him outside we couldn’t see anything.  It looked like a man with a helmet (like an astronaut helmet).  My dog was in the yard at the time and began  to bark like crazy, but I don’t know if it was towards whatever I saw or something else..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144901.html](http://www.nuforc.org/webreports/reports/144/S144901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
