@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eden (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two unknown sets of amber lightsLast night at approximately 10:45, my husband and I  viewed 2 sets of unusual lights.  He (being an ufo skeptic) was the one who first spotted them and he said they looked "strange". There were 2 sets of 3 amber lights flying in unison.  The amber lights were in a line with a blinking light underneath the center one.  They were directly overhead when first spotted then traveled due East. They stayed in the same position the entire sighting, one in front, the other following directly behind and there was no sound.  I observed them through binoculars and couldn't make out any solid craft but the lights were definitely amber.  We observed them until they faded from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89671.html](http://www.nuforc.org/webreports/reports/089/S89671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately riding bike - riding bike minutes.</sub><blockquote><sub>THE OBJECT I OBSERVERD ON THAT HOT SUMMER DAY IN SOUTHERN CALIFORNIA WAS SAUSER SHAPE. GRAY, SILVER IN COLOR AND MADE NO SOUND BUT TRAVELING AT VERY HIGH SPEED,AND ABOUT 300-400FT.ABOVE GROUND.AT HIGH TREE LEVEL,COMING FROM BIG BEAR MOUNTAIN GOING WEST TO L.A.TO THE COST.I WAS MABE 11-12 BUT STILL OLD ENOUGH TO UNDERSTAND WHAT I JUST WITTNESS,EVEN IF I WAS ONLY FOR A SPLIT SECOND.AM 30YRS.OLD NOW AND THIS IS MY FIRST TIME REALLY BEING ABLE TO TELL MY STORY TO THE WORLD,AND I AM A 100% TRUE BELIEVER.AND WOULD LIKE TO KNOW HOW I CAN GET MORE INVOLVED IN YOUR KIND OF WORK AND TOO LET THE PEOPLE KNOW THE TRUTH.SO THAT THE GOVERNMENT INSIDE THE GOVERNMRNT WILL BE EXPOSED.((NUFORC Note:  Date is approximate.  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17656.html](http://www.nuforc.org/webreports/reports/017/S17656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
