@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The UFO/plane/missile was very high and traveling very fast.  The direction of flight was from Area 51 towards the Edwards Air Force base area.  The photo was taken at a WSW trajectory from the Henderson/Las Vegas NV area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129536.html](http://www.nuforc.org/webreports/reports/129/S129536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Milan (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A  chrome, sphere shaped object  that flew into a small cloud.I had gone out to the local YMCA to walk on an outdoor track they have. As I was walking, something in the sky caught my eye. When I looked up, there was a bright silver(chrome), sphere shaped object approximatly 1000 ft. in the sky. It was moving slowly at a forty-five degree angle toward a small cloud. I just stopped to watch as the object entered the cloud. I couldn't believe what I was seeing. It was not a plane or a helicopter,and it made no sound. I stood for awhile waiting for the object to come out of the cloud, but it never did. I never saw it again. There may be a ration explaination for this,but I have never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37671.html](http://www.nuforc.org/webreports/reports/037/S37671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
