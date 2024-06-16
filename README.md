@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:24 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Southold (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3:00 - 3:00 minutes.</sub><blockquote><sub>fast moving noiseless fire-ry orange glowing ball flying in airOne fireball was hovering over long island sound.  Saw between kenneys beach and goldmsmith's inlet.  Saw it for 1 minute or so.  It faded (looked like it was moving toward ct).  Then, it returned quickly, hovered over the shoreline for about 10 seconds, amd then flew away quickly towards ct.   No noise.  Just a firery orange glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89639.html](http://www.nuforc.org/webreports/reports/089/S89639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winchester (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orange-red "star-like" light moving at high rate of speed observed in East-Central Indiana, USA on 6/16/11I was star-gazing in the vicinity of the Big Dipper (north/north-west sky).  I saw what at first appeared to be just another star in the night sky. Then it started moving at a fairly good speed.  It was orange-red in color----looked just like a star, about 2.5-3.0 level magnitude of brightness.  It was not a meteor----too slow for that.  It was not a jet or any other conventional aircraft.  Too fast for that.  It was not an orbital satellite---too fast.  From my vantage-point in East-Central Indiana, I first observed it outside of the area of the "dipper" part of the Big Dipper.  It moved "through" the Dipper & out of it---then it vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81815.html](http://www.nuforc.org/webreports/reports/081/S81815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
