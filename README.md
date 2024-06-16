@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Zwolle (Netherlands) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 bright orange lights in the sky over Zwolle, NL, Europe on late Saturday night, June 16th. WItnessed them with my girlfriend.First i saw one bright orange light/sphere (?) and thought of a plane at first (considering the highth), but the light was just orange and way to bright..  Then thought of a private balloon (but it was too late, and it moved to fast!), then i saw another one, a 3rd one and a 4th one. .. Instead of searching for my cellphone to film it, I stood there watching (bummer!),  I called my girl-friend, who watched them too.  By the time they drifted/flew to the other side of the rooftops, she tried to find them in the skies in the front yard...but they had vanished...What are these things?  Hope to find more reports on them (just saw one/my first one...on your site, so...)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89998.html](http://www.nuforc.org/webreports/reports/089/S89998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Freeport (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports witnessing w/ 6 adults a "flashing red triangle" that appeared, disappeared suddenly in rapid sequence several times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00881.html](http://www.nuforc.org/webreports/reports/000/S00881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
