@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Freeport (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports witnessing w/ 6 adults a "flashing red triangle" that appeared, disappeared suddenly in rapid sequence several times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00881.html](http://www.nuforc.org/webreports/reports/000/S00881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>I have been seeing a flickering white light, last evening again,much brighter than a star, it hovers and moves around the sky.I have seen this light many times over the last year and half. I have seen it clost to my house and at a bit of a distance. It is much brighter than the stars and it is obvious that is moves and hovers. I watched it last night for 1 & 1/2 hours then watched it fade away. On one occasion last October I saw a craft right over my house, travel very slowly to tree line, meet with another light, about 1/2 mile from my house and hover there for less than an hour. When it was over my house it was blinking red and white. When it is at a distance, last evening for example, it is a bright white light. I live south of Spokane, just west and north of Spangle. I live on 10 acres in the open and have always noticed this light to the west of me. Have you had any other reports of this type in this area?((NUFORC Note:  Report appears consistent with a sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23327.html](http://www.nuforc.org/webreports/reports/023/S23327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
