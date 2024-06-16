@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately riding bike - riding bike minutes.</sub><blockquote><sub>THE OBJECT I OBSERVERD ON THAT HOT SUMMER DAY IN SOUTHERN CALIFORNIA WAS SAUSER SHAPE. GRAY, SILVER IN COLOR AND MADE NO SOUND BUT TRAVELING AT VERY HIGH SPEED,AND ABOUT 300-400FT.ABOVE GROUND.AT HIGH TREE LEVEL,COMING FROM BIG BEAR MOUNTAIN GOING WEST TO L.A.TO THE COST.I WAS MABE 11-12 BUT STILL OLD ENOUGH TO UNDERSTAND WHAT I JUST WITTNESS,EVEN IF I WAS ONLY FOR A SPLIT SECOND.AM 30YRS.OLD NOW AND THIS IS MY FIRST TIME REALLY BEING ABLE TO TELL MY STORY TO THE WORLD,AND I AM A 100% TRUE BELIEVER.AND WOULD LIKE TO KNOW HOW I CAN GET MORE INVOLVED IN YOUR KIND OF WORK AND TOO LET THE PEOPLE KNOW THE TRUTH.SO THAT THE GOVERNMENT INSIDE THE GOVERNMRNT WILL BE EXPOSED.((NUFORC Note:  Date is approximate.  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17656.html](http://www.nuforc.org/webreports/reports/017/S17656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Blue Mound (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange triangle ship petrifies me and ruins my cd player.This is my second sighting, but this time a different object, and ALOT bigger. It looked atleast the size of a football field, but more square on the bottom. I was sitting at the front of my garage with the door open and my, my huge speakers were on really loud playing Guns N' Roses - Night Train, then the triangular shaped thing came from the sky, I'm really just guessing it was triangular shaped because it was cloudy, and all i could see was the bottom half, but it angled in like a triangle. It was spinning kind of slowly, it had 3 bright blue lights under it, and it had blue lights moving around all over it, kind of how the white strips are on a microchip, but they pulseated, and i was petrified in my chair, i seriously couldnt move, I tried to get my camera but i was stiff in my lawn chair at the edge of the garage. then the blue lights under the triangle turned white for about the last minute it was there, then it made a loud tornado siren like noise and it dissapeared, then finally i was un petrified and i looked back at my cd player and it was steaming, i went back to open it and rescue my cd before it melted and the cd player was jammed shut!((NUFORC Note:  Witness indicates that the date of the sighting event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45610.html](http://www.nuforc.org/webreports/reports/045/S45610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
