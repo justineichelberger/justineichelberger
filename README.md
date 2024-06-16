@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 15 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Beavercreek (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I thought it was ORINS BELT, it was something i thought i would never see in my lifetimeOne summer night me and my friend walking to my house cutting through yards, and for some reason we stopped and looked at the stars. I said look is orin belt, but it wasn't. It had to many stars on the belt. Instead of three there where five, i thought this was odd, as we starred and questioned what it was the first star on the left moved down and very quickly moved to the left behind the fifth star. After reaching its postion it did this circle motion in a counter clockwise motion while staying in its postion,it stopped and disapeared. I said,"did you see that"! As soon the words were spoken the second star did the exact samething....and so on until all five stars where gone. I didn't blink once because i didn't want to miss a thing. This is on in a million shot to see and i am glade me and my friend where there to witness something amazing! Believe me this wasn not airplane, it moved to quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56373.html](http://www.nuforc.org/webreports/reports/056/S56373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>High flying, fast, large white object Eastern WashingtonI was waiting at the Hastings Park and Ride bus Terminal in North Spokane.  I was waiting for the 11:55 am bus headed north to my home in Deer Park.  I estimate the time to be about 11:30 am.  I was facing north and I happen to look up at the sky to see a very large, white object heading east to west at height and with speed.  What surprised me was the speed it seemed to travel and the size it was.  Normally, when one sees a plane at that height the plane is small, hard to see, and moving at a speed that appears slow to our relative perspective.  This white colored object, however, was 3 to 4 time larger that a plane would be at that height and is travel through a large cloud break at a very fast pace.  Much faster than any convention planes I’ve ever seen.  Oddly enough it also left no condensation trail of any kind.  I would normally discount this as the sun reflecting off an airplane but I can still not account for the size of this thing, the lack of any type of condensation trail, and the speed it was moving at.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110287.html](http://www.nuforc.org/webreports/reports/110/S110287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
