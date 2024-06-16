@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Neenah (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My boyfriend and I were up early this morning and as we were watching the sky, this circle shaped object and red objects darted across the sky.  Since EAA is starting down here I just blew it off like it was something they were experimenting with.  But as we sat snd watched the more interesting i thought it was snd began recording.  Mind you I have an iPhone 11 so video quality isn’t exactly top notch.  There were 100s if not 1009s of these things!  It was early morning sky just before dawn so it’s still pretty dark out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163716.html](http://www.nuforc.org/webreports/reports/163/S163716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At 11:45am, atop Mt Soledad, a group of 10 small silvery orbs were observed by myself and a contractor. to the East up at an elevation of 45 degrees above the horizon.  All 10 appeared to be connected, as if there was a tether, because the distances and directions from each other didn't vary although a small perceive drift was noted of the entire group.  It almost appeared as though these were small silver balloons connect by string.  They were loosely arranged in a line, but poorly so.  I watched for three minutes and had to enter a building for work and upon return 1 minute later they were nowhere to be found.  That's where the silvery-chrome balloon theory fell apart.  Amazing.((NUFORC Note:  Source of the report elects to remain anonymous; provides llittle contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134656.html](http://www.nuforc.org/webreports/reports/134/S134656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
