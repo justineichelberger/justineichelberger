@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing bluish white light blinking in and out of view , all over the early morning skyAt approximately 5:45 Am, on Monday, June 16, I was walking my dog, when I noticed an exceptionally bright "light" in the sky.It was in the western area , at about 80 degrees.It was about the size of Venus at that hour, maybe a bit bigger.The bluish white glow from it was exactly that...more of a glow, instead of a light.I watched it for a couple of seconds and it disappeared...blinked right out. Then, quite suddenly, it blinked back into view, but in the eastern sky, and at about the same level of view, about 80 degrees.And again, seconds later...it was gone. This behavior took place for approximately 10 minutes or so, with the light blinking in and out of view at different areas of the sky...and fairly good distances from each other...in a matter of seconds between blinking out of view and blinking back into view in a completely different area of the sky.And the activity was NOT in a straight line, but all over the sky. There was no contrail...no sound...just blinking in and out of sight, in no particular pattern. As a point of information, there were no clouds. The atmosphere was quite clear.And there were no other lights associated with this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63972.html](http://www.nuforc.org/webreports/reports/063/S63972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Andover (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange fireball flies across the dark evening skyOn JUNE 16TH about 11:50pm, we were outside and noticed a very bright orange object appearing such as a fireball in the sky.  It was coming from the Southeast and heading northward. It stayed on a direct path with no turns or pauses.  It was the only flying object that was in the sky at the time.   We watched this object for about a minute.  It was flying quite fast, but not as fast as a meteor, but not as slow as an airplane would.  This orange glow did not change in any shape, form or color. No sound was emitted in the evening quiet.  It just flew by over the blackness of the night sky, and headed North to Northwest and then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89672.html](http://www.nuforc.org/webreports/reports/089/S89672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
