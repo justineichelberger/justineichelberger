@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Great Bend (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Three bright lights hovering over Great Bend Kansas..ok i was driving with my friend after eating subway,and we spoted three extremley bright lights in the sky for about 5 or 7 seconds then all of a sudden they just went out..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63933.html](http://www.nuforc.org/webreports/reports/063/S63933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lakewood (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Sighting 6/16/2012 in Lakewood/Tacoma, WA --2  Glowing Orange Circular Objects seen 3-5 minutesI was driving home at approximately 10:00 pm in Lakewood/Tacoma, WA and notices two circular glowing orange objects in the sky flying towards the east and it lasted 3-5 minutes and then they just disappeared. We also passed other bystanders on the street corner who also noticed the objects in the sky and they were also pointing up at them.  At first I thought it might be an asteroid on fire or a plane on fire but there was nothing in the news that evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89692.html](http://www.nuforc.org/webreports/reports/089/S89692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
