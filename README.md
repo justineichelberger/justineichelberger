@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:24 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Unusual Orange Orbs spotted over Bend, ORSaw some strange lights in the sky tonight and just had to Google to see if there was an explanation.  Sounds like there are a lot of other people who have had similar experiences.  About 10pm tonight in Bend, OR, clear night, we came out of my parents home and our daughter said "Momma, what's that in the sky???"   My husband and I looked up to see a bright orange orb traveling through the sky (NE to SW) traveling at about a plane's pace.  Brighter than a plane would be and as it started to fade, I really paid attention. It had a light on it that was revolving around the outside until it finally disappeared. Never seen anything like it before.  We then started to drive and saw another one within a minute.  Stopped to watch and it, too, disappeared (traveling east to west). Didn't see the revolving light this time, however, it was not directly overhead as the first one had been.  Within 30 seconds, we spotted the 3rd orane orb coming from the south and trav! eling across the sky to the North, slightly west. What in the world are these things?  We were thinking maybe a new firework that has some amazing fading quality and can travel across the sky at the same height without falling before fading.  I also read about the chinese lanterns.  Not totally convinced, but maybe.  All three seemed to be traveling about the height of a local, lower flying plane and horizontally across the sky.  Can't wait to find out what they are!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89647.html](http://www.nuforc.org/webreports/reports/089/S89647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Southold (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3:00 - 3:00 minutes.</sub><blockquote><sub>fast moving noiseless fire-ry orange glowing ball flying in airOne fireball was hovering over long island sound.  Saw between kenneys beach and goldmsmith's inlet.  Saw it for 1 minute or so.  It faded (looked like it was moving toward ct).  Then, it returned quickly, hovered over the shoreline for about 10 seconds, amd then flew away quickly towards ct.   No noise.  Just a firery orange glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89639.html](http://www.nuforc.org/webreports/reports/089/S89639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
