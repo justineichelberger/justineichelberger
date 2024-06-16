@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:05 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:54 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Butler (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>I don’t know if it was a Udo or whatever, but when I was in about fourth grade I saw what I thought was a man fall from the shy.  I remember running to my dad and telling him a man fell from the sky, but by the time I got him outside we couldn’t see anything.  It looked like a man with a helmet (like an astronaut helmet).  My dog was in the yard at the time and began  to bark like crazy, but I don’t know if it was towards whatever I saw or something else..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144901.html](http://www.nuforc.org/webreports/reports/144/S144901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Small disk, 5 bright blue lights on side, moved fast and smooth.Small disk,5 blue/green lights,moved faster than normal airliners that fly by.Strange noise 3 to 4 seconds after sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81820.html](http://www.nuforc.org/webreports/reports/081/S81820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
