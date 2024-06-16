@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:54 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Small disk, 5 bright blue lights on side, moved fast and smooth.Small disk,5 blue/green lights,moved faster than normal airliners that fly by.Strange noise 3 to 4 seconds after sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81820.html](http://www.nuforc.org/webreports/reports/081/S81820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eden (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two unknown sets of amber lightsLast night at approximately 10:45, my husband and I  viewed 2 sets of unusual lights.  He (being an ufo skeptic) was the one who first spotted them and he said they looked "strange". There were 2 sets of 3 amber lights flying in unison.  The amber lights were in a line with a blinking light underneath the center one.  They were directly overhead when first spotted then traveled due East. They stayed in the same position the entire sighting, one in front, the other following directly behind and there was no sound.  I observed them through binoculars and couldn't make out any solid craft but the lights were definitely amber.  We observed them until they faded from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89671.html](http://www.nuforc.org/webreports/reports/089/S89671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
