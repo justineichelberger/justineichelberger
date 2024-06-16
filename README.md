@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 16 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fairfield (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>4 lights racing across the sky, then stop for a split second, one semicircles the others then all take a 90 degree turn and race away.On a perfectly clear starry night we observed 4 objects streaking across the sky from the southwest to the northeast. As they approached, all in the formation changed speed and position with the trailing object second from the right overtaking the other 3. As this happened, all four came to a stop, the one in the lead circled back around, making a right hand turn. This stop and turn took less than a half second. All 4 objects then streaked away to the north/northwest at an incredible rate of speed. The entire event lasted less than 4 seconds, all four objects crossed the entire visible sky in this time. The altitude of these objects looked to be at least at the extreme limits of the atmosphere. To give a relation of the amount of time involved, I saw the objects racing across the sky and told my brother to "Look at that!" and before I could say "meteor" the objects stopped, one in the lead made a semi circle right hand turn to line itself back in the formation and the other 3 made a 90 degree left turn and raced out of sight. Each object was reddish orange in color and roughly the size of a bright star in the sky. None left a trail, they resembled a satelite as it tracks across the sky, but the speed of them along with stopping, circling and changing directions in split seconds leaves this out as anything manmade. A few minutes later, a jet airplane took a similar route but took approximately 7 minutes to cover a lesser portion of the sky, I mention this as a speed comparison only. The only other object I've ever seen with comparable speed were shooting stars. None of these stop or change directions though. All the shooting stars I've ever witnessed also left a trail. These objects left nothing in their wake, no trail no sound. Just incredible raw speed and manuverabilty. The 4 objects were not trailing one another but were in a formation, roughly equal distances apart and varied speed that changed their position as to which was leading. When 3 came to a stop, it was only long enough for the one that overran the formation to circle back, the 3 that momentairily stopped immediatley resumed the speed from before and raced out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51012.html](http://www.nuforc.org/webreports/reports/051/S51012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Great Bend (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Three bright lights hovering over Great Bend Kansas..ok i was driving with my friend after eating subway,and we spoted three extremley bright lights in the sky for about 5 or 7 seconds then all of a sudden they just went out..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63933.html](http://www.nuforc.org/webreports/reports/063/S63933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
