@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:04 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Clinton Township (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light Seen in Clinton TownshipI was on my way back from working on my boat, when i noticed what looked like a bright light in the sky. It hovered for about 2 minutes then it faded out.((NUFORC Note:  Without more details about the sighting, we are unable to form an opinion as to what the individual witnessed.  Depending on the direction the witness was looking, the object may have been Mars, which may have been obstructed by light cloud.  That is only a possibility, however.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18168.html](http://www.nuforc.org/webreports/reports/018/S18168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chester (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>a small, yellow, plain disk that hovered slowly moving down the back road.I saw it in the middle of the day and it was sunny outside. I looked out the window, into my back yard, and saw something yellow moving from behind the trees above the back street. I thought it was some kind of yellow bird, so I watched it as it came into view. When it came out from behind the trees I saw that it was disk-like in shape, and from where I saw it looked about two-three feet wide. It was just plain light yellow with no special markings or lights or anything. It was hovering a little lower than the power line but not directly under it and it gradually moved up higher above the power line. It moved slowly from the left to the right of my view, lightly bobbing up and down as moved. I watched it disappear behind more trees. My dad, my grandma, and other people in my family have all claimed that they've seen UFO's. I'm pretty sure I was the only one that saw it. I was about 10 or 11 years old.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72753.html](http://www.nuforc.org/webreports/reports/072/S72753.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
