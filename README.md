@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chester (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>a small, yellow, plain disk that hovered slowly moving down the back road.I saw it in the middle of the day and it was sunny outside. I looked out the window, into my back yard, and saw something yellow moving from behind the trees above the back street. I thought it was some kind of yellow bird, so I watched it as it came into view. When it came out from behind the trees I saw that it was disk-like in shape, and from where I saw it looked about two-three feet wide. It was just plain light yellow with no special markings or lights or anything. It was hovering a little lower than the power line but not directly under it and it gradually moved up higher above the power line. It moved slowly from the left to the right of my view, lightly bobbing up and down as moved. I watched it disappear behind more trees. My dad, my grandma, and other people in my family have all claimed that they've seen UFO's. I'm pretty sure I was the only one that saw it. I was about 10 or 11 years old.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72753.html](http://www.nuforc.org/webreports/reports/072/S72753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Overland (St. Louis) (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Slow moving sphere shaped object that lit up moving very slowly from the Northwest to Southeast in St. Louis Missouri.We were outside Bar B Qing and husband happened to look up and said "What the hell is that?" My daughter and I said, "What?" He said "THAT" and pointed. Then we saw what he saw. It was a round silver matalic color at first and then it turned bright yellow. Not sure if it was lit up like a fireball or if it was just reflecting the sunlight. It traveled very slowly from Northwest to Southeast. It went behind a cloud but you could still see the yellow shining through. It then came out of the clouds and continued in the same direction that it had been moving..still very slowly. The Bar B Q was done at about 7:18 pm so we brought it in the house. I then went out the front door and saw the object still slowly moving to the Southeast. I then came in and ate and went back outside but it was gone by then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44438.html](http://www.nuforc.org/webreports/reports/044/S44438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
