@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Licking (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three large bright lights were seen moving vertically in the sky, vanishing as quickly as they appeared.The lights were very large to us.  We could tell no form or shape.  They were very obvious to us, and we suspect others saw them.  They appeared to be very close, maybe 1 mile away.  They were very bright, and at first appeared to be a large tower.  However, the lights started moving vertically.Three large bright lights were seen from our front yard.  My boyfriend called me outside to see them because they were never present prior to this sighting. They seemed to be suspended in air, but we took the car to make certain there was no tower in the area; before we could get out of the driveway, the lights had disappeared.The three lights were originally horizontally lined evenly.  By the time I had joined my boyfriend outside, two had moved downward.  Within 20 seconds, and while getting into the car, one of the three zipped upwards and disappeared.  By the time we left the driveway, all three had vanished.We drove to where we had seen the lights.  At first we had suspected a tower in the area not seen prior to the sighting, but no tower was there.  We also thought clouds may have been a factor, perhaps hiding a tower, but there were no clouds as we approached the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23336.html](http://www.nuforc.org/webreports/reports/023/S23336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Memphis (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>ufo in a small townmy mom and i were on our way to my grandfathers house and they're alot of trees around and above the trees were 3 triangular ufos they had 3 lights on each side they were side by side. i screamed to tell my mom to look but she kept looking the wrong way so i just thought she was to scared to look. well the next day my two sons one is 16 my other is 6 and they  came and told me what they had   seen the night before they described  the exact same thing  except they saw 4 triangular ufos. it was really strange for us to see the same things but my 6 year old came in crying saying he saw an alien between the trees it was the weirdest thing ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45964.html](http://www.nuforc.org/webreports/reports/045/S45964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
