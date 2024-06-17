@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pleasant Hill (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Mysterious light in sky with 90 degree cornersI watched the white light for over half an hour.  It first travelled in a square pattern above my home, then changed to a rectangular pattern going more east bound.  At first I thought it was a plane but at each corner of both patterns it did 90 degree corners.  This was done at high speeds.  It was very high as evidenced by a plane passing in between my home and the white light.  I called the local news tv media but was discounted by whomever I talked with.  I tried taking a picture with cell phone but it didn’t show up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163954.html](http://www.nuforc.org/webreports/reports/163/S163954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>more details on report filed two hours earlierwalking west, we looked up. my friend saw the lights, i couldn't at first. i had to look, look again, and then squint. it was then that i saw them. > it was slowly moving southeast. the was large area with "flicker-ing lights" in the 'shape' of a huge triangle in the darkness. moving south east. the lights were blinking rapidly in what seemed to be a direction across the width of the triangle. the lights blinked so fast.> it was huge, the area which moved slowly across the dark sky.> we stood and watched for 5 minutes.> we were disoriented afterwards. i lost my keys, had to climb in a window. i banged my arm which was cut and profusely bleeding as i got in the house. suddenly it stopped and the cut is almost healing. it was a small inch wide cut. it left us both dazed and confused.></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64000.html](http://www.nuforc.org/webreports/reports/064/S64000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
