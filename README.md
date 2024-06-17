@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:43 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:23 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Portland (southeast) (OR) reported seeing craft that fit the description of some 'light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : Large brite white lights grouped together W/ one red light underneath.Driving west my friend & i saw this huge bunch of bright white lights grouped together w/ one red light underneath. It was in the shape of a blimp, But much wider. It did'ent seem to be moving and, We watched it till we drove by a hill & could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02280.html](http://www.nuforc.org/webreports/reports/002/S02280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Geraldton (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ufo had centre light that pulsated at irregular intervals and moved from side to side outside my window while it hovered in early morning.The ufo appeared outside my window in early morning at just after half past five. I know this as i looked at the clock several times. It was travelling at speed for a brief time then stopped and hovered. it had a central light bigger than the other lights and it pulsated at irregular intervals and at varying brightness. I could tell it was spherical by the lights on either side of the central light. After about five minutes it drifted slowly south and became a tiny star like dot as it moved. During the encounter i stood up and stared, blinked ect so as i knew i wasn't imagining. The central light also moved from side to side creating an eerie sensation. I believe that potentially i was being observed emotionally as i had aroused from a dream several minutes earlier and had been highly emotional and had cried. After this i looked out the window and there was the ufo. So perhaps they were formulating thoughts and actions however that would seem pathetic and ridiculous. However it did seem that they were attempting to get my attention for whatever reason.((NUFORC Note:  Student report.  Probable hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57696.html](http://www.nuforc.org/webreports/reports/057/S57696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
