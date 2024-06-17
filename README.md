@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was video taping strange lighting in a cloud, when I pulled the phone down and looked with naked eye, that's when a orange globe shot out the top of the cloud.  It was in Chalmete area.  January 10/20/16, I saw the same orb maybe 500 feet in air.  They both moved very fast in odd ways.  That's how I know they are  ufos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127945.html](http://www.nuforc.org/webreports/reports/127/S127945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pleasant Hill (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Mysterious light in sky with 90 degree cornersI watched the white light for over half an hour.  It first travelled in a square pattern above my home, then changed to a rectangular pattern going more east bound.  At first I thought it was a plane but at each corner of both patterns it did 90 degree corners.  This was done at high speeds.  It was very high as evidenced by a plane passing in between my home and the white light.  I called the local news tv media but was discounted by whomever I talked with.  I tried taking a picture with cell phone but it didn’t show up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163954.html](http://www.nuforc.org/webreports/reports/163/S163954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
