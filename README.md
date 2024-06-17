@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Arnprior (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>A planet like object with tethered satellite that orbited in about 10 seconds and exploded into hundreds of pieces remaining visible.June 17, 2016.  At about 9 P.M. this evening, my wife and I were sitting on our back deck enjoying the evening when I spotted a bright object in the sky.  I was quite intrigued because it was still very bright and no stars or planets should be visible at this time.I got my telescope out to see if it was a planet but when I observed it I could tell it wasn’t because it was moving too fast, but not as fast as a satellite and it appeared to have an object tethered to it orbiting it about every 10 seconds.After watching it for several minutes and showing it to my wife, it suddenly shattered into hundreds of fragments that moved outward but didn’t disappear.  I watched it for several minutes until it moved out of my line of vision.I called the Ottawa Citizen newspaper, but no one had reported anything.I don’t know it this was a true UFO or if there is a logical explanation, but I sure would like to know.((NUFORC Note:  We spoke on two occasions via telephone with the witness, and he is very convincing about his sighting.  He has contacted to local press, to no avail, but is going to contact them again, in attempt to find other witnesses.  Anprior, Ontario, is 56 kilometers west of Ottowa.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127939.html](http://www.nuforc.org/webreports/reports/127/S127939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Garrettsville (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 64</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157452.html](http://www.nuforc.org/webreports/reports/157/S157452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
