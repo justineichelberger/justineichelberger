@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:36 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Overland (St. Louis) (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Slow moving sphere shaped object that lit up moving very slowly from the Northwest to Southeast in St. Louis Missouri.We were outside Bar B Qing and husband happened to look up and said "What the hell is that?" My daughter and I said, "What?" He said "THAT" and pointed. Then we saw what he saw. It was a round silver matalic color at first and then it turned bright yellow. Not sure if it was lit up like a fireball or if it was just reflecting the sunlight. It traveled very slowly from Northwest to Southeast. It went behind a cloud but you could still see the yellow shining through. It then came out of the clouds and continued in the same direction that it had been moving..still very slowly. The Bar B Q was done at about 7:18 pm so we brought it in the house. I then went out the front door and saw the object still slowly moving to the Southeast. I then came in and ate and went back outside but it was gone by then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44438.html](http://www.nuforc.org/webreports/reports/044/S44438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Waldport (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>white oval shaped pulsating lights seen above my house as well as two saucers seen hovering two days laterI was pulling into my driveway at approximately 23:45 on June 17th, 2017, so it was last Saturday.  Right when I got out of the car, my neighbor came running over to me and asked me if I knew what the strange lights were directly above my house, so I looked up and saw these strange oval bright lights that were pulsating and zooming out and would then fly back in.  They were a bright white and seemed to form a pattern.  I have never seen anything like it in my life and my neighbor who is from Arizona, had never seen anything like it either.  The lights appeared to be approximately 200 feet above my house.Then two days ago on June 23rd, 2017 my uncle who lives close by, was standing out on his deck with binoculars, and he said he could see two flying saucer like objects hovering above my house.  One was approximately 50 to 200 feet above he thought and the other was directly above that one, about 500 feet above the roof of my house.  They had red, orange and green lights on them and hovered there for about one hour.  This occurred at about 23:45 again until about 1:30 in the morning.  I was asleep during this time so I did not see them but my uncle called me to let me know.I have never experienced anything like this before and I have never studied UFO’s or been a watcher of them.  I have recently moved to the Oregon Coast from the valley area of Oregon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134759.html](http://www.nuforc.org/webreports/reports/134/S134759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
