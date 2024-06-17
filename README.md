@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:26 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Whitmire (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>2 Objects in the Sky!!I was sitting on the back steps that day,when I looked up and saw 2 round forms in the sky,I hollered at my Aunt who is now in a nursing home.She came to the back door and said what in the world is that I didnt know either but they both sat there bout 3 mins.then they just left so Quickly like a blink of an eye.I Promise this Happened and my Aunt is an very christian Lady and she saw it to.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60809.html](http://www.nuforc.org/webreports/reports/060/S60809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mill Creek (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A flame inside a clear sphere moving relatively slowly and relatively low (although my cell video makes it look quite high and far away).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89666.html](http://www.nuforc.org/webreports/reports/089/S89666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
