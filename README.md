@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>more details on report filed two hours earlierwalking west, we looked up. my friend saw the lights, i couldn't at first. i had to look, look again, and then squint. it was then that i saw them. > it was slowly moving southeast. the was large area with "flicker-ing lights" in the 'shape' of a huge triangle in the darkness. moving south east. the lights were blinking rapidly in what seemed to be a direction across the width of the triangle. the lights blinked so fast.> it was huge, the area which moved slowly across the dark sky.> we stood and watched for 5 minutes.> we were disoriented afterwards. i lost my keys, had to climb in a window. i banged my arm which was cut and profusely bleeding as i got in the house. suddenly it stopped and the cut is almost healing. it was a small inch wide cut. it left us both dazed and confused.></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64000.html](http://www.nuforc.org/webreports/reports/064/S64000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mojave (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The following observations occurred in rural Kern County California just East of Sierra Highway and North of Backus Road.  These sightings were made outside while sitting in my driveway.  On June 17th 2020, at 4:15 AM I was looking due North and approximately thirty degrees above the horizon I saw a long series of white lights travelling to the East.  There were several dozens of them.  They traveled in a straight line, level to the horizon; at a distance they appeared to be a fingers width apart.  Their brightness was equal to that of the dimmest star of the big dipper.  The moon was in the last quarter, four days before a new moon, so as faint as these objects were they quite visible.  I have no way of knowing the actual distance from me or knowing/determining the speed of these lights.  As far as speed was concerned I can only say that they appeared as if gliding slowly across the sky.  Making the activity of the lights even stranger was the fact they a! ppeared as if there was a point in the sky where they appeared to come from behind a curtain.  Stars and other features were quite visible on both the West and the East of this line but the objects were only visible on the Eastern side of the curtain or line.  It was like these objects were coming out from behind a corner or a door way.  This activity went on for some time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161761.html](http://www.nuforc.org/webreports/reports/161/S161761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
