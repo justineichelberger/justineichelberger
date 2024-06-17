@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Memphis (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>ufo in a small townmy mom and i were on our way to my grandfathers house and they're alot of trees around and above the trees were 3 triangular ufos they had 3 lights on each side they were side by side. i screamed to tell my mom to look but she kept looking the wrong way so i just thought she was to scared to look. well the next day my two sons one is 16 my other is 6 and they  came and told me what they had   seen the night before they described  the exact same thing  except they saw 4 triangular ufos. it was really strange for us to see the same things but my 6 year old came in crying saying he saw an alien between the trees it was the weirdest thing ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45964.html](http://www.nuforc.org/webreports/reports/045/S45964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fairview (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bunch of unexplained beams of lights coming from meadowlands area and huge triangle shaped falling starsBeams of light from the ground moving in multiple directions the whole sky seemed it was blinking with those beams of light in multiple directions for about 10 minutes , that’s when I seen two huge triangle shaped falling stars coming from up above about 3 minutes apart and 10 minutes in I seen a white circle shaped bright object zooming towards meadowlands area where those huge light beams were illuminating from . Not the 1st time I’ve seen this phenomenon from my balcony facing towards the mountains towards meadowlands area and towards teterboro airport mountain area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157083.html](http://www.nuforc.org/webreports/reports/157/S157083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
