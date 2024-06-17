@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:23 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 17 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Geraldton (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ufo had centre light that pulsated at irregular intervals and moved from side to side outside my window while it hovered in early morning.The ufo appeared outside my window in early morning at just after half past five. I know this as i looked at the clock several times. It was travelling at speed for a brief time then stopped and hovered. it had a central light bigger than the other lights and it pulsated at irregular intervals and at varying brightness. I could tell it was spherical by the lights on either side of the central light. After about five minutes it drifted slowly south and became a tiny star like dot as it moved. During the encounter i stood up and stared, blinked ect so as i knew i wasn't imagining. The central light also moved from side to side creating an eerie sensation. I believe that potentially i was being observed emotionally as i had aroused from a dream several minutes earlier and had been highly emotional and had cried. After this i looked out the window and there was the ufo. So perhaps they were formulating thoughts and actions however that would seem pathetic and ridiculous. However it did seem that they were attempting to get my attention for whatever reason.((NUFORC Note:  Student report.  Probable hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57696.html](http://www.nuforc.org/webreports/reports/057/S57696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albrightsville (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two red balls of fire streaking over our house.My wife was coming home from the hospital with my daughter.  She looked up at the sky looking south from our garage.  She called me frantic, when I came out I looked up and saw two fire balls one went left and the other went straight and disappeared.  The whole event lasted about 10 seconds.((NUFORC Note:  We have amended the time, to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98716.html](http://www.nuforc.org/webreports/reports/098/S98716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
