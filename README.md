@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>fast moving bright orange light seen flying through sky in chicago then suddently dimmed and vanishedI was walking down the sidewalk with a four of my friends at about 2am after leaving a bar when one noticed a bright orange light traveling across the sky.  It appeared to be flying low and was extremely fast.  This was in Chicago at Clark and Winnemac while we were walking north on clark street.  It was very bright orange, and larger than anything I've seen before.  We knew immediately it wasn't a plane because we could see two other planes flying in the sky and they were much higher and farther away in the sky.  The planes were a different color- more yellowish/whitish and were moving much slower relative to the orange light.  We stared at it trying to determine if it was a helicopter or plane, but it didn't look like anything any of us had seen before. It was literally a round very bright orange light moving forward very fast.  One of my friends even described it as looking like a planet moving fast across the sky.  We were watching for about 45 seconds as it moved very rapidly across the sky in a straight line then the orange light dimmed, and completely disappeared.  We watched for 5 minutes after the disappearance but it didn't become visible again.   All we could see were the two planes that continued to fly.  We were all pretty confused as to its disappearance because none of us have ever seen a plane that disappeared while flying across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81852.html](http://www.nuforc.org/webreports/reports/081/S81852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in LaVale (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Saw three lights traveling south to north over western MarylandAt approx. 22:24 I was with my daughter star gazing when I spotted three white lights moving south to north. I was using a pair of 15x70 binoculars and the distance between the lights was about half of the viewing diameter of the binoculars. The objects covered approx. a 45 degree angle of sky from my position in about 15 seconds. The two outside lights were in a stationary pattern as they moved across the sky, while the third trailed slightly and moved back and forth between the two outside lights. This is approx. how they looked:  From this:  *            *             *                  To this:             * *                                  *   The trailing light moved back and forth between the two as they moved north. The lights appeared to be about the same size as the background stars. My daughter was not able to see the lights herself with the naked eye, and by the time she got her binoculars focused in the direction of the lights, they had moved beyond our viewing range.Also, approx. 20 minutes after the first sighting, we both observed a single light moving south to north at approx. the same speed as the first lights, followed about three minutes later by another single light moving in the same direction and speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70558.html](http://www.nuforc.org/webreports/reports/070/S70558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
