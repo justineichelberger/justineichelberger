@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in LaVale (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Saw three lights traveling south to north over western MarylandAt approx. 22:24 I was with my daughter star gazing when I spotted three white lights moving south to north. I was using a pair of 15x70 binoculars and the distance between the lights was about half of the viewing diameter of the binoculars. The objects covered approx. a 45 degree angle of sky from my position in about 15 seconds. The two outside lights were in a stationary pattern as they moved across the sky, while the third trailed slightly and moved back and forth between the two outside lights. This is approx. how they looked:  From this:  *            *             *                  To this:             * *                                  *   The trailing light moved back and forth between the two as they moved north. The lights appeared to be about the same size as the background stars. My daughter was not able to see the lights herself with the naked eye, and by the time she got her binoculars focused in the direction of the lights, they had moved beyond our viewing range.Also, approx. 20 minutes after the first sighting, we both observed a single light moving south to north at approx. the same speed as the first lights, followed about three minutes later by another single light moving in the same direction and speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70558.html](http://www.nuforc.org/webreports/reports/070/S70558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange lights seen over Chicago skysThere are two different videos of UFOs on different days on this video the second video is the one I knew the date and time the first video was about 2-3 months prior to the second video.  In  the first video I recorded I first saw the object in the sky and noticed it had no blinking lights so I knew it wasn't a plane.  Midway airport is not to far from were I saw the object  so I'm pretty use to seeing a lot of airplanes.  The object was very bright I couldn't even see the shape just a glowing ball. I started recording it with my cellphone which explains the poor quality, me and my friend both witnessed it I recorded until it was out of sight.  The second video I recorded I again saw an object in the sky with no blinking lights but this object was very high in the sky it looked like a star rather than an aircraft. It could be a satellite but i have my doubt   I show the original footage first then I edited both videos with my Macbook using Imovie I basically! just  enhanced the lighting as best as I could.  I did notice in the second video the object seemed to slow down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108194.html](http://www.nuforc.org/webreports/reports/108/S108194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
