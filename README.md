@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moultonborough (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I believe it was the Air National Guard preparing for deployment.I recently read a letter to the editor form Director Peter B. Davenport of the National UFO Reporting Center regarding some unusual events on 6/18/02.  I witnessed the "unusual" event at 9:15 on my way home from work. (I am a police officer) I watched as an aircraft dropped flares approximately every 2-4 seconds.  The aircraft was approximately 1,500 to 2,000 feet above ground level.  I could only see the marker ligts of the aircraft initially.  I watched this activity from my back deck for a few minutes.  I did not think much of it because I routinely observe military aircraft of various types training in and just south of the Sandwich Range (the southern most range of NH's White Mountain National Forest).  A few minutes later, I recognized a UH-60 helicopter briefly touch down at the Moultonborough Airport (I live next to the air strip). Every so often, citizens of my community become alarmed when military aircraft stray a little south of the Sandwich Range.((NUFORC Note:  A description of this event can be found on the NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23391.html](http://www.nuforc.org/webreports/reports/023/S23391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>fast moving bright orange light seen flying through sky in chicago then suddently dimmed and vanishedI was walking down the sidewalk with a four of my friends at about 2am after leaving a bar when one noticed a bright orange light traveling across the sky.  It appeared to be flying low and was extremely fast.  This was in Chicago at Clark and Winnemac while we were walking north on clark street.  It was very bright orange, and larger than anything I've seen before.  We knew immediately it wasn't a plane because we could see two other planes flying in the sky and they were much higher and farther away in the sky.  The planes were a different color- more yellowish/whitish and were moving much slower relative to the orange light.  We stared at it trying to determine if it was a helicopter or plane, but it didn't look like anything any of us had seen before. It was literally a round very bright orange light moving forward very fast.  One of my friends even described it as looking like a planet moving fast across the sky.  We were watching for about 45 seconds as it moved very rapidly across the sky in a straight line then the orange light dimmed, and completely disappeared.  We watched for 5 minutes after the disappearance but it didn't become visible again.   All we could see were the two planes that continued to fly.  We were all pretty confused as to its disappearance because none of us have ever seen a plane that disappeared while flying across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81852.html](http://www.nuforc.org/webreports/reports/081/S81852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
