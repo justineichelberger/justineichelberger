@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Three orbs in the sky . Not making any sounds or moving in any derection!At about 1AM on the 18th of June me,my wife, and 4 year old son were getting groceries out of the car till we noticed 3 amber orbs flying in the sky it released no sound and did not move till it suddenly disappeared. I used to be in the marines and thus know military and commercial aircraft and i know for sure this was not it! I would not waste time writing this if it was not true((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70567.html](http://www.nuforc.org/webreports/reports/070/S70567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red and green object that didn't move like a plane or helicoperOn June 18, 2014, at approximately 9:30 p.m., my husband and I were on our back patio at our home located in the south part of the city.  We saw – twice – a “largish” object with bright red and green lights silently going up and down very quickly, then hovering for a bit.  It went down so quickly the first time my husband was waiting for an explosion that never came.I told my husband that it could possible be a helicopter doing night flights.  He said it couldn’t be because helicopters don’t move down that fast – he use to jump out of them and I completely trust his knowledge.  I don’t know what it was, but I have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110376.html](http://www.nuforc.org/webreports/reports/110/S110376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
