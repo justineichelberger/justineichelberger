@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>AS I WAS TAKING A SHORT VIDEO OF PLANE , I SAW IN MY VIDEO A WHITE LIGHT OBJECT FLY DOWNWARD IN FRONT OF PLANE EXTREMELY FAST HIGH SPEED AND TOOK A SCREEN SHOT AND ZOOMED IN TO OBJECT .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164098.html](http://www.nuforc.org/webreports/reports/164/S164098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>7 glowing globes floating to Lake Superior from hill sighted west endAlright I’m doing this on my phone but I was snapping friends and excited to see a storm from my deck. I’m watching the clouds roll in and about 50-100 ft not super high but 2 glowing balls are headed from over the hill towards superior (I also have a video my roommate who witnessed it with me got one caught in on film when I was trying) they flew like just over the power lines like light softballs or something of that size. I thought it was a bird but it looked like it was on fire like a firework. I’m like that can’t be a drone I just seen 5 of them. All different courses but mostly towards superior at different angles just like fast floating in which made me think this isn’t a drone race or something. I saw one maybe 200 ft up headed same direction a few minutes later and pointed it out to my roommate. She was snapping the double rainbow the clouds were giving and caught the tail end of the last one. I thought I was the only one to see it with her but my g! aming buddy said his girlfriend and neighbor just witnesses one in proctor which is like top of the hill before you enter duluth. I saw roommates snap and told her to save it and email it so it didn’t lose quality and you can still see the object and they all looked just like that one. All towards superior but different trajectories. Only have the one video was hoping more people saw it and reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163947.html](http://www.nuforc.org/webreports/reports/163/S163947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
