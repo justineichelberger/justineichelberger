@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw numerous slow moving white lights.  I flashed my led light at one and it just stopped instantly.  I have Dr. Greer's contact app so I started playing some of the tones on the app and then saw numerous more of the same types of lights coming from different directions. 2 of them even crisscrossed each other's path.  The lights were not blinking on them except for the last craft I saw.  It didn't flicker like a light on a plane either, it just seemed to get brighter then slowly dim.  Needless to say, I was pretty blown away by all of this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119612.html](http://www.nuforc.org/webreports/reports/119/S119612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>AS I WAS TAKING A SHORT VIDEO OF PLANE , I SAW IN MY VIDEO A WHITE LIGHT OBJECT FLY DOWNWARD IN FRONT OF PLANE EXTREMELY FAST HIGH SPEED AND TOOK A SCREEN SHOT AND ZOOMED IN TO OBJECT .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164098.html](http://www.nuforc.org/webreports/reports/164/S164098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
