@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange lights seen over Chicago skysThere are two different videos of UFOs on different days on this video the second video is the one I knew the date and time the first video was about 2-3 months prior to the second video.  In  the first video I recorded I first saw the object in the sky and noticed it had no blinking lights so I knew it wasn't a plane.  Midway airport is not to far from were I saw the object  so I'm pretty use to seeing a lot of airplanes.  The object was very bright I couldn't even see the shape just a glowing ball. I started recording it with my cellphone which explains the poor quality, me and my friend both witnessed it I recorded until it was out of sight.  The second video I recorded I again saw an object in the sky with no blinking lights but this object was very high in the sky it looked like a star rather than an aircraft. It could be a satellite but i have my doubt   I show the original footage first then I edited both videos with my Macbook using Imovie I basically! just  enhanced the lighting as best as I could.  I did notice in the second video the object seemed to slow down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108194.html](http://www.nuforc.org/webreports/reports/108/S108194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple Bright orange object above Santa Clara Eugene.6/18/2016 Time: 8:45PM PST.An orange solid very bright oval object crossed through the window just to the right of my TV view screen.  The window is located in my vaulted area of me ceiling above my front door.When I saw it I was awe struck with the size and orange brightness as it progressed to the right side of my window.  A few moments later, another Bright orange same size solid object came into view in line.  I jumped up went outside.  There they were.  Suddenly, a third was in view from the East coming in my direction.  I ran back inside and grabbed my wife out of bed.  We both saw the third and then a fourth.  They seemed to be in formation.  As they got closer they began to go towards the right or South.  As they moved silently, I noticed there was no sound.  I also looked for wind.  It was a perfect dusk night.  No wind.  No sound.  Just more lights.  I told my wife to go back inside and grab her cell.  At first she could not see anything on the cell display.  She handed me the phone and I held it up into the sky at the objects regardless and pushed the button in hope it might see something.The photo is included with this report.  Unfortunately, the image does not show a very clear shot.  The good news is there is a tree, house, low small cloud in the image for comparison.I went back in the house as the objects disappeared towards the right into the trees.A put on my pants and went back out just in case.  Who knows, perhaps they would circle around?  My neighbor was coming around the corner in his car.  He asked if I saw some -thing?  Told him hell ya.  He said he say them also and his daughter also saw them from the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127974.html](http://www.nuforc.org/webreports/reports/127/S127974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
