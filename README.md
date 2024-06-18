@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Myrtle Beach (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Myrtle Beach UFO June 18, 201410:04 pm         June 18, 2014 I was sitting outside my beach front hotel room overlooking the ocean near 2nd street south in North Myrtle Beach.  When in front of me was a section in the sky that looked like lights blinking on and off directly out over the ocean.  These lights were white lights. There were at least fifteen of them in a large group.  I knocked on the door and let the others in the room know what was going on.  They came out and saw the event as well.  Then within the swarm as I’m going to call it, came these red circular lights that seemed to skip across the sky.The swarm moved slowly up the beach over about a 5 minute interval.  Then started moving back down the beach over another 5 minute interval or so.  Then as a plane was flying down the coastline above.  It moved out to sea, then it moved down the beach and out of our sight. It blinked with those red circles at least fifteen to twenty times over the whole event which lasted at least 25 minutes.I walked out on the beach near the end of the event and another guy asked if I saw the ufo. Him and a girl with him was on the beach watching it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110524.html](http://www.nuforc.org/webreports/reports/110/S110524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Three orbs in the sky . Not making any sounds or moving in any derection!At about 1AM on the 18th of June me,my wife, and 4 year old son were getting groceries out of the car till we noticed 3 amber orbs flying in the sky it released no sound and did not move till it suddenly disappeared. I used to be in the marines and thus know military and commercial aircraft and i know for sure this was not it! I would not waste time writing this if it was not true((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70567.html](http://www.nuforc.org/webreports/reports/070/S70567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
