@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tooele Valley (above Oquirrh Mtns. & Dugway) (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 Bright Lights Tied to Each other in varying heights in the atmosphere cross the darker (and lighter) than normal night skyWas travelling home, approaching Stockton, Utah, from the South on State Route 36.  Saw 3 unusual star/light formations in the sky that appeared as if they were tethered to each other.  The closest was VERY close, in the foreground of mountains, clouds, the moon sliver and everything else in the sky view.  I thought it was a helicopter at first but didn't really move like one at all.  The second was significantly further out in the atmosphere, but acted tethered like with a string to the first.  The third was very tiny, I would have guessed it was almost to outer space, but again was behaving like it was tethered to the first two.  I was driving and couldn't pull over, so I didnt know if they moved at all.  They looked pretty stationary, maybe moving a small round and about but keeping the string taut =).  I tried to take a video while driving, traffic wasn't cooperating on the dark small rural hwy.   It looked like many cars of the general public were appearing to take a look, especially as I got to the city of Tooele, a couple miles North, where they were still visible.  It seemed also, that when I held the camera on my phone up to take a pic, it showed nothing but the night sky with a darker black square covering the entire area where the lights were in the sky. Upon closer inspection of the actual sky, there indeed was a darker area that it looked like these things had either put there a-la Chemtrail fashion or it was already there and these were commissioned to float through the black.  Could see the actual sky instead of the darker color in three rectangular strips across the dark color.  These strips were the path they had traveled over the Oquirrs from north to south roughly.  One other strange happening was that i noticed a couple zones of very very bright lights shining from the City of Tooele West to the sky where the lights were..  (looked like they had been placed on top of the City Building AND the County Building and aimed west OR the w! ere 2 seperate ball fields where they were all aimed west also.)  I assume some kind of military cloaking or anti-radar test, but don't have any specific documentation. Investigator may contact me via email if desire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119619.html](http://www.nuforc.org/webreports/reports/119/S119619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in London (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Traveling down 42 when i noticed a white disk shape following the vehicle.  Went against wind current.  Then went into a cloud and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146891.html](http://www.nuforc.org/webreports/reports/146/S146891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
