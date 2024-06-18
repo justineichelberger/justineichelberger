@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Norwalk (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 different objects in th sky Norwalk.CAAt 18:20 My wife and I were swimming in the pool and I caught a shining object in the sky east direction. It was wobbling back and forth. Chrome color and reflecting light from the sun. It was gaining altitude. After looking at it I disappeared and our eyes were seeing spots every where. Our vision was restored with in seconds. The object was not seen then. And about 5 to 8 minutes another object passed by about 400 to 600 feet away and about 7 stories high. It was flying low and close that it shocked us. We were startled and confused. The object that was flying low and it was a donut/oval shape with a dent or a donut hole shape middle. It was wobbling  and flying in a straight line. The object was a satin silver metallic with a slight change in color at bottom. It was flying at around 15mph from south to north. And about a size of a SUV or bigger. It was 18:35 when that happened and then we could not find it in the sky. About 5 minutes later we both saw the same shining wobbling object in the sky again. The first one we've seen wobbling and shining going east and gaining altitude. And again it disappeared. I got out of the pool and ran to see where it was and was not found. The low flying object was hovering in flight and wobbling . It was wobbling in a way like a top. But like if it was wobbling on an axis. My wife saw a red glow below the object. Nothing else happened that evening after that event.((NUFORC Note:  Please see updated version of report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63984.html](http://www.nuforc.org/webreports/reports/063/S63984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wikieup (AZ) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>driving on highway 93  from wikieup  to wickenburg  a 75 mile drive took 2 hrs and 57 min((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90172.html](http://www.nuforc.org/webreports/reports/090/S90172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
