@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:37 on 18 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Granite Falls (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Cigar/Triangular shape, changing colors across skyline, met by darting white objectLong triangle/cigar shape, lit in sometimes yellow, pink and white, flew across entire skyline in 45 seconds while changing between colors mentioned, a circular white light darted towards it, then left it in the last seconds of sight, it didn't disappear, it just went out of viewing because of trees and hill, it was a clear day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44454.html](http://www.nuforc.org/webreports/reports/044/S44454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gratis (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Video shot in Gratis, OhioWe have a video, which was shot by my friend. I did not personally witness this, but when she drove me back to show me the origin of the filming, this would have been over or very near to over my house.We do not have the video on youtube as of yet. The air show was in Dayton therefor we are not so sure that this was not flares or such.The behavior of the "flares" was interesting though in that they come and go, as opposed to just fading out in the way that the videos that we found that were similar did.We are not sure what this is, but my friend who filmed it and her brother continued to watch as they drove home, again seeming a little odd for flares.I do have the video posted on my blog and I would include the link here but I am not sure that would be appropriate. Please know this is not an attempt to spam.... but I am feeling that you have to see the video to answer the question of what it is.www.shyowl.net/blog  the title to the blog is "Aliens in Ohio?" The even actually includes a series of lights misbehaving. If one looks closely at the video, it appears that a large triangular shadow is behind the lights, however, we understand this is likely shadowing and not what it appears.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides litle contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78184.html](http://www.nuforc.org/webreports/reports/078/S78184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
