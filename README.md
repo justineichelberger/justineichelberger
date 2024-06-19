@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rochester Hills (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright lights were suspended in the sky and viewed from Rochester Hills, MI then suddenly disappeared.As three other students and I were walking out of our European Literature class at 9:50 PM we saw two extremely bright lights in the sky towards the south.  They were quite low to the horizon, and we thought that they were planets at first.  However, we figured that two planets would not be shining so brightly so close together.  The two lights were just hovering in the air, and then one of them starting moving east very slowly.  As this light moved its light slowly dimmed until it disappeared (about twenty seconds in duration).  However, the other light continued hovering for another minute or two.  This light then moved in the same direction as the first and dimmed even faster.  Both yellow lights that were extremely bright and were suspended in the sky suddenly vanished into the sky.  This is one of the most peculiar and unexplainable things that I have ever seen, and all four of us are certain that these were not helicopters and certainly not airplanes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57159.html](http://www.nuforc.org/webreports/reports/057/S57159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Saratoga Springs (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light that dims and brighten.  Disappears when passing by aircraft fly by then reappears after plane passes.  Seems to dance slowly from side to side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141884.html](http://www.nuforc.org/webreports/reports/141/S141884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
