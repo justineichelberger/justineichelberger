@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Adair Village (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Wednesday, June 21st, 2017.  	On the morning of June 19th, 2017, I was alone traveling north on highway 99W at 2:11 am outside of Adair Village, Oregon, which sits at an elevation of 328’ above sea level north of Corvallis and noticed a large deep red glowing ball of light slowly rising in the eastern sky, gently swaying from side to side as it rose.  Relative to the moon, the light was small yet considerably larger than a star.	I overserved the light as I passed by for approximately 20 seconds, until I drove further down the highway out of the line of sight from the light.  When I was safely able to do so, I pulled off the highway, and turned around, attempting to see if I could get another look at the light.  It was not present when I returned to the area where it was.  It clearly did not resemble any type of aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134692.html](http://www.nuforc.org/webreports/reports/134/S134692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Clifton (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dots over Clifton, NJI took this pictures and video the night of 06/19/11 around 8:15pm.  We were having a BBQ when I look up and saw this little plate moving from north-east to south east, very slow.  It was difficult to see, because the distance.  The object stop and if you look in the video, you can see an aircraft flying over the UFO.  Moments later the object just vanished. Im sending the original pictures. In order to see the object you need to zoom in around the center.  I know is not the best pictures but is proved that we saw something that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82669.html](http://www.nuforc.org/webreports/reports/082/S82669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
