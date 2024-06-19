@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:46 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Englewood Cliffs (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:02 - 00:02 minutes.</sub><blockquote><sub>When I looked up a bright white light appeared. It began moving to the left and changed to a faint yellow. The light dimmed to the point where I could barely see it then suddenly reappeared.I was walking my friends dogs in the park that night. Hale Bopp was behind me to the right, low in the sky. I looked up at the stars and a bright white light appeared high in the sky. It slowly began moving to the left and at the same time dimmed to a faint yellow. The light became so dim that I could barely make it out. It came to a stop then it suddenly reappeared as a sharp point of white light. The light began rotating around in a circle a yellow light then appeared opposite of the white. As  both lights were spinning clockwise a blue light turned on giving the impression of a multicolored ring. the glowing ring then quickly rose up towards the stars and dissappeared. My friend asked me if I had seen that and I couldn't reply. I didn't want to blink. The lights made no sound so the noise of an approaching jet blinking in the distance startled me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05554.html](http://www.nuforc.org/webreports/reports/005/S05554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Washougal (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An object was sighted that flew in an irratic pattern completely unlike any other airborne object ever seen.My wife and I were watching an advancing lightning storm at our Gorge property viewing the southeastern side of the Columbia River. At around 8:33, we witnessed what we first thought was something blowing high in the sky as the wind was really starting to blow.  We saw the object move in random directions, zig-zagging, and also descending lower. We thought it might be a plane, as many planes approach Portland International Airport in the general area where we first spotted it.  However, the object moved irratically as if blown about, and then  moved south and began descending far faster than any plane could normally.  It disappeared behind the hills approximately east of Troutdale, Oregon, about 8-10 miles away.  We have never before reported a Ufo sighting, and never have ever seen a UFO, but we are convinced we saw something most unusual tonight.  We are 55 and 50 in age, and highly educated. The object had light and dark components, but was so small and so distant that any detail is hard to describe.  The wife felt it was somewhat triangular in shape, and the husband saw a bright light with an irregular shape around 3 sides of the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44478.html](http://www.nuforc.org/webreports/reports/044/S44478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
