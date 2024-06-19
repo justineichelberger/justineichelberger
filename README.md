@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two objects just hovering, one over the rocky mountains the other high above the city.  Glowing spheres  Movements are quick north to south((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75839.html](http://www.nuforc.org/webreports/reports/075/S75839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Natrona Heights (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An orange object sighted in the sky, orange flames shooting out of the bottom , without sound, vanishing 1-2 minutes.I was travelling with my three teenage children south on Freeport Road and I noticed an orange object in the sky approaching from the southeast.  I pointed it out to my son who also saw the object.  It travelled to our location as we stopped at a red light at the intersection of Freeport Road and Alabama Avenue.  The object stopped directly above us and we opened the car windows and looked straight up at the motionless quiet object. All four of use saw the object.  It was circular in shape and orange in color.  Orange flames were shooting out of the bottom as if it were a rocket.  The object made no noise and just hovered in that position.  When the light turned green we moved and the object moved a short distance in the same direction and then vanished.  We attempted to get a video, but it is poor quality as it was taken with an I-phone and is very short.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98758.html](http://www.nuforc.org/webreports/reports/098/S98758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
