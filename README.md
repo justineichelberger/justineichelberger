@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clay (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Flat disk moved slower than a aircraft then tipped right and accelerated up out of sight extremely fastOn June 19, 2019, at approximately 6:15 AM, I was  driving South on Route 481 in the Town of Clay, NY.  The sky was bright, mostly clear  with the sun rising and mostly wispy high clouds.  I spotted an odd, flat profile object moving right to left (West to East, roughly) straight across my windshield field of vision.  The object moved extremely slowly, even slower than the aircraft I see landing and taking off every day as I drive near Syracuse Hancock International Airport.  I also see Air Force drones flying all the time, as our base at Hancock Field trains Drone pilots for the Air Force.The object was white to a flat light gray, uniform in color.  It looked like a dime flat in profile, without striations on the edge.  I followed it with my eyes for approximately one minute, when it suddenly tipped to the right (South) and as it did I saw a very bright glint of silver as it tipped its bottom surface toward the rising sun.  It immediately accelerated up and to the Southwest at an approximately 45 degree angle.  For a second, I could see its disk shape as it angled away an then it was GONE.  Extremely Fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146971.html](http://www.nuforc.org/webreports/reports/146/S146971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Goose Creek (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Strange object seen flying in the sky over neighborhood.My boyfriend and I had gotten into the car to go to Burger King around 9.  We were driving down the road, when this triangular type object that was just above the tree tops flew by pretty fast.The object had 3 steady white lights in the front in a mini triangle, then there was another green light on the back of it.  The rest of the craft was black.  It was flying south, towards the next town.  This was going faster than any plane I've seen, and it was silent.We listened in silence for some kind of noise, but there was none, so we drove to the main road to see if you could see it since it was big enough to be seen from there and it was no where to be seen.  I have lived here all my life, and I've never seen anything like that.When we returned from Burger King, we sat in the back yard and all of a sudden, non-civilian air crafts were flying over head at tree top level in the same basic direction as the object maybe 10 minutes after, and possible gun shots where the air crafts went (at least 9 times) then there were more after a period of 5 minutes.  After the gun shots, there were no more non-civilian planes flying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119644.html](http://www.nuforc.org/webreports/reports/119/S119644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
