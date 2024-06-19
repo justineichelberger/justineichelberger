@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Washougal (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An object was sighted that flew in an irratic pattern completely unlike any other airborne object ever seen.My wife and I were watching an advancing lightning storm at our Gorge property viewing the southeastern side of the Columbia River. At around 8:33, we witnessed what we first thought was something blowing high in the sky as the wind was really starting to blow.  We saw the object move in random directions, zig-zagging, and also descending lower. We thought it might be a plane, as many planes approach Portland International Airport in the general area where we first spotted it.  However, the object moved irratically as if blown about, and then  moved south and began descending far faster than any plane could normally.  It disappeared behind the hills approximately east of Troutdale, Oregon, about 8-10 miles away.  We have never before reported a Ufo sighting, and never have ever seen a UFO, but we are convinced we saw something most unusual tonight.  We are 55 and 50 in age, and highly educated. The object had light and dark components, but was so small and so distant that any detail is hard to describe.  The wife felt it was somewhat triangular in shape, and the husband saw a bright light with an irregular shape around 3 sides of the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44478.html](http://www.nuforc.org/webreports/reports/044/S44478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in The Villages (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange lights.seemed like they were launched into the Western sky.  First one, with glowing orange lights (no sound) it moved a little to the right then started to move straight up into the sky.  Then the second one appeared, then the third.  They were all moving very slowly - straight up.   Then they disappeared one by one in the order they appeared.  I'm not sure if there are any US bases located here in mid-florida.  This is actually the second time I've seen this.  The first time was in April 2014 and there were about 20 lights, all behaving the same way.((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110392.html](http://www.nuforc.org/webreports/reports/110/S110392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
