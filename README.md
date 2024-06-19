@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:46 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Adair County (IA) reported seeing craft that fit the description of some '' over a period of approximately 5 hrs. - 5 hrs. minutes.</sub><blockquote><sub>Telephoned Report: 2 young men experience multiple sightings of bizarre, bright obj., which hover, streak, & land.  Very bizarre; good report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00574.html](http://www.nuforc.org/webreports/reports/000/S00574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Englewood Cliffs (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:02 - 00:02 minutes.</sub><blockquote><sub>When I looked up a bright white light appeared. It began moving to the left and changed to a faint yellow. The light dimmed to the point where I could barely see it then suddenly reappeared.I was walking my friends dogs in the park that night. Hale Bopp was behind me to the right, low in the sky. I looked up at the stars and a bright white light appeared high in the sky. It slowly began moving to the left and at the same time dimmed to a faint yellow. The light became so dim that I could barely make it out. It came to a stop then it suddenly reappeared as a sharp point of white light. The light began rotating around in a circle a yellow light then appeared opposite of the white. As  both lights were spinning clockwise a blue light turned on giving the impression of a multicolored ring. the glowing ring then quickly rose up towards the stars and dissappeared. My friend asked me if I had seen that and I couldn't reply. I didn't want to blink. The lights made no sound so the noise of an approaching jet blinking in the distance startled me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05554.html](http://www.nuforc.org/webreports/reports/005/S05554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
