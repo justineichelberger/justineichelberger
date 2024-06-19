@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>We were driving North on I-15, just passing the M Resort and Casino on our right, and a mountain next to the freeway on our left, and we saw what appeared to be the side if the mountain moving in on itself, but quickly realized it was a giant oval shape just slightly different color moving into mountain and disappearing.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133644.html](http://www.nuforc.org/webreports/reports/133/S133644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bridgeport (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A very bright light was observed, dimmed, moved and then disappeared.Two witnesses saw a bright light in the sky in the approximate direction of NNE. The object appeared about 75 degrees above the horizon. It was too far away to be seen as more than a light, similar to a star or aircraft. However, the object appeared at first too bright to be a star or even an aircraft. The object then began to get dimmer, but from left to right, like it was turning.  It started moving in an easterly direction, and slightly upward. It then got dimmer and started moving faster. It then dimmed so much it seemed to disappear to one witness. The other witness could still see it and it continued to move and then slowly disappear, like it “winked out” of existence, but gradually. Both witnesses continued to watch the sky but did not see it return. Within 20 seconds, two airplanes were observed flying loosely in the same direction as the observed object but from different directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70573.html](http://www.nuforc.org/webreports/reports/070/S70573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
