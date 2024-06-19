@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Round, firey red, stationary object in the sky.In the southern sky saw a round red object stationary at about two o’clock in the sky.  It did not seem to move but flickered as if on fire.  I did not have any field glasses so this was with normal vision.  The object appeared to be about the size of a pencil erasure held at arm's length.  The object grew smaller as it appeared to travel away from me at great speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110431.html](http://www.nuforc.org/webreports/reports/110/S110431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chama River (El Vado dam) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Brighter than a falling star...appeared to leave a light trail...parallel to the horizon19 June 2001…12:30 am…fishing near Chama NM near  El Vado dam…chilly still air and clear sky…facing SE looking towards Espanola…in the blink of an eye a bright object as fast as a falling star but brighter appeared to leave a light trail as it excellerated and  streaked south bound approx. 5 degrees above and PARALLEL to the horizon…unable to estimate distance but seemed miles away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19697.html](http://www.nuforc.org/webreports/reports/019/S19697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
