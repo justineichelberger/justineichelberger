@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Saratoga Springs (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light that dims and brighten.  Disappears when passing by aircraft fly by then reappears after plane passes.  Seems to dance slowly from side to side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141884.html](http://www.nuforc.org/webreports/reports/141/S141884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Goose Creek (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Strange object seen flying in the sky over neighborhood.My boyfriend and I had gotten into the car to go to Burger King around 9.  We were driving down the road, when this triangular type object that was just above the tree tops flew by pretty fast.The object had 3 steady white lights in the front in a mini triangle, then there was another green light on the back of it.  The rest of the craft was black.  It was flying south, towards the next town.  This was going faster than any plane I've seen, and it was silent.We listened in silence for some kind of noise, but there was none, so we drove to the main road to see if you could see it since it was big enough to be seen from there and it was no where to be seen.  I have lived here all my life, and I've never seen anything like that.When we returned from Burger King, we sat in the back yard and all of a sudden, non-civilian air crafts were flying over head at tree top level in the same basic direction as the object maybe 10 minutes after, and possible gun shots where the air crafts went (at least 9 times) then there were more after a period of 5 minutes.  After the gun shots, there were no more non-civilian planes flying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119644.html](http://www.nuforc.org/webreports/reports/119/S119644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
