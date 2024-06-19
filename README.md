@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:22 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it  was a triange moving southI was in my car driving in my car going northwest from globe arizona to mesa arizona as i was coming home i look out the window and seen what look like a low fling airplane but as i looked closer in slowed down.it seemed to bee going south.it was a triangle with flashing light on the side a a very bright light at the tip((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45427.html](http://www.nuforc.org/webreports/reports/045/S45427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Adair Village (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Wednesday, June 21st, 2017.  	On the morning of June 19th, 2017, I was alone traveling north on highway 99W at 2:11 am outside of Adair Village, Oregon, which sits at an elevation of 328’ above sea level north of Corvallis and noticed a large deep red glowing ball of light slowly rising in the eastern sky, gently swaying from side to side as it rose.  Relative to the moon, the light was small yet considerably larger than a star.	I overserved the light as I passed by for approximately 20 seconds, until I drove further down the highway out of the line of sight from the light.  When I was safely able to do so, I pulled off the highway, and turned around, attempting to see if I could get another look at the light.  It was not present when I returned to the area where it was.  It clearly did not resemble any type of aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134692.html](http://www.nuforc.org/webreports/reports/134/S134692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
