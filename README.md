@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in The Villages (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange lights.seemed like they were launched into the Western sky.  First one, with glowing orange lights (no sound) it moved a little to the right then started to move straight up into the sky.  Then the second one appeared, then the third.  They were all moving very slowly - straight up.   Then they disappeared one by one in the order they appeared.  I'm not sure if there are any US bases located here in mid-florida.  This is actually the second time I've seen this.  The first time was in April 2014 and there were about 20 lights, all behaving the same way.((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110392.html](http://www.nuforc.org/webreports/reports/110/S110392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clay (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Flat disk moved slower than a aircraft then tipped right and accelerated up out of sight extremely fastOn June 19, 2019, at approximately 6:15 AM, I was  driving South on Route 481 in the Town of Clay, NY.  The sky was bright, mostly clear  with the sun rising and mostly wispy high clouds.  I spotted an odd, flat profile object moving right to left (West to East, roughly) straight across my windshield field of vision.  The object moved extremely slowly, even slower than the aircraft I see landing and taking off every day as I drive near Syracuse Hancock International Airport.  I also see Air Force drones flying all the time, as our base at Hancock Field trains Drone pilots for the Air Force.The object was white to a flat light gray, uniform in color.  It looked like a dime flat in profile, without striations on the edge.  I followed it with my eyes for approximately one minute, when it suddenly tipped to the right (South) and as it did I saw a very bright glint of silver as it tipped its bottom surface toward the rising sun.  It immediately accelerated up and to the Southwest at an approximately 45 degree angle.  For a second, I could see its disk shape as it angled away an then it was GONE.  Extremely Fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146971.html](http://www.nuforc.org/webreports/reports/146/S146971.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
