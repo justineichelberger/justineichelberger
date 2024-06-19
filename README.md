@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:22 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chama River (El Vado dam) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Brighter than a falling star...appeared to leave a light trail...parallel to the horizon19 June 2001…12:30 am…fishing near Chama NM near  El Vado dam…chilly still air and clear sky…facing SE looking towards Espanola…in the blink of an eye a bright object as fast as a falling star but brighter appeared to leave a light trail as it excellerated and  streaked south bound approx. 5 degrees above and PARALLEL to the horizon…unable to estimate distance but seemed miles away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19697.html](http://www.nuforc.org/webreports/reports/019/S19697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it  was a triange moving southI was in my car driving in my car going northwest from globe arizona to mesa arizona as i was coming home i look out the window and seen what look like a low fling airplane but as i looked closer in slowed down.it seemed to bee going south.it was a triangle with flashing light on the side a a very bright light at the tip((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45427.html](http://www.nuforc.org/webreports/reports/045/S45427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
