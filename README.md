@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Natrona Heights (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An orange object sighted in the sky, orange flames shooting out of the bottom , without sound, vanishing 1-2 minutes.I was travelling with my three teenage children south on Freeport Road and I noticed an orange object in the sky approaching from the southeast.  I pointed it out to my son who also saw the object.  It travelled to our location as we stopped at a red light at the intersection of Freeport Road and Alabama Avenue.  The object stopped directly above us and we opened the car windows and looked straight up at the motionless quiet object. All four of use saw the object.  It was circular in shape and orange in color.  Orange flames were shooting out of the bottom as if it were a rocket.  The object made no noise and just hovered in that position.  When the light turned green we moved and the object moved a short distance in the same direction and then vanished.  We attempted to get a video, but it is poor quality as it was taken with an I-phone and is very short.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98758.html](http://www.nuforc.org/webreports/reports/098/S98758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kilmarnock (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>10-12 orange spheres observed rising from ground level to the atmosphere.Clear, but slightly overcast evening.  Rising moon and stars were slightly distorted by haze.Orange object was clear but unknown about about distance away from observer. Uneducated guess would be 4-7 miles.Servers times aircraft would be seen following/trailing objects.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119638.html](http://www.nuforc.org/webreports/reports/119/S119638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
