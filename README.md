@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bridgeport (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A very bright light was observed, dimmed, moved and then disappeared.Two witnesses saw a bright light in the sky in the approximate direction of NNE. The object appeared about 75 degrees above the horizon. It was too far away to be seen as more than a light, similar to a star or aircraft. However, the object appeared at first too bright to be a star or even an aircraft. The object then began to get dimmer, but from left to right, like it was turning.  It started moving in an easterly direction, and slightly upward. It then got dimmer and started moving faster. It then dimmed so much it seemed to disappear to one witness. The other witness could still see it and it continued to move and then slowly disappear, like it “winked out” of existence, but gradually. Both witnesses continued to watch the sky but did not see it return. Within 20 seconds, two airplanes were observed flying loosely in the same direction as the observed object but from different directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70573.html](http://www.nuforc.org/webreports/reports/070/S70573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tecate (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long cylinder shape with no wings/rudder observed on a clear, cloudless day at noon.It was on Saturday, June 19, 2004, at approximately noontime.  The weather was warm with a cloudless sky, without appreciable haze.  The location was a couple of miles north of Tecate on State-94. So, I was driving eastbound on 94 and just passed the Tecate cutoff when I noticed what at first appeared to be a low-flying jet transport aircraft.It was rather low for the area, maybe about 6,000 feet above MSL.  However, it was very long in relation to its width.  If you could visualize a tall telephone pole you have an idea of its proportions.  It was moving west, straight and level, with the long axis of the body parallel to the direction of flight (it was flat).I thought that maybe it was an old stretch DC-8, but it was skinnier than that.  I then thought I was seeing a reflection off the curved side of a regular transport, but I then stopped my truck to look closer and I didn't see any evidence of reflection.  Further, I didn't see any rudder or wings.  It was too far away to see any markings/windows/portholes, but I certainly should have seen a rudder.  I watched as it proceeded to the west and was apparently several miles away when it looked like it turned slightly to the south.  Once again, I didn't see any wings, which if it had them I would have seen as it banked.  I would guess that it was at least 200-feet long with a rather bland gray color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38231.html](http://www.nuforc.org/webreports/reports/038/S38231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
