@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:53 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Exeter (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>June 20, 2012, Exeter, NH - slowly-moving red/orange lights traveling in a wavering line across the evening sky, then fading away.My husband and I were driving home to Exeter, NH around 9:00pm when we noticed a string of slowly moving red/orange lights in the sky.  There was no sound, and the lights appeared to float in an erratic line, traveling from right to left above the horizon.As they traveled across the sky, each light would get to a certain point and then slowly fade out then disappear completely. It seemed to us that they were turning so that we no longer saw the lights.We reported this to a local police officer, who didn't seem concerned or interested. He said he would "call it in,"  but we saw no evidence of that.  In checking the newspapers and online, there was no mention of it.  The only place we've seen evidence of the same situation was on this website.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91453.html](http://www.nuforc.org/webreports/reports/091/S91453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Westminster (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Enormous oval shaped light, flashing on and off, illuminating through clouds as it moved at high rate of speed through sky.I am a retired lady, in my 60's and have been a star gazer and observer of aircraft or anything in the sky for many years, but I have never seen anything like I did last night.About 11:50 PM Thursday night, I was taking out some garbage.  The sky was mostly clear with some light clouds.  Air was calm.  I looked up in the sky and saw a flash of light through the clouds.  The light flashed on, then quickly off.  It flashed on and off again within  seconds, but was already quite a distance south of where I first saw it.  It continued flashing and moving north to south, until out of sight.  I did not see any craft or what might have caused the light.The light illuminated an oval shape through the clouds and larger than anything I have ever seen in the sky before.  I don't know the dimensions, but it dwarfed any aircraft I've ever seen.  You could compare it to a honeybee on a football.  There was no sound at all.  There is no aircraft I know of that could illuminate such a large area.  Could not tell how high it was because it was above a line of clouds the whole time, but just above the planes flying in the area, which were clearly visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98804.html](http://www.nuforc.org/webreports/reports/098/S98804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
