@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Fruitland (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light that zig-zagged in the sky.  Speed of pattern and size is impossible with human-made aircraft.I was about twelve or so when this happened.  My friend and I wanted to sleep on the back porch.  We were laying there and I was a light which was brighter than the stars around it.  I couldn't tell what shape it was because it was very high in the atmosphere.  This light was moving from northeast to southwest.  It moved along for awhile and I thought it was just a satellite or something.  Then it did a very sharp u-turn and when it was returning the way it came from it did a zig-zag type pattern on it's way.  This pattern I know is not possible with any type of jet or anything we have.  The size of the zig-zag pattern was a decent size in the sky and as fast as this thing was making it the pattern had to be miles long from zig-zag tip to zig-zag tip.  This frightened me so bad I have been freaked out 'til this day because I know there is something very strange out there.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31709.html](http://www.nuforc.org/webreports/reports/031/S31709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>strange distant lights moving in zig zag patterns from south to north, one after another aprox. 1 minute apart.Very clear sky with no moon light. At aprox. 11: 00 P.M. (Pacific Time) I looked up into the southern sky and saw very small light objects moving one after another from south to north across the night sky in a slightly "zig-zag" pattern as if from one imaginary point to another in a northerly direction at uneven speeds. Unlike any kind of aircraft I've ever seen. They appeared to be barely visible and at an unusually high altitude for any aircraft that I am familiar with. They darted like "insects across a glass window" one after another about 1 minute apart, and along different paths which, in my mind, ruled out satelites. I watched for almost an hour and came back out around 12:30 am and there was no sign of them. I have no idea how long this had been going on but would like to know if anyone else witnessed this event. Thank you. I have never filed a report like this before now.((NUFORC Note:  We spoke with this witness via telephone, and he sounded quite credible to us.  However, when we explored his sightings, it seemed to us that he might have been witnessing satellites passing overhead.  Given that the objects were observed by the witness as they flew to the east, we suspect that at least some of them may have been satellites.  However, please see other reports from Washington State for the same time and date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37710.html](http://www.nuforc.org/webreports/reports/037/S37710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
