@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>It was a bright circular object with mullti-colored llights in the center in the western sky over the Straits of Juan de FucaWe saw a bright llight in the west and thought it was a large plane with its landing lights on.  After 10 minutes or more it did not move.  It was not a planet or star, as it was too bright  for being almost above where the sun had set earlier (it was directly west over the Jaun de Fuca Straits).  We have a home with a view and own a spotting scope.  When we looked at the bright llight with the scope we could see multi-clolored lights apparently within the white light: red, organge green, blinking in no particular pattern.  After 30-45 minutes my wife and I went to bed, as the object was getting smaller, as it it were going west, or  just diminishing in size.  I am a retired clergyman, and  my wife is a registerred nurse.  Neither of us have ever seen anything llike this before and we would not be described as "believers" in UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23428.html](http://www.nuforc.org/webreports/reports/023/S23428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Unknown (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We were flying to Ontario, California from Atlanta, Georgia and were about 1 1/2 hours away from landing. My guess is we were over New Mexico and I believe we were flying at 34,000 feet. I was sitting in a window seat on the right side of the airplane in the very last row. The movie had just ended and I raised my window shutter to look out.  I was amazed to see a shiny aluminum-appearing cylinder, approx. 60 feet long and 10-15 feet wide, pass under the plane from left to right at a 45% angle to the airplane. It appeared to fly under the plane at approximately two to three hundred feet. The skin of the object had a shiny brushed aluminum appearance, almost like a new un-painted airplane except it had no wings or port holes of any kind. It also had a rounded nose and back and the back of the craft was black in color.  After passing under the plane, it made a sudden jog (no curving or sweeping motion) to the left and shot off in a Northerly direction away from the plane. I was so stunned that I kept thinking over and over "they are real!"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65712.html](http://www.nuforc.org/webreports/reports/065/S65712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
