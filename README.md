@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sabetha (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>huge intensely bright balls of light over northeast kansasin the northwest i saw a ball of intensely bright white light larger and brighter than jupiter traveling very slowly with a smaller and dimmer light following it from behind,smaller than venus. i watched them for about 1 min and ran to get my binoculars and zoomed in and just a huge ball of light, no strobes no fuselage no tail and no wings. they traveled southeast and moving much much slower than any small airplane. it took them about 4 min to travel across overhead. the lights never even waivered,flickered or changed intensity in any way-there were no sounds whatsoever-complete total silence.i used to be a crash fire rescue [cfr] man for many years at a major jet-equipped airport and am fully trained on all kinds of aircraft and i cannot identify what i saw at 10 pm 06/20/07 over northeast kansas.((NUFORC Note:  Space Shuttle w/ ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57208.html](http://www.nuforc.org/webreports/reports/057/S57208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I saw 3 lights that looked like spotlights at first.  They later started to gather together and play like children in the sky.  It was the most beautiful thing I ever saw.  I was too mesmerized to record it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70698.html](http://www.nuforc.org/webreports/reports/070/S70698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
