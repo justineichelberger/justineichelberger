@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Unknown (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We were flying to Ontario, California from Atlanta, Georgia and were about 1 1/2 hours away from landing. My guess is we were over New Mexico and I believe we were flying at 34,000 feet. I was sitting in a window seat on the right side of the airplane in the very last row. The movie had just ended and I raised my window shutter to look out.  I was amazed to see a shiny aluminum-appearing cylinder, approx. 60 feet long and 10-15 feet wide, pass under the plane from left to right at a 45% angle to the airplane. It appeared to fly under the plane at approximately two to three hundred feet. The skin of the object had a shiny brushed aluminum appearance, almost like a new un-painted airplane except it had no wings or port holes of any kind. It also had a rounded nose and back and the back of the craft was black in color.  After passing under the plane, it made a sudden jog (no curving or sweeping motion) to the left and shot off in a Northerly direction away from the plane. I was so stunned that I kept thinking over and over "they are real!"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65712.html](http://www.nuforc.org/webreports/reports/065/S65712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sabetha (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>huge intensely bright balls of light over northeast kansasin the northwest i saw a ball of intensely bright white light larger and brighter than jupiter traveling very slowly with a smaller and dimmer light following it from behind,smaller than venus. i watched them for about 1 min and ran to get my binoculars and zoomed in and just a huge ball of light, no strobes no fuselage no tail and no wings. they traveled southeast and moving much much slower than any small airplane. it took them about 4 min to travel across overhead. the lights never even waivered,flickered or changed intensity in any way-there were no sounds whatsoever-complete total silence.i used to be a crash fire rescue [cfr] man for many years at a major jet-equipped airport and am fully trained on all kinds of aircraft and i cannot identify what i saw at 10 pm 06/20/07 over northeast kansas.((NUFORC Note:  Space Shuttle w/ ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57208.html](http://www.nuforc.org/webreports/reports/057/S57208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
