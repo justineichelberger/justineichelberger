@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gumeracha (South Australia) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1-2 - 1-2 minutes.</sub><blockquote><sub>Bright red light with aura appeared to be hovering in the rainy night skyWhile driving in rain down a long hill I noticed to my right (south) an extremely bright red light with an aura or haze which was emphasized by the rain.  The light appeared to be still in the sky either hovering or coming directly at me.  Behind the light were the much dimmer lights of a township which helped to show the brightness of the light.  It remained in the same location for the duration of my decent down the hill approx. 1-2 mins.  I performed a u-turn and drove to the top of the hill again to see if it was still there but there was no trace of it.  I then stopped my car and opened a window to see if I could hear any sounds (for example curious to know if any familiar sounds could be heard such as a helicopter or plane) but there were no sounds.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37704.html](http://www.nuforc.org/webreports/reports/037/S37704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Hewitt (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Sunny evening...shiney cigar shaped object moving slowly rotating...then disappeared, later followed by 3 military aircraftAbout three years ago, I and two of my friends, were washing our cars in my freinds driveway...it was about 18:00 (6pm) the sun was about an hour or two from setting. My freind ((Name deleted)) noticed a wierd looking object in the sky to the west. He drew my attention to the object as well as my other friend ((Name deleted)). The object i witnessed apeared to be bigger than a commercial airline, in the form of a long cigar (like a 747 with no wings or tail). The object hovered vertically, which was why i didn't think it was an airliner. It appeared to drift slowly to the north after about two minutes..as it did this a white illumination encompassed it. The Illumination dimmed after about three minutes, and when it dimmed completely the object dissapeared (in no direction without sound) Just as we had convinced ourselves it was an airplane refecting the setting sun, a formation of 3 low flying, military style, black helicopters flew by directly over head in the direction we viewed the object. These helicopter were followed shortly after by 2 military jets (f-15? f-18? not really sure) at a much higher altitude but in the same direction....Coincidense?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04108.html](http://www.nuforc.org/webreports/reports/004/S04108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
