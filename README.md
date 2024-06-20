@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:57 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wilmington (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Glowing sphere, hovering and then dissipating in close proximity to human beingsA single craft was observed when I was sitting in a field outside my friends home.  We were playing a game of man hunt and my partner and I decided to hide in the field directly in front of his house.  As we were sitting in the tall grass, a bright blue glowing sphere about a cubic foot in size appeared about 10 feet in front of us and 40 feet above the ground.  This sphere emitted a low hum, that seemed to shush the atmosphere around it,  The owls, the crickets, and the frogs that had all been previously making noises stopped abruptly as soon as the sphere appeared. The sphere hovered for a mere 3 seconds and then quickly dropped 20 feet and dissipated into nothing 20 feet above the ground.  My friend and I were in complete shock and have no idea what we have seen, but the owner of the home we were at says that once or twice a year the same spheres appear, hovering and then dissipating.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100980.html](http://www.nuforc.org/webreports/reports/100/S100980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw small metallic shiny rotating rectangle like box flying over my house and neighborhood.This morning I got dressed and went out back of my house to cut the grass. I was looking around at the mess of my back yard and something caught my eye. There was a rectangle shaped box flying over my neighborhood above the treeline. The box was shiny and reflecting the sun. I saw now blades or propulsion of any kind. The whole time looking at it my eyes were watering from the sunlight so it was hard to really make out any other details. It was traveling west to east fairly slowly but high enought that it was hard to determine size and speed. It traveled out of sight within 45 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163732.html](http://www.nuforc.org/webreports/reports/163/S163732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
