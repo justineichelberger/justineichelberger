@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:26 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:45 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Port Wentworth (Pooler) (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Green glowing orb, shot across the sky from East to West.  Appeared out of no where.  Overcast sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134678.html](http://www.nuforc.org/webreports/reports/134/S134678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two silent and very high flying objects moving southeast over Louisville, KY.At the Starbucks Coffee, 4200 Shelbyville Road, Louisville, KY, I looked up in the clear night sky and happened to see two lighted objects, each about the size of a star or planet, and one trailing the other and seperated by some distance. They were both moving in the same direction, approximately southeast. There was no sound associated with the objects. I looked closely and saw no other colored lights, such as red or green that I have seen with high flying aircraft, with the two lighted objects. The visibility of the two lighted objects faded and was lost while the objects were still high in the sky. I of course am very curious concerning what I was looking at. I am no nonsense person. I only report the facts. I am a 17 year employee of the federal government.((NUFORC Note:  Space Shuttle w/ ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57210.html](http://www.nuforc.org/webreports/reports/057/S57210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
