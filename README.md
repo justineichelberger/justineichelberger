@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Pulsating lights in the sky over San Clemente, CaliforniaPulsating oval shapes with line of lights emitting from the oval shape.  They seemed to be chasing each other.  In pulsating and moving slowly.  Bright orange light, much brighter than the surrounding city lights.Just above the mountain top and definitely in air.  They would pulsate and some of the shapes after pulsating would be located in a much further position and then sometimes after pulsating return back close to their starting position/ location.First time we had ever seen an UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146961.html](http://www.nuforc.org/webreports/reports/146/S146961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Fruitland (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light that zig-zagged in the sky.  Speed of pattern and size is impossible with human-made aircraft.I was about twelve or so when this happened.  My friend and I wanted to sleep on the back porch.  We were laying there and I was a light which was brighter than the stars around it.  I couldn't tell what shape it was because it was very high in the atmosphere.  This light was moving from northeast to southwest.  It moved along for awhile and I thought it was just a satellite or something.  Then it did a very sharp u-turn and when it was returning the way it came from it did a zig-zag type pattern on it's way.  This pattern I know is not possible with any type of jet or anything we have.  The size of the zig-zag pattern was a decent size in the sky and as fast as this thing was making it the pattern had to be miles long from zig-zag tip to zig-zag tip.  This frightened me so bad I have been freaked out 'til this day because I know there is something very strange out there.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31709.html](http://www.nuforc.org/webreports/reports/031/S31709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
