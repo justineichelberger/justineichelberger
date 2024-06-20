@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Clifton (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I first noticed it coming from the southern sky heading north. It appeared to be over the eastern portion of Clifton when I saw it then getting the attention of my girlfriend at the time and my son, 17 I believe, at the time, all of us stood fixated on this very different looking object.  Different because I've never seen anything shaped like this in any of the images put forth on any media. Basically and simplistically, it appeared to look like a drifting, bright, shiney steel garbage can. I'm not trying to be funny. It seemed to be traveling I would say about 30 miles an hour approximately a half mile or so from our point of view. With the sun's reflection it's top appeared either had a series of brilliant lites or these were reflections. Vertical indents going around the side is what made it appear as I've said, a garbage can and what would have been the lid may have been for observation. With the distance, it's size, and sun reflection I could not make out much more. I dubbed it the "flying garbage can" because that was exactly what if appeared to be but of course we all know they have no system of propulsion. At the speed this was going it definitely seemed to defy gravity. We watched it head toward the city of Paterson, NJ and at a point where we might have thought it lowered it's altitude large trees then blocked our view altogether. We were quite dissappointed. So that's it in a nutshell - I/we will not forget that one; there was a long time when any of us went outside we always looked for our "floating garbage can".......it certainly was unique.......((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50058.html](http://www.nuforc.org/webreports/reports/050/S50058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Pulsating lights in the sky over San Clemente, CaliforniaPulsating oval shapes with line of lights emitting from the oval shape.  They seemed to be chasing each other.  In pulsating and moving slowly.  Bright orange light, much brighter than the surrounding city lights.Just above the mountain top and definitely in air.  They would pulsate and some of the shapes after pulsating would be located in a much further position and then sometimes after pulsating return back close to their starting position/ location.First time we had ever seen an UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146961.html](http://www.nuforc.org/webreports/reports/146/S146961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
