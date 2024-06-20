@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Revere (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I observed a disk shaped, luminous tan colored UFO with tiny colored lights flashing on its surface moving slowly north by northeast.I am the only observer of this sighting.  I have a bachelor's degree in Philosophy and am a member of Phi Beta Kappa.  I am employed as a Mental Health Specialist working with abused and traumatized children in a residential program of a pediatric hospital in Brighton, MA. Last Tuesday night, June 20, 20000 at 22:00 hours, I glanced out one of my living room windows, the one facing west, and saw a UFO.  I grabbed a pair of binoculars I had handy in order to observe it more closely.  It was a single craft in a disk or saucer shape.  It appeared to be moving very slowly and at a low altitude in a north by northeast direction.  Because of this movement, I had to switch to a northerly facing window at the front of my living room through which to continue to observe it.  My being on a 3rd floor lifted me above the surrounding houses and gave me an unobstructed view of this object in the sky.  It appeared to glow and was luminous tan in color.  Tiny lights red, green, yellow, white, etc. in color flashed on & off all over the surface of this moving object.  This reminded me of the random flashing of a Christmas tree light array.  The disk of this craft did not appear to be rotating.  It was majestically beautiful in its polychromatic luminousness and surreal slow motion in the night sky.  At one point a jet or propeller airplane appeared through my binoculars in the same field of vision, but its white light was far more distant than the UFO and moved much more rapidly.  (Through an east window of my living room I can see Revere Beach, MA and the Atlantic Ocean.  The Logan International Airport is nearby.)  As the craft moved northeastward, it passed over the floodlights of the Wonderland race track north of my home.  Soon thereafter the UFO disappeared out of my view over the horizon.  From the moment I first saw it until this, approximately 15 minutes elapsed.  This craft was not a propeller plane or jet, not a helicopter, not a balloon, but, literally, a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13198.html](http://www.nuforc.org/webreports/reports/013/S13198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Orange lights seen on College road in Wilmington, NC.Dark early morning skies along College Road at 17th street intersection. I was returning to beach after taking a friend to the airport. Several cars were stopped on the road. I thought it was a traffic accident. I stopped behind another car and the driver got out of his car. As soon as he did, 3 orange lights zoomed by us overhead right above the tree line at a very fast rate of speed and continued down college road. I watched for a few minutes and then they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163974.html](http://www.nuforc.org/webreports/reports/163/S163974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
