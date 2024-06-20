@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:53 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:26 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Westminster (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Enormous oval shaped light, flashing on and off, illuminating through clouds as it moved at high rate of speed through sky.I am a retired lady, in my 60's and have been a star gazer and observer of aircraft or anything in the sky for many years, but I have never seen anything like I did last night.About 11:50 PM Thursday night, I was taking out some garbage.  The sky was mostly clear with some light clouds.  Air was calm.  I looked up in the sky and saw a flash of light through the clouds.  The light flashed on, then quickly off.  It flashed on and off again within  seconds, but was already quite a distance south of where I first saw it.  It continued flashing and moving north to south, until out of sight.  I did not see any craft or what might have caused the light.The light illuminated an oval shape through the clouds and larger than anything I have ever seen in the sky before.  I don't know the dimensions, but it dwarfed any aircraft I've ever seen.  You could compare it to a honeybee on a football.  There was no sound at all.  There is no aircraft I know of that could illuminate such a large area.  Could not tell how high it was because it was above a line of clouds the whole time, but just above the planes flying in the area, which were clearly visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98804.html](http://www.nuforc.org/webreports/reports/098/S98804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Port Wentworth (Pooler) (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Green glowing orb, shot across the sky from East to West.  Appeared out of no where.  Overcast sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134678.html](http://www.nuforc.org/webreports/reports/134/S134678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
