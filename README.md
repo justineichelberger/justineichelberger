@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I saw 3 lights that looked like spotlights at first.  They later started to gather together and play like children in the sky.  It was the most beautiful thing I ever saw.  I was too mesmerized to record it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70698.html](http://www.nuforc.org/webreports/reports/070/S70698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Aberdeen (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Fireball in sky over AberdeenOn Monday June 20th, 2016, at approximately 2100 hours (9pm) EDT, myself and 2 friends were looking for the moon due to there supposed to be a "strawberry" moon on this night.  While looking into the sky, a friend Lisa noticed a orange ball in the sky.  The rest of use went to look.  It looked like a huge fireball traveling from right to left (assuming west to east).  As it traveled further east, it decreased in size (assuming due to distance)and than the light would go out. You could still see a dark object in the sky, but not able to tell what it was. This happened 5 more times each time, traveling the same path.  Our line of sight allowed us to see this object for approximately 2 minutes each time.  I did manage to record a video, but the video does not do it justice.  There was no sound with it either.  We did call police to see if anyone else had reported the sighting, and they had not received any calls.We do live near a military base that does testing.  But the direction of travel was opposite of the way they normally fire test items, and also the no sound with it.I have no idea what I seen.  I am a adult of good reputation, do not do drugs, drink, nor am I crazy.I could see planes in the sky, I know what they look like, I know what a satellite looks like, I have seen shooting starts, this was nothing like any of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128005.html](http://www.nuforc.org/webreports/reports/128/S128005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
