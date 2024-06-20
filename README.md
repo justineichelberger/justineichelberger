@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 19 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Deerfield Beach (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>black dot not moving high in the skyok me my father and his friend were sitting outside on fathers day the 19th between 4 and 7 p.m. i dont recall the exact time. my father (who does not believe in ufo's whatsoever) spotted what appeared to be a small black dot very high in the sky (south east direction) not moving. the 3 of us continued to watch the object for 10 to 15 minutes, the object did not move at all in this time. when viewed threw binoculars the object appeared to have shape or in otherwords was not just a dot. the exact shape however could not be determined. after about 15 minutes of observation the object was covered by passing clouds for 30 to 45 minutes, when the cleared there was no sign of object. as i mentioned my father does not believe in ufo's, the 3 of us however did determine that it was much to high to be any sort of bird or plane not to mention the fact that it did not move at all.  NOTE: this is not a fake report just to get folks excited i simply would like to know if anyone else in the area noticed the object for personal clarification purposes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44519.html](http://www.nuforc.org/webreports/reports/044/S44519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Exeter (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>June 20, 2012, Exeter, NH - slowly-moving red/orange lights traveling in a wavering line across the evening sky, then fading away.My husband and I were driving home to Exeter, NH around 9:00pm when we noticed a string of slowly moving red/orange lights in the sky.  There was no sound, and the lights appeared to float in an erratic line, traveling from right to left above the horizon.As they traveled across the sky, each light would get to a certain point and then slowly fade out then disappear completely. It seemed to us that they were turning so that we no longer saw the lights.We reported this to a local police officer, who didn't seem concerned or interested. He said he would "call it in,"  but we saw no evidence of that.  In checking the newspapers and online, there was no mention of it.  The only place we've seen evidence of the same situation was on this website.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91453.html](http://www.nuforc.org/webreports/reports/091/S91453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
