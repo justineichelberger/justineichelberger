@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 20 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw small metallic shiny rotating rectangle like box flying over my house and neighborhood.This morning I got dressed and went out back of my house to cut the grass. I was looking around at the mess of my back yard and something caught my eye. There was a rectangle shaped box flying over my neighborhood above the treeline. The box was shiny and reflecting the sun. I saw now blades or propulsion of any kind. The whole time looking at it my eyes were watering from the sunlight so it was hard to really make out any other details. It was traveling west to east fairly slowly but high enought that it was hard to determine size and speed. It traveled out of sight within 45 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163732.html](http://www.nuforc.org/webreports/reports/163/S163732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>It was a bright circular object with mullti-colored llights in the center in the western sky over the Straits of Juan de FucaWe saw a bright llight in the west and thought it was a large plane with its landing lights on.  After 10 minutes or more it did not move.  It was not a planet or star, as it was too bright  for being almost above where the sun had set earlier (it was directly west over the Jaun de Fuca Straits).  We have a home with a view and own a spotting scope.  When we looked at the bright llight with the scope we could see multi-clolored lights apparently within the white light: red, organge green, blinking in no particular pattern.  After 30-45 minutes my wife and I went to bed, as the object was getting smaller, as it it were going west, or  just diminishing in size.  I am a retired clergyman, and  my wife is a registerred nurse.  Neither of us have ever seen anything llike this before and we would not be described as "believers" in UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23428.html](http://www.nuforc.org/webreports/reports/023/S23428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
