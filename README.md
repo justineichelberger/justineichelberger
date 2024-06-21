@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:09 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in London (Chingford Hatch) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Summary : On leaving a restaurant awaiting a Taxis, we looked at the sky. It was a Full Moon that night, We saw several spherical lights some of which were in formation of fours and threes.  Headed by slightly larger singular spherical lights which lead each group, these were seen by a waitress, four in the party, and the Taxis driver on his arival. When we arived at our destination, some 15 mins away, the lights were still visable in the sky, we do not know if they were the same lights. They were traverling in an east to west direction and we watch them pass overhead until they disappeared from our veiw at approx. 1-25am.As of above.We reported the event to the magazine " U.F.O Reality ".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02593.html](http://www.nuforc.org/webreports/reports/002/S02593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Casselberry (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>ORANGE BALL OBJECT SHOOTING ACROS THE SKY IN CASSELBERRY, FL RED BUG ROAD!!!LARGE ORANGE ROUND BALL A LITTLE SMALLER THAN THE MOON.  CAME OUT OF NOWHERE FROM EAST AND SHOT ACROSS THE SKY ABOUT 70 degrees from the horizons SHOOTING TO THE WEST.   LASTED 5 SECONDS.  HAD ORANGE TRAIL BEHING IT.  NO SOUND QUIET STEALTH LIKE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110484.html](http://www.nuforc.org/webreports/reports/110/S110484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
