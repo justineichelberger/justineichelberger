@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:44 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Capsule/Cylinder shaped object.I was talking outside with someone and noticed a object with a shadow underneath moving east before turning quickly northeast. It originated from the west and I only noticed it when it came from behind a tall building. It almost moved like a submarine moving through water. It seemed like a capsule or a plane without wings or a rutter. I noticed no sound. Other people were congregating outside at the time but most had there backs turned. I was the only one to actually notice. I told my friend but he was not too serious about it. No clouds were in the area at the time although the area is known for heavy air traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163780.html](http://www.nuforc.org/webreports/reports/163/S163780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newtown (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright star like light, shoots across sky, changes directions and then vanishes.A bright light in the sky caught my attention, it appeared to be a star but a little larger and brighter, it proceeded to cross the sky for about 3 seconds at a pace much faster then a plane, but slower than a shooting star, it then quickly changed direction and vanished into the night, leaving a trail of light behind it. I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64084.html](http://www.nuforc.org/webreports/reports/064/S64084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
