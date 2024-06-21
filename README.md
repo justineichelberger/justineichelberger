@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Forks (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.02 - 0.02 minutes.</sub><blockquote><sub>white light on road at 4:54pmmy friend and I were coming from forks wa to port angeles wa. I looked at the radio clock it was 4:44 the sigen out side of forks has 44 mi on it we thought this was weard becouse of all the 4# we saw at the same time.We drove past the place were the power lines had been repared from the winter storm..  Abought 1/2 mile from this airea is were we incounterd what was a leage flash of light..the light pushed my truck away from it, we heard what sounded like stadic, and the truck tires churping on the road.It took just a sec to recuver.  I was not going to stick around to see what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64036.html](http://www.nuforc.org/webreports/reports/064/S64036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Burlington (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We could not explain it  !!I lived on the 19th floor of an apartment building, myself & two others were enjoying the view on my belcony when I saw 3 red lights in the formation of a triangle moving without sound from the East right past us at about 500 to 1000 feet.As a private pilot I have an idea of altitude & speed through the air.It looked to be moving at around 100 to 150 kts.The three red lights went past us about 200 to 1000ft away from the building then turned to the North.But they turned as if they were one object maintaining this shape all the way.& they made the turn flat not banked like an aircraft would. I said to my two friends do you see that? They didn't at first untill I pointed right at it as it past by us.Then they said yes we see it.We could see the stars in the sky in between them, they apeard to be three seperet objects but they moved at the exact same time & speed as they turned & they keped the same distance from each other.As they headed North they apeared to pick up speed to what looked like over 300 kts & faded as they got farther away.That night it was calm and clear skies.They again made no sound,no wind from passing us & no exsaust of any kind.It was not something we could explain & it gave me goose bumps. I found it to be more fastinating then scary.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35654.html](http://www.nuforc.org/webreports/reports/035/S35654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
