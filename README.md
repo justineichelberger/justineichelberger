@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:46 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Spoke to Peter Davenport, report follows.Speed, 250 mph.  Height, 1000-1500ft. Course, SSW; from North of El Capi tan Mtn. Visuals, extremely bright lights (2). Poss side/rear light, no color. Poss no pulse pattern on side/rear light ie erratic. No other lights.Unable to see craft. Course not regular flight lane. Sound...low quiet vacuum cleaner. Lights, approx. 6ft apart..like giant headlights. This could have been a commuter jet, but was VERY QUIET! No other lights visable. Lights cast a large beacon ahead of it. Weather, perfect, cloudless night. No city lights for interference.Will send drawing, maps, and sketch of area of viewing, ASAP. ((personal data deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08128.html](http://www.nuforc.org/webreports/reports/008/S08128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Woodstock (VT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 600.0 - 600.0 minutes.</sub><blockquote><sub>To the southern side of the sky at midnight me and 4 of my friends and my parents saw this light that we thought was a dying star but then it moved in and out and disappeared when two airplanes came near it.  It is still going on and is terrifying us because it's making noise now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141901.html](http://www.nuforc.org/webreports/reports/141/S141901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
