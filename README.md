@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:09 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:32 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Casselberry (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>ORANGE BALL OBJECT SHOOTING ACROS THE SKY IN CASSELBERRY, FL RED BUG ROAD!!!LARGE ORANGE ROUND BALL A LITTLE SMALLER THAN THE MOON.  CAME OUT OF NOWHERE FROM EAST AND SHOT ACROSS THE SKY ABOUT 70 degrees from the horizons SHOOTING TO THE WEST.   LASTED 5 SECONDS.  HAD ORANGE TRAIL BEHING IT.  NO SOUND QUIET STEALTH LIKE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110484.html](http://www.nuforc.org/webreports/reports/110/S110484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>We saw a "V" shaped U.F.O in the sky.Me and my sister were playing by some railroad tracks during the afternoon when our mother called us in to eat.before we went in something told us to look to the sky.when we looked up, we saw a "V" shaped U.F.O. in the sky.We lived in the county side on a farm so we do not believe that this was a plane. I can not remember anything else so that all.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47499.html](http://www.nuforc.org/webreports/reports/047/S47499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
