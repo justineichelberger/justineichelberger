@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Gettysburg (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>I was visiting the site of the famous civil war battles by myself.  At that night, I was restless and got out of bed.  I looked out of my hotel window for no given reason.  There was a bright red-orange-yellow sphere in the sky.I woke up at 10:50.  I was very restless and I got out of bed to get a drink of water.  After a quick bathroom break I walked over to the hotel window, and pulled the curtain aside.  Nothing was normal at first to me.  I remember noticing the object in the sky and quickly passing it off for a plane or something else.  After a while it dawned on me that the object in the sky was not moving and was a very unnatural color which kept changing from red to yellow to orange and back to red again.  I could not tell what the shape of the craft was because of the lights which were growing and shrinking in size.  I stared at this figure in the sky for a long time.  Suddenly, the light dissapeared completely from sight, leaving no trace of its existance.  When I looked at the clock again it was 11:12.  The strangest part of this experience was that when I stepped back into bed, even though I had just experienced a strange and even scarry sight, I felt very relaxed and happy, and fell back to sleep easily.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07998.html](http://www.nuforc.org/webreports/reports/007/S07998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately still going - still going minutes.</sub><blockquote><sub>It looked like a star but it was flashing red and white, like a strobe.  It stop flashing disappeared moved to the right and started flashing again. Really far out, could easily be mistaken for a flashing star.  At some point I saw another pair of red flashining lights go really fast flying to the left. I'm a bit direction challenged but I'd say the flashing one was moving towards the south and the other one north.((NUFORC Note:  The time and date in the original report were flawed, and we have changed them.  The source of the report elects to remain totally anonymous, and provides no contact information, so we are unable to confirm the time and date.  Possible hoax, or possible sighting of a twinkling star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110481.html](http://www.nuforc.org/webreports/reports/110/S110481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
