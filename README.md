@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately still going - still going minutes.</sub><blockquote><sub>It looked like a star but it was flashing red and white, like a strobe.  It stop flashing disappeared moved to the right and started flashing again. Really far out, could easily be mistaken for a flashing star.  At some point I saw another pair of red flashining lights go really fast flying to the left. I'm a bit direction challenged but I'd say the flashing one was moving towards the south and the other one north.((NUFORC Note:  The time and date in the original report were flawed, and we have changed them.  The source of the report elects to remain totally anonymous, and provides no contact information, so we are unable to confirm the time and date.  Possible hoax, or possible sighting of a twinkling star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110481.html](http://www.nuforc.org/webreports/reports/110/S110481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Edgemere (on Lake Superior shoreline) (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my mother and I walked down to the edge of lake superior and we saw a black perfect square coming toward us which was hovering above the water..it was getting close and really big so we ran up the steep hill and looked out and it was gone....my guess it was a porthole or a wormhole or something but ill i know is i will never forget it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08012.html](http://www.nuforc.org/webreports/reports/008/S08012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
