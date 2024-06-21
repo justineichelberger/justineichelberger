@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mason (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing red misty orb seen by two people that we know of in Mason, WV.On the evening of 6/21/15, I and my girlfriend were riding our scooter down a backstreet of mason w.v. at 9:17pm.  We came to a stop sign and stopped, and as we were about to go on down the street, a red light caught my attention out of the corner of my eye and I looked up to see this "red misty light" come out of a cloud.  I immediately pulled off the road and pointed it out to my girlfriend and she was awestruck by it.  We parked the scooter in someone's yard and walked to the middle of the road and looked up to watch this misty red light that resembled a fog of red fire but there were no flames.  We watched it for about 5 mins as it zigzaged across the sky right above us.  It had no distinctive shape behind the light as if it were just a ball of misty light.  It was still partially day light at the time and the light was extremely bright.  As we watched it come across the sky we could tell it was nothing we had ever seen just by the weird jerky way it flew and it didn't make a noise at all.  Just as it was directly above us a small plane flew over the hills behind us and as soon as the plane came close the misty light disappeared.  We were stunned, it was if the light knew it was being watched and didn't want the plane to see it.  What ever this thing was I have never seen anything like it.  It was definitely aware of its surroundings and seemed to know it was seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119692.html](http://www.nuforc.org/webreports/reports/119/S119692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Gettysburg (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>I was visiting the site of the famous civil war battles by myself.  At that night, I was restless and got out of bed.  I looked out of my hotel window for no given reason.  There was a bright red-orange-yellow sphere in the sky.I woke up at 10:50.  I was very restless and I got out of bed to get a drink of water.  After a quick bathroom break I walked over to the hotel window, and pulled the curtain aside.  Nothing was normal at first to me.  I remember noticing the object in the sky and quickly passing it off for a plane or something else.  After a while it dawned on me that the object in the sky was not moving and was a very unnatural color which kept changing from red to yellow to orange and back to red again.  I could not tell what the shape of the craft was because of the lights which were growing and shrinking in size.  I stared at this figure in the sky for a long time.  Suddenly, the light dissapeared completely from sight, leaving no trace of its existance.  When I looked at the clock again it was 11:12.  The strangest part of this experience was that when I stepped back into bed, even though I had just experienced a strange and even scarry sight, I felt very relaxed and happy, and fell back to sleep easily.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07998.html](http://www.nuforc.org/webreports/reports/007/S07998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
