@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Woodstock (VT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 600.0 - 600.0 minutes.</sub><blockquote><sub>To the southern side of the sky at midnight me and 4 of my friends and my parents saw this light that we thought was a dying star but then it moved in and out and disappeared when two airplanes came near it.  It is still going on and is terrifying us because it's making noise now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141901.html](http://www.nuforc.org/webreports/reports/141/S141901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vail (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silvery/white sphere seen moving in a mostly clear blue sky at about 6:30PMI am a MUFON member and work as a security guard here in Vail. I had gotten home from work at about 6:30PM and was going back to my truck to get something when I spotted the object.  I have had UFO sightings before and often scan the skies.  The object appeared silvery/white in color and was about the size of a 1/8" BB at arms length. I estimate it was 1-2 miles away at the time, and about 50-60 degrees high in the sky. It was moving slowly to the southeast away from me, and at one point appeared to slow and stop, before continueing to the southeast and fading away in the blue sky. I had it in view for 5-6 minutes and had time to get my 35mm camera and take two pictures using the telephoto setting, which unfortunately is not too powerful. The sky was mostly clear with a few wispy clouds. There was no apparent wind at the time, but about 20-30 minutes after the sighting the wind did begin to blow and I saw that the clouds were moving to the northeast, which is at a right angle to the direction I saw the object moving. My first thought was that the object could be a large balloon but the fact that the UFO appeared to slow and stop, and move at right angles to the wind made me discount this. I hope something shows up in my pictures that I can send to you.((NUFORC Note:  We express our gratitude to the source of the report, and to MUFON COLORADO for sharing the information with NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29368.html](http://www.nuforc.org/webreports/reports/029/S29368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
