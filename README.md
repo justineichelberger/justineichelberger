@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:00 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:51 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>objects seen while waiting on city busesAt approximately 3:30 p.m. I seen and photographed a cigar shaped craft at a high altitude.  I was standing on the corner of W. Burnside Street and N.W. 5th ave waiting on a city bus.  This craft emited light (but it could have been from the sunlight reflecting off the object).  It was not (in my opinion) a regular airplane because there was no wings.  I seen this craft cruising around 5 m.p.h. seemingly because of its altitude.  I grabbed my camera and managed to take three pictures of it before it vanished.  This craft was flying in a straight south to north direction The second craft was see while again waiting for a city bus at the corner of S.W. 5th ave and S.W. Washington Street.  This object was much closer to the ground and appeared to be cruising at about 5 m.p.h. also, this craft had no wings.  I could see more detail but was not able to tell that much about it because I was not wearing my glasses at the time.  This craft appeared at around 3:52 p.m. and both objects were seen over Downtown Portland.  I was not able to get pictures of this craft because I was viewing it between buildings as it was flying.  Both objects did not emit sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13158.html](http://www.nuforc.org/webreports/reports/013/S13158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white ball outlined with what appeared to be fire.It was a bright white ball that appeared to have been outlined with almost a burning fire look to it.  It wasn't very close but it also wasn't very far away, we could see objects that would have been farther behind it, like telephone poles and such.  The object was low in the sky, appeared to be coming right towards us and we thought it was a plane on fire about to crash until it began to rise straight up.  It was a very clear night, not a cloud in the sky.  The light from the object did not go out, we were able to watch it go all the way up into the sky as far as the eye could see and then it got too far up and was no longer visible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110503.html](http://www.nuforc.org/webreports/reports/110/S110503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
