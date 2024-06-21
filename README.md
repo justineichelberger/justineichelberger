@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burnley (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright light hovering in sky which expanded then vanishedWe watched a bright light in the sky which started off small and then seemed to grow double it size. It hovered and darted around in the sky for around 3 minutes. Then there was a large flash which illuminated the sky around 3 seconds and the object had diapered completely. The was very  little cloud coverage at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64018.html](http://www.nuforc.org/webreports/reports/064/S64018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mason (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing red misty orb seen by two people that we know of in Mason, WV.On the evening of 6/21/15, I and my girlfriend were riding our scooter down a backstreet of mason w.v. at 9:17pm.  We came to a stop sign and stopped, and as we were about to go on down the street, a red light caught my attention out of the corner of my eye and I looked up to see this "red misty light" come out of a cloud.  I immediately pulled off the road and pointed it out to my girlfriend and she was awestruck by it.  We parked the scooter in someone's yard and walked to the middle of the road and looked up to watch this misty red light that resembled a fog of red fire but there were no flames.  We watched it for about 5 mins as it zigzaged across the sky right above us.  It had no distinctive shape behind the light as if it were just a ball of misty light.  It was still partially day light at the time and the light was extremely bright.  As we watched it come across the sky we could tell it was nothing we had ever seen just by the weird jerky way it flew and it didn't make a noise at all.  Just as it was directly above us a small plane flew over the hills behind us and as soon as the plane came close the misty light disappeared.  We were stunned, it was if the light knew it was being watched and didn't want the plane to see it.  What ever this thing was I have never seen anything like it.  It was definitely aware of its surroundings and seemed to know it was seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119692.html](http://www.nuforc.org/webreports/reports/119/S119692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
