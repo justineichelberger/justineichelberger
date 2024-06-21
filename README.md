@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:32 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>We saw a "V" shaped U.F.O in the sky.Me and my sister were playing by some railroad tracks during the afternoon when our mother called us in to eat.before we went in something told us to look to the sky.when we looked up, we saw a "V" shaped U.F.O. in the sky.We lived in the county side on a farm so we do not believe that this was a plane. I can not remember anything else so that all.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47499.html](http://www.nuforc.org/webreports/reports/047/S47499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mountain Grove (MO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A stat Zig zag moving quickly there the night sky.A star in the night sky.  Zig zag across the sky.  And kept moving.  Disseaper quickly and repear.  Quickly.  Moving. to different locations.  Fast zig zag.  Then eventually the clouds covered it.Was.laying down on a blanket star gazing.  At the beautiful stars.  Which I do often.((NUFORC Note:  We have amended the time and date above, to reflect a sighting on Wednesday morning.  Source of report elects to remain anonymous, so we are unable to contact him/her, in order to confirm the time and date of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134705.html](http://www.nuforc.org/webreports/reports/134/S134705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
