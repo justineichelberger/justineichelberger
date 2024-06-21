@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Edgemere (on Lake Superior shoreline) (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my mother and I walked down to the edge of lake superior and we saw a black perfect square coming toward us which was hovering above the water..it was getting close and really big so we ran up the steep hill and looked out and it was gone....my guess it was a porthole or a wormhole or something but ill i know is i will never forget it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08012.html](http://www.nuforc.org/webreports/reports/008/S08012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kihei (HI) reported seeing craft that fit the description of some 'Other' over a period of approximately 03:00 - 03:00 minutes.</sub><blockquote><sub>sudden bangs of sound, went outside and flashing lights. know it was not 'right'sonic booms, flashing lights, no joke. most likely military, but never know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81878.html](http://www.nuforc.org/webreports/reports/081/S81878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
