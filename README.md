@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newtown (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright star like light, shoots across sky, changes directions and then vanishes.A bright light in the sky caught my attention, it appeared to be a star but a little larger and brighter, it proceeded to cross the sky for about 3 seconds at a pace much faster then a plane, but slower than a shooting star, it then quickly changed direction and vanished into the night, leaving a trail of light behind it. I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64084.html](http://www.nuforc.org/webreports/reports/064/S64084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Spoke to Peter Davenport, report follows.Speed, 250 mph.  Height, 1000-1500ft. Course, SSW; from North of El Capi tan Mtn. Visuals, extremely bright lights (2). Poss side/rear light, no color. Poss no pulse pattern on side/rear light ie erratic. No other lights.Unable to see craft. Course not regular flight lane. Sound...low quiet vacuum cleaner. Lights, approx. 6ft apart..like giant headlights. This could have been a commuter jet, but was VERY QUIET! No other lights visable. Lights cast a large beacon ahead of it. Weather, perfect, cloudless night. No city lights for interference.Will send drawing, maps, and sketch of area of viewing, ASAP. ((personal data deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08128.html](http://www.nuforc.org/webreports/reports/008/S08128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
