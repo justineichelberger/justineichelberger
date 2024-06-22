@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>14 lights of various size, shape and color over Portland, Oregon.14 lights of various sizes, and mostly white, were covering about 10 range in the sky.A group 4 adults, 2 -17 year olds and my 14 year old son were sailing on the Columbia River near Portland, OR, when one looked up at the wind indicator and alerted everyone to what he thought were a group of skydivers.  Many points of light and one was crescent shaped, like a modern parachute.As we kept watching we realized they were not getting any closer and there were some that appeared either smaller or farther away and two were red, for a total of 14 items.All of these items pretty much kept their scattered distance as they slowly proceeded from east to west but the odd thing it the crescent shaped object rotated very slowly…perhaps twice over the 15 or so minutes we saw them.I thought that with the height of the sun, it may be reflection off some space debris but when first spotted, the convex side of the crescent object was illuminated but when it rotated 180 degrees the convex side was still illuminated, but should have been in the shadow.  Also, the two red objects were very bright red.((NUFORC Note:  We spoke with this witness, and he sounded to us to be quite sober-minded.  We suspect that he is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110540.html](http://www.nuforc.org/webreports/reports/110/S110540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>fireball moving very quick,entered the atmasphere,a fireball entered the atmasphere, and then like a shooting star disappeared, the ball split into two, the ball continued as the part split off disintegrated. It was bright and so very fast, it was the fastest moving object i think i have and will ever see.((NUFORC Note:  The description is not inconsistent with a meteor.  Traditionally, meteors will disintegrate toward the end of their flight through the atmosphere, an event called a "terminal burst."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23407.html](http://www.nuforc.org/webreports/reports/023/S23407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
