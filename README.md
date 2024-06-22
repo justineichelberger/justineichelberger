@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:54 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Arnold (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blue orb hovered over a tree, 2 doors down from my house in Arnold, MOI was up late, as usual.  I often look out my back window at an intriguing light that I see in the distance regularly.  Sometimes it is there, other times it is not.Last night, it was there, so I watched it out my deck door.  As I watched it, it started moving closer, and fast.  It came al the way to my neightbor's house, two doors down.  It hovered over the tree.  It was a huge blue starlight orb.  It had fuzzy edges that almost appeared as a fiberoptic matter.  It stayed over the tree. It made no sounds.  It didn't really "flash lights," but the whole item appeared as one HUGE light orb...with twinkly edges. It was about the size of the top of the massive tree.  When it started moving, I ran to look out of my front window.  My visibility is awful, and I didn't see it, but I did see the reflection of flashing lights on the house across the street.I also saw what appeared to be a bunch of lights, similar the this one in the distance, all moving jaggedly--there were about 5 others straight ahead and small and distant.This morning, the tree top was a bit brown, and not green like the rest of the tree.I am not sure if this is related, or not--but this morning, my garage door closed itself.  Also, I had a V-shape in dust on my hood and strange handprints all over my car--not sure if this was related, or not--when you see what I saw, you begin to believe in anything being possible.  I took pics of the dust marks on my car...I will email them.I googled the sighting, but found no others like mine--however, there was a helicopter (this afternoon)hovering in the same path as the object was last night, over the tree and where it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89941.html](http://www.nuforc.org/webreports/reports/089/S89941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TO:  National UFO Reporting Center From:  ((Name deleted))  Dear National UFO Reporting Center, I live in the city of Evansville, located in southern Indiana.  At approximately 10:45 p.m. on June 22, my fiancee and I both noticed a strange speck of light as we stood on the ledge of our second story apartment.  The light behaved in a bizarre fashion, moving at what seemed to be incredible speeds in a zigzag motion back and forth.  It would disappear into some trees for a moment then reappear.  The entire episode lasted until 10:50. In are attempt to give this moment a rational explanation we both ruled out the following: The object did not appear to be any type of aircraft due to it's bizarre flying behavior, nor was it a search light because there was no ground source projecting it. I am writing this to the National UFO Reporting Center in the hopes that there may have been others that had witnessed this strange event.  It may be possible that the object was picked up on radar at our local air port though I could not obtain that information at this time. Whatever it was it has defiantly spooked both of us into thinking that much of the stuff we see on TV may not be figments of the imagination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04161.html](http://www.nuforc.org/webreports/reports/004/S04161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
