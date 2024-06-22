@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Liskard (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright flash,large very bright star looking light hovering then quickly vanishing straight up and fading completely within half a seconI was driving south on Hwy. 11 at 3:27 am about 10 km north of New Liskard, Ontario, when a sudden flash of light almost like a camera flash came from the sky when I looked up through the top part of the windshield I noticed a light  that looked like a star only 4 or 5 times bigger and 10 or 20 times brighter it stayed in the same spot for  about 20 or 30 seconds and the excellerated almost straight up and got smaller and dimmer and completely disappeared within about half to a full second.  The Sirius radio had also lost its signal during the time that the light was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110669.html](http://www.nuforc.org/webreports/reports/110/S110669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>i seen 2 ufosSo I was looking north in downtown vancouver BC, I seen 2 "stars" parallel to each other @ 90 degrees. move to the east, move in toward each other........one went in front of the other,  both in a paralell line, then both objects   similtaniousley headed in an eastern direction across the sky and the whole incident occured in a time frame less tan 30 sec.. there were no witnesses except for myself in a crowd of 10 people........no one was looking up.........go figure.Thanks :)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64072.html](http://www.nuforc.org/webreports/reports/064/S64072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
