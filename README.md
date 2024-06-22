@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Amsterdam (The Netherlands) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was video taping the clouds cause we might get a storm here and I noticed this flying object and  videotaped it poorly http://www.youI captured it on video here is the link: http://www.youtube.com/watch?v=Mkwfy9IFThM I also noticed a halo around the sun but that has prolly nothing to do with it although it looked beautifull cause I have never before seen/noticed that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57228.html](http://www.nuforc.org/webreports/reports/057/S57228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Albany (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 reddish lights hovering in side-triangle formation - split apart 2 off to the east like lighting one remained hovering over tree lineNortheast sky 3 reddish color lights hovered in a side-triangle formation.   Two eventually "flew" toward the east in a sideways manner (very fast) and the 3rd one streaked downward and then hovered over a tree line - eventually lifted up and we thought possibly towards us, then slowly remained going upward and then away from us until out of sight.   They did not get close enough for us to see any shape, other than 3 round lights - and they may have "pulsed" very slightly.   My 1st time ever witnessing anything like this!!   Objects may have been too far away to get picture with cell phone...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110542.html](http://www.nuforc.org/webreports/reports/110/S110542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
