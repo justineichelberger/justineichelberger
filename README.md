@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in South Milwaukee (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Illuminated cigar shaped object flew in straight line overhead.Illuminated cigar ship traveled across sky silently, quicker/higher than a plane.Traveled in a straight line.Still light out, just before dusk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134714.html](http://www.nuforc.org/webreports/reports/134/S134714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Amsterdam (The Netherlands) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was video taping the clouds cause we might get a storm here and I noticed this flying object and  videotaped it poorly http://www.youI captured it on video here is the link: http://www.youtube.com/watch?v=Mkwfy9IFThM I also noticed a halo around the sun but that has prolly nothing to do with it although it looked beautifull cause I have never before seen/noticed that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57228.html](http://www.nuforc.org/webreports/reports/057/S57228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
