@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:54 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>V shaped  soundless aircraftWhile standing on my patio I saw a "V" shaped set of lights pass by an an un-determinable altitude pass by and disappear in about 4 seconds after I noticed it. There was no wind and visibility was extreme clear. There were stars out in the background nothing in the sky that would obscure visibility. There were also a few dissapating Con Trails at higher altitudes. The best description I can offer is that it looked very much like the image I found depicted on the top of this page.  It was a "V" shaped set of low intensity lights with 1 at the point, and 4 or 5 on each leg of a symmetrical shaped "V". It disapeared after about 4 seconds which was not obscured by any ground objects or the horizon.  What confused me is that there was no sound, and that there was plenty of background light which would provide a view of the vehicle the lights were a part of, and there was nothing. It was simply a formation of low intensity lights, shaped in an angle that no aircraft (commercial or military) I know of.  For the record... I'm not a believer in extra terrestial life or aliens from another planet. I've also seen plenty of waterfowl formations at night and can assure you that idea has no merit in my opinion.   I would be more apt to chalk it up to a secret reconnasiance type of craft that has not been made public yet. Stranger things have happened.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57246.html](http://www.nuforc.org/webreports/reports/057/S57246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ansted (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bizarre light in small town that changed colors, other strange sightings within the same week.I know that I'm reporting this over a decade later but I recently found the notebook that I had this information written in.My husband and I were driving home after going to the movies and when we were coming down the hill by the baseball field we saw a bright light in the sky.  There were no stars out, it was very cloudy.  We saw a bright light to our right, above the mountain.  We had our windows rolled down the air felt as if it was electrified.  We parked at the baseball field and watched the light amazed at it.  The mountain it was above it is impossible to go up it without being on an 4-wheeler.  We watched the light and it started to move and change colors, it changed blue, green, orange, yellow, purple and white and every color in between.  All of a sudden it zipped towards us and vanished.2 days later I was on my way back from the hospital and I took the same road to get home and I saw a light on the mountain, and it was changing colors just like it was the few nights before.About a week later on the other mountain that intersects with the mountain in which the original light was see it looked as if there was spot lights shining up in the sky.  Nobody lives that far up that mountain at all, that mountain is classified in another county.  The lights that looked like spot lights were there every night for almost a month before they completely vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94249.html](http://www.nuforc.org/webreports/reports/094/S94249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
