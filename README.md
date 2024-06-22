@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gary (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:45 - 1:45 minutes.</sub><blockquote><sub>white geometrically moving lights on a stationary craft over Gary, INIt was a cloudy evening.  And the two witnesses living a mile apart could see 4 fast moving lights (north, south, east and west) that would move, bump each other and go back apart.  It was like the spokes on a wheel.  The lights would make a small turn and go back into the center of the 'wheel'. When the lights would 'bump' (in the center) they would stay lit.  It was absolutely nothing like a search light. From the ground using the naked eye, it appeared that the lights were about 4 -5 feet in diameter. The lights were a soft white with lots of movement inside of the actual light. There was no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57292.html](http://www.nuforc.org/webreports/reports/057/S57292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two fast moving objects one shoot out of the atmosphereMy friend and i were looking at the sky when this craft just changed direction very fast.  Then out from around the same place another oject super high and white in colour moved in a side to side motion then disappeared upwards into the atmosphere. But one of the ojects kept going in a north west direction.  This did not look like anything i have seen before.  It was a very clear night and a few clouds you could tell the object was very high because of how much past the clouds it was. And at the height it was moving at unbelieveable speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13170.html](http://www.nuforc.org/webreports/reports/013/S13170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
