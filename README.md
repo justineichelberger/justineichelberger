@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gary (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:45 - 1:45 minutes.</sub><blockquote><sub>white geometrically moving lights on a stationary craft over Gary, INIt was a cloudy evening.  And the two witnesses living a mile apart could see 4 fast moving lights (north, south, east and west) that would move, bump each other and go back apart.  It was like the spokes on a wheel.  The lights would make a small turn and go back into the center of the 'wheel'. When the lights would 'bump' (in the center) they would stay lit.  It was absolutely nothing like a search light. From the ground using the naked eye, it appeared that the lights were about 4 -5 feet in diameter. The lights were a soft white with lots of movement inside of the actual light. There was no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57292.html](http://www.nuforc.org/webreports/reports/057/S57292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>14 lights of various size, shape and color over Portland, Oregon.14 lights of various sizes, and mostly white, were covering about 10 range in the sky.A group 4 adults, 2 -17 year olds and my 14 year old son were sailing on the Columbia River near Portland, OR, when one looked up at the wind indicator and alerted everyone to what he thought were a group of skydivers.  Many points of light and one was crescent shaped, like a modern parachute.As we kept watching we realized they were not getting any closer and there were some that appeared either smaller or farther away and two were red, for a total of 14 items.All of these items pretty much kept their scattered distance as they slowly proceeded from east to west but the odd thing it the crescent shaped object rotated very slowly…perhaps twice over the 15 or so minutes we saw them.I thought that with the height of the sun, it may be reflection off some space debris but when first spotted, the convex side of the crescent object was illuminated but when it rotated 180 degrees the convex side was still illuminated, but should have been in the shadow.  Also, the two red objects were very bright red.((NUFORC Note:  We spoke with this witness, and he sounded to us to be quite sober-minded.  We suspect that he is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110540.html](http://www.nuforc.org/webreports/reports/110/S110540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
