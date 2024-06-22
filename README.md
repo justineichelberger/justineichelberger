@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:49 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>i seen 2 ufosSo I was looking north in downtown vancouver BC, I seen 2 "stars" parallel to each other @ 90 degrees. move to the east, move in toward each other........one went in front of the other,  both in a paralell line, then both objects   similtaniousley headed in an eastern direction across the sky and the whole incident occured in a time frame less tan 30 sec.. there were no witnesses except for myself in a crowd of 10 people........no one was looking up.........go figure.Thanks :)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64072.html](http://www.nuforc.org/webreports/reports/064/S64072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tatum (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>BRIGHT LIGHT THAT HOVERED THEN MOVED AT GREAT SPEED.WE WERE TRAVELING HOME FROM FAMILY VACATION TO CALIFORNIA.  WE LIVE IN TEXAS.  OUR 2 KIDS WERE ASLEEP IN THE BACK OF OUR VAN.  MY HUSBAND AND I WERE THE ONLY ONES AWAKE.  MY HUSBAND WAS DRIVING.  FOR ABOUT 15 MIN.  WE HAD BEE OBSERVING A BRIGHT LIGHT IN THE DISTANCE IN FRONT OF US.  WE ASSUMED IT WAS A SOME SORT OF TOWER WITH A BRIGHT LIGHT.  WHEN WE WERE LEAVING TATUM NEW MEXICO AND WERE GETTING CLOSER TO THE LIGHT.  OF A SUDDEN THE LIGHT STARTED MOVING TO THE RIGHT SORT OF HOVERING,  WE THOUGHT IT WAS AN AIRPLANE,  THEN IT WENT UP VERY FAST TURNED AND HOVERED SOME MORE TO THE RIGHT AND AT SAME TIME THE LIGHT WAS VERY BRIGHT THE GROUND WAS BEING LIT UP AS IT WAS HOVERING,  THEN IT SHOT UP AGAIN THEN WENT RIGHT AT HIGH SPEED TO THE REAR OF US,  WE CONTINUED DRIVING,  THE LIGHT WAS AT THE REAR AND STAYED THERE HOVERING AS WE CONTINUED TO DRIVE TO PLAINS TX. THE NEXT TOWN.  THEN WE LOST SIGHT OF IT.  MY HUSBAND AND I A LITTLE FRIGHTENED BY THIS.  DO NOT EVER WANT TO EXPERIENCE THIS AGAIN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29417.html](http://www.nuforc.org/webreports/reports/029/S29417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
