@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 21 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nowshahr (Iran) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light that go very fast in IranI saw 2 of craft that light (red) one of them go very fast and hide but another one go a little slower and that's not hide . the first (that go fast) is a light in red but another one (that's go slower) has 4 (I think) light in red and yellow. I saw them in east of sky and go westward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57221.html](http://www.nuforc.org/webreports/reports/057/S57221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>V shaped  soundless aircraftWhile standing on my patio I saw a "V" shaped set of lights pass by an an un-determinable altitude pass by and disappear in about 4 seconds after I noticed it. There was no wind and visibility was extreme clear. There were stars out in the background nothing in the sky that would obscure visibility. There were also a few dissapating Con Trails at higher altitudes. The best description I can offer is that it looked very much like the image I found depicted on the top of this page.  It was a "V" shaped set of low intensity lights with 1 at the point, and 4 or 5 on each leg of a symmetrical shaped "V". It disapeared after about 4 seconds which was not obscured by any ground objects or the horizon.  What confused me is that there was no sound, and that there was plenty of background light which would provide a view of the vehicle the lights were a part of, and there was nothing. It was simply a formation of low intensity lights, shaped in an angle that no aircraft (commercial or military) I know of.  For the record... I'm not a believer in extra terrestial life or aliens from another planet. I've also seen plenty of waterfowl formations at night and can assure you that idea has no merit in my opinion.   I would be more apt to chalk it up to a secret reconnasiance type of craft that has not been made public yet. Stranger things have happened.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57246.html](http://www.nuforc.org/webreports/reports/057/S57246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
