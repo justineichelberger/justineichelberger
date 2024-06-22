@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Raton (NM) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two men installing TV dish witness strange obj. in clear sky.  No visible wings, exhaust; silent.  Very good view.  Obj. drifted off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00588.html](http://www.nuforc.org/webreports/reports/000/S00588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Niles (IL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>V-shaped craft observed over northern Chicago suburb.The object first appeared in the southwest bearing northeast.  The sun had set at about 8:31 p.m. and some ambient light remained near the northwest horizon.  In addition to this light, ground light also added light to the night sky so that the sky was not totally dark.I first noticed a rippling in the sky out of the corner of my eye.  Drawn to what was causing this phenomenon, I looked at that area of the sky and was able to discern the object.It was impossible to judge the size of the object, however the appearance of its width in the sky was approximately slightly larger than the width of a full moon.The craft was completely silent and no exhaust could be perceived.  It had no navigation lights.  A very slight perturbation was visible surrounding the craft--a rippling of the atmosphere.  This phenomenon was similar to that observed when heat waves are rising from asphalt on a hot summer day.Shortly after the craft passed the zenith, it turned towards due north with no perceptible change in speed.   Unlike a conventional aircraft that would have had to bank to affect a turn, this craft simply turned without banking and changed its vector smoothly and rapidly towards the north.Based on my observation -- which lasted no more than 12 to 15 seconds -- I believe this craft is an advanced U.S. Air Force stealth platform designed for secret aerial reconnaissance missions.  It uses an anti-gravity propulsion system, perhaps electro-gravitic.   When it changed its vector it was obvious that the "wings" were not used to keep the craft airborne.  The wings were not needed to provide lift or employed as an aerodynamic airfoil.  This was demonstrated by the fact that it did not bank when executing its turn.  Three dimly lit gray circles under the "wings" were what seemed to provide its "lift" and propulsive force.Because of the luminosity of the night sky the object was easily discernable once I spotted it.  The craft seemed to slide rather than fy through the night sky.What is also revealing is that this craft flew directly through the TCAs (terminal control areas) of two major airports:  Chicago O'Hare Airport and Chicagoland Executive Airport (formerly Palwaukee Airport) the nation's busiest executive airport without any alert that I heard of later.  I'm familiar with both civilian and known military aircraft having attended flight ground school and obtained a private pilot's license for fixed wing single-engine aircraft back in 1977.I made a drawing of the craft in photoshop shortly after my observation so the details would be fresh in my memory.  I will email a JPEG of it to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71523.html](http://www.nuforc.org/webreports/reports/071/S71523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
