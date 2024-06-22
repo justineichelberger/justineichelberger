@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Inverness (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>A purple-ish blue figure in the sky twirling in a box like motion, very very freaky!!A couple of my relatives were over earlier this evening before the event took place.  While standing outside saying goodbye, my younger nephew was screaming.  So instinctively my family and i wanted to know what was wrong. That is when we all noticed what he was pointing at.  I, myself was very shocked and breath taken, do not believe of other life being on distant planets.  But this event shocked the hell out of me and is making me re-think.What we saw-a purple-ish blue figure in the sky twirling in a box like motion.  It made no sounds and gave us all an ominous feeling in the guts of our stomachs.  It lasted about 25-30 seconds before it dissociated from as far as we could see.Long story short, very very freaky.P.S.--We do not have any airports near by, and where i reside is made up of a community of senior citizens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64067.html](http://www.nuforc.org/webreports/reports/064/S64067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Liskard (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright flash,large very bright star looking light hovering then quickly vanishing straight up and fading completely within half a seconI was driving south on Hwy. 11 at 3:27 am about 10 km north of New Liskard, Ontario, when a sudden flash of light almost like a camera flash came from the sky when I looked up through the top part of the windshield I noticed a light  that looked like a star only 4 or 5 times bigger and 10 or 20 times brighter it stayed in the same spot for  about 20 or 30 seconds and the excellerated almost straight up and got smaller and dimmer and completely disappeared within about half to a full second.  The Sirius radio had also lost its signal during the time that the light was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110669.html](http://www.nuforc.org/webreports/reports/110/S110669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
