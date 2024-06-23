@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Blairsville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange triangular shape objectI was watching Saturday night live. My dad had gotten out of bed and went to the bath room. When he came out he told me to go look at the window. I did. When I did. I saw this triangular object. It wasn't going fast enfough to be staying in the air. And it Was way to low to land at any airport around. It looked more like it was moving becuase of another force that one of its on. It was triangular with 3 liges on each point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18347.html](http://www.nuforc.org/webreports/reports/018/S18347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle craft traveling back and forth East and West over Ypsilanti around 10:30The second night in a row that I saw triangle shaped craft flying over my house in Ypsilanti. They flew over East to West around 10:30 pm and West to East around 10:45 pm. The craft looked to be triangular judging by the light position; lights would blink in sequence one after the other, and the lights may have been changing color. The night before my sister and I had seen something and she saw it and didn't know what it was, this time she said it was a plane, but I trust my judgement more than hers. Before I ever say anything I make sure it isn't a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90060.html](http://www.nuforc.org/webreports/reports/090/S90060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
