@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:54 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Forest Hills (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular craft came from North spinning, settled on ground 2:00 minutes, no spin.  Take off high speed.  5 pictures only.Rainy and high wind for few minutes.  No wind and Rabin (sic. Rain)  stop when craft enter my yard from North gate.  It was spinning counter clock wise.  The circular craft steeled (sic.  Still) on the ground and spin stopped.  Take off in about 2:00 minutes without any noise or smoke and no wind.  Just gone in few seconds, great speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119908.html](http://www.nuforc.org/webreports/reports/119/S119908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in West Jefferson (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Eight orange glowing orbs in v formation visible for several nights at the same time.Around 1970, a relative of ours called and said we should come look at some strange objects he'd been seeing at night.  We went down and around 9 pm, approximately 8 glowing orange orbs passed overhead in a loose v formation.  They were soft orange in color, appeared spherical, and made no sound.  Their diameters were somewhat smaller than the full moon.  As they passed over us, the formation shifted slightly and one of them stopped overhead and hovered while the others went on.  We pointed a flashlight up toward it and flashed it on and off a few times.  It dimmed and brightened somewhat in what appeared to be a response. At this point we all freaked and got into the house.  The objects appeared nearly every night for about two weeks, and I have never seen anything like that since. My uncle, aunt, two cousins, my mom, stepdad, and I all witnessed this event.((NUFORC Note:  Witness does not indicate it, but the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50670.html](http://www.nuforc.org/webreports/reports/050/S50670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
