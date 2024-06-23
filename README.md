@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:54 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:18 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in West Jefferson (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Eight orange glowing orbs in v formation visible for several nights at the same time.Around 1970, a relative of ours called and said we should come look at some strange objects he'd been seeing at night.  We went down and around 9 pm, approximately 8 glowing orange orbs passed overhead in a loose v formation.  They were soft orange in color, appeared spherical, and made no sound.  Their diameters were somewhat smaller than the full moon.  As they passed over us, the formation shifted slightly and one of them stopped overhead and hovered while the others went on.  We pointed a flashlight up toward it and flashed it on and off a few times.  It dimmed and brightened somewhat in what appeared to be a response. At this point we all freaked and got into the house.  The objects appeared nearly every night for about two weeks, and I have never seen anything like that since. My uncle, aunt, two cousins, my mom, stepdad, and I all witnessed this event.((NUFORC Note:  Witness does not indicate it, but the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50670.html](http://www.nuforc.org/webreports/reports/050/S50670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Berwyn (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>small very bright pin prick of light zig-zagging across the sky extreamly fast.It was a small pin prick of light, unlike a star, or satellite, only much much brighter. i first saw it in the north west sky then it quickly moved to the southern, then eastern sky; it was blinking the whole time and each time it blinked it was in a new location. this object was moving faster than anything man made (that i know of).And i am 100% sure it was not a firefly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70670.html](http://www.nuforc.org/webreports/reports/070/S70670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
