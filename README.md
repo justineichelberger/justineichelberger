@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slowly and evenly pulsing light that alternated between invisible and extremely bright as it travelled North.I was sitting on my deck at about 2255 using my iPad when, out of my peripheral vision, I noticed what looked like an extremely bright meteor, gradually increasing in brightness to the Southwest of my location (about 260-270 degrees azimuth).  It was about 45 degrees elevation, fairly close to Saturn.As I watched the object, it slowly decreased in brightness until it was invisible.  I thought, that's cool, I just saw a meteor that must have been headed straight towards me because it left no trail at all.  Then less than a minute later, it showed up again a little farther North.  But this time I watched as it gradually and evenly increased from invisible to a tiny pinprick of light, then to it's full brightness and back again to invisible.At this point, I ran inside to get my fiancee to come outside to witness it.  I told her to look up to where I guessed it would show up again, and sure enough, after about 10 seconds, it appeared again - exactly like the previous two times.  I had her run inside to get my binoculars, and while she was gone, it appeared one last time before it disappeared from view.At its maximum brightness, the object was much brighter than any object in the sky - brighter even than Jupiter at its maximum brightest.  The object appeared to be travelling  North from around Saturn towards Ursa Major and was completely silent.  Also, it seemed to be travelling significantly higher and/or slower than commercial airplanes normally fly.  The color of the light was always brilliant white when visible.  Finally, the object spent more time invisible than visible as it was travelling.   I've seen countless planes and helicopters around here (a couple miles Southeast of the US Air Force Academy) and have never seen one that had lights like this object.  I've seen satellites as well and this object appeared much, much brighter than any satellite I've ever observed.  The entire sighting lasted for about 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98878.html](http://www.nuforc.org/webreports/reports/098/S98878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Plymouth (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I went to let the dogs out and noticed a glowing orange light flying over the trees.  I called my husband and we watched it until it went to the other side of the horizon.  We've never seen anything like it.  Not a plane, helicopter or drone.  Saw videos on You Tube that looked exactly like it.  It fly effortlessly with sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134725.html](http://www.nuforc.org/webreports/reports/134/S134725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
