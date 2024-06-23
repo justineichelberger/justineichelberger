@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 22 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Louisville (90 minutes out of, Camp Crooked Creek) (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A red light over the lake. Noone in the vicinity.I was walking down past the lake at camp. There was no-one  anwhere near there. A red light swooped down and hovered over the lake, in one spot, for thirty seconds. Swooped back up and dissapeared. Only observer, me, ((name deleted)), 12 years old. I have very good eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10293.html](http://www.nuforc.org/webreports/reports/010/S10293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Forest Hills (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular craft came from North spinning, settled on ground 2:00 minutes, no spin.  Take off high speed.  5 pictures only.Rainy and high wind for few minutes.  No wind and Rabin (sic. Rain)  stop when craft enter my yard from North gate.  It was spinning counter clock wise.  The circular craft steeled (sic.  Still) on the ground and spin stopped.  Take off in about 2:00 minutes without any noise or smoke and no wind.  Just gone in few seconds, great speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119908.html](http://www.nuforc.org/webreports/reports/119/S119908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
