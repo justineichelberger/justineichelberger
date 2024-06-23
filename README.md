@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:01 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle craft traveling back and forth East and West over Ypsilanti around 10:30The second night in a row that I saw triangle shaped craft flying over my house in Ypsilanti. They flew over East to West around 10:30 pm and West to East around 10:45 pm. The craft looked to be triangular judging by the light position; lights would blink in sequence one after the other, and the lights may have been changing color. The night before my sister and I had seen something and she saw it and didn't know what it was, this time she said it was a plane, but I trust my judgement more than hers. Before I ever say anything I make sure it isn't a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90060.html](http://www.nuforc.org/webreports/reports/090/S90060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Charlestown (IN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Middle of summer standing on my deck hearing low flying helicopters comming fast toward me, looked up toward sound and saw this ufo.  The craft was almost invisible, but I could make out its shape and all 4 helicopters total black and no lights flying with or chasing it.  Days later got up my nerve to talk about this with my neighbor, and he told me he had seen the same thing and was afraid to tell anyone.  Almost 2 yeas later here I am telling the story.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139412.html](http://www.nuforc.org/webreports/reports/139/S139412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
