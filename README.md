@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:20 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Austin/Eureka (between, U.S.hiway 50) (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I have 2 photographs of saucer shaped craft. I am a long haul driver and I was hesitent to speak of this but I wrote all the info on the back of the 2 photos. I am still looking for the negatives. I could send them if I had a promise in writing I would get them back.You can judge them for yourself and have them tested by anyone in the world.I was driving east on U.S.50 Nevada,I heard and felt what seemed like a vibration.When I stopped 2 objects were on my left and I found my camera when I took the 1st picture the craft changed colour when I clicked the second what appeared on the photo I could not see in the view finder.When I put down the camera they were gone heading north.I have had these for years and don't like being called stupid or liar so I kept them to myself.If you folks will check it out and not use my name I would like that. thanx,((name deleted)) Yuma,ArizonaJune 23rd 1995 heading east on U.S. 50 in Nevada around 0300 to 0400 I heard a "HUM" or Vibration and felt it also.I stopped and got out and stood on the top step of my running board of my 1994 Frieghtliner truck. 2 objects coming from the south east passed over head a few hundred feet above me. I grabbed my camera and took the first photo,they were a dull glowing orange colour and were sort of pulsating for lack of a better word.As I took the photos the first one looks as it did in the view finder but the second one that looks like streaking light was not visiable in the view finder.The camera has auto advance and after I took the first photo I snapped the second at a black sky and put the camera down.I never saw them "Streak"away.When I looked after taking the photos the sky was just "Empty" no sign of what I thought I had seen. It wasn't till months later when I took the film in for processing that I was relieved to see the objects.I really thought I was just real tired and had seen things that were not really there.I stepped to the ground and walked all the way around my truck about 3 or 4 times looking for "Little green men" I was kinda worried as I walked for fear of an encounter and not knowing how to react if it had happened.I drove to the next big wide spot where I could park safely off the road and spent an unknown number of hours trying to get to sleep.Thats about it.Like I stated before, I really don't want my name used in this and will send the  photos If I am guaranteed in writing that I will get them back. Thanx,((name deleted))  Yuma,Arizona</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10000.html](http://www.nuforc.org/webreports/reports/010/S10000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Blairsville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange triangular shape objectI was watching Saturday night live. My dad had gotten out of bed and went to the bath room. When he came out he told me to go look at the window. I did. When I did. I saw this triangular object. It wasn't going fast enfough to be staying in the air. And it Was way to low to land at any airport around. It looked more like it was moving becuase of another force that one of its on. It was triangular with 3 liges on each point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18347.html](http://www.nuforc.org/webreports/reports/018/S18347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
