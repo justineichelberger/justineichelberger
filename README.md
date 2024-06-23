@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cudahy (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Vehicle was seen flashing brilliantly at 35,000 feet proceeding in a southwestern direction. Vehicle then stopped and hovered for minutes.  Vehicle then proceeded back northeast and hovered again changing shape somewhat but very high up.  Vehicle was seen flashing brightly in full sunlight.  It then just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141921.html](http://www.nuforc.org/webreports/reports/141/S141921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>five light objects hovering over Cottonwoodwitnessed what appeared to be at first to local craft or skydivers that held position over Verde Santa Fe development three more objects swooped in from the right just below them the initial 2 stationary objects the smaller behind the primary danced around the other.  three following in formation one of the three that followed formation was red the other four remaining objects were silverish in nature very faint very small have taken pictures but unidentified on video the objects remained for approximately 5-0 minutes then eventually faded from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114508.html](http://www.nuforc.org/webreports/reports/114/S114508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
