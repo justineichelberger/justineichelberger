@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:49 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Enfield (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Clear night, seemed to be one main light with about four or five more smaller lights around it. Small lights left at a high rate of speSaw red/orange ball of light. Seemed like about 4 or 5 more lights appeared around red/orange light. One ball of light seemed to mover very fast straight up. Other 3 at different times seemed to mover very high then dart north at a very high rate of speed. Whole event seemed to last an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157127.html](http://www.nuforc.org/webreports/reports/157/S157127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Myrtle Point (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large rectangular object with multiple lights moving very slowlyAt approximately 9:54 PM on Tuesday, June 23, 2015, I observed an object traveling very slowly in a south southeasterly direction.  The object when initially sighted was almost due west of my location in Myrtle Point, Oregon, at an approximate distance of less than 2 miles.  Some high cirrus clouds were present and the sky was not totally dark yet.The object initially had the apparent size of about 1.5 moon diameters.  Object was at about 15-20 degrees elevation observed from my location, and very slowly traveled south southeast.  Best guess at altitude, less than 5000 feet.  The object gave the impression of being roughly rectangular shaped, with the long dimensions oriented north-south.  When observed early on with binoculars, the object gave a hint of a grey to charcoal black color.Multiple orange lights were observed at various points along the object and a bright red flashing light, perhaps at the rear or underside, was visible the entire duration of sighting.  The orange lights appeared to change position/orientation or turn on/off as the object traveled, giving the impression that it may have rotated or turned left/right on a few occasions but always maintaining its south southeasterly course.  The red flashing light did not appear to be perfectly rhythmatic as it seemed to occasionally vary the length of duration on or off.The object spent about 20 minutes moving south and slightly east towards the Siskiyou National Forest area until blocked by trees and my local terrain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119737.html](http://www.nuforc.org/webreports/reports/119/S119737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
