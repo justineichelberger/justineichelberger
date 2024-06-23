@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Calhoun (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Triangle object with smaller craft behindI live in the country, outside of Atlanta, about one hour.I was letting my 2 dogs out to go potty before going to bed. Every once and a while I will see falling stars and airplanes traveling from the airport, Hartsfield. Anyway on this night I saw a triangle shaped object with 3 lights at each point, it was moving very slow and much closer to the ground than the other commercial aircraft, there was a smaller object moving behind the larger triangle. The smaller object was moving back and forth (left to right) with a lot of blinking lights on it, whereas the triangle was moving slow and steady south to north east, no blinking lights on the triangle. It was silent until it passed, then I heard what sounded like normal engine sounds.I am not sure what I saw, I just know that I have never seen anything like those two objects before. I saw the mention of this web site on the National Geographic episode about UFO's with Peter Jennings, so here I am.I have read other reports of triangle objects on your web site, however none had a smaller craft/object tailing the triangle. If your know of any other objects like this let me know.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45236.html](http://www.nuforc.org/webreports/reports/045/S45236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Curtisville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Happend tonight and last night never seen anything like thisthere was one craft and it started to rise from the horizon and slowly krept upwards and towards my house as it approached it had a blinking light and a red glow that surrounded the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70669.html](http://www.nuforc.org/webreports/reports/070/S70669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
