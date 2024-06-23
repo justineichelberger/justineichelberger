@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 23 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Myrtle Point (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large rectangular object with multiple lights moving very slowlyAt approximately 9:54 PM on Tuesday, June 23, 2015, I observed an object traveling very slowly in a south southeasterly direction.  The object when initially sighted was almost due west of my location in Myrtle Point, Oregon, at an approximate distance of less than 2 miles.  Some high cirrus clouds were present and the sky was not totally dark yet.The object initially had the apparent size of about 1.5 moon diameters.  Object was at about 15-20 degrees elevation observed from my location, and very slowly traveled south southeast.  Best guess at altitude, less than 5000 feet.  The object gave the impression of being roughly rectangular shaped, with the long dimensions oriented north-south.  When observed early on with binoculars, the object gave a hint of a grey to charcoal black color.Multiple orange lights were observed at various points along the object and a bright red flashing light, perhaps at the rear or underside, was visible the entire duration of sighting.  The orange lights appeared to change position/orientation or turn on/off as the object traveled, giving the impression that it may have rotated or turned left/right on a few occasions but always maintaining its south southeasterly course.  The red flashing light did not appear to be perfectly rhythmatic as it seemed to occasionally vary the length of duration on or off.The object spent about 20 minutes moving south and slightly east towards the Siskiyou National Forest area until blocked by trees and my local terrain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119737.html](http://www.nuforc.org/webreports/reports/119/S119737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Calhoun (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Triangle object with smaller craft behindI live in the country, outside of Atlanta, about one hour.I was letting my 2 dogs out to go potty before going to bed. Every once and a while I will see falling stars and airplanes traveling from the airport, Hartsfield. Anyway on this night I saw a triangle shaped object with 3 lights at each point, it was moving very slow and much closer to the ground than the other commercial aircraft, there was a smaller object moving behind the larger triangle. The smaller object was moving back and forth (left to right) with a lot of blinking lights on it, whereas the triangle was moving slow and steady south to north east, no blinking lights on the triangle. It was silent until it passed, then I heard what sounded like normal engine sounds.I am not sure what I saw, I just know that I have never seen anything like those two objects before. I saw the mention of this web site on the National Geographic episode about UFO's with Peter Jennings, so here I am.I have read other reports of triangle objects on your web site, however none had a smaller craft/object tailing the triangle. If your know of any other objects like this let me know.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45236.html](http://www.nuforc.org/webreports/reports/045/S45236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
