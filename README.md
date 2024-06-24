@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waterford (Ireland) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>3 bright lights as a triangle connected together and never separated.Zig zagging over Ireland at about 100 miles or more above covering vast distance quickly Would zig zag and stop all of a sudden and then speed up.With normal eye sight looks like one bright light could be mistaken for star or trying to blend in.Under telescope 3 lights in triangle form can be clearly seen  Object covered vast distance at least 200 square miles  Staying in area for over 2.5 hours dimming and getting brighter as it went fast  Bright object about 6/10 on brightness scale  Local temperature was 17 degrees c  Visibility was good Summer Triangle of stars witch can been seen during northern hemisphere summer was at 12 o clock in the sky and is where this event took place  Along with many other stars and satellites passing through at time mentioned on astronomy Ireland, example (star link sat)  I am a advocate and frequent amateur astronomer this object operates right above my location on the 7• magnitude line what I seen could not have been mistaken for anything else I could not believe how irate and erratic the object was I am deeply fascinated and searching for answers  Unfortunately I am using a basic telescope I have a iPhone 7 and due to the height and distance any pictures or videos could not be obtained, I hope this statement would be of some help  Please thank you for all your great work during these hard times  And wishing all of you there a safe and happy work day</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157137.html](http://www.nuforc.org/webreports/reports/157/S157137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Seminary (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>strange solid circular lights that floated slowly and then disappearedMe and my friend where star watching when this light appeared it floated across the sky slowly much to slow for a shooting star, and it was one solid color with no blinking lights so it wasn't and airplane it floated right above my head paused and then disappeared I saw two more after that and then they disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81916.html](http://www.nuforc.org/webreports/reports/081/S81916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
