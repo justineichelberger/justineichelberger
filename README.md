@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nanticoke (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>10+ red-orange orbs in skyMy mother and I were planning to go out and she went to prepare something in the car. After a minute she came in the house and called me to tell me there was something in the sky. I found that very odd and ran down the stairs to go outside to check it out. There were ten or more red-orange orbs in the sky. My mother told me that there were even more  before she called me. Very strange. My brother followed me, and I went to call my father. By the time he got there, about all of them had 'disappeared' except one, which stayed there for a prolonged period of time before disappearing. I reported this also here: http://www.ufostalker.com/ufostalker/UFO+Sighting+in+Nanticoke+Pennsylvania+United+States+on+June+10th+2012/39163, and I've found that there were other people in the area who have witnessed this. My brother tried to record it on his phone but couldn't get the video to work. I'm now keeping my camcorder with me in case I see anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90127.html](http://www.nuforc.org/webreports/reports/090/S90127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cartersville (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Large oval object in red top mountains.At 06:12, I was opening the gate to the facility I work at.  After opening the gate, I spotted three other people who was at the park that is located in front of the facility, staring out eat at the mountain  line.  When I went to see what they were staring at the pointed out a large bright oval disk.  It seem to have stood still.  Through closer inspection, it appeared to be metallic and glowing in a yellow tint. After 10 min of observation it faded behind the clouds and was gone out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110563.html](http://www.nuforc.org/webreports/reports/110/S110563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
