@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:29 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Owensboro (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange, bright, round object flying just above tree line...Took my dog out back to do her business. Saw something in the sky that looked unusual. VERY bright orange ball that left an "aura" of light behind it as in moved rather slowly and just above the tree line. I had NEVER seen anything this unusual in the sky… Went online a few days later and found that MANY people across the globe have witnessed what are seemingly the same things, or at least sounds that way by reading their descriptions. I was able to take a couple of pics with my i-phone. Whats REALLY going on??????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90193.html](http://www.nuforc.org/webreports/reports/090/S90193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Light object in sky traveling East, disappeared like a ZAP in dark skyI am a Truck Driver and Driving East on I-10 from Baldwin to Jacksonville FL, there was a bright light larger than a star but smaller than a plane flying East a little faster than a plane, but definitely not a shooting star.  It then disappeared  or ZAPPED  to darkness in the night sky. In the area above the sky had stars and clear skies in my area of view so there was no reason for the light to just disappear. It never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157130.html](http://www.nuforc.org/webreports/reports/157/S157130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
