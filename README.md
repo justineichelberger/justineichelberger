@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ammon (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light looked like it was out side of town my wife and I watched it for an hour or so.  It was bright orange and shaped like a tryangle  it was glowing relly brightly at first then sorta dimmed as it went out of sight below the horizon  my wife was freaked out but I was not it's normal for IF town to see these things.((NUFORC Note:  Possible hoax, we wonder.  Source of report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141932.html](http://www.nuforc.org/webreports/reports/141/S141932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Palatine (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately parking lot - parking lot minutes.</sub><blockquote><sub>6/24/05  Friday night at 10:40pm. I observed a formated shape in the sky that I knew was not from any country.I am homeless.{ No drugs or alochol} Friday night I was sitting on my car leaning back looking up at the sky, in a parking lot off of Palatine Road, in Palatine, Illinois. The sky had some clouds, mostly it was mostly clear. At 10:40 pm this shape started to move across the sky going North. You could see it was somekind of craft. No blinking lights just a round shape, with a light effect to determine that it was not an identified type of craft, reconized from any country. It was very independent and moved very smoothly, with power to move faster, then it seemed to stop by a cloud.  First it moved going straight, and then it seemed to movein a swerving motion, then turning in a left direction, and went West. It appeared again at 11:17pm and moved the same way going in a right direction and heading East, slowing down and then speeding up finally disappearing. I waited around until about 12:00pm and the craft never reappeared again. It had a movement about it that seemed to be highly technical advanced just by seeing it travel thru the sky. I never ever have seen anything like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44580.html](http://www.nuforc.org/webreports/reports/044/S44580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
