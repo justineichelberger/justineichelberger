@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:39 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:40 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Thompson (Canada) (MB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>big red firey balls. seen multiple times on different occaision. 2 videos on my phone.this is the third time ive seen it. my first time was around 10 at night while i was walking my son. the same red light hovered across the sky and dissapeared into the clouds moving too fast for an airplane. it waa a big red ball. almost like a fire ball. too big and bright for a plane. the second sighting was a lot like the first. but then my boyfreind called me from work telling me he say 5 of the same objects following one another through the sky. all in formation and from he was standing they were pretty close together. then last night (from the description above). i was on my balcony and i saw it again. it was alone. i called my boyfreind and work and he saw it as soon as he stepped outside. it dissapeered over my building but then... another one from the same direction started going east from the other one. then quickly changed paths to where the first one had gone and flew over my building also. i saw it. my boyfreind saw it. and his employee saw it. ! i would realy like to know what these strange firey balls are...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90087.html](http://www.nuforc.org/webreports/reports/090/S90087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Daytime High speed orb caugt on videoOn June 26, 2004 while observing some persistant contrails me and my wife observed some high altitude stationary orbs which I photographed with my sony mavica 300. While I tried to snap some stills I ran in to grab my video camera which I put on a tripod and just filmed in the direction that we spotted the orbs. In reviewing the video there is two very visable white orbs that appear from the trail and then accelerate at an unbelievable rate of speed. The video has trees in the background, has birds that fly in the blurfo and one lense refraction. The orbs are none of these and the video is amazing as it shows it pop up out of the trail and then make a right angle exit that defies belief.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48810.html](http://www.nuforc.org/webreports/reports/048/S48810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
