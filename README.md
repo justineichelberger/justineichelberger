@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:44 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Cylindrical object disappeared in clear skiesI was driving on Washington Ave in Portland, ME, stopped at a stop light.  The sky was clear today and there were no clouds or trees obstructing my view.  It was a bright sunny afternoon and this happened around 3:30 PM.  I saw an object that looked like a horizontal cylinder - shades of white and gray, not shiny, no lights.  I only saw it for about one second, just long enough to see it was moving from right to left (northeast to southwest).  About a second after I started tracking the object with my eyes, it simply vanished.  While it was visible to me, it looked like how planes look sometimes when you can't see their wings so they look kind of like a UFO until they change angles so you can see the wings.  In that one instant, that's what I thought it probably was, until it disappeared.  The object was perhaps about 45-60 degrees from the plane of the horizon, and I'd guess its length was about 1/3 to 1/4 the angular diameter of the full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128048.html](http://www.nuforc.org/webreports/reports/128/S128048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nanticoke (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>10+ red-orange orbs in skyMy mother and I were planning to go out and she went to prepare something in the car. After a minute she came in the house and called me to tell me there was something in the sky. I found that very odd and ran down the stairs to go outside to check it out. There were ten or more red-orange orbs in the sky. My mother told me that there were even more  before she called me. Very strange. My brother followed me, and I went to call my father. By the time he got there, about all of them had 'disappeared' except one, which stayed there for a prolonged period of time before disappearing. I reported this also here: http://www.ufostalker.com/ufostalker/UFO+Sighting+in+Nanticoke+Pennsylvania+United+States+on+June+10th+2012/39163, and I've found that there were other people in the area who have witnessed this. My brother tried to record it on his phone but couldn't get the video to work. I'm now keeping my camcorder with me in case I see anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90127.html](http://www.nuforc.org/webreports/reports/090/S90127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
