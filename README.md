@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Chevron shaped object glowed a bright, shimmering gold color.Chevron shaped object glowed a bright, shimmering gold color. Object moved from east to west at a very rapid rate before disappearing behind trees. Object did not emerge from trees. No noise was heard. Altitude is unknown. All three people saw the same thing, ie. gold shimmering shape moving very rapidly. Clear night sky with no fog, haze, etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13192.html](http://www.nuforc.org/webreports/reports/013/S13192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing baby blue disk ascending from the clouds, witnessed by 3-4 and photographedOn june 24th, 2014, I witnessed a craft ascending within a cloud formation. This movement created what looked like a cloud table on which the UFO sat atop.The UFO was glowing a solid baby blue color, much like a florescent bulb.The craft was not flashing, but remained illuminated at all times.As the craft ascended, the cloud formation below it grew in size.The craft was also illuminating the clouds above it, proving that it was resting in-between the clouds.After about 3 minutes, the craft slid sideways from the cloud table, exposing itself for about a 30-60 seconds and then disappeared in a blink.I was able to take 2 decent photos of the incident, although the color does not appear in the photos as it did in person. I am a non drinking, non drugging, 44 year old medical college student and business owner.Also witnessed by 2-3 valet/parking attendants who were trying to talk themselves out of what they had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110589.html](http://www.nuforc.org/webreports/reports/110/S110589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
