@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:29 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Light object in sky traveling East, disappeared like a ZAP in dark skyI am a Truck Driver and Driving East on I-10 from Baldwin to Jacksonville FL, there was a bright light larger than a star but smaller than a plane flying East a little faster than a plane, but definitely not a shooting star.  It then disappeared  or ZAPPED  to darkness in the night sky. In the area above the sky had stars and clear skies in my area of view so there was no reason for the light to just disappear. It never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157130.html](http://www.nuforc.org/webreports/reports/157/S157130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Benton (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>As I was sitting in my car I notice out of the corner of my eye a very large bright white light that seemed to be moving very fast across the sky towards the left of my vision.  It only appeared briefly before dissapearing into a small red ball and then completely vanished.  Within 2 minutes or so as I'm still gazing I notice another to the right of me very similar in size and shape but very different in color and speed.  This one, multicolored and a lot slower traveled to the right of my vision for seconds before performing a very similar disappearing act.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75915.html](http://www.nuforc.org/webreports/reports/075/S75915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
