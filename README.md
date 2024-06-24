@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:40 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Daytime High speed orb caugt on videoOn June 26, 2004 while observing some persistant contrails me and my wife observed some high altitude stationary orbs which I photographed with my sony mavica 300. While I tried to snap some stills I ran in to grab my video camera which I put on a tripod and just filmed in the direction that we spotted the orbs. In reviewing the video there is two very visable white orbs that appear from the trail and then accelerate at an unbelievable rate of speed. The video has trees in the background, has birds that fly in the blurfo and one lense refraction. The orbs are none of these and the video is amazing as it shows it pop up out of the trail and then make a right angle exit that defies belief.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48810.html](http://www.nuforc.org/webreports/reports/048/S48810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>6/24/05:  5 lights forming a triangular shape in Indianapolis on Meridian StreetAs driving North of Meridian Street somewhere between 20th and 30th street, my friend and I saw lights that formed a trinagle directly above us. The amount of lights were 5. The object was hovering at a stagnant nature about 70- 80 feet above the street. The lights seemed to be 10 feet in diametar (all the same size) considering the distance we observed it from. Becasue there was no sound admitted from the craft we knew that it was not any flying object we were familiar with. We were not too far from the center of the city, so we assume that many others saw it. We now regret that we didn't stop the car to observe the craft for a longer amount of time. If anyone else has seen this, please post a report. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44745.html](http://www.nuforc.org/webreports/reports/044/S44745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
