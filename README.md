@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Benton (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>As I was sitting in my car I notice out of the corner of my eye a very large bright white light that seemed to be moving very fast across the sky towards the left of my vision.  It only appeared briefly before dissapearing into a small red ball and then completely vanished.  Within 2 minutes or so as I'm still gazing I notice another to the right of me very similar in size and shape but very different in color and speed.  This one, multicolored and a lot slower traveled to the right of my vision for seconds before performing a very similar disappearing act.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75915.html](http://www.nuforc.org/webreports/reports/075/S75915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Cylindrical object disappeared in clear skiesI was driving on Washington Ave in Portland, ME, stopped at a stop light.  The sky was clear today and there were no clouds or trees obstructing my view.  It was a bright sunny afternoon and this happened around 3:30 PM.  I saw an object that looked like a horizontal cylinder - shades of white and gray, not shiny, no lights.  I only saw it for about one second, just long enough to see it was moving from right to left (northeast to southwest).  About a second after I started tracking the object with my eyes, it simply vanished.  While it was visible to me, it looked like how planes look sometimes when you can't see their wings so they look kind of like a UFO until they change angles so you can see the wings.  In that one instant, that's what I thought it probably was, until it disappeared.  The object was perhaps about 45-60 degrees from the plane of the horizon, and I'd guess its length was about 1/3 to 1/4 the angular diameter of the full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128048.html](http://www.nuforc.org/webreports/reports/128/S128048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
