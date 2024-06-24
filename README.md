@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cartersville (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Large oval object in red top mountains.At 06:12, I was opening the gate to the facility I work at.  After opening the gate, I spotted three other people who was at the park that is located in front of the facility, staring out eat at the mountain  line.  When I went to see what they were staring at the pointed out a large bright oval disk.  It seem to have stood still.  Through closer inspection, it appeared to be metallic and glowing in a yellow tint. After 10 min of observation it faded behind the clouds and was gone out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110563.html](http://www.nuforc.org/webreports/reports/110/S110563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in La Crosse (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Orange LightesLarge Bright orange flashes in clear sky just south of lacrosse lights faded out after minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90031.html](http://www.nuforc.org/webreports/reports/090/S90031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
