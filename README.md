@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Derby (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Slow moving gold coloured boomerang shaped craftI was driving when I noticed a shape, something like a boomerang, just below the level of the moon. It was quite a distance away, as it was only moving on the horizon as much as the moon. The object was a gold-yellow colour, and 'pointing' upwards. As I drove along, checking it's progress, it moved slowly upwards, until it was about three 'moon lengths' above the moon.At this point I looked away, to see where I was driving, and when I looked back, it had disappeared. The whole incident took perhaps a quarter of an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18200.html](http://www.nuforc.org/webreports/reports/018/S18200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Webster (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dancing lights in the night sky over Webster, NY.My wife was on her way home from her mother's when she noticed several shapes inthe sky above the clouds. They appeared to her "like angels or ghosts in the sky, but they were not." She noticed them for about 5 to 10 minutes. They seemed to be zig zaging and figure eighting around in the sky. Strangely enough there was a wind storm passing by at the same time. The lights were just white. My wife and I are Nurses by trade. My wife Heidi is a very concrete thinker and hates anything sci-fi. So when she told me about what she saw, she beleived them to only be helicopters. She asked if I had seen them. I did not see the lights or hear any noises loud enough to be a helicopter. According to my wife there was no special features or haze or beams emmitting from the lights. They were just lights to her. I asked if the lights looked like they were comming from the ground. She said no.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37768.html](http://www.nuforc.org/webreports/reports/037/S37768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
