@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 24 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fort Pierce (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Date:6/24/2005;  City:  Fort Pierce Florida USA; Shape: Dark object and Ligths; Duration:  1:30 minutesWe were traveling from Miami to Orlando, and around Fort Pierce, my sister told me guess what I am looking, I was thinking she was jocking, but instead I start to see four different objects were: one Big one dark and from there few more where comming out with lights, was dark and we start to see them from Fort Pierce to the entrance of Orlando, we were very affraid,it was very dark, we travel from on the Florida Turnpike,  and we did not have a logical explanation for it, I grab my cammera and stop out of the road to take some pictures of the objects but still more concerned because I do not have a logical explanation, just were four objects, changing possitions,  and bright lights comming from them, one big,  and the rest small, in formation under the big one going out and returning to the big one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51298.html](http://www.nuforc.org/webreports/reports/051/S51298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Derby (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Slow moving gold coloured boomerang shaped craftI was driving when I noticed a shape, something like a boomerang, just below the level of the moon. It was quite a distance away, as it was only moving on the horizon as much as the moon. The object was a gold-yellow colour, and 'pointing' upwards. As I drove along, checking it's progress, it moved slowly upwards, until it was about three 'moon lengths' above the moon.At this point I looked away, to see where I was driving, and when I looked back, it had disappeared. The whole incident took perhaps a quarter of an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18200.html](http://www.nuforc.org/webreports/reports/018/S18200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
