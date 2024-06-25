@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hollidaysburg (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Bright light moving across the sky, initially thought to be a fast moving satellite, stopped and went the other way.Standing on the driveway, looking up at the stars, I noticed what we thought to be a satellite.  Tracking it moving Southeast across the sky, moving significantly faster than typical satellites observed in the past.  Suddenly it turned around, faster than any plane could have, and headed the other direction across the sky disappearing into the horizon line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128064.html](http://www.nuforc.org/webreports/reports/128/S128064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (NC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Small Silver Floating Eggs seen in NCSmall silvery egg shaped sphere was seen that almost looked like an insect but moved about like a hovering craft.  I've never seen an insect look like a small silvery egg before.  It moved real strange, like it was hovering and would dart off real quick.  Was around 2 inches in diameter.  After seeing this craft I saw strange visions of earthquakes and great destruction coming to the earth.  I also kept hearing the 'year of great change' repeat over in my head.  I'm a professional computer expert who is not prone to hallucinations or hearing voices in my head.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44562.html](http://www.nuforc.org/webreports/reports/044/S44562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
