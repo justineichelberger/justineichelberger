@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:36 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:05 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 91</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157242.html](http://www.nuforc.org/webreports/reports/157/S157242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>BRIGHT LIGHT TRACKS FROM WEST TO EAST IN SOLID OVERCASTAT 12:45 AM A LIGHT DECSENDED INSIDE SOLID OVERCAST, THE LIGHT WAS SO BRIGHT IT LIT UP THE CLOUD.  THE OVERCAST WAS ABOUT 6000 FEET. IT REMAINED STATIONARY IN THE CLOUD FOR 2 TO 3 SECONDS AND THEN PROCEDED TO TRAVEL FROM THE DIRECTION OF WEST TO EAST. IT DID NOT COME OUT OF THE CLOUD,AND STAYED ON AN EASTERN TRACK UNTIL I LOST SIGHT OF IT. ALSO THERE WAS NO SOUND EMITTED FROM THE CRAFT. I CALLED AIR TRAFFIC CONTROL AND THEY INFORMED ME THAT THERE WAS NO SCHEDULED TRAFFIC IN THE AREA AT THAT TIME.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13238.html](http://www.nuforc.org/webreports/reports/013/S13238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
