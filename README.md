@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chawton, Hampshire (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small moving white object flying at high altitude before disappearing.Whilst looking out the window I noticed a moving white object flying at an altitude of 800-900 feet did'nt appear to be a normal-looking Aircraft watched it for a short time before it disappeared.((NUFORC Note:  One of more than twenty reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64148.html](http://www.nuforc.org/webreports/reports/064/S64148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Myrtle Beach (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange Orbs over North Myrtle Beach June 25, 2020My husband and I were on the balcony of an oceanfront condo in North Myrtle Beach on Thursday night, June 25, 2020.  Four bright orange orbs appeared in the sky over the ocean.  They slowly disappeared.  Then we saw two more in another part of the sky.  My husband thought that it was military training and they were dropping flares, but they did not streak; they did not lose their shape; they just hovered until they disappeared.  I had never seen anything like it.After that we saw a very large and bright orange star about 20 degrees above the horizon.  I thought it could be Mars or Arcturus, but after googling their location it could not have been them.  This was low in the sky about 9:30 pm and Arcturus is supposed to be high in the sky.  We did not see the star again the next night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157222.html](http://www.nuforc.org/webreports/reports/157/S157222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
