@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (NC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Small Silver Floating Eggs seen in NCSmall silvery egg shaped sphere was seen that almost looked like an insect but moved about like a hovering craft.  I've never seen an insect look like a small silvery egg before.  It moved real strange, like it was hovering and would dart off real quick.  Was around 2 inches in diameter.  After seeing this craft I saw strange visions of earthquakes and great destruction coming to the earth.  I also kept hearing the 'year of great change' repeat over in my head.  I'm a professional computer expert who is not prone to hallucinations or hearing voices in my head.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44562.html](http://www.nuforc.org/webreports/reports/044/S44562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A cylinder or long rectangle with three circles (Lights?) on the bottom, seen in full daylight by one person.Date:  Sunday, June 25, 2017.  Time:  approx. 6:00pm.  I was alone in my car, exiting the parking lot of Bed Bath & Beyond (4102 S Meridian, Puyallup, WA 98373) and noticed lots of interesting cloud formations.  It almost looked like a bunch of angels fighting or like a “battle between good and evil” was happening in the sky.I turned left onto 43rd, Ave SW and started heading east toward Meridian Street, a busy main road that runs North/South down the center of Puyallup.  I called my friend, who also lives in Puyallup, to tell him about the amazing cloud formations I was seeing.  He looked out the east-facing window of his home, a couple of miles away from my location, and agreed that there were some interesting looking clouds in the sky.  He asked me to take some pictures, so I quickly took a few images with my camera phone, an ASIS Laser 3.Later, when I was looking at the pictures on my camera, I also noticed what appeared to be multiple “faces” in the cloud formations.  Two days later (June 27), I was showing these faces in the clouds to the same friend I had called earlier and he immediately noticed an object in the sky near the clouds.  He said, “What is that?…That’s a UFO!”  I was stunned because I hadn’t noticed the object in the picture before this time.We looked at the other two pictures I had taken and noticed the same object but in different positions in the sky.  The object had obviously been moving because it’s the only thing changing locations in the picture.  Everything else is stable, or in the same location: streetlights, the sign, trees, and reflections from the dashboard of the car onto the glass.I still don’t know what to think of the object.  I’m not a “UFO person.”  My friend, though, is convinced that it cannot be a reflection in the glass, an airplane, a balloon, or any other familiar/manmade object, and so urged me to report it.((NUFORC Note:  Witness submits photo, which suggests to us that the anomalous objects seen in it may be reflections of objects on the dash board of her vehicle.  One object still remains unidentified, but we have no information suggesting that it is a "bona fide" ufo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134804.html](http://www.nuforc.org/webreports/reports/134/S134804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
