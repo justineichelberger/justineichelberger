@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Very bright spherical UFO over TucsonI was having a restless night, so was awake early. I was staring at the ceiling when the object entered my field of view, through the window above our bed.  It was as bright as a star and clearly spherical.  It was moving at a steady velocity from SW to NE.  When I noticed the object I immediately put on my glasses for a better look and watched it until it went out of sight.  I jumped out of bed, headed for the back door to my patio, grabbed my Nikon binoculars on the way out.  I regained visual contact with the object again as it proceeded NE and got the binoculars on it again.  It definitely was not a conventional aircraft, neither rotary or fixed wing.  There were no additional lights of any kind or color, only the bright illumination of the sphere.  I am accustomed to seeing satellites in the night sky, in different orbits, at different velocities, and this was no satellite either.  The satellites are small specks, and this object was many times larger in terms of visual angle subtended.  It moved smoothly, and I listened for any sounds of an engine...it was silent.  It did not maneuver, jink or turn . It did not change speed. I watched it through my binoculars until it disappeared. I was a USAF pilot ('72-'85) with global flying experience and also spend time at night stargazing and observing the city with binoculars.  I don't know what this object was, but I know what it was not. It was nothing conventional.  I live in the foothills of the Tucson mountains, in a dark skies area, and have a very good view of the sky and our surroundings, especially the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157187.html](http://www.nuforc.org/webreports/reports/157/S157187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Marion (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two lights in the sky at the same height; one to the east and one to the west both zigzagging irradically.On Monday morning, June 25th, at approximately 3:30 a.m. I spotted a light in the sky in the east. At first I thought it was a star. It was really far up, so it looked like a star, but it was super bright and it moved way too much. It was way too fast and far to be a helicopter or a plane, also I spotted a plane heading in it’s direction. The light zigzagged in the same general area for the whole time I watched it. I then glanced around the sky and directly to the west of this light was another light. It was up in the sky at the same distance and was also zigzagging in the sky. The lights were directly across from each other one to the east and one to the west at the same height. I watched it for about 15 minutes and I headed in the house.((NUFORC Note:  Venus and Jupiter?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57305.html](http://www.nuforc.org/webreports/reports/057/S57305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
