@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Marion (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two lights in the sky at the same height; one to the east and one to the west both zigzagging irradically.On Monday morning, June 25th, at approximately 3:30 a.m. I spotted a light in the sky in the east. At first I thought it was a star. It was really far up, so it looked like a star, but it was super bright and it moved way too much. It was way too fast and far to be a helicopter or a plane, also I spotted a plane heading in it’s direction. The light zigzagged in the same general area for the whole time I watched it. I then glanced around the sky and directly to the west of this light was another light. It was up in the sky at the same distance and was also zigzagging in the sky. The lights were directly across from each other one to the east and one to the west at the same height. I watched it for about 15 minutes and I headed in the house.((NUFORC Note:  Venus and Jupiter?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57305.html](http://www.nuforc.org/webreports/reports/057/S57305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>white lights moving towards Mojave, Northern direction. No marker lights visiable with binoculars.White light like a star moving across the sky towards mojave NE.  Object was about 10 thousand feet high moving at a good clip.  I did not notice any marker lights just a solid white light as it moved away. I had binoculars I grabbed to look closer and no marker lights visiable. Just a point of light. Too low to be a satellite for sure. Not a meteor falling.  No marker lights during the 3 minutes I viewed it. after which I also saw another light high up.  Could have been a satellite.  But it was NE and traveling in an arch in the same northern direction towards Mojave.  Could be Military?   Objects were seen out my back yard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75938.html](http://www.nuforc.org/webreports/reports/075/S75938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
