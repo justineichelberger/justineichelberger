@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:20 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Las Cruces (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My father and i were driving home from El Paso, Texas, to Las Cruses, New Mexico. Half way to las cruses, (which is about a 30 min. drive) we spotted a shining light about 1000 feet in the sky, coming over us. As we watched the light, the light grew from 1 light, to 2 lights, and then into 4 lights.  The crafts were moving silently over the mountains. finally about 3 minutes later, the lights went over the mountains,and we could no longer see them any longer. The lights looked as though there were 2 on top, and 2 on bottom.  The two on top were close together, and the 2 on bottom were further apart, almost like a small pyramid.  The lights were very bright.my father and i were driving home from el paso, texas, to las cruses new mexico.  half way to las cruses,(which is about a 30 min. drive) we spotted a shining light about 1000 feet in the sky, coming over us. As we watched the light, the light grew from 1 light, to 2 lights, and then into 4 lights. the crafts were moving silently over the mountains.  finally about 3 minutes later, the lights went over the mountains, and we could no longer see them any longer. the lights looked as though there were 2 on top, and 2 on the bottom.  the 2 on top were close together, and the 2 on bottom were further apart. almost like a small pyramid. the lights were very bright.  it was pitch dark outside, so i couldn't see any objects beside the four lights.  the only other things i could see outside was the mountain range, and the road we were driving on.  the mountain range was red rock, as most mountains in new mexico are.  The lights that we saw, were round.  they were very bright, almost like extra bright spotlights. The color of the lights was a yellow or shining color.  the background of my father,(the other witness besides me)is that he is an ex-soldier in the army.  he doesn't believe thy were ufo's, but rather some kind of secret millitary aircraft. my father is the type that believes everything the government says. my own background is, i'm 15, what other information do you need to know?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04201.html](http://www.nuforc.org/webreports/reports/004/S04201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hollidaysburg (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Bright light moving across the sky, initially thought to be a fast moving satellite, stopped and went the other way.Standing on the driveway, looking up at the stars, I noticed what we thought to be a satellite.  Tracking it moving Southeast across the sky, moving significantly faster than typical satellites observed in the past.  Suddenly it turned around, faster than any plane could have, and headed the other direction across the sky disappearing into the horizon line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128064.html](http://www.nuforc.org/webreports/reports/128/S128064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
