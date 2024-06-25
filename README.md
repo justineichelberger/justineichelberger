@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:50 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>white lights moving towards Mojave, Northern direction. No marker lights visiable with binoculars.White light like a star moving across the sky towards mojave NE.  Object was about 10 thousand feet high moving at a good clip.  I did not notice any marker lights just a solid white light as it moved away. I had binoculars I grabbed to look closer and no marker lights visiable. Just a point of light. Too low to be a satellite for sure. Not a meteor falling.  No marker lights during the 3 minutes I viewed it. after which I also saw another light high up.  Could have been a satellite.  But it was NE and traveling in an arch in the same northern direction towards Mojave.  Could be Military?   Objects were seen out my back yard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75938.html](http://www.nuforc.org/webreports/reports/075/S75938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Beaver Falls (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>We were standing in front of our house when my friend suddenly seen a yellow orange orb light move slanted toward the ground from above some houses across the street and it went between the two houses through the back yards with trees further behind this object,for just a second,he went over to look and found nothing,  I stayed and watched expecting to see it emerge but it did not, he was shocked and amazed but said what was that?I don't know I said.weird!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98918.html](http://www.nuforc.org/webreports/reports/098/S98918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
