@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:50 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Beaver Falls (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>We were standing in front of our house when my friend suddenly seen a yellow orange orb light move slanted toward the ground from above some houses across the street and it went between the two houses through the back yards with trees further behind this object,for just a second,he went over to look and found nothing,  I stayed and watched expecting to see it emerge but it did not, he was shocked and amazed but said what was that?I don't know I said.weird!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98918.html](http://www.nuforc.org/webreports/reports/098/S98918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Greendale (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately Back yard sun set photo o - Back yard sun set photo o minutes.</sub><blockquote><sub>In front of a lovely sun set in Wisconsin an oval shaped UFO is caught crusing across the open ocean that we have come to call our sky!Well I was in my room and saw how pretty the sun set was, so I grabbed my camera and went outside to take a picture.  A month later i developed them, and saw this disk shaped thing on it, and sent it to one of my friends who is into the UFO stuff and told me to send it to some places who know what the're doing.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  Possible sighting of contrail, illuminated by the setting Sun??  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51425.html](http://www.nuforc.org/webreports/reports/051/S51425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
