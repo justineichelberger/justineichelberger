@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kenora (sw of, 16 mi. on Lake of the Woods) (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At 9:15, my son saw some bright green balls coming from the ground up.  I then also saw them.  At first they came up individually and then multiples.  They were emerging from a neighboring island- going North to Northeasterl direction.  At one time three came up and traveled towards our island in a South Easternly diection.  They wouldn't hit our trees but moved information to avoid.  I estimated they past over our cottage by 12 feet.  They were round 6-12 inches in size.  Clear green in color and appeared to be pulsating inside and releasing energy or something.  This display lasted twenty to thirty minutes.  Wee saw about 60-80 of these balls.((NUFORC Note:  Second report from second witness.  We spoke with these witnesses on several occasions, and they seemed quite credible.  Their descriptions of the events did not vary between the various accounts.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11505.html](http://www.nuforc.org/webreports/reports/011/S11505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Sadieville (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>THIS IS FROM MEMORY BUT POLICE REPORTS MAY BE ACCESSED TO CONFIRM THE EVENT. AN ELDERLY NEIGHBOR & HIS WIFE AWOKE ONE SUNDAY AM TO FIND A RING APPROX. 20 FEET IN DIAMETER "BURNED" INTO THEIR FRONT YARD. THE RING ITSELF HAD A RIM ABOUT 6 INCHES THICK. LOCAL POLICE CONTACTED KENTUCKY STATE POLICE WHO CONTACTED THE AIR FORCE IN DAYTON WHO SENT A TEAM OF INVESTIGATORS WHO POURED OVER THIS AREA FOR SEVERAL DAYS. I OVERHEARD A STATE TROOPER ON A POLICE SCANNER TALKING ABOUT THE RING AND HIS COMMENT WAS THAT " WHATEVER THIS IS - IT IS NOT OF THIS WORLD". THE TROOPER SAID THE RING WAS PERFECT - AS IF A LARGE ROUND OBJECT EMMITING HEAT HAS SAT DOWN ON THE GROUND. THE REPORT WE HEARD AFTER THIS EVENT WAS THAT IT WAS A FAIREY RING. I ALSO HEARD ON THE SCANNER THAT THE RING TURNED COLORS DEPENDING UPON THE TIME OF DAY AND MOISTURE CONTENT OF THE GRASS. THE ELDERLY PEOPLE WHOSE YARD THIS EVENT TOOK PLACE IN WERE ABOVE REPROACH.((NUFORC Note:  Date is approximate.  This is one of three dramatic reports from the same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32196.html](http://www.nuforc.org/webreports/reports/032/S32196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
