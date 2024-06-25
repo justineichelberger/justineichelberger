@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 25 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Sadieville (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>THIS IS FROM MEMORY BUT POLICE REPORTS MAY BE ACCESSED TO CONFIRM THE EVENT. AN ELDERLY NEIGHBOR & HIS WIFE AWOKE ONE SUNDAY AM TO FIND A RING APPROX. 20 FEET IN DIAMETER "BURNED" INTO THEIR FRONT YARD. THE RING ITSELF HAD A RIM ABOUT 6 INCHES THICK. LOCAL POLICE CONTACTED KENTUCKY STATE POLICE WHO CONTACTED THE AIR FORCE IN DAYTON WHO SENT A TEAM OF INVESTIGATORS WHO POURED OVER THIS AREA FOR SEVERAL DAYS. I OVERHEARD A STATE TROOPER ON A POLICE SCANNER TALKING ABOUT THE RING AND HIS COMMENT WAS THAT " WHATEVER THIS IS - IT IS NOT OF THIS WORLD". THE TROOPER SAID THE RING WAS PERFECT - AS IF A LARGE ROUND OBJECT EMMITING HEAT HAS SAT DOWN ON THE GROUND. THE REPORT WE HEARD AFTER THIS EVENT WAS THAT IT WAS A FAIREY RING. I ALSO HEARD ON THE SCANNER THAT THE RING TURNED COLORS DEPENDING UPON THE TIME OF DAY AND MOISTURE CONTENT OF THE GRASS. THE ELDERLY PEOPLE WHOSE YARD THIS EVENT TOOK PLACE IN WERE ABOVE REPROACH.((NUFORC Note:  Date is approximate.  This is one of three dramatic reports from the same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32196.html](http://www.nuforc.org/webreports/reports/032/S32196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Very bright spherical UFO over TucsonI was having a restless night, so was awake early. I was staring at the ceiling when the object entered my field of view, through the window above our bed.  It was as bright as a star and clearly spherical.  It was moving at a steady velocity from SW to NE.  When I noticed the object I immediately put on my glasses for a better look and watched it until it went out of sight.  I jumped out of bed, headed for the back door to my patio, grabbed my Nikon binoculars on the way out.  I regained visual contact with the object again as it proceeded NE and got the binoculars on it again.  It definitely was not a conventional aircraft, neither rotary or fixed wing.  There were no additional lights of any kind or color, only the bright illumination of the sphere.  I am accustomed to seeing satellites in the night sky, in different orbits, at different velocities, and this was no satellite either.  The satellites are small specks, and this object was many times larger in terms of visual angle subtended.  It moved smoothly, and I listened for any sounds of an engine...it was silent.  It did not maneuver, jink or turn . It did not change speed. I watched it through my binoculars until it disappeared. I was a USAF pilot ('72-'85) with global flying experience and also spend time at night stargazing and observing the city with binoculars.  I don't know what this object was, but I know what it was not. It was nothing conventional.  I live in the foothills of the Tucson mountains, in a dark skies area, and have a very good view of the sky and our surroundings, especially the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157187.html](http://www.nuforc.org/webreports/reports/157/S157187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
