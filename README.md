@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:54 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Circular orange fireball seen in the Northfield area of Birmingham, UK at 11.30pm on Saturday 26th June 2010.Circular orange fireball seen flying slowly across the sky, then steadily dissapeared into a cloud, but didn' t re-ermerge the other side of the cloud.  It didn't move in a straight line and was not an aircraft or a helicopter.  Seen in the Northfield area of Birmingham, UK at 11.30pm on Saturday 26th June 2010.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75952.html](http://www.nuforc.org/webreports/reports/075/S75952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cypress (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Diamond shaped and Red in color with flame shooting out the back.This UFO was flying from the South heading North at a moderate speed.  It didn't go up or down but stayed on course. It was red in color and had a flame out the back.  Would love to know what it was or what it was doing.  Will send pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128142.html](http://www.nuforc.org/webreports/reports/128/S128142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
