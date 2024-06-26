@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cotuit (MA) reported seeing craft that fit the description of some '' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Total 5 orange objects3 triangular orange objects travelling east up Cotuit Bay, in a row, in formation, probably at 5000ft.  No aircraft sound, moving swiftly. Ten minutes later, 2 more of the same, same path and speed.  Observed by 8 people, one of whom was a commercial pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111890.html](http://www.nuforc.org/webreports/reports/111/S111890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two pulsating lights over the hills of  FairfieldI saw 2 round bright lights descending out of the sky from my drive way I went down to the store and got back home and they were still there went in the house and got my video camera and started filming .then back in the house to get my daughter and here grandma to see we watched them leave they went back in the house I came back out side that's when I saw them again this time three coming over the hill moving in a trangle formation one broke and darted away the other two come to stop in the place close to the area I saw them before . I texted mother in law who lives in the area and she saw them to.((NUFORC Note:  We suspect an evening sighting, and have changed the time above.  The source of the report elects to remain totally anonymous, so we are unable to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119801.html](http://www.nuforc.org/webreports/reports/119/S119801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
