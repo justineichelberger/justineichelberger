@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kerhonkson (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three points of light in a triangle formation.A group of friends and myself were camping in the vicinity of Kerhonkson, NY.  While stargazing, a friend of mine (female police officer from NJ) noticed "three satellites moving together in formation".  I chuckled because I had been pointing out satellites and  "shooting stars" for most of the night because out of the eight of us camping together, half had never seen one (due to the light-pollution in Northern NJ).  That's when I turned around and was amazed to see three "stars" moving in a tight, smooth formation silently gliding across the dark sky.  Their motion was fluid and constant (like a LEO satellite) up until the end of our horizon when one of the "lights" moved out of formation.  It was not a solid object because I clearly saw stars pass between the "lights".  My friends were amazed and I was left stumped for answers.  It moved from a southwesterly direction towards the northeast.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))((NUFORC Note:  Possible NOSS satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44583.html](http://www.nuforc.org/webreports/reports/044/S44583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>saw what looked almost like a rocket, very high elevation, shoot across the sky in 3 bursts of speed and color from rear of whatever it way... it went from the west side of town toward the east, saw it from Wyoming and San Antonio area- 3 or 4 bursts of green and yellow, and incredible speed.   it was not a rocket, or an airplane or a meteor, for sure.  disappeared behind a cloud and gone--it was very fast, very noticeable and completely unlike anything I have ever seen, and I grew up on Air Force bases, so I know what missiles and weird planes look like.  I was watering outside and happened to be looking up and caught it.  I have seen other sightings, many of unexplained lights near the Sandia mountains, but nothing like this, ever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147093.html](http://www.nuforc.org/webreports/reports/147/S147093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
