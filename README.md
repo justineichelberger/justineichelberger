@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Batavia (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>sphere in sky.Hello, I just talked with you about Batavia Il, Ufo sighting.  Called FAA and got cloud ceiling 7000 ft broken and some at 3500 ft.  Cloud with sphere would be at 3500 ft, cloud with two holes at 7000 ft.  Also I live a few miles from Fermi Lab.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75975.html](http://www.nuforc.org/webreports/reports/075/S75975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mabton (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 objects flew slowly and quietly with 4 white lights and 3 green lights.The two objects flew very slowly and came towards us at SW direction. As it came closer we saw 4 lights on each object. 2 lights in the center closer together and 2 on the edges. It made a very low and quiet rumble as it came closer. After about 10 minutes it turned to a NE direction and saw 3 green lights on the back of both objects and had a flashing light on the right side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23491.html](http://www.nuforc.org/webreports/reports/023/S23491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
