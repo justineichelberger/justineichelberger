@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange spheres (19) moving without sound over old north London (Ontario) seen by 2 peopleJune 26. 10:45 p.m. over London Ontario we saw 19 orange lights; they came from southwest and flew over us (London, Cheapside and Highbury area).  Some of lights flew with the same speed in groups of 3 or 2; others flew up and disappear in height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98984.html](http://www.nuforc.org/webreports/reports/098/S98984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edgewood (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White circle, above clouds, moving slowly against wind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163841.html](http://www.nuforc.org/webreports/reports/163/S163841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
