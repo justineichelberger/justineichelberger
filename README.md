@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two pulsating lights over the hills of  FairfieldI saw 2 round bright lights descending out of the sky from my drive way I went down to the store and got back home and they were still there went in the house and got my video camera and started filming .then back in the house to get my daughter and here grandma to see we watched them leave they went back in the house I came back out side that's when I saw them again this time three coming over the hill moving in a trangle formation one broke and darted away the other two come to stop in the place close to the area I saw them before . I texted mother in law who lives in the area and she saw them to.((NUFORC Note:  We suspect an evening sighting, and have changed the time above.  The source of the report elects to remain totally anonymous, so we are unable to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119801.html](http://www.nuforc.org/webreports/reports/119/S119801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sandy (OR) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two aircraft vapor trails, made at the same time, intersected at an angle, and became one, with one jet in the sky.This isn't so much a UFO as an unusual occurance.  As I was in a parking lot and happened to look into the sky, I saw two aircraft vapor trails, which intersected at an approximate 30 degree angle.  At the point of intersection, one trail, traveling appx. NNW, ended, or merged with the trail traveling appx. N.  There was no curviture of the NNW trail - it just immediately ended, or merged.  The N. trail continued, and there was a jet making this trail, ahead of the intersect point.  I could clearly make out the jet, and just as clearly, make out that there was not another jet slightly above or below.  Also, it is worth noting that both trails were created at the same, or nearly the same time, as they faded out also at the same distance in the sky, and their concentration appeared to be equal. I have never seen this before,and hope that I have related it clearly for you.  If you have additional questions, please do email me. ((name and e-address deleted)) Thank You((NUFORC Note:  We do not know why the one contrail disappeared from sight, but there could be any number of explanations for the phenomenon.  We do not believe that contrails are related to the UFO phenomenon, and we do not believe that any of the contrails, a.k.a. "chemtrails," are intended to poison people on the ground.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13177.html](http://www.nuforc.org/webreports/reports/013/S13177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
