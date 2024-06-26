@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:32 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Creek (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball in skyAn orange fireball moving slowly until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110692.html](http://www.nuforc.org/webreports/reports/110/S110692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5760.0 - 5760.0 minutes.</sub><blockquote><sub>The person who asked if anyone had information on an Arizona Circle might be interested in this. Check aliendave.comSpanish Fork, Utah, formation in barley first noticed by farm owners on Saturday night, June 26, 2004. Large ring measured 25 feet east to west and 24.5 feet north to south, almost a perfect circle. Whole formation, including later added fourth "eyeball" measured 207 feet by 118 feet.  - An addition of a fourth "eyeball" section appeared in two stages between Thursday, July 1, and Sunday, July 4.((NUFORC Note:  Source of report provides aerial photograph of crop formation, which he describes above.  It shows a circular, ring-shaped formation, with "satellite" formations extending outside the circle.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55053.html](http://www.nuforc.org/webreports/reports/055/S55053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
