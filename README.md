@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:40 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Shamong (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red Lights appeared and darted away late at night in NJ Pine BarrensMy fiancé and I were in bed, after 1AM on Tuesday night.  One of our dogs kept growling, but we heard nothing.  He finally got up to check it out and look out of our front window. He was out there longer than expected, so I finally asked him what he was doing.  He said “there’s a weird, red helicopter thing outside…” so I hopped out of bed to take a look.  I looked out and saw nothing, thinking it was just his imagination, but then I saw it too!  Behind the trees appeared 2 visible, very bright red lights.  They moved upwards and then quickly down and to the right towards the high power lines across the street.  He described what he saw as 2-3 bright red lights that appeared seemingly out of nowhere.  They hovered and darted over, then disappeared before I came out and saw them.  I am in HR and he is in Law Enforcement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147078.html](http://www.nuforc.org/webreports/reports/147/S147078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edgewood (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White circle, above clouds, moving slowly against wind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163841.html](http://www.nuforc.org/webreports/reports/163/S163841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
