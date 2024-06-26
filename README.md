@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Orange Orbs dancing over the ocean @ LitchfieldThis is the 3rd night in a row that I have witnessed this.  I am staying near North Litchfield, at an oceanfront property.  Beginning at around 10p.m. EST, an orange "Orb" was seen in the NE sky over the ocean., and then disappeared.  It was joined by two other orbs, and they seemed to come into view and fade out, as a flare would.   After about 20 minutes of this, we witnessed two aircraft leaving the vicinity.   Another 20 minutes of no activity and the orbs begin again.   There were as many as 6 at times.  The orbs were in both the NE sky and also the SE sky.  After their "glow" show was over, we witnessed more of a sparkling light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110694.html](http://www.nuforc.org/webreports/reports/110/S110694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Batavia (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>sphere in sky.Hello, I just talked with you about Batavia Il, Ufo sighting.  Called FAA and got cloud ceiling 7000 ft broken and some at 3500 ft.  Cloud with sphere would be at 3500 ft, cloud with two holes at 7000 ft.  Also I live a few miles from Fermi Lab.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75975.html](http://www.nuforc.org/webreports/reports/075/S75975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
