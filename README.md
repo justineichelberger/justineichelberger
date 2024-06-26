@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cypress (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Diamond shaped and Red in color with flame shooting out the back.This UFO was flying from the South heading North at a moderate speed.  It didn't go up or down but stayed on course. It was red in color and had a flame out the back.  Would love to know what it was or what it was doing.  Will send pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128142.html](http://www.nuforc.org/webreports/reports/128/S128142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw two lights moving together and upward in the sky then disappearing, followed by one that disappeared, followed by another two.Was on the phone outside when I saw two lights off in the distance in the sky, not blinking like a plane's lights do.  They were flying next to each other so immediately I thought they were military aircraft in a training exercise.  They seemed to be coming toward me, but after second thought I think they were going up.  They started moving away from each other, and then one disappeared, followed by the other disappearing about twenty seconds later.Then, from the horizon, a similar light went up and disappeared, this time by itself.Next, two more lights came from the horizon, just like in the first description, and disappeared after parting ways.The sky was a bit cloudy but not enough to block out stars, etc.  I'm sure it wasn't a commercial aircraft because I saw commercial aircraft flying when I saw the lights.  Very interesting sighting; never seen anything like it before.  I was thinking maybe it was a missile but I've seen those too and they were moving too slowly to be missiles.  Still scratching my head.  Couldn't get a video because my phone ran out of battery as soon as I turned on my video camera, but this link depicts what I saw almost exactly:  http://www.youtube.com/watch?v=Pb9NJlijVb0((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110653.html](http://www.nuforc.org/webreports/reports/110/S110653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
