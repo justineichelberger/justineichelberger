@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sedro Woolley (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sedro-Woolley, I was standing outside my door, watching a light moving south to north in a fairly slow speed. 10:25 pm.First I thought the light was a star or a planet, due south from where we live. This light began to move. It had probably been moving, even before it caught my eyes. The sky was clear, with not many stars visible, because it was not very dark yet. This light was moving from south to north, in a fairly slow speed. I never saw any blinking lights, as I would on an airplane. I went in for my binoculars,to see better. I could not get a clear picture of the flying light, just bigger. I went in to log in your Reporting Center, to see if there had been any sightings in our area recently. The most recent reported was on my birthday 4/28. However, I found that close enough in time, if there has been any others reported, or if there is some activity going on in the Pacific Northwest. This sighting took place for less than a half hour ago. The light was a steady bright white. There were no other lights, that I could see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13182.html](http://www.nuforc.org/webreports/reports/013/S13182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Aurora (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Darting star-like objects some bright some very faint,move up& down, zig-zag, & change diections rapidlyI am facing south on my patio. Looking Straight up one appears at about 11:00 o'clock. Another, even briighter appears at abbout 1:00 o'clock. I saw another approach from the south & was very bright then just disappeared. These are almst in line with bright star in west at about 3:00 o'clock. See several other less bright objects near them. These objects look like satellites in the sky. No shape to them & look like stars. These objects hover, move up and down, zig zag etc. They stay in place then make rapid movements like I described. I thought my eyes were playing tricks with me, but my wife witnessed them also. I like to watch for satellites at night, and i thought the one at 1:00 o'clock was a satellite, but the movemnt on this was crazy! The one that disappeared was spooky. I am sober and live 40 miles west of Chicago. If possible have someone else look and confirm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44588.html](http://www.nuforc.org/webreports/reports/044/S44588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
