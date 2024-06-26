@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw two lights moving together and upward in the sky then disappearing, followed by one that disappeared, followed by another two.Was on the phone outside when I saw two lights off in the distance in the sky, not blinking like a plane's lights do.  They were flying next to each other so immediately I thought they were military aircraft in a training exercise.  They seemed to be coming toward me, but after second thought I think they were going up.  They started moving away from each other, and then one disappeared, followed by the other disappearing about twenty seconds later.Then, from the horizon, a similar light went up and disappeared, this time by itself.Next, two more lights came from the horizon, just like in the first description, and disappeared after parting ways.The sky was a bit cloudy but not enough to block out stars, etc.  I'm sure it wasn't a commercial aircraft because I saw commercial aircraft flying when I saw the lights.  Very interesting sighting; never seen anything like it before.  I was thinking maybe it was a missile but I've seen those too and they were moving too slowly to be missiles.  Still scratching my head.  Couldn't get a video because my phone ran out of battery as soon as I turned on my video camera, but this link depicts what I saw almost exactly:  http://www.youtube.com/watch?v=Pb9NJlijVb0((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110653.html](http://www.nuforc.org/webreports/reports/110/S110653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Orange Orbs dancing over the ocean @ LitchfieldThis is the 3rd night in a row that I have witnessed this.  I am staying near North Litchfield, at an oceanfront property.  Beginning at around 10p.m. EST, an orange "Orb" was seen in the NE sky over the ocean., and then disappeared.  It was joined by two other orbs, and they seemed to come into view and fade out, as a flare would.   After about 20 minutes of this, we witnessed two aircraft leaving the vicinity.   Another 20 minutes of no activity and the orbs begin again.   There were as many as 6 at times.  The orbs were in both the NE sky and also the SE sky.  After their "glow" show was over, we witnessed more of a sparkling light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110694.html](http://www.nuforc.org/webreports/reports/110/S110694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
