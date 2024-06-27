@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clendenin (WV) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There was white orbs, one cylinder of red, orange, and yellow in mid air, things I cant explain came from the approaching storm.Severe storm approaching with tornado warnings.  Driving towards storm white objects appear then cylinder in road, white orbs, last pic white lights of three over pole and in sky.  Enlarge to see details.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121290.html](http://www.nuforc.org/webreports/reports/121/S121290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Peters (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately Walking - Walking minutes.</sub><blockquote><sub># disk shaped objects with red glowI seen 3 different disk shaped objects in the sky w/red glow on the bottom.  They were silent,made no noise as they flew over me.  They all came 1 at a time about a minute from each other.It was while a storm front was rolling in.  They were flying low enough to see they were NOT airplanes or helicopters.  I tried to take pics w/my phone but I dont think they came out,  I dont know how to retrieve the pics from my camera phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110781.html](http://www.nuforc.org/webreports/reports/110/S110781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
