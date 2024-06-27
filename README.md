@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Just was hanging out in the park and noticed a light flash, kind of like a mirror reflecting light in the dusk sky.  It completely disappeared right away.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64198.html](http://www.nuforc.org/webreports/reports/064/S64198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Bluish-white fireball was seen very low above the Southwest horizon. From here that would be in the direction of Fontana or Ontario.Going from East to West very low above the horizon. Might have been in the vicinity of the Cajon Pass or even further away than that. Was seen to glow for about five seconds where I believe it slipped below the mountains that are directly to the south of here and could not be seen anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08164.html](http://www.nuforc.org/webreports/reports/008/S08164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
