@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Luminescent cigar shaped unidentified flying object seen flying low over Las Vegas in daytime followed by military helicopters.Cigar shape craft no wings flying horizontally over W. Sahara Blvd. in broad daylight.  I stopped my car to watch it pass over our store and received some light skin burns to the left side of my face and lips.  It was pulsing with a bright white light in the center of the ship flying very low maybe only 75 ft above our building.  Suddenly 3 military helicopters appeared over our building dropped down right out of the sky in hot pursuit of the object which sped on towards NE Las Vegas and disappeared on the horizon.  Migs were observed scrambling overhead.  The same thing was observed by a friend of mine also proceeding down Sahara Blvd to work.  I am a college professor and he is a military officer and both of us saw the same thing.  When I asked him what he thought. he said, " That object the helicopters were following was not from this world" .  He is very aware what sort of flying vehicles the military has and I am in agreement. This occurred on June 27th 10am in las Vegas, nv at Sahara and Jones avenues .((NUFORC Note:  We originally posted this report, but in error.  There are no MiGs in Las Vegas.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90222.html](http://www.nuforc.org/webreports/reports/090/S90222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chelmsford (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>very strange noise out side like somthing firing . like a rocket rocket.a noise which sounded like a fire work going off or a ripping sound,i live close to shops i expected to here a loud bang but but just finished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23497.html](http://www.nuforc.org/webreports/reports/023/S23497.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
