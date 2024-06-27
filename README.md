@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Me-LOKING FROM CAMPER-SKY LIGHT-SOUTH TO NORTH WESTAT the time I was laying down to sleep. I was in my camper looking up to the sky through the skylight.I WAS LISTENING TO ART BELL, HE HAD JUST STARTED WITH THE BROADCAST. It was real strange. Art Bell had just said that thier was A sighting along the most northern coast of California and Oregon heding N N West. I was looking up at the stars when I notist somthing that was stationary and then started to move for no reason. It WAS NOT A PLANE. Or a sattlight. This thing went brighter than a star and then with en about 15 to 30seconds moved slower than an airplain to the NW and disapierd withen seconds. It was? ((personal data deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11821.html](http://www.nuforc.org/webreports/reports/011/S11821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light moving quickly east to west viewed from the boston commonIn the boston common walking away from the public gardens towards the park st station, my girlfriend and I noticed a fast moving light heading east to west in the sky.  The approach for commercial planes was directly over the common heading due east, the opposite direction of which way the light was moving.  It was clearly not a helicopter for it made no sound resembling a helicopter, although it was possible this object was too high to hear the sound if it made one. It was visible for about ten seconds at about a 40 degree angle in the southern sky of where we at that particular point (the exact location of the sighting was about 100 yards north of the gate which across the st. is the public garden, the path next to the softball field).   if anyone else saw this object and can explain it or give more detail on it, feel free to email me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13228.html](http://www.nuforc.org/webreports/reports/013/S13228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
