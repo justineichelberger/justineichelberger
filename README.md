@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:44 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Star (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disc moving slowly overhead while sitting in our backyard.While sitting outside in our backyard, my wife noticed something high in the sky and asked me if it was a drone.  I looked toward Northwest to see a glimmering light high above our backyard slowly moving toward the North. The object looked metallic and made no noise.  I pulled out my phone and began to take photos to see if I could zoom in for a better look.  After reviewing the Live Photo’s, I was surprised to see it as a shining metal disc reflecting the sun.  I was expecting a drone but after review it had me scratching my head.  I saved the photos in hope someone else witnessed the same event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163876.html](http://www.nuforc.org/webreports/reports/163/S163876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Mt. Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Event # 16</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139694.html](http://www.nuforc.org/webreports/reports/139/S139694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
