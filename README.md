@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Prescott National Forest (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It was a large ball of bright white light that flew below the tree line north of Mingus Mountain Campground from west to east.I awoke to go pee at approximately 2-3 AM.   And I was amazed at how filled the sky was with stars. I followed one shooting star as it went down.  Then noticed a bright light that moved quickly out of view. It was a large ball of bright white light that flew below the tree line north of Mingus Mountain Campground from west to east, towards the radio towers.  The light did not bounce around, and its intensity seemed constant.  Until it disappeared behind a ridge. Size is hard to estimate.  I didn't hear anything but the breeze blowing through the trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90344.html](http://www.nuforc.org/webreports/reports/090/S90344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>stationary fireballs seen in sky south of interstate 8 and west of Gila Bend about 20min6/27/12 10:23pm  Driving Eastbound on interstate 8, about mile market 95, 20 min West of Gila Bend. My sister and I spot the lights south of the highway. First one light that looks like a fireball which has a smoke trail rising. Then that fireball emits 3 smaller fireballs like an explosion/firework but it doesn’t look like a firework. They dissipate and another fireball, the same size as the first, lights up not too far from the first. The first goes out and then lights up again after about 5 min. I took some video but it is very shaky because we did not stop the car. The fireballs stay stationary in the sky and are too high to be burning off a tower like a gas release at a dump. But that is what I thought at first.  I have been reading others accounts of a similar sighting in the same spot, which makes me believe it has a reasonable explanation that no one has cared to investigate. I know I haven’t. The most reasonable seems to be related to some air base that, I have read, is in the area. Not sure what it would be but it is probably related to that.  I am curious but not curious enough to drive back there. About 15 years ago I saw a similar light in the sky and my parents told me not to worry about it. Not really sure the relevance of that. Just thought of it. If anyone knows what the lights are I hope you post it somewhere on the internet so we all can google it and find out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90207.html](http://www.nuforc.org/webreports/reports/090/S90207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
