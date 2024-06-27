@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Bluish-white fireball was seen very low above the Southwest horizon. From here that would be in the direction of Fontana or Ontario.Going from East to West very low above the horizon. Might have been in the vicinity of the Cajon Pass or even further away than that. Was seen to glow for about five seconds where I believe it slipped below the mountains that are directly to the south of here and could not be seen anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08164.html](http://www.nuforc.org/webreports/reports/008/S08164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in West Columbia (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object or craft makes erratic high speed maneuvers over South Carolina.(Report amended to correct date)  At 21:09 ET, on Tuesday, 6-27-2017, I walked out of my garage and something in the sky immediately caught my attention.  After observing the object for only about 10 seconds, I realized I was looking at something very unusual.  I ran back to the door so I could call out for my girlfriend to bring her tablet to video the “UFO.” I ran back to the garage opening to see it again for a few seconds before I thought to reach for my camera already in the garage and nearby.  By the time I grabbed the camera the object was gone.  I was the only witness that I know of at this time.  My girlfriend ran out just after it disappeared.  We stood there observing the sky for some time, but did not see anything else unusual.My home is located about one mile north of Columbia Metropolitan Airport near Columbia, SC.  The object was nearly due north of my location (approx. 350 degrees) and fairly low on the horizon (approx 15-20 degrees).  The object appeared to be at a great distance, at least a few miles away, but distance, size and altitude were hard to gauge without any point of reference.The object appeared to emanate a greenish white light or glow.  The sun had set just a while before and could have been illuminating the object.  The object or craft made very erratic high speed maneuvers unlike anything I have witnessed before.  The shape was indistinguishable due to what was perceived to be a great distance to the object.  There were no clouds in the immediate area of the object.As a knowledgeable military aviation enthusiast, I feel very certain what I witnessed cannot be explained as an aircraft, balloon, kite, meteor, bird or anything else known to myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134799.html](http://www.nuforc.org/webreports/reports/134/S134799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
