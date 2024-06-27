@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 26 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edgewood (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White circle, above clouds, moving slowly against wind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163841.html](http://www.nuforc.org/webreports/reports/163/S163841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>rectangular arrangement of white lights  head North . Spacing between lights did not changeAlthough it was in our sight only a few seconds due to passing over the big tree in the back yard, we both agree on what we saw even though we have no idea what it was. What we saw was four white lights arranged in a rectangular pattern: two in front and two bringing up the rear. It was going pretty fast, although a low flying airliner could have been going that fast.   The length could have been consistent with an airliner. However, there were no flashing lights. No red, no green, no flashing white. There also was no sound that we could hear above normal traffic noise from I-35 a mile away. Had I more presence of mind, perhaps I would have jumped up and ran further toward the back of the yard to keep it in sight a little longer. Not hearing it, I sort of expected the sound to catch up, but it didn't.???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51143.html](http://www.nuforc.org/webreports/reports/051/S51143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
