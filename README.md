@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 rust-colored, stealth fighter-shaped UFOs.3 rust-colored objects, shaped much like the stealth fighter.  They hovered just east of the 405 freeway near the University exit.  I saw them during my morning commute to work.  I lost sight of them as I drove behind some trees.((NUFORC Note:  Source is anonymous, but provides a telephone number.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18259.html](http://www.nuforc.org/webreports/reports/018/S18259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hillerød (Denmark) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 lights over Hillerød Denmarkwas sitting in my apartment in Hillerød, Denmark, and went out to get some air when i noticed 2 flying objects going kinda fast but not in a straigt line.. they both had a orange light from them but one of the object was loosing light..  suddenly the light was gone and as i saw the other object move the line dissapeared aswell.  i could still the object as it moved away till i lost focus of it..they made no sound!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75949.html](http://www.nuforc.org/webreports/reports/075/S75949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
