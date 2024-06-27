@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Peters (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately Walking - Walking minutes.</sub><blockquote><sub># disk shaped objects with red glowI seen 3 different disk shaped objects in the sky w/red glow on the bottom.  They were silent,made no noise as they flew over me.  They all came 1 at a time about a minute from each other.It was while a storm front was rolling in.  They were flying low enough to see they were NOT airplanes or helicopters.  I tried to take pics w/my phone but I dont think they came out,  I dont know how to retrieve the pics from my camera phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110781.html](http://www.nuforc.org/webreports/reports/110/S110781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Newbury Park (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 Bright White Lights in the SkyLast night June 27, 2015, was thick marine layer in Newbury Park, CA.  It was after 11:00 pm, I was on the internet, and heard a low loud roar outside, like a plane too close to the house.  Went outside in the back yard and looked up…didn’t see any plane but saw three what I thought were at first glance very white bright round clouds…..kept looking at them, they were strange and they were not moving and they were too white bright to be clouds, it looked like lights coming through the marine layer.  Lights were stationery and I ran to the front yard to look at it better.  It’s darker in our front yard.  The three lights were there for about six minutes total, and then suddenly, they all three disappeared at the same time.  These clouds turned themselves off.  I waited and searched the sky for half an hour but didn’t see anything else.   Went on the internet and found one other person who saw what I saw just minutes before I saw it and that person lives in Anaheim, CA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119804.html](http://www.nuforc.org/webreports/reports/119/S119804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
