@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light moving quickly east to west viewed from the boston commonIn the boston common walking away from the public gardens towards the park st station, my girlfriend and I noticed a fast moving light heading east to west in the sky.  The approach for commercial planes was directly over the common heading due east, the opposite direction of which way the light was moving.  It was clearly not a helicopter for it made no sound resembling a helicopter, although it was possible this object was too high to hear the sound if it made one. It was visible for about ten seconds at about a 40 degree angle in the southern sky of where we at that particular point (the exact location of the sighting was about 100 yards north of the gate which across the st. is the public garden, the path next to the softball field).   if anyone else saw this object and can explain it or give more detail on it, feel free to email me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13228.html](http://www.nuforc.org/webreports/reports/013/S13228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle craft over I-70 on June 27th, and 4:30 AM, near Fairborn, OHHad just turned onto I 70 East from 675, when I saw 3 white lights ahead. My first thought was that it was a jet from Wright-Patt, which was only a few miles away. When I first saw them, the lights were pretty much in a straight line, and probably twice tree top height. As I continued, it became apparent that I was looking at a "triangle UFO)- one light at the front, and the other two on the sides. Having grown up in Dayton, I know that this had no colored wingtip lights. I could then see a slowly blinking red light on the bottom (it was dark and I could not make out the actual form.I continued driving and rolled down my window to see if I could hear a jet engine- no, only wind and road noise. Looking up, when the red light came on, I could see the solid flat, dark surface of the area right behind the light.I rolled up my window and then caught a glimps of the craft in my rear view mirror. I could see two red lights on the back end. The craft was right over the median grass strip of the highway, moving East to West, very slowly. Size-wise, it would have been the size of one of the C-5A cargo jets that Wright-Patt has on base. No way this was one of those, which I've seen for years and years, practicing touch and gos at the base.I'm neither shocked nor surprised- nice to have finally seen one of these, and I look forward to some type of "disclousure"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70774.html](http://www.nuforc.org/webreports/reports/070/S70774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
