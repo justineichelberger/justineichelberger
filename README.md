@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:21 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Newmarket (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black oval w/ multi-colored lights a frightening sight for two teens.My daughter had a friend sleeping over that night and decided to go for a late night swim in the pool before turning in. While they were in the pool they called me out to see these white star like lights in formation in the sky and an almost rainbow like color right around them. I kind of shrugged it off as maybe some satallites or something and told them not to worry about it. They were outside talking in the tent they were going to sleep in and around 12:30 I went out and told them to get some sleep and turn the lights out. I went in to get ready for bed and could hear them still chatting. As I was dosing off the phone rang. It was the other girls mother telling me to get outside that the girls needed me. I ran out and asked what was wrong and all hell broke loose. They were hysterical!! When I finally got them in the house and calmed down enough to understand them, they told me they were lying there getting ready to sleep and had just closed thier eyes when A bright light came in through the top of the tent and then a bunch of colored lights were flashing in on them and they tried to scream but couldn't. Then the lights moved to one side of the tent and then just vanished as quickly as it came. They were too scared to come out of the tent so they called the friends mother to get her to call me. I wish I hadn't slept through it I would have liked to have seen that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13840.html](http://www.nuforc.org/webreports/reports/013/S13840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hudson (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Orange lights in the skySpotted 3 orange lights in the night sky in my picture on my camera it shows an UFO with orange lights moving in a circular fashion((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110823.html](http://www.nuforc.org/webreports/reports/110/S110823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
