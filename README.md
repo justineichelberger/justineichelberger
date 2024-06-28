@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:47 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Daytona beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:30 - 2:30 minutes.</sub><blockquote><sub>Went to watch the sunrise and saw a bright light hovering over the ocean, thought it was a drone as it was moving ever along slightly.  Then it started to rise, the higher the sun got the higher the object rose.  Went all the way up until it was a tiny speck my camera couldn’t even focus on it anymore.  Just stayed high up there, watching.  You would never notice it if you didn’t look up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157185.html](http://www.nuforc.org/webreports/reports/157/S157185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Uniontown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw a triangular shaped object in the night sky above the Uniontown Mall, and moved very quickly with lights.I was out watching fire works with my boyfriend, his brother, and little sister tonight and after the fire works were over I saw a very interesting object. I made a joke and said, "hey look, it's a UFO." Then I looked closer and thought that maybe it really is. It was a triangular shaped object with three lights on it, and it was moving very quickly. It seemed to be in one place, then another in a matter of seconds. When I told my dad about what I saw, he didn't believe me. But i know what I saw was not just an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70746.html](http://www.nuforc.org/webreports/reports/070/S70746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
