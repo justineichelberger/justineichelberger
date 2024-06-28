@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Uniontown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw a triangular shaped object in the night sky above the Uniontown Mall, and moved very quickly with lights.I was out watching fire works with my boyfriend, his brother, and little sister tonight and after the fire works were over I saw a very interesting object. I made a joke and said, "hey look, it's a UFO." Then I looked closer and thought that maybe it really is. It was a triangular shaped object with three lights on it, and it was moving very quickly. It seemed to be in one place, then another in a matter of seconds. When I told my dad about what I saw, he didn't believe me. But i know what I saw was not just an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70746.html](http://www.nuforc.org/webreports/reports/070/S70746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>the star in the night sky stated dancing, only to return back, hidden.I watched a light which looked like it was not in the atmostphere, it looked like a star until it started "dancing" around, making quick dashes and drops only to come back to it's starting point, it made these figure eight movements and spirals, as if to gain attention, this was going on for about ten minutes and then made a quick dash away and I lost it in the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13573.html](http://www.nuforc.org/webreports/reports/013/S13573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
