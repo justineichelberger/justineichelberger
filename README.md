@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:42 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>ufo sighting in houston,texasAround 9:35,a group of us witnessed a ufo in the sky,at altitude,in the west.  It appeared to be at about 3500 feet altitude, and was a very bright bluish-white light,changing occassionally to a flashing orange,then back to bluish white.It was not moving,but hovering,for most of the time we were watching it.  There appeared to be beams emitting from the craft every three minutes or so.  It appeared spherical at first,orb-shaped,but then would morph into a diamond shape,and the bluish-white light would pulsate.It changed from spherical to diamond shaped about four times during this period.  Finally,it gained altitude and moved south,towards the coast.this was seen by myself and many others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76004.html](http://www.nuforc.org/webreports/reports/076/S76004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Atlantic Ocean () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3, bright red, triangle shaped lights, over deep Atlantic Ocean waters, near Puerto RicoJune 29, 2009 approximately 19:30 hours. On a cruise ship departed from Miami Fl, off the coast of Puerto Rico. My wife and I had returned to our balcony stateroom.  I stepped out onto the balcony just to have a look at the ocean and see if there were any other ships around. I did not see any other ships. What I did see were three red lights in the shape of a triangle,one light above 2 below, possibly 1-2 miles away, in the sky, probably 15 to 20 degrees above the horizon. The sky was clear with scattered clouds. At first I thought these three red lights were some sort of helicopter formation.I am an Air Force veteran, I quickly dismissed the helicopter formation as these light were, infact, perfectly stationary. They made no movement and there was no sound coming from them. I assumed that I was too far from the object to hear any sound anyway.I looked at the lights for maybe 5 to 10 seconds, watching for any movement and could not detect any. Next, I turned a! way from the object and looked around the sky , deliberately trying not to view the object. I once again found the object, still in the same location, unmoving. It was at that point that I called for my wife to come see this object. My wife had been occupied with doing something else and by the time she got to the balcony the lights just disappeared as I watched them.Just as though someone turned off a switch, as though turning off a light in a room. Gone! I have no understanding of how or where these lights came from. I can only say that they were real, not some transparent reflection of a common item which I mistook as something unexplanable. My immediate impression was of a helicopter or some sort of military aircraft, which I dismissed. Then I thought it might be some sort of marine navigation device such as a channel marker, which I also dismissed.I then began to get the feeling that these lights were "watching" us as I was watching them.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74843.html](http://www.nuforc.org/webreports/reports/074/S74843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
