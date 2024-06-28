@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Four evenly spaced lights.Four, evenly spaced, bright, star like lights moving from East to West at approximately 60 degrees in the sky.  The lights did not trail, fall, or speed up.  They vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119818.html](http://www.nuforc.org/webreports/reports/119/S119818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I saw something......then I felt somethingAround 9;15 that night me and my wife were outside by the pool at the hotel. We had been out there for maybe 5 minutes. I was sitting in a lounge chair that lays back. I dont know why but for some reason I looked up. I know what I saw was not a plane or lights off some gas ball. There were 5 circles in the sky. Each one was a off white color. They did'nt move they did'nt blink they just sat there. But they were'nt by them selfs. They were hooked to something else. The circles were in a circular pattern, as if they were attached to something. They were about 5 feet from one another. But you could see them clear.....it was'nt a plane! Those lights were attached to the left side of some kind of craft. I told my wife to look at it. When she saw it she got a little scared and went inside. I stayed out there for maybe 15 more minutes. When I got to the upper part of the hotel I looked out over the rail. They were gone......just like that....gone no noise..nothing. Well when I went inside my wife did'nt really wont to talk about it. Later on that night I would say around 3;15 am. I woke up to a very bright light outside the hotel window. I got up and looked out the door. It was so bright when I opened the door you could'nt even see the parking lot. I dont remember much after that....not even going back to bed. But the next morning I woke up with a cut in the middle of my arm. Not a big cut, but a cut. It was'nt there when I went to bed. Well after comeing back home the cut stayed on my arm for about 2 weeks. Did'nt scab up....did'nt bleed...nothing. Then the next morning it was gone! No scar...nothing. I have never had any trouble with my body before that night. But ever since I saw what I saw. Ive had bad headaches...and my right arm goes num. I know it sounds stupid but it's the truth. I belive something happened that night.....what I have no idea. But what ever did happen, it feels like I got part of it....if you would like to email me feel free to. No one else belives me....but it's the tru! th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29732.html](http://www.nuforc.org/webreports/reports/029/S29732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
