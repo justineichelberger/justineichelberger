@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Osage beach (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Single slow cruising orb over the grand glaze bridgeI was out on lakeside porch when I noticed a bright single orb moving across the sky around the glaze arm of lake ozark.  It was in the sky at a lower altitude but following through normal air traffic space.  I live directly under air space that sees military and commercial air traffic.  This craft had a glow that encompassed the vehicle making it one continuous orb of white light.  About two and a half minutes of sustained slow flight, I noticed a jet trailing the object and it disappeared instantly in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81973.html](http://www.nuforc.org/webreports/reports/081/S81973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Freehold (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange ball of fire seen by family in carOne orange ball seemed as of it was on fire, traveled very fast in a straight line too low to be AT&T or space station about the size of a dime</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90201.html](http://www.nuforc.org/webreports/reports/090/S90201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
