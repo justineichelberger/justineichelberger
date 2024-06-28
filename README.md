@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:33 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:21 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Parkdale (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed a triangular shaped craft with bright white lights travel across the sky then quickly shot straight up and disappeared.I was camping at Laurance Lake.  It was around 10:30 pm..sitting around the campfire. I have never seen something in the sky that I couldn't logically explain. As I was staring at the stars I noticed a HUGE white thing traveling in the sky between two of the brightest stars  in the sky. I believe now those stars to be Venus and Jupiter.  I am terrible with directions and angles, but I am pretty certain I was looking in the West.I thought, "It's to high and big to be a plane. It's to low and big to be a satellite." I turned to a friend, pointed to the general location and said, "What is that?"  He was a local and familiar with anything and everything about the outdoors.  "Umm..that's a plane. We should see it's lights here in a sec."We engaged in a quick discussion about the objects activity while staring at it..really just waiting to see something else but the triangular bright white lights.  This object was steadily moving across the sky then suddenly started to ascend. In a fraction of a second shot, it straight up and disappeared. I was speechless. I am 47 years old and have spent countless hours gazing at the stars.  This was incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99073.html](http://www.nuforc.org/webreports/reports/099/S99073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Newmarket (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black oval w/ multi-colored lights a frightening sight for two teens.My daughter had a friend sleeping over that night and decided to go for a late night swim in the pool before turning in. While they were in the pool they called me out to see these white star like lights in formation in the sky and an almost rainbow like color right around them. I kind of shrugged it off as maybe some satallites or something and told them not to worry about it. They were outside talking in the tent they were going to sleep in and around 12:30 I went out and told them to get some sleep and turn the lights out. I went in to get ready for bed and could hear them still chatting. As I was dosing off the phone rang. It was the other girls mother telling me to get outside that the girls needed me. I ran out and asked what was wrong and all hell broke loose. They were hysterical!! When I finally got them in the house and calmed down enough to understand them, they told me they were lying there getting ready to sleep and had just closed thier eyes when A bright light came in through the top of the tent and then a bunch of colored lights were flashing in on them and they tried to scream but couldn't. Then the lights moved to one side of the tent and then just vanished as quickly as it came. They were too scared to come out of the tent so they called the friends mother to get her to call me. I wish I hadn't slept through it I would have liked to have seen that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13840.html](http://www.nuforc.org/webreports/reports/013/S13840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
