@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light changeing to amberOn the night of 6/28/07 at about 11pm at the dam at lake Monroe while i was fishing.Coming from the norteast was a orange oval shaped light at a high rate of speed.At armes lenght it was about the sze of a quarter.the light was bright orange flying just under the cloud cover.It streaked in the stoped and hoveredfor a few seconds then the color changed to a light amber color and it streaked off .About 20 seconds after that two jets came screaming bye.They do fly this area all the time so im sure it was military jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57361.html](http://www.nuforc.org/webreports/reports/057/S57361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Charleston (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Highly erratic flight pattern by unknown object flying around multiple other common aircraft.This happened in South Charleston, WV. I even mapped the geographical coordinates of where we were laying. I and another witness were at 38.32238,-8172043 laying on a set of monkey bars behind a school both facing northeast. I noticed the object first.It was a yellowish glow high in the sky and I made a joke about how that star looked like it was moving. Upon further investigation I noticed it had been moving. From what I could see it was flying around the same elevation as most aircraft were that night. The night was clear and no cloud coverage at all. There were a lot of other aircraft and one aircraft even flew right into the yellow glowing object, however it looked as if it passed over top of it.The object had no particular flight pattern and moved erratically. Based on surrounding aircraft I would assume it flew at over a 600 miles per hour and would stop and switch directions quickly. It moved in every direction, left to right, up and down, and they weren’t always constant flight patterns. They would also fly from left to right and then slowly sweep upward in a curved motion.  There were multiple other aircraft that were all easily identified even when they were flying at a higher altitude and this flight pattern matched no aircraft possible in the area and had no hazard lights to let you know that it was a normal aircraft.The sighting occurred 6/28/12 from approximately 9:30pm to 11:30 pm. We watched the object move to many different areas of the sky. We actually looked up and placed it to be flying around the Hercules constellation from where we were laying. I took great care to include all accurate details and did have  a witness. This is my first sighting of an object like this, and I’m sure it was no meteor (there was a meteor shower) and I’m positive it was no local aircraft I’ve ever viewed. I tried to film it on my iPhone, unfortunately the ambient light from the light pole wouldn’t allow it to focus and concentrate on the beam.The object was too far away to determine a shape, but it was definitely highly illuminated. We even wondered while watching it how the aircraft could not notice or see this or maybe they had. There was a very unusual amount of air traffic that night too from what I observed, especially for the time frame.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90213.html](http://www.nuforc.org/webreports/reports/090/S90213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
