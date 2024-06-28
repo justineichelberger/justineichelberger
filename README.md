@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 27 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Newbury Park (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 Bright White Lights in the SkyLast night June 27, 2015, was thick marine layer in Newbury Park, CA.  It was after 11:00 pm, I was on the internet, and heard a low loud roar outside, like a plane too close to the house.  Went outside in the back yard and looked up…didn’t see any plane but saw three what I thought were at first glance very white bright round clouds…..kept looking at them, they were strange and they were not moving and they were too white bright to be clouds, it looked like lights coming through the marine layer.  Lights were stationery and I ran to the front yard to look at it better.  It’s darker in our front yard.  The three lights were there for about six minutes total, and then suddenly, they all three disappeared at the same time.  These clouds turned themselves off.  I waited and searched the sky for half an hour but didn’t see anything else.   Went on the internet and found one other person who saw what I saw just minutes before I saw it and that person lives in Anaheim, CA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119804.html](http://www.nuforc.org/webreports/reports/119/S119804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Scotia (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>There was what appeared to be a UFO at the 2014 Scotia Fireworks.We were enjoying the fireworks ahead of us and I looked above me and noticed what appeared to be a drone at first and ignored it until I saw the incredible speeds that it was going from place to place with.  Not many people noticed it, maybe 30 and it was ignored by most of them.  Only my family and one other actually saw its capabilities that put it beyond a drone.  It had one white center light along with one red, one yellow, one blue, and one green light on each side of the white light creating a "plus (+)" shape.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128706.html](http://www.nuforc.org/webreports/reports/128/S128706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
