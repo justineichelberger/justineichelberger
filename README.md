@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:33 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Scotia (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>There was what appeared to be a UFO at the 2014 Scotia Fireworks.We were enjoying the fireworks ahead of us and I looked above me and noticed what appeared to be a drone at first and ignored it until I saw the incredible speeds that it was going from place to place with.  Not many people noticed it, maybe 30 and it was ignored by most of them.  Only my family and one other actually saw its capabilities that put it beyond a drone.  It had one white center light along with one red, one yellow, one blue, and one green light on each side of the white light creating a "plus (+)" shape.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128706.html](http://www.nuforc.org/webreports/reports/128/S128706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Parkdale (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed a triangular shaped craft with bright white lights travel across the sky then quickly shot straight up and disappeared.I was camping at Laurance Lake.  It was around 10:30 pm..sitting around the campfire. I have never seen something in the sky that I couldn't logically explain. As I was staring at the stars I noticed a HUGE white thing traveling in the sky between two of the brightest stars  in the sky. I believe now those stars to be Venus and Jupiter.  I am terrible with directions and angles, but I am pretty certain I was looking in the West.I thought, "It's to high and big to be a plane. It's to low and big to be a satellite." I turned to a friend, pointed to the general location and said, "What is that?"  He was a local and familiar with anything and everything about the outdoors.  "Umm..that's a plane. We should see it's lights here in a sec."We engaged in a quick discussion about the objects activity while staring at it..really just waiting to see something else but the triangular bright white lights.  This object was steadily moving across the sky then suddenly started to ascend. In a fraction of a second shot, it straight up and disappeared. I was speechless. I am 47 years old and have spent countless hours gazing at the stars.  This was incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99073.html](http://www.nuforc.org/webreports/reports/099/S99073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
