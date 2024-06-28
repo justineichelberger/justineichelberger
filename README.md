@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Miami Township (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A craft went across the sky, turned upwards, and disappeared.I was outside letting my dog go to the restroom.  I looked up and observed what I thought might be a plane, but it did not have any flashing lights.  I watched it for about 2 minutes.  As it reached directly above me I observed it "turn" upwards, I could see a hint of red, then it went straight up and disappeared. I have always been fascinated by the possibility of UFO's, or even special operations craft. This was definitely not a normal plane. I am honestly surprised and even more interested than ever.  I am waiting to see if anyone else observed the craft tonight.((NUFORC Note:  Over-flight of International Space Station.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81971.html](http://www.nuforc.org/webreports/reports/081/S81971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Isle la Motte (VT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>An orb that disappeared into vapor and a flying vessel with a bank of four tail lights,Location: Isle la Motte, Grand Isle County, Vermont, June 28th 2011, 11ish pm   I was staying at a property at the southern end of Isle la Motte on Lake Champlain.  I was leaving the next morning, so I was sitting out by the lake before going to bed.  As I was walking back to the house I looked at the sky to the ssw and saw an orange orb.  My first thought was that I had not heard that Jupiter was going to be exceptionally visible that night.As my mind was trying to make sense of what I was looking at a cloud of vapor appeared near the orb and then it looked as though the orb sucked in the vapor, then just disappeared.All of this happened in about 30 seconds and there was no sound related to this occurrence.Then, from about the same place the orb was, there were trees around where I saw the orb, I heard what sounded like a plane.  The "plane" that flew out over the lake was like nothing I had seen before.  It was flying away from me and had a bank of four "taillights."Those were the only lights I could see, they were also orange and were on constantly, no blinking lights.  The two in the middle had a pattern, the outside two were just plain light.  It flew out over the lake and banked in a way I have never seen a plane turn before.  Again there was some vapor that appeared and was absorbed but it kept flying until it was out of sight beyond the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81991.html](http://www.nuforc.org/webreports/reports/081/S81991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
