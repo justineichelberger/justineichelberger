@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:18 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Staufen (Germany) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7 red and orange glowing lights hovering over Staufen Germany very low and very brightSunday 28th June at 0.24 am I saw 6 or 7 maybe more, very bright hovering lights,they were orange in color and moving very slowly. They were round like an upside down bowl hovering low over Staufen in Germany. When I first saw them I thought they were very bright stars then I realised how orange-red they looked. I looked for other stars in the sky but there were only a few visible and they were small and bleu. I watched them moving around   I went inside for my camera to try to film them. The only camera I have is digital the zoom was not strong enough, but I filmed 2 of the objects. I went upstairs to get a higher view. By this time just 1 object was left in the sky and appeared further away. They glowed and looked like they were spinning, they were quite low down.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70737.html](http://www.nuforc.org/webreports/reports/070/S70737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Weirton (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single bright orange light moving slowly east to north.  Light seemed to be traveling away then abruptly disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110837.html](http://www.nuforc.org/webreports/reports/110/S110837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
