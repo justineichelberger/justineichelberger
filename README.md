@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:47 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Isle la Motte (VT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>An orb that disappeared into vapor and a flying vessel with a bank of four tail lights,Location: Isle la Motte, Grand Isle County, Vermont, June 28th 2011, 11ish pm   I was staying at a property at the southern end of Isle la Motte on Lake Champlain.  I was leaving the next morning, so I was sitting out by the lake before going to bed.  As I was walking back to the house I looked at the sky to the ssw and saw an orange orb.  My first thought was that I had not heard that Jupiter was going to be exceptionally visible that night.As my mind was trying to make sense of what I was looking at a cloud of vapor appeared near the orb and then it looked as though the orb sucked in the vapor, then just disappeared.All of this happened in about 30 seconds and there was no sound related to this occurrence.Then, from about the same place the orb was, there were trees around where I saw the orb, I heard what sounded like a plane.  The "plane" that flew out over the lake was like nothing I had seen before.  It was flying away from me and had a bank of four "taillights."Those were the only lights I could see, they were also orange and were on constantly, no blinking lights.  The two in the middle had a pattern, the outside two were just plain light.  It flew out over the lake and banked in a way I have never seen a plane turn before.  Again there was some vapor that appeared and was absorbed but it kept flying until it was out of sight beyond the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81991.html](http://www.nuforc.org/webreports/reports/081/S81991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Daytona beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:30 - 2:30 minutes.</sub><blockquote><sub>Went to watch the sunrise and saw a bright light hovering over the ocean, thought it was a drone as it was moving ever along slightly.  Then it started to rise, the higher the sun got the higher the object rose.  Went all the way up until it was a tiny speck my camera couldn’t even focus on it anymore.  Just stayed high up there, watching.  You would never notice it if you didn’t look up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157185.html](http://www.nuforc.org/webreports/reports/157/S157185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
