@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Atlantic Ocean () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3, bright red, triangle shaped lights, over deep Atlantic Ocean waters, near Puerto RicoJune 29, 2009 approximately 19:30 hours. On a cruise ship departed from Miami Fl, off the coast of Puerto Rico. My wife and I had returned to our balcony stateroom.  I stepped out onto the balcony just to have a look at the ocean and see if there were any other ships around. I did not see any other ships. What I did see were three red lights in the shape of a triangle,one light above 2 below, possibly 1-2 miles away, in the sky, probably 15 to 20 degrees above the horizon. The sky was clear with scattered clouds. At first I thought these three red lights were some sort of helicopter formation.I am an Air Force veteran, I quickly dismissed the helicopter formation as these light were, infact, perfectly stationary. They made no movement and there was no sound coming from them. I assumed that I was too far from the object to hear any sound anyway.I looked at the lights for maybe 5 to 10 seconds, watching for any movement and could not detect any. Next, I turned a! way from the object and looked around the sky , deliberately trying not to view the object. I once again found the object, still in the same location, unmoving. It was at that point that I called for my wife to come see this object. My wife had been occupied with doing something else and by the time she got to the balcony the lights just disappeared as I watched them.Just as though someone turned off a switch, as though turning off a light in a room. Gone! I have no understanding of how or where these lights came from. I can only say that they were real, not some transparent reflection of a common item which I mistook as something unexplanable. My immediate impression was of a helicopter or some sort of military aircraft, which I dismissed. Then I thought it might be some sort of marine navigation device such as a channel marker, which I also dismissed.I then began to get the feeling that these lights were "watching" us as I was watching them.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74843.html](http://www.nuforc.org/webreports/reports/074/S74843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light changeing to amberOn the night of 6/28/07 at about 11pm at the dam at lake Monroe while i was fishing.Coming from the norteast was a orange oval shaped light at a high rate of speed.At armes lenght it was about the sze of a quarter.the light was bright orange flying just under the cloud cover.It streaked in the stoped and hoveredfor a few seconds then the color changed to a light amber color and it streaked off .About 20 seconds after that two jets came screaming bye.They do fly this area all the time so im sure it was military jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57361.html](http://www.nuforc.org/webreports/reports/057/S57361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
