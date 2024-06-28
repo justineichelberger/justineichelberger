@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 28 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lake of the Ozarks (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I live in rural Missouri, and last night at approximately 2230, the moon was not out and my neighbor and I where sitting on my porch.  From above I noticed a very bright light.  I looked up and saw at what could tell to be at a great distance in outerspace a bright star that illuminated my rural farm.  I initially figured it to be a shooting star.Then as the light dimmed I observed it moving northward at a slower speed then a usual shooting star then burning by out.  I observed it in the same small section of the sky repeatedly for approximately 20 min.  Each time doing the exact same thing but going a different direction in the same small area of the sky.I have tried to reason away possibly natural phenomenon that would create that.  Such exploding stars or even Nasa spacecraft burning their rockets.I am curious astonishing what it could be or even if anyone else saw it.The light was so bright!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128132.html](http://www.nuforc.org/webreports/reports/128/S128132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Oglethorpe (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Brigh blue orb darting back and forth across the southern sky.Southern sky-clear evening- ocean blue light- for a few seconds would turn bright white and dart across the sky and hover-  A zig-zag pattern was noticed.  The objects also went higher and lower very quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134810.html](http://www.nuforc.org/webreports/reports/134/S134810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
