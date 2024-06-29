@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 lights in a perfect square in sky.  I thought that it may have been the moon with odd fading.  The 4 lights did not move but the lights faded out and re-appeared a short distance away and did not move again only fading re-assuring what I saw.  I had enough time to pullout my cell phone and try to take a picture however, my phone did not capture the full image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134819.html](http://www.nuforc.org/webreports/reports/134/S134819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Statesville (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I have thought of this event my whole life I was 12 I am now 46.  My father and I was standing at edge of our yard when dad said, "What hell is that?"  I looked and saw what was about as tall as a 30 story building just sitting 100 yards from us in a cut cornfield.  It was about as wide as as a football field or so.  I looked at reports of this same ufo in the database it made me want to report my sighting.  The only difference is this craft was hovering with no lights.  It had windows running all down the left side like a tall building.  I also could see coming out right side a cone shaped metallic booster looking object like on our space shuttles.  It had little bit steam coming  out of it like it was a vent instead of being a rocket for propulsion. I also could see at the top what l swear looked like a head with bulls horns or something, a emblem of some kind.  It scared my dad so bad that when I ran towards it to get closer for a better look he screamed  at me to stop and wait for him go first to see what hell had landed in our field.  He finally caught me and led the way when all sudden it vanished and was gone.  We walked back then but to this day I wish I had gone on out there because I think still to this day it was still there it just cloaked itself.  I thought so much over years of this and my dad still doesn't have any explanations  either.We lived in perfect place I later thought for something  to land away out by ourselves 100 acres of land on a  dead end road no other houses would be able see this but ours.I stumbled  on this website hoping find others that have seen my ufo or one like it.If you look at rectangle ufo sightings the one I saw is described 30 storys high or so and width of football field with windows up and down it like a building  is described more than once.Im so glad I was able to read those reports that this thing has been seen all over and is REAL.It feels good to be able get my story on here too,I have looked in fi! elds and up in clouds all these years hoping see it again but ! have not I swear on my life and my father would too on that this happened one late evening in late 80s and I have never forgot it or been able to explain it but I feel now for sure after reading about people reporting the same ufo in detail, mine just was not lit up or could I see people in the windows like some other reports of this same ufo. Mine was trying hide and sit there I think completely  quiet and no sound.I would bet my life now on UFOs are real.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147362.html](http://www.nuforc.org/webreports/reports/147/S147362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
