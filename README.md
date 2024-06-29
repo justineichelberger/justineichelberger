@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Carter (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A low-flying triangular shaped object with three blinking lights flew for about four minutes, then vanished.A low-flying triangular shaped object with three blinking lights. Flew southeast, stopped for about a minute, turned northwest flew for almost two minutes, then vanished out of sight. Also, the lights on the object blinked in a sequential counter clockwise order.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44656.html](http://www.nuforc.org/webreports/reports/044/S44656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dover (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A metallic object in the sky vanished before our eyes, with no clouds or anything else to obscure our view.While driving to a concert, my friend & I saw a metallic object in the sky.  The sun had just set, and the sky was a nice deep blue, just before it got dark.  We saw a metallic object hovering through the sky, and then the object disappeared right before our eyes. There were no clouds or anything to obscure our view.  The object simply vanished in thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82764.html](http://www.nuforc.org/webreports/reports/082/S82764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
