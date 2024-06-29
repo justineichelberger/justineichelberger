@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Senoia (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball with two long tails traveling high above tree tops traveling SW to NE was visible for approximately ten to 15 seconds.((NUFORC Note:  Satellite re-entry.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119819.html](http://www.nuforc.org/webreports/reports/119/S119819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw an odd moving light in the night sky, blinking in an odd fashion before it disappeared.I was stepping out to get something out of my vehicle when I noticed first what seemed like a flash of light similar to a beam from a lighthouse from the corner of my eye.  I looked up into that direction, which was northward, and then I didn't see anything.  Moments later, I saw a light light up in the sky moving northward.  After the light was on for maybe 3 seconds, it went out.  I assumed it was an airplane at first oh, but I didn't see the static red light.  I know the fixed red light is on all airplanes, I worked in Navy aviation so that's normally the first thing that I would see on a plane that is flying at night.  After another three or four seconds having not seen the light come back on, it did again but it only remained lit for maybe another half of a second.  After the light disappeared the second time, I did not see it again.  I have not ever seen an aircraft where the lights acted that way, so I felt very suspicious about it.  There were no clouds in the! area where I was looking at, I was able to see all of the other stars around the light that I saw.  And the light appeared to be larger than the Stars, and it was a very dull yellow almost white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147161.html](http://www.nuforc.org/webreports/reports/147/S147161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
