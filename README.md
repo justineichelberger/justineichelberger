@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red floating fireball seen over downtown Springfield, OHSingle fireball type object seen from my yard hovering over the downtown area. Object hovered about 200-300ft from ground for about 5 minutes, then slowly gained altitude. Object went up to around 800ft from ground then turned and floated towards center city area while gaining altitude until it disappeared.  Object would get brighter, fade, and get bright again throughout duration of its flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99047.html](http://www.nuforc.org/webreports/reports/099/S99047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>I call hoaxTo the person that reported a cigar craft 75 feet over building on sahara blvd., in LV, NV. I'm sorry but I call fake, there are a number of things wrong in your report.1st and most obvious we don't live in Russia there would'nt be any Mig's scrambled from anywhere in LV.2nd everyone who lives here in LV knows that sahara near jones is in line with flight path for Mccarren airport.3rd there are no campus locations for unlv or ccsn.4th any heli's sent to intercept would come from NE las vegas from Nellis and why would they send those when Nellis is a fighter base and would send f-22's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90517.html](http://www.nuforc.org/webreports/reports/090/S90517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
