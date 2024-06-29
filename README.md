@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dover (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A metallic object in the sky vanished before our eyes, with no clouds or anything else to obscure our view.While driving to a concert, my friend & I saw a metallic object in the sky.  The sun had just set, and the sky was a nice deep blue, just before it got dark.  We saw a metallic object hovering through the sky, and then the object disappeared right before our eyes. There were no clouds or anything to obscure our view.  The object simply vanished in thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82764.html](http://www.nuforc.org/webreports/reports/082/S82764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 lights in a perfect square in sky.  I thought that it may have been the moon with odd fading.  The 4 lights did not move but the lights faded out and re-appeared a short distance away and did not move again only fading re-assuring what I saw.  I had enough time to pullout my cell phone and try to take a picture however, my phone did not capture the full image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134819.html](http://www.nuforc.org/webreports/reports/134/S134819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
