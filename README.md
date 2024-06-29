@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in BAYONNE (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shaped unidentified flying object with three lights at its corners hovering over the Hudson River for roughly 45 seconds befI took a ride down to my favorite fishing spot just to see if I saw I need fish jumping this evening after I stop at Quick Chek to pick up a pack of cigarettes.  I got out of my vehicle and was looking around,  I decided since I didn't see any fish I would take a look up and see what the Stars looked like this evening,  I even turned on my Google Sky Map.  As I was in miring Jupiter and Saturn brightly shining south of me I turned to the east, looking towards Brooklyn.  Just for reference my fishing spot is located right near cruise port Bayonne for Royal Caribbean Cruise Lines.  From this position I have an amazing view from Staten Island to the Verrazano Bridge, all of Brooklyn oh, and the entirety of Manhattan all the way around to the Statue of Liberty and most of the Jersey City skyline.As I was looking due east I noticed a very large triangular shaped object with three lights at each point of the triangle.  It appeared to me to be at roughly 10,000 feet and moving very slow pace. I was trying to train my camera on the object my phone camera does not have enough resume ability 4 me to be able to get a clear picture it was all distorted and pixelated.  For even more specificity, from my location it appeared to be above Mars by a few hundred feet.  So, the long and short of it is I observed large triangular shaped object moving Eastward slowly for about 45 seconds before it basically cook off at a speed that is unimaginable to me in need Eastern Direction and that was the last I saw of it.  I have lived in this town my entire life oh, and this is the first time I have ever seen what appeared to be a UFO over this town.  It was absolutely incredible to see.  I will never forget it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157206.html](http://www.nuforc.org/webreports/reports/157/S157206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in River Falls (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Mysterious lights over River Falls, Wi.At about 10:30 in the evening of June 29th, My son and I witnessed 3-4 slow moving silent orange/reddish lights moving east to west at a distance of about 400-500 hundred feet away and at a height of about 100-150 feet.  The approximate size of the craft would be about that of a basketball. We witnessed these lights in a series of fly by's with each formation consisting of 3-4 craft in each fly by.  They were guided and they made no sound and the lights could fade out entirely, this happened in front of our house and we have video footage and pictures.  With our exact location known (where we took the pictures from) and the pictures and video we have we can make some very accurate calculations of size and speed and distance of the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100229.html](http://www.nuforc.org/webreports/reports/100/S100229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
