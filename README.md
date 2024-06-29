@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light shifts, dims, suddenly accelerates and disappears.At 11:35pm a friend and I were out having a cigarette on my porch as he was leaving after hanging out for a bit after work. Ironically we were talking about the recent UAP report and I jokingly said I'd been watching the sky suspiciously since then. He responds "Well at least that light is obviously terrestrial in origin."  Sure enough there was a bright light in the sky, which got brighter as we were looking at it. He remarked that it must be a helicopter with a search light on. Which admittedly was what I was thinking. Then the light shifted, and was no longer pointed directly at us, which made me realize it was bright enough to be illuminating us a bit, a few lumens at best. He started trying to guess what it was. Guesses included a jet throwing on it's after burners, which we discarded because it wasn't moving fast, and didn't make a sound. The object appeared to be a ball of light, to me. At this point one side was dimmer than the other which was still extremely bright. Movement was... drifting, moved down a bit, and began heading almost exactly due north. After the incident I confirmed on the Star Map app it had passed almost 1 inch above the M33 star for a reference in the night sky. Then it dimmed to where it was almost non-visible in the light pollution of the city lights (due North of my location is downtown, the sky is much less visible). When it dimmed it rapidly accelerated until it was non visible (less than a second). Up until this acceleration I'd describe it's movement as 'drifting' and it only moved around 5-6in while it was bright. After it disappeared I thought to check the time and the star it passed nearest to while bright. Hope it helps. Star was M33, and the location was the address provided. Can't really estimate what distance it was to us. Looked high altitude, but originally when the light was bright we thought it was a lot closer .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163887.html](http://www.nuforc.org/webreports/reports/163/S163887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>I call hoaxTo the person that reported a cigar craft 75 feet over building on sahara blvd., in LV, NV. I'm sorry but I call fake, there are a number of things wrong in your report.1st and most obvious we don't live in Russia there would'nt be any Mig's scrambled from anywhere in LV.2nd everyone who lives here in LV knows that sahara near jones is in line with flight path for Mccarren airport.3rd there are no campus locations for unlv or ccsn.4th any heli's sent to intercept would come from NE las vegas from Nellis and why would they send those when Nellis is a fighter base and would send f-22's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90517.html](http://www.nuforc.org/webreports/reports/090/S90517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
