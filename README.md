@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:06 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sault Ste. Marie (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>will be happy to fax police reportSee www.sooeveningnew,com 6-29((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Hence, we are unable to respond to his/her report, requesting that the report be sent.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51232.html](http://www.nuforc.org/webreports/reports/051/S51232.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in East Providence (RI) reported seeing craft that fit the description of some 'light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Summary : A large white pulsating lightMy wife and I noticed a light at or about 9:00pmWe watched it pulsate.  We followed it for a while.Then we got scared and left.It appeared two nights total.  The second night we tooka picture of the object.  But left because we were scaredagain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02222.html](http://www.nuforc.org/webreports/reports/002/S02222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
