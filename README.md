@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ferizaj, Babush (Kosovo) () reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Something like a dog camed from sky and then again has gone in to the sky, there were many witneses like People, Police, etc.I saw yesterday in news in RTK- Radio Television of Kosovo, People of this town saw an object caming from sky and first it look like a dog than it changed into a fish, a lion, i dont exactly the details, but they have called the police of kosovo and they have seen it also and they have record with camera, I just wanted to report this and if you need more information you can contact RTK-Radio Television in Kosovo, they will give more information about this...((NUFORC Note:  We cannot confirm that the report was, in fact, submitted from Kosovo, but the source of the report seems sincere.  One of two reports about the same event, apparently.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37883.html](http://www.nuforc.org/webreports/reports/037/S37883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Somerville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>NJ UFO?Waiting for my daughter to come out of the Motor Vehicle in Somerville NJ, I just started cloud watching. After a few minutes, I saw, what I thought was a high flying plane or bird. I was amusing myself watching it go in and out of the clouds. Sometimes it never left the cloud it was in, which is what really made me pay attention.It was flying up and down and forward, never backward. I tried to capture the image on my camera but there was bright sunlight and it was causing too much of a glare.A short time later, a plane was behind it.. almost following. A regular craft. There was a marked difference in the way this one was flying in comparison to the first one. That's what made me think this was a UFO....then they both disappeared. I found this odd because we aren't that far from Newark Airport in NJ</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70771.html](http://www.nuforc.org/webreports/reports/070/S70771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
