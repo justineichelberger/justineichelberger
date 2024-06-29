@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in River Falls (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Mysterious lights over River Falls, Wi.At about 10:30 in the evening of June 29th, My son and I witnessed 3-4 slow moving silent orange/reddish lights moving east to west at a distance of about 400-500 hundred feet away and at a height of about 100-150 feet.  The approximate size of the craft would be about that of a basketball. We witnessed these lights in a series of fly by's with each formation consisting of 3-4 craft in each fly by.  They were guided and they made no sound and the lights could fade out entirely, this happened in front of our house and we have video footage and pictures.  With our exact location known (where we took the pictures from) and the pictures and video we have we can make some very accurate calculations of size and speed and distance of the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100229.html](http://www.nuforc.org/webreports/reports/100/S100229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Shoreham (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UK Sussex points of lightThree points of bright gold light travelling in an east to west direction at high speed. They were in a V formation with two points equally spaced 0.5" either side and slightly behind the leading central point. The points were travelling excepionally quickly (like a shooting star) crossing the sky overhead in less that three seconds. The points of light did not stop/fade out at different times but continued till out of on the far horizon. There was no noise associated with the event and the sky was clear and distant stars could be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29468.html](http://www.nuforc.org/webreports/reports/029/S29468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
