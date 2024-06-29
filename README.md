@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:24 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Hovering red lights over Bellingham, WA bayGlowing red craft seen travelling from sw to north. 3 bright glowing red objects in the front; 2 behind.  Over Bellingham bay the first 3 hovered waiting for the other 2 to reach them. Objects hovered for a period and then ascended into the clouds with no trace of their light left behind or reappearing below the clouds.   Two of us witnessed the lights ascending and hovering before disappearing. Due to the bright red lights, slower motion and hovering, I am not convinced that this was an ordinary flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90230.html](http://www.nuforc.org/webreports/reports/090/S90230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red floating fireball seen over downtown Springfield, OHSingle fireball type object seen from my yard hovering over the downtown area. Object hovered about 200-300ft from ground for about 5 minutes, then slowly gained altitude. Object went up to around 800ft from ground then turned and floated towards center city area while gaining altitude until it disappeared.  Object would get brighter, fade, and get bright again throughout duration of its flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99047.html](http://www.nuforc.org/webreports/reports/099/S99047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
