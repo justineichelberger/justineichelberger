@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:29 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Herald Harbor (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Extremely loud, hovered suspended in night sky for four minutes, three white lights, one red light, one bright horizontal beam of light.Awakened by an extremely loud noise.  Sounded like a jet airplane was slowly crashing into my house.Went to back deck, looked up.In the air saw three white lights and one red light.  What appeared to be a search light beam shining horizontally into the night sky.VERY LOUD, noise filled the entire neighborhood.  Like nothing I've ever heard before.  Did not sound like a helicopter.For the first four minutes of sighting, it hung suspended in the air about 1000 feet up, perfectly still.  Then moved very, very slowly directly overhead.  A crescent shaped body of the craft appeared to reflect off the four lights.It slowly moved west, circled back and flew directly overhead again, a little higher up and a little faster, then flew west again and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119821.html](http://www.nuforc.org/webreports/reports/119/S119821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Carter (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A low-flying triangular shaped object with three blinking lights flew for about four minutes, then vanished.A low-flying triangular shaped object with three blinking lights. Flew southeast, stopped for about a minute, turned northwest flew for almost two minutes, then vanished out of sight. Also, the lights on the object blinked in a sequential counter clockwise order.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44656.html](http://www.nuforc.org/webreports/reports/044/S44656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
