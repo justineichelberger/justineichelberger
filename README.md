@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 29 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Somerville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>NJ UFO?Waiting for my daughter to come out of the Motor Vehicle in Somerville NJ, I just started cloud watching. After a few minutes, I saw, what I thought was a high flying plane or bird. I was amusing myself watching it go in and out of the clouds. Sometimes it never left the cloud it was in, which is what really made me pay attention.It was flying up and down and forward, never backward. I tried to capture the image on my camera but there was bright sunlight and it was causing too much of a glare.A short time later, a plane was behind it.. almost following. A regular craft. There was a marked difference in the way this one was flying in comparison to the first one. That's what made me think this was a UFO....then they both disappeared. I found this odd because we aren't that far from Newark Airport in NJ</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70771.html](http://www.nuforc.org/webreports/reports/070/S70771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New Carlisle (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>At first I thought the object was a finish to some fireworks. Lights though continued to flash in same spot. After about 35-40 minutes, lights moved toward west and disappeared.Last night (June 29, 1999) I was returning home with my daughter to our house in New Carlisle, IN. After turning onto our street, I saw what looked to be the finish of a white-colored fireworks in the northwestern part of the sky. However, the lights (and there first appeared to be two or three) did not move from that location for quite some time. These light flashed in a vertical fashion, much like the lights on an airplane. After pulling into our driveway, my daughter and I watched those lights for several minutes....as we watched them, there appeared to be another light of a green color which appeared to the left of the flashing set of lights. This green light (which did not flash or pulsate) shone for maybe 10-15 seconds, then seem to disappear. My wife came outside and she saw the flashing lights as well and maybe thought it was a cell telephone tower, since these lights were not moving and they seemed to be at the same height in the sky. Just after both my daughter and wife went into the house, I noticed a red light which appeared on the right isde of the flashing lights. As with the green light, it lasted but a few seconds before fading off. After about 20 minutes or so, the lights (which had been staionary) appeared to very slowly move toward the west. In the last five minutes or so, the lights seemd to pick up speed and very soon had disappeared in almost a straight line westward. The entire sighting lasted about 50 minutes or so. It was difficult to determine a shape. However, like I stated earlier, the white flashing lights were vertical and just on occasion would either the red or green light to the side show. Twice to my recollection the red and green light appeared at the same time and then faded. There were at least two planes in the sky that night, one directly over our house and another moving from west to east at what looked to be a lower point in the sky. All the while I wathed the lights, there also did not appear to be any sound, but maybe its distance away could account for that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08190.html](http://www.nuforc.org/webreports/reports/008/S08190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
