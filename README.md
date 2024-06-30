@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Laguna Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO sighting in Laguna Beach!My friend and I were had stopped to get gas at the Chevron in Laguna Beach, Ca on the corner of Legion and Pacific Coast Highway and immediately stopped what we were saying when we saw something up in the sky. It was circular and had lights all around it and was moving around all over the flace quite fast and erradicly and flying pretty low. We thought it disappeared for a minute and then it appeared right above us and I when I looked up I could see that it was silver and had lights circling it and was fairly big. It looked like any cheesy UFO you'd see in a movie and I couldn't believe it was right above us!!! There were about six other people on the sidewalk that saw it too and we were all just staring up in amazement. My friend got scared and wanted to leave, so we drove away before we got to see where it went next. I've never seen anything like this before in my life and there's no way it could be anything else BUT a UFO!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57384.html](http://www.nuforc.org/webreports/reports/057/S57384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Del Rio (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately few mins - few mins minutes.</sub><blockquote><sub>I was driving back to base when I spotted a white light hovering over the runway.I was driving back from Eagle Pass, Tx to Laughlin AFB, TX and at that hour, the back gate was closed and one had to drive into Del Rio and turn around to hwy 90 to go to the front gate. As I drove towards the base I saw a light over the runway and it just hovered there.  I could see no other lights, just a bright white light.  I had always wanted to see a UFO so was really quite excited. I was about 5 miles from the base when it took off and came over my car and headed into Mexico in nothing flat.  I had managed to stick my head out the driver door and could only see a vague shape, but definitley oval shaped.  It was huge and it was so quiet and so fast. It was out of sight in an instant.   I asked the airman at the gate if he had seen something, but when I drove up, he had been on the phone laughing and giggling and he had been facing towards the front, while the runway was behind him.  My husband poopooed the notion, but later that week a small story appeared of ufo sightings in Mexico.  I hope it was a UFO.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  We have assigned an arbitrary date above, which places the incident in "the late '70's."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57619.html](http://www.nuforc.org/webreports/reports/057/S57619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
