@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:32 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rockaway (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 3 light Very fast moving, VERY fast blinking bright white lights flying very high and very close to one another.  We see planes all the time here, and these were NOT planes.  They were moving 100 times as fast as the normal planes.  At first all 3 were together and then  2 separated  away from the third and flew parallel to one another.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90272.html](http://www.nuforc.org/webreports/reports/090/S90272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Blanchard (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A friend of mine and I were outside late at night around 3 AM, just hanging out and talking on his porch.  All of a sudden, we saw three lights in a triangular formation in the sky.  My father is military, and has showed me what different airplanes look like at night, so of course I tried to match these lights up to the lights of common airplanes.  Blanchard, Louisiana, is in the middle of nowhere in Northwestern Louisiana.  Just as I was trying to figure it out, the lights all moved at once to the right in the sky at an outrageous speed.  They zipped to the left and diagonally to the right again, all the while keeping in a triangular formation.  The lights were white and very bright; their light drowned out the light of the stars.  They were moving so fast it was hard to keep up with them.  No sound came from the lights at all. It was very quiet.	My friend and I watched in amazement and a little bit of terror as well.  It was so strange; we both had never seen anything like it in our lives.  The lights decided to zoom towards us; they seemed so close that I thought if I reached out I could touch them.  But before I could do that, the lights sped off into the distance and disappeared.  It was a truly amazing experience.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105281.html](http://www.nuforc.org/webreports/reports/105/S105281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
