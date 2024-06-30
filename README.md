@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Zebulon (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing football in night sky witnessed by five peopleThe object was in the southern sky, traveling west to east.  It was roughly shaped like an elongated football with a slight fishtail on the west end,and a smaller one on the east.  In the night sky it glowed a milky white, with the "fishtails" bright spots of light.  I saw it first, and brought my mother and brother out to see it.  We then ran across the road,and our neighbors came out to see it.It made no sound.  I am only reporting this now in the hope that someone can tell me what it was.  I don't believe in flying saucers but this was NOT a blimp((NUFORC Note:  Date and time are unknown.  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16552.html](http://www.nuforc.org/webreports/reports/016/S16552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1956, an anonymous witness in Cape Girardeau (MO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Angular UFO sighted as a childWhen I was approximately 5 or 6 years old (around 1956), I was playing in a field adjoining my back yard with some neighborhood playmates. My attention was drawn to a white object that was floating in the sky, and coming toward my playgroup. It eventually began descending, and being unafraid of it, I walked toward where I thought it might land.It came down close to a backyard neighbor’s trash/burn spot as I approached it. As stated previously, it was white, very angular (like a fold-up paper airplane), and floated silently.It came down within 5-6 feet to the ground. I approached it to touch it, and it gently and silently rose and gradually floated out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84858.html](http://www.nuforc.org/webreports/reports/084/S84858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
