@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tryon (NC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>9 orange lights in a V shape.  I think one light was blinking every half minute or so.Saw 9 lights over a mountain.  About 10 minutes after spotting, they disappeared instantly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147290.html](http://www.nuforc.org/webreports/reports/147/S147290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Noticed singular exceptionally bright light which appeared to rotate around a soild oval or disk shaped object, bottom of which was faintly visible.  On closer examination, the object was either revolving with a single light or there was a row of lights flashing in sequence.While driving north on rt 5 in Waldorf, on the left, I noticed out of the coner of my eye a single light that caught my attention.  I started to slow down and noticed that there appeared to be more lights that were flashing in sequence from right to left.  I then looked closer at it and could only see half of what to appeared to be round. I saw also a faint u-shaped bottom to a solid object.   After I looked more closly at the object the lights sped up the sequence in which they had started with.  The lights had sped up so much that it became one continuous blur of lights, all lights were bright white.  The number of lights I saw was 6.  After what seemed to be a lifetime, but was only about a minute, this object was gone.  No sign of anything ever being there, nothing.  I didn't hear anything nor did I see anything that might have been there.  At arm's length the object was about 2 inches and about at angle of 11 o'clock.  I am a white female,age 22, 2 years college, and am working in retail right now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04156.html](http://www.nuforc.org/webreports/reports/004/S04156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
