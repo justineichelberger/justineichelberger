@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Huntington (near) (WV) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My son and I had extended viewing of glowing cylindrical object.  We were both moving west at approximately 70 mph.  We were on I-64 near intersection of WV, OH, and KY, near Huntington, WV.  The object was glowing, no visible means of propulsion.  No markings.  Two aircraft approached, one from east, other from northwest.  Son had binoculars, identified one as Navy Tomcat, other as Air Force F something or other.  He  had binoculars.  As aircraft approached, the cigarette shaped object glowed very brightly, like a magnesium flare, then became invisible.  The aircraft broke off and returned to their bases, apparently.Dear friend, now deceased, had farm near Beattyville, KY.  There is a Buddhist monastery near there, and they were apparently contacting aliens as at Mt. Shasta.  Many people congregated there to observe, her dad gave them permission to camp out.  The sightings were reported to newspaper in Lexington, KY.  Dr. Kern, an astronomer at U of KY, said the UFOs were the planet Venus.  No wonder people hesitate to report.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144907.html](http://www.nuforc.org/webreports/reports/144/S144907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rossville (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My wife and I saw a rocket shaped missle slowly landing on Missianary Ridge in Rossville Georgia.AT 830 i went to pick up my wife from work.  On the corner of 46th st and Chicamauga rd. I looked south over Missionary Ridge and saw a 30 to 40 foot long missle.  The missle appeard to be landing. It was lite up down the length of the structure.Iturned to my wife and said do you see that? She leaned foward in her seat to look out the windshild.  She said what is that I said I don't know.  It looks like a rocket Like a Nasa rocket.It had a V-Shaped spray of sparks on the bottem of the missle.  It appeared to be slowly coming down on top of Missionary Ridge.((NUFORC Note:  Source of report indicates that the date in 2005 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70793.html](http://www.nuforc.org/webreports/reports/070/S70793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
