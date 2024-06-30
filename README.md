@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Milwaukie (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was in my backyard I was oriented East. It was partly cloudy that day. I was going back into my house when an object caught my eye.From my perspective it was about 30degrees above the horizon  .It appeared to be a dark colored object, the shape of a crystal  .It was not Black, rather a blackish/greenish hue.  Lighter on the front flat facet possibly due to the sun in the west.  Otherwise it had no lights or markings.  Straight sides with the top and bottom coming to a point.I watched the object for approximately 30 seconds.  I studied it thinking it may have been a drone or balloon.  I watched the object in the sky and it remained perfectly still I was using 2 treetops as reference.  At this point I realized this object was something different.  I quickly looked for my phone to take a picture.Once I got it opened up and ready the object was gone.  I  could see no trace, but I took 2 quick pics in succession just incase.  Later, using a picture processing app on my phone I was able to zoom in.  I scanned around the image and afaint black dot high in the atmosphere.  This dot is on both pics and appears to change shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157384.html](http://www.nuforc.org/webreports/reports/157/S157384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in New York City (Yonkers) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>V shaped lights.huge.noisless.flying very slow1993 at approximately 8 pm I was working outside on my truck when I looked up into the sky i saw .lights  in a v shape formation.the span of the lights was at least 400 to 500 yards. the lights were evenly spread apart moved very slow and no noise.  I did not see any part of the aircraft.  It blended into the night. what blew me away was the size of this thing.. my opinion I believe this object is man made because the lights look like they came from this earth.  we do have a military base upstate new york and it was coming from that direction south south east.  I do believe that there is life on other planets but I don't think this is it by the way you make a newspaper is the next day small article and that was it((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83469.html](http://www.nuforc.org/webreports/reports/083/S83469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
