@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in  () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>pacific nw a light in the sky shot up vertically1990s maybe earlier.  I was sneering at ufos and my friend who I knew for 20 years said 'But remember I saw something.'  They were in Seattle or Portland.  It was night and his sister ran inside and pushed him out.  'There was a light going across the sky like a satellite and all of a sudden it shot up vertically.'</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154781.html](http://www.nuforc.org/webreports/reports/154/S154781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4:00 - 4:00 minutes.</sub><blockquote><sub>Tubular shaped object at high altitude over souther califWhat I saw was tube shaped with flat ends the color was a pale white.  It was at what appeared to be very high altitude.  I could see shadowing with some contrast,it remained stationary for about four hours.  There were two other people who observed it. I was able to look at it with a pair of field glasses while laying on my back.  This thing was in some sort of geo sync. I watched it untill it faded from view due to diminishing daylight.  It never moved, it remained fixed in one position above my location.  It slowly faded from view while never moving.  Again it appeared to remain at a stationary point, but must have been in the atmosphere at high altitude because as daylight waned it slowly faded with the approaching dusk((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80345.html](http://www.nuforc.org/webreports/reports/080/S80345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
