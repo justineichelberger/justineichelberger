@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in New York City (Yonkers) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>V shaped lights.huge.noisless.flying very slow1993 at approximately 8 pm I was working outside on my truck when I looked up into the sky i saw .lights  in a v shape formation.the span of the lights was at least 400 to 500 yards. the lights were evenly spread apart moved very slow and no noise.  I did not see any part of the aircraft.  It blended into the night. what blew me away was the size of this thing.. my opinion I believe this object is man made because the lights look like they came from this earth.  we do have a military base upstate new york and it was coming from that direction south south east.  I do believe that there is life on other planets but I don't think this is it by the way you make a newspaper is the next day small article and that was it((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83469.html](http://www.nuforc.org/webreports/reports/083/S83469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Huntington (near) (WV) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My son and I had extended viewing of glowing cylindrical object.  We were both moving west at approximately 70 mph.  We were on I-64 near intersection of WV, OH, and KY, near Huntington, WV.  The object was glowing, no visible means of propulsion.  No markings.  Two aircraft approached, one from east, other from northwest.  Son had binoculars, identified one as Navy Tomcat, other as Air Force F something or other.  He  had binoculars.  As aircraft approached, the cigarette shaped object glowed very brightly, like a magnesium flare, then became invisible.  The aircraft broke off and returned to their bases, apparently.Dear friend, now deceased, had farm near Beattyville, KY.  There is a Buddhist monastery near there, and they were apparently contacting aliens as at Mt. Shasta.  Many people congregated there to observe, her dad gave them permission to camp out.  The sightings were reported to newspaper in Lexington, KY.  Dr. Kern, an astronomer at U of KY, said the UFOs were the planet Venus.  No wonder people hesitate to report.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144907.html](http://www.nuforc.org/webreports/reports/144/S144907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
