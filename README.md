@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Lake McClure (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>At about midnight about 1976 at Hunter's Point,  Lake McClure, California heard extreme water commotion and observed submersible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62344.html](http://www.nuforc.org/webreports/reports/062/S62344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Bedford (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>1991 - Bedford, Pa-Triangular-3 Red Lights-Ship rotated to it's side-20-25 minutesI was pulling in my driveway from work and had just parked, when i sighted 3 lights above the mountain top.  As i moved to the house, I noticed that the lights started moving towards me.  My guess is that it was about an 40 yard walk.  The object drew nearer to my house at a very steady rate.  I ran about 10 yards to the door just being freaked out.Out of panic i rushed in and yelled for my father who was sitting in his chair.  He immediatley got up and both of us proceeded to go out on front porch.  At my surprise the object was directly above us.  This is where my opinions differ from other reports.As the object flew from the mountains it looked flat, like the oters reported, all 3 lights were horizantal.  When we got out on the porch, the object was above us and the lights were then vertical, as if it completely turned on it's side.  There was no noise.   The object seemed to be about the length of a football field. I ran into house to get a video recorder which is where this got scary.When I returned to the porch, lights still there, it was like an ery feeling in the air.  We had a barn with horses in it. These horses (apprx. 4) were screaming-not normally.  They were kicking the walls.  There screams were terrorizing and as this continued there were also dogs up the road that were carring on too! As i went to record this the object just vanished. within minutes everything seemed back to normal. This is something that my father as well I, have never discussed with anyone! One out of fear of what we saw and heard, two--the normal, we're nuts column.We lived in Centreville, PA along rt 220 (I-99). Between 2 mountains-- one is called Wills Mountain, not sure of the other.  There are also 2 dams thereas well. (Koont'z Lake). Centreville lies between Bedford, Pa (about 15 miles) and Cumberland, Md (about 15 miles).  It's a very small town, mostly farm and woodlands.I do not live here no more but do live in Bedford, Pa.  My father resides in Cumberland, Md.These statements ARE true. The lights were big red circlular lights.  I have never seen an aircrat of that size-speed-or quiteness. Nor one that would turn sideways and just hover there with no noise.Again, thanks for your time to read, i am not looking for publicity. I have seen multible reports of similar objects and wanted to add this viewing. Again thank you!((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68057.html](http://www.nuforc.org/webreports/reports/068/S68057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
