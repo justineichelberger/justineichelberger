@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:56 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 circles flying north to south in Fayetteville, NC, on July 1, 2016.Spotted 4 circle moving from North to South in arrow formation.  Spotted from 21:30 to 21:45 hours.   Spotted civilian aircraft flying at lower altitude beneath the circles fling in a northern pattern.  3 in front and on in the rear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128177.html](http://www.nuforc.org/webreports/reports/128/S128177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Observed from Roseville, Ca. and Sierra Nevada mountains,I have seen 2 ufo’s.  the first,  when my twins were about 8.  They are now 21.  I lived in an apartment complex in Roseville, Ca.  We were swimming in a pool during July.  It was very hot and the wind was blowing from the north.  I was talking to a couple at the jacoozie when one of the twins said “What is that Dad?”  I looked and at about 500 ft. was a perfectly round ball, painted black, with a hint of green.  It was going north, against the wind, keeping the same altitude.  I suspected it might be military, as it was going the direction of Beal Air Base, up by Marysvlle, Ca. My second sighting was 2 years later.  I had driven up to the Sierra’s for a picknick with a lady friend.  I went up almost to Borial Ski Center, then north about 20 miles to a small lake I knew about.  After lunch, while enjoying the senery, I was watching Comercial Jets going north on a Jet Way.  I am a GA Pilot and know about this.  I could easily see the planes.After a short time, a silver (plane?) looking like a cigar holder came flying north, also on the J Way.  It had NO wings, propellars, tail, or Jet streem.  It was just like a cigar holder in silver.I think, because of using the Jet way, it must have been Military.  I don’t know about either though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60697.html](http://www.nuforc.org/webreports/reports/060/S60697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
