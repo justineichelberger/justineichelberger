@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I have told this to people over many years. While on school vacation at my uncles junk yard one evening I noticed on the horizon at dusk a shiney light moving slowly across it. As it moved it began to increase speed until it dissappeared. It moved from east to west across highway 19. I often wondered if this could be tied to another sighting soon after. I was always looking for airplanes and had observed many of them and I knew this was something that was far faster than anything I had seen before.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07739.html](http://www.nuforc.org/webreports/reports/007/S07739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Marysville (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My husband and I were out on the deck which faces the north to north west area. We were roasting some chickens on the grill when I spoted something shine in the sky , I ran and got my binocular's. (Bushnell 7x35, 420ft.at1000 yds.,14om at 1000m, field8) I searched and found the object , it hadn't moved it was very shiney and look to be wobbling in the one spot I watched this object for aleast 15 to 30 sec..  I then put my binocular's down to help my husband with the grill and then picked up them up again , when I went to look at it had change shape and looked like a column wobbling in the same spot . I turned to say something to my husband and looked back and it was gone from that spot where I was looking .  I then ran down the stairs to see if I could see it more from the direction to west and high in the sky , it was there for just a moment and it was gone ..  As I was looking at this object for the first time I said to my husband this has no wings so it can't be a airplane and it wasn't a helicopter. I know what they look like and this wasn't it ... All of this happen at about 3:20 or 3:30 pm this 1st day of July , Sunday .  There was no sound coming from this object , but it did look to me as if there was some sort of short beam coming from it in a downwards direction ..((NUFORC Note:  We spoke via telephone at length with this witness, and found her to be a serious-minded person.  Her description of how suddenly the object disappeared from her sight, combined with a similar report from Gresham, OR, approximately on hour later, suggests to us that she may have witnessed something unusual.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18261.html](http://www.nuforc.org/webreports/reports/018/S18261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
