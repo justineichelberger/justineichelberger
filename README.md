@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grand island (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Outside doing work and saw some thing shining in the sky overhead, as I observed it changed shape from something shiny and metal to something gray and then transparent.  It did a number of circles and then took off and hovered for 10 seconds then flew away. Shape shifting drone or other thing.  Called the lieutenant at Niagara air base in Niagara falls NY and reported it to him.  He seemed quite concerned.  It also had a red light on the bottom of it A beam of white light appeared to come out also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157725.html](http://www.nuforc.org/webreports/reports/157/S157725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was huge and i dont remembef it leavingI was about 6 yo. Didnt recall until mid 30s. All i remember is a strange feeling came over me.. Hair raising. Not a sound really but a kinda vibration. Me my brother my great grandma n great grandpa (they raised us) all idk felt it. We went out to front porch and the feeling i recall was as if time stopped. Across the street was tall trees. Right above the trees not high at all it slowly came over the treetops. So slow. It was huge like football field huge or bigger. I remember watching until the front went ovef our house i never saw the back. I dont remember it leaving. All i recall now is waking up in bed the next day. I asked my older brother if he remembered and before i could finish his eyes got big and he said yeah it was f#!$ing huge. He didnt remember it leaving either. I searched online and found one other guy that saw it. Ill tell you his name if you respond.Idk if theres a connection, but for as long as i can remember ive had a pinhole in my forhead. Idk what it is but often wonder. I saw another years later completely different though it was a round sphere like a fire burning in a glass. I remember all of this one and nothing wierd happened. It land probably 1-3 miles away watched it go down behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163781.html](http://www.nuforc.org/webreports/reports/163/S163781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
