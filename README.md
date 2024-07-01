@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hallandale (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>No lights, circle object, about 20 in diameter, floating on building.This event happened about 3-4 years ago (2000/2001)... I live in a 3-story building that is shaped like the letter "C". Imagine putting a dot in the middle of the "C", that's where the building's pool would be. It was about 11pm and I was in the pool and my aunt was visiting and my father and her were on the pool deck talking... As I was swimming around the pool I looked up at the sky somewhere above the building and then I looked away. For a second I thought I saw something so I looked again. This was really akward. It was a pretty coudy night and the sky was colored light/dark grey. I look above the building and I see a circle. It had no lights and it made no sound and it looked like it had a diameter of about 15-20 feet, it was pretty big. It was a circle and it looked like it was floating about 10-20 feet above the building. It was just a pitch-black circle. I couldn't identify any textures or features that it had. It was just a dark, floating circle. I tried to get my father and my aunt to look but until I got their attention and until they looked, it was gone. I've been wondering about this for a long time. I want to know if anyone has seen anything like this.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50800.html](http://www.nuforc.org/webreports/reports/050/S50800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I have told this to people over many years. While on school vacation at my uncles junk yard one evening I noticed on the horizon at dusk a shiney light moving slowly across it. As it moved it began to increase speed until it dissappeared. It moved from east to west across highway 19. I often wondered if this could be tied to another sighting soon after. I was always looking for airplanes and had observed many of them and I knew this was something that was far faster than anything I had seen before.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07739.html](http://www.nuforc.org/webreports/reports/007/S07739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
