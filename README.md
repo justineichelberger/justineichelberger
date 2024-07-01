@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was huge and i dont remembef it leavingI was about 6 yo. Didnt recall until mid 30s. All i remember is a strange feeling came over me.. Hair raising. Not a sound really but a kinda vibration. Me my brother my great grandma n great grandpa (they raised us) all idk felt it. We went out to front porch and the feeling i recall was as if time stopped. Across the street was tall trees. Right above the trees not high at all it slowly came over the treetops. So slow. It was huge like football field huge or bigger. I remember watching until the front went ovef our house i never saw the back. I dont remember it leaving. All i recall now is waking up in bed the next day. I asked my older brother if he remembered and before i could finish his eyes got big and he said yeah it was f#!$ing huge. He didnt remember it leaving either. I searched online and found one other guy that saw it. Ill tell you his name if you respond.Idk if theres a connection, but for as long as i can remember ive had a pinhole in my forhead. Idk what it is but often wonder. I saw another years later completely different though it was a round sphere like a fire burning in a glass. I remember all of this one and nothing wierd happened. It land probably 1-3 miles away watched it go down behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163781.html](http://www.nuforc.org/webreports/reports/163/S163781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a formation, which resembled stadium lights, blue in color, massive, hovering over Camelback Mountain.  I was driving home from an ASU night class, and noticed the lights as I neared my house, near the southern base of Camelback. I thought at first it must be some optical illusion or some kind of reflection, but it was obviously not a reflection. These were lights, similar to those seen hovering over Phoenix in March, 1997. (I just saw a television special and pictures from the night in March, 1997, and was shocked to see the exact same thing captured on tape) The lights hovered for what seemed like a very long time. In fact, I felt very uncomfortable and frightened because I was living alone. The lights stretched out in a arc type fashion, stationary, evenly spaced and appeared to be as big as Camelback Mountain. They were very close to the top of the mountain. I looked away for a few moments and when I looked back they had disappeared.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37555.html](http://www.nuforc.org/webreports/reports/037/S37555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
