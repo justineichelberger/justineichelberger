@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a formation, which resembled stadium lights, blue in color, massive, hovering over Camelback Mountain.  I was driving home from an ASU night class, and noticed the lights as I neared my house, near the southern base of Camelback. I thought at first it must be some optical illusion or some kind of reflection, but it was obviously not a reflection. These were lights, similar to those seen hovering over Phoenix in March, 1997. (I just saw a television special and pictures from the night in March, 1997, and was shocked to see the exact same thing captured on tape) The lights hovered for what seemed like a very long time. In fact, I felt very uncomfortable and frightened because I was living alone. The lights stretched out in a arc type fashion, stationary, evenly spaced and appeared to be as big as Camelback Mountain. They were very close to the top of the mountain. I looked away for a few moments and when I looked back they had disappeared.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37555.html](http://www.nuforc.org/webreports/reports/037/S37555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Huntsville (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I thought it was a shooting star.Around 1:30 am est. I was at the Cottage restaurant and bar in Huntsville Ontario for the long weekend. My group were all out on the patio having a drink, when I looked up to see a shooting star. I was travelling at the same speed as a shooting star, but it was two round, orange, objects heading west. The circles were almost flying together as in a formation. They then split up and headed upwards in seperate directions through the clouds, into the night sky. It happened so fast I didn't know what to make of it. I have never seen anything like that in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23561.html](http://www.nuforc.org/webreports/reports/023/S23561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
