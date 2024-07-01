@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Monsey (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My boyfriend and I saw a triangular shaped object spinning in circles, lights rotating..It jut across the evening sky within the stars in different directions e.g. stop - go- lights spinning-jut-stop -go -jut- spin- in different directions almost like the arrow of a computer mouse until it left our sight. I'll never forget it. It was the most amazing thing that I had ever witnessed. We thought we were looking at a satellite, until we were informed that satellites are constant... do not spin nor jut.The object was triagular. It must have been huge, because we could see it vividly within the stars. It had lights all around it that only shined around it when it was stopped. When the U.F.O. moved, the arrow heard would point into the direction it was travelling to-then jut to that position. Stop -spin-lights also spinning- point into another direction ..then jut to that position. It did this until it was out of our focus range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05360.html](http://www.nuforc.org/webreports/reports/005/S05360.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in In-flight sighting (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Round dark metallic object 70 yards from jet aircraft at 30,000 feet.The sighting occurred on a flight from Indianapolis Indiana to Austin Texas.  I’m not sure of the actual flight path but the sighting occurred at approximately the halfway point.  This could possibly put the jet somewhere over Arkansas, but this is just a guess.Visibility was pretty clear, I could see the ground with ease.  I can only guess that we were around 35,000 at 500mph.I had a window seat on the left side of the aircraft,  I looked out the window and saw a round or pretty close to round dark metallic object.  I didn’t notice any windows or lights.  The object appeared to just be sitting there and if it was moving,  I couldn’t tell. It was approximately 70 yards below at an angle of approximately 215 degrees.  The closest thing I can describe the size as would be the top of a round water tower.I was quite shocked as my brain tried to make sense of it.  I wondered how the pilots could not have seen it.  Perhaps the pilots were distracted and the aircraft was on autopilot.  I have no idea if anyone else on the plane saw it.  It was in view and gone very fast.  Imagine passing a parked car at 500mph.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158546.html](http://www.nuforc.org/webreports/reports/158/S158546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
