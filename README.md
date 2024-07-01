@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bay City (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>I was sitting on my porch watching the fireworks.  we have 3 days of them and saw a orange ball of light go across the sky.  It was big and it went fast. it was not a lantern. It was not coming from the firework show.((NUFORC Note:  Witness indicates a morning sighting, although we assume that the fireworks were at night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82056.html](http://www.nuforc.org/webreports/reports/082/S82056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grand island (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Outside doing work and saw some thing shining in the sky overhead, as I observed it changed shape from something shiny and metal to something gray and then transparent.  It did a number of circles and then took off and hovered for 10 seconds then flew away. Shape shifting drone or other thing.  Called the lieutenant at Niagara air base in Niagara falls NY and reported it to him.  He seemed quite concerned.  It also had a red light on the bottom of it A beam of white light appeared to come out also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157725.html](http://www.nuforc.org/webreports/reports/157/S157725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
