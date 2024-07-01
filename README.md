@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 30 June 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rossville (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My wife and I saw a rocket shaped missle slowly landing on Missianary Ridge in Rossville Georgia.AT 830 i went to pick up my wife from work.  On the corner of 46th st and Chicamauga rd. I looked south over Missionary Ridge and saw a 30 to 40 foot long missle.  The missle appeard to be landing. It was lite up down the length of the structure.Iturned to my wife and said do you see that? She leaned foward in her seat to look out the windshild.  She said what is that I said I don't know.  It looks like a rocket Like a Nasa rocket.It had a V-Shaped spray of sparks on the bottem of the missle.  It appeared to be slowly coming down on top of Missionary Ridge.((NUFORC Note:  Source of report indicates that the date in 2005 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70793.html](http://www.nuforc.org/webreports/reports/070/S70793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>CRAFT FLYING ACROSS THE NEW YORK CITY SKYLINEI WAS ELEVEN AND SITTING ON THE FIRE ESCAPE AT MY GRANDMOTHERS APARTMENT LOOKING TOWARDS THE NEW YORK SKYLINE AROUND DUSK.  i SAW THE GOODYEAR BLIMP GOING TOWARDS THE CITY AND THEN I SAW SOMETHING THAT APPEARED TO BE OVAL SHAPED WITH DIFFERENT COLORED LIGHTS AROUND THE PERIPHERY OF THE OBJECT.  THE LIGHTS WERE ROTATING AROUND THE OVAL SHAPED CRAFT.  THE CRAFT WAS GOING ACROSS THE SKY IN A STRAIGHT LINE AWAY FROM THE CITY.  THE SKY WAS ABSOLUTELY CLEAR AND THERE WERE OTHER AIRCRAFT IN THE SKY AT THE TIME AND THIS DID NOT LOOK LIKE ANY OF THE OTHER AIRCRAFT IN THE SKY.  A FEW YEARS LATER, I WAS LOOKING AT A "LIFE" MAGAZINE, I THINK THE YEAR WAS 1966 AND THEY HAD A BIG WRITE UP ON UFO'S.  THE PICTURE OF WHAT I SAW WAS ON THE FRONT COVER.  I TOTALLY FREAKED OUT AND HAVE BEEN LOOKING AT THE HEAVENS EVER SINCE.  THE LIGHTS AROUND THIS CRAFT WERE RED,YELLOW,BLUE AND GREEN BUT THE COLOR SEEMED TO EXPAND AROUND AS IT ROTATED AROUND THE CRAFT.  IT WAS VERY STANGE BECAUSE I HAD NEVER SEEN AN AIRCRAFT WITH LIGHT LIKE THAT.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37498.html](http://www.nuforc.org/webreports/reports/037/S37498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
