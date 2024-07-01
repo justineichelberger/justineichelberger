@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Huntsville (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I thought it was a shooting star.Around 1:30 am est. I was at the Cottage restaurant and bar in Huntsville Ontario for the long weekend. My group were all out on the patio having a drink, when I looked up to see a shooting star. I was travelling at the same speed as a shooting star, but it was two round, orange, objects heading west. The circles were almost flying together as in a formation. They then split up and headed upwards in seperate directions through the clouds, into the night sky. It happened so fast I didn't know what to make of it. I have never seen anything like that in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23561.html](http://www.nuforc.org/webreports/reports/023/S23561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Basseterre (St. Kitts) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>5 lights in tandem came from the sky and after suddenly turning at a 45 degree angle in tandem disappeared toward the sea!A group of perhaps six of us were at the beach hanging out. Myself and one other friend who was not consuming alcohol or any mind-altering chemical suddeny saw a group of about 5 lights in a line come towards the sea from high in the sky and suddenly made a 45 degree angle turn in tandem toward the sea, and then disappeared! we were stunned and asked simultaneously, did you see that. Only he and I were at that time looking up at the sky and hence no-one -else saw anything!....thank you!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57635.html](http://www.nuforc.org/webreports/reports/057/S57635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
