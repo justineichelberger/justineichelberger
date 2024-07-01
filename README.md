@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Extremely high speed travel from West to East, stopped on a dime, resumed full speed flight after stopping and hovering.Group of 3 lights in the sky, moving from West to East, at an extremely high rate of speed. Stopped from full speed to stationary, almost instantaneously, and hovered for 10 seconds, then jumped to full speed again heading north, turned around and headed south again at speed.  Once again stopped from full speed and hovered then shot towards the earth and disappeared. Lights were red in color and flashed some.  Was clear to see the lights and movement but hard to see what the shape was.  Took a few pictures with camera phone and I'd be happy to email them to you.((ADDENDUM FROM WITNESS))Disregard the report i submitted.  Craft came back on a clear day as opposed to cloudy when i first saw it.  Same time of a day at around evening time. Someone was flying their drone.  Same light pattern, same movement patterns, but the clouds created an illusion of a much greater distance and speed moving across the sky. I apologize, I just don't want to have a hoax report because it discredits what is a legitimate search.((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119985.html](http://www.nuforc.org/webreports/reports/119/S119985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pecos (south of) (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Jet following white blinking object.I was driving back to Odessa from El Paso just south of Pecos, when I noticed a white light blinking on and off in the distance to my right. It was a clear still night so the light had my total attention. I watched it for about 1-2 minutes still driving when at a very high rate of speed suddently shot down at an angle to the ground and out of my view. I could still see the glow of the light still blinking in the horizen but not the object itself. I was in disbelief of what I had just seen when a jet flew right over my me from behind, I never saw him coming! The jet was so low it shook my truck and the flames from the afterburners were so clear! The jet turned off in the direction where the object had came down. I drove straight through Pecos and tried to find the jet or light again but could not.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36947.html](http://www.nuforc.org/webreports/reports/036/S36947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
