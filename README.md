@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mornas A7 Motorway (France) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White Orbs attach to Black Triangle in South of France 1st July 2011 at 10.15pm1st July 2011 at 10.15pm.  I was driving on the A7 motorway, between Mornas & Piolenc France.  I noted that about 14 to 17 white orbs in the nights sky, just to the right of the motorway.  At this time they were all stationery, all spread out , over 1 km, no pattern at all.  After a short time, the bright white orbs, all moved to a single spot in the sky, all at the same time.  It now looked like one large white light in the sky. after 2 seconds, from the 6 o’clock position they started to move one by one very fast to the lift, then attach themselves to a very big round or oval shaped platform in the sky.  (apx 2000 ft ) I did not see this at the time, as it had no lights on the underside.   All the orbs attached to this platform, and at this point all the white orbs went out, leaving a orange glow to the under side of the craft.  1 second later 3 lights came on, 1 at the front, and 2 at the back,  It now looked like a black triangle.  It moved to the lift across the A7! very slowly, it then tilted to the right, and sped away, up in the sky at great speed. At the time I first looked at this, I was driving at 130km per hour. but unknowingly slow down to 40 km per hour, to look at this in the sky.  No one passed me on this motorway, all the car had slowed down, I was not the only one to see this on this night.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85841.html](http://www.nuforc.org/webreports/reports/085/S85841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Extremely high speed travel from West to East, stopped on a dime, resumed full speed flight after stopping and hovering.Group of 3 lights in the sky, moving from West to East, at an extremely high rate of speed. Stopped from full speed to stationary, almost instantaneously, and hovered for 10 seconds, then jumped to full speed again heading north, turned around and headed south again at speed.  Once again stopped from full speed and hovered then shot towards the earth and disappeared. Lights were red in color and flashed some.  Was clear to see the lights and movement but hard to see what the shape was.  Took a few pictures with camera phone and I'd be happy to email them to you.((ADDENDUM FROM WITNESS))Disregard the report i submitted.  Craft came back on a clear day as opposed to cloudy when i first saw it.  Same time of a day at around evening time. Someone was flying their drone.  Same light pattern, same movement patterns, but the clouds created an illusion of a much greater distance and speed moving across the sky. I apologize, I just don't want to have a hoax report because it discredits what is a legitimate search.((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119985.html](http://www.nuforc.org/webreports/reports/119/S119985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
