@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:20 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in West Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light in broad daylight, moving slowly over the puget Sound, West Seattle area.This evening just before 8:00 pm I went out on the deck to relax and just as I sat down I noticed a bright light heading in a westerly direction, above 10,000 ft. would be my estimate of altitude.  My first thought was an airliner heading west and reflecting massive sun. The sun was up quite high still and well above this craft.  It was still full daylight at this time.  I grabbed my binocs out of curiousity and what I saw was not an airliner in my opinion.  This craft moved very slowly, had no blinking lights that I could see, and no discernable shape. Just a bright shining light.  At one point a Cessna flew through the field of vision (flying North) which made it very clear that the light I was watching was NOT an airplane!  It did dim a few times after this and then seemed to veer to the left (South) and when doing this, became even more intense of a white light.  Just after that intensifying, it disappeared.  I continued to look with the binocs for several more minutes before giving up. I noted the time, 8:01.So, this is where it gets more curious.  I went inside at this time, took care of some things and went back out to the deck at 8:55.  I watched the same area for a few minutes and ...damn if I didn't see it again!!  This time it was orange and illuminated from the bottom (apparently) due to the sun being much lower and the sky becoming more orange with sunset.  It again moved very slowly in a different direction, more northwest I would say. I watched this time for under a minute before it disappeared, it got funky and hard to focus on with the binocs, like it was shimmering or something.  Then it was gone. Just thought it was strange enough to write in about. Perhaps someone else saw it too?   Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45079.html](http://www.nuforc.org/webreports/reports/045/S45079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bay City (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>I was sitting on my porch watching the fireworks.  we have 3 days of them and saw a orange ball of light go across the sky.  It was big and it went fast. it was not a lantern. It was not coming from the firework show.((NUFORC Note:  Witness indicates a morning sighting, although we assume that the fireworks were at night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82056.html](http://www.nuforc.org/webreports/reports/082/S82056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
