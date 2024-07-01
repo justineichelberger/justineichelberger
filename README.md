@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2 years - 2 years minutes.</sub><blockquote><sub>For several years now, i sitt out side late at night to smoak be fore i go to sleep and their will be a big ship triangle shape but the edges remind me of a boomering on how the corners are a lot of time it shows up its in the clouds trying to trick any one looking up but it moves faster than the clouds so it pops out clearly i always know wen something is around but it has a weird colornot silver not gray it blends in relly well its relly big tho and it gives it away it has the back of the ship like a half 1000 foot or so maby a lot more between the top and bottem it had a little bit darker lie ovals one light like the rest the next a little darker then so on and a bunch of times ill see it or we do and then in the distance you see at least 3 army plains or more following it then over the house it slows down and wen the get kinda a little closer it takes of and just blows them a way its so fast its amasing we normaly dont say any thing to any one about all the stufg we see their is so much more because we don't get in evolved were part native American so we have certain beliefs this giant one being followed by the air force is quite and normally going form East to west</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142107.html](http://www.nuforc.org/webreports/reports/142/S142107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 circles flying north to south in Fayetteville, NC, on July 1, 2016.Spotted 4 circle moving from North to South in arrow formation.  Spotted from 21:30 to 21:45 hours.   Spotted civilian aircraft flying at lower altitude beneath the circles fling in a northern pattern.  3 in front and on in the rear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128177.html](http://www.nuforc.org/webreports/reports/128/S128177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
