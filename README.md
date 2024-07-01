@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 1 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in In-flight sighting (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Round dark metallic object 70 yards from jet aircraft at 30,000 feet.The sighting occurred on a flight from Indianapolis Indiana to Austin Texas.  I’m not sure of the actual flight path but the sighting occurred at approximately the halfway point.  This could possibly put the jet somewhere over Arkansas, but this is just a guess.Visibility was pretty clear, I could see the ground with ease.  I can only guess that we were around 35,000 at 500mph.I had a window seat on the left side of the aircraft,  I looked out the window and saw a round or pretty close to round dark metallic object.  I didn’t notice any windows or lights.  The object appeared to just be sitting there and if it was moving,  I couldn’t tell. It was approximately 70 yards below at an angle of approximately 215 degrees.  The closest thing I can describe the size as would be the top of a round water tower.I was quite shocked as my brain tried to make sense of it.  I wondered how the pilots could not have seen it.  Perhaps the pilots were distracted and the aircraft was on autopilot.  I have no idea if anyone else on the plane saw it.  It was in view and gone very fast.  Imagine passing a parked car at 500mph.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158546.html](http://www.nuforc.org/webreports/reports/158/S158546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hallandale (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>No lights, circle object, about 20 in diameter, floating on building.This event happened about 3-4 years ago (2000/2001)... I live in a 3-story building that is shaped like the letter "C". Imagine putting a dot in the middle of the "C", that's where the building's pool would be. It was about 11pm and I was in the pool and my aunt was visiting and my father and her were on the pool deck talking... As I was swimming around the pool I looked up at the sky somewhere above the building and then I looked away. For a second I thought I saw something so I looked again. This was really akward. It was a pretty coudy night and the sky was colored light/dark grey. I look above the building and I see a circle. It had no lights and it made no sound and it looked like it had a diameter of about 15-20 feet, it was pretty big. It was a circle and it looked like it was floating about 10-20 feet above the building. It was just a pitch-black circle. I couldn't identify any textures or features that it had. It was just a dark, floating circle. I tried to get my father and my aunt to look but until I got their attention and until they looked, it was gone. I've been wondering about this for a long time. I want to know if anyone has seen anything like this.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50800.html](http://www.nuforc.org/webreports/reports/050/S50800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
