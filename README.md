@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hudson (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Square object flew over my house it was black in color. I watched it until I could no longer see it.  About 3 minutes later another followed this one seemed higher.  Shape was harder to make out.  Same watched it until I could no longer see it.  No lights were visible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147226.html](http://www.nuforc.org/webreports/reports/147/S147226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Student report.  Possible hoax.  PD))A triangular craft with solid red and flashing white lights hovering strangely over Virginia Beach, VA late at night.I was watching TV late at night around 2:30 am. I looked around the window and show flashing white lights. I went up to the window and noticed some aircraft flying. My first thought was a helicopter because it was moving very weirdly. It went left and up and right and up and zig zagged a few times and it moved pretty fast. I pressed my ear tot he window but i didn't hear any sounds of a helicopter instead it was just silent. I focused hard and noticed with was triangular shaped and it had a red light on each angle. there were white lights flashing but in an irregular patern. I moved away from the window and a couple of minutes later notices white lights flashing right above my house. they stopped and a couple of minutes later they flashed again. This was not the first time I've seen this. A couple of days before for a cuple of seconds i saw some red and white lights moving in a zig zag patern out the window, again at night. But they quickly disappeared behind other houses and trees. Again, completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51212.html](http://www.nuforc.org/webreports/reports/051/S51212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
