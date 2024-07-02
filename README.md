@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:25 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>21:30 formation of 5-6 pale objects over SLCFormation of 5-6, light grey colored objects in a V-type formation, all going at same speed, from south to north.  No sound of any aircraft.  Moving at a brisk speed, faster than a normal airplane, but not excessive like a jet.  Not reflective or shining in any way.  Was at around 11:30 PM mostly clear sky, partly cloudy.  The objects seemed to be the same color as the clouds, just a bit more dim or not as light.((NUFORC Note:  We have changed the time of the sighting to 23:30 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110874.html](http://www.nuforc.org/webreports/reports/110/S110874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Pendleton (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was a bright sunny day.  The wind was wipping about 15-20 mph.  I called my wife at about 1:00 p.m. to check in and that is when I looked up and saw this object that looked like two rectangels joined at upper and lower corners of the rectangels.  Thats when I aked the others who were there what it was.  At first it looked like a kite or balloon or somethig like that.  It didn't move, and it was like I said windy out that day.  It was about200-300 ft. in the air over this field. It was as far away from us as it was in the air.  It made no noise,then it started to drift in N.E. direction over the mian highway in front of the house. It looked like in was going to come down accross the street by these power lines.  A few of us wnet to see what it was but there was no sign of anything.  It has bothered me ever since.((NUFORC Note:  Date is approximate.  Description seems mildly reminiscent of a box kite, but we presume the witness would have been able to identify a common kite, and discriminate between such an object, and something else.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20854.html](http://www.nuforc.org/webreports/reports/020/S20854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
