@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marysville (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red and appeared to flicker.I had my telescope out and observed a red light to the West going East, I was observing with the naked eye, the Telescope was not setup yet as Polaris was not visible, there were light clouds, the light appeared to flicker somewhat, observation was about 1 to 2 minutes, the Sky was just before complete darkness, it also seemed to meander somewhat while going east, it was not a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134875.html](http://www.nuforc.org/webreports/reports/134/S134875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Waialua (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10-15 ft. diameter amazingly bright, glowing, hovering orbsWe were driving home when we saw these two extremely bright orbs hovering over this field.  We were kind of in the country and traffic was low.  We thought it was strange because we had no idea what it was, and we had never seen anything that bright before.  We found a run-down dirt road off of the pavement to get a closer look.  The orbs were about 10-15 feet in diameter and were amazingly bright.  We have no idea what they were or why they were there.  We did not have a camera with, nor did we go any closer because they were over private property with "No Trespassing" signs posted everywhere.  Maybe it is something for an upcoming 4th of July ceremony, but it was too weird to be normal... I think.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51191.html](http://www.nuforc.org/webreports/reports/051/S51191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
