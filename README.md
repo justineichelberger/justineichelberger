@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Brunswick (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Big Triangle shape with lights going around in the sky.My friend and i been seeing this lights on the sky for the past 2 days past 3 am in the shape of a triangle with white lights going around it looks to be really big and last night took the form of a big rectangle,  The first time it was just me and her and no one will believe us so the second time we took someone else and he is as inpres  as we are, we get a scary sensation and chills all over.  Also we can't seem to hear any sounds of the lights on the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110879.html](http://www.nuforc.org/webreports/reports/110/S110879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white light moving northerly to southerly, slowly dimming to unobservable, not ISS or aircraft, it lasted about 2 minutes.At about 22:28 I witnessed a bright white light moving slowly about the same speed as the ISS crosses the sky, no flashing strobes to indicate an aircraft. the object was high in the sky but just east of my location in Lafayette, CA., it moved generally north to south for about two minutes and as it did it slowly dimmed to unobservable. I immediately checked the NASA "sightings" website for the ISS for my area but the next possible sighting for the ISS is on 7/6/16, meaning this was not the ISS that I witnessed. of course it was very dark, no moon, and there were no clouds or trees to obscure the visibility. At its brightest I would say it was twice as bright as the apparent brightness of the brightest star in the sky at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128190.html](http://www.nuforc.org/webreports/reports/128/S128190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
