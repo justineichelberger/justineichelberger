@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Pendleton (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was a bright sunny day.  The wind was wipping about 15-20 mph.  I called my wife at about 1:00 p.m. to check in and that is when I looked up and saw this object that looked like two rectangels joined at upper and lower corners of the rectangels.  Thats when I aked the others who were there what it was.  At first it looked like a kite or balloon or somethig like that.  It didn't move, and it was like I said windy out that day.  It was about200-300 ft. in the air over this field. It was as far away from us as it was in the air.  It made no noise,then it started to drift in N.E. direction over the mian highway in front of the house. It looked like in was going to come down accross the street by these power lines.  A few of us wnet to see what it was but there was no sign of anything.  It has bothered me ever since.((NUFORC Note:  Date is approximate.  Description seems mildly reminiscent of a box kite, but we presume the witness would have been able to identify a common kite, and discriminate between such an object, and something else.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20854.html](http://www.nuforc.org/webreports/reports/020/S20854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Walking home from the park when i saw...UFO Report. On Monday July second around 11:58 PM, Me my brother and my friend were walking home from the park. When above us, maybe 50 feet in the air was a bright flying object and it didn’t make more noise than my dishwasher  (a low hum). Where I live there is only one very small airport and the object I saw was not heading towards it at all. I only saw it for maybe one and a half blocks and then it disappeared. It had crayon green lights on it, and I could not tell how they were attached because it was pitch black. None of the lights were blinking and they all had a slight glow to them. As we were chasing it we turned the corner it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57549.html](http://www.nuforc.org/webreports/reports/057/S57549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
