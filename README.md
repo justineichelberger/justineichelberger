@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:19 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Object was a fast moving fireball, that moved towards the ground, disappeared and scared my dogs(and me).fireball, moved fast, white then turned blue, moving towards ground, flashed, disappeared, my dog actually barked at it, did make a noise, looked like it was far away, then both my dogs started barking and ran towards the back fence, I then heard a noise, like a whistling, my dogs ran to the back door, as if scared, I thought I had seen a light around the time, same fireball like object, in the last week, I thought I was just being silly and it was a shooting star, this time it seems to be real and not my imagination, if dogs could talk, I would have witnesses, very odd experience, I have never believed in this sort of thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64247.html](http://www.nuforc.org/webreports/reports/064/S64247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lock Haven (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Lock Haven around 10:15PM.  The UFO was shaped like a triangle and completely silent.  It flew over, headed toward Williamsport, and then turned slightly south.  It was moving very fast and had 2 white and 1 red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119967.html](http://www.nuforc.org/webreports/reports/119/S119967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
