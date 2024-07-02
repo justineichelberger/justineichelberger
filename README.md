@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red light got bright ..changed to blue went across sky got bright blue and vanished with a blue trailapprox. 2:30 to 3 am (not sure). was facing westward. apprx 30 degree angle above horizon. a red light shining steady.  I initally thought was an aircraft.  the light then increased in brightness to the point it looked like a police helicopter searchlight pointed fowards, and remained a definite red color.  it appeared to be traveling towards me.(eastward).  it then changed to a blue color and began drifting to its right (my left) and remained at the same altitude. object traveled at a medium pace .  similar to a passenger aircraft but a bit faster. traveled from almost directly west to southwest point as a small bluish light ..it then increased in brightness as a blue color (as bright as the red got).and vanished.it appeared to leave a brief blue trail after for 5-7 seconds((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110862.html](http://www.nuforc.org/webreports/reports/110/S110862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Naugatuck (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Me, my girlfriend her mom, my two kids and my girls mom and her brother were watching the fireworks.  They abruptly stopped due to malfunction.  We were in the hills of Naugatuck, ct. we decided to start walking home after about 5 min because they were short and hadn’t known at the time what happened.  In the sky we seen a glowing object we thought was a drown but was moving quick.  It was circling around and around.  Then stopped where I was able to pull out my phone camera and record.  I recorded for 15 seconds until my battery was dying I looked down for one second and heard everyone on the street screaming, “did you see that”.  It became really bright white and then streaked in the sky and disappeared.  Amazing.  If you zoom into the video you can see the energy around it.   Very cool night.  The kids were crying they were very shaken up.  The colors didn’t get on video but was orange red and purple white and blue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157280.html](http://www.nuforc.org/webreports/reports/157/S157280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
