@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Walking home from the park when i saw...UFO Report. On Monday July second around 11:58 PM, Me my brother and my friend were walking home from the park. When above us, maybe 50 feet in the air was a bright flying object and it didn’t make more noise than my dishwasher  (a low hum). Where I live there is only one very small airport and the object I saw was not heading towards it at all. I only saw it for maybe one and a half blocks and then it disappeared. It had crayon green lights on it, and I could not tell how they were attached because it was pitch black. None of the lights were blinking and they all had a slight glow to them. As we were chasing it we turned the corner it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57549.html](http://www.nuforc.org/webreports/reports/057/S57549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in California (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellow-orange colored ball/light ;  Silver Tube & Yellow-orange colored ball/lightOn a farm in Moniteau County: 1st Incident: July 2nd or 3rd 2003, app 9:30pm. Was outside by barn while husband was just inside. Saw yellow-orange colored ball/light, this object was grapefruit sized compared to stars. Seemed to be stationary above town of California, quite high.  I kept telling my husband to come out of the barn and see this thing.  After several minutes, no more than 3-5, the object instantly shrank from what grapefruit size (my perspective) to grape size, and then appeared to be a white lighted object with red and blue lights blinking.  It moved toward the north until I could no longer see it.  My husband did not come out of the barn in time to see it.On same farm, in Moniteau County: 2st Incident: July 18th 2003, app 8:00 to 8:30pm. I had been watching the sky since first incident and this evening (still daylight) there were a lot of scattered dark clouds.  I saw a large silver tube, it was in my clear line of vision - from my perspective I would say it was the size of a fat hot dog, no wings, no lights, no difference in front or back that I could see. From what I could tell, there was not rounding at "nose" or "tail".  This tube came from behind one dark cloud and "flew" into another (west to south). I saw it clearly for about 2 minutes. There was no noise, no jet flume, and no shine.  I kept watching for it to come out of the cloud - at any direction. About 5 minutes later, an orange ball/light (much smaller) came from the same direction and "followed"? the tube.  Although I never saw the tube again, I did see the orange ball/light come out of the cloud and travel west to south into another cloud.I have no explanation for what I have seen. This is  exactly what happened and I can't stop wondering what is going on. The silver tube thing really spooked me because it was big enough or low enough to be clearly seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30338.html](http://www.nuforc.org/webreports/reports/030/S30338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
