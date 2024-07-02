@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:39 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:20 on 2 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Toulon (France) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Unsubstantiated report.  PD))That day, my wife phoned me to join her rapidly in the garden which took me 1 minute.She said : look into that cloud almost ahead of us and I immediately saw what she ment. Imaging a chemtrails » - this was the exact opposite :  Very slowly in this existing natural gray/white cloud was a kind of huge transparant tunnel in the process of being formed like if a big transparant but not visible balloon made its way from west to east and doing so making the path behind it clear from cloudyness with just enough cloud_stuff (which was ringed with many vertical rings, like there used vibrations) to create this amazing sight of a perfect tunnel in that big cloud.The diameter of the tunnel was about 6/8 airline_planes as we see those often here. This invisible ball which did this was because of what happened in some  way visible.It took about  15 minutes  ----------  END of the PHYSICAL  part because I saw what she saw  --------  but there is more to it. .   .   .COMPLETELY UNBELIEVABLE (This was only seen by her and not by me  ! )  Two hours later she asked me again to come and look in the vineyard which is all around our garden.There she saw a vertical transparant tower going vertically endlessly in the sky with no end.Diameter below 80 meter but not cylindric but square wit the edges rounded.Color was transparant blueish. I did really my best but saw nothing  So I really saw nothing and felt nothing. Now - today - she says and I know she's not lying that because of my blunt "see nothing" she didn't say much more about what happened,  Imaging a university at closing time when all students go home. What she saw was IN OUR GARDEN (which is big) a stream of young people ( ages from 15 up to 30) all in a very cozy way - talking to each other - in small groups dressed like in the 60_ties , somewhat old fashioned laughing - energetic - hundreds of them all going to that vertical column, My wife tried contacting them but no avail at all. They didn't see her. Now the whole thing made me think of a story I read long ago of somebody in Waterloo and saw suddenly a part of Napoleon's army (from 1815) passing by - hurling - crying - smell included etc. I can imaging the past comes strangely to live but in this case : This passing by of that balloon which created a real physical tunnel effect - and you saw that tunnel effect 15 minutes later still present !  The second part is like a kind of Fatima Vision but as it it connected to the tunnel - strange mixture of matter_frequencies -  or is this HAARP projecting holograms of things happening on the other side of the planet - but then why did I not see the second part</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45282.html](http://www.nuforc.org/webreports/reports/045/S45282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miamisburg (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>perfect shape of half the orb protruding from the cloudsFiery Orange Spherical Orb within clouds of a sunrise photo.((NUFORC Note:  Lens flare, caused by pointing a camera at the sun.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110912.html](http://www.nuforc.org/webreports/reports/110/S110912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
