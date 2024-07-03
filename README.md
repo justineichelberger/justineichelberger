@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 87.0 - 87.0 minutes.</sub><blockquote><sub>2 blue lights in the Sky East of Phoenix July 3, 2018Two Blue lights appearing in the low sky East of phoenix (From Scottsdale they were in the direction of Mesa).  Both lights blinked and moved around each other in a circular pattern.   They remained in that general direction for 1.5 hours.  They appeared to have bursts of light a couple times.They were pointed out to us by a neighbor.  We had company at our house and we all went outside to witness.  We took photos and a video.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142055.html](http://www.nuforc.org/webreports/reports/142/S142055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>orange fire balls seen turning in skySitting outside having a cigarette I noticed a bright orange ball which seemed to be on fire emerge from treetop levell.  I then grabbed  my digital camera which started acting up to try and capture an image of this object.  I then went to the east side of the apartment to find my neighbor coming outside to tell me that this is his 2nd time seeing an object  very similar to this one 2 nights before.  After this object had emerged from the tree/road line, it quickly made a turn to the east and continued on an east, northeast path.  Its speed was quite rapid because in just under 2 minutes, it was out of visual sight.  When the object emerged from the tree line, the object had to be approximately 1 city block away from us.  My neighbor told me that when he seen this type of object before, there were 2 of them.  Both of the objects were orange with yellow bottoms to them and they were just over treetop level. At no time did I hear any sound coming from the obj! ect eventhough there were fireworks present.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90371.html](http://www.nuforc.org/webreports/reports/090/S90371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
