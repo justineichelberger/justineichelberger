@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:33 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Champions Gate (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two sphere long fire behind it.Walked outside have a smoke and i see two sphere objects flying very fast no sound one in front of the other the second one had a long tail of fire.  The were flying east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147327.html](http://www.nuforc.org/webreports/reports/147/S147327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mountain Home (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Large Bright LightAround 9:25pm I was watching TV, and for some reason I turned to look out the window behind my couch.  My view is partially obstructed by a large cedar tree.  I saw a large, bright white light, due south.  I started thinking to myself, that I don’t remember that bright of a star being in that direction.  So I watched it through the breaks in the foliage of the tree, when I realized it was moving, very slowly.  I got up and went outside, as I was walking outside, the view of the object was obscured, by more trees, but I noticed it had moved.  I ran out into a clearing of the field and watched it move from near due south to a south-western orientation within about 15 seconds.  The object came to a rest, and did not move (hovering), for a good 30 minutes.  My wife came outside to get me, and then she went out and witnessed it move to a more western position.  So we decided to get in the car, and try to drive towards the location, as we drove to the east for about 15 minutes we noticed that the object had completely disappeared.  The object was very bright white/blue color, brighter than anything else in the sky besides the moon.  It proceed to fade out to a yellow glow and disappear, as if the object was moving further way.My wife and I are both college educated people, that both work for a software company.((NUFORC Note:  Jupiter is quite prominent in the southern sky, currently.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57467.html](http://www.nuforc.org/webreports/reports/057/S57467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
