@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:42 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:56 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Shoreview (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangle formation of lights visible for five to ten seconds.Three very bright lights forming an equilateral triangle.  They were intensely bright and white.  I noticed them because the lights were brighter than the stars.  I work nights and am outside frequently during work.  I am very familiar with stars and constellations.  A few seconds after I noticed the lights and had determined that they could not be stars one of the lights went out.  A light then streaked accross the sky in the same area.  I don't know if it was the light that had blinked out.  The other two lights then went out simultaneously.  I waited awhile and nothing more happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99607.html](http://www.nuforc.org/webreports/reports/099/S99607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Whitehall (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red light hovering in Whitehall, PA shoots up into atmosphereOn Sunday July 3, 2011 my fiancé and I were traveling home from a cookout at a friend’s house in the Easton area.  The time was approximately 10 PM and we were watching the skies for local fireworks.  We were traveling West bound on Rt. 22, just past the Airport Rd exit when I noticed this unusual light low in the sky.  It was red in color, appeared to be still, and was not blinking.  With the airport close by, I thought at first it may be an incoming craft on approach.  As we approached the Lehigh Valley Mall though, we could see this was not the case.  The light was actually hovering low in the sky to the left of us on 22.  For reference, it was almost directly across from the Lehigh Valley Mall on the other side of 22.  As we took the MacArthur Rd exit we had actually past the light and we could no longer see it to our left.  We could then conclude it was indeed hovering (or stationary) and that it was close to our proximity.  Curious with what we had both seen, I drove into the Lehigh Valley Mall area and parked in the Southern area of the complex between Bravo and Macy’s.  The red light was still there and hovering.  Being dark out we couldn’t make out any kind of distinct shape, but the light was very solid with no blinking or haze.  It hovered for about 2 more minutes and then slowly moved northward towards our position at the mall.  After just a few seconds of moving North towards us, the light shot virtually straight up into the atmosphere until it was no longer visible.  Although it was partially cloudy that night due to thunderstorms, we could reference a few stars in the sky where it ascended.  Therefore, we knew we hadn’t lost the light in the thick of possible clouds.  The way this light hovered and then shot into the atmosphere with such speed was beyond explanation.  I’ve watched the shuttle take off and reach altitudes till it could no longer be seen, but this light/object did it 10-15 times faster.  It was re! markable and something we never will forget.  I thought I’d share this experience in the hope that others may confirm what we had seen or could perhaps supply a viable explanation of these events.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82184.html](http://www.nuforc.org/webreports/reports/082/S82184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
