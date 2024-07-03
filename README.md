@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saucer like UFO that emitted a white light that circled the craft horizontally, last seen on Blue Oaks BLVDOn our way from interstate 80 to 65,near Blue Oaks BLVD.  Appeared to have a white light floating around the middle axis, horizontally, nothing you would see on any other type of plane.  The 2 other passengers in my car were staring at it for a good 2 minutes, lost sight of it around Blue Oaks.  We tried to capture video, but our iphone couldnt see the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147282.html](http://www.nuforc.org/webreports/reports/147/S147282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Osseo (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.6666666666666665 - 1.6666666666666665 minutes.</sub><blockquote><sub>clear night watching fireworks from our hill in osseo mi.  3 objects move form the s/sw to n/ne at a rate of speed that tokk only 2 min.the ufo's came from the s/sw to n/ne from the conner of In ,Oh,MI, over my wife and i in osseo, mi. they were spaced appart by appox 3 miles appart and they traveled in a line that took maybee a total of 2 min form horizion to out of site to the n/ne they were moving with no jet sound after they passed ????? the bottoms of them bright all most a flame /orange the 3rd 1 was back a little farther if i didn't know better it had a ballon cast to it. if they were ballons they were trav at M1 I have been a licensed pilot,TWIC, cerfied. and my wife is a middle school princapal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76086.html](http://www.nuforc.org/webreports/reports/076/S76086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
