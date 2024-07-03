@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Michigan (Central Upper) (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three yellow lights form a triangle in the U.P. night sky.At sunset I was sitting on my deck and saw a bright yellow light.I thought it was the sun shining through a hole in the cloud.  Then the light was red and then I thought it was an airplane in the distance.  I watched it but it didn't seem to move.  As I was watching another yellow light showed up to the right and another directly centered on top of the other two to make the shape of a triangle.  I watched trying to figure out what it was.Then the top light shot away, the bottom right light shot away and then the first light which was yellow again disappeared.  It happened fast it was gone.I eliminated fireworks, sunset shining through the cloud, and an airplane as possibilities. I</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128324.html](http://www.nuforc.org/webreports/reports/128/S128324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Longueuil (Canada) (PQ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>unexplained oval shaped lights in the sky.I was sitting on my balcony relaxing,wondering if I was going to see a falling star. Then out of nowhere there were two oval shaped lights,they looked like they were coming straight down towards me.Then they stopped desending and  they started to move south-west at the same time they were turning around eachother.When they stopped turning they flew straight and then up and they were gone at an incredible speed.I don't know what it was,but it was nothing I have ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23589.html](http://www.nuforc.org/webreports/reports/023/S23589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
