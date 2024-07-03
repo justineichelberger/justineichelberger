@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:42 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a white oval shaped light that appeared and disappeared three times and the shooting of a lightning bolt type of ray.this night was very dramatic for me.  it is the first time that i have witnessed something.  witnessing this brought me closer to realizing that there is life up there.  i was outside relaxing with my friend when all of the sudden i saw a oval shaped white light and it disappeared.  at that moment my friend and i went into my friend's house.  a few moments later another oval shaped white light appeared in the sky and then it disappeared.  my friend and i went outside to see if we could see it again.  my friend and i were walking south of her house and all of the sudden her younger sister came out and we told her what we had seen and she followed us.  then seconds later all three of us saw another flash appear and disappear.  it was the same oval shaped white flash that my friend and i had seen previously.  after the second and third oval shaped white light we came into the house and told the mother of the two girls.  then my friend, her younger sister, the mother, and i came outside to show the mother but nothing appeared.  then the mother went back in the house and my friend, her sister, and i went south of the house and upon walking my friend, her sister, and i saw something glowing behind some houses in the canyon south of where we were standing.  it seemed to me that the object either landed or was hovering behind houses.  then minutes later a lightning bolt type of ray was shot out into the sky.  at that moment i started running for my friend's house and then everybody else followed me into the house.  when we were in the house my friend told her mother what she, her sister, and i had seen.    then all three of us went outside a few times but we did not see another oval shaped white flash in the sky.  at 11:10 i left my friend's house and went home.((NUFORC Note:  Please see related report from other witness.  We are awaiting illustrations from the three witnesses.  Case is under active investigation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18311.html](http://www.nuforc.org/webreports/reports/018/S18311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Shoreview (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangle formation of lights visible for five to ten seconds.Three very bright lights forming an equilateral triangle.  They were intensely bright and white.  I noticed them because the lights were brighter than the stars.  I work nights and am outside frequently during work.  I am very familiar with stars and constellations.  A few seconds after I noticed the lights and had determined that they could not be stars one of the lights went out.  A light then streaked accross the sky in the same area.  I don't know if it was the light that had blinked out.  The other two lights then went out simultaneously.  I waited awhile and nothing more happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99607.html](http://www.nuforc.org/webreports/reports/099/S99607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
