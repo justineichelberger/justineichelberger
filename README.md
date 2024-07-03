@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Longueuil (Canada) (PQ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>unexplained oval shaped lights in the sky.I was sitting on my balcony relaxing,wondering if I was going to see a falling star. Then out of nowhere there were two oval shaped lights,they looked like they were coming straight down towards me.Then they stopped desending and  they started to move south-west at the same time they were turning around eachother.When they stopped turning they flew straight and then up and they were gone at an incredible speed.I don't know what it was,but it was nothing I have ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23589.html](http://www.nuforc.org/webreports/reports/023/S23589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Champions Gate (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two sphere long fire behind it.Walked outside have a smoke and i see two sphere objects flying very fast no sound one in front of the other the second one had a long tail of fire.  The were flying east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147327.html](http://www.nuforc.org/webreports/reports/147/S147327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
