@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:19 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Broken Arrow (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two orange lights moving in line with each other then fading separately.Two orange lights moving in sync going northwest, one faded away then a few minutes later the other faded away. Clearly NOT airplanes or helicopters.  Moved very slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99591.html](http://www.nuforc.org/webreports/reports/099/S99591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Flintstone (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bouncing and rapidly moving "star" in western sky.I observed what, looked just like a star, but it perfomred almost continuous movement in multiple directions for over 30 min.  We were in camp site 19 of Green Ridge State Forest when I got up to go out of the tent at about 11:45 pm.  I observed what I thought was a firefly going directly back and forth, back and forth and then bouncing up and down.  It could move at enourmous speed and sometimes simply blinked out then appeared in a new position.  It looked a little like the "follow the bouncing ball" thing from old cartoons, but with the light of an arc welder.  It's distance was impossible to really guage, but it was directly between us and the lights of comberland MD. which was approx. 25 miles away.It increased altitude and decreased altitude a number of times during this kind of random set of movements.  It was the lowest observable light in the sky, because of a ridge that was between me and the Comberland skyline.  I got out of the tent, watched it for about 10 minutes, then I went back in and woke up my 8 hr old son and forced him to be a witness for about another 10 minutes.  I kept waiting for it to zip away at some enourmous speed, but it suddenly just faded away in uder a 2nd.The night was crystal clear and it was not much brighter than a really bright star, but it has a kind of bluish intensity that made it more than sparkle.  It was no larger than a good sized star, but its movements were reallky significant.  It was covering what would have been about 6 inches of sky between my outstreched hands.Someone had to have seen this. It went on and on and it was very easy to see.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44728.html](http://www.nuforc.org/webreports/reports/044/S44728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
