@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kent City (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>2 lights chasing one another then formed one light and took off to disappear in the night sky.At about 11:00 pm on july 3, 2010, my family and i were coming home from watching fireworks.  We live in the country and the sky was quite clear.  My dad noticed two bright objects above our vehicle and asked everyone else in the vehicle what they were.  I turned the vehicle around to try and get a better look.  At this time ( driving north)  the two lights took off  farther ahead of us and about 2 - 3 hundred yard up.  The two lights were reddish orange and flew through the sky at the same distance of each other.  After following the lights for about 5 - 10 minutes the first bright light completely stopped.  The second light caught up to the first one and they joined together.   The one light started flying east and higher in the sky.  After they joined and started moving, the light completely disappeared. There were five adults who witnessed this in the vehicle.  The next day I talked to other people in area and others did see this too, but could not explain either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76109.html](http://www.nuforc.org/webreports/reports/076/S76109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Altoona (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange Fireball with no Sound and Pausing in the night sky.My brother and I just step of out of our cars and happen to look up and saw a RED and ORANGE ball of flame passing by from the North side and heading down to South side of Altoona, Pa.  Looks like it came traveling by Tyrone ,Pinecroft and end in Altoona, PA and then shooting up to Space.  Strange things is that made it as ufo sighting is: it was moving slowly in straight path then it stop for a 15 seconds then to start to move again in same straight path. then stop again for 5 second before shooting up with no sound or explosion. Never in my seem something like that. I know its not a firework or craft in fire.((NUFORC Note:  We have amended the time above, and reposted on July 10, 2015.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120128.html](http://www.nuforc.org/webreports/reports/120/S120128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
