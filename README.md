@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ponte Vedra Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange ball of light not moving for more than 20 minutesI looked in the sky and saw an orange ball of light with no movement.  I called my brother out to see it as well.  I took pictures and it looks like a rocky shape surrounds the ball of light.  It looked to be above the edge of the coast.  We watched for about 20 minutes and it did not move.  My brother wanted to go to bed and I was afraid to stay out there by myself, so I could not see what it did from there.   Last night, July 4th, it was there again in the same spot and not moving.((NUFORC Note:  Possibly a sighting of a planet?  Mars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142073.html](http://www.nuforc.org/webreports/reports/142/S142073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Michigan (Central Upper) (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three yellow lights form a triangle in the U.P. night sky.At sunset I was sitting on my deck and saw a bright yellow light.I thought it was the sun shining through a hole in the cloud.  Then the light was red and then I thought it was an airplane in the distance.  I watched it but it didn't seem to move.  As I was watching another yellow light showed up to the right and another directly centered on top of the other two to make the shape of a triangle.  I watched trying to figure out what it was.Then the top light shot away, the bottom right light shot away and then the first light which was yellow again disappeared.  It happened fast it was gone.I eliminated fireworks, sunset shining through the cloud, and an airplane as possibilities. I</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128324.html](http://www.nuforc.org/webreports/reports/128/S128324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
