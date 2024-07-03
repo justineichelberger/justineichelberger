@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Altoona (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange Fireball with no Sound and Pausing in the night sky.My brother and I just step of out of our cars and happen to look up and saw a RED and ORANGE ball of flame passing by from the North side and heading down to South side of Altoona, Pa.  Looks like it came traveling by Tyrone ,Pinecroft and end in Altoona, PA and then shooting up to Space.  Strange things is that made it as ufo sighting is: it was moving slowly in straight path then it stop for a 15 seconds then to start to move again in same straight path. then stop again for 5 second before shooting up with no sound or explosion. Never in my seem something like that. I know its not a firework or craft in fire.((NUFORC Note:  We have amended the time above, and reposted on July 10, 2015.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120128.html](http://www.nuforc.org/webreports/reports/120/S120128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 87.0 - 87.0 minutes.</sub><blockquote><sub>2 blue lights in the Sky East of Phoenix July 3, 2018Two Blue lights appearing in the low sky East of phoenix (From Scottsdale they were in the direction of Mesa).  Both lights blinked and moved around each other in a circular pattern.   They remained in that general direction for 1.5 hours.  They appeared to have bursts of light a couple times.They were pointed out to us by a neighbor.  We had company at our house and we all went outside to witness.  We took photos and a video.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142055.html](http://www.nuforc.org/webreports/reports/142/S142055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
