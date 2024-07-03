@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lopez Island (WA) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown eerie sound that sounded like music someone was doing but not quite sure if it was music. I was sleeping in a tent up at Lopez Island and I heard this unknown location of this spooky sounding music type like thing but again not entirely sure where this sound was coming from and if it was really music. This eerie sound was quite faint but I could still hear it and felt strange listening to it inside my tent. Hope I'm doing this right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164019.html](http://www.nuforc.org/webreports/reports/164/S164019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We have  never experienced something so strange. Just the way it moved has me scratching my head.The description of what I saw was it had a solid red light and a blinking green light, to the left of the red light. I think it was one object but the blinking green light could have possibly been a second object.It hovered for about a minute and then quickly traveled in a straight line northwest, about 2,000 feet, and immediately, with no pause or anything, traveled in the same straight line back to its original position.(This all happened in about 2 seconds) (Also I saw the red light but I can't remember seeing the green light at this time.)  (The red light remained level and did not teeter toter when it accelerated and decelerated.)  It then hovered for about 5 seconds (showing both red and green lights) and then slowly traveled west behind a building until I couldn't see it anymore.The whole time, this thing made no noise. I can't remember how high it hovered but I know it was close enough that if it were a drone or something, it would have made a slight noise. Besides the red and green lights and also with the darkness of the night's sky,  I couldn't make out a structure behind the lights.  The weird this was how easily and effortlessly this thing moved... it was weird to me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129823.html](http://www.nuforc.org/webreports/reports/129/S129823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
