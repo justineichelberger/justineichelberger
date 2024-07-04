@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hatboro (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>4 white, circular objects were spotted behind a very high cloud layer.  The original shape was a straight line, then 3 of the 4 bright white lights went dim and reappeared in the shape of a check mark, then went 2 went dim and reappeared.  There were 4 total white lights high in the sky from the east that continued to disappear and reappear in different formations.  No noise was heard. The event lasted approximately 20-30 seconds.  They stayed in the check mark formation the longest before changing shapes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119996.html](http://www.nuforc.org/webreports/reports/119/S119996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Penacook (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>((COPIED FROM AN E-MAIL))Peter Davenport, In the evening of the 4th of July, 2017, while finishing my walk around 8pm., down Washington Street, Penacook, NH, 03303, while entering the ((deleted--my neighborhood)).  I looked off to the North says and saw a big black object in the far off distance, not moving.  I watched it for about 5 min.  Wound not have be a plane the size.  I thought to take a pic, no buildings are out there that high..  Then I saw it take off straight up and vanish into the sky faster then under a second.If I was to guess it would have been the size of a football field from that distance.  That was not a bird or plane or even a hot air ballon to take off that fast.  Just wanted to write this report what I saw.  I was in the United States Air Force for 4 years and I can tell you these ships are for real and not from Mother Earth.  I have friends that work at NASA and they can tell you the same.  I would not write this report and take the time to explain what I saw if it was not real. Thank you.,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135000.html](http://www.nuforc.org/webreports/reports/135/S135000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
