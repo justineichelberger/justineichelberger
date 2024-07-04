@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Hills (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My home is  located 20 miles north east of los Angeles I walked out of my house on 4th of July  to see if I was able to see any fireworks at 9:28 p.m,  so I saw my neighbor, and started talking looking at the sky facing north, from the distance on the mountain top I saw a round light coming toward our way, so I asked my neighbor if she saw that. And she responded that I was crazy and seeing things, the light disappeared for a split second and it once again appeared, now not more than 100 ft. away, I asked her again did you see that? ,and she responded once again that I was crazy, so this time I had time to take 5 pictures which only 1 came out. The funny thing is my neighbor still does admit seeing it. The second time I really thought that the light was coming toward me, and I ask myself why is it that my neighbor couldn’t see it. I then had the strange feeling that I was going to get abducted. The light disappeared on an unvalibable speed to the west. I hav! e the the picture, and is clear that this was not a helicopter, or fireworks, take a look at the picture and you can see the landing gear, and something coming out of the the left bottom opening of the ufo, that created the light, see for yourself and be the judge of it. This was 4th of July, and I am sure I was not the only one that saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82822.html](http://www.nuforc.org/webreports/reports/082/S82822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pelzer (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My wife and I were sitting on the front porch when I noticed a really intense orange light.  At first I thought it was fireworks but it never fell.  I got up and walked out in the yard to get a better look and called to my wife to come look.  The light  contuied to get closer and in a few seconds was over our neighbors house.  I had to run to the back yard the keep it in sight.  It was gone within 10 seconds.The whole thing lasted no more than 45 seconds. Hard to guess the speed but from where it appeared to where I lost sight was probably about 3 miles. It was traveling south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110936.html](http://www.nuforc.org/webreports/reports/110/S110936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
