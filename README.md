@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White and red blinking light moving across horizon, slowing down to a stop, then vanishing.I was at the Portland, Maine fireworks show with my aunt and her friend and I looked out towards the ocean.  I saw what I thought to be a jet coming to land at the nearby airport moving across the horizon where the ocean and the sky meet.  It was a blinking red and white light, like an airplanes rotating beacon light.  It was moving at normal airplane speed but then it started slowing down, and then it came to an almost complete stop.  I pointed it out to  my aunt, and she couldn't see it really well, then I looked back and it had vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100279.html](http://www.nuforc.org/webreports/reports/100/S100279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in East Alton (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Summary : We saw a bright blue-green object streak across the southern sky at a great rate of speed,travelling from east to west. It seemed tochange course slightly before disappearing,moving northwest.  This seems to have set itapart from meteorite or firework activity.See above for description.  (blue-green objectmoving east to west in southern sky overthe Alton, IL area at 9:45pmon July 4, 1997.)I'd like to add that it was brighter than anyof the fireworks that neighbors were launchingat the time.  It lit up the yard for a moment --not brightly ... but, more so than moonlightor fireworks.  Slightly less than lightning.The fact that it moved so smoothly and quicklymade me think it was a shooting star ... a closeone because of the "thickness" of the trail.But, it shifted course a little, heading morenorthwest than west, which I found odd.  Thenit disappeared.think is odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02390.html](http://www.nuforc.org/webreports/reports/002/S02390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
