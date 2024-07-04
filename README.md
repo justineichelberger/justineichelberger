@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hermiston (OR) reported seeing craft that fit the description of some '' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>Bright red sphere hovering over tree line then dropped straight down, rose back up, and headed northwest.((ADDENDUM FROM WITNESS))On July 14th, 2017, at 10:15 pm, I was looking out my bedroom window, when I noticed a large bright red light in the shape of a sphere, hovering over the tree line behind my home.  I live in the country, so I would guess it was maybe 3 to 4 city blocks away.   It just stayed in the same spot.  I watched it for about 30 seconds, before it began to slowly lower straight down.  I could still see the light through the tree branches.  It stopped for a few seconds, and then slowly rose back up.  When it reached to top of the tree line, it began to travel in a straight line in a northwest direction for about 45 seconds, before it was no longer in my view from my window.  Total sighting was less than 2 minute.  I was to afraid to go outside and follow the direction it was traveling.((END ADDENDUM))((NUFORC Note:  We spoke via telephone with the witness, and she seemed to us to be quite serious-minded and credible.  We urged her to submit a more thorough report, to supplement her original, which she did.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135168.html](http://www.nuforc.org/webreports/reports/135/S135168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White and red blinking light moving across horizon, slowing down to a stop, then vanishing.I was at the Portland, Maine fireworks show with my aunt and her friend and I looked out towards the ocean.  I saw what I thought to be a jet coming to land at the nearby airport moving across the horizon where the ocean and the sky meet.  It was a blinking red and white light, like an airplanes rotating beacon light.  It was moving at normal airplane speed but then it started slowing down, and then it came to an almost complete stop.  I pointed it out to  my aunt, and she couldn't see it really well, then I looked back and it had vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100279.html](http://www.nuforc.org/webreports/reports/100/S100279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
