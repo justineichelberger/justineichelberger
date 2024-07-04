@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3 1/2 - 3 1/2 minutes.</sub><blockquote><sub>Numerous bright red, yellow,and green glowing objects that moved at a steady speed with no sound. Observed an explosion of one.I am a retired police officer and myself, my wife, and two friends were watching forth of July fireworks.  We live in Tinley Park Il. and was watching in the direction of Frankfort Il which is South of us.  We had an un-obstructed view of the fireworks over a small lake when all of a sudden I observes three bright red glowing circular shaped objects on the South horizon.  The objects rose up and proceeded in a steady speed in a North East direction.  The objects continued to glow from red to yellow and sometimes green.  Over the next three hours we saw numerous objects, sometime in formations of three or four and one time in a "V" formation of three and one following.  All of the objects originated from the South and continued in a N/E direction.  At one point, as one of the objects were about to travel directly over us, the object lost its glow and I was able to see the object in a stelth type mode as it went over us.  The object appeared to by fairly l! arge and  looked triangular with rounded edges.  I saw three large circulat shapes in the center of the object.  There was absolutely no sound and the object continued overhead Northbound. We saw at least 20 to 30 of the same objects during the corse of the night and at another point I observed and videoed what appeared to be one of the objects blow up and split in two. This caused a large bright "explosion" and sparks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99727.html](http://www.nuforc.org/webreports/reports/099/S99727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in State College (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>During 4th of July Fireworks, a light approached the fireworks from the west.  It was raining lightly at the time and the clouds were low.  At first I thought it was a plane coming in to land at the State College Airport.  When the light reached a point about 1/4 mile north of the fireworks (I can only guess the altitude - probably about 1500 feet) the light stopped in the sky and stayed fixed for a few minutes.  I looked down for a couple seconds and when I looked back up it was gone.  The light was bright enough that it obscured the shape of the craft.  There were no blinking lights as you would expect from an airplane or helicopter.  My position was about 1/3 mile east of the hovering position.  When it was approaching, it was heading directly towards me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128351.html](http://www.nuforc.org/webreports/reports/128/S128351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
