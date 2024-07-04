@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:16 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lorane (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A noiseless weird sighting of two triangular shaped craft.I observed two black triangular shaped craft .they were flying south at prox 200 ft altitude. they were moving very slowly. there were no lights or any other identification on either craft. They emitted a very loud rasping or grinding noise. The front end of both craft had a appearance that resembled a bullet that had been smashed after hitting something.My father also told me that he had numerous dreams of craft that resembled my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110419.html](http://www.nuforc.org/webreports/reports/110/S110419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large, bright, orange constant light about 2000 ft up, traveling East to West over Lexington during fireworks, with no sound.I was sitting on the steps watching the kids shoot off fireworks. I notice a very large, bright, orange constant light about 2000 feet up moving East to West over us.  I yelled to the boys in the street to look up and said, "Hey guys, what's that?"  I watched it for 60 seconds.  The speed was faster than a single engine plane and made no sound.  Occurred at approximately 10:15pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134923.html](http://www.nuforc.org/webreports/reports/134/S134923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
