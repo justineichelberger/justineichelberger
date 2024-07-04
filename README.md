@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright orbs dancing in Scottsdale skyI walked outside of my shed in my back yard only to look up and north to see what looked like a shooting star.  It was a round bright ball with a trailing effect behind it.  I then saw two more appear.  They began dancing around the sky in this one area I first saw them.  Moving sporadically and they would disappear and come back.  They appeared to be in a triangle formation moving around from side to side.  They looked to be dancing all with this trail following them across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147309.html](http://www.nuforc.org/webreports/reports/147/S147309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pine Ridge (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>steady light yellow orangish light moving from southwest to middle of the night sky turning sharp and headed due north.we had just pulled in our drive, (in the country) as we got out of the car my wife was helping the kids out, i stretched my arms as i looked up i saw a light coming from the horizon in the southwest it was moving so fast i just had enough time to yell at my wife to look and all four of us watched it travel in a straight line for about 10 seconds and the adjusted it's course to the left and travel due east.  it took only about 15-20 seconds to travel the entire length of the sky.  there were no collision lights or flashing lights of any color only a steady orange-light yellow light. and absolutley no sound or trail of any kind. p.s I spent 4 years in the army, my mos was air defense artillery, wich meant we shoot down enemy air craft, but along with this we had to know every aircraft flown from enemy to friendly, which involves alot of aircraft recognition testing on every aircraft, we studied incoming pics, outgoing, belly, side etc.  I have never seen anything that moved like this, and i've been in training missions where i have had f-5, a7 corsairs, a-10 thunderbolts, etc. flying over my head.  I have also studied classified pics of enemy aircraft not generaly known. in short i know my aircraft!! and this has me stumped. ( i scrolled down the page i guess i could be contacted by someone if they could tell me what it was, i know it doesn't sound like an fabulous sighting but iam curious.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16701.html](http://www.nuforc.org/webreports/reports/016/S16701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
