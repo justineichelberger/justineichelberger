@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pelzer (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My wife and I were sitting on the front porch when I noticed a really intense orange light.  At first I thought it was fireworks but it never fell.  I got up and walked out in the yard to get a better look and called to my wife to come look.  The light  contuied to get closer and in a few seconds was over our neighbors house.  I had to run to the back yard the keep it in sight.  It was gone within 10 seconds.The whole thing lasted no more than 45 seconds. Hard to guess the speed but from where it appeared to where I lost sight was probably about 3 miles. It was traveling south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110936.html](http://www.nuforc.org/webreports/reports/110/S110936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hermiston (OR) reported seeing craft that fit the description of some '' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>Bright red sphere hovering over tree line then dropped straight down, rose back up, and headed northwest.((ADDENDUM FROM WITNESS))On July 14th, 2017, at 10:15 pm, I was looking out my bedroom window, when I noticed a large bright red light in the shape of a sphere, hovering over the tree line behind my home.  I live in the country, so I would guess it was maybe 3 to 4 city blocks away.   It just stayed in the same spot.  I watched it for about 30 seconds, before it began to slowly lower straight down.  I could still see the light through the tree branches.  It stopped for a few seconds, and then slowly rose back up.  When it reached to top of the tree line, it began to travel in a straight line in a northwest direction for about 45 seconds, before it was no longer in my view from my window.  Total sighting was less than 2 minute.  I was to afraid to go outside and follow the direction it was traveling.((END ADDENDUM))((NUFORC Note:  We spoke via telephone with the witness, and she seemed to us to be quite serious-minded and credible.  We urged her to submit a more thorough report, to supplement her original, which she did.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135168.html](http://www.nuforc.org/webreports/reports/135/S135168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
