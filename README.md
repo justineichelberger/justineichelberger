@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Saint Simons Island (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Hovering blue object spotted over Saint Simons Island, GAAround or just after 9:00 PM on July 4, 2017, some friends and I stepped out onto the roof of a local restaurant in the pier village on Saint Simons Island, GA.  We were there to watch the Fourth of July fireworks display.  The fireworks show was taking place in front of the restaurant.  When we turned around, though, we saw, at least a couple of blocks or so away from us, a strange blue-ish object hovering in one place in the sky for several.  I personally observed the object for several minutes, before I finally went back inside the restaurant.  According to another witness, after I went back inside the restaurant, the object briefly moved around in the sky erratically before it finally descended and appeared to land, disappearing from view.  What became of the object after it descended remains unknown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134942.html](http://www.nuforc.org/webreports/reports/134/S134942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lynn (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 red fire balls at 45*   in line north to south distance of craft 4 fingers a part at arms lenght no sound.2 fire balls red in color from east to west at 45* from the ground no sound  Maybe 5 miles away ?  they were straight in line north to south about 4 fingers apart at arm's length no flashing of lights watch for about 4 mins they stayed in line all the way across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110984.html](http://www.nuforc.org/webreports/reports/110/S110984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
