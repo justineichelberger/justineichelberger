@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red glowing shere in Stuart, FL 4th of July 9:07PMAs another report south of Stuart, FL, we also saw the slow moving glowing and pulsing red sphere.  We were outside for forth of July when I saw the object moving north.  I ran inside to grab my phone, came out and video'd the rest of the sighting for about 2 minutes.  After a minute more it shot off extremely fast north east towards the ocean in which seconds later was no longer visible due to distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142091.html](http://www.nuforc.org/webreports/reports/142/S142091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright orbs dancing in Scottsdale skyI walked outside of my shed in my back yard only to look up and north to see what looked like a shooting star.  It was a round bright ball with a trailing effect behind it.  I then saw two more appear.  They began dancing around the sky in this one area I first saw them.  Moving sporadically and they would disappear and come back.  They appeared to be in a triangle formation moving around from side to side.  They looked to be dancing all with this trail following them across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147309.html](http://www.nuforc.org/webreports/reports/147/S147309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
