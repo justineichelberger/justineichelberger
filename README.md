@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Millstadt (IL) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue Hovering LightOne year my mom and I were in the back yard and we saw a blue light right at the roofline of our first floor house.  We were facing the back yard, seated in lawn chairs, talking, and all of a sudden the entire back yard (about an acre of ground) lit up in blue light. We looked over our left shoulders (both of us, there was no sound and yet oddly we both looked over our left shoulders at the same exact time) and there was a bright blue light hovering there.  It was just that... a light and it stayed there pulsating for about 5 seconds I'd say... then it started to move and just disappeared. My mom and I don't tell anyone about this because we know people will think we are nuts.  This is the first time I've ever put something like this out there.  We have no reason to try to make people believe that we saw what we saw.  I just thought I'd post this so that others out there that also have witnessed something as strange as this don't feel like they are alone.  I'm sure that some day what we all saw will come to "light" - pardon the pun. By the way, from California to the east coast people saw this blue light at precisely the same exact time of day.  It was noted in the papers and news but was dismissed by scientists as possible meteors... though my mom and I, and everyone else who witnessed it, knows it could not have been - for it never hit the earth and it was hovering.  A meteor would not stop in the air.  I was not scared of this light... though looking back on it I'm surprised that I wasn't ... because it was so incredibly "odd" (that's the best word I can use right now to describe it)...nothing I'd every seen before and I don't necessarily believe in aliens or things of the like.  I did feel afterward that night that we had been "observed". It's a strange thing to say...and it was a strange thing to feel at the time. My mom and I joked that it was taking our picture...then over a year later we were talking about it again and discussed the possibility of it being some government testing type o! f object...but that too sounds too strange to believe.  Anyway, don't feel like you are alone...all of you who have seen something like this...but then again don't try to convince anyone who didn't see it for themselves because they will only think you are nuts.  My own dad and sister don't believe my mom and me....we just don't talk about it to them because we too would likely not believe someone had we not seen it for ourselves.((NUFORC Note:  Witness indicates that date of the event is approximate.  We have assigned an arbitary time for the event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55523.html](http://www.nuforc.org/webreports/reports/055/S55523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Washington State 4th of July UFOSJust witnessed 7-8 bright orange craft to the west of my home.  Undeniably UFOS.  I have never seen anything like them in my life except for Youtube videos.  I wish someone else was here so I wouldn't feel crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110990.html](http://www.nuforc.org/webreports/reports/110/S110990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
