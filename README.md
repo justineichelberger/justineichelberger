@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lakeville (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pyramidal-shaped Craft Over Lakeville North High School FieldOur family attended the Fourth of July fireworks show in Lakeville, Minnesota this evening.  My entire family and several other people sitting around us witnessed a light brown flying object with a glowing golden ball in the center.  This thing was not an airplane or firework debris, as it slowly flew across the length of the entire sky over our heads in a curved line at the same altitude.  It flew from a west direction towards the east, but then curved northward, again at what appeared to be the same altitude throughout.  The top of this thing spun around, and one side of it was black with something that protruded from it (you could see this black side with the protruding thing spinning slowly as it flew across the sky.)  It had no smoke, no sound, and this protruding thing swung around the top of it only randomly and very slowy while the bottom of it did not spin.  The best way I could describe the protruding black thing was that it looked like a large tel! escope with a dark shiny window in the center of it.  I say it was shiny window because you could see light reflecting off of the center of it, but the rest of the telescope thing itself didn't reflect light.  The entire object was pyramid shaped, but the top of it spun around slowly while the bottom of it seemed to remain stationery.  A glowing orange ball was right in the center of the bottom of it.  There were at least twenty five other people around us who looked up with us and watched this thing as it slowly flew by.  I have never seen a ufo before, but I have never seen anything like this thing that we saw tonight.  It happened at around 9pm at Lakeville North Highschool, about an hour before the fireworks began.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76131.html](http://www.nuforc.org/webreports/reports/076/S76131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hatboro (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>4 white, circular objects were spotted behind a very high cloud layer.  The original shape was a straight line, then 3 of the 4 bright white lights went dim and reappeared in the shape of a check mark, then went 2 went dim and reappeared.  There were 4 total white lights high in the sky from the east that continued to disappear and reappear in different formations.  No noise was heard. The event lasted approximately 20-30 seconds.  They stayed in the check mark formation the longest before changing shapes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119996.html](http://www.nuforc.org/webreports/reports/119/S119996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
