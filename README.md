@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 3 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 4 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Harrison (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>life changing experienceOn 7/3/12 my wife and i were driving home from our daughter's house.At 22:00 hours heading due east on a rural country road, two flying craft appeared over the top of a farm house directly on our right.  As soon as the two craft came right above our car, they made a 90 degree turn north.  We pulled ahead and off the road and got out of the car to watch the crafts as they flew away.  At this time the man that lived in the farm house came up the same road from the east [opposite direction] riding his bicycle and i said to him hey  have you ever seen a UFO and he said no. Then i said well there are two right there and they just flew over your house.  I could tell he was amazed immediately as we were to what we were witnessing.  About 45 seconds later a third craft appeared,following the exact same path as the first two.About 45 seconds later a fourth craft appeared also following the same paths as the first three.All four crafts were identical, about the size of an automobile, 100 feet in altitude.The crafts were flying very slow, about 30 miles an hour. There was absolutely no sound.They were shaped like you took 4 or 5 round spheres 5 feet in diameter and fastened them together. The shape as a whole was oval i would say.  Each sphere was equally lite with a beautiful orange light that was pulsating to a darker orange almost red.The crafts were pulsating like a heart beat.The sky was clear not a cloud,95 degrees,no wind dead still.We watched the crafts disappear straight to the north,never changing direction.The total time of the sighting was about 7 minutes.When we first saw the crafts we thought they were military copters,that's the only crafts i have ever seen fly that low and in formation. This thought only lasted about 2 seconds.I don't know how, but you just know immediately what you are witnessing.I have a very good grasp on mechanical,electrical engineering and physics. This was the strangest thing i have ever seen in my life and i am 58 years old. These crafts were close,under perfect conditions to observe them and they broke all the rules of our world [as we know it].  I was always interested in UFO'S and was always looking to see one, but never did.I pretty well thought they didn't exist,but now i know with out a doubt they are very real.Seemed to me they are not flying, they just are there and move in any direction at any speed almost god like.Seemed like they are a living thing not a flying craft.I know for a fact this technology is hundreds of years ahead of conventional aircraft.I am a professional meat processor and own my own company.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90843.html](http://www.nuforc.org/webreports/reports/090/S90843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was three fire ball looking things that all came from different directions n then all the sudden went.  N disappeared in same spot but as one passed over me it formed a line light n then zoomed away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110948.html](http://www.nuforc.org/webreports/reports/110/S110948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
