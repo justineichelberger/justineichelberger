@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw something moving across the sky it was like a red glow but yellow at the same time my girl friend thought maybe it was a small plane but it had no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111267.html](http://www.nuforc.org/webreports/reports/111/S111267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 red, glowing objects hovering in Columbus, OHI was letting the dog out around 10:30 p.m. when I looked up into the southwest sky in Columbus, Ohio.  Three red beams of light were shining brightly in the shape of a triangle.  What was most odd was that the object seemed to hover in the same location (unlike an airplane) for several minutes.  At first, I thought the object was shaped like a stealth bomber, except that it appeared white in color.  My other thoughts was that the red, glowing objects had white beams of light connecting them together.I ran inside to tell my husband and daughter to come outside to verify what I saw.  By the time they got outside, there were only two, red glowing lights connected by a single white beam of light.  My daughter saw the bottom one disappear first and then the top one followed suit.  My husband also saw the two lights fade away into the sky.During this time, I ran through my house to the backyard to see if they would travel in a typical flight path.  However, there were absolutely no signs of the objects.  Their disappearance was quite unusual in nature.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120150.html](http://www.nuforc.org/webreports/reports/120/S120150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
