@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Camden (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange orange circles or discs passing overheadMy wife and I went to a Sting concert at the then named Blockbuster Center in Camden,N.J,  It was a beautiful evening with a crystal clear sky.During the concert Sting had a song where the words in the song were"look up to the sky",so I did and at that time I happened to notice four orange circles or discs,next to each other but staggered, moving in a west to east direction.  At arms length,they were about the size of a dime.I nudged my wife and showed her what I was looking at.  At the same time some other people around us were looking and pointing at them also. They moved at a steady rate of speed to the west til out of sight.  I kept my eyes watching the sky after that and two more times, I don't know if it was the same four or different ones but in similar formations we were passed over again by these orange discs. I searched the papers and the news the next day but nothing was being reported.I never had a sighting before or since this one but I still wonder what they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42439.html](http://www.nuforc.org/webreports/reports/042/S42439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Elk Grove Village (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 29.0 - 29.0 minutes.</sub><blockquote><sub>07-05-2014 red glowing circlesat first we noticed 5 red glowing lights north of us coming from the west.  we calmly observed these objects as a total of 8 emerged.  These objects are not man made due to their movements and color.  Silent, no noise heard from the eight, red, glowing circles. the objects/ufo's are identical in description in the ufo's witnessed in phoenix az.  the objects we witness did not hover in one spot but rather moved around amoungst each other, as they flew dead from the west and shortly as we took notice of them, they changed course, continuing now north as if avoiding chicago international (ORD), and executive (pwk) airports.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111430.html](http://www.nuforc.org/webreports/reports/111/S111430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
