@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 red, glowing objects hovering in Columbus, OHI was letting the dog out around 10:30 p.m. when I looked up into the southwest sky in Columbus, Ohio.  Three red beams of light were shining brightly in the shape of a triangle.  What was most odd was that the object seemed to hover in the same location (unlike an airplane) for several minutes.  At first, I thought the object was shaped like a stealth bomber, except that it appeared white in color.  My other thoughts was that the red, glowing objects had white beams of light connecting them together.I ran inside to tell my husband and daughter to come outside to verify what I saw.  By the time they got outside, there were only two, red glowing lights connected by a single white beam of light.  My daughter saw the bottom one disappear first and then the top one followed suit.  My husband also saw the two lights fade away into the sky.During this time, I ran through my house to the backyard to see if they would travel in a typical flight path.  However, there were absolutely no signs of the objects.  Their disappearance was quite unusual in nature.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120150.html](http://www.nuforc.org/webreports/reports/120/S120150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Downingtown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three orange lights flying in a diagonal lineWitnessed three bright orange lights flying NE.  My girlfriend pointed them out from our back porch saying ("What the heck is that?). The lights kept a consistent equal distance from each other in a diaganol straight line from the top right to bottom left, and flying to our left (NE).  There was a fourth single light that they appeared to be following.  That fourth light looked further away, higher in the sky,  and dim in comparison to the other three.  There was no sound and it was too dark to see if the three lights were somehow connected.  The speed seemed to be about the same as an airplane would fly, but the height looked lower than a plane flying by.Later that evening our neighbor said he saw them too and thought they could be Chinese lanterns.  My girlfriend and I believed they were something different, as they moved right to left in a consistent line with some speed.Before they were out of sight, they dimmed away, and two of them flickered before disappearing.  I've never seen anything like this and do not know what is was.  There was no red, green, or white lights like an airplane.  Only orange round balls of light - strange...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120181.html](http://www.nuforc.org/webreports/reports/120/S120181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
