@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sister Bay (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 individual white lights, first two lights one after another, last three lights in a triangle formationFirst saw one "light" traveling from the Northeast sky to the south.  Thought it was a plane.  Sixty seconds passed and another light appeared.  Seemed to be following first light.  Still, could not identify blinking light usually found on plane.  All of a sudden, three white lights appeared.  They were flying in a triangle formation.  I knew this was not a commercial plane nor private pilots.  They all disappeared to the south.  The next day I was in a town called Fish Creek.  I was speaking to my step-son about what we saw and a lady said she saw fireballs in the sky the previous night in Fish Creek.  These objects made no noise not any identifying blinking lights as found on planes.  They all travelled at a steady pace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90765.html](http://www.nuforc.org/webreports/reports/090/S90765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange lights/UFO's over Fresno,Ca near the airport.On July 5th, 2011, at 12.:38 am my son and I were in our backyard talking. we live about 4 miles from the Fresno airport and were watching airplanes and police helicopters in the shy that night.  People have been lighting off illegal firworks and we were watching the show.  As we were looking up, I saw a large triangle craft moving slowly to the south-west towords the airport.  I was standing facing the same direction, when my son spoted another set of lights that looked like bright orbs.  There was 3 of them and moving south-east of our home.  The large triangeled changed colors form white to red to blue then back to white, then started to fly way faster than anything else that was in the shy that night and was out of sight in about 4 seconds.  The orbs also changed color.  Red,white and then back to red. We could see other airplanes flying into the Fresno airport and taking off, but nothing could fly without making a sound.  We waited to see if the Air National Guard would send jets to the area of these objects, but nothing. We have seen other unexplained lights over the greater Fresno/Clovis area for the last couple of months, but nothing like this.  The orbs stayed on the same course, but came together as one light and disapeared straight up.  There were at least 3 helicopters and multiple airplanes that night, but nothing moved or looked like those lights we saw that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82484.html](http://www.nuforc.org/webreports/reports/082/S82484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
