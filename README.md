@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Rivrside (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4:00 - 4:00 minutes.</sub><blockquote><sub>Stationary object, tubular in shape four hour durationThis was again at high altitude with clear skies and visibility past ten miles, also the date is an estimate as this was over twenty years ago and is approximate at best.  The craft had  the same aspect ratio of a cigarette. that is to say it had the same shape and color and contrast if one was to hold one at a distance you would see the same shading that would tell you it was tubular in shape.  again it was motionless and remained in a fixed location above the surface at what I estimate to be in excess of ten thousand feet, although this could have been a lot higher as there was nothing to compare the size to.  It remained at this point for more than four hours but could have been longer, there was no way to tell as the daylight had waned and it faded from view all the time never moving.  I estimate that it was at an angle to my point of view roughly southwest and seemed to be at a slightly tilted position.       I contacted my brother after our conversation on the phone and he basically related the same scenario that Im sharing with you.  Unfortunately my older brother is suffering from alzheimers disease and can't add anything to this. Again I'm sorry for the abrupt end to our conversation, please understand that I'm not well and am with limited hearing.  I should have realized that this was a long distance call and I should have been brief and to the point.  Thank you for being as passionate in what you are doing as I am to what I witnessed all those yaers ago.I know what I saw was of some sort of  intelligent creation be it man made or other.  I hope this helps in a positive way and that others who may have seen something similar will share their experiance as well.  Again thank you for what you are doing and feel free to call with any info regarding this and any other similar sightings.  I hope that I have not offended you and wish to not have lost this contact, this is very important to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80350.html](http://www.nuforc.org/webreports/reports/080/S80350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in modesto (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White side way triangular shape containing gold chunks inside of it traveling from left to right slowly, 2 minutes later turned right</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150917.html](http://www.nuforc.org/webreports/reports/150/S150917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
