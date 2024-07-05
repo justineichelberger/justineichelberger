@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wyndotte (Grand Lake) (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three orange/red oval objects over grand lake/ ok. 7/5/2013Saw three orange objects going from south to north with the last in row fading completly, then the second one faded and as the first in line started to fade it was directly over head and it looked like an x-ray of the frame work of object glowed in the dark as it went what seemed to be straight up in an instant - gone.  In a flash they reappeared, this time about a half mile to the right of the first fly by line comming from the same direction only this time they were in a triangle formation and all faded seconds of one another, and the wife said what the hell was that? There were several conventional aircraft in area, with one flying in between the 2nd and third ufo craft in the first formation which let us compare, with the ufo's being at a much higher altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100018.html](http://www.nuforc.org/webreports/reports/100/S100018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lanett (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red light not blinking at altitude moving fast then disappearing all at once sfter passing over.red ball moving north to south over lanett, al.  watched from car.  disappeared all at once sfter passing over at speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111156.html](http://www.nuforc.org/webreports/reports/111/S111156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
