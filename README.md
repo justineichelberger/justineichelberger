@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange lights/UFO's over Fresno,Ca near the airport.On July 5th, 2011, at 12.:38 am my son and I were in our backyard talking. we live about 4 miles from the Fresno airport and were watching airplanes and police helicopters in the shy that night.  People have been lighting off illegal firworks and we were watching the show.  As we were looking up, I saw a large triangle craft moving slowly to the south-west towords the airport.  I was standing facing the same direction, when my son spoted another set of lights that looked like bright orbs.  There was 3 of them and moving south-east of our home.  The large triangeled changed colors form white to red to blue then back to white, then started to fly way faster than anything else that was in the shy that night and was out of sight in about 4 seconds.  The orbs also changed color.  Red,white and then back to red. We could see other airplanes flying into the Fresno airport and taking off, but nothing could fly without making a sound.  We waited to see if the Air National Guard would send jets to the area of these objects, but nothing. We have seen other unexplained lights over the greater Fresno/Clovis area for the last couple of months, but nothing like this.  The orbs stayed on the same course, but came together as one light and disapeared straight up.  There were at least 3 helicopters and multiple airplanes that night, but nothing moved or looked like those lights we saw that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82484.html](http://www.nuforc.org/webreports/reports/082/S82484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Niles (IL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Aura ufo near chicagoI was walking down a busy street with my father and girlfriend to see why there was a power outage on the corner of two busy streets in my town as we were returning home i looked up and from left to right a bright oval flash fley by with blue luminesense both my girlfriend and father say it at the same time. We booth stopped and looked at the sky but it was to quick and lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33280.html](http://www.nuforc.org/webreports/reports/033/S33280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
