@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Elk Grove Village (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 29.0 - 29.0 minutes.</sub><blockquote><sub>07-05-2014 red glowing circlesat first we noticed 5 red glowing lights north of us coming from the west.  we calmly observed these objects as a total of 8 emerged.  These objects are not man made due to their movements and color.  Silent, no noise heard from the eight, red, glowing circles. the objects/ufo's are identical in description in the ufo's witnessed in phoenix az.  the objects we witness did not hover in one spot but rather moved around amoungst each other, as they flew dead from the west and shortly as we took notice of them, they changed course, continuing now north as if avoiding chicago international (ORD), and executive (pwk) airports.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111430.html](http://www.nuforc.org/webreports/reports/111/S111430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sister Bay (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 individual white lights, first two lights one after another, last three lights in a triangle formationFirst saw one "light" traveling from the Northeast sky to the south.  Thought it was a plane.  Sixty seconds passed and another light appeared.  Seemed to be following first light.  Still, could not identify blinking light usually found on plane.  All of a sudden, three white lights appeared.  They were flying in a triangle formation.  I knew this was not a commercial plane nor private pilots.  They all disappeared to the south.  The next day I was in a town called Fish Creek.  I was speaking to my step-son about what we saw and a lady said she saw fireballs in the sky the previous night in Fish Creek.  These objects made no noise not any identifying blinking lights as found on planes.  They all travelled at a steady pace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90765.html](http://www.nuforc.org/webreports/reports/090/S90765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
