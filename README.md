@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:59 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Two lights in sky slowly moving west over valley.  Lights would Disappear and reappear. Multiple aircraft hovering/observing objects((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120154.html](http://www.nuforc.org/webreports/reports/120/S120154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chester (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>From our backyard catwalk, I saw an extremely bright white light suddenly appear almost overhead.  My wife and her sister were with me but could not see the small white object probably due to a large tree branch hanging just above them.  At arm’s length, it was approximately one-fourth to one-fifth the size of a pencil eraser, and it was really bright.   After its sudden appearance, it stayed in one spot for five to six seconds, next – it moved to the left about 20 times it width, then, it moved to the right about 40 times its width.  About this time, I tried to get my wife and her sister to see the object – telling them that it looked like a really bright star, but they never saw it.  To get a better view, I got out of my chair and moved away from the over-hanging tree branch.  Just as suddenly as it appeared, it disappeared into the blue.  Total viewing time was 15 to 20 seconds.  What made this sighting a little bit weird was that a large jet airliner flew ! directly into the same area where the UFO had been less than a minute before bringing with it a long, wide contrail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111225.html](http://www.nuforc.org/webreports/reports/111/S111225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
