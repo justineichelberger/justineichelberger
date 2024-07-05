@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Wairoa (New Zealand) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Green craft with a red tail, heading west to east towards the sea.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08606.html](http://www.nuforc.org/webreports/reports/008/S08606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Camden (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange orange circles or discs passing overheadMy wife and I went to a Sting concert at the then named Blockbuster Center in Camden,N.J,  It was a beautiful evening with a crystal clear sky.During the concert Sting had a song where the words in the song were"look up to the sky",so I did and at that time I happened to notice four orange circles or discs,next to each other but staggered, moving in a west to east direction.  At arms length,they were about the size of a dime.I nudged my wife and showed her what I was looking at.  At the same time some other people around us were looking and pointing at them also. They moved at a steady rate of speed to the west til out of sight.  I kept my eyes watching the sky after that and two more times, I don't know if it was the same four or different ones but in similar formations we were passed over again by these orange discs. I searched the papers and the news the next day but nothing was being reported.I never had a sighting before or since this one but I still wonder what they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42439.html](http://www.nuforc.org/webreports/reports/042/S42439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
