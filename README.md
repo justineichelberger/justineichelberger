@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Covina (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>circle on fire hiding behind tree, hovering very low making no noise at all.watching me as i loaded up the family to go to work. have video tape of sighting,need to show someone with knowlege.more than one sighting!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49716.html](http://www.nuforc.org/webreports/reports/049/S49716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red, White and Blue hovering flying object that changed shapes and orientation over a 30 minutes period over North Myrtle Beach, SC.UFO Sighting - July 5, 2013 10:30 - 11:00 PM EST  Three witnesses were on a balcony in Kinston Plantation, North Myrtle Beach, SC.  One witness was gazing out over the ocean and saw a strange set of lights that were rotating in a horizontal circular motion very close to the condo.  She told the other two witnesses to come outside and see this UFO.   They both came right away and saw the same thing.  We ran to get our video camera.  By the time we got back to the balcony, the object had moved horizontally to the southeast of us away from the ocean.  We shot some still pictures and by the time we videoed, it was very small and far away.  However, we noticed there was another red light to the bottom left of the larger set of lights.  After a moment, the smaller light joined the larger set of lights.We looked up the UFO Hotline number and called immediately to discuss next steps.  We were told to give the direction we saw the UFO and describe it.  While we were speaking to them, the UFO moved back toward us Northeast out over the ocean behind our condo out of site for us.   We were then able to video the circular flashing lights that were red, blue and white.  At one point, it changed and took the shape of an angel with the white light coming down in the middle and the red lights on either side.  Sometimes the lights would be circular and rotate horizontally and sometimes they would be solid horizontal red lights.  At other times, the lights would just be blinking.  We were on the phone with the UFO hotline for 8 minutes reporting at starting at 10:42 PM EST. We ruled out human aircrafts that we know of due to the wavy movement of the hovering of the object.   At one point, it was almost like it was standing still but it was making small fast smooth movements left and right and then left and right again.  After standing in roughly one spot for several minutes, the UFO was just hovering in one spot.  We were on the phone with UFO hotline the entire time after it came back in our view and recording video. Just as a note in case you are wondering, there were no drugs or alcohol involved in this sighting.  It is 11:34 PM EST and we are now uploading the untouched video to YouTube for sharing with Director@UFOcenter.com.  The link to view our sighting is as follows:  http://m.youtube.com/#/watch?v=StSVXCc07JM&feature=em-upload_owner&desktop_uri=%2Fwatch%3Fv%3DStSVXCc07JM%26feature%3Dem-upload_owner  If hyperlink does not work go to YouTube and search for UFO Sighting North Myrtle Beach 7.5.13.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99760.html](http://www.nuforc.org/webreports/reports/099/S99760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
