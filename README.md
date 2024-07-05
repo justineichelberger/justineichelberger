@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Downingtown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three orange lights flying in a diagonal lineWitnessed three bright orange lights flying NE.  My girlfriend pointed them out from our back porch saying ("What the heck is that?). The lights kept a consistent equal distance from each other in a diaganol straight line from the top right to bottom left, and flying to our left (NE).  There was a fourth single light that they appeared to be following.  That fourth light looked further away, higher in the sky,  and dim in comparison to the other three.  There was no sound and it was too dark to see if the three lights were somehow connected.  The speed seemed to be about the same as an airplane would fly, but the height looked lower than a plane flying by.Later that evening our neighbor said he saw them too and thought they could be Chinese lanterns.  My girlfriend and I believed they were something different, as they moved right to left in a consistent line with some speed.Before they were out of sight, they dimmed away, and two of them flickered before disappearing.  I've never seen anything like this and do not know what is was.  There was no red, green, or white lights like an airplane.  Only orange round balls of light - strange...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120181.html](http://www.nuforc.org/webreports/reports/120/S120181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in my room and my dad was in his room when he noticed an object in the sky through his window and went to the front yard where my brother, sister, and mom were.  My brother ran to my room to call me outside to see what they were all looking at.  I looked up and saw a bright orange light floating across the sky.  I lost sight of the object behind the trees and it was gone after that.  My sister claims that when she first saw the object it was changing different colors like one that we witnessed a year before on independence day when we were all in the backyard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90717.html](http://www.nuforc.org/webreports/reports/090/S90717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
