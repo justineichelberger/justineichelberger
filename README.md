@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scotland (MD) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two rectangle objects fly over Southern MarylandI was on a pier, on the cheasepeake bay. it was just before midnight. no clouds in the sky, I was admiring the stars when I saw an object in the sky, a rectange shaped object with no light or sound it was only visable because of its brownish color and so many stars in the back ground. It started as one object coming up the horizion from the east it split into two identacle objects an flew side by side with the distance of one craft between them into the west. From the eastern horizion to the western horizion it took 7 to 8 seconds. These object apeared to be a good distance up, if I were to guess the size of the craft I would think at least 10 miles long.It hapened over a large body of water, no clouds in the sky and I had to turn 180 degrees to watch it fly into the western horizion.I would like to know if any one else saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37984.html](http://www.nuforc.org/webreports/reports/037/S37984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ho Chi Minh City (Viet Nam) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>UFO sighting in VietnamVery strange bright light seen in the sky. 1000x brighter than any star. Looked like a worm hole.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76342.html](http://www.nuforc.org/webreports/reports/076/S76342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
