@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Strong contrasting light, quick disappearance2009-07-06 8:30 AM Whitby, ON (Canada)  I saw a strange light that seemed to hover over the townscape, contrasting sharply with the grey sky. Whatever it was, it emitted light, although it was early in the morning. Suddenly, the light disappears in front of my own eyes.I can’t believe what I’m seeing. No one seems to notice the strange, fading dot.Conclusion: Whatever it was, it radiated light unlike an airplane, a pallor probably with a more sinister purpose than communication. It faded away without hesitation, like it knew that it was being watched. It disappeared very quickly although its outline was still large, which means that the object wasn’t flying directly away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70921.html](http://www.nuforc.org/webreports/reports/070/S70921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Saw lights flashing in the sky non-stop for hours, freaked my dog outI was sitting in my living room, and noticed flashing lights outside of my window.  At first I assumed it was just lightning, but lightning usually doesn't flash non-stop for hours at a time.  I walked outside to find the source of the flashing light, thinking maybe it was a tow truck or something.  Upon walking outside, there was no apparent source of the flashing lights.  I looked up but clouds were blocking any chance of me being able to distinguish what was causing the flashing.  My dog, who usually runs to the door when asked if she wants to go out, refused to leave the house, even when bribed with treats.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134999.html](http://www.nuforc.org/webreports/reports/134/S134999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
