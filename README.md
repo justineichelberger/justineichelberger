@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:10 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:10 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Five circular bluish-white objects moving north to south, 3 first followed by two more in a vertical pattern.On the evening of Saturday July 6, 2002 at about 9:45 pm 3 objects were seen traveling in a nearly vertical pattern (the topmost of the three was lagging a slight amount).  They were moving from north to south at an inclination of about 35 degrees from the horizontal.  There was no sound heard, they stayed in the same relative position to one another as they traveled across the sky.  Their size was hard to determine, if a star were 1/8 inch, these were about an inch and a 1/4.  Their color was a bluish white with a brighter halo about 1/16 inch (using the same relative sizing) of a brighter and bluer color.  They moved southerly and then seemed to go further east and upward until they were lost to sight.  A glance to the north found two more identical objects which followed the same trajectory as the first three.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23956.html](http://www.nuforc.org/webreports/reports/023/S23956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.5 - 3.5 minutes.</sub><blockquote><sub>Unconventional Object Over Los Angeles, Ca.I was standing outside on my back porch just peering to the night sky when I notice a faint light that kind of looked like a satellite at first glance. I then noticed that this object has it was traveling through the night sky appeared to be lowering in altitude because it got larger and brighter in appearance. In fact the object seemed to be at that moment a falling star that’s how bright it became, and just has quick has it became large and bright, the object became smaller in size and then dimmed out like it was gaining altitude again then became the same size and color, and brightness has it was when I first thought it was a satellite. The object began to slow down and the stopped completely for not more than a few seconds then disappeared like it just began to do a vertical climb in altitude. I lost sight of the object within 3-5 seconds... I knew it could not have been a satellite because satellites do not fall & rise in altitude and become has bright has a falling star, and they do not come to a complete stop & then do a vertical altitude climb, and within a few seconds disappear out of sight. The object also had no navigation lights such has the normal red, and green that all conventional aircraft including military air craft exhibit. This object was very strange in that it did not look like anything remotely conventional or terrestrial including in the way it maneuvered in the night shy. The closest resemblance was that of a falling star, and even then it broke the rules of a falling star, has it began to fall then immediately got very bright then started to do a vertical climb then stop then climb again within a few seconds completely out of sight... End.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70935.html](http://www.nuforc.org/webreports/reports/070/S70935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
