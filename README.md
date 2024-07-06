@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Stokes County (NC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed object moving rapidly across the sky. Very bright lights, I could easily see a distinct > shape.I live in a great place for star gazing far away from any city lights. I don't smoke in the house so I sit on the steps out front and look at the stars. Approx. 3 weeks ago I was watching a very bright star when it started to MOVE! I opened the door and excitedly asked my roommate to get my binoculars. We observed the object for approx. 5 minutes until it dipped down below the tree line. Last night the same thing happened and we were laughing about our UFO, wondering what was so interesting in that same area to bring it back. We both called it a UFO simply because we could not identify it. That observation was only for a little over a minute.  BUT, tonight as we were both having the pre-sleep cigarette, I noticed movement to my right, not in the same location as before but close, it was huge and moving very quickly off to the side of the house. We both could see the shape very clearly, but retrieved the binoculars again for a better look. V shaped with 2 white lights on each end and one white light in the middle.  The sound was an odd low hum. Surprising to me because on the other two occasions I had not been aware of any sound. (Possibly because it was not as close previously as it was tonight? I don't know.) There was a reddish glow coming from somewhere on the craft but I could not pinpoint it due to the intensity of the whites. We watched it pass by the side of the house and back beyond the trees.  Duration? I'm not sure, possibly a minute, I was too overwhelmed to have any real feeling for how long I watched it. Definately time to buy a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08271.html](http://www.nuforc.org/webreports/reports/008/S08271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Davenport (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>1 singular light occurred and then approximately about 10 minutes late another appeared to the right of it and 5 minutes after that one appeared another light did to the left and formed a V or triangular shape and these lights kept fading in and out, still currently doing so as I post this.  The color of whatever these are  were white a bright shimmering white that faded in and out and kept moving from left to right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111241.html](http://www.nuforc.org/webreports/reports/111/S111241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
