@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hopedale (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large solid Light wittnessed in the wetlands behind my house down a path,along the Charles( Dense woods)Well, It was last night around 10pm... I had just gotten out of my pool to bring my dog out to go to the bathroom .. He was barking quite a bit at the window ,which isn't rare, But for that time of night with no squirrels to see,  It was a bit odd.  Took him down a path down in our woods that runs along the Charles river wetlands..  Around the bend I noticed the light which had a shape to it but couldn't quite make it out...  There were trees blocking a defined view..  But behind the trees and brush, It is a very large opening ,roughly 5 football fields … The grass is tall in the wetlands and could see the object through the grass and it was def silent and solid...I could here the grass moving as it continued its path/coarse..I throw a large stick in its direction(my dog was barking quite a bit at this point)And the light dimmed before the stick reached...I stood and watched..  Several min, maybe 2 min later ,the light came back on maybe 3oo yards out (It had moved! quite a bit) but the light wasn't as bright as before.....I was about a half a mile from my house at this point, with no flashlight and dense woods, besides the path I was on...  I took off quick on foot at that point..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99944.html](http://www.nuforc.org/webreports/reports/099/S99944.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Stokes County (NC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed object moving rapidly across the sky. Very bright lights, I could easily see a distinct > shape.I live in a great place for star gazing far away from any city lights. I don't smoke in the house so I sit on the steps out front and look at the stars. Approx. 3 weeks ago I was watching a very bright star when it started to MOVE! I opened the door and excitedly asked my roommate to get my binoculars. We observed the object for approx. 5 minutes until it dipped down below the tree line. Last night the same thing happened and we were laughing about our UFO, wondering what was so interesting in that same area to bring it back. We both called it a UFO simply because we could not identify it. That observation was only for a little over a minute.  BUT, tonight as we were both having the pre-sleep cigarette, I noticed movement to my right, not in the same location as before but close, it was huge and moving very quickly off to the side of the house. We both could see the shape very clearly, but retrieved the binoculars again for a better look. V shaped with 2 white lights on each end and one white light in the middle.  The sound was an odd low hum. Surprising to me because on the other two occasions I had not been aware of any sound. (Possibly because it was not as close previously as it was tonight? I don't know.) There was a reddish glow coming from somewhere on the craft but I could not pinpoint it due to the intensity of the whites. We watched it pass by the side of the house and back beyond the trees.  Duration? I'm not sure, possibly a minute, I was too overwhelmed to have any real feeling for how long I watched it. Definately time to buy a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08271.html](http://www.nuforc.org/webreports/reports/008/S08271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
