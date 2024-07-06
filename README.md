@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ajax (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25-30 - 25-30 minutes.</sub><blockquote><sub>One large dark circle silently flying  across the night sky.  The opposite side of the direction of travel of the circle had an orangey fire burning.  No other lights on the craft. Flying at an altitude that a small aircraft would travel at approx. the same speed.  No reports of any hot air balloons, or planes catching fire in the area.  Did not leave a trail and flame on the backside seemed to be flickering and changing in size.  At times seeming to take up a larger portion of the circle.  Lights in the house flickered minutes later after the object had travelled out of sight.  Witnessed it in the backyard and flew in a north east direction over the house.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111132.html](http://www.nuforc.org/webreports/reports/111/S111132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hopedale (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large solid Light wittnessed in the wetlands behind my house down a path,along the Charles( Dense woods)Well, It was last night around 10pm... I had just gotten out of my pool to bring my dog out to go to the bathroom .. He was barking quite a bit at the window ,which isn't rare, But for that time of night with no squirrels to see,  It was a bit odd.  Took him down a path down in our woods that runs along the Charles river wetlands..  Around the bend I noticed the light which had a shape to it but couldn't quite make it out...  There were trees blocking a defined view..  But behind the trees and brush, It is a very large opening ,roughly 5 football fields … The grass is tall in the wetlands and could see the object through the grass and it was def silent and solid...I could here the grass moving as it continued its path/coarse..I throw a large stick in its direction(my dog was barking quite a bit at this point)And the light dimmed before the stick reached...I stood and watched..  Several min, maybe 2 min later ,the light came back on maybe 3oo yards out (It had moved! quite a bit) but the light wasn't as bright as before.....I was about a half a mile from my house at this point, with no flashlight and dense woods, besides the path I was on...  I took off quick on foot at that point..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99944.html](http://www.nuforc.org/webreports/reports/099/S99944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
