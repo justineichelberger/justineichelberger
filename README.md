@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Milford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation over New Milford, CT.On July 6, 2013, at 10:00 p.m., eight eye witnesses saw....... a caravan of unidentifiable flying vehicles in the Northville corridor of Litchfield County over Route 202 in New Milford, CT....... Unfortunately, no one had a camera.  The vessels that approached above the trees were flying in a one up one down, perfectly synchronized formation with a bright, iridescent, glowing orange ring at each angle with brown tentacles illuminating from each ring.   This unidentifiable fleet of ships silently came out of the north from the Marbledale area of Route 202 (Litchfield Rd) and exited going east in New Milford toward Washington.  Only minutes later, another caravan of six orange lights appeared just above the trees.  It was huge, there was one group of three in a triangular formation, and they hovered only momentarily tilted in flight showing off the beauty in the triangular shape, then continued to move and went as fast as they came.  Our group of eight, spooked eye witnesses, is baffled, not just sure how to explain the incident, and would like to know if anyone in the Marbledale, New Milford, New Preston or Washington area also reported the sighting?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99982.html](http://www.nuforc.org/webreports/reports/099/S99982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Boundary Waters Canoe Area (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>4 sets of light lines moving at 50 degree angles on the horizon; one appeared to have a bright light off one end.After watching the sunset, we noticed a strange phenomena in the afterglow light. There were 4 sets of light/lines across the sky each at an angle of 50 degress or so. At first we thought they might be jet contrails, but they were very defined, without any broken up pattern in the line like contrails leave. Two of us watched the lights and called the other 2 in our group to observe. They moved at the angle they were pointed in, slightly downward and then one moved out of sight. Another appeared to move out of sight and then it started going upward in the same angle and another one above it moved downward, maintaining the same amount of space from each other as they traveled in opposite directions. One line had a bright light off the end of it that appeared briefly. Finally after about 20 or so minutes the light lines disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44890.html](http://www.nuforc.org/webreports/reports/044/S44890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
