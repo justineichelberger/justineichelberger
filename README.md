@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beaver Dam (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>"star" like lights across the sky....We had gone to Mesquite, NV, just to get away for a couple of days, and taken our 5 kids.  We joked about Area 51 being nearby, and how we should go "UFO hunting" when it got dark, and my husband really went for it!  We drove up the 15 Freeway, past the Arizona border, to get away from all the city lights, and got off the next exit up, about 10 miles north of Mesquite, it was called Beaver Dam, AZ.  We went up a road, about 3 or 4 miles, looked as if it was a back route to St. George, UT.  Cars would pass by maybe every 15 or 20 mins...As it got fully dark, my husband and I, are our two older sons, got on top of our van, and just started stargazing.  There was a bit of a lighting storm off to the west, miles away...over what had to be the Nellis/Area 51 area...we watched a bit of that...but directly over us was just a few clouds, lots of stars.What we saw, we thought was a star, it seemed very high up, but seemed to be going very fast.  Then another and another... every several minutes, we'd see another. They'd go in different directions, always silent, most seemed very high up.  Several planes were going by, but they had strobes,and the different colored lights on them, these were just white like stars in the distance.  We watched for irrational patterns, but all seemed to go in straight lines, or only turn slightly. The most at one time we saw was 3, and ONE was different than the rest...it seemed very LOW, the light was very bright, it came from the west, moving east, and went right over us.  You could see no shapes, hear no noise..just a light, it turned to go more toward the south, and then just disappeared...  we'd watch them all until they'd fade out that way.We hung out about 2 hours...counted 9 of them...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51262.html](http://www.nuforc.org/webreports/reports/051/S51262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ajax (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25-30 - 25-30 minutes.</sub><blockquote><sub>One large dark circle silently flying  across the night sky.  The opposite side of the direction of travel of the circle had an orangey fire burning.  No other lights on the craft. Flying at an altitude that a small aircraft would travel at approx. the same speed.  No reports of any hot air balloons, or planes catching fire in the area.  Did not leave a trail and flame on the backside seemed to be flickering and changing in size.  At times seeming to take up a larger portion of the circle.  Lights in the house flickered minutes later after the object had travelled out of sight.  Witnessed it in the backyard and flew in a north east direction over the house.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111132.html](http://www.nuforc.org/webreports/reports/111/S111132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
