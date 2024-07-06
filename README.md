@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>a boomerang shaped object moving northwest to the southeast over salt lake city.I arrived at the Institute of Religion on 1535 South Edison in Salt Lake City at 11:14 pm and was getting out of my car when I seen an object through the sun roof.  I got out of the car and looked up to see a Boomerang Shaped Object moving from the Northwest to the Southeast. I watched as it moved about a mile and sliped out of site. The Object did not have any lights on it but reflected light from the ground and did not make a sound.((NUFORC Note:  One of several reported sightings from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13341.html](http://www.nuforc.org/webreports/reports/013/S13341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange "fireball" over bloomfield during Gallery CrawlBright orange orb moving over Bloomfield heading in a Southwesterly direction.  Looked like it was on fire.  Must've been moving fast because it shrank in size quite quickly as we ran to see it's flight pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90600.html](http://www.nuforc.org/webreports/reports/090/S90600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
