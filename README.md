@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 5 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in my room and my dad was in his room when he noticed an object in the sky through his window and went to the front yard where my brother, sister, and mom were.  My brother ran to my room to call me outside to see what they were all looking at.  I looked up and saw a bright orange light floating across the sky.  I lost sight of the object behind the trees and it was gone after that.  My sister claims that when she first saw the object it was changing different colors like one that we witnessed a year before on independence day when we were all in the backyard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90717.html](http://www.nuforc.org/webreports/reports/090/S90717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it changed colers it went from bule to red to green to yellow i thot it wus a airplane but it wus silent but not like a night hawki wus siting on my roof when i saw a object come from the S i thot it wus a airplane but i could not hear n e thing when it started to spead up then it went over my head it changed colers it wus a triangerler shaped object the colers changed 2 bule red green and yellow the went back to blue.((NUFORC Note:  No other reports received from this area to confirm this student's report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29568.html](http://www.nuforc.org/webreports/reports/029/S29568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
