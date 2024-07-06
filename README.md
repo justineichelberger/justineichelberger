@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salida (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light with no sound passed above usWe were laying around a camp fire just northwest of salida when my buddy pointed something up at the sky.When I looked up I saw a bright light which looked like venus during sunset, or sunrise moving across the sky. My first thought is to look for the typical signs of an airplane. Flashing lights, and the typical sounds you hear when a plane is flying overhead. Well none of these were there and as this light passed over us there were three other lights behined this that were i guess you could call it sparkling. Again there was no noise. All of a sudden these lights were gone as soon a they appeared. About a minute later an actual airplane flew over with all signs of an airplain. Strobe lights and the sounds of the engiune. Pretty much confirming what we saw before that was not normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71060.html](http://www.nuforc.org/webreports/reports/071/S71060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seekonk (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 objects in "V" pattern on I-195 East in Massachusetts.I was a passenger in a car driving on I195 East in (I believe) Seekonk, MA, & what caught my eye were 2 straight white bands across the sky, typically made by airplane fuel.  All of a sudden, in between those bands & at a great distance, I saw 5 objects in a "V" pattern, then for about 5 seconds (size of the objects looked like "dots" in the sky) glowed briefly (few seconds) as if they were hit by the sunlight & just as I was watching this the 5 objects suddenly disappeared.  I looked around for about 10-15 minutes to see if I could spot them again, but did not.  I am not sure what I saw, not sure if any military bases in that area, as objects were at an extremely high altitude, I did not hear any sounds or noise from objects either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111305.html](http://www.nuforc.org/webreports/reports/111/S111305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
