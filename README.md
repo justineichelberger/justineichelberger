@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Boundary Waters Canoe Area (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>4 sets of light lines moving at 50 degree angles on the horizon; one appeared to have a bright light off one end.After watching the sunset, we noticed a strange phenomena in the afterglow light. There were 4 sets of light/lines across the sky each at an angle of 50 degress or so. At first we thought they might be jet contrails, but they were very defined, without any broken up pattern in the line like contrails leave. Two of us watched the lights and called the other 2 in our group to observe. They moved at the angle they were pointed in, slightly downward and then one moved out of sight. Another appeared to move out of sight and then it started going upward in the same angle and another one above it moved downward, maintaining the same amount of space from each other as they traveled in opposite directions. One line had a bright light off the end of it that appeared briefly. Finally after about 20 or so minutes the light lines disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44890.html](http://www.nuforc.org/webreports/reports/044/S44890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kulpmont (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Driving home from Wal-Mart and noticed bright orange circle in the sky.   It stayed in the same location for our five minute drive home and then took a 90 degree turn.  Once we arrived at our home, we observed the object in the sky for several more minutes.  The object did not move and continued with an orange glow.  After several minutes it faded away and was gone.  This could not have been a meteor, plane, helicopter, satellite, or the space station as it stayed stationary for approximately 15 mins.  This object was extremely unique and unlike anything we have ever seen in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76265.html](http://www.nuforc.org/webreports/reports/076/S76265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
