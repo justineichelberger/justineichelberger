@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Warner Springs (near) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tailgating vehicle disappears.While travelling east on Highway 79, another vehicle came up from behind and began tailgating me at 65 mph.  I slowed to 50mph to express my dissatisfaction with this miscreant.  That didn't work so slowed again to about 40 mph.  Then the "headlights" from his vehicle just disappeared.  I thought that he had foolishly shut them off, so I slowed to a near stop and carefully searched my rearview mirror.  There was a moon, so I could see well.  There was no vehicle and I am certain that it did not leave the road as this is cattle country with fencing coming all the way up to the shoulder.  There is only one dirt driveway in this area, but I was not upon that.  There are no trees or bushes along this road to hide a car.  The vehicle did not pass nor turn around, it was just gone.((ADDENDUM FROM WITNESS))Peter, they were normal headlights though perhaps a little closer together than normal, maybe like a smaller car. Also there was a vehicle coming from the opposite direction at the moment these lights disappeared. That vehicle continued on as would be expected.Now the extra weird part.  There was no way I would put this into the body of the report.  I have both heared and read of unusual animal sitings occuring at the same momet as a (UFO) siting, esp dog-like animals.  Well...just in the seconds prior to this vehicle's disapperance, an animal that appeared to be a hairless coyote (Mange?) was observed at the side of the road, sitting on its hind legs sort of leaning against a fence post as if waiting for something, maybe just to cross the road.It was at this very spot that the headlights "extinguished".  I am quite certain that the "vehicle" did not pull over here.  As I said I could see clearly in this moon.I am not asserting that this animal was anything but what I perceived it to be..but...it just looked so odd and was at the exact spot the "phenomenon lights" disappeared.  These lights were less about 10 feet behind me.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135002.html](http://www.nuforc.org/webreports/reports/135/S135002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scotland (MD) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two rectangle objects fly over Southern MarylandI was on a pier, on the cheasepeake bay. it was just before midnight. no clouds in the sky, I was admiring the stars when I saw an object in the sky, a rectange shaped object with no light or sound it was only visable because of its brownish color and so many stars in the back ground. It started as one object coming up the horizion from the east it split into two identacle objects an flew side by side with the distance of one craft between them into the west. From the eastern horizion to the western horizion it took 7 to 8 seconds. These object apeared to be a good distance up, if I were to guess the size of the craft I would think at least 10 miles long.It hapened over a large body of water, no clouds in the sky and I had to turn 180 degrees to watch it fly into the western horizion.I would like to know if any one else saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37984.html](http://www.nuforc.org/webreports/reports/037/S37984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
