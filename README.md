@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Davenport (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>1 singular light occurred and then approximately about 10 minutes late another appeared to the right of it and 5 minutes after that one appeared another light did to the left and formed a V or triangular shape and these lights kept fading in and out, still currently doing so as I post this.  The color of whatever these are  were white a bright shimmering white that faded in and out and kept moving from left to right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111241.html](http://www.nuforc.org/webreports/reports/111/S111241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Traverse City (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three orange "fire balls" move slowly and then fade out.Around 11 pm on Saturday night, my husband and I observed 3 orange balls of light in the night sky.  It was a clear night with many stars out, but these were bright orange, not stars.  At first, we thought they were planes, but they were too close together and all traveling at the same speed going in the same direction.  The middle one then blinked a bit and disappeared.   The other two followed suit.  They did not return, and no shadows were seen after the lights went out. No other orange lights were observed that night, we stayed out for another two hours.  We have many planes that fly around us in our area, but these were not planes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99803.html](http://www.nuforc.org/webreports/reports/099/S99803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
