@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Standing in my driveway, I looked up in the sky towards the north west, saw what I thought might be a landing light for a commercial jet, the sky was extreamly clear. I continued to watch realizing it was not a jet, no navigation lights as well as being way too bright, the object was heading south east and passed directly over my house. I ran inside to tell my wife and daughter to come outside and look, the three of us watched as the object dissapered over the trees. The brightness of the object never changed, it was just as bright comming at us as it was going away from us, WOW, please tell me someone else saw this! It is hard to guess the altitude other than to say it was pretty low, however we could not hear any engin noise. I would sure love to know what we just saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51258.html](http://www.nuforc.org/webreports/reports/051/S51258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A flying white and red flashing saucer flew over my houseI was looking out the window at about 11:50 pm july 7th 2008. i saw a flying saucer type thing. it hade white lights around the base and on the bottem it had red lights. It was just a saucer flying over my backyard. im freaked out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64406.html](http://www.nuforc.org/webreports/reports/064/S64406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
