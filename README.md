@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Grays up in my FACE!I actually saw a Gray up in my face when I was in high school from 1995 through 1999.  I'm 28 years old now.  They Gray had slanted eyes and words can't describe the skin.  I just know it glowed like the moon times 5. Well, it showed up right next to my face and I flipped over to look up at the ceiling because my heart was pounding like it was gonna explode out my chest because I was so scared at the time and then it was gone when I looked over.  Don't know what it wanted from me because I ain't got nothing it wants. Never heard or seen from it again.  Didn't know who to report it too at that time so was just a memory. Just watched 4th kind and it sparked answers.That's all I remembered.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73471.html](http://www.nuforc.org/webreports/reports/073/S73471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Greenup (near) (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a huge cigar like metalic object that seemed to hang in the sky directly over the tree tops!After 20 years I can't be sure of the exact date, however when I was shown the news article in the Matton Journal Gazete the news of the Jonestown Mass Killing was in the paper.Here goes the story:  My boyfriend and I along with his boxer dog we in my car driving down to greenup to visit his little boy.  As we were approching a little curve in the road there right above a small stand of trees at the edge of the field was this huge object.  I have always said that it reminded me of a large type of metal thing (long enough be hovering over and entire stand of woods)that just seemed to be pasted on the sky.  There was not a sound.  I just hung there right above the tree tops.  As, we moves toward it I could clearly see a row of light. This is how I was able to know that the craft was stationary-as the car moved around the curve I was turning and could see the lights beening out of sight as we came "behind" it on the back side of the curve. (there was lights there also. As I was looking behind me I noticed that the dog was staring at it too!  We drove on not saying anything at all for a few minutes and my boyfriend asked,"Did you just see something back there?"  I said yes. He said,"what did you think you saw"?   I said, "you tell me what you saw first".  We had this back and forth exchange for awhile before we talked about it because neither wanted the other to think them nuts!  He did see it too.  The rest of the evening we both felt as if we were in a dream like state.  I tried to call the Mattoon air port I didn't get an answer.  The next day my boyfriend brought me the paper and there had been several sightings that night.  One in Terra Houte, Indiana, and another in Decatur I think.  Any how I do not know what it was but I am positive of what I saw.  I haven't seen anything like it since.  ((initials deleted))((NUFORC Note:  Date man by approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33641.html](http://www.nuforc.org/webreports/reports/033/S33641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
