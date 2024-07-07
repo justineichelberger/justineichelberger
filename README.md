@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Fireball Over Vancouver BC, Pacific Northwest.I am a 28 year old professional Administrator. During the wee hours on Saturday morning July 7th approx 4:20 am, I was making overseas telephone calls and gazing out my east facing windows. I live on the 18th floor and have an unobstructed view of the mountains to the northeast, Burnaby City, and Mt. Baker. It was a clear crisp evening and I was looking directly out the window when I witnessed a huge fireball approx. 1/2 the size of the hay moon that evening. It streaked in an arch from  south to northeast for approx 6/7 seconds appearing to be directly over Burnaby (Although probably farther past) Judging by the size and the intensity (Red/Orange with short trail) My first thought was that it might have hit either mid BC or into the rockies??? I was unable to get any information on it the next day and local news desks received nothing over their wires? I've asked just about every night-owl and insomniac I know and no one observed it. I'm quite certain this was not the Linear A2 commet due to its size and visibility. It was stunning!...Anyone??!!!((NUFORC Note:  No other reports from Vancouver.  Local astronomers did not pick it up on their sky cameras on Gabriola Island or in Victoria.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18345.html](http://www.nuforc.org/webreports/reports/018/S18345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Grays up in my FACE!I actually saw a Gray up in my face when I was in high school from 1995 through 1999.  I'm 28 years old now.  They Gray had slanted eyes and words can't describe the skin.  I just know it glowed like the moon times 5. Well, it showed up right next to my face and I flipped over to look up at the ceiling because my heart was pounding like it was gonna explode out my chest because I was so scared at the time and then it was gone when I looked over.  Don't know what it wanted from me because I ain't got nothing it wants. Never heard or seen from it again.  Didn't know who to report it too at that time so was just a memory. Just watched 4th kind and it sparked answers.That's all I remembered.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73471.html](http://www.nuforc.org/webreports/reports/073/S73471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
