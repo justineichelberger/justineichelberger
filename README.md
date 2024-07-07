@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>((NUFORC Note:  This report is strongly suggestive to us of a satellite in polar orbit.  The observer apparently is not familiar with satellites that have polar orbits.))What looked like a star was moving to the north for a duration of 15 seconds before being blocked out by some high clouds.My name is ((name deleted)) and at approx. 2315 on 7-7-99 while I and a co-worker were standing in the parking lot of Mercy Franklin Hospital in Des Moines, Iowa, I was watching the night sky.  The sky was mostly clear with the temperature in the mid 70's.  I was looking to the west and observed a passenger jet making a low level approach towards the south to the Des Moines International Airport.  Shortly after the plane passed I observed what looked like a white star higher in the sky.  It was at this time that I also noticed that the star was moving to the north.  I pointed out the object to my co-worker and he stated that it was probably a satellite.  I continued to watch the object until it was blocked out by some high light clouds.  As the clouds passed by I was unable to pick up the moving object again. Having observed stars and a planet that night I noted that the object did not twinkle like the other stars and it did not have flashing lights on it like aircraft would have.  I was unaware that we would have satellites going from south to north and not in a geocentric orbit. The Big Dipper constellation was visable and the object passed just under this constellation as it passed to the north. I work as a security officer for ((facility deleted)) in Des Moines, Iowa.  I have a B.S. degree in Wildlife Biology from Michigan State University and a couple years of Post Graduate work in Wildlife Management from Frostburg State College in Frostburg, Maryland.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08290.html](http://www.nuforc.org/webreports/reports/008/S08290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Oak Park (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>After hovering motionless for hours, a mysterious arial light performs aerodynamically impossible maneuvers.It was a warm summer night and I was up with my mother and visiting neighbors who lived in our apartment building. As everyone started leaving around 10:30, I accompanied them out the front door onto the patio. Someone looked up into the clear night sky and asked, "What's that?" Looking up, we saw a large very bright white light hovering motionless at a fairly high altitude. From each side protruded bright, stubby appendages of light that gave the appearence of wings, as in the classical Egyptian "winged-disk" symbol. We watched it for over 5 minutes, when suddenly it began to move. After travelling in a straight line, it abruptly began making a series of rapid acute-angle turns as if tracing out a complex geometrical pattern. After a minute of this, the light resumed a straight line trajectory and travelled out over Lake Michigan. The next day, the Chicago Sun Times ran a front page story complete with a photograph, stating that the mysterious light had been observed for several hours.((NUFORC Note:  Date is approximate.  We will attempt to obtain the news article from the Chicago newspaper mentioned.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30300.html](http://www.nuforc.org/webreports/reports/030/S30300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
