@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Oak Park (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>After hovering motionless for hours, a mysterious arial light performs aerodynamically impossible maneuvers.It was a warm summer night and I was up with my mother and visiting neighbors who lived in our apartment building. As everyone started leaving around 10:30, I accompanied them out the front door onto the patio. Someone looked up into the clear night sky and asked, "What's that?" Looking up, we saw a large very bright white light hovering motionless at a fairly high altitude. From each side protruded bright, stubby appendages of light that gave the appearence of wings, as in the classical Egyptian "winged-disk" symbol. We watched it for over 5 minutes, when suddenly it began to move. After travelling in a straight line, it abruptly began making a series of rapid acute-angle turns as if tracing out a complex geometrical pattern. After a minute of this, the light resumed a straight line trajectory and travelled out over Lake Michigan. The next day, the Chicago Sun Times ran a front page story complete with a photograph, stating that the mysterious light had been observed for several hours.((NUFORC Note:  Date is approximate.  We will attempt to obtain the news article from the Chicago newspaper mentioned.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30300.html](http://www.nuforc.org/webreports/reports/030/S30300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue floating orb.Blue orb floating over Windsor Park. Behaved like a balloon in the wind but was glowing blue from a central light source. Could not detect altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111325.html](http://www.nuforc.org/webreports/reports/111/S111325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
