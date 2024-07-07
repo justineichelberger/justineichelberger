@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 6 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange "fireball" over bloomfield during Gallery CrawlBright orange orb moving over Bloomfield heading in a Southwesterly direction.  Looked like it was on fire.  Must've been moving fast because it shrank in size quite quickly as we ran to see it's flight pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90600.html](http://www.nuforc.org/webreports/reports/090/S90600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alameda (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw green flashing or lightning twice in a minute.  I woke up and saw 2 flashes.I was sleeping and I woke up at the exact moment I saw green lightning (or a green flash) coming from the bay window over my head.  I was startled because I had seen this same EXACT thing last year.  It was green flashing or lightning.  I waited for maybe 10 seconds... wide away at this point and saw it again, clear as day... bright green flashing, with a hot white center. It seemed to be right over Alameda...or even my house.  I have waited a day for any news of power outages (down transformers that could've blown... no storms at all though). I have tried to find news of meteor showers in the area, and no info is available.  It's just an eerie mystery and it has me perplexed.  Also, it was silent..... both times (and my window is open for a breeze)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128370.html](http://www.nuforc.org/webreports/reports/128/S128370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
