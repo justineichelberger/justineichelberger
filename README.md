@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:49 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:36 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in London (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At 9:30pm July 7th, 2009 I saw a silent black craft with a red light on the bottom.At 9:30pm I noticed a black circular object with a glowing red light on the underside. It made no sound and remained in one place. I asked my wife to come and see, and she agreed that it was not a normal object. She went to get the camera, and as i was focusing to take a picture it zipped quickly north and then very fast took off west and out of sight. It appeared to be about 150ft away and 50 feet up. IT WAS AWESOME! This is the first time I have ever seen anything in the sky that could not be explained.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70956.html](http://www.nuforc.org/webreports/reports/070/S70956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Countryside (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Red lights slow moving and then moved into the clouds.On my way with my girlfriend to get a late dinner, she asked me, "What kind of airplanes are like that?"I looked up after being on my phone to what I thought would be a normal jet.  What I saw was 2 small lights redish and they stayed the same distance from each other and moved very slow below the low cloud cover. I just kept looking thinking to myself, "Aren't they supposed to keep the flashing lights on at that altitude?"Just a bit after a jet at the same altitude as them flew by with all the lights on. Shortly after the moved up into the cloud cover. I've never seen anything like that... Gives me goose bumps thinking about it... Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99815.html](http://www.nuforc.org/webreports/reports/099/S99815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
