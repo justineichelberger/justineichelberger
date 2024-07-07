@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pointe Claire (Canada) (PQ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>I was stargazing by river,3 AM,saw a very bright meteor trail,lasted 1.5 secs,,prob is ,it took a quick turn and vanished.I was stargazing by the river, July 7 ,3 AM.I saw what I thought was a very bright meteor.It was very hight up and  incredibly fast. It only lasted 1.5 secs...The problem is that it didn't  move like a meteor.   It did a fishhook move and was gone. One thing I do know is that meteors don't change direction.The tail (?) was so bright. and much thicker than a reg. meteor as well. location,,,45 N 26'   ,,73 W 50'   ,,,looking south,,,60 degrees ALT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13396.html](http://www.nuforc.org/webreports/reports/013/S13396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>((NUFORC Note:  This report is strongly suggestive to us of a satellite in polar orbit.  The observer apparently is not familiar with satellites that have polar orbits.))What looked like a star was moving to the north for a duration of 15 seconds before being blocked out by some high clouds.My name is ((name deleted)) and at approx. 2315 on 7-7-99 while I and a co-worker were standing in the parking lot of Mercy Franklin Hospital in Des Moines, Iowa, I was watching the night sky.  The sky was mostly clear with the temperature in the mid 70's.  I was looking to the west and observed a passenger jet making a low level approach towards the south to the Des Moines International Airport.  Shortly after the plane passed I observed what looked like a white star higher in the sky.  It was at this time that I also noticed that the star was moving to the north.  I pointed out the object to my co-worker and he stated that it was probably a satellite.  I continued to watch the object until it was blocked out by some high light clouds.  As the clouds passed by I was unable to pick up the moving object again. Having observed stars and a planet that night I noted that the object did not twinkle like the other stars and it did not have flashing lights on it like aircraft would have.  I was unaware that we would have satellites going from south to north and not in a geocentric orbit. The Big Dipper constellation was visable and the object passed just under this constellation as it passed to the north. I work as a security officer for ((facility deleted)) in Des Moines, Iowa.  I have a B.S. degree in Wildlife Biology from Michigan State University and a couple years of Post Graduate work in Wildlife Management from Frostburg State College in Frostburg, Maryland.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08290.html](http://www.nuforc.org/webreports/reports/008/S08290.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
