@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Wautoma (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A very close encounter with a UFO; right at the back window of my 1960 Corvair.UFO  June-August 1964 or 1965  At 9:30pm I went to a "parking" place with my girlfriend, about five miles southeast of Wautoma, WI.  Soon after arriving we noticed a light moving across the sky.  We watched and commented how it must be an airplane, but we thought it should somehow have different lighting.  It was a steady white light not unlike a star, except it did not "twinkle" like a star. As we followed the light across the sky we fully expected it to disappear below the horizon.  It did not.  The light circled around behind us and then disappeared below the horizon.  The area behind us was flat for several hundred feet and then rose ten to twenty feet or so.  While still watching where the light had disappeared, the light reappeared, still behind us relatively in the same area it disappeared.  It might have been several yards to the right in the clockwise circle it had started to make.  The light circled around us in a clockwise fashion very slowly for many minutes, sometimes disappearing below the horizon/rise behind us, always coming back up circling. At some point after reappearing from the horizon/rise behind us, the light dipped into a grove of trees to the left of the driver’s side of the car. Note:  Up until then I was under the impression the light was either up with the stars or at least up there somewhere with jets. The trees were about a hundred yards away.  We could see the light going through the trees!  It came out, circled, disappeared behind us, and went into the trees a dozen times or so. The last experience occurred when the light had again disappeared below the horizon/rise behind us.  We were looking for it to reappear when it flashed at our back window.  The object/light seemed to take up only half or less of the back window.  (1960 Corvair, 4 Dr)  It was there for only a second.  The light did not hurt my eyes.  There was never any sound associated with the event.  The object/light’s departure was instantaneous, not to be seen again.  The event lasted about twenty minutes.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62166.html](http://www.nuforc.org/webreports/reports/062/S62166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Barrington Hills (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>pinpoint of light moving SSE, became brilliant with a flash, picked up speed and disappeared.  Very high altitude. Clear starry night.college degree, BS in education. Former teacher. Now nightwatch on Thoroughbred farm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08282.html](http://www.nuforc.org/webreports/reports/008/S08282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
