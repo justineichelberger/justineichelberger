@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:28 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Clementon (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fighter Jets chasing UFO across New JerseyWhile doing a delivery to a location in Clementon I happend to look up and saw a Jet contrail, then another and another.  I saw they were all interseting.  I followed to the Jets and saw that the lead jet has something in front of it.  The jets were relatively low and saw there were 4 of them.  The thing in front of the lead jet was light pink in color and was in an almost hour glass shape. At this point I ran into the building to get someone else out side to see it and when I had come back I saw the jet going behind clouds.  By time I could make out the jet again it was to small to see any thing other then the contrail.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46709.html](http://www.nuforc.org/webreports/reports/046/S46709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Replot Bridge (Finland) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I have a WebCam program that shows images from around the world and I look at different sites everyday.  I saved this image of the Replot Bridge in Finland as it appeared to be a nice picture.  Now, as I have looked at it more than once, there appears to be something in the sky that is unusual.  At first I thought it might be a cloud, but on further examination  I question that assumption.  If you want, I can send the "jpg" file for your examination.  It may be nothing, but perhaps you can determine otherwise. Thanks,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08363.html](http://www.nuforc.org/webreports/reports/008/S08363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
