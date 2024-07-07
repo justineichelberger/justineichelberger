@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:17 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A flying white and red flashing saucer flew over my houseI was looking out the window at about 11:50 pm july 7th 2008. i saw a flying saucer type thing. it hade white lights around the base and on the bottem it had red lights. It was just a saucer flying over my backyard. im freaked out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64406.html](http://www.nuforc.org/webreports/reports/064/S64406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Southbridge (VA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Pulsating, moving, diamond-shaped object spotted north of Quantico Marine Base on evening of July 7, 2008My wife and I spotted what we initially assumed was Venus very low in the northeast horizon around 10:45 pm on the evening of July 7, 2008 when we noticed the bright object quickly faded in light intensity then seemed to vanish, only to reappear brighter than before. It also seemed to move slowly up and down and left to right in a series of right angle patterns. The object was surrounded by stationary helicopters in a rectangular formation (they were easy to see with their red blinking lights and were not airliners heading to Dulles or National airports which we've seen before). A few times at least one or two helicopters moved closer to the object at which time it would decrease its glow. I grabbed my camcorder and recorded between 10 to 15 minutes of footage, first by hand from the bedroom window, then using a steady tripod outside in our cul-de-sac. When I zoomed in the object was distinctly diamond shaped with pulsating light moving across the object in a circular motion (white, red, yellow, and greenish). The light was not sequential as if a series of lights were being lit but more like a morphing prism of blended light colors rolling into each other. I've never seen anything like this in the six or more years I've lived at this address (or anywhere else for that matter) and we routinely see jets, helicopters, and even the occasional blimp overhead as we live about 5 miles north of the Quantico Marine Base and 10 miles south of Fort Belvoir. We also live along the flight paths of Reagan National and Dulles International airports. So, we have a pretty good idea of what normally appears in the sky around our home which is why this just stood out as something very unusual. As for the weather conditions, other than being a bit humid, the sky was crystal clear and the moon was clearly visible behind me to the southeast as I filmed the object which was northeast of our house. Other stars and aircraft (including the previously mentioned helicopters) were also clearly visible and easy to distinguish from the glowing diamond-shaped object in question. As for my background, I work for a major university in Washington, DC with a long career in media and public affairs. My wife and I have a fairly decent knowledge of the night sky and the various aircraft in the area and frequently observe meteor showers, shooting stars when they are forecast for our area (not too mention extended viewings of the Hale-Bopp Comet when we lived in North Carolina) which really made this object all that more unusual to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64397.html](http://www.nuforc.org/webreports/reports/064/S64397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
