@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:43 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>3-year old has UFO dream?Male, age 3 asks upon awakening, "is that flying thing still in the sky?"  Upon further questioning reports an object covered in lights.  Also reports a light so bright, "I have to keep my eyes closed and can't open them."((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  For some reason, witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128419.html](http://www.nuforc.org/webreports/reports/128/S128419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Beaver Dam (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0:05 - 0:05 minutes.</sub><blockquote><sub>11:41 AM  July 7, 2009  UFO sighting.  duration around 5 min.Looked like a school of fish, but way up in the sky.  There where alto-stratus clouds that the objects where moving above and below.  The keep going in a circle over and over slowly going east.  I would loose them and pick up the objects 30 degrees away.I probably would not have looked up if not for the sound of two military jets.  They where circling around the area to the north east.  This is not seen around here too often as there are no major airports for 60 miles or so.  They looked like F-15s, but I don't think they fly those any more.  They were definitely military jets one seen very clearly, and the other jet was heard.  There are not any bases close by.  While I was looking up to see the jets something else caught my eye.  There where maybe a dozen or so objects to the east - south east possibly over Juneau, WI area.  The best way to describe them is to liken them to a school of fish.  They where going in a large circle moving fast and in sync like a school of fish.  I lost them once and went to get my wife to see them.  While looking up to see them again, I reacquired the strange lights due east from my position. The lights seemed to be very bright -9 magnitude and then change to very dark all while going in a complete circle. The circle seamed to be horizontal (side to side) and not vertical (up and down). At times seen above the clouds and at times seen below.  The objects where moving quite fast in a clock wise circle.  The second sighting did not last very long and my wife was not able to see the objects. It seamed that the objects disappeared and less than a minute or two later a jet was again heard at a very fast rate, and you can clearly tell the difference between military and civilian jets.  The cloud layer was very thin higher altitude clouds.  I would guess the clouds at the time to be 6000 to 10000 ft.  At least one military jet was heard again, but not see after the last ufo sighting.  Sounded very fast, but not super sonic.  Possibly super sonic at high altitude when jet was last spotted heading straight east toward lake Michigan.  I would very much like to find out what these objects where, and where the jets involved at all, or was it all just coincidence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70951.html](http://www.nuforc.org/webreports/reports/070/S70951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
