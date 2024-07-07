@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:49 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alameda (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw green flashing or lightning twice in a minute.  I woke up and saw 2 flashes.I was sleeping and I woke up at the exact moment I saw green lightning (or a green flash) coming from the bay window over my head.  I was startled because I had seen this same EXACT thing last year.  It was green flashing or lightning.  I waited for maybe 10 seconds... wide away at this point and saw it again, clear as day... bright green flashing, with a hot white center. It seemed to be right over Alameda...or even my house.  I have waited a day for any news of power outages (down transformers that could've blown... no storms at all though). I have tried to find news of meteor showers in the area, and no info is available.  It's just an eerie mystery and it has me perplexed.  Also, it was silent..... both times (and my window is open for a breeze)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128370.html](http://www.nuforc.org/webreports/reports/128/S128370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in London (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At 9:30pm July 7th, 2009 I saw a silent black craft with a red light on the bottom.At 9:30pm I noticed a black circular object with a glowing red light on the underside. It made no sound and remained in one place. I asked my wife to come and see, and she agreed that it was not a normal object. She went to get the camera, and as i was focusing to take a picture it zipped quickly north and then very fast took off west and out of sight. It appeared to be about 150ft away and 50 feet up. IT WAS AWESOME! This is the first time I have ever seen anything in the sky that could not be explained.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70956.html](http://www.nuforc.org/webreports/reports/070/S70956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
