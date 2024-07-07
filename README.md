@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 7 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in antelope (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>This is the first time i have ever seen this many drones fly in the nigh sky its like a fleet of survalince drones doing a reconand also tonight was the first time i have seen a fleet of drones or what ever it was  in the sky at this scale blinking red and some with red and green also red and white.  super quite i couldnt hear a single one of them. it started around 10pm i see one flying in a big radius circle then i spot 3 more doing the same thing just a little bit further then all of a sudden i started seeing 4 more then 8 then everywhere all over the sky spaning 8 miles in all directions like its sum survalince mission then 4 start heading twoards McClellan base and 4 coming from there like they are trading off to go re charge while the fully charged go for there turn  and it repeated about 8 times and i have never seen such a long duration of flight from a drone like that.. im glad i was looking in the sky tonight because if i didn't i wouldn't notice a thing like the majority of people because they are very stealthy and its dark out and the lights are very dim on them making them! very hard to see if u dont look in the sky for more then 5 min. does anyone know what the heck is going on because i am very interested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142119.html](http://www.nuforc.org/webreports/reports/142/S142119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ames (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange Triangular Craft in PursuitUpon driving eastward out of Ames, the three of us noticed what appeared at first to be an orange triangle shaped object about 2 miles in front of us.  As we approached the object, it seemed to be growing bigger and also seemed to be getting closer although we had slowed down.  At this point, we turned the car around and started driving back toward Ames.  As we drove, the object continued to get bigger and grow closer.  The object seemed to maneuver toward us using very square and sudden turns.  As we approacted the outskirts of Ames, the object dropped it's pursuit and left the area very suddenly.  The objects altitutde appeared to be 600-800 ft. One of the passengers of our vehicle has had a background with numerous sitings of unidentifiable objects in the past.  He has a broad understanding of aircraft design.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57652.html](http://www.nuforc.org/webreports/reports/057/S57652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
