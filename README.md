@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Glowing Green Orb shot across the sky.On a clear night I was outside with my dad playing football, thowing it back and forth and all the sudden a glowing green orb shot across the sky really fast.  We were like "What ((deleted)) was that" and we kept staring at it until it disapeared in to the night, it only lasted for about 5 seconds, then after my neighbor came home and we told them what had happened. As i told you it was a really clear night no clouds in sight and about 30 mins after the experince were talking to our neighbors and there were really weird patterned clouds in the sky, almost like parallel to each clouds it was the weirdest experince.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55142.html](http://www.nuforc.org/webreports/reports/055/S55142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jeffersonville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were (five of us) all watching a small saucer (approx 40 ft wide at approx 3000 ft altitude).  A jet fighter would approach and the saucer would instantly disappear and re-appear about one half mile north. This happen several times in a few minutes with probably twenty people gathering, and then suddenly everything was back to normal and everyone left. Nothing was reported or read about this happening. I called the local WCHS news station and they had not heard sbout it and were not interested in the story.D  New Albany, Indiana((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68864.html](http://www.nuforc.org/webreports/reports/068/S68864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
