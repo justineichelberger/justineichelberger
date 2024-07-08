@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jeffersonville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were (five of us) all watching a small saucer (approx 40 ft wide at approx 3000 ft altitude).  A jet fighter would approach and the saucer would instantly disappear and re-appear about one half mile north. This happen several times in a few minutes with probably twenty people gathering, and then suddenly everything was back to normal and everyone left. Nothing was reported or read about this happening. I called the local WCHS news station and they had not heard sbout it and were not interested in the story.D  New Albany, Indiana((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68864.html](http://www.nuforc.org/webreports/reports/068/S68864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>verticle rectangle with several bright lights.From Vancouver, WA, looking south, on July 8,2008, 1:30 am PDT from my dining room window, I saw a vertical rectangle with several bright lights, during a very clear night sky, about 200 times larger than any star I have seen.  I watched for twenty minutes.  During that time there was no movement, other than a slight shimmering.  I then went back to bed.This is no joke.  I was wide awake at the time.((NUFORC Note:  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64407.html](http://www.nuforc.org/webreports/reports/064/S64407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
