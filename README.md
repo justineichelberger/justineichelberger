@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chicopee (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>I saw a UFO in the form of a fireball that turned from a flame, to a flicker until it faded and disappeared over head.I am a 19 year old student, attending college (STCC) for video production.  I have made the Deans list twice my first two semester and am a straight A student.  I am skeptical as to what UFO are and who pilots them.  As for the sighting, we were getting of the Massachusetts Turnpike when my younger brother saw an orange light in the distance.  He pointed it out and me and my mother looked and saw it moving towards us fast. My brother said, "it's a UFO," and insisted that we pull into a Walgreens' parking lot to get out of our car and look at the object.  To our surprise, the object slowed once over us as if it wanted to be seen.  The object was like a ball of fire.  We could see the flames along the outside of the object.  I estimate the object was between 200 and 500 feet above us, (which I understand to be a rough estimate).  All I know is that it was low enough to see that it was on fire and flickering.  As it slowed and passed overhead, we watched the object Grow dimmer and dimmer until it's flame became a flicker, and it's flicker fade until the object disappeared.  That was the last we saw of it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90677.html](http://www.nuforc.org/webreports/reports/090/S90677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black triangle hovering in one spot with one red light on a corner and white lights on the others.Thursday, July 8th, 2010.  I would have reported this earlier, but I wanted to do a little research first.  I was driving home from a gathering with friends in Marietta, Georgia.  The time was approximately 10:30 PM and I was traveling west on Whitlock just before Kennesaw Mountain Battlefield Park, when I noticed a large, black rectangular object hovering just above the tree line.  It had one red light on the corner and two white lights on the other corners.  I had the window down and I didn’t hear any noise.  As I reached the park, I could see that it was actually hovering at the tree line on the edge of the park.  What had initially caught my attention was that it was not moving at all.  I turned around after I passed the park to get another look, but the object was gone.  We are near Lockheed, so I thought perhaps it was an experimental craft of some sort, if they perhaps have some kind of silent craft capable of hovering in one spot.  I thought I’d go ahead and report it since it didn’t fit anything I’d ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76505.html](http://www.nuforc.org/webreports/reports/076/S76505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
