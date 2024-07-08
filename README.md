@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jasper I (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>In the North sky, about 15 to 14,000 feet in the air it was round and oranges red half the size of the moon.  It's seem to get smaller then went straight up to this sky disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128441.html](http://www.nuforc.org/webreports/reports/128/S128441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Went on a drive specifically to look for Ufo's; I parked on the side of the road, and the stars started multiplying throughout the area, then shifted, and flying objects came through in multiple locations through the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147483.html](http://www.nuforc.org/webreports/reports/147/S147483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
