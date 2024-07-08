@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange fireball in the sky over Las Vegas.I can best describe the object I saw as an orange fireball.  I was standing in my backyard when I noticed it moving across the north west portion of the sky, in the direction of Mt. Charleston.  My home is a considerable distance from Mt. Charleston, so I assume it would have been a significantly large object for it to be seen from several miles away.  It did not change direction or appear to speed up or slow down and made  a consistent line across the sky.Even though it was roughly 8pm, there was still a decent amount of daylight; the sun hadn’t completely set.  I observed the object for approximately 5 minutes before it was obscured first by neighboring buildings and then finally by the mountain itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147446.html](http://www.nuforc.org/webreports/reports/147/S147446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pulsing red light, changes colors & altitude.On the night of July 8, 2017, my wife called my attention to a red ball of light  approximately 20 miles away, to the West.The light was bright red and pulsing bright & dim.  It hovered, then rapidly ascended straight up.  On the way up, it changed color from red, to blue, to pale yellow, orange, then back to red, when it stopped.It hovered a few moments, then remained red and slowly descended, below the horizon.The entire event lasted about one minute.The light was incredibly bright, for as far away as it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135046.html](http://www.nuforc.org/webreports/reports/135/S135046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
