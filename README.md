@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:11 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>To whom this may concern:  Hello.  My name is ((name deleted)).  I am almost 32 years old and have been a resident of Cape Coral/Pine Island, Florida, for about 28 years now.  I like to think that I know the area very well and I am familiar with most normal flight paths around.  What myself and two other people saw in the night sky on July 8, 2016, was not normal in the least.I was driving home with a friend around 10:00 - 10:30 PM EST on this Friday night when I just happened to glance over to my left.  At first I didn't think much about it.  It was only 4 lights at first.  As I kept looking over to my left, paying closer and closer attention to them, there were suddenly more of them, and they were grouping up with each other somehow.  I immediately pulled over into a gas station parking lot and parked the car facing South toward the lights.  By this time it had been about 4 minutes since I first noticed them.After watching these things for a few minutes just the two of us, another car pulled up next to me, asking if we had any idea what these strange lights were.  He, too, had a cellphone camera out, with no luck in getting any sort of video or picture of them.  Now the 3 of us are watching these things move around and  witnessing their amazing and otherworldly maneuvering capabilities for a good 6-10 minutes until they started to disappear.  They disappeared one at a time over a period of about 4-5 minutes, the first two going straight up into the sky, no sounds or big light trails to note.  Another would start to move more noticeably, a couple of them eventually taking a more normal flight pattern and heading to the South or Southwest, fading away til gone.  The others seemed to just fade away into the dark night sky, again, always one at a time.  After a total of about 15 minutes, they were all gone.THE only video that came out with ANYTHING will prove only that someone else, someone not in the car with us originally, stopped for the same reason we did...  To safely witness what I know was an amazing atmospheric anomaly!  It was an experience that I will never forget and I am more interested in the unknown now than I've ever been.  I WILL know that there is more out there than just us humans.  There must be.Thank you for your time, and I hope to hear from you soon!  Best regards, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128484.html](http://www.nuforc.org/webreports/reports/128/S128484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red/green sphere doing helicopter like moves except performing them extemely quick then flying off into spaceWhile arriving back at our home from a long trip, 5 of us were all getting out of the car when one of us pointed out a red/green sphere doing helicopter like moves except performing them extemely quick.  And then all of a sudden while attempting to take pictures, all of our phones died and  We had no idea what it was but after a few minutes of watching it,  it zip off upwards and disappeared.  It was a clear night in a dark area so a lot was visible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76333.html](http://www.nuforc.org/webreports/reports/076/S76333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
