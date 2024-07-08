@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:47 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fast bright light making "s" shaped turns back and forthI don't know if anyone else saw this.I saw what i thought was a falling star appearing from behind the tree line. it was travelling north. the light did not fade and i thought it may be a low flying satelite due to the speed. it abruptly turn west then back east then west again and then north bound again. the shape of the turn was a large "S" shape. the speed was much faster than commercial craft and the light was bright, like a bright star. i was stunned when the object deviated from the straight course. as soon as it made the first turn i thought something was strange, i had never seen something move like that before. there was no noise but i would guess the object was at about the same height that a commercial jet flys.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64419.html](http://www.nuforc.org/webreports/reports/064/S64419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Irvington (KY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>I called the county Sheriff office and was told that there had been several reports of  the object. also in neighboring Meade County several people at the county fair also saw the object.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55454.html](http://www.nuforc.org/webreports/reports/055/S55454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
