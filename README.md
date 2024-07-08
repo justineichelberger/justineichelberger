@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>verticle rectangle with several bright lights.From Vancouver, WA, looking south, on July 8,2008, 1:30 am PDT from my dining room window, I saw a vertical rectangle with several bright lights, during a very clear night sky, about 200 times larger than any star I have seen.  I watched for twenty minutes.  During that time there was no movement, other than a slight shimmering.  I then went back to bed.This is no joke.  I was wide awake at the time.((NUFORC Note:  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64407.html](http://www.nuforc.org/webreports/reports/064/S64407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chilliwack (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0:07 - 0:07 minutes.</sub><blockquote><sub>I saw something thats just too unordinary hard to explain and i want answers ???I was on the balcony in Chilliwack B.C., Canada, with my mom on the balcony on clear night where no clouds were in the sky, and I noticed a bright light get really bright in the sky then fade out til it got dim then was totally out. I then noticed thre a time period of maybe between 20-30 seconds that it would then light up quickly towards the left more so in the sky, when im facing south the states, then I thought it was impossible for it to be another light lighting up again doing the same thing in repeated sequenes for about a good 100 miles in every 20-30 secs???? It just looked weird usually you see planes with flasing red lights or something but this was one bright white light blinking on and off evry 30 seconds and every 30 seconds it was a good distance from where it was last seen 30 seconds before......,. you know what I mean I really witnessed this with my mom too and ill never fotget that U.F.O. WE SAW !!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99966.html](http://www.nuforc.org/webreports/reports/099/S99966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
