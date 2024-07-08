@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:44 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Zion (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large bright light above far north Chicago suburbsVery bright light in the sky over far north Chicago suburbs and western edge of lake Michigan.  This very bright lite was first noticed going slow from top of tree to open sky area at a very high altitude.  It was viewed moving into open sky area where it stopped.  We could verify this by surrounding trees and aircraft.  In the following 30-40 seconds its light dimmed to not viewable but several normal military jets could be seen as they had on night flying lights.  Entire event seemed to be above 40,000 feet.The entire event was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76346.html](http://www.nuforc.org/webreports/reports/076/S76346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portland (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball,very low and then went higher into the sky and dissappeared7/8/2007 saw a glowing ball of fire acroos the street over my neighbors house,we thought it was a plane om fire,however no noise and this was definetly a cicle shape like a ball.looked like it came from across the connecticut river from middletown then to portland.veered west torward high street,kind of slow.went faster and further up in the air until we couldn't see it anymoreno tail,.no other lights,zig zagged a little bit and nothing changed color.just a ball of fire.a minute or 2 later we saw what looked like a smaller plane in the EXACT same direction !!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57548.html](http://www.nuforc.org/webreports/reports/057/S57548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
