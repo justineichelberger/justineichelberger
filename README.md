@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 8 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Appear like full moon like light not where moon is and photos make it look like rows of lights can't see it that well.I have seen on numerous occasions what might be classified as a "UFO," but since I live near Quantico, I think maybe it is a govt thing.  It appears to naked eye like full moon but it moves quickly to side at tops of tree hovering possibly and disappears.  First started noticing around 1997. Last year decided to see if I could photograph and the pictures with my camera came out nothing like what I was seeing with the naked eye.  I was thinking about the WW2 Foo Fighters developed to throw enemy off.  So when you look at this need to figure out what it is but to naked eye appears like a round full moon.  See attached photos from late at night EST NW sky at my address.  Last time it was in another location above trees reason knew it was not moon is because moon will not be there that time and it moved in a way that defied logic.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105306.html](http://www.nuforc.org/webreports/reports/105/S105306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange fireball in the sky over Las Vegas.I can best describe the object I saw as an orange fireball.  I was standing in my backyard when I noticed it moving across the north west portion of the sky, in the direction of Mt. Charleston.  My home is a considerable distance from Mt. Charleston, so I assume it would have been a significantly large object for it to be seen from several miles away.  It did not change direction or appear to speed up or slow down and made  a consistent line across the sky.Even though it was roughly 8pm, there was still a decent amount of daylight; the sun hadn’t completely set.  I observed the object for approximately 5 minutes before it was obscured first by neighboring buildings and then finally by the mountain itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147446.html](http://www.nuforc.org/webreports/reports/147/S147446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
