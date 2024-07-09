@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light formation passes directly over 3 witnesses.Myself and 2 of my neighbors were outside visiting and looking at the stars when I noticed 3 lights traveling Eastward in a triangular formation. They were very high up and moving quite slowly. At first We thought that it might be satalites but, they were moving much too slow and too perfectly aligned. The lights never changed in intensity, color or distance from each other. There was 1 in front and the other 2 were behind and to the sides. We could see stars pass through the formation as it moved, so I'm sure it was not a solid structure/craft with marker lights. We watched the formation until it went completely out of view to the East.((NUFORC Note:  We suspect the witnesses may have been witness to the U. S. Navy triplet of "NOSS" satellites, which fly in formation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29658.html](http://www.nuforc.org/webreports/reports/029/S29658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>in my back garden i saw a bright round globe coming towards me very high up passing low clouds it changed direction several times somtimes slowly but mostly quite quickly we eatched it for about 3 minutes and then suddenly the bright globe just dimmed in a about 5 seconds and dissapered</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44858.html](http://www.nuforc.org/webreports/reports/044/S44858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
