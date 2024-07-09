@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Skykomish (nearest) (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Noticed images on enlarged digital photos only after returning from vacation.Description of event:  I was on vacation in Washington State.  I was out in my pickup that I keep at my sister’s house, doing some fishing and taking pictures of the scenery.  It was a clear blue sky and I was east of Skykomish at the Martin Creek trailhead for the Iron Goat Trail.  I thought I would head further up the road past the trailhead parking area on US Forest Service road 6710 for some pictures.  (There were two cars in the dirt parking lot).  Further on, I pasted a parked white full size van with a family that had been apparently hiking. I came to a side road that headed up the mountain on my right. I decided to take that road up to get some pictures of the scenery.  I then decided I would drive up as far as I could go where I could turn around safely. I found that spot and turned around and stopped to get my pictures.  From this spot I took 11 pictures, a few east up the valley and a few back down the road I had just come up.  I finally got back in my truck and headed back down the hill.  It was not until after my vacation when I returned back to California that I reviewed the pictures after they were enlarged on my computer at work.  I noticed on three pictures a spot that I thought must have been on the lens. All the other pictures had nothing on them. One was taken up the valley to the east and one to the west. Another at Mount Rainier National Park.  I became very interested when I enlarged these photos and wanted someone to take a look at them.I am sending a third photo that was taken on Thursday July 15, 2010 at 11:53 a.m. (exact) at Mount Rainier National Park from the east side of the mountain on the road up to Sunrise.In both cases, I heard and saw nothing at the time I took the photos.  I was definitely not looking for UFO's.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76810.html](http://www.nuforc.org/webreports/reports/076/S76810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rome (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two crafts were seen one dissappered and another in a V shape one flew above me and my family while fishing at lock 21.me my mom dad brother and sister went fishing at lock 21 and wern't catching any thing so we were looking at the stars (there were no clouds). my dad joked to my sister watch out they might come and take you. 15 to 20 mins later i spotted a moving white light(not blinking) it was traveling west fairly slow and suddenly dissappeared. then about 10 mins later we saw another white light but it was coming towards us. we wacthed as it passed right above us. i could see an almost V like shape with the light at the tip. it moved side to side and forwards and made no noise. not a minite later the wind picked up and the bugs stopped biting. maybe 2 mins later we saw 3 planes going in the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76737.html](http://www.nuforc.org/webreports/reports/076/S76737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
