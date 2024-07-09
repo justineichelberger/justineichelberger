@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Traveling south on Oak Park ave, about 172nd st, My son saw something in the sky, silver and Black, clear blue sky. He told me to look and i glanced and WOW, cigar shaped, moving slowly south towards I-80.  I did have binoculars in the car and told my son to find it through them.  He replied, "it has no wings".  When he went to pass the binoculars to his brother so he could see - it was gone. My sons and I have witnessed the 21st of August 2004, October 31st 2004.  But we never expected to see one during the afternoon hours. This has somewhat become a common occurance for Tinley Park.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44956.html](http://www.nuforc.org/webreports/reports/044/S44956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unexplained light over Lake Superior near Duluth, MN.While watching the Lake Freighter Saginaw arrive at Duluth Harbor on Duluthharborcam.com , I witnessed a bright light over Lake Superior which raised straight up like a firework would.In fact that is what I thought it was.  The light stopped moving and stayed stationary near the top left on the cam screen, it stayed stationary for 5 seconds or so and then continued up and out of the screen.  I have looked for this vid on YouTube, as they post most ship movements on YouTube, but for some reason this vid has not appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157586.html](http://www.nuforc.org/webreports/reports/157/S157586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
