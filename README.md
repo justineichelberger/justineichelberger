@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:06 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in State College (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 43.0 - 43.0 minutes.</sub><blockquote><sub>3 lights formed in a pyramid shape, blinking with harmony as if it was a beacon of some sort.We we're on a trip up to my girlfriends apartment from altoona to state college. I saw a triangle light form, that was blinking in harmony, like some sort of beacon and in the distance was a ship of some sort with 3 red lights and blue lights going as it appeared in a circular fashion around the ship.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57600.html](http://www.nuforc.org/webreports/reports/057/S57600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>i saw 10 objects in the eastern sky with white and red blinking lights and they are not airplanes.  They move back and forth. very creepy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120264.html](http://www.nuforc.org/webreports/reports/120/S120264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
