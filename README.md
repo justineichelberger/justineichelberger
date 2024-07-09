@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Augusta (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Was driving on plains rd, Sussex county,  NJ. 1235pm.  Looked to right in sky.  Seen a dark silver/grey craft.  Top and bottom were flat,  sides were slanted.  Bottom was longer than top of craft.  Was gone in seconds.  Was way up in sky, just hovering</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135082.html](http://www.nuforc.org/webreports/reports/135/S135082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Liberty Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped lights, white w/orange rim, moving in unison across night skySitting outside looking into the sky, came across moving lights. The lights took the shape of a triangle and moved from west to the east directly above me. No sound was heard. The lights were extremely high in the air. At first looked like a satellite until I notice the other two light forming the triangle. The light held the triangle shape and moved in unison. The lights were white with an orange outer rim in color. They did not blink, just moved silently across the sky. Too high for airplanes, moved a little slower than a fast moving satellite. I was able to follow it from directly above me, across the sky, until it disappeared in the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29648.html](http://www.nuforc.org/webreports/reports/029/S29648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
