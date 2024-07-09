@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>i saw 10 objects in the eastern sky with white and red blinking lights and they are not airplanes.  They move back and forth. very creepy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120264.html](http://www.nuforc.org/webreports/reports/120/S120264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About a dozen car-sized silver round objects dance above Sparks NevadaI was driving on the I 80 Westbound from Vista Blvd to Reno at about 10:40am.  I looked up to the left and saw about 12 silvery-white objects dancing around in the sky.  The object were about 400-500 feet off the ground and danced up and down about another 200 feet.  At first, my kids and I thought they were seagulls, but they were too large and too far off in the distance to be any type of bird; plus I saw no wings flapping or gliding.  It was almost like a dozen automobile sized mylar balloons in a tornado 500 hundred feet above the ground but dancing fast almost like play fighting, like dogfighting jets, instead of being flown around like debris. There were no other objects, debris or dirt in the air.  The radical, fast movements and small cluster made me think it was not a regular aircraft.  The cluster moved out of my sight when I crossed into Reno and due to my kids safety I had to focus on the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82355.html](http://www.nuforc.org/webreports/reports/082/S82355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
