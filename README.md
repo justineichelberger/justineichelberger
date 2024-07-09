@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Liberty Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped lights, white w/orange rim, moving in unison across night skySitting outside looking into the sky, came across moving lights. The lights took the shape of a triangle and moved from west to the east directly above me. No sound was heard. The lights were extremely high in the air. At first looked like a satellite until I notice the other two light forming the triangle. The light held the triangle shape and moved in unison. The lights were white with an orange outer rim in color. They did not blink, just moved silently across the sky. Too high for airplanes, moved a little slower than a fast moving satellite. I was able to follow it from directly above me, across the sky, until it disappeared in the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29648.html](http://www.nuforc.org/webreports/reports/029/S29648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kuwait () reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>things just change shape and dissapere from the sky in a blink of an eye...in our country , usualy at night we tend to have fun by street racing on our street's. At that tine around 2;45 am i was standing on a side way with 4 of my friends , we were waching cars passing by , so one just stall and stoped out of nowere the strange thing is that there was no thing wrong with the car, at that point i've looked up at the sky when i saw something standing still what lookde like a triangle ...then out of nowhere another one come up !!! after like 10 seconds they appere to change shape to something very narrow and than it just blink and dissapere !!! Boy i had a very strange night ... We all did!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46116.html](http://www.nuforc.org/webreports/reports/046/S46116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
