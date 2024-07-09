@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:45 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Yosemite (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Picture was taken with digital camera. The UFOs appeared in the picture only.  Possibly light affects. The UFOs are in multiple colors and various sizes.((NUFORC Note:  The "objects" in the photo look like lens flares, resulting from pointing the camera in the direction of the Sun.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44968.html](http://www.nuforc.org/webreports/reports/044/S44968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Trinidad (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At first thought it was meteor but there was heavy cloud cover behind the path.  It formed an arc from what looked like NE to SW of Trinidad.Because of the overcast sky, I don't think it could have been a meteor/fireball even though that is what it appeared to be.  I spotted the object as I traveled north on I-25 entering the southern edge of Trinidad, CO, in full daylight.  The speed and path of the object reminded me of a military missile.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08310.html](http://www.nuforc.org/webreports/reports/008/S08310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
