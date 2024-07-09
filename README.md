@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:58 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rome (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two crafts were seen one dissappered and another in a V shape one flew above me and my family while fishing at lock 21.me my mom dad brother and sister went fishing at lock 21 and wern't catching any thing so we were looking at the stars (there were no clouds). my dad joked to my sister watch out they might come and take you. 15 to 20 mins later i spotted a moving white light(not blinking) it was traveling west fairly slow and suddenly dissappeared. then about 10 mins later we saw another white light but it was coming towards us. we wacthed as it passed right above us. i could see an almost V like shape with the light at the tip. it moved side to side and forwards and made no noise. not a minite later the wind picked up and the bugs stopped biting. maybe 2 mins later we saw 3 planes going in the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76737.html](http://www.nuforc.org/webreports/reports/076/S76737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bowling Green (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light moving across skyA point of light moving West to East across the sky.  The light grew brighter when climbing and grew dimmer descending.  No sound was heard and the light did not blink.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135060.html](http://www.nuforc.org/webreports/reports/135/S135060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
