@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>in my back garden i saw a bright round globe coming towards me very high up passing low clouds it changed direction several times somtimes slowly but mostly quite quickly we eatched it for about 3 minutes and then suddenly the bright globe just dimmed in a about 5 seconds and dissapered</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44858.html](http://www.nuforc.org/webreports/reports/044/S44858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>EGG SHAPED OBJECT W/GREEN NEON TAIL OVER NEW YORK CITY EARLY JULY 2008I WAS STAYING AT MY BOSS’S APARTMENT ON THE HIGH UPPER FLOORS IN A LUXURY BUILDING ON THE EASTSIDE OF MANHATTAN WHILE SHE WAS IN EUROPE.   I WAS SLEEPING ON THE SOFA BED IN THE LIVING ROOM; IT’S A CORNER APARTMENT SO THE LIVING WINDOWS FACE WEST AND NORTH.  THE LIVING ROOM HAS FLOOR TO CEILING WINDOWS.  I GOT UP TO USE THE BATHROOM AT ABOUT 1:30, WHEN I WENT BACK TO BED  I WAS TRYING TO GO BACK TO SLEEP SO I WAS WATCHING THE RED LIGHT  BLINK ON TOP OF THE  CON ED SMOKESTACK  JUST TO THE NORTH OF THE BUILDING.  THEN I SAW IT, A GLOWING BEIGE/CREAM COLORED EGG SHAPED OBJECT WITH A NEON GREEN TAIL BEHIND IT FLYING VERY FAST IN A BEE LINE JUST BEHIND THE SMOKESTACK BETWEEN THE TOP AND THE MIDDLE OF THE SMOKE STACK.  AT FIRST IT DIDN’T REGISTER SINCE THERE IS A LOT OF AIR TRAFFIC ACTIVITY ON THE EAST RIVER AND LAGUARDIA AIRPORT IS OFF TO THE RIGHT.  THEN IT HIT ME, IT MUST BE A MISSILE THAT WAS GOING TO HIT THE GEORGE WASHINGTON BRIDGE OR SOMEWHERE IN NORTHERN NEW JERSEY.  I SAT UP AND REALLY THOUGHT I WAS GOING TO HEAR SOME HORRIBLE EXPLOSION.  NONE CAME. WHATEVER THIS OBJECT WAS IT WAS MOVING SO FAST I COULDN’T FIND IT AGAIN.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69664.html](http://www.nuforc.org/webreports/reports/069/S69664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
