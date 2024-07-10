@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Grand Rapids (near) (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three light triangle over cabins near Grand Rapids, MNThis may well have been a regular aircraft, although, to me it seemed very unusual. I was at a cabin resort near Grand Rapids, MN. While walking alone from one cabin to another at about 10:30 PM on a clear night, I looked up to see, between the trees, a set of three white lights in a trangular fromation going overhead. I only got a good look at it for about 15-20 seconds. It seemed very low in the sky and was traveling fairly slowly. There was absolutely no sound associated with it and no flashing lights of any kind, nor any red lights like you would see on a normal aircraft at night. The lack of sound or flashing lights is what made it unusual. The cabin area was quiet, being in the countryside vacationers already settling in for the night. So, if there had been noise from the craft I definately would have heard it. Is there any type of normal aircraft that would behave in this way?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48449.html](http://www.nuforc.org/webreports/reports/048/S48449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in New Rochelle (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A Shuttle Like UFO hovering in the West End part of New Rochelle, New York for seconds before vanishingI was driving my taxi in the afternoon time with no passengers along side of New Rochelle Hospital on Lockwood Ave when I saw a plane like craft just hovering over the west end part of New Rochelle like Union Ave vicinity.  As I got closer my eyes glued to this craft for at least 10-15 seconds to see exactly what this was it then vanished.  When I got to the area where this craft was hovering I had asked some people if they had saw this plane like craft in the air but there was just Mexicans around that counldn't speak or understand english.  My observation and description of this particular craft was like a shuttle like version aircraft that was just hovering overhead stationary observering its surroundings before vanishing.  This craft was in almost the exact same area as the first sighting I had when I was 11 years old when a UFO flew right over my head less than a 100 yards above me traveling less than 5 miles an hour as I was able to observe for 1 full minute in 1974.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50329.html](http://www.nuforc.org/webreports/reports/050/S50329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
