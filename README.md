@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brook Park (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was Sunday night and quite clear at the time.  My sister and I were in our back yard looking at the stars and one object caught our attention.  It was bright red and seemed stationary.  I actually thought it was Mars at first and so did she but it was too big to be so and as we soon found out it moved too fast as well.  I should note that three of us saw the object at first but my other sister went inside so she did not actually witness it move away as it eventually did, to our surprise, at about 11:40 PM.  When we first noticed it, which didn't take long, it was positioned about NNW.  I estimate at about 25-30 degrees in the sky, 90 degrees being looking straight up into the sky between the East and West horizons.  It moved up into the sky seemingly orbiting at first.  Like I have stated it came off as Mars at first but too big.  We were alarmed to actually see it move before our very eyes, again too fast for a planet or a space station which NASA proclaimed.  Maybe a sattelite but no because sattelites don't move up in the night sky and all of a sudden change directions within a 20 minute period of time seeming to change its mind or course.  Well again it moved up to about a 40 degree angle if you were to say east to west was 180 degrees- 90 being looking directly up in the sky.  Now here is what gets strange My sister took a flashlight that she had and turned it on and off.  At once, as if it was responding, started to blink and moved more noticeably faster but back towards the West moving slightly south as it did so and vanished over the horizon. I did not notice any dancing around, I would just like to add that Cleveland Hopkins International Airport is just a couple of miles away also to our NNW. Coincidence? This is no hoax!  Sorry if this description was too long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44990.html](http://www.nuforc.org/webreports/reports/044/S44990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in West Gardiner (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A blue circular object with external lights up to 6 I believe approximately 300 feet in size just a little greater than treetop level over my house and property I was outside with my son, we were facing north leaning against the truck, the object came in basically from the southeast with the entire property lit  up.  then it took off literally as fast as it came in, the whole experience lasted fifteen to twenty seconds but it lit the entire property up and then took straight off straight up into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128437.html](http://www.nuforc.org/webreports/reports/128/S128437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
