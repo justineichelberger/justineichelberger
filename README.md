@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:53 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:45 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Springville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two very very bright lights were seen going across the sky one directly above the other. They were traveling north to south and one was directly above the other and they were not going in a straight line but were both moving independantly of each other but the top one always above the other. Too bright or fast to be a plane or a satelite and no sound what so ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18523.html](http://www.nuforc.org/webreports/reports/018/S18523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Woodland Hills (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>summer night in 1958. i was 10. i was standing next to a big oak tree looking towards the san franando valley. i beleive it was to the north. from the east came a very bright light. it stopped. 3 smaller lights dropped from underneath the big light. 1 by 1 these lights moved away at a medium rate of speed. all 3 went in 3 different directions. 1 went to the north. 1 went east south east. the last 1 went to the south.the whole thing took less then 1 minute. i ran in to the house to get my mom. we came back and waited to see what happened next. several minutes had elapsed perhaps 7 or 8 the 3 smaller lights returned to the bigger light and 1 at a time they entered the light from below. the bigger light then rose slowly to the north and then it was gone.i have never shared this encounter in a printed or any form of media.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54144.html](http://www.nuforc.org/webreports/reports/054/S54144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
