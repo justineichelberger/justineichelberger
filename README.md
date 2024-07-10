@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in ??? (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately none - none minutes.</sub><blockquote><sub>i was on google earth and found a triangular object like a ufo ive seen in tv.well i was on google earth and  i  searched austrailia and when i was looking at it i found a triangular shaped fugure.it looked liked a ufo that ive seen in a tv show called ufo files.no lie but this is not a hoax to proove it ill send you a picture once you messege my email.((NUFORC Note:  Radio antenna, with support wires.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64439.html](http://www.nuforc.org/webreports/reports/064/S64439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Parker (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately ukn - ukn minutes.</sub><blockquote><sub>Info related to me by nephew. Nephew & 2 friends blowing fire crackers along river bank apparently scared an alien out of thickets. Described alien as bright orange w/large dark eyes. Started to chase them on foot so they ran, stopped and threw some fire crackers at it which made it run back into thickets. Bright light beamed over them at this point,they continued to run home.  All 3 went to nephews home (closest) when they arrived a bright light went on over the house.  Other sitings have been witnessed in this particular area but I've never heard of an actual alien on the ground.  What could be the reason for it to be described as bright orange?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38108.html](http://www.nuforc.org/webreports/reports/038/S38108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
