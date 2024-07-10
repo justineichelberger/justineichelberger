@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:53 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Garrison (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>This was a brief but very interesting sighting. I live in a valley. Our house sits about halfway up on one of the sides. It was summer and was bedtime. I was getting ready for bed and my wife had already gotten into bed with the lights out. As I was walking through the bedroom, I caught a glimpse of two golden orange orbs floating through the valley. They were next to each other and I am telling you, they were going for a little exploration together or something of the like. I explain in other orb stories that I have written that; the orbs have a personality; you notice it immediately. You can almost “see” their character. It’s as if they were going on a stroll together up the valley and conversing along the way. Their movement was at a slow pace and not so much in a straight line, kind of wavey. I would estimate that their size was about the size of a volleyball. The light was not that bright, it was more of a glow. The window That I was looking out at them! through was small, so I lost view of them as they traveled past quite quickly. I ran into the other room to try and see them but lost sight of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162469.html](http://www.nuforc.org/webreports/reports/162/S162469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Springville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two very very bright lights were seen going across the sky one directly above the other. They were traveling north to south and one was directly above the other and they were not going in a straight line but were both moving independantly of each other but the top one always above the other. Too bright or fast to be a plane or a satelite and no sound what so ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18523.html](http://www.nuforc.org/webreports/reports/018/S18523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
