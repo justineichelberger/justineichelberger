@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in New Rochelle (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A Shuttle Like UFO hovering in the West End part of New Rochelle, New York for seconds before vanishingI was driving my taxi in the afternoon time with no passengers along side of New Rochelle Hospital on Lockwood Ave when I saw a plane like craft just hovering over the west end part of New Rochelle like Union Ave vicinity.  As I got closer my eyes glued to this craft for at least 10-15 seconds to see exactly what this was it then vanished.  When I got to the area where this craft was hovering I had asked some people if they had saw this plane like craft in the air but there was just Mexicans around that counldn't speak or understand english.  My observation and description of this particular craft was like a shuttle like version aircraft that was just hovering overhead stationary observering its surroundings before vanishing.  This craft was in almost the exact same area as the first sighting I had when I was 11 years old when a UFO flew right over my head less than a 100 yards above me traveling less than 5 miles an hour as I was able to observe for 1 full minute in 1974.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50329.html](http://www.nuforc.org/webreports/reports/050/S50329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Johannesburg () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Woke up and while having a smoke spotted a strange looking star.  On further examination it looked like it was moving slowly.  It got bigger and had a difined shape.  Called my wife to have a look.  It carried on moving.  It then appeared to move away.  I went inside when I came back it was there again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142188.html](http://www.nuforc.org/webreports/reports/142/S142188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
