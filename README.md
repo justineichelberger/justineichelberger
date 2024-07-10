@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:47 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two Orange Orbs flanked by four smaller ships.saw one orange orb heading  south west in the sky... and was flanked by four smaller ships, the smaller ships could have been planes or jets because I saw light on them but they moved in off ways which made me second guess myself on that, they flew so close to each other that they looked as if they went in and out of each other...... the orange orbs were just circles in the sky ... all the crafts were very high up in the sky... the four ships seemed to move in various directions... and when almost overhead... two of the smaller four ships took off in two different directions... one to the east and one to the west... the other two stayed close to the orange orb... then another orange orb appeared from out of nowhere about 200 yards from the other orange orb and this happened when they were directly overhead of me... and the two orbs and the two smaller ships continued to head south... the two smaller ships also did some strange maneuvers in the sky... flying ! very close to one another and seemed to blend into each other and then out...... the orange orbs disappeared after a little while... but I could still see the two smaller ships.the other odd thing is that all of the street lamps on our block have all gone out. There were no sounds or noises coming from the crafts in the sky and I was on the phone to a friend when I saw them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90769.html](http://www.nuforc.org/webreports/reports/090/S90769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it was a horseshoe shape and brown flyinging above the mountains disappearing and then coming backI was driving and I looked up at the mountains and I saw a figure that looked like a giant horse shoe in the sky it was brown and my sister saw it too but not my parents.  it flew across the mountains disappeared and popped back up later when we got to woodland park it was like it was following us.  At first I thought it was an airplane but it made no sound and what type of airplane is horseshoe shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128428.html](http://www.nuforc.org/webreports/reports/128/S128428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
