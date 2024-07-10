@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it was a horseshoe shape and brown flyinging above the mountains disappearing and then coming backI was driving and I looked up at the mountains and I saw a figure that looked like a giant horse shoe in the sky it was brown and my sister saw it too but not my parents.  it flew across the mountains disappeared and popped back up later when we got to woodland park it was like it was following us.  At first I thought it was an airplane but it made no sound and what type of airplane is horseshoe shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128428.html](http://www.nuforc.org/webreports/reports/128/S128428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Halifax (Canada) (NS) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Green line in the sky shaped as a straight lineUFO SIGHTING August 13, 2010  Three days ago(August tenth) I went to the store to get a pack of smokes , only to find out that the store was closed so I went to different one . It was nice out so I took a longer route , which was up over a hill  As I was walking up this hill something in my peripherals caught my attention.  I looked up immediately and what I seen was a green line of light in the sky . Not very large and very sharp.  It almost looked like a small LED light.  I stopped to look at for about a minute when I got to the top of the hill, to make sure I just wasn’t seeing things.  I also Noticed a plane in the sky flying by.After about a minute of looking at the object. I walked down the other side of the hill to the store to get smokes.  The farther down the hill I went the less I could see it, until it disappeared.  I came back the same way I came to see if I could still see the object.  Unfortunately it was gone and I walked home puzzled at what I had saw.  I think It could be similar to the report on July 19, 2010.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77183.html](http://www.nuforc.org/webreports/reports/077/S77183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
