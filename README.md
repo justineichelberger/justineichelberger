@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue light traveling at high rate of speed.While driving east bound on I-485, my wife and I noticed a single blue light traveling at high speed moving north to south. I'm an experienced pilot and there were no appropriate aircraft identification navigation lighting or strobes. Both my wife and I noticed the unusual rate of speed at which the craft was traveling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23697.html](http://www.nuforc.org/webreports/reports/023/S23697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cougar (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sometimes these UFO'S are not visible to the naked eye....but a camera can capture the moment.The UFO was captured driving north to Mt. St. Helens in the vicinity of Cougar Washington by Yale Lake.  The UFO was not noticed until the pictures from the camera were transfered over to the computer for download.  The object looked like the shape of a shiny silver hat.  When the object was zoomed in on...it was distorted somewhat so I was unable to accurately explain what it is.  I am just a normal girl taking the afternoon with my family to see Windy Ridge on Mt. St. Helens...this was amazing to me when this appeared on my computer screen.((NUFORC Note:  We have viewed the photo, and the object looks to us to be a bird in flight.  It may be either a dove, or a bird of prey, in hovering flight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76478.html](http://www.nuforc.org/webreports/reports/076/S76478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
