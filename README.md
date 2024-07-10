@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Greater Manchester Area () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Black triangular craft was hovering over my town area for over half an hour, it looked to be inspecting or looking for something.I was up late on the internet playing games. I became aware of a hummung sound that dipped and grew louder, it sounded like a helecopter, but different, it seemed to be moving around te area. After 30 minutes, i grew curous that it had not stopped, and went outside in the garden to look for this mystery 'helecopter' type sound. I stepped through the garden on to the street and looked.. what i saw i will not forget. There was a dark triangle drifting around the sky at fairly fast speeds and acceleraton, seemingly scanning the area i live in.  It was triangular with lights on the tips and was spinning slowly, and was turning at speeds that were impossible. It seemed that i had only just got to the end of my garden pat when the thing turned and converged over where i was. I ran inside and after about 15 minutes, the sound stopped. I asked my mother about it the next day, and she said the sound had awoken her and that she had seen it from her window.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38887.html](http://www.nuforc.org/webreports/reports/038/S38887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hancock (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Star sized light stops and flashes very brightly, seemingly in response to a flashlight.Saturday July 10, 2010 at approximately 10:55 pm EST myself and four other adults were outside enjoying the first cool night in over a week.  We were skywatching and we were pointing out satellites to the other couple and our grown son.I pointed to one in the western sky headed due north and at approximately 40 degrees above the horizon and had them watch it.  It was approximately the same size and brightness of the surrounding stars. My husband flashed his Ryobi flashlight twice at the "satellite" and it stopped  WNW of us.  It lit up about as bright as 20 or 30 stars. He again flashed his Ryobi at this light and again it flashed as brightly as the first time.  The flashes were approximately 15 seconds apart.While the others watched to see if it would move I came in and got the phone to call this in to NUFORC.  I took the phone out with me and the object was still stationary.  The position of the light was roughly 10 degrees south and west of  Phecda.  I could see it until 11:02pm EST when it dimmed out and was no longer visible.  We did not see it continue north.The visiting couple were scared enough to leave, which they did while I was still on the hotline.((NUFORC Note:  We spoke via telephone with this witness, and we found her to be exceptionally rational and capable.  We suspect that her description above is quite accurate.  Please see her illustration on our homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76398.html](http://www.nuforc.org/webreports/reports/076/S76398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
