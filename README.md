@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kaministiquia (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 bright lights over kaministiquiaMy 14 year old son texted Me to tell me to look outside to the south.  He said there was 3 very bright white lights.  He didn’t state what formation they were in, but he said they were close together and not moving.  He also stated that he was really scared.  When I looked south I couldn’t see anything but when I looked in the direction he is at, behind the tree and barely visible was a bright light.  He tried to take a picture but while he was getting his phone aimed to take the pic, they disappeared and was no longer able to see them.  The light coming from behind the trees that I had seen also disappeared.   is clear tonight and stars are extremely visible and he was able to tell that they weren’t just stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157493.html](http://www.nuforc.org/webreports/reports/157/S157493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Frankfort (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Flashing lights in Central NY skyMy cousin was sitting on the front porch when he witnessed some blinking lights in the sky and called me outside to observe them.  In the northeastern part of the sky there was a circular object which seemed to be flashing many lights that were red, white, blue and green in color. The object started low in the sky and rose as time passed by.  After further sky watching we were able to see to more of these objects flashing the same type of lights.  All three if the objects rose in the sky and seemed to get farther away as time passed by. We watched the objects for a couple of hours travel farther from us. The next night my cousin once again checked the sky to see if the objects would appear again and all three objects were again visible the next night. We are unsure of what these lights could be and can't find many answers with online research thus far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71021.html](http://www.nuforc.org/webreports/reports/071/S71021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
