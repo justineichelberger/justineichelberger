@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>sighting from the pastThis past Labor day weekend my daughter and her family came to visit me at my home on Whidbey island, north of Seattle Washington. We were roasting marshmallows with the grandkids on the beach one night, and the subject of UFO's came up.  My daughter re-capped an incident that I had long since forgotten about, mostly because at that time I was skeptical and didn’t have time to think of such things as UFO's. This happened about 19 years ago, but I think is worth passing on.  It involved my daughter (16 at the time) and her mother, the location was near Monroe Washington.  Quote:  "Mom picked me up at the Dairy Queen, where I was working part time during the summer months before school started. It was dusk at the time, we drove up the woods creek road towards home.  As we drove along we saw a bright light ahead and as we neared it and saw what a strange thing we were looking at, Mom pulled our car to a stop, lowered the windows and shut the motor off. We gazed in amazement at what we saw, it was a football shaped craft with several lights from front to back. It was hovering over a dairy farm field, perhaps a hundred feet off the ground, I would guess it was about 30 feet in length. It made no sound at all, we had our windows down and our motor was shut off. After just a few minutes it started moving slowly up the valley (north). Mom started the car and we stayed along with it for about a mile, it then turned to the left (west), increased in speed and shot out of sight like a bullet." End of quote.. My daughter is and has always been a responsible person, you can take what she says to the bank.  I myself filed a report a few years back on strange lights observed by my hunting partners and I near Coulee Dam Wa.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58622.html](http://www.nuforc.org/webreports/reports/058/S58622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Greater Manchester Area () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Black triangular craft was hovering over my town area for over half an hour, it looked to be inspecting or looking for something.I was up late on the internet playing games. I became aware of a hummung sound that dipped and grew louder, it sounded like a helecopter, but different, it seemed to be moving around te area. After 30 minutes, i grew curous that it had not stopped, and went outside in the garden to look for this mystery 'helecopter' type sound. I stepped through the garden on to the street and looked.. what i saw i will not forget. There was a dark triangle drifting around the sky at fairly fast speeds and acceleraton, seemingly scanning the area i live in.  It was triangular with lights on the tips and was spinning slowly, and was turning at speeds that were impossible. It seemed that i had only just got to the end of my garden pat when the thing turned and converged over where i was. I ran inside and after about 15 minutes, the sound stopped. I asked my mother about it the next day, and she said the sound had awoken her and that she had seen it from her window.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38887.html](http://www.nuforc.org/webreports/reports/038/S38887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
