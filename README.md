@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 9 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kuwait () reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>things just change shape and dissapere from the sky in a blink of an eye...in our country , usualy at night we tend to have fun by street racing on our street's. At that tine around 2;45 am i was standing on a side way with 4 of my friends , we were waching cars passing by , so one just stall and stoped out of nowere the strange thing is that there was no thing wrong with the car, at that point i've looked up at the sky when i saw something standing still what lookde like a triangle ...then out of nowhere another one come up !!! after like 10 seconds they appere to change shape to something very narrow and than it just blink and dissapere !!! Boy i had a very strange night ... We all did!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46116.html](http://www.nuforc.org/webreports/reports/046/S46116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Garrison (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>This was a brief but very interesting sighting. I live in a valley. Our house sits about halfway up on one of the sides. It was summer and was bedtime. I was getting ready for bed and my wife had already gotten into bed with the lights out. As I was walking through the bedroom, I caught a glimpse of two golden orange orbs floating through the valley. They were next to each other and I am telling you, they were going for a little exploration together or something of the like. I explain in other orb stories that I have written that; the orbs have a personality; you notice it immediately. You can almost “see” their character. It’s as if they were going on a stroll together up the valley and conversing along the way. Their movement was at a slow pace and not so much in a straight line, kind of wavey. I would estimate that their size was about the size of a volleyball. The light was not that bright, it was more of a glow. The window That I was looking out at them! through was small, so I lost view of them as they traveled past quite quickly. I ran into the other room to try and see them but lost sight of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162469.html](http://www.nuforc.org/webreports/reports/162/S162469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
