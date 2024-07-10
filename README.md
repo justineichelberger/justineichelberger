@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Playa Vista (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Swirling bolt of light or lightningTonight around 9:15PM I saw what appeared to be a swirling lightning bolt swirling towards the sky.  It was going away from the earth.  It also appeared out of nowhere and then vanished just as quickly.The object resembled a bright white and yellow cork screw lightning bolt.  Only it did not act like lightning.  It was moving away from earth and was bigger and had two different distinct colors.The location of the object was directly north in the horizon.  It was just above the mountains.  It was not high in the sky and not too low.I was on my balcony looking towards the Santa Monica Mountains when I saw the glowing bright light rod appear.  It resembled a strange swirling corkscrew bolt of lightning, but it came out of nowhere.  It was bright!  It resembled a lightning bolt, but slightly different. It looked like the corkscrew motion was going towards the sky. It was a glowing. It has two distinct colors to the bolt. One part was a bluish white color and the other part was yellow. The colors were separate from one another, but were swirled together like different colored shoelaces.The bolt resembled a swirling portal. It was unbelievable. I've never ever seen anything like that. It was massive.  Just eye level in the sky and appeared out of nowhere, swirled towards the sky, then vanished.  A helicopter immediately came to the seen right after.  Not sure if it was coincidence, but very odd timing.If I had to guess the distance from my balcony to the object over the mountains, I would say it was 10 miles away directly in my viewpoint.  It was in the center horizon of the sky, eye level just above the mountains.  It appeared to be 3 feet in height vertically from where I was located, so it was huge!  It was the weirdest bolt of lightning that I ever witnessed.Sighting lasted 2-3 seconds at the most, but it seemed like a long time because I couldn't believe what I was witnessing.  It wasn't a craft, but it was definitely extraordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120293.html](http://www.nuforc.org/webreports/reports/120/S120293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kaministiquia (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 bright lights over kaministiquiaMy 14 year old son texted Me to tell me to look outside to the south.  He said there was 3 very bright white lights.  He didn’t state what formation they were in, but he said they were close together and not moving.  He also stated that he was really scared.  When I looked south I couldn’t see anything but when I looked in the direction he is at, behind the tree and barely visible was a bright light.  He tried to take a picture but while he was getting his phone aimed to take the pic, they disappeared and was no longer able to see them.  The light coming from behind the trees that I had seen also disappeared.   is clear tonight and stars are extremely visible and he was able to tell that they weren’t just stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157493.html](http://www.nuforc.org/webreports/reports/157/S157493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
