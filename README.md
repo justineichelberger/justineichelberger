@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Blythe (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two large Orange/Red spheres moving slow and very lowOn 7/10/2013 at 10:40 pm or 22:40, three weeks from the first encounter with a Large  Orange/Red sphere on 6/19/2013, I had my second and third encounter with what looked to be the same and  moving slow and at about the same altitude 100 to 150 feet  high.  I walked to my back yard to start the pool pump which is on the East side of the house as I turned the corner and now looking South was a Large Orange/Red sphere about 25 to 35 feet across this one had a mist or cloud like coming off the top and the bottom of the object.  As soon as I saw it I took off for the camera  and ran back.  I had to wait to take the first picture because of a palm tree as the object pasted the  palm I took the first of four pictures this object was just East of me  by 25 yards and no more then 30 yards and still lease then 175 feet up.  This made for  some very close pictures.  The first shot I did not zoom in and had the flash on  as I walked around a tree in my yard I zoomed in a! nd tried to turn the flash off witch I did not do I took the second picture as it was even with me going by. The third and fourth picture  the object was past my home going North- North West. I was walking back to my pool pump and right over the same River Front home was the second  Orange/Red sphere it looked as  if it was on the same line as the first this one did not have any mist or cloud coming from it and both had NO sound and moved NO air.  The reason I could only shot two pictures is because on the screen on my camera their was a message that my chip was full so I had to delete some old photos as the object was coming at me.  I loaded the photos to the computer and took a look and that is when I found  the second picture I took broke though the cloak and I was looking at the bottom and the side of a craft amazing and the best UFO picture I have ever seen  and I think  you will agree with me on this.  I will e-mail photos to the main e-mail you give on the web site. N! ote one of the question you have with the check boxes is did the object have lights.  This craft did not have blinking lights like a air plane this craft had a large rectangle on the bottom of it that has what looks to be White hot light that I did not see as it went by me and I took the photo.  The light looks so bright that it should of made anything on the ground look as if would have been day time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102545.html](http://www.nuforc.org/webreports/reports/102/S102545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in ??? (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately none - none minutes.</sub><blockquote><sub>i was on google earth and found a triangular object like a ufo ive seen in tv.well i was on google earth and  i  searched austrailia and when i was looking at it i found a triangular shaped fugure.it looked liked a ufo that ive seen in a tv show called ufo files.no lie but this is not a hoax to proove it ill send you a picture once you messege my email.((NUFORC Note:  Radio antenna, with support wires.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64439.html](http://www.nuforc.org/webreports/reports/064/S64439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
