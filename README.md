@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hancock (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Star sized light stops and flashes very brightly, seemingly in response to a flashlight.Saturday July 10, 2010 at approximately 10:55 pm EST myself and four other adults were outside enjoying the first cool night in over a week.  We were skywatching and we were pointing out satellites to the other couple and our grown son.I pointed to one in the western sky headed due north and at approximately 40 degrees above the horizon and had them watch it.  It was approximately the same size and brightness of the surrounding stars. My husband flashed his Ryobi flashlight twice at the "satellite" and it stopped  WNW of us.  It lit up about as bright as 20 or 30 stars. He again flashed his Ryobi at this light and again it flashed as brightly as the first time.  The flashes were approximately 15 seconds apart.While the others watched to see if it would move I came in and got the phone to call this in to NUFORC.  I took the phone out with me and the object was still stationary.  The position of the light was roughly 10 degrees south and west of  Phecda.  I could see it until 11:02pm EST when it dimmed out and was no longer visible.  We did not see it continue north.The visiting couple were scared enough to leave, which they did while I was still on the hotline.((NUFORC Note:  We spoke via telephone with this witness, and we found her to be exceptionally rational and capable.  We suspect that her description above is quite accurate.  Please see her illustration on our homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76398.html](http://www.nuforc.org/webreports/reports/076/S76398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue light traveling at high rate of speed.While driving east bound on I-485, my wife and I noticed a single blue light traveling at high speed moving north to south. I'm an experienced pilot and there were no appropriate aircraft identification navigation lighting or strobes. Both my wife and I noticed the unusual rate of speed at which the craft was traveling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23697.html](http://www.nuforc.org/webreports/reports/023/S23697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
