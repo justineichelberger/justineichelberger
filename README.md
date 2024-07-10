@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Johannesburg () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Woke up and while having a smoke spotted a strange looking star.  On further examination it looked like it was moving slowly.  It got bigger and had a difined shape.  Called my wife to have a look.  It carried on moving.  It then appeared to move away.  I went inside when I came back it was there again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142188.html](http://www.nuforc.org/webreports/reports/142/S142188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shortly before 10 PM with clear sky I noticed object  with strobe light,, slightly zig-zagged, changed colors and vanished.I decided to sit outside in my backyard after dark.  Recalled  watching the stars when I was a kid in East Springfield, PA and looked at the constellations and a few airplanes between swatting at mosquitoes. Was facing east. The sky was clear.  Off to the southeast  (about 40 degrees) I noticed  what appeared to be a plane with a strobe light taking the general flight path to Cleveland's lakefront airport. It was heading northeast.  The strobe became more impressive and it became readily apparent that it wasn't quite the same light as a normal aircraft would use partly because it suddenly grew quite bright.  The craft flew in a slightly erratic pattern slightly zig-zagging, then turned multi colored (red and blue) and disappeared.  Just like that.   Then  perhaps 20 seconds  later it reappeared  much further to the west  about 30 degrees behind my right shoulder  and  started to head east-southeast. No strobe, but it changed colors- blue and red. It flew as if it was surveying, not real fast but at a decent clip.   Then I lost isight of it in the distance. Am an attorney, inactive registered nurse and former high school social studies and history teacher.((NUFORC Note:  We, at first, believed that the reports of a red light over the Brook Park, OH, area, might, in fact, be a possible hoax.  A number of suspected hoaxed telephoned reports from Brook Park, OH, placed by young teenagers, on next day, included profanity and less than serious comments.  However, we are reconsidering our position, given that a television station in the area of the sightings, as well as the local police, received a number of telephone calls, and written reports, about the event.  Some reports are for July 9; others for July 10.  We are attempting to confirm the accurate date of the event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44881.html](http://www.nuforc.org/webreports/reports/044/S44881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
