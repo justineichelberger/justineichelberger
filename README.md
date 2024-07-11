@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Birmingham (NE of) (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Round object viewed from airlinerI snapped this picture from my seat on a flight from San Francisco to Atlanta. The picture was somewhere northwest of Birmingham, Alabama.  I noticed it outside my window, and figured it was another airliner.  After observing it a few seconds, I noticed it didn't look like another jet.  I couldn't see any wings or tail fin. It was in view for maybe 20 seconds or so before it changed directions and went out of my view.I am not sure of the time. The only reason I have a rough idea of a location is because I noticed the guy beside me had his flight tracker up on his seat monitor about 3 minutes after my sighting.I was heading East, the object appeared to be heading southeast at a 45 angle to us but never seemed to get closer or farther from us unti it changed its direction to south.The object looked whitish in color, shaped almost like a blimp or a football.  My best guess would be 10-20 miles away from our aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135113.html](http://www.nuforc.org/webreports/reports/135/S135113.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>large tear shape object flying north to souththere was a big flash of light 1min. later alarge tear shaped light came from north to south at incredible speed. it was bright white in color with yellow red on the end flying just above the hills 2 miles away, not a cloud in the sky. no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18375.html](http://www.nuforc.org/webreports/reports/018/S18375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
