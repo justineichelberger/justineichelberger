@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>large tear shape object flying north to souththere was a big flash of light 1min. later alarge tear shaped light came from north to south at incredible speed. it was bright white in color with yellow red on the end flying just above the hills 2 miles away, not a cloud in the sky. no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18375.html](http://www.nuforc.org/webreports/reports/018/S18375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>came from tower with flashing lights on st marys property towards 11th ave swBy 11th ave sw and 1st sw ..me an  a friend were sitting outside smoking an i seen a light out of the corner of my eye i looked up an seen a large flying object almost hovering..  i said to my friend look what the ..... is that?  as i pointed it was a if i could be heard an one by one the bright white lights started to shut off!?  an eventually went black! now there was not a cloud in the sky as we could see alot of stars?   NEVER HAVE I SEEN THIS BEFORE.I dont think it was a mayo one or a plane because almost always i can hear sound echo?  pleaase did anyone else see this??((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90844.html](http://www.nuforc.org/webreports/reports/090/S90844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
