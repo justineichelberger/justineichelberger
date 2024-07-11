@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yukon (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UFO triangle composed of spheres sighting over Yukon, OklahomaIn the early morning hours of Saturday, July  11 ,2020 at 2:40 a.m.  My son and I were sitting on my back patio chatting and watching for satellites.  My son said “ look ” ,  what he thought was a formation of birds approaching was actually a dull glowing triangle composed of three spheres that flew directly across our field of view.   The craft’s  design  had two spheres  on the bottom and one on the top.  They  were even spaced a few feet apart with no connecting structure being visible.This craft was traveling swift and silently on a straight line course from SE to NW .  Flight was steady and without any rotation or spin.  This craft was in flight at an altitude that I estimate to be 200 to 300 feet,  thus  placing this craft relatively closer than many other sightings.  The spheres each had a very faint internal illumination resembling the dull matte glow of a paper lantern.  At first I thought this was moonshine on the craft as there was a first quarter moon that had risen early to our backs and behind us , however, my son verified witnessing  this internal light source.As far as size.  I would estimate the craft to be no bigger than a full size pick up or van.  My son watched this approach and I watched it from the mid way point until it disappeared.  This was about 3 to 4 seconds of viewing time.   Estimating speed could be difficult ,  I would say that maybe take off speed of an Air Force jet.  I have a somewhat wide view of the sky and 3 to 4 seconds of passing flight time could be a close estimate.  We both watched this event happen and this was not a drone , balloons or aircraft of any type that I have ever seen.  This was a self propelled craft moving swiftly and silently going somewhere and we just happen to be in the right place at the right time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157936.html](http://www.nuforc.org/webreports/reports/157/S157936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Birmingham (NE of) (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Round object viewed from airlinerI snapped this picture from my seat on a flight from San Francisco to Atlanta. The picture was somewhere northwest of Birmingham, Alabama.  I noticed it outside my window, and figured it was another airliner.  After observing it a few seconds, I noticed it didn't look like another jet.  I couldn't see any wings or tail fin. It was in view for maybe 20 seconds or so before it changed directions and went out of my view.I am not sure of the time. The only reason I have a rough idea of a location is because I noticed the guy beside me had his flight tracker up on his seat monitor about 3 minutes after my sighting.I was heading East, the object appeared to be heading southeast at a 45 angle to us but never seemed to get closer or farther from us unti it changed its direction to south.The object looked whitish in color, shaped almost like a blimp or a football.  My best guess would be 10-20 miles away from our aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135113.html](http://www.nuforc.org/webreports/reports/135/S135113.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
