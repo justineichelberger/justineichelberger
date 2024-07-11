@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hampton (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular white light.I observed a single white light traveling south to north from my balcony.  It was a pure white color and I lost sight of it even though the skyline was still visible for me.  I am sure it was not the ISS as it does not travel from the south to north.  It made no odd movements and continued on its path so a satellite explanation is possible.  However after viewing the ISS and its speed multiple times, I can say this tracked slower than the ISS usually does.  Thank you.((NUFORC Note:  Possible satellite??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135102.html](http://www.nuforc.org/webreports/reports/135/S135102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in French village (MO) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Some sort of egg plant shaped craft dimmly lit from inside slightly pointed in front round in back white in front red in back.MY wife and I were at Goose Creek lake a gated comunity with some 1000 or so perminent residents and weekend property owners we are weekend and vacation property owners for 3 years now.My wife and I desided to go fishing sat. night for catfish at a pond that sits up above the large lake and to the south about 500 yards away.We started fishing about 10:30 pm and were doing quite well with 7 catfish by 2am but they seemed to stop biting and we started to get bored so we were star gazzing and admiring the moon which was very cresent just a sliver but you could completly see the dark side as well.There was a family fishing down the bank from us but they were leaving. After about 30 min. more we were getting ready to go back and clean fish and go to bed I happened to look up from gathering things and slightly behind us coming from the east was some sort of craft headed west into a slight breeze I asked my wife what the heck is that and she responded oh my God it was moving about 30 miles an hour at a steady speed slightly pointed in front and round in back about 300 feet away and about 100 to 150 feet high I remember thinking I could cast a line over it and snag it but all I did was walk a little closer and my wife said where are you going so I stoped.It seemed to be lit from inside like a dim neon brilliant white in front and slowly transitioned to deep red in back about 30 feet long and 10 feet thick the shape of a cucumber or egg plant completly silent it moved past us and the pond about 100 feet than made a 90 degree turn right angle I remember thinking its got to be some kind of crazy giant balloon but after that turn I knew it was"nt it continued down the valley over the big lake and up the other side until it was just a red dot and disappeared over the horizon.Its been a year now and I can"t seem to stop thinking about it was"nt going to report it but I came across your website and thought it would ease my mind a bit to report it thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101542.html](http://www.nuforc.org/webreports/reports/101/S101542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
