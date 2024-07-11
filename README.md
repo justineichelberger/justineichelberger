@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>came from tower with flashing lights on st marys property towards 11th ave swBy 11th ave sw and 1st sw ..me an  a friend were sitting outside smoking an i seen a light out of the corner of my eye i looked up an seen a large flying object almost hovering..  i said to my friend look what the ..... is that?  as i pointed it was a if i could be heard an one by one the bright white lights started to shut off!?  an eventually went black! now there was not a cloud in the sky as we could see alot of stars?   NEVER HAVE I SEEN THIS BEFORE.I dont think it was a mayo one or a plane because almost always i can hear sound echo?  pleaase did anyone else see this??((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90844.html](http://www.nuforc.org/webreports/reports/090/S90844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jakes Run (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Not a plane. Not a star. The most amazing thing I ever saw.This morning July 11 2012 1:00 am I was getting ready for bed and felt an urge to go out on my back porch for some fresh air. The sky was clear and stars and moon were out, for some reason I was compelled to look at a certain spot of the tree line, that's where I saw the light. At first I was sure it was a star, whitish in color. then it started to move up over the tree line, now I was sure it was an airplane it turned  a reddish color.To my amazement this thing what ever it is started moving in a way I have never seen anything in sky move before.  It would make sharp turns left right up down, but would stay in my view. It remind me of some one playing with a yo-yo in the sky.After watching this thing dance in the sky for five or so minutes.  I ran  into the house got my phone and ran back outside.  I  called and woke up my dad (he lives nearby) watched this light for a few more minutes, dad shows up but the light slowly dipped back behind the tree line.  I'm sure it was still there I just couldn't see it anymore.My dad left he didn't get to see it but I was so excited about what I just saw I couldn't go to sleep so I pulled up a lawn chair and watched the sky.  Around 1:30 am I thought the show was over.. this object (it could have been a meteor) flew across sky,  I never seen one so bright before. 2:00am another bright meteor or whatever it was flew the same path but backwards.Another strange thing, day time birds were up and making a lot of noise.I searched the web all morning trying to find some answer to what I saw.  To my surprise I saw an article on here from June 2012 south Charleston WV. I believe with all my being we saw the same object, they were  able to describe it better.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90775.html](http://www.nuforc.org/webreports/reports/090/S90775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
