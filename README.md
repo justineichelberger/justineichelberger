@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:46 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marion (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>spherical light in sky, moving at inhuman speed, brightens then disapearsI was sitting on my porch looking up at the stars, when I saw what I first thought was an airplane high in altitude.  I then realized it was closing the gap between 2 stars extremely fast, like no aircraft I've even seen.  All of the sudden it brightened and disappeared.  It was like someone was turning up a light bulb and then just turned it off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120320.html](http://www.nuforc.org/webreports/reports/120/S120320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Smithtown (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was early evening when my wife, and two of my son and I were in my pool when one of my sons was the first to notice high in the sky what could best be described to be a very bright distant flashing round light, it was far away and looked like the size of a very large bright star.  Because of the distance no detail of the object could be seen but it was stationary and the flashing was very bright and had no distinct pattern as it flashed at random.   The object seemed to at first to be moving higher in the sky and drifting I think in what may be North direction. At this time we debated and rationalized that if it could be a Mylar helium balloon and the sun would reflect off of it as it turned creating the bright flash of lights as it turned into the sun that was starting to set in the west.   Then it got a little more interesting as it started moving ( Drifting)  at a more rapid speed in a completely different direction at first moving closer to us and the! n moving what I think was east.  It made no noise had no characteristics of an aircraft that we could define.  We do not know what it was we saw but  if it was in fact a balloon its behavior was indeed unusual and the  brightness of the flashing seemed too strong and bright to be reflective.   The object moved farther and farther away until we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76555.html](http://www.nuforc.org/webreports/reports/076/S76555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
