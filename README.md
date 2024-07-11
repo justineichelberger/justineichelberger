@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:50 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:55 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hacienda Heights (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Color changing craft seen above Los Angeles suburbsThis morning I went to bed & my head was faceing by window (that has sheer) curtains & I noticed a light & thought is was a plane. I closed my eyes & opened them again & saw the light again & said humm it must be a start. Then I said that is to low to be a start I then got out pulled back my curtain & looked at it. I saw that there was not flashing lights like a plane & that it looked like it was trying to keep it's balance. It was in the same basic spot moving side to side just a bit like I said maybe to keep it's balance is the only way to put it. I then called my son in the room to come & look at it we watched it for a couple of hours. At one point the light fadded out to a pin point & then became bright again. We watched it move around & it looked like a red color would appear on the UFO like in the middle of it not a dot of red like it was a red smear forming in front of our eyes. This was not a plane this was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29677.html](http://www.nuforc.org/webreports/reports/029/S29677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A VISUAL SPHERE ON A LIVE SHOT OF DETROIT ON THE WEATHER CHANNEL AT 4:10PMTODAY JULY 11, 2011,  AT 4:10pm (INDIANA TIME). I WAS WATCHING THE WEATHER CHANNEL, WHEN THEY WENT TO A LIVE SHOT OF DETORIT MI.  AND A SPHERE APPEADED ON LEFT BOTTOM OF SCREEN.  IT APPEARED TO TRAVEL ACROSS A BODY OF WATER HEADING TOWARDS THE CITY VERY,  VERY FAST. WHEN IT GOT TO THE BLUIDINGS IT SEEMED TO DO A U TURN AND MAY HAVE ENTERED THE WATER.  I WAS ABLE TO RECORD IT TO MY DVR IF A COPY OF THE FOOTAGE IS NEEDED.  THANH YOU...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82402.html](http://www.nuforc.org/webreports/reports/082/S82402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
