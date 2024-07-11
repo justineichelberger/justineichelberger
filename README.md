@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:55 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A VISUAL SPHERE ON A LIVE SHOT OF DETROIT ON THE WEATHER CHANNEL AT 4:10PMTODAY JULY 11, 2011,  AT 4:10pm (INDIANA TIME). I WAS WATCHING THE WEATHER CHANNEL, WHEN THEY WENT TO A LIVE SHOT OF DETORIT MI.  AND A SPHERE APPEADED ON LEFT BOTTOM OF SCREEN.  IT APPEARED TO TRAVEL ACROSS A BODY OF WATER HEADING TOWARDS THE CITY VERY,  VERY FAST. WHEN IT GOT TO THE BLUIDINGS IT SEEMED TO DO A U TURN AND MAY HAVE ENTERED THE WATER.  I WAS ABLE TO RECORD IT TO MY DVR IF A COPY OF THE FOOTAGE IS NEEDED.  THANH YOU...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82402.html](http://www.nuforc.org/webreports/reports/082/S82402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hampton (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular white light.I observed a single white light traveling south to north from my balcony.  It was a pure white color and I lost sight of it even though the skyline was still visible for me.  I am sure it was not the ISS as it does not travel from the south to north.  It made no odd movements and continued on its path so a satellite explanation is possible.  However after viewing the ISS and its speed multiple times, I can say this tracked slower than the ISS usually does.  Thank you.((NUFORC Note:  Possible satellite??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135102.html](http://www.nuforc.org/webreports/reports/135/S135102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
