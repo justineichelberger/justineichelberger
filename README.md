@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fairport (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 red/orange lights/fireballs in sky over Fairport NYOn July 11th 2012 I was standing out on my driveway in Fairport NY when I saw 4 red/orange glowing balls or lights in a diamond formation.  There were fireworks in the area so initially I wasn't alarmed until I realized these 4 lights seemed to be moving in a formation, flew slowly, and were too high in the sky to be flares or fireworks.  At this point I ran in my house to grab my 2 girls who were still awake at the time, they are 12 and 14.  They too watched with me and tried to film them with our Iphones but there was too much surrounding light.  They diamond formation changed as this continued so it did not appear to 4 lights connected to 1 craft but rather 4 separate crafts or lights. after about 10 mins 1 fadded into the sky as if it were moving away from us, shortly later the other 3 did the same with 1 reappearing briefly.  There appeared to be a small plane flying directly toward the lights at one point and I would be certain they were seeing what we were. I checked the news the following morning and saw no reports until I googled it the following morning and saw this was not the 1st time similar lights like these have been spotted in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90801.html](http://www.nuforc.org/webreports/reports/090/S90801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A fast moving bright light changed direction suddenlyA fast light moving from south to north under the clouds suddenly change direction to move east.  It then went into the clouds and I only saw a blip of it a few minutes later, below where I'd seen it last.At first I thought it was a satellite or the space station because it move as fast as I've seen both of those but then I realized it was under the clouds and couldn't have been either.It appeared to be above Bozeman but could have been slightly further east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90792.html](http://www.nuforc.org/webreports/reports/090/S90792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
