@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red glowing balls of light moving quickly from north to southThree orange balls moving from north to south moving very quickly.  At one point the first hovered in the same spot for approximately 30 seconds before moving again.This was followed by at least two others that followed the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111431.html](http://www.nuforc.org/webreports/reports/111/S111431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Federal way (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Summer evening silver sphereI was with my father he was holding my hand to go tell my brothers it was time to come in because it was getting late..  I remember my dad gripping my hand and we stopped . A round silver sphere came straight down from the sky , made no sound hovered directly in front of my face and shot straight up into the sky.My dad grabbed me yelled to the boys to hurry he then turned and basically ran with me in his arms. I just watched history channel Ancient Aliens when they spoke about Jerry Betz’s sphere and I couldn’t believe what I was seeing it is the exact same thing that I saw.. so I had to contact the UFO center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153974.html](http://www.nuforc.org/webreports/reports/153/S153974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
