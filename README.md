@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in South Dewey Beach (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright White Fireball traveling sky left to land-water right over Rehoboth Bay, DEI was on Coastal Hwy in South Dewey Beach, DE, heading south towards the Indian River Bridge, still some 5 miles away, and saw what looked like a shooting star.  It was bright white fireball with an end tail and traveled very fast from Atlantic Ocean sky left to land or water right over Rehoboth Bay, DE.((NUFORC Note:  Possibly a meteor??  PD))((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135130.html](http://www.nuforc.org/webreports/reports/135/S135130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Two Bright Objects above San Antonio, Texas.After listening to COASTTOCOASTAM, I went to get a shower and after taking my shower I headed to bed.  I have a routine of looking out my window when I go to bed and this time as I look outside into the eastern sky, I notice a bright light?  At first I thought it was the moon?  But I looked to my right at a southeastern direction and there was the moon.  Then I thought it was a star and as I was about to look away I saw a small ariel vehicle approach this bright light in the sky from the north and it position it's self to the right of this bright object?  The small ariel vehicle did not have that blinking red light that most heliocopter or airplanes have under it's belly.  This smaller ariel vehicle had a pulsing motion to it?  After viewing the video tape of what I saw early this morning till the sun started coming up, I saw that this bright image had a dark middle area with multiple rings moving out from it's center?  At the time, I was seeing this I was having a severe headache from a strange humming sound in my ears that was louder then normal?  I have contacted some of the local news stations to ask if anyone reported this sighting in the A.M. hours and only one station NEWS4 KMOL said that there were a few reports.  I told them that I recorded this sighting and all the news stations want my recording but I told them that I will give them an answer later.  I believe I started seeing this object about 5:00 A.M. but did not start filming till 5:30 and my camcorder shows an ending time of 6:20 A.M. but I stop filming because the sun was coming up and I was very tired and wanted to get some sleep.  But the object was still there as the sun started coming up but the best view was against a dark sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38038.html](http://www.nuforc.org/webreports/reports/038/S38038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
