@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pensacola Beach (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately hours - hours minutes.</sub><blockquote><sub>We saw  what looked like circular shimmering lights of various colors all around the beach area.     They where NOT drowns.   No drinking or drugs where involved and i did manage to get them on my cell but the video would have to be blown up in size.  Educated here and not crazy.    I do not know how long they lasted because we ended up going to bed at about 11 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147575.html](http://www.nuforc.org/webreports/reports/147/S147575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yukon (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UFO triangle composed of spheres sighting over Yukon, OklahomaIn the early morning hours of Saturday, July  11 ,2020 at 2:40 a.m.  My son and I were sitting on my back patio chatting and watching for satellites.  My son said “ look ” ,  what he thought was a formation of birds approaching was actually a dull glowing triangle composed of three spheres that flew directly across our field of view.   The craft’s  design  had two spheres  on the bottom and one on the top.  They  were even spaced a few feet apart with no connecting structure being visible.This craft was traveling swift and silently on a straight line course from SE to NW .  Flight was steady and without any rotation or spin.  This craft was in flight at an altitude that I estimate to be 200 to 300 feet,  thus  placing this craft relatively closer than many other sightings.  The spheres each had a very faint internal illumination resembling the dull matte glow of a paper lantern.  At first I thought this was moonshine on the craft as there was a first quarter moon that had risen early to our backs and behind us , however, my son verified witnessing  this internal light source.As far as size.  I would estimate the craft to be no bigger than a full size pick up or van.  My son watched this approach and I watched it from the mid way point until it disappeared.  This was about 3 to 4 seconds of viewing time.   Estimating speed could be difficult ,  I would say that maybe take off speed of an Air Force jet.  I have a somewhat wide view of the sky and 3 to 4 seconds of passing flight time could be a close estimate.  We both watched this event happen and this was not a drone , balloons or aircraft of any type that I have ever seen.  This was a self propelled craft moving swiftly and silently going somewhere and we just happen to be in the right place at the right time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157936.html](http://www.nuforc.org/webreports/reports/157/S157936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
