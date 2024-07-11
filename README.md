@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 10 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Parker (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately ukn - ukn minutes.</sub><blockquote><sub>Info related to me by nephew. Nephew & 2 friends blowing fire crackers along river bank apparently scared an alien out of thickets. Described alien as bright orange w/large dark eyes. Started to chase them on foot so they ran, stopped and threw some fire crackers at it which made it run back into thickets. Bright light beamed over them at this point,they continued to run home.  All 3 went to nephews home (closest) when they arrived a bright light went on over the house.  Other sitings have been witnessed in this particular area but I've never heard of an actual alien on the ground.  What could be the reason for it to be described as bright orange?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38108.html](http://www.nuforc.org/webreports/reports/038/S38108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marion (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>spherical light in sky, moving at inhuman speed, brightens then disapearsI was sitting on my porch looking up at the stars, when I saw what I first thought was an airplane high in altitude.  I then realized it was closing the gap between 2 stars extremely fast, like no aircraft I've even seen.  All of the sudden it brightened and disappeared.  It was like someone was turning up a light bulb and then just turned it off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120320.html](http://www.nuforc.org/webreports/reports/120/S120320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
