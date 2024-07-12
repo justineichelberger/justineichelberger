@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 11 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Byron (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We saw orange lights that seemed to appear out of nowhere.  They went in a line and at one point three of them moved into a triangular formation.  Eventually they faded out into the horizon.  Thinking they were done we looked away.  About that time more began to come across the sky.  This lasted for about 15-20 minutes.  Someone else must have seen this.  Also there was not any noise coming from the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120305.html](http://www.nuforc.org/webreports/reports/120/S120305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Evansburg (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Bright light moving through the stars.Witnessed a very bright light moving through the stars at a great rate of speed.  Did not appear to be an aircraft.  No flashing lights.  Was not in the sky but appeared to be in space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147548.html](http://www.nuforc.org/webreports/reports/147/S147548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
