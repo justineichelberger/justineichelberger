@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:33 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ferozpur (Punjab)(India) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red blinking object seen moving in the sky up and down slanting nd curved manner from East to North East nd disappeared after 2-4 minsOn 12 July, 2020 at 8.30 pm, I noticed a red blinking object it was dotted more like a saucer/disc shaped, which was moving from east to North east direction that to from upward and then downward direction and in slanting way.  It was not moving in a co-ordinated manner rather it was irregular more like moving from to downward direction in curve and slanting way.  I tried capturing the videos and photos of that blinking object but it eventually failed.  The camera couldn't capture the object.  The movements continued for about 2-4 mins and then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157561.html](http://www.nuforc.org/webreports/reports/157/S157561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Round Rock (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two white orbs flying low and fast across the sky disappeared after approx. 10 seconds.While loading my groceries into the back of my SUV tonight at approximately 9:30pm I looked up in the sky to see two extremely bright white lights, one behind the other, traveling very low and very, very fast across the sky.  Then they both just disappeared.At first I thought it might be a plane, the lights being one on the wing and the other on the tail, but that got dismissed based on the speed and height at which they were both traveling.  Much too low to be an aircraft.  Then it struck me that neither one made any noise at all despite how low and fast they went.  Next thing I knew they disappeared altogether.I may have thought I was crazy, but I looked over and the old man loading his groceries next to me turned white, jaw dropped and he quickly got into his car and sped away.  He looked terrified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111459.html](http://www.nuforc.org/webreports/reports/111/S111459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
