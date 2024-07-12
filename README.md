@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kennett Square (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>oval shaped flaming lightOn Saturday , July 12,2003 at approximately 9:15 PM EST in southeastern Pennsylvania. I observed a elongated egg shaped object , glowing white in color . It looked like a shimmering sidways flame . The nose ( nose cone/ front ) of this object wavered like it was emitting heat . This object was seen in the southeastern night sky from my location and went from west to east direction . Its flight was very fast with a straight path and jerky movements . It made no sound what so ever . The object was above tree top level and above the power lines . At arms length it was larger than my fist . Actually , the object was almost in my back yard .Timing of sighting was less than five seconds and awe inspiring . Hoping someone else saw this .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29734.html](http://www.nuforc.org/webreports/reports/029/S29734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Liverpool (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I walked out of my front door to go to work somthing made me look up at the stars i was puzzeled at what seemed to be three very bright lights they were closer than the north star after about 1 min they shot off straight up ive never seen anything move so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23781.html](http://www.nuforc.org/webreports/reports/023/S23781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
