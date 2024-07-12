@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Charleston (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lights in the sky that stopped and hovered above us before shooting off in different directions very fast.I just found this website, but my experience was a number of years ago. My friends and I were sitting on the roof of my apartment building in Charleston, playing guitar and chatting for about an hour when I leaned back against the roof and saw what I thought at the time were two shooting stars.  I said out loud to my friends, "Oh my god guys, shooting stars.."  About the time I got the words out of my mouth the lights stopped directly over us for what seemed like minutes, but was probably more like 30 seconds.  They lights had no sound and they just hovered above us. Soon after they stopped, both crafts shot off in different directions extremely fast in a zig zag way, before they disappeared from sight.  All of us just sat there in silence, kinda in disbelief.  Then, once we realized what we had just witnessed, we collected our stuff and went back inside.  I would think I was crazy if I didn't have so many other witnesses.  I kinda would like to know if a! nyone else in the area has reported this....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91420.html](http://www.nuforc.org/webreports/reports/091/S91420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Navoo (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Group of four or five high-alt. lights.  Very fast and seemingly random and craftily steered slowing and speeding flights..Was out at a night time performance and saw these flying points of light doing crazy fast random type maneuvers.  Slowing then kind of playfully grouping and suddenly disappearing at what looked like an incomprehensible speed.  Must have been very high altitude. I remember the night sky was clear.  Group of four or five.  Very fast and seemingly random and craftily steered slowing and speeding flights.  No audibles.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133276.html](http://www.nuforc.org/webreports/reports/133/S133276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
