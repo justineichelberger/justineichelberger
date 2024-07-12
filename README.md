@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elmira (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange cigar shaped object hovering in farmers field, no noise and then takes offMy son and I watched an orange cigar shaped object hover in a farmers field about 200' off the ground.  There was no noise and then it took off in the opposite direction just over the tree line and a very fast rate until it was out of our sight.We have never seen anything like this ever before.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90826.html](http://www.nuforc.org/webreports/reports/090/S90826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Labadieville (LA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Oval flying object traveling north to south, seen around three times in the past two years.I was sitting on my front porch at 7:45 pm.  This is the third time in two years I've seen this oval flying white object travel in front of our home at the height of a low flying plane.  It traveled from north to south (heading toward the Gulf of Mexico).  I ran to get my daughter and a cell phone to get a photo.  It had gotten too far away by the time we ran outside.  The cell phone camera didn't pick it up.  Whenever I bring my actual camera outside with me, I never see a thing.  I just don't think it is a plane or a helicopter.  There is no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135112.html](http://www.nuforc.org/webreports/reports/135/S135112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
