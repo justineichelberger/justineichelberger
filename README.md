@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright flashing followed by red glowing pairsAt around 11:00 pm, I noticed some bright, white flashing lights coming from inside the forest behind my grandparent's home.  After looking harder, I observed 3 glowing pairs of red lights just beyond the tree line.  The flashing was not lightning, as it was dead silent, with almost no clouds in the sky.  When I tried to capture the event on camera, nothing would show up and the screen would go black.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111532.html](http://www.nuforc.org/webreports/reports/111/S111532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kennett Square (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>oval shaped flaming lightOn Saturday , July 12,2003 at approximately 9:15 PM EST in southeastern Pennsylvania. I observed a elongated egg shaped object , glowing white in color . It looked like a shimmering sidways flame . The nose ( nose cone/ front ) of this object wavered like it was emitting heat . This object was seen in the southeastern night sky from my location and went from west to east direction . Its flight was very fast with a straight path and jerky movements . It made no sound what so ever . The object was above tree top level and above the power lines . At arms length it was larger than my fist . Actually , the object was almost in my back yard .Timing of sighting was less than five seconds and awe inspiring . Hoping someone else saw this .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29734.html](http://www.nuforc.org/webreports/reports/029/S29734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
