@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:23 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>See's light over CranstonI saw a U.F.O. above my appartment building at about 12:37 am on july 12th. it was bright, and glowed a sunshine yellow. It had now descernable shape, though it seemed circular, and seemed to be spinning. The event lasted aproximately 12 minutes. The object hovered in the sky for about 7 minutes, staying in one spot. After about seven minutes, it began to shift left and right. I recorded two videos, one about 1 minute long, the other just under 3 minutes long, on my phone. the event ended at about 12:50, when the U.F.O. vanished when i looked away. It was far away, yet, since i could not see any specific features about the object and it had nothing except sky behind it, i could not estimate a distance from where i was.Stranger than the actual U.F.O were the things that happened during the event. First of all, i live just off of a major avenue, which is always being used all hours of the day. During the time i saw the U.F.O., i didn't see a SINGLE car pass bye. Second, i didn't alert either my sister or mother, whom i live with, because (and i am realizing this as i write) during the event, i felt separated from the world, like it was me, the thing in the sky, and the road below my window. it took me several minutes to gain my sences after the thing dissapeared. It might have been shock and even fear of seeing something i couldn't explain in the sky over my home, or something else. Either way, it was indeed freaky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64473.html](http://www.nuforc.org/webreports/reports/064/S64473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Visible UFO object in the sky.This phenomenon was so amazing that I even found it on Google maps.  I have pictures if you go on to Google maps and put 118 Cedarhurst RD, Lawrenceville, GA 30045 you can see the air craft on the sky.  It was amazing!!!!!  in plane day light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100053.html](http://www.nuforc.org/webreports/reports/100/S100053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
