@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cape May (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A moving light split into two then merged back into one, then traveled repeatedly between two starsLooking up at the sky from the beach on a clear night, a single white light was seen moving in a slow, steady arc across the sky. Initially we dismissed it as a satellite, but it then broke into two separate lights that, while continuing the original arc, also orbited clockwise around a central point twice before merging back into one light continuing for another couple seconds and then disappearing entirely. Several minutes later, a similar white light appeared and seemed to pass back and forth between the stars Dubhe and Merak in the Big Dipper about 5 times over the course of a minute before disappearing again completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165210.html](http://www.nuforc.org/webreports/reports/165/S165210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright flashing followed by red glowing pairsAt around 11:00 pm, I noticed some bright, white flashing lights coming from inside the forest behind my grandparent's home.  After looking harder, I observed 3 glowing pairs of red lights just beyond the tree line.  The flashing was not lightning, as it was dead silent, with almost no clouds in the sky.  When I tried to capture the event on camera, nothing would show up and the screen would go black.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111532.html](http://www.nuforc.org/webreports/reports/111/S111532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
