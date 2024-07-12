@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Navoo (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Group of four or five high-alt. lights.  Very fast and seemingly random and craftily steered slowing and speeding flights..Was out at a night time performance and saw these flying points of light doing crazy fast random type maneuvers.  Slowing then kind of playfully grouping and suddenly disappearing at what looked like an incomprehensible speed.  Must have been very high altitude. I remember the night sky was clear.  Group of four or five.  Very fast and seemingly random and craftily steered slowing and speeding flights.  No audibles.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133276.html](http://www.nuforc.org/webreports/reports/133/S133276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>BOX SHAPED OR SQUARE SHAPE UFO OVER DOWNTOWN DALLAS2 of us were sitting at dinner 24th floor overlooking Dallas, facing East toward DOWNTOWN and  saw a UFO fly overhead. No sound, no wings shaped like a box. black color. travelling NW at about 100mph. Anyone else see this???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100256.html](http://www.nuforc.org/webreports/reports/100/S100256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
