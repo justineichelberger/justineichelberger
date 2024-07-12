@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:49 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cigar shapped craft,moving very fast and very high;with no contrail!we witnessed,a silver cigar shapped craft.moving north east at a very fast rate of speed.this craft was also very high.at first i thought it was a jet.however there was no stream of smoke behind it,none at all!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29735.html](http://www.nuforc.org/webreports/reports/029/S29735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black Circular object flying high over tampa FloridaIt was about 5:15pm and my Girlfriend & I were on her back patio. She noticed a Black circular object and pointed it out to me saying "what is that". I looked and couldnt tell either. The object appeared to be very high in altitude and was traveling south to north fairly slow. We both watched it for about 5 minutes as it got closer until it finnally was over her roof and we lost sight of it. She lives in a very populated part of Tampa Florida and there is alot of airplane traffic around her place. However, as we both watched I said there is no way that is a plane or a helicopter it was Just a Black Circular object. about 10 minutes later we went outside and saw a real plane. Seeing a real plane fly over definitly made me believe the object we saw was NOT an ordinary aircraft. I am a 28 year old Art Director and My Girlfriend is a 25 year old Insurance agent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51317.html](http://www.nuforc.org/webreports/reports/051/S51317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
