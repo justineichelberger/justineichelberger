@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Norwalk (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>Sitting outside in the afternoon I saw a tiny light in the sky. Thought it was a star but kept an eye on it. It changed directions, it zig-zaged from E to W then S then E then W then S until it passed over me. Went and got my binoculars. It went to what I will call the "road" and went E. As I watched over time there were many "tiny lights" coming from all directions yet ending on the same "road" heading E.  One of them stopped and shot off a couple of white lights and then moved on. Then, on July 15 I saw one tiny star and got my binoculars and was stunned to see about 30 white circles around it. I couldn't see the white things with out the binoculars. They looked like huge plate shaped clouds. They didn't seem like metal. The sky seemed to have white chicken pox.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38981.html](http://www.nuforc.org/webreports/reports/038/S38981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Carol Stream (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 changin shape object in the skyfirst i was outside on my porch and all of a sudden my brother saw something in the sky but i ignored him i thought it was just a plane so he kept on sayin look look so i looked and i saw 5 aircraftes i thought they were planes until they started changing shapes so i went on the internet trying to find out what it was so i ran into you guys((NUFORC Note:  Witness does not provide e-address or telephone.  We do not know if this is a serious report, or not.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44950.html](http://www.nuforc.org/webreports/reports/044/S44950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
