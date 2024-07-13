@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>REDDISH DIAMOND/STAR OBJECT((NUFORC Note:  We have spoken with this witness, who succeeded in photographing the object he describes, and we assume he meant to indicate the date of 13JL00.  We have altered the date here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13431.html](http://www.nuforc.org/webreports/reports/013/S13431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Belle Harbor (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The thing  I found most odd was the object appeared to remain  motionless.A relative of mine first noticed two "white dots" in the sky. After pointing it out to others around him on the beach I eventually located one myself. At first I could not see what the others were able to see, then it came into focus. The one that I was able to view was of a different shape. The day was a perfect beach day, the sky was blue with puffy white clouds. The object that I saw along with the others appeared to be very high up. It's color could have been white or silver and long in shape. We live near JFK and Laguardia airports and are very familiar whith the various types of aircraft flying overhead. Whether it be a large jet, sometimes the the Concord, or small private planes flying along the coastline this object in no way resembled anything we have ever seen before. I am a World Trade Center survivor by only minutes and live less than a 1000 feet from the plane crash in Belle Harbor. While I was still looking at this object in the sky I called 911 and reported what I saw. I was thinking more along the lines of some terrorist controlled satellite than a spaceship of some sort. I am the kind of person who would sleep better if this could be explained logically. I have never seen anything like this before and when I mentioned it to a relative that wasn't there she said she heard of places where people can report such sightings and that is how I wound up here.P.S. I drew a quick sketch for a co-worker only  later to find it resembled a photo that a women took in Seattle WA that appears on your website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29733.html](http://www.nuforc.org/webreports/reports/029/S29733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
