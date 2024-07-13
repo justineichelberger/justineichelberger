@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mackinaw City (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright light that moved left to right, and up and downA disk shaped, glowing figure slowly moving upward as it went left to right.  It would stop moving up about every 10 minutes the light would dim.  Disappeared after about 2 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76568.html](http://www.nuforc.org/webreports/reports/076/S76568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 0.0125 - 0.0125 minutes.</sub><blockquote><sub>bright light over london in changed direction to sharply to aircraftbright light below high cloud for 3/5 secs moved across sky went above cloud 5/10secs re emerged stopped then moved of at a right angle to disappear behind high cloud again observed sky for 5/10 mins not seen again. seen moving west to east stopping then moving north.i live under heathrow flight path and no what all types of aircraft look like when flying at night and at all altitude's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71053.html](http://www.nuforc.org/webreports/reports/071/S71053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
