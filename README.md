@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:43 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:17 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Extremely bright light over Mt. BachelorMy husband and I saw a very bright light over Mt. Bachelor.  I thought it might be Venus, but I looked up the star chart and found Venus, and it was much dimmer.  This was so bright that it looked like a morphing bright light- it sort of changed shape and color, and we watched it as it "set" behind the mountain.  It was extremely bright, and was in the NW horizon.  I'm skeptical about UFO's, and I have a bachelors degree.((NUFORC Note:  Currently, Venus is visible in the evening western sky, and it is very bright.  We believe that it would have to be ruled out, before we could conclude that the witness saw something dramatic that was not Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44945.html](http://www.nuforc.org/webreports/reports/044/S44945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bekasi (Singapore) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 67.0 - 67.0 minutes.</sub><blockquote><sub>My brother and i saw this flying misterious object and we thought that it was a kite.  But an hour later, i started to think that this object wasn't a kite or even airplane,  the object constantly didn't move for 1 hour so i decided to take pictures and even a video.  Please confirm these pictures and my video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142208.html](http://www.nuforc.org/webreports/reports/142/S142208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
