@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marietta (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Craft with bright glowing lights fading from yellow to red in digital pattern.Craft moving at a speed of a normal airplane, but seemed to move in circular formation and lights which illuminated from yellow to red in a digital like pattern around the craft.((NUFORC Note:  We have amended the date above, and left a message for the witness, asking for confirmation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135121.html](http://www.nuforc.org/webreports/reports/135/S135121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Pearl like object seen hovering over Englewood, Colorado7/13/08    6:30pm  Place:  Englewood, Colorado  Witnesses: myself, my husband and our two children ages 9 & 6  Our family was playing kickball in a park in downtown Englewood.  My 9 yr old daughter pointed out an object hovering over the city.  If we looked straight up it was just a little to the East about 10 degrees from high noon.  It looked like a reddish silver pearl. Twice it looked like it was flashing brown and silver.  It hovered in the same spot for about 20 minutes.  After looking away and then back again I noticed that it almost looked like a disk with a tail pointing east kinda like a stingray.  All of us agreed it was emanating disks of brownish exhaust.   The exhaust disks were puffing out of the center of it the entire time.  Several times during our sighting commercial airliners would fly past it but it never moved.  After our 20 minutes of rest our family resumed our kickball game.  Both my husband and I looked up to find it but it had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64523.html](http://www.nuforc.org/webreports/reports/064/S64523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
