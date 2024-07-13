@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vandalia (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large white light dipped down toward us, then suddenly and very quickly headed out into space.Bright white light traveling very slowly at high altitude from north to south.  Directly over head.  My wife was walking our dog and I was taking out the trash when she pointed directly upward, bringing my attention to a bright light.  The light dipped down toward us, getting bigger in size.  Then, suddenly, and very quickly, it headed out into space.  My wife and I are both armature ((amateur??)) astronomers and are very familiar with all known aircraft and satellites.   We're out looking at the sky every clear night.  The size appeared huge, particularly when it dipped down toward us.  It was shocking to see it head outward into space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111569.html](http://www.nuforc.org/webreports/reports/111/S111569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Midvale (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>multiple craft flying around in sporadic and synced path following chem trailApprox Around 13:45 to 14:09 mountain time, I was washing my son in bath, I had stood up to get bath soap from the window and just happened to look out the window.  I noticed a chem trail being sprayed by plane and noticed below the trail shiny things in the air.So the plane had traveled and they were slowly following the path of the chem trail, but they would almost stop and fly around and around then move towards the plane or almost trying to catch up to it but taking their time.I know they were NOT birds because when they would change direction and altitude the different angles would hit the sun, causing them to reflect light or what light you'd expect from the sun, like a mirror.  So they seemed to be metal..actual material unknown.I had gotten excited so I ran downstairs and pointed it to my wife, 4 confirmed if she can or did see them and she said yes, I do see them.  There were about 9-16 or so, definitely more then ten (10), they all would fly around in circles following the east/southward path.They were hard to follow when going from upstairs to downstairs and back up again since that far away they'd blend in with the sky.I don't know exact altitude I'd guess 2 or 3 k feet up…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111518.html](http://www.nuforc.org/webreports/reports/111/S111518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
