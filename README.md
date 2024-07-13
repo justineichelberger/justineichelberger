@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>This time I went out to a hill to try to video tape the UFO again. And it came back at about the same time. I video taped the red UFO for this time for about 10min. This time I caught a shot of the thing that was better than the night before. It was a red UFO over the city, and then it was gone.((NUFORC Note:  This witness is experienced in photographing anomalous events, and works with another party in Glendale.  They both were videotaping the event described here simultaneously, and their tapes were used for a television new broadcast out of Phoenix. AZ.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13466.html](http://www.nuforc.org/webreports/reports/013/S13466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mackinaw City (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright light that moved left to right, and up and downA disk shaped, glowing figure slowly moving upward as it went left to right.  It would stop moving up about every 10 minutes the light would dim.  Disappeared after about 2 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76568.html](http://www.nuforc.org/webreports/reports/076/S76568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
