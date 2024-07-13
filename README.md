@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Schererville (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Red dot split in two pieces - shot in different directionsRed sphere in sky, hovered in air for about 2-3 minutes, split in two parts, shot in two different directions, then disappeared, then a white dot appeared behind each of the two pieces that split apart.  At one point the object changed colors, it changed to orange, red and white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04244.html](http://www.nuforc.org/webreports/reports/004/S04244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Humble (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>At approx 4:00 am 07-13-08 taking photos on the back waters of the Sanjacinto river,strange light.At approximately 4:00 am Mon morning of 7-13-08 I was out fishing on the back waters of the Sanjacino river and I was taking photos of my campfire and of things in the surrounding area.After development of my photos and not seeing what I'm going to explain,caught the attention of a co worker at my job as he asked me in a particular"what is that light"? So I looked and said,,,HmmI don't know".It is a photo of my campfire and with a solid wall of woods as my background,a perfect round white,bright light was in one them.After looking at a few more pics in the same area,one of them then what appeared to be a shadow image of a full moon or something,but there was no full moon at this time.Then,in a 3rd photo is what appears to be a blurry light as in very fast motion or something.So,I took these photos to Walgreens where they were originally developed and they reviewed the negatives they told me there was no photo glimpse or any error to cause this.I really believe I have something here because I do have very good instincts and there is just something strange here that I just cannot explain. I hope to hear some input on this situation because it has really caught the attention of a few other people nas well,((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64635.html](http://www.nuforc.org/webreports/reports/064/S64635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
