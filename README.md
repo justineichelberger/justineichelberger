@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Belle Harbor (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The thing  I found most odd was the object appeared to remain  motionless.A relative of mine first noticed two "white dots" in the sky. After pointing it out to others around him on the beach I eventually located one myself. At first I could not see what the others were able to see, then it came into focus. The one that I was able to view was of a different shape. The day was a perfect beach day, the sky was blue with puffy white clouds. The object that I saw along with the others appeared to be very high up. It's color could have been white or silver and long in shape. We live near JFK and Laguardia airports and are very familiar whith the various types of aircraft flying overhead. Whether it be a large jet, sometimes the the Concord, or small private planes flying along the coastline this object in no way resembled anything we have ever seen before. I am a World Trade Center survivor by only minutes and live less than a 1000 feet from the plane crash in Belle Harbor. While I was still looking at this object in the sky I called 911 and reported what I saw. I was thinking more along the lines of some terrorist controlled satellite than a spaceship of some sort. I am the kind of person who would sleep better if this could be explained logically. I have never seen anything like this before and when I mentioned it to a relative that wasn't there she said she heard of places where people can report such sightings and that is how I wound up here.P.S. I drew a quick sketch for a co-worker only  later to find it resembled a photo that a women took in Seattle WA that appears on your website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29733.html](http://www.nuforc.org/webreports/reports/029/S29733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pawhuska (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 aircraft side by side 1 was orange orb shape other was cargo jet flying low and slowHello on July 13, 2018, around 11:30 at night, me an my daughter were having Good night watching the satellites an stars on the front porch the sky was very Clear that night.  I see three red lights flashing very bright an I realized it's A jet but it didn't have the regular red,green and white strobes flashing just 3 Red on bottom of the fuselage and it was probably 3k to 5k ft high an when my view Was clear of the trees I noticed a orange blurred orb about 100 ft to its right an Both were flying together and alot slower an lower than the other passenger jets was I look hard at the jet an could tell it was a military transport jet when those red Lights lite up I could see the silhouette had rear cargo door shape an then i ask my Daughter can you tell what that orange orb is an she could not tell because it was Blurry to her to and we only could hear one aircraft .it was a orange blurry oval shape About 1/3 the size of the plane probaly around 75ft wide 15ft tall They both flew dew south an we lost visual after few more seconds they probaly flew 20miles in 30 seconds witch was slow and the orbs light had lite relfection on the Plane thats how close it was .haven't found any thing about it on social media or Local news i hope this helps somebody out .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142240.html](http://www.nuforc.org/webreports/reports/142/S142240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
