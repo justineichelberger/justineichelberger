@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 12 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Hillsborough (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Cigar shaped ufo moving at speed of falling star but stoped.Im allmost 40 years old and this sighting occured when I was approx 11 years of age, although I remember it like it was yesterday.  I come from a family of five and my father is a well known surgeon in the area.  I am currently finishing a BS degree at a well known university studying Geog and Gis etc.  Unfortunatly I recently fell victom to Leukemia and had to take some time off school.  I ve been watching alot of History channel etc on ufos and when I can I sometimes listen to coast to coast, (unless I just can't bear to listen to some of the bs from some people). Well one night, I was lying outside on my deck on a recliner looking up at the clear dark sky.  When all of a sudden a cigar shaped craft with green glowing like airplain windows flew over my house moving at the speed of a falling star except it stoped and I think looked at me and then resumed from 0  to the speed of a falling star and went twards the SFO airport and curved as it left.  Never the less this was no falling star.  I've done some reasearch on the ufo subject and what bothers me most about it are all the people who have everything to loose and nothing to gain by coming forward with knoweldge of this subject.  I hope this is helpfull to someone.  Also I do beleive if you concentrate on seeing a ufo enough it could appear (maby they are able to focus on thought) however I dont suggest it.  I will never forget what I saw (almost like a cartoon?) but I know that man dos not have this technology even today.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50088.html](http://www.nuforc.org/webreports/reports/050/S50088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>strange object seen in Grants Pass, OregonAt about 20:30 hours on July 13, 2008, I was standing out side and was talking and looked up saw what I thought to an aircraft, as I looked on this did not look like and aircraft, it was to low and where I live, aircraft fly higher up. As I watched the object move from north to south, I watched it and there seemed to be an aura or what looked to be a haze around it. The object was moving kind of slow, as I walked down the driveway to watch this object,  was when I noticed more the haze or aura around it. It seemed to all of a sudden disappear as I was watching it. When I walked back up the driveway, I looked up again and saw the same object moving in the same manner as I have described. I again walked down the driveway and watched the object and this time it had disappeared. My friends are trying to tell me that perhaps I seeing a meteor or a comet these objects would have left a trail of some sort. I know what I  saw and in no way it was a meteor or a comet.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64527.html](http://www.nuforc.org/webreports/reports/064/S64527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
