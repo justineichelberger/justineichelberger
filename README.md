@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pawhuska (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 aircraft side by side 1 was orange orb shape other was cargo jet flying low and slowHello on July 13, 2018, around 11:30 at night, me an my daughter were having Good night watching the satellites an stars on the front porch the sky was very Clear that night.  I see three red lights flashing very bright an I realized it's A jet but it didn't have the regular red,green and white strobes flashing just 3 Red on bottom of the fuselage and it was probably 3k to 5k ft high an when my view Was clear of the trees I noticed a orange blurred orb about 100 ft to its right an Both were flying together and alot slower an lower than the other passenger jets was I look hard at the jet an could tell it was a military transport jet when those red Lights lite up I could see the silhouette had rear cargo door shape an then i ask my Daughter can you tell what that orange orb is an she could not tell because it was Blurry to her to and we only could hear one aircraft .it was a orange blurry oval shape About 1/3 the size of the plane probaly around 75ft wide 15ft tall They both flew dew south an we lost visual after few more seconds they probaly flew 20miles in 30 seconds witch was slow and the orbs light had lite relfection on the Plane thats how close it was .haven't found any thing about it on social media or Local news i hope this helps somebody out .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142240.html](http://www.nuforc.org/webreports/reports/142/S142240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was staring at a "star" to the north of Jackson, NJ, whilst stargazing.  This "star" suddenly darted across the sky.I was staring at a "star" to the north of Jackson, NJ, whilst stargazing.  This "star" suddenly darted across the sky and disappeared.  It definitely wasn't a shooting star, and nothing else that I know of moves that quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128497.html](http://www.nuforc.org/webreports/reports/128/S128497.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
