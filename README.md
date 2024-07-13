@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:17 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bekasi (Singapore) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 67.0 - 67.0 minutes.</sub><blockquote><sub>My brother and i saw this flying misterious object and we thought that it was a kite.  But an hour later, i started to think that this object wasn't a kite or even airplane,  the object constantly didn't move for 1 hour so i decided to take pictures and even a video.  Please confirm these pictures and my video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142208.html](http://www.nuforc.org/webreports/reports/142/S142208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A group of adults witness two lights, moving rapidly overhead, which quickly swap positions.At approximately 10:30 PM Eastern Standard Time (3:30 AM UTC) two fast-moving objects were spotted in the sky directly above Portland, Maine.  The two objects initially followed identical linear trajectories through the night sky, separated by about 5 degrees of arc, coming into sight directly overhead.  The two lights were point-source, with brightness similar to a dim star.  At an incredibly high altitude, the fast-movers paralleled each other with great velocity – much faster than any satellite could travel while still maintaining orbit, and much faster than any known commercial or military aircraft.  Around 4 to 5 seconds after visual contact was established, the two objects immediately jutted to the left and to the right to cross paths with each other moments later.  The movement was seemingly impossible and violated laws of conservation of momentum, as an extremely large external force must’ve been present in order to move them in such a way.  After crossing! paths, the two objects returned to their original distance of separation and, with the same seemingly-impossible course correction, returned to their linear trajectories.  Two other witnesses and myself maintained visual contact until light pollution from the nearby city of Portland caused us to lose contact.If you have any further questions, feel free to reach me at this email or contact ((name and # deleted))((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142319.html](http://www.nuforc.org/webreports/reports/142/S142319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
