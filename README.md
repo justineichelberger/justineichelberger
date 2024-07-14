@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alpine (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>On July 14, 2019, (Sunday), Eastern Standard Time,  about 9:20pm, I was driving along Hillside Avenue in the area of Alpine, NJ, in Bergen County.  The sky was dark since the sun had already set down.The road was a bit hilly and I was driving upward close to the intersection on 9W right before stopping at a red light, when all of a sudden, an illuminating bright light sped quickly straight across right before the intersection across my path and stopped abruptly a few yards behind a tree on the right corner of the intersection.  Then surprisingly, a second later, another bright, illuminating light sped quickly just as the first light and stopped right before the first bright light stood.  As soon as the second light met up with the first light, they both zoomed straight out to the right and quickly disappeared.  These bright illumination lights happened in a matter of 2-3 seconds only.  That’s when I realized that I just encountered a mysterious sighting that happened in a split second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147600.html](http://www.nuforc.org/webreports/reports/147/S147600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ankeny (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>TRIANGLE FORMATION LIGHTS OVER CHURCH ANKENY, IOWAWe were driving along the highway at 2 a.m. on a Saturday morning.  We were driving a 2001 Ford Taurus.  I looked to my left and there was a church on the lower level street.  I then looked above the church and saw what looked to be about 50 to 100 feet in the air, three golden lights in a triangle formation hovering and rotating counter clockwise.  After a few seconds of witnessing this strange phenomenon, I saw grey spheres begin to form around the lights, and I started to fade in vision and found myself looking at the floor of the car. The driver and passenger assumed it would be a good idea to instead of stopping the car to drive to the nearest exit and get on the opposite side of the highway to get a closer look.  By the time we came to the other side of the highway, the lights were gone.  All three of us got out of the car and tried to collect ourselves.  I looked to the parking lot and I saw an SUV pull into the parking lot of the church with the light! s off, and what looked like a husband and wife get out.  The husband had a video camera but the lights were gone.  Also, on the highway there was a man who seemed baffled at the incident as much as we did.  There were no other cars on the highway.  We then drove home with no other suspicious activity.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107724.html](http://www.nuforc.org/webreports/reports/107/S107724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
