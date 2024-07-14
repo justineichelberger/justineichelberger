@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:51 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in White Bird (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright fast moving object very low in the skymoving west to east.July14, 2007 West Central Idaho (Lat 45 deg. 45’  Long 116) at approximately 8:45 PDT a large object was seen very low in the sky moving very fast from west to east.  No sound was heard.  It was visible for only a couple of seconds and disappeared behind Slate Point. Object was very bright.  We are not sure if there was a fiery tail or if  it was only the illusion of one as the object was visible for such a short period of time and was moving so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57666.html](http://www.nuforc.org/webreports/reports/057/S57666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright round light appears, then pulsates and vanishes.Sitting on porch, looking at sky, and saw what I thought was a bright star to the left of Venus and slightly above it.  I sit on porch all the time and never seen it before then no more than five seconds after turning my head slightly I saw the light pulsate out of the corner of my eye and when I turned my head to look it was gone.  I stood up to get better look and could not find the light anywhere.  I could still see Venus, but I didn't see the light return or show up in another spot.  It really puzzled me and I stayed outside for another 20 minutes and it never returned.  What could it of been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120416.html](http://www.nuforc.org/webreports/reports/120/S120416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
