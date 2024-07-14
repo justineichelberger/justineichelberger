@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Troy (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I watched a very bright  object flying west  for about 30 seconds before it took off at great speed .the object was very bright white moving slowly west,also seen what seemed to be alot of windows all along the object. After watching this for about 30 seconds it speed off at a great speed. As soon it was out of sight i started looking for the location of the moon and noticed it to be a bloody full moon [red,yellow,orange].I have seen other objects before but this is by far the best view i ever had of what i think was a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13460.html](http://www.nuforc.org/webreports/reports/013/S13460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A gigantic red cloud with an inner flickering light was seen hovering over the Scottsdale/Tempe area at 2 am on July 14th, 2008I am writing this report at 2:47 am to report a UFO that i saw over Scottsdale possibly as far south as Tempe. I live in north Scottsdale and the window where i saw the UFO was facing south.  At about 2 am earlier tonight on July 14th 2008, i went to close my window and i saw what appeared to be a red cloud in the sky hovering over Scottsdale.  Upon closer examination i saw what appeared to be a red inner glowing light and there reddish-orange cloud that surrounded it.  The shape of the cloud was a circle and it flickered with the inner light.  The feeling of seeing that is one that i will never forget.  My heart started to beat rapidly and my mind started racing.  I didn't know whether to wake up my parents or call my friends to check it out. I tried to call a friend of mine, but he did not answer.  I decided not to wake up my parents, because they would have just said i was crazy and told me to go back to sleep.  I didn't want to lose sight of the object either.  Anyway this object just stayed in one spot the whole time, i did not see it fly vertically. The only movement that could have happened was for it to move south, The cloud was strongest in the sky for about 5 minutes and than progressively got less bright over the few minutes. The weird thing was the shape of the cloud didn't get smaller.  It was still huge and it just seemed to get less bright until it vanished. The size was huge, it looked almost as big as a full moon does. In conclusion i want to say that i saw something tonight that i have never seen before in my life.  I am convinced that the object in the sky that i saw was way too big and way too bright to be anything that our military has disclosed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64534.html](http://www.nuforc.org/webreports/reports/064/S64534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
