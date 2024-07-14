@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ajax (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>thick beam of greenish light that did not taper lasted about 1.5 to 3 secondsI was sitting on my friends deck out back of his house haveing a conversation with him, i was perpinticular to the house and my friend had his back to the house facing the open sky. my friend was talking and in the middle of him telling a story about something thathad happened the weekend before his mouth dropped and tilted his head to look at what he was witnesing, I then looked the same direction as him when i seen a greenish light in the sky, it was about the width of my pinky finger and grew longer very rapidyly. it did not taper off like a shooting star or a comet or meteor, the entire beam of greenish light was the same thickness. it then got a certin length the whole beam got brighter then dissapered in an instant. i looked to my friend and asked him what that was. neither of us had an explanation for it so i quess it was a UFO, i sat there and tryed to cotemplate what it might have been, it could not have been a plane because it was nothing like a plane, i know what a plane looks like in the sky, and it couldnt have been a meteor because the tail did not taper off, this still scares the crap out me til today i was just wondering if anyone else has seen anything similar to this if they have my e-mail adress is ((address deleted))(NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48213.html](http://www.nuforc.org/webreports/reports/048/S48213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alpine (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>On July 14, 2019, (Sunday), Eastern Standard Time,  about 9:20pm, I was driving along Hillside Avenue in the area of Alpine, NJ, in Bergen County.  The sky was dark since the sun had already set down.The road was a bit hilly and I was driving upward close to the intersection on 9W right before stopping at a red light, when all of a sudden, an illuminating bright light sped quickly straight across right before the intersection across my path and stopped abruptly a few yards behind a tree on the right corner of the intersection.  Then surprisingly, a second later, another bright, illuminating light sped quickly just as the first light and stopped right before the first bright light stood.  As soon as the second light met up with the first light, they both zoomed straight out to the right and quickly disappeared.  These bright illumination lights happened in a matter of 2-3 seconds only.  That’s when I realized that I just encountered a mysterious sighting that happened in a split second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147600.html](http://www.nuforc.org/webreports/reports/147/S147600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
