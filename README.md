@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:08 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Homer Glen (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Tuesday morning 7/14/20. Was on deck reading. Husband was reclining in chair watching dragonflies darting back and forth above him.  Called me over to look at something he spotted in the sky.  Looked up and way above the clouds spotted an odd oval grayish something in the sky.  Way too high for any type of bird, or drone.  No movement, just sat there. Off to the east was a jet heading west (with a jet stream behind it).  Object was higher than jet.  As jet came closer to being below object, it shot off extremely fast to the west.  Still in our view, it stopped, sat a moment then shot off again to the south.  We always look for a logical explanation, but couldn't explain this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158048.html](http://www.nuforc.org/webreports/reports/158/S158048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rice Lake (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small fast moving "star" UFO, disappeared and then reapeared in different part of the sky,I believe I've seen very small looking UFO's.  My boyfriend and I were sitting on my porch at around 10 pm and noticed these small lights zooming around in the sky, like fast moving little stars or something.  They would go in little circles and curlicues and then dissapear and reapear in another part of the sky, I think there were two of them.  They were way too fast to be a jet or plane, and they flew in patterns/circles like I said, so there's no way it was a bird either, and they were too far away, not to mention the lights.  It was so crazy we watched them for like almost an hour, I've never seen anything like it, they just kept disappearing and reapearing all over the place, it was....phenomenal.  I just saw one tonight, just for a second then it was gone, which made me decide to ask google if anyone else had seen them, lol. Also, the lights were just white, no red, and it almost looked like the lights were spinning, if you know what I mean, but they were too! far away to really tell.  I'm trying so think of more ways to describe them, but all I know for sure is that I don't know of anything that moves that way, definitely too fast for a satellite, etc.  Maybe we aren't alone in the universe after all... :)((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  Indicates no date or time for the sighting.  PD))((ADDENDUM FROM WITNESS))Sorry it took me so long to reply, but I want to say it was the Saturday the 14thSent from my Windows Phone((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91107.html](http://www.nuforc.org/webreports/reports/091/S91107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
