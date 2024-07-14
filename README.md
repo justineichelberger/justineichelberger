@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:09 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:52 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Avenal (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately sky - sky minutes.</sub><blockquote><sub>SEEMS LIKE A STAR,BUT MOVING UP &DOWN ,ZIGGAED,CRAZY MOVEMENT WITH FLASHING GREEN,BLUE,RED, &WHITE FLASHING LIGHTS.IT LOOKED LIKE A STAR BUT AS YOU KEEP WATCHING YOU WILL SEE A GREENISH/BLUE/ AND REDISH COLOR BLINKING LIGHTS.IT WOULD STAY IN PLACES AND THEN ALL OF THE SUDDEN IT WOULD MOVE SIDEWAYS ,THEN UP & DOWN, THEN ZIGGAED. BUT WOULD BE ABLE TO SEE IT FOR HOURS,UNTILL IT FADES AWAY OVER THE DARK MOUNTIANS. AND IF YOU LOOK CAREFULLY YOU COULD SEE ABOUT 4 OR 5 MORE CLOSE BY. I SEE THEM EVREY NIGHT FROM MY FROUNT WINDOW. I LIVE ON HWY 33 IN AVENAL ,CA IN FROUNT OF BIG MOUNTIANS,AT FIRST NO ONE WOULD BELEAVE ME UNTILL I TOLD THEM , LOOK AT THAT STAR FOR 10 MIN, IF IT DOSEN'T MOVE I'LL GIVE YOU $20.00,AND THEY WERE SURPRISE AND COULDN'T BELEAVE THERE EYES.THANK YOU ..((NUFORC Note:  We suspect that a twinkling star is the first possibility that should be ruled out in this case.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23758.html](http://www.nuforc.org/webreports/reports/023/S23758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 100.0 - 100.0 minutes.</sub><blockquote><sub>Me and my wife witness. Three lights in a triangluar shaped formation floating over horizon for a good two hours.I was driving to Prescot from Green Valley, on high way 8 with my family for familly dinner, when suddenly my 8 year old son said "Daddy!, theres' a ship in the sky!" Me and my wife then looked up to see three green lights in a HUGE triangle, or V formation.  The object moved about every 5 minutes, from side to side, or up and down.My wife, who was frightened said "Call the police! Call the Police!".  Sadly, we had left our cellphones in the baby bag at home.  So i stopped the car to look up at the strange object.  The lights were flashing green and they didn't seem to be connected to each other.  But they stayed in a straight line and continued to hover.  About 20 minutes into watching it it climbed a few 100 feet into the air and continued to hover.  It moved vigorously up and down from side to side.  As it climbed, thats lights became whiter and whiter, and soon became pure white. For a moment, we couldn't see it because of the tree's.  But soon enough it hovered over our car.  It was at a high altitude, so i could not say if it was directly above or not.  But then it started slowly moving west, turning counter clock wise [ which was odd, because it was a triange shaped air craft ]. It then sped off at almost the speed of light maybe 50-60 miles west.  It was just above the horizon when it stopped.  Then another 5 or ten minutes later, it sped off into the horizon disappearing completely.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We cannot certify that this is intended to be a serious report.  The date indicated may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67745.html](http://www.nuforc.org/webreports/reports/067/S67745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
