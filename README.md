@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Aurora (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>At 23:30 on July 14th. I couldn’t sleep so I whent out onto the step landing to smoke it had rained and I could more stars than usual I was looking to the south west and saw a reddish orange ball appear on the horizon as it came closer I could see a lack band around it . There was only one what I thought was a cloud and this was right over my head, when the ball was about half way to the cloud another ball appears and then another and another til there were7 about then #1 interned the cloud .  I had been studying the cloud and could see vertical strips the full width of it the first ball flew into it and didn’t come.out the other balls were flying in A zigzag or staggered formation and other than 1 disappearing from.one side and appearing on the out side looked like they were touching and flew like that for about a min.  There was no sound nor exterior lights when the trailing edge of the last object interned the cloud the cloud balls and all disappeared quicker than you could blink your eye</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149325.html](http://www.nuforc.org/webreports/reports/149/S149325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ajax (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>thick beam of greenish light that did not taper lasted about 1.5 to 3 secondsI was sitting on my friends deck out back of his house haveing a conversation with him, i was perpinticular to the house and my friend had his back to the house facing the open sky. my friend was talking and in the middle of him telling a story about something thathad happened the weekend before his mouth dropped and tilted his head to look at what he was witnesing, I then looked the same direction as him when i seen a greenish light in the sky, it was about the width of my pinky finger and grew longer very rapidyly. it did not taper off like a shooting star or a comet or meteor, the entire beam of greenish light was the same thickness. it then got a certin length the whole beam got brighter then dissapered in an instant. i looked to my friend and asked him what that was. neither of us had an explanation for it so i quess it was a UFO, i sat there and tryed to cotemplate what it might have been, it could not have been a plane because it was nothing like a plane, i know what a plane looks like in the sky, and it couldnt have been a meteor because the tail did not taper off, this still scares the crap out me til today i was just wondering if anyone else has seen anything similar to this if they have my e-mail adress is ((address deleted))(NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48213.html](http://www.nuforc.org/webreports/reports/048/S48213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
