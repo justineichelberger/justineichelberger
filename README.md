@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hamilton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>saw dome shaped object in yard w/ whirling white light on top, flew off straight ahead as fast as lightningLooked out bedroom window and saw a domed shaped object in the middle of the yard.  It had a whirling white light on top. few minutes later it began to make a noise similar to the sound the Jetsons car makes when flying.  Suddenly it took off straight forward as fast as lightning.  Nobody believes me.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28076.html](http://www.nuforc.org/webreports/reports/028/S28076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Troy (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I watched a very bright  object flying west  for about 30 seconds before it took off at great speed .the object was very bright white moving slowly west,also seen what seemed to be alot of windows all along the object. After watching this for about 30 seconds it speed off at a great speed. As soon it was out of sight i started looking for the location of the moon and noticed it to be a bloody full moon [red,yellow,orange].I have seen other objects before but this is by far the best view i ever had of what i think was a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13460.html](http://www.nuforc.org/webreports/reports/013/S13460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
