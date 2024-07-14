@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ankeny (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>TRIANGLE FORMATION LIGHTS OVER CHURCH ANKENY, IOWAWe were driving along the highway at 2 a.m. on a Saturday morning.  We were driving a 2001 Ford Taurus.  I looked to my left and there was a church on the lower level street.  I then looked above the church and saw what looked to be about 50 to 100 feet in the air, three golden lights in a triangle formation hovering and rotating counter clockwise.  After a few seconds of witnessing this strange phenomenon, I saw grey spheres begin to form around the lights, and I started to fade in vision and found myself looking at the floor of the car. The driver and passenger assumed it would be a good idea to instead of stopping the car to drive to the nearest exit and get on the opposite side of the highway to get a closer look.  By the time we came to the other side of the highway, the lights were gone.  All three of us got out of the car and tried to collect ourselves.  I looked to the parking lot and I saw an SUV pull into the parking lot of the church with the light! s off, and what looked like a husband and wife get out.  The husband had a video camera but the lights were gone.  Also, on the highway there was a man who seemed baffled at the incident as much as we did.  There were no other cars on the highway.  We then drove home with no other suspicious activity.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107724.html](http://www.nuforc.org/webreports/reports/107/S107724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Braintree (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>house shape object with lights and a encounterit was about 1130 pm clear night in the fly alittle floggy on the ground and i was pulling down my girl friend street she was sleeping in the car and i saw infront of my these lights that looked like a plane was landing or doing a very sharp turn very low with the landing gear down. But it was moving to slow kind of a hoving type movment and i stopped got out of the car because i never saw anything like this in my life and i was screaming to my girlfriend wake up and she didnt and i turned back and in fanished gone and then reappeared again  right above the house infront of me to the right far away now with the lights facing down light a street light if your looking at in far away almost behind it and it pulled back and shot off quietly leaving a light type trail but it got weird later that night when i was home and driving home i could see in the sky the same lights following me very high up in the sky but just enough to see them as im driving it was right ! over my house when i got home i was up all night thinking about what i saw and thats when it happened around 230 i could hear my name outside my window weird noices so i open up my window and something hit me right away like someone had a bear hug on me and i could hear in my head your species will fall and then saw a flash in front of the window i fell to my knees and was freaked out i cried weird thing was it was about 330 like a lost of time i never wanted to tell anyone this because  no one will ever believe this and i dont care because ill never forget it till the day i die</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104254.html](http://www.nuforc.org/webreports/reports/104/S104254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
