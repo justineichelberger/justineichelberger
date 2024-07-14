@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:48 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Shawano (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I observed a very fast moving object traveling northernly direction heading towards Lake Superior.It was very bright and very high approximately same size as the stars.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100179.html](http://www.nuforc.org/webreports/reports/100/S100179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nantucket (MA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Nantucket odditystar gazing on rook deck in Nantucket.  Saw three very bright white pulses about 5 seconds apart viewing between the two stars that make up the handle of the Big Dipper.  Object appeared to be very high (outside of our atmosphere) and simply fanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120584.html](http://www.nuforc.org/webreports/reports/120/S120584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
