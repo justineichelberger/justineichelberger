@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Panorama City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UFO sighting 7/14/12 over Panorama City CA.I just went Outside my home to smoke a cigarette when I looked at the stars and I noticed an orb of light resembling a star but, with key differences. 1)  It was making itself brighter and would completely fade to black. 2)  Stars are stationary this was clearly moving and direct manipulation of acceleration and deceleration. 3)  It moved at least 20 to 30 mph from my distance. which was at least 300 yds northwest.I was astonished and shaken straight to the core.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90886.html](http://www.nuforc.org/webreports/reports/090/S90886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Apopka (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red and green flashing orb above tree line followed by bizarre humming noise and overwhelming fear.I walked outside to get my cigarettes from my car, when suddenly, I felt a strange feeling.  I looked up and just beside the trees was a red and green flashing light, moving erratically in a zig-zag fashion, only to stop and hover for some time, leading me to conclude it was not a plane and could not be a star due to it's various flashing colors.  A hazy beam of light could then be seen emanating from it as if searching for something.  I stood there for nearly 10 minutes until I heard a dull humming noise coming from the direction of the UFO.  I felt suddenly overwhelmed with fear and ran back inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128486.html](http://www.nuforc.org/webreports/reports/128/S128486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
