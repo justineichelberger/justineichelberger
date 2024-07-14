@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 13 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Midvale (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>multiple craft flying around in sporadic and synced path following chem trailApprox Around 13:45 to 14:09 mountain time, I was washing my son in bath, I had stood up to get bath soap from the window and just happened to look out the window.  I noticed a chem trail being sprayed by plane and noticed below the trail shiny things in the air.So the plane had traveled and they were slowly following the path of the chem trail, but they would almost stop and fly around and around then move towards the plane or almost trying to catch up to it but taking their time.I know they were NOT birds because when they would change direction and altitude the different angles would hit the sun, causing them to reflect light or what light you'd expect from the sun, like a mirror.  So they seemed to be metal..actual material unknown.I had gotten excited so I ran downstairs and pointed it to my wife, 4 confirmed if she can or did see them and she said yes, I do see them.  There were about 9-16 or so, definitely more then ten (10), they all would fly around in circles following the east/southward path.They were hard to follow when going from upstairs to downstairs and back up again since that far away they'd blend in with the sky.I don't know exact altitude I'd guess 2 or 3 k feet up…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111518.html](http://www.nuforc.org/webreports/reports/111/S111518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Homer Glen (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Tuesday morning 7/14/20. Was on deck reading. Husband was reclining in chair watching dragonflies darting back and forth above him.  Called me over to look at something he spotted in the sky.  Looked up and way above the clouds spotted an odd oval grayish something in the sky.  Way too high for any type of bird, or drone.  No movement, just sat there. Off to the east was a jet heading west (with a jet stream behind it).  Object was higher than jet.  As jet came closer to being below object, it shot off extremely fast to the west.  Still in our view, it stopped, sat a moment then shot off again to the south.  We always look for a logical explanation, but couldn't explain this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158048.html](http://www.nuforc.org/webreports/reports/158/S158048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
