@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:08 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:09 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rice Lake (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small fast moving "star" UFO, disappeared and then reapeared in different part of the sky,I believe I've seen very small looking UFO's.  My boyfriend and I were sitting on my porch at around 10 pm and noticed these small lights zooming around in the sky, like fast moving little stars or something.  They would go in little circles and curlicues and then dissapear and reapear in another part of the sky, I think there were two of them.  They were way too fast to be a jet or plane, and they flew in patterns/circles like I said, so there's no way it was a bird either, and they were too far away, not to mention the lights.  It was so crazy we watched them for like almost an hour, I've never seen anything like it, they just kept disappearing and reapearing all over the place, it was....phenomenal.  I just saw one tonight, just for a second then it was gone, which made me decide to ask google if anyone else had seen them, lol. Also, the lights were just white, no red, and it almost looked like the lights were spinning, if you know what I mean, but they were too! far away to really tell.  I'm trying so think of more ways to describe them, but all I know for sure is that I don't know of anything that moves that way, definitely too fast for a satellite, etc.  Maybe we aren't alone in the universe after all... :)((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  Indicates no date or time for the sighting.  PD))((ADDENDUM FROM WITNESS))Sorry it took me so long to reply, but I want to say it was the Saturday the 14thSent from my Windows Phone((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91107.html](http://www.nuforc.org/webreports/reports/091/S91107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Avenal (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately sky - sky minutes.</sub><blockquote><sub>SEEMS LIKE A STAR,BUT MOVING UP &DOWN ,ZIGGAED,CRAZY MOVEMENT WITH FLASHING GREEN,BLUE,RED, &WHITE FLASHING LIGHTS.IT LOOKED LIKE A STAR BUT AS YOU KEEP WATCHING YOU WILL SEE A GREENISH/BLUE/ AND REDISH COLOR BLINKING LIGHTS.IT WOULD STAY IN PLACES AND THEN ALL OF THE SUDDEN IT WOULD MOVE SIDEWAYS ,THEN UP & DOWN, THEN ZIGGAED. BUT WOULD BE ABLE TO SEE IT FOR HOURS,UNTILL IT FADES AWAY OVER THE DARK MOUNTIANS. AND IF YOU LOOK CAREFULLY YOU COULD SEE ABOUT 4 OR 5 MORE CLOSE BY. I SEE THEM EVREY NIGHT FROM MY FROUNT WINDOW. I LIVE ON HWY 33 IN AVENAL ,CA IN FROUNT OF BIG MOUNTIANS,AT FIRST NO ONE WOULD BELEAVE ME UNTILL I TOLD THEM , LOOK AT THAT STAR FOR 10 MIN, IF IT DOSEN'T MOVE I'LL GIVE YOU $20.00,AND THEY WERE SURPRISE AND COULDN'T BELEAVE THERE EYES.THANK YOU ..((NUFORC Note:  We suspect that a twinkling star is the first possibility that should be ruled out in this case.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23758.html](http://www.nuforc.org/webreports/reports/023/S23758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
