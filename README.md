@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 14 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bozrah (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright white spherical object, suspended in the sky around 11AM that remained stationary for over a half hour, then just disappeared.My mother and I were sitting on my back porch having coffee around 11:00 AM, enjoying the beautiful sunny day, when I looked up and saw the object hovering.  It looked like a golf ball suspended in the sky.  I could see it had dimension with my naked eye, but found it very hard to capture it with my phone camera as clear as I could see it.  The object did not move, it stayed stationary the whole time. We watched it for about a half hour.  We went inside for about 15 minutes and when we returned the object was gone.  The sky was clear, not a cloud in sight, so it simply disappeared and didn’t just move in the sky like the moon would or any other celestial object. I shared the pictures I took to our local Facebook forum to see if anyone else in town had seen the object as well.  No one else claimed to have seen it, but many had explanations, all of which were not possible.  Some had suggested it was the International Space Station, and to my knowledge the space station moves in the sky.  This was stationary and seemed to be in our atmosphere, not in orbit, because I could see it had dimension (shadows on the edges).  Others had said it could be a weather balloon, but again, it would have moved, even a little. I would love to hear some professional opinions.  This was one of the strangest things I have ever seen.  I would like some feedback as to what this could possibly be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159345.html](http://www.nuforc.org/webreports/reports/159/S159345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Aurora (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>At 23:30 on July 14th. I couldn’t sleep so I whent out onto the step landing to smoke it had rained and I could more stars than usual I was looking to the south west and saw a reddish orange ball appear on the horizon as it came closer I could see a lack band around it . There was only one what I thought was a cloud and this was right over my head, when the ball was about half way to the cloud another ball appears and then another and another til there were7 about then #1 interned the cloud .  I had been studying the cloud and could see vertical strips the full width of it the first ball flew into it and didn’t come.out the other balls were flying in A zigzag or staggered formation and other than 1 disappearing from.one side and appearing on the out side looked like they were touching and flew like that for about a min.  There was no sound nor exterior lights when the trailing edge of the last object interned the cloud the cloud balls and all disappeared quicker than you could blink your eye</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149325.html](http://www.nuforc.org/webreports/reports/149/S149325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
