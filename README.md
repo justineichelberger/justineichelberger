@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Waimanalo (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Started as a bright star on horizon, silently moved in a east-west direction over us. multi-colored light along the outside of the triangle-shaped craft, absolutely no noise being emitted from the craft((NUFORC Note:  Date is approximate.  Object would not have been a satellite, and probably was not a missile out of Vandenberg AFB, launched as part of the missile defense system; we do not believe they pass over Hawaii.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27051.html](http://www.nuforc.org/webreports/reports/027/S27051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Kernville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright Fire ball heading north over the mountainsit was a fireball white in color heading north at a very high rate of speed  the sky was very clear and was camping in the mountains((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54492.html](http://www.nuforc.org/webreports/reports/054/S54492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
