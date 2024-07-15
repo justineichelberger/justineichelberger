@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Peoria (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>flying disk over northern Peoria, IllinoisI was about five and remember it was around the time of the Apollo 11 moom landing.  At some point in the afternoon a group of friends and myself, all aged between four and six, chased a metallic disk flying low overhead in the sky.  I lived on Pinehill Lane in Peoria and the disk seemed to fly in the same vector as the street, roughly north to south.  I remember someone else confirming that there had been a saucer seen over the "Hawley Hills" subdivision of Peoria at the same time, although the "confirmation" I received took place some six years later when my family returned to the area.  I have never reported this before but have never forgotten it.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26130.html](http://www.nuforc.org/webreports/reports/026/S26130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Bucyrus (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 conical-shaped objects 'zipped' arond the moon.  Each object appeared to be an elongated return module.In the mid-70's, I couldn't find a fishing buddy, so I went alone.  I trudged 1500 feet to the spot I chose got my bait in the water, put my bell on my pole and leaned against the bank and looked up at the full-moon.  And was I shocked!  Facing to the west as I looked up I noticed an object near the moon.  This object was well lit, as the moon, not hard to see plainly-noticing first was a ring around the object.  Secondly, I noticed the object seemed to be an adapted return module.  It appeared as though the heat shield and the nose cone had been separated and more "body" was added.  It appeared as the body was attached to the heat shield and tapered down to the nose cone section.  Nose cone section had been adapted to round from squarish as the return module has been.  The object zipped around the moon.  As it started it's circum-navigation of the moon, a second object was revealed that was same as the first, one having went around the moon once and one twice.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146573.html](http://www.nuforc.org/webreports/reports/146/S146573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
