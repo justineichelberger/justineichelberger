@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dartmouth (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Multiple lights seen over South DartmouthUFO sighting  Over South Dartmouth around 9:15pm on 7-15-20, 6 people spotted 2 bright lights appear out of nowhere simultaneously in the sky to our South.  They were bright and looked as big and as bright comparatively to the brightest star/planet that was in the sky at the time.  There were no flashing lights, no sound, no contrail, and no definitive shape to it other than a single bright light.One was closer to us flying about where a lower airplane would be and started traveling East in a straight trajectory about as fast as an airplane until it finally got so far it was behind trees and houses and out of view within about 5 minutes from when it appeared.The second light that had appeared looked exactly the same but appeared higher and further away than the other. It traveled up and East then seemed to head South away from us, faded quickly and disappeared within 30 seconds from when we first saw it.After about 15-20 minutes of looking at the sky wondering what we just saw, we could hear an actual airplane coming and flew over us from behind the trees to our south west traveling north east over our house. As we watched it directly overhead, 3 of us saw a third bright light appear in front and to the right of the plane. The three of us jumped up at the same time to get a better look. The light was maybe a little higher than where the plane was flying and moved in front of the plane from right to left (northwest direction) and not straight but around the nose of the plane as if avoiding it. Then the light quickly faded to red and disappeared.Later that night I was heading inside the house just before 11:00pm and in the sky to my northeast this time i saw a forth bright light as the one first described traveling in the same eastern trajectory in the exact same fashion.  No flashing lights, sounds, shape, or contrail. Same height in the sky and this time being maybe 2-3 miles north of me i could definitively say it was not in outer space.  It too flew at a constant speed from west to east and i watched it until it was too far away and out of view behind trees and houses.  It took about 5 minutes for it to go across the sky and out of sight, enough time for me to call 3 other people to the porch to take a look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157704.html](http://www.nuforc.org/webreports/reports/157/S157704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Temecula (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Green light over west coast.Looking southwest we saw a light go straight up above the horizon, it moved around left to right, and seemed to be orbiting, with very rapid movements,  then it left and headed south out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135172.html](http://www.nuforc.org/webreports/reports/135/S135172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
