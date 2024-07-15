@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:09 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Clio (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>pulsating circular light moving SO to NW slowley at very high altitudemy daughter and i were using her new telescope when we saw a pulsating light moving slowly at a very high altitude from south to northwest we watched this for approximately 10 minutes then it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13619.html](http://www.nuforc.org/webreports/reports/013/S13619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Devil's Lake (ND) reported seeing craft that fit the description of some 'Formation' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>4 flashing lights organized in a rectangle followed distantly by a large helicopter4 white pulsating lights followed distantly by a large slower moving helicopter.  The lights stayed perfectly distanced from one another creating a rectangular shape.  They blinked one at a time in what seemed to be an organized pattern from top left, top right, bottom right, bottom left, and repeated this as long as it could be seen.  I followed the lights and the helicopter but was unable to match speed.  I noted that my car radio had a weird feedback at this time, and I was listening to a CD versus a radio station.  Also, my headlights seems to flicker which is unusual.  I attempted to take a picture in my phone if this, but it was too dark and nothing shows on it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157651.html](http://www.nuforc.org/webreports/reports/157/S157651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
