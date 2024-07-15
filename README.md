@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dover (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red and orange light seen moving and hovering in Dover, PA.At approximately 21:20, I witnessed what appeared to be a red spherical light containing an orange light within, simultaneously descending and approaching the area in which I stood.  By my estimation the light seemed to be only slightly above tree level.  I moved in the direction of the light hoping to capture its image on my cell phone; despite attempting twice I was unable to capture any definite image on the phone.The light remained in one definite place for a period of approximately 20-30 seconds, appearing still in the night sky above the houses.  The orange light within seemed to remain constant, appearing to slightly pulse to the naked eye.  After remaining still for a 20-30 second period the light began to in the direction I guessed to be northeast.  I lost sight of it several times when it was blocked by trees and each time I saw the light it appeared smaller.  The light maintained a constant appearance, seeming to move slowly while I'm convinced it must have been moving with some definite speed.  I ran, attempting to mark the movement of the light, hoping to identify exactly what it was.By 21:25 I had lost sight of the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71104.html](http://www.nuforc.org/webreports/reports/071/S71104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Peoria (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>flying disk over northern Peoria, IllinoisI was about five and remember it was around the time of the Apollo 11 moom landing.  At some point in the afternoon a group of friends and myself, all aged between four and six, chased a metallic disk flying low overhead in the sky.  I lived on Pinehill Lane in Peoria and the disk seemed to fly in the same vector as the street, roughly north to south.  I remember someone else confirming that there had been a saucer seen over the "Hawley Hills" subdivision of Peoria at the same time, although the "confirmation" I received took place some six years later when my family returned to the area.  I have never reported this before but have never forgotten it.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26130.html](http://www.nuforc.org/webreports/reports/026/S26130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
