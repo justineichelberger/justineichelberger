@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:48 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Dover (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>07/15/1975  Dover,NJ Apprx 12 boomerang shape disks w/red center light hovering 2 hrs.1 larger than others.02/25/05On a summer evening in mid-July 1975,my boyfriend and I were saying good night in Wharton,NJ.We both observed several boomerang shaped disks with a red light in the center.One was larger than the rest.They were all hovering and the smaller ones would move only if the large one moved first.They would follow it quickly in a haphazard manner, kind of jutting around in the sky until they would stop and hover near the large craft. We agreed that he would call the Wharton police and I would go home and call the Dover police.I could see the objects all the way home to my house and was fearful as I knew these were UFOs.I went in and told my parents then called the Dover police.They laughed at me and hung up the phone.The Wharton police also laughed at my friend and did nothing.My mother, father,and I stood at the top of a hill in our back yard and watched these spacecrafts for at least 2 hours.  We got tired and went to bed.I have been hesitant to tell anyone this story because my family and close friends never did believe me and still tease me about it to this day.I would guess there were about one dozen of these boomerang shaped crafts.All had a red light in the center and although it was dark,appeared to be solid gray or black.They appeared to be hovering over the town of Dover as we faced them and watched intently for so long.Once the police laughed at me,what was I to do?Who else could I call?It feels so good to finally tell my story to someone who doesn't think I'm crazy.I know what I saw.Thanks for listening.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42409.html](http://www.nuforc.org/webreports/reports/042/S42409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago Heights (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unknown-shaped object with small dim light bobbing through the skyIt was approximately 04:30 AM in the morning of July 15th, 2010, when my sister's fiance dragged me outside in my back yard to see this strange bobbing/darting light in the sky.  You could vaguely see the silhouette of a structure that it was attached to.  It would slowly bob across the sky (sort of like a bouncing ball during a sing-a-long broadcast or karaoke-style television program would have used to follow the words).  The shape of the structure was really hard to make out because it was very high in the sky.  But, it moved too quick from left to right or side to side back and forth each way to be something like a star.  As I type this it is still out there.  We are capturing video footage of it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76551.html](http://www.nuforc.org/webreports/reports/076/S76551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
