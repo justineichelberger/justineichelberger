@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Kernville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright Fire ball heading north over the mountainsit was a fireball white in color heading north at a very high rate of speed  the sky was very clear and was camping in the mountains((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54492.html](http://www.nuforc.org/webreports/reports/054/S54492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>it was up there with the stars, still and brightly shining then turned orange and darted away.on july 15th I was looking at the stars. they were all still and they blink like they always do. then in a blink of an eye one of the stars turns orange and darts across the sky like a dragon fly then disapers. I know I wasn't seeing things it was real. I had to tell somebody.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77543.html](http://www.nuforc.org/webreports/reports/077/S77543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
