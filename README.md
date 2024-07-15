@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a bright UFO fly past the clouds twice.I was sitting outside having a cigarette under my gazebo.  It was 10:58 pm and my mother and sister were inside.  There were a few clouds in the sky, but it was dark.  I saw something fly past the clouds.  It was very bright, unlike anything else in the sky.  It was shaped basically like the typical UFO you see on television; like a flying saucer.  I was stunned for a second and then it came back again.  It looked like it almost had little circles on the edges of the saucer. It was so bright, almost blue-ish.  It disappeared after that and I ran inside.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82496.html](http://www.nuforc.org/webreports/reports/082/S82496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangular UFO with blue smoke coming from it over San Antonio, TexasAt approximately the time shown, on the date showm, there was a triangular shaped UFO with blue smoke coming from it.  It was going in zig zags, the left the area headed due west.  A few minutes later the UFO reappeared almost in the same area.  It once again zig zagged, and flew due west  Each time it appeared,the signting lasted for about 20 minutes in duration.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68874.html](http://www.nuforc.org/webreports/reports/068/S68874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
