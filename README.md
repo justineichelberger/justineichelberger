@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:48 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago Heights (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unknown-shaped object with small dim light bobbing through the skyIt was approximately 04:30 AM in the morning of July 15th, 2010, when my sister's fiance dragged me outside in my back yard to see this strange bobbing/darting light in the sky.  You could vaguely see the silhouette of a structure that it was attached to.  It would slowly bob across the sky (sort of like a bouncing ball during a sing-a-long broadcast or karaoke-style television program would have used to follow the words).  The shape of the structure was really hard to make out because it was very high in the sky.  But, it moved too quick from left to right or side to side back and forth each way to be something like a star.  As I type this it is still out there.  We are capturing video footage of it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76551.html](http://www.nuforc.org/webreports/reports/076/S76551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Just reviewed your website. By the way, I enjoy your segments with Art Bell. Anyway, I saw the report on the red lights over Gilbert over the past year and would like to add some objective observations. I fist saw these lights about 1 1/2 years ago. They were no more than 500 feet above my house. I immediately got out the binoculars and the 'lights' proved to be nothing more that road flares suspended under baloons. The flare was too bright to be seen itself but it clearly showed the five or six baloons above it. Both my kids and the wife were able to see the object for what it was. Due to the height of these objects I would guess that they are being launched within 1/4 mile of the house. They generally drift eastward, but I have seen one headed west. We look forward to these launches because for the 20 minutes or so that the flares burn they will travel two to three miles away and up to a height of over 2000 feet. The only issue I have with these pranks is that the winds usually take these object into the northbound landing flight zones of the Phoenix airport. Dull as it sounds, that's all there is. Only wish I had seen the Phoenix lights a few years ago. Thx for you time.((NUFORC Note:  Date is approxiamte.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16195.html](http://www.nuforc.org/webreports/reports/016/S16195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
