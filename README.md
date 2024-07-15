@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Orange light with fading tail splitting through skyBright orange light cutting through sky with streaking tail emanating some luminescence... Too slow to be a shooting star as I have seen many... Slowly the intensity of the orange seemed to fade as I was pulled over on the freeway and it disappeared behind clouds... Seemed relatively close in proximity</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38132.html](http://www.nuforc.org/webreports/reports/038/S38132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a bright UFO fly past the clouds twice.I was sitting outside having a cigarette under my gazebo.  It was 10:58 pm and my mother and sister were inside.  There were a few clouds in the sky, but it was dark.  I saw something fly past the clouds.  It was very bright, unlike anything else in the sky.  It was shaped basically like the typical UFO you see on television; like a flying saucer.  I was stunned for a second and then it came back again.  It looked like it almost had little circles on the edges of the saucer. It was so bright, almost blue-ish.  It disappeared after that and I ran inside.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82496.html](http://www.nuforc.org/webreports/reports/082/S82496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
