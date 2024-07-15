@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose de Ocoa (Dominican Republic) () reported seeing craft that fit the description of some 'Oval' over a period of approximately still go on - still go on minutes.</sub><blockquote><sub>green circles and animals raptor on the farm in San Jose de Ocoa Dominican Republic On July 15, 2011, in the afternoon (0745 PM)   I saw A light seemed like a lightning but in the opposite direction than usual.  That is, bottom-up coming back and from above to the earth.  I thought it was the effect of my exhaustion and I retire to bed.  The next morning I noticed my horses did not come to greet me as usual.  I Send a child to look around the farm, did not find my horses, sent one of the farm workers who work with me and he did not found my horses either.  I went out looking for horses (7 animals) and did not found its. I Called the radio station to transmit a message across the region so that if someone saw my horses get in touch with me.  It was 1230 PM.  When talking on the radio to alert the community  and the authorities of this region.  Half an hour later and not knowing how or where the horses came out of a hill where there was no open on the fence that borders the farm. They came together at high speed running.  I Sent  a worker who works with me to inquire about where these horses break the fence.  After researching,  he tell me that there said were no broken wires or clearance hole in the fence of the farm.  Still working on the ground and reaching the vicinity of the place where we the animals appeared we note a big dark green circle on the grass. This circle is about 10 meters in diameter, formed by a line of dark green grass and grass about two and a half foot wide. A well-defined line and an almost perfect circle.  The strangest thing is that herbs are born on the edge of the circle are half dark green leaves and leaving the green circle.  That is the boundary of the circle affects a single herb or shrub.  Dividing leaves and branches on one side one color and another of a different color.  Even after 15 days the circle is clearly seen.  I have informed the authorities of the National Botanical Center to find an explanation for these strange circles (for now discovered another higher up on the farm)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82755.html](http://www.nuforc.org/webreports/reports/082/S82755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Sistersville (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>circular ball of fire, dripping flames but not consumed.multiple sightings of this craft.  looked as a ball of fire, dripping flames 50 feet below.  the craft was about 200 feet up.  sat motionless.  was not consumed by fire.  after watching it for over 20 minutes, we got bored and left.    came back much later and it was gone.  it wasnt far from a major gas pipeline.  my father saw it at night once, my sister recently saw it, my sisters father in law saw one coming from a cornfield and leave but there was nothing on fire or burning,nor the smell of burning.  this is a large coal producing area, near the Ohio river.  some 20 plus years ago, and hours south there is a festival celebrating a ufo by a similar description, but in that case it landed and aliens got out wearing some type of helmet and floated across the ground.  fayette county i think.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84915.html](http://www.nuforc.org/webreports/reports/084/S84915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
