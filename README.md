@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in La Jolla (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Formation of approximately eight hazy illuminated triangles flew over La Jolla CA moving E to W.I was on my back deck in La Jolla tonight when I saw formation of lighted objects flying fast overhead (moving east to west).  I only saw them for a few seconds before they disappeared out of view.  They were triangular in shape, but hazy around the edges.  They made no sound at all. I pointed to the sky, speechless, trying to get my husband to look.  All I could say was "Are those birds?" because they were flying in formation.  But they were moving too fast.  My husband thought they were shooting stars, but he only saw the last bit of the formation.  By way of background information, my husband and I are both lawyers and we had not been drinking.  I'm a big fan of astronomy and have spent a lot of time looking at the sky over the years.  I have never seen anything like this in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51387.html](http://www.nuforc.org/webreports/reports/051/S51387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 big balls of light just sitting in the sky over by O'Hare AirportA friend of mine ((name deleted))), lives between Bryn Marr & Winthrop.  Her apt. window is about 6 or 7 stories up facing west, towards O'hare airport.  We were sitting in her living room and she said, look at the pretty lights.  So another friend ((name #2 deleted))), and myself went to see what she was speaking of.  ((witness #1)) said those lights have just been sitting there in one spot all evening, before I made it to her home around 8pm.  When I looked out the window there were dozens of planes flying around. some really close others very far but definately more than usual.  At first we thought they were flares.  But we did not see them fall out of a plane or shoot up from the ground.  There were at least 3 lights just slowly fading in & out in a row.  One of them slowly hovered up and down.  But the thing that struck me is that it was so damn bright. Not like a plane with a few lights and definately not a blimp.  It just sat there in one place for hours while other identifiable planes were around.  We decided to go the the roof of her building 3 stories higher, and they were still there. Then we thought it could have been planes waiting to gas up or for a place to land.  But planes just do not sit like that, not even military fighter planes and with no noise. we can hear evey plane that flew around but these were very quiet.  The objects, from the few miles distance were from, looked egg shaped light bulb about the size of a Mini-van.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38886.html](http://www.nuforc.org/webreports/reports/038/S38886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
