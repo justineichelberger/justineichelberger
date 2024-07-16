@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round bright light in daylight high in sky disappears with a smoke jet-like trail very fast round  bright object never reappearedRound bright light in daylight high in sky bright like a star pulled over to watch it as we watched it disappeared then a short burst of a dual  smoke trail appeared like a jet or rocket trail then smoke trail stopped like engines cut off?  Then smoke trail reappeared same thing short burst of a dual smoke and it was gone fast</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135200.html](http://www.nuforc.org/webreports/reports/135/S135200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Parkland (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>something tought to be a heli move forward and shoot back wards in a blink of a eyeme and my dad my mom where on vacation in florida over my aunts house when we all whent in the pool and swam and i looked in the sky and i said dad look a helicopter and my mom looked also and it had weird lights in a triangle shape with a thin layer of blacknes around it wich could have been the edge of it sence it was at night and most ufos are shiny that most have been it but we continued to stair at it for a few more seconds and then bam the thing hammerd backward from the direction it came and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50952.html](http://www.nuforc.org/webreports/reports/050/S50952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
