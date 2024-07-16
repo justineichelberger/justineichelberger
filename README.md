@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Columbus (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Line of bright white, flashing lights. No sound, despite seemingly low altitude.At approximately 10:30 PM EST, on 7/16/2014, I looked up to witness a 'line' of flashing lights in the sky.  My view was not obscured by any trees or other objects, and the sky was clear.  The lights were not flashing in a synchronized fashion, but seemed to be blinking on and off independently of one another, with each doing so at fairly regular intervals of every two seconds or so.  The lights seemed to be close to the ground, but - sans a point of reference to judge distance by - I only say that because of how large and bright they were.  There were perhaps eight to ten lights that I could see all at once, stretching from a point directly overhead, from north to south, until the roof of my apartment building blocked my view.  I watched this go on for around fifteen seconds, then realized that the number of lights seemed to be decreasing; it did not look as if they were ascending, or flying away outside of my field of vision, but rather that every few 'blinks', one of the lights would not light up again. At that point I ran inside to get my fiance.  When we got back outside, we went directly to the rear (south) of our apartment building. Since the 'line' stretched in that direction, and presumably beyond my line of sight, I assumed we would have a better view of whatever lights remained from that vantage.  This turned out to be the case, as we BOTH still saw four or five of the lights - as well as a single plane flying east to west at a higher altitude than the lights were when I originally saw them - flashing on and off.  Only, by this time, they were much further away from our location, and seemed to be at a higher altitude. Our view was also obscured at that point by a number of trees. My fiance still definitely saw them as well, though I wish she could have seen them as I originally had.  (For the last hour and a half, I've been constantly refreshing local news sights and google searches, hoping to find a similar report from someone local.  So far I've seen nothing.  But what I have found is a video from San Diego that shows nearly exactly what I saw, only in that video the lights were at a greater height: https://www.youtube.com/watch?v=ot9R6wE4Wtw And a picture that looks remarkably similar to what I saw during the brief times when all of the 'objects' were lit up simultaneously: http://humboldtsentinel.com/wp-content/uploads/2012/11/ufo-blinking-lights.bmp) The lights were bright white in color.  No sounds whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111601.html](http://www.nuforc.org/webreports/reports/111/S111601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Man & wife witness very bizarre aerial display of 10-20 white lights.  (Probable Disneyland laser display practice.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00615.html](http://www.nuforc.org/webreports/reports/000/S00615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
