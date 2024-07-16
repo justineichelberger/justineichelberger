@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:50 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in El Salvador () reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Apparent satellite made right angle turns, zigzaging across sky, then shoots away VERY fast.Was in Central America with a group of high schoolers on a trip organized by our church doing secular work, building a schrool in a small village. A small group of us were laling on the ground looking up at the stars and spotting the occasional satellite moving across the sky. Some of them would appear to blink, we supposed they were roating. We were tiring and about to get up and go to bed when someone noticed another satellite, but doing something it shouldn't be able to do. It was making sharp right angle turns as it moved in a 'straight' line across the sky. It made maybe 30 or so turns and when it neared the horizon it got very bright and moved off at an oblique angle at an extremely high rate of speed. Hmmmm........ Wow!((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42330.html](http://www.nuforc.org/webreports/reports/042/S42330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bouse (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Going West to East by constellation Taurus. Saw a colored line moving very slowly.  colors were red,orange and yellow all at once no flashingOn 7/16/99 at 20:00, while stepping from my stepmom's trailer with some dishes.  I looked up and saw a colored line (which was red,orange and yellow)moving very slowly West to East.  It was moving to the constellation Taurus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08384.html](http://www.nuforc.org/webreports/reports/008/S08384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
