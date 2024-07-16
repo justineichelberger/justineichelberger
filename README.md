@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sim (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Close to a shuttle launchI can't seem to shake this encounter and it's been almost a year now. I was on HWY 46 about 5 miles west of I-95 on a clear nite.  This location is about 25 or so miles from the Cape. As I was driving I came upon a strange lite illuminating over some palm tree's on the left.  I stopped and the triangular craft was not moving.  I was about 300 or so yards away. As I viewed it I noticed there were no other cars around either.  Very eery.  As I was awed at this thing there was some sort of white ball coming out of this craft in the front of it. The triangle was very black with different colored lites not blinking along the edges of it. The ball moved slowly and then bolted towards the east and upwards. Then the Triangle Craft seemed to go after it and that was that.  I thought about it for a minute and thought I should call some one and I knew the number for Homeland Security, so I called it in because the shuttle launch was the following day and I thought this was important.  I described it to the operator and figured I'd better let  You know about this also.I'm a skeptic and never in my wildest dreams thought I would see something like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57489.html](http://www.nuforc.org/webreports/reports/057/S57489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>3 orbs of light too slow for shooting stars.My friend and I decided to take a walk out to the quarry behind the veterans memorial park located on Dixie highway in Monroe, Michigan.  We continued to change into our bathing suits and jump in the water.  Our night started with simple conversation when my friend noticed how well we could see the stars.  While gazing at the stars my friend noticed what looked like a shooting star, and then another that occurred right after which went in the same direction.  The first he described to be a bright orange color and the second to be a faint yellow color.  The last one we seen went a lot slower and was a yellow color.  It left a small trail behind it and disappeared into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100243.html](http://www.nuforc.org/webreports/reports/100/S100243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
