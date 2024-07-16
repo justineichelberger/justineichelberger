@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:37 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White orb over Canary Warf,london.White orb playing around in the sky over Canary Warf,London,England.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51391.html](http://www.nuforc.org/webreports/reports/051/S51391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in La Jolla (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Formation of approximately eight hazy illuminated triangles flew over La Jolla CA moving E to W.I was on my back deck in La Jolla tonight when I saw formation of lighted objects flying fast overhead (moving east to west).  I only saw them for a few seconds before they disappeared out of view.  They were triangular in shape, but hazy around the edges.  They made no sound at all. I pointed to the sky, speechless, trying to get my husband to look.  All I could say was "Are those birds?" because they were flying in formation.  But they were moving too fast.  My husband thought they were shooting stars, but he only saw the last bit of the formation.  By way of background information, my husband and I are both lawyers and we had not been drinking.  I'm a big fan of astronomy and have spent a lot of time looking at the sky over the years.  I have never seen anything like this in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51387.html](http://www.nuforc.org/webreports/reports/051/S51387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
