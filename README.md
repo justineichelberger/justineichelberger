@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 15 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Bucyrus (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 conical-shaped objects 'zipped' arond the moon.  Each object appeared to be an elongated return module.In the mid-70's, I couldn't find a fishing buddy, so I went alone.  I trudged 1500 feet to the spot I chose got my bait in the water, put my bell on my pole and leaned against the bank and looked up at the full-moon.  And was I shocked!  Facing to the west as I looked up I noticed an object near the moon.  This object was well lit, as the moon, not hard to see plainly-noticing first was a ring around the object.  Secondly, I noticed the object seemed to be an adapted return module.  It appeared as though the heat shield and the nose cone had been separated and more "body" was added.  It appeared as the body was attached to the heat shield and tapered down to the nose cone section.  Nose cone section had been adapted to round from squarish as the return module has been.  The object zipped around the moon.  As it started it's circum-navigation of the moon, a second object was revealed that was same as the first, one having went around the moon once and one twice.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146573.html](http://www.nuforc.org/webreports/reports/146/S146573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in El Salvador () reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Apparent satellite made right angle turns, zigzaging across sky, then shoots away VERY fast.Was in Central America with a group of high schoolers on a trip organized by our church doing secular work, building a schrool in a small village. A small group of us were laling on the ground looking up at the stars and spotting the occasional satellite moving across the sky. Some of them would appear to blink, we supposed they were roating. We were tiring and about to get up and go to bed when someone noticed another satellite, but doing something it shouldn't be able to do. It was making sharp right angle turns as it moved in a 'straight' line across the sky. It made maybe 30 or so turns and when it neared the horizon it got very bright and moved off at an oblique angle at an extremely high rate of speed. Hmmmm........ Wow!((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42330.html](http://www.nuforc.org/webreports/reports/042/S42330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
