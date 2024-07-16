@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Parkland (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>something tought to be a heli move forward and shoot back wards in a blink of a eyeme and my dad my mom where on vacation in florida over my aunts house when we all whent in the pool and swam and i looked in the sky and i said dad look a helicopter and my mom looked also and it had weird lights in a triangle shape with a thin layer of blacknes around it wich could have been the edge of it sence it was at night and most ufos are shiny that most have been it but we continued to stair at it for a few more seconds and then bam the thing hammerd backward from the direction it came and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50952.html](http://www.nuforc.org/webreports/reports/050/S50952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cicero (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>An orange, glowing, oval shaped object seen in the night sky, which soon disappeared into the distance.I was driving home, when I saw an oval, almost eye-shaped orange, glowing shape in the sky. It caught my eye, and I immediately found myself trying to find a logical explanation for it.  Unable to find one, I just kept looking, and it seemed suspended in the air.  The object was rather large, and I saw another small one off in the distance, but this one was far enough off to not have much of a shape.  It just looked like another star, but orange.  At this point, I started to pull over to attempt to get a picture, but before I even came to a complete stop, the larger of the two objects disappeared into the distance at a speed which seemed to be an extremely high rate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120443.html](http://www.nuforc.org/webreports/reports/120/S120443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
