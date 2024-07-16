@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phenix City (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Moving lights in the sky form a line, flash brightly, and chase planes.While night swimming with my wife i was floating on my back looking at the stars when i noticed one of them moving.  it began in a straight line but the a plane flew by and the moving light dis a sort of s move and followed the plane for just a few seconds and then stopped moving and changed direction entirely.  i pointed it out to my wife who said it had to be a plane.  i insisted that it had just done things planes can't do and i saw it follow an actual plane for a moment.  She rolled her eyes and said right, cause you're an expert on planes.  i was still watching the light when suddenly i noticed the others beging appearing. the same small star like light. they began moving into a diagonal line formation. when they locked into the formation of a perfect diagonal line, the lights began to flash very brightly, alternating from one to the other. then one by one the flashes synchronized until they were all flashing together simultaneously. my wife saw all of that happen too.  even she admitted that what we were looking at was something unique. the lights stopped flashing after about 30 seconds of standing still and flashing in place. then they dimmed back down the the original glow and began to move again. another plane flew by and all the lights turned their attention to it.  they followed the plane for about 30 or 40 seconds and then disappeared behind the tree line and didn't return.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111619.html](http://www.nuforc.org/webreports/reports/111/S111619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two separate blue, red, and green flashing orbs over southwest St Johns CountyI live in southern st johns county and went outside at approx 1:45 to retrieve something from my car when I noticed a reddish colored orb to the southwest just above the tree line which I first thought was a bright planet.  After watching it for a while it seemed to have flashing lights and be moving very slowly so I monitored it to see if it was a plane or some kind of aircraft.  I grabbed my binoculars out of my car so I could see more clearly.  It looked like some kind of flying craft with multi-colored lights flashing in blue, red, and green.  I went in and got my husband so he could tell me I was crazy and he came out and looked at it.  He said he had no idea what out was, but out was pretty strange looking.  It wasn't a plane because it was moving too slowly and appeared to be hovering and then moving at a slow speed.  We were about to come back in the  house and looked out to the west and saw a second one that looked exactly the same as the other, just above! the tree line.  They looked to be about 5 miles away (I live about 2 miles from the ocean).  Anyway, we came in at 2:20 after we lost sight of the first one behind the trees.  Strange, never saw anything like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128527.html](http://www.nuforc.org/webreports/reports/128/S128527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
