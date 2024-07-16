@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:30 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cicero (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>An orange, glowing, oval shaped object seen in the night sky, which soon disappeared into the distance.I was driving home, when I saw an oval, almost eye-shaped orange, glowing shape in the sky. It caught my eye, and I immediately found myself trying to find a logical explanation for it.  Unable to find one, I just kept looking, and it seemed suspended in the air.  The object was rather large, and I saw another small one off in the distance, but this one was far enough off to not have much of a shape.  It just looked like another star, but orange.  At this point, I started to pull over to attempt to get a picture, but before I even came to a complete stop, the larger of the two objects disappeared into the distance at a speed which seemed to be an extremely high rate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120443.html](http://www.nuforc.org/webreports/reports/120/S120443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Medford (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was driving to dutch bros when I saw a bright greenish object passing by Medford at incredible speeds.  This object was not MAN MADE. It also made a sound like a trumpet type sound with weird eerie effects to the sound.  My witnesses are me and 2 other dutch bros employees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157657.html](http://www.nuforc.org/webreports/reports/157/S157657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
