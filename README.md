@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South Euclid (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>9 Brilliant Fiery Orange Orbs Fly Across the Sky in a Straight Line followed by 4 MoreAt 10:30PM, on July 16, 2011, my husband and I were outside in our pool in the backyard.  I looked up and noticed three brilliant fiery orange orbs in the sky above the tree line and rooftops.  The three orbs were in a straight line and moving from Southeast to Northwest across the sky. I yelled to my husband to come look at what I was seeing.  As he got over to my vantage point, four more orbs followed the orignal three in a straight line.  Then two more appeared in the line.  As each of the orbs reached the same point in the sky the orange light dimmed (as if the orb moved straight up/further away from us and out of sight distance.)   When the last of the initial 9 orbs disappeared, another four appeared in the same origination point in the sky.  However, they were not in a straight line across the horizon.  They were in a scrambled pattern.  Three of them followed the same route as the first 9 and the last disipated into the sky before the point where the others vanished.  None of the orbs made a single sound and none of them left a tail/trail through the sky.  We often have planes and EMS helicopters fly over our house.   We are 100% sure that these orbs were not planes or helicopters.  We tried to catch them on film but did not have any luck.  All we ended up with is an audio recording of the last four orbs that we witnessed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82538.html](http://www.nuforc.org/webreports/reports/082/S82538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lower Allen (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>similar to new jersey sightings ,lead to gatheringI think this might be related to new jersey sightings. While driving north toward lower allen   I saw a light  moving east it moved near a cloud and seemed to stop. As I continued driving  the light sort of moved away and faded out. You might say it zipped off rapidly. Just wondering if any of these sightings were seen on any radar?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18519.html](http://www.nuforc.org/webreports/reports/018/S18519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
