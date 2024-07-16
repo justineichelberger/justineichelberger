@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:30 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Medford (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was driving to dutch bros when I saw a bright greenish object passing by Medford at incredible speeds.  This object was not MAN MADE. It also made a sound like a trumpet type sound with weird eerie effects to the sound.  My witnesses are me and 2 other dutch bros employees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157657.html](http://www.nuforc.org/webreports/reports/157/S157657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phenix City (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Moving lights in the sky form a line, flash brightly, and chase planes.While night swimming with my wife i was floating on my back looking at the stars when i noticed one of them moving.  it began in a straight line but the a plane flew by and the moving light dis a sort of s move and followed the plane for just a few seconds and then stopped moving and changed direction entirely.  i pointed it out to my wife who said it had to be a plane.  i insisted that it had just done things planes can't do and i saw it follow an actual plane for a moment.  She rolled her eyes and said right, cause you're an expert on planes.  i was still watching the light when suddenly i noticed the others beging appearing. the same small star like light. they began moving into a diagonal line formation. when they locked into the formation of a perfect diagonal line, the lights began to flash very brightly, alternating from one to the other. then one by one the flashes synchronized until they were all flashing together simultaneously. my wife saw all of that happen too.  even she admitted that what we were looking at was something unique. the lights stopped flashing after about 30 seconds of standing still and flashing in place. then they dimmed back down the the original glow and began to move again. another plane flew by and all the lights turned their attention to it.  they followed the plane for about 30 or 40 seconds and then disappeared behind the tree line and didn't return.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111619.html](http://www.nuforc.org/webreports/reports/111/S111619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
