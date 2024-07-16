@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lake George (Lake George Village ) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red lights in sky just off shore over lake george, lake george village ny lasting 5 minutes before disappearingWalking north on rt 9 heading back to our motel just past Shepard Park we saw 3 red lights appear in the sky over the water at first in an angular line but then they shifted into a triangular pattern.  As we watched the lights just disappeared.   A man and his wife who were walking in front of my daughter and I turned to us and asked if we saw the lights and the fact that they all disappeared at once.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121708.html](http://www.nuforc.org/webreports/reports/121/S121708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Alberta (rural) (Canada) (AB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>((NUFORC Note:  Date is approximate. We do not know location of sighting in Alberta.  PD))Low flying craft with VERY unusual strobe pattern.It was a lowing flying craft, spotted approx 1:00 am - 1:30 am in the morning.  I am the son of a private pilot, and know enough myself that small aircraft do not fly approx 300-500 feet above the ground at night unless approaching a lighted airport. There is no such airport for at least 25 miles, which is just a rural airstrip, with the ground lights activated via keying the radio mike (no need for landing lights). The craft had strobes that did flash, HOWEVER there were two things unusual about this.  First, the strobes were white (there were two strobes for sure, but possibly a third, they blinked so erratically that it was hard to tell), not normal for Canadian aircraft (standard is red and blue), second, they did not blink at normal intervals, they blinked randomly. (note: it is possible the pilot was flying without his nav strobes and was blinking landing lights, but they seemed of the strobe nature, not of aircaft landing lights.)  The lights passed over the road in an east-southeast direction, being nearly directly above my vehicle as it passed over the road.  Believe me, it scared me half silly.  It is worthy to note that two years (this summer) within 4 miles of spotting these lights there was a suspected cattle mutilation.  Of that I do have pictures which I took myself.  If you so desire I could get them to you within a couple weeks (I'm away at University right now, but will be going home in a couple weeks and could scan them.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16766.html](http://www.nuforc.org/webreports/reports/016/S16766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
