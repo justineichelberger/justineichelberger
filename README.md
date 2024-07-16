@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Man & wife witness very bizarre aerial display of 10-20 white lights.  (Probable Disneyland laser display practice.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00615.html](http://www.nuforc.org/webreports/reports/000/S00615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5:15 - 5:15 minutes.</sub><blockquote><sub>I first noticed the object 3/4 of a mile north of my location, at which point what seemed to look like a vertical floating monolith. As the object came closer, never asending nor decending and keeping its pace of what would be considered a casual stroll, the appearance became more detailed.It was about 50 feet overhead, traveling above the the telephone lines that run paralel with my street when I had a better view.It made no sound, infact I experienced silence, not even any sounds of the chirps and bird songs usually heard in my neighborhood on normal occasions.The object was rectangular with rounded edges. It seemed like various cubes stacked on one another with rounded edges forming a long rectangle. The size seemed to be aprox. 10-12 ft. tall x 5-6 ft. wide. Its exterior was clear opaque with a tinge of color like natural sinew. Inside the object a liquid looking substance that was blood red in color seemed to be circulating within, but only circulating within the object through its center keeping aprox. 2 ft. parameter within. The texture appeared to be like a latex form. The bottom of the object formed 4 bulbous cubes where the red substance seemed to be in four different sections. I stood in amazement and watched it travel in the southern direction.Overall, the time duration from when I first noticed the object till it traveled into the horizon was about 1/2 an hour. As the object traveled into the horizon it  appeared to have an aura.I've seen many unusual objects in my life but this was by far the most unusual thing I've ever witnessed, it was beautiful! My occupation is in the preventative health field.I see unusual objects in the sky from time to time and it has been a while.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51402.html](http://www.nuforc.org/webreports/reports/051/S51402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
