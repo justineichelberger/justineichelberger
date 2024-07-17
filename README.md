@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:55 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rio Rancho (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light - thought at first to be a star traveled horizontal approximately 10 seconds then turned upward towards the sky and within 5 seconds was completely out of sight!  It was very fast!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90946.html](http://www.nuforc.org/webreports/reports/090/S90946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fireballs over nightsky in SeattleOver the period of about 15 minutes we watched a succession of about 13 orange fireballs ascend from the direction of West Seattle high into the night sky and then go out.  There was no sound. Shortly after the last fireball dissapeared, we witnessed 3 of these balls slowly drift back toward the earth into my neighborhood which is Mount Baker Seattle.  Unfortunately, we were not able to see where they finally touched down.  As they were coming down they drifted lightly, reminding us of a plastic bag drifting through the wind.  Also reminded me of those camping lamps they used to make with the netting that would burn out.  Strange, seemed manmade once they came down, but I don't understand how they went up so high so quickly and they were quite large....((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76624.html](http://www.nuforc.org/webreports/reports/076/S76624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
