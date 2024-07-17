@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sewell (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Seen something, Triangular in shape, heading on a north easterly path over our farm in Sewell NJ. NOT a plane.The object was moving in a North east direction.  I saw it approach from the south west and at first I thought it was an Airplane.  It was a little different so I did a double take and walked back out to our front field.  I saw it was heading in my direction so I decided to wait for it to pass me just to verify it was an airplane.  As it approached I saw it slightly gain altitude and then descend again.  It was moving back and forth to the right and left, but very slightly. That's when my suspicion began to get to me. As it got nearly right overhead I knew it had a triangular shape and was not a typical aircraft that I'm used to seeing, No flashing lights,  solid white light in front and on the underside three to four lights across the tail with one in the back of it.  The fact that alarms me is the sound it made, hardly a whisper.  The object was approximately several hundred feet into the air.  About as high as my one of my D stage rocket engines.   Tonight is a clear night with hardly any over cast or clouds,  stars are clearly visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90930.html](http://www.nuforc.org/webreports/reports/090/S90930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Leola (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>tube to a saucerWhile we were playing lacrosse outside my house in a field i looked up to catch the ball and noticed a strange flying object in the sky. I pointed this object out to my friend and he also saw it. First it looked like a tube then it turned towards us looking like a disk or saucer high above us. From what we could see it was silver and also reflected the sun back towards us. After turning back and forth a few times it kept flying away from us and vanished.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29780.html](http://www.nuforc.org/webreports/reports/029/S29780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
