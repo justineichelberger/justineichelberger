@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fireballs over nightsky in SeattleOver the period of about 15 minutes we watched a succession of about 13 orange fireballs ascend from the direction of West Seattle high into the night sky and then go out.  There was no sound. Shortly after the last fireball dissapeared, we witnessed 3 of these balls slowly drift back toward the earth into my neighborhood which is Mount Baker Seattle.  Unfortunately, we were not able to see where they finally touched down.  As they were coming down they drifted lightly, reminding us of a plastic bag drifting through the wind.  Also reminded me of those camping lamps they used to make with the netting that would burn out.  Strange, seemed manmade once they came down, but I don't understand how they went up so high so quickly and they were quite large....((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76624.html](http://www.nuforc.org/webreports/reports/076/S76624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Felipe (Baja California) (Mexico) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>there are objects in the baja area not yet identified!!!!!!!!for several days i had witnessed an object that had a brillant red, blue, green color to it. it was actually moving. i videod it. it had a bright yellow center and appeared to change colors drastically and very fast. when i transfered the 8mm video to vhs format i could still the video and then i took the color away to see a cylinder shaped object. then last night i saw five objects like this and several white lights moving very fast across the sky. at one point i saw a flash as if a cannon was fired in the night. also an object like a triangle just floating there. while i was videoing the objects something  appeared before me approximately 2miles away. it had very bright red lights on it. my girlfriend could see with the aid of binoculers a gold mettalic object there but she saw more lights than my camera would pick up. the object was hovering over the sea of cortes and it was dark except for the red lights. this object disappeared as if it was time warped. it was so fast. i do have the objects on tape now. i would almost say they were stars but the stars i videoed did not have the same colors. it looked like propolusion units of some sort. i hope to get more footage of them tonight. it was incredible. i am not able to send the images just yet. im typing this on the company computer and my phone line for my new computer is being installed tomorrow at home. plus i dont know who to trust with this information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23815.html](http://www.nuforc.org/webreports/reports/023/S23815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
