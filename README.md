@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Watched three flashes of light appear over the ocean on the date of July 17th at 22:00.Around 22:00 at the Holiday Inn near the Skywheel, I watched a flash of light appear over the ocean and then disappear.  It reappeared about five minutes later for a few seconds.  Once it vanished, two more lights reappeared beside it for a seconds.  The color looked yellowish. It was approximately about 3-4 miles out over the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111947.html](http://www.nuforc.org/webreports/reports/111/S111947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Aughnacloy (Northern Ireland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>AughnacloyWe Where Out In The Garden At This Time Building A Tent 3 Of us Where In The Tent One Of My Friend Outside Said omg There is A Ufo  I Thought He Was Joking When I Came Out Of The Tent I Looked Up Two Where He Was Pointing  To It   I Looked Up And It Was Going Slow It was High Up It was Circlish and yellow Light   At  the Bottom  Of The Craft  We Tried To Recored it But Are Phones Couldnt See it   It Was To High Up And It Was Dark You Would Of Needed a Digital Camara To See It .  It Neither Was A Shooting Star Because You would noif it was becuase They go quick and You WOuld No If It Was Or Not((NUFORC Note:  We are uncertain as to the date of the alleged sighting.  We have sent the source an e-mail, requesting the correct date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82525.html](http://www.nuforc.org/webreports/reports/082/S82525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
