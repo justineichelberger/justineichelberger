@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:55 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hatton (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On this date I was driving,(I am a Trucker) north on U.S. 395 between Pasco and Ritzville Wa at about 10:30 pm when I saw an orange ball I thought at first was a meteor but it traveled to slow to be one, but I remember me and my son watching one a few years back in Idaho where I live and everyone said it was a meteor, so I thought nothing of it until last night I heard the Indian man talking about the Orange sphere over in Washington state and if im not wrong it was about the same time I saw that thing in our skies, any way thats what I saw. It was probably about 20 feet across but I couldnt be sure it was going from east to west and it had a long blue\orange streak behind it. and it went behind the hills to the northwest of my position that would be about 26 miles south of I-90 on U S 395.A huge Orangish Ball, Drifting across the sky from east to west Landing behind some hills.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08446.html](http://www.nuforc.org/webreports/reports/008/S08446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rio Rancho (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light - thought at first to be a star traveled horizontal approximately 10 seconds then turned upward towards the sky and within 5 seconds was completely out of sight!  It was very fast!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90946.html](http://www.nuforc.org/webreports/reports/090/S90946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
