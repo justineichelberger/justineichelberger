@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>2/3 of night sky filled with purple-pink light criss-crossing each other like a NET at Redding, CAIn Redding, California near the Sacramento River looking WEST (with Mt. Lassen at my back), about 5 A.M. every other morning for this past week, {with this morning being the 3rd sighting}.... I see something that fills 2/3 of the night sky. It looks like  brilliant purple/pink lights criss-crossing each other and looks like a purple-pink "NET". As it is summer time {July 2005} and 100 plus degrees, I have been sleeping outside under the stars. Last night I set my alarm so that I could see just what time this event actually started.  Not at 2 A.m, not at 3 A.m., not at 4 A.M.  Each time my Dog wakes me up when this strange event starts.   It was there at about 5 A.M. this morning and continued even after daylight.... only the color was no longer there and the "criss-crosses looked like white smoke. If anyone knows what I am seeing, would you please contact Peter so that he can contact me and let me know... thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45067.html](http://www.nuforc.org/webreports/reports/045/S45067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jensen Beach (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>VERY LARGE GLOWING OBJECT (Greenish blue) Crashing to earth STRAIGHT DOWN at a very high rate of speedIt was a very very large object crashing to earth straight down at a very high rate of speed, It was glowing a greenish blue color, it appeared to be seemingly close and very large NOT A SHOOTING OR FALLING STAR but like the size of a LARGE house and that was from a distance so it was probably much larger!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18454.html](http://www.nuforc.org/webreports/reports/018/S18454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
