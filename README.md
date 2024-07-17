@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Terrace (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A witness contacted me today July 20, 2003 to explain what he saw on July 17, 2003. It was 8:00 p.m., clear skies (daylight) and he saw a silver, round shaped object traveling at an extremely high rate of speed coming from the west heading east. The sighting took approx: 4 seconds before it disappeared from his line of sight. He also mentioned that it took him totally by surprise to see something move so quickly. No sound was heard due to the distance from the object. He said it was no "darn" aircraft we have, as to the speed the object was traveling. I asked if he might be able to give some details to what the object looked like, but he said it happened so fast he could not get a proper look at it. Thank you to the witness for his report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  Our gratitude to Brian Vike for submitting the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29841.html](http://www.nuforc.org/webreports/reports/029/S29841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sewell (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Seen something, Triangular in shape, heading on a north easterly path over our farm in Sewell NJ. NOT a plane.The object was moving in a North east direction.  I saw it approach from the south west and at first I thought it was an Airplane.  It was a little different so I did a double take and walked back out to our front field.  I saw it was heading in my direction so I decided to wait for it to pass me just to verify it was an airplane.  As it approached I saw it slightly gain altitude and then descend again.  It was moving back and forth to the right and left, but very slightly. That's when my suspicion began to get to me. As it got nearly right overhead I knew it had a triangular shape and was not a typical aircraft that I'm used to seeing, No flashing lights,  solid white light in front and on the underside three to four lights across the tail with one in the back of it.  The fact that alarms me is the sound it made, hardly a whisper.  The object was approximately several hundred feet into the air.  About as high as my one of my D stage rocket engines.   Tonight is a clear night with hardly any over cast or clouds,  stars are clearly visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90930.html](http://www.nuforc.org/webreports/reports/090/S90930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
