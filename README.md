@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Seneca (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orb light seen flying westward over South Buffalo, NY.My mother and I walked my brother and his wife to their car after dinner and I noticed both the half moon and sun were in the evening sky around 7:15 PM.  My sister-in-law was already in the car when I told everyone to look up at the light moving across the sky.  My mother and brother both wear glasses and have poor eye sight but I indicated description and the location of the light in relation to the half moon and light clouds in the sky.  They could not spot it.The light was the size and brightness of an average star you would see in the night sky only it was moving steadily in the blue sky in a westward direction towards Lake Erie.  As I was trying to show my brother where it was it gradually vanished, this could have been from cloud cover but it was clearly visible moving through other clouds near where the Moon was in the sky.  It appears that when I first saw the object, it was flying below the clouds.There was no trail like what you would see from an airplane, the object was high in the sky but appeared to be a white orb or light.  Moving at that speed and distance I would rule out that it was a high flying seagull which would have a different shape and not be as bright.  The weather conditions at the time were clear, no excessive humidity.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We suspect that the date is flawed, and we have amended it above to read July 17.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76620.html](http://www.nuforc.org/webreports/reports/076/S76620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Borden/Carlton (PEI, Canada) (PE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3h over 3 diferent  tdate - 3h over 3 diferent  tdate minutes.</sub><blockquote><sub>Over a period of 3 weeks i noticed a strange glowing object in the sky it was abnormally low and i knew it was not a star. It was not the first ime i have seen somthing like this so i watched it for about 20 mins it would decend slowly then disapear. WEEK TWO Its back i watch it and it does the same thing. WEEK THREE me and my buddie were on my way to my place and he asked me if i have seen that weird thing i had told him about prior too, I said yes i had seen it twice and said to him we should look and see if its still there.........It was this time it went fast and was much brighter glowing yellow green red orange white, It moved up into the clouds and disapeared. Not 3 mins later another pulling the same manuver straight up into the clouds disapearing it was then i noticed the third one very low to the ground moving quite fast behind some trees then disapeared. By this time nothing more exiting was happening and decided to call it a night i have seen these things since but they will be back im sure of it. Ive seen them before same shape same coulous all at night over the years by myself and with freinds and family and am 100 percent sure it was not a craft of any sort man built that i know of((NUFORC Note:  We do not know what it is the witnesses observed.  We would like to receive reports from other witnesses to the same event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45410.html](http://www.nuforc.org/webreports/reports/045/S45410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
