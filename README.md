@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lemon Cove (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My husband and I were driving by Lake Kaweah close to the main marina when I looked out the truck window and observed a disk shaped object stationary above a hill in a southern direction on the other side of the lake, I mentioned it to my husband, I continued to watch it, the sun was reflecting off this object which made it easy to see, it started to move in a northen direction away from the lake. We pulled off into the parking lot of the marina looked up and it vanished. We looked in all directions for several minutes and saw nothing. It was silver and from my eye fairly large and disk shaped, wobbley in movement, very reflective.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08461.html](http://www.nuforc.org/webreports/reports/008/S08461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Seneca (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orb light seen flying westward over South Buffalo, NY.My mother and I walked my brother and his wife to their car after dinner and I noticed both the half moon and sun were in the evening sky around 7:15 PM.  My sister-in-law was already in the car when I told everyone to look up at the light moving across the sky.  My mother and brother both wear glasses and have poor eye sight but I indicated description and the location of the light in relation to the half moon and light clouds in the sky.  They could not spot it.The light was the size and brightness of an average star you would see in the night sky only it was moving steadily in the blue sky in a westward direction towards Lake Erie.  As I was trying to show my brother where it was it gradually vanished, this could have been from cloud cover but it was clearly visible moving through other clouds near where the Moon was in the sky.  It appears that when I first saw the object, it was flying below the clouds.There was no trail like what you would see from an airplane, the object was high in the sky but appeared to be a white orb or light.  Moving at that speed and distance I would rule out that it was a high flying seagull which would have a different shape and not be as bright.  The weather conditions at the time were clear, no excessive humidity.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We suspect that the date is flawed, and we have amended it above to read July 17.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76620.html](http://www.nuforc.org/webreports/reports/076/S76620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
