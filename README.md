@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Bright light with large light aura. NE of my location. might have a trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90935.html](http://www.nuforc.org/webreports/reports/090/S90935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Witnessed 25+ UFO's in the sky (orange lights), all in same flight pattern.At approximetly 23:28pm (pacific standard time) in Seattle, Washington   My wife and I recieved a phone call from her parents (who live 1 block away) about some interesting lights in the sky over Beacon Hill (also in Seattle).  We were told to immediatly come outside and look towards the sky (due west) and see them for ourselves.  We then saw 25+ orange lighted objects (which appeared to blink in and out as they dimmed in the upper atmosphere.  They all appeared to be moving in the same direction (towards the northeast) and all seemed to stem from the same location.  They were only visable for about 3-5 minutes. 3 airplanes were seen in the sky as well (heading to SeaTac airport to land).  We took video on our camera, but only a couple were barely visable through the street lights.  You can see the airplane clearly. Unless something is reported on our local news media stations, we are assuming that these were indeed UFO's.......and ALOT of them!!!  We also called the local news stations to report the incident, in which they informed that they had not recieved any other calls about it..........but would look into it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76623.html](http://www.nuforc.org/webreports/reports/076/S76623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
