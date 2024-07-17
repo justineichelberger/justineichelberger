@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 16 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>3 orbs of light too slow for shooting stars.My friend and I decided to take a walk out to the quarry behind the veterans memorial park located on Dixie highway in Monroe, Michigan.  We continued to change into our bathing suits and jump in the water.  Our night started with simple conversation when my friend noticed how well we could see the stars.  While gazing at the stars my friend noticed what looked like a shooting star, and then another that occurred right after which went in the same direction.  The first he described to be a bright orange color and the second to be a faint yellow color.  The last one we seen went a lot slower and was a yellow color.  It left a small trail behind it and disappeared into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100243.html](http://www.nuforc.org/webreports/reports/100/S100243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Shiny object moving slowly then rapidly up into the atmosphere.It was around noon time and I was traveling in San Jose going north on Saratoga Ave. south of 280 hwy. While at a stop light, I a bright shiny object was up in the sky ahead of me in my field of view. I could see other objects that were flying in the sky over San Jose. All objects in the sky were aircraft except one object that stood out and was obviously not an airplane or jet or helicopter. This object was moving very slowly at first giving the impression that it may be hovering. Then the object seemed to suddenly move rapidly and then slow to a stand still. The traffic light turned green and I turned off into a parking lot to get out of my car and observe this shiny object and to determine what it was. I saw that the object was slowly moving southeast. I was wearing sunglasses but still could not make out its exact shape. My best guess was that it looked like three bright shiny baloons or spheres connected together that seemed to reflect suns light or emit bright white light. The baloons or speres of light seemed to change shapes. It took the shape of a triangle and then change to form a cylinder shape. Two minutes passed and the object seemed to quickly ascend high in the atmosphere and appeared to look like a bright star and climbing much higher and going east south east and getting harder to see. I hope someone else will report seeing this because I know that it had to be seen by a lot of people especially those traveling north on Saratoga ave toward 280 hwy during noon time.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38210.html](http://www.nuforc.org/webreports/reports/038/S38210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
