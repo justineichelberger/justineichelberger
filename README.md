@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Borden/Carlton (PEI, Canada) (PE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3h over 3 diferent  tdate - 3h over 3 diferent  tdate minutes.</sub><blockquote><sub>Over a period of 3 weeks i noticed a strange glowing object in the sky it was abnormally low and i knew it was not a star. It was not the first ime i have seen somthing like this so i watched it for about 20 mins it would decend slowly then disapear. WEEK TWO Its back i watch it and it does the same thing. WEEK THREE me and my buddie were on my way to my place and he asked me if i have seen that weird thing i had told him about prior too, I said yes i had seen it twice and said to him we should look and see if its still there.........It was this time it went fast and was much brighter glowing yellow green red orange white, It moved up into the clouds and disapeared. Not 3 mins later another pulling the same manuver straight up into the clouds disapearing it was then i noticed the third one very low to the ground moving quite fast behind some trees then disapeared. By this time nothing more exiting was happening and decided to call it a night i have seen these things since but they will be back im sure of it. Ive seen them before same shape same coulous all at night over the years by myself and with freinds and family and am 100 percent sure it was not a craft of any sort man built that i know of((NUFORC Note:  We do not know what it is the witnesses observed.  We would like to receive reports from other witnesses to the same event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45410.html](http://www.nuforc.org/webreports/reports/045/S45410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>2/3 of night sky filled with purple-pink light criss-crossing each other like a NET at Redding, CAIn Redding, California near the Sacramento River looking WEST (with Mt. Lassen at my back), about 5 A.M. every other morning for this past week, {with this morning being the 3rd sighting}.... I see something that fills 2/3 of the night sky. It looks like  brilliant purple/pink lights criss-crossing each other and looks like a purple-pink "NET". As it is summer time {July 2005} and 100 plus degrees, I have been sleeping outside under the stars. Last night I set my alarm so that I could see just what time this event actually started.  Not at 2 A.m, not at 3 A.m., not at 4 A.M.  Each time my Dog wakes me up when this strange event starts.   It was there at about 5 A.M. this morning and continued even after daylight.... only the color was no longer there and the "criss-crosses looked like white smoke. If anyone knows what I am seeing, would you please contact Peter so that he can contact me and let me know... thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45067.html](http://www.nuforc.org/webreports/reports/045/S45067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
