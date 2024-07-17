@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jensen Beach (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>VERY LARGE GLOWING OBJECT (Greenish blue) Crashing to earth STRAIGHT DOWN at a very high rate of speedIt was a very very large object crashing to earth straight down at a very high rate of speed, It was glowing a greenish blue color, it appeared to be seemingly close and very large NOT A SHOOTING OR FALLING STAR but like the size of a LARGE house and that was from a distance so it was probably much larger!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18454.html](http://www.nuforc.org/webreports/reports/018/S18454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Bright light with large light aura. NE of my location. might have a trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90935.html](http://www.nuforc.org/webreports/reports/090/S90935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
