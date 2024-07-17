@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bay St. George (NF) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>A ship that needed help.Notice a orange round disk lowering into the woods about five Kms ahead from where I was driving continue to drive to see if I could get a closer look.  When I got close to where the orange glow was in the woods it went out thinking it was gone I decided to walk into the woods.  About 230 feet in, I was shocked to see this round disk frozen in my tracks a door open still frozen in which I though I was fraiden of nothing in my life a voice came into my head and it said we are here to hurt you.  Again still frozen in my tracks I did not know where this voice was coming from, I was looking at this being not sure to make of it and it's mouth was not moving.  it said they had trouble with their ship and need my help.  They needed if few items in which I had to get.  No not gas or oil it was electric items my pretty sure it was the lithium battery's they were looking for.  I did get these items for them and was asked not to say anything to anyone.  Before picking up these items for them I thought I was day dreaming this I saw my self driving away not thinking I was going to do this.  Again the voice appear in my head even being a nice distance away.  We need your help I could not bring my self to tell my wife thinking she might think I lost my mine.  After dropping off the items they needed they spent sum time working on their craft.  They were there for five days not working on the craft but was waiting for lightening to charge their craft.  They ask me again not to say anything who was going to believe me anyway. I went there three times to see if they had left but was still there.  The voice in my head said no need to come where we are it would be more safer if I stayed away.  They said I would know when they were leaving and I did.  On July 29, I was outside having a smoke looking at the sky still not believing what had happen was real a wave like hum sound was over my head it was them.  They sayed they was really glad I was there to help and that if there anything they do for me.  The only thing that came into my head was to go for a ride in there ship why I don't know.  They said that they could do that but it would be for another time because there was very important things they had to do and would explain later.  For a guy who was frozen shitless is now at peace with these beings.  As they were there they was gone not knowing when they will return I will be waiting and I have a lot of questions I have to ask whether I go in outer space or just in their ship I will know what is out there something no one knows.  Until then I had to share this believe me or not this was real.  I will share my story went they return and what I learn.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142626.html](http://www.nuforc.org/webreports/reports/142/S142626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164084.html](http://www.nuforc.org/webreports/reports/164/S164084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
