@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 17 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Aughnacloy (Northern Ireland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>AughnacloyWe Where Out In The Garden At This Time Building A Tent 3 Of us Where In The Tent One Of My Friend Outside Said omg There is A Ufo  I Thought He Was Joking When I Came Out Of The Tent I Looked Up Two Where He Was Pointing  To It   I Looked Up And It Was Going Slow It was High Up It was Circlish and yellow Light   At  the Bottom  Of The Craft  We Tried To Recored it But Are Phones Couldnt See it   It Was To High Up And It Was Dark You Would Of Needed a Digital Camara To See It .  It Neither Was A Shooting Star Because You would noif it was becuase They go quick and You WOuld No If It Was Or Not((NUFORC Note:  We are uncertain as to the date of the alleged sighting.  We have sent the source an e-mail, requesting the correct date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82525.html](http://www.nuforc.org/webreports/reports/082/S82525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Deerfield (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>teardrop shaped craft passed by a plane hovered for about 10 minutes then flew away extremly fast. the object was white. the pointed part was on the top and there was hazy cloud around it.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61396.html](http://www.nuforc.org/webreports/reports/061/S61396.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
