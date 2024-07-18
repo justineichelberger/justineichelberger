@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hickory Hills (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a lite that was the size of the stars around it , but unlike the surrounding matter, the object was moving very fast.  The object would move horizontally across the atmoshpere, but no way to measure depth or speed.   Looked out of our planets atmosphere and looked very bright while moving, but became dim or even transparent when stoppped but process of moving happened while lite then would stop.  For a different amount of time each time.  Was same size as the average star visible to stars size in big dipper.  I am not an astonomer or a good speller but what we saw was definetly not seen before and there was no way to make sense of it.  Not like any comet or astroid I have seen plenty of those.   This was not falling it was traveling!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45143.html](http://www.nuforc.org/webreports/reports/045/S45143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Eight silvery relflective objects. Six stationary and two moving near the others. All faded from view in 7 minutes.Eight total silvery objects were sighted together by my wife and I. Two of those objects moved near to and relative to the other six objects. All the object were to our Northeast, at about 75 degrees from the horizon and fairly close to each other. We were located at about University and Atlantic Blvds in Jacksonville, Fl. The objects were reflective of the setting sunlight behind us and had enough definition to determine they were objects in our atmosphere although they had only about the same brilliance as medium bright stars. Several jet planes flew through our view of those objects but may have been at a different altitudes. The eight objects were not in a formation but rather in the same general area of the sky. During about 7 minutes of watching them, they gradually faded from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45165.html](http://www.nuforc.org/webreports/reports/045/S45165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
