@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:43 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gloucester (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange light dropped very fast over Gloucestershire UKDriving back from Stroud to Dursley in my car, my six year old son pointed out what we first thought was a police helicopter hovering somewhere over the river Severn.At first I thought it was odd - as it wasn't the typical white / blue colour lamp that they use, more of a orangy red.I pulled the car over so we could watch for a bit. It continued to hover and slightly move towards the direction of Stroud. Suddenly it dropped directly downward, very very fast and unfortunately disappeared behind the hill. There was no gradual acceleration down- It just dropped down very quickly.I don't know if it was a helicopter or plane... if so, the wreckage will be between Cam and Berkley. I have not seen the orange light since it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71147.html](http://www.nuforc.org/webreports/reports/071/S71147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hickory Hills (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a lite that was the size of the stars around it , but unlike the surrounding matter, the object was moving very fast.  The object would move horizontally across the atmoshpere, but no way to measure depth or speed.   Looked out of our planets atmosphere and looked very bright while moving, but became dim or even transparent when stoppped but process of moving happened while lite then would stop.  For a different amount of time each time.  Was same size as the average star visible to stars size in big dipper.  I am not an astonomer or a good speller but what we saw was definetly not seen before and there was no way to make sense of it.  Not like any comet or astroid I have seen plenty of those.   This was not falling it was traveling!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45143.html](http://www.nuforc.org/webreports/reports/045/S45143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
