@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>formation of large bright spherical lights over open land near Santa Fe, NMWoke up and noticed very bright star-like formation sitting at horizon level; looking out my back yard across open rangeland to north.  Realized lights of “formation” too large, too bright, too uniform to be natural.  Four vertical, 2 more extending to left at an angle.  A kind of blackish void-like quality around them.  Got up and watched them, looking away, looking back, for at least 10 minutes.  Then it/they was suddenly gone.  Apparently at quite a distance and, if so, object was massive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142302.html](http://www.nuforc.org/webreports/reports/142/S142302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vught (Netherlands) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.6 - 0.6 minutes.</sub><blockquote><sub>big black circle moving slow and stopped for a moment  That's all what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71145.html](http://www.nuforc.org/webreports/reports/071/S71145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
