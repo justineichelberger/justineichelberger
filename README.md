@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Northwich (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>spherical moving object in sky ranging from fast to static  spherical object high in sky travelling slowly at apparently the same altitude to a certain point at which it paused for a few seconds then moved unbelievably fast to another spot high in the sky in a matter of a second and remained static in new posistion for about 10minutes occassionally dissapearing from view for a few seconds at time as if intermittently reflecting light,but always in the same spot. It finally dissapeared from view without moving away! Heading approx 330 degress((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51441.html](http://www.nuforc.org/webreports/reports/051/S51441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Brighton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright green and fast-moving light seen above Brighton, Sussex, UK.Working at computer near front-room window at night and saw a bright green point of light move very fast from south to north (towards London, which is 50 miles away). Have seen bright meteors in the past - but am sure this was not one. There was no streak, and the light was maintained in intensity throughout and the colour was very distinct. Could not judge height, nor distance from object, but it seemed to be moving well above the speed of sound. Even though the night is clear, there are no stars visible due to being in a built-up area. Due to profession (air traffic controller working on Approach at London Gatwick) I was able to phone to see if anything was picked up on radar - which proved negative. Cannot say more - apart from the fact that I instinctively feel that the light was something very out-of-the-ordinary (however, I do not believe in alien visitors) and is the first time I've ever seen such a thing. It is something I will never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51422.html](http://www.nuforc.org/webreports/reports/051/S51422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
