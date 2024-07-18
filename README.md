@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hanover Park (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A spherical, metallic object rising very high in the sky.  Drone or something else?I was sitting in my car in a parking lot when I saw something appear in the horizon, coming from the northwest.  My first impression was that it was a balloon, as it floated and fluttered in the blue sky (no clouds whatsoever).  It appeared to be spherical in shape, metallic, reflecting the sun.  I also noticed that it slowly twirled in a circular motion.  Then it began to move upward in a more deliberate fashion, going way, way up in the sky, from the northwest to the east.  Then it crossed my mind that it could be a drone but I’ve never heard of a drone that rose up into the sky that high, perhaps as high as an airplane.  I managed to snap a couple of photos with my phone, when it was closer to the ground, and I sent them to the link as requested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135234.html](http://www.nuforc.org/webreports/reports/135/S135234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in East Springfield (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>seen round orange/red object heading in northwesterly directionit was 04:15 am on sunday morning, 07/18/99. i went outside to call my dog into the house. as i stood on the front porch facing the southern skies i looked up into the sky looking at the stars and noticing how clear it was.then from the southeast i noticed a orange/red spherical object heading to the northwest. at arms length it was probably about 1/8 of an inch in diameter. it was quiet that night and no sound was heard as it seemed to be quite high in the sky. i observed it for about 15-20 seconds as it went out of sight. ther were no other lights blinking onit as it was just a solid color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08456.html](http://www.nuforc.org/webreports/reports/008/S08456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
