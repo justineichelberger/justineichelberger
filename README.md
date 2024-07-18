@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in East Springfield (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>seen round orange/red object heading in northwesterly directionit was 04:15 am on sunday morning, 07/18/99. i went outside to call my dog into the house. as i stood on the front porch facing the southern skies i looked up into the sky looking at the stars and noticing how clear it was.then from the southeast i noticed a orange/red spherical object heading to the northwest. at arms length it was probably about 1/8 of an inch in diameter. it was quiet that night and no sound was heard as it seemed to be quite high in the sky. i observed it for about 15-20 seconds as it went out of sight. ther were no other lights blinking onit as it was just a solid color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08456.html](http://www.nuforc.org/webreports/reports/008/S08456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lakeview (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Very bright light.My wife and I were out in our back yard taking pics of comet Neowise.  She had gone to sit down.  I noticed a bright light with what appeared to be a light bluish beam far off to the west.  I went back and got the camera from my wife and started filming as it began to pass over the area.  She did not see it due to where she was sitting.  I had gone further into the back yard away from the trees so I could get a better view.  It seemed about 1500 feet up traveling from west to east, there was no noise coming from it at all.  It was as bright as burning magnesium but with what seemed to be a bluish tint.  There were no blinking lights like normal aircraft.  I have been an amateur astronomer for about 35 years and have never seen anything like this before.I can give a copy of the video but my internet is very slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157728.html](http://www.nuforc.org/webreports/reports/157/S157728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
