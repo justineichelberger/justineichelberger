@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:23 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:43 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mission Viejo (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights in sky over Mission ViejoI saw what appeared to be the big dipper in the SE sky at about 45’.  The stars appeared bright orange, and larger that normal.  There were possibly ten though I did not count them.  It was a very clear night with the moon hidden behind trees to the right of the objects.  The sky was a light blue rather than black.After a short period of time (possibly 30 seconds) they started to move with four of the upper ‘stars’ shaping a square and the others moving about in what seemed random patterns.  They continued to move about in the same general area until they started to dim and go out.  One stayed for about 20 seconds or so longer than the rest before it disappeared.  Afterwards I did see several lights from planes coming from that general direction.  I could not tell how high they were or if they were high flying helicopters.  Planes at a high elevation are normal for our area.The movements of the lights looked precise and they appeared to move one direction and then reverse or change to an up or down motion.  According to the current weather information Precipitation is 0% Humidity 77% and Wind is 0 mph.I was with my dog who was more interested in sniffing things than the distant objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100317.html](http://www.nuforc.org/webreports/reports/100/S100317.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gloucester (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange light dropped very fast over Gloucestershire UKDriving back from Stroud to Dursley in my car, my six year old son pointed out what we first thought was a police helicopter hovering somewhere over the river Severn.At first I thought it was odd - as it wasn't the typical white / blue colour lamp that they use, more of a orangy red.I pulled the car over so we could watch for a bit. It continued to hover and slightly move towards the direction of Stroud. Suddenly it dropped directly downward, very very fast and unfortunately disappeared behind the hill. There was no gradual acceleration down- It just dropped down very quickly.I don't know if it was a helicopter or plane... if so, the wreckage will be between Cam and Berkley. I have not seen the orange light since it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71147.html](http://www.nuforc.org/webreports/reports/071/S71147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
