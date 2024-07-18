@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Brighton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright green and fast-moving light seen above Brighton, Sussex, UK.Working at computer near front-room window at night and saw a bright green point of light move very fast from south to north (towards London, which is 50 miles away). Have seen bright meteors in the past - but am sure this was not one. There was no streak, and the light was maintained in intensity throughout and the colour was very distinct. Could not judge height, nor distance from object, but it seemed to be moving well above the speed of sound. Even though the night is clear, there are no stars visible due to being in a built-up area. Due to profession (air traffic controller working on Approach at London Gatwick) I was able to phone to see if anything was picked up on radar - which proved negative. Cannot say more - apart from the fact that I instinctively feel that the light was something very out-of-the-ordinary (however, I do not believe in alien visitors) and is the first time I've ever seen such a thing. It is something I will never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51422.html](http://www.nuforc.org/webreports/reports/051/S51422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hanover Park (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A spherical, metallic object rising very high in the sky.  Drone or something else?I was sitting in my car in a parking lot when I saw something appear in the horizon, coming from the northwest.  My first impression was that it was a balloon, as it floated and fluttered in the blue sky (no clouds whatsoever).  It appeared to be spherical in shape, metallic, reflecting the sun.  I also noticed that it slowly twirled in a circular motion.  Then it began to move upward in a more deliberate fashion, going way, way up in the sky, from the northwest to the east.  Then it crossed my mind that it could be a drone but I’ve never heard of a drone that rose up into the sky that high, perhaps as high as an airplane.  I managed to snap a couple of photos with my phone, when it was closer to the ground, and I sent them to the link as requested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135234.html](http://www.nuforc.org/webreports/reports/135/S135234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
