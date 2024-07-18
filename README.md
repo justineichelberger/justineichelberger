@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:46 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chester Springs (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Steady orange glowing sphere within a slightly larger glowing sphere moving west to eastOne large round orange sphere.  Steady glow moving steadily west to east.  Relative size comparison to half full moon when viewed high in sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157711.html](http://www.nuforc.org/webreports/reports/157/S157711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Los Banos (approx 10 miles east of) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 Bright lights along highway 152 east of Los Banos, very close to the groundI was driving along highway 152 traveling west, when approximately 10-15 miles outside of the town of Los Banos, I saw a green bright light fly across the highway a mile in front of me.  As it passed and it turned and looked as if two white lights had been shot off out of it almost.It proceeded to to turn make a tight turn to pass over the highway once again.  It passed over the highway and then proceeded to drop very low to the ground, still continuing forward.  Low enough that I could remember seeing the ground lit up from its light.  The reflection of the light allowed me to see what I believe was that the lights where actually connected to one another (i.e., that the craft was a bigger object with these three lights at the points).  After flying low to the ground for a short distance it gently curved back up and achieved more alluded  ((sic. Altitude?)) and turned left.I was driving along 152 heading west, and all this occurred in the span of about 3-5 minutes.  I could still see the craft in my side view/rear view mirrors, as I continued down 152.  The object looked to be staying in the same area.  I was in the car by myself at the time, but there were other drivers both east and west bound along 152.((NUFORC Note:  We suspect that this was a nighttime sighting, but we can't be certain.  We have sent the source an e-message, requesting confirmation about the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82582.html](http://www.nuforc.org/webreports/reports/082/S82582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
