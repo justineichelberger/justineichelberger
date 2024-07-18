@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Delta' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : from my bed room window we saw what we thout was a car on the hill top just up the street window was open we made some joke's about bet there kid's smoking out or making out .  when the head lights we where looking at went up in the air some 150 feet when the light hit the low a low cloud  they shut off then the thing started towerd my house we looked  out the window and wached it go over my house .it was black in a v shap .made no sound did not seem to be flying but like floting . we did not see it land but it was on the ground the only reson we looked out was the lights where varry bright . it sat there for some time the lifted off went up like 150 to 200 feet strat up then the lights hit a low cloud and it litup the hole cloud and the lights went off we wached as it floted over my house  .... towerd the armry . if ya ask me it looked just like a steath bomer but in 1974 and with out any sound and to take off like a chooper hmmmm i am 34 years old now and i run a caving grotto .in bremerton  i have lived all my life in bremerton and i spend a lot of time out door's</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02850.html](http://www.nuforc.org/webreports/reports/002/S02850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waterloo (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flamelike UFO seen in Waterloo, IADriving home the night of July 18 2008, I caught a glimpse of an object in the sky that I can only describe as flame-like. I was driving in Southwest Waterloo. To be exact, I was heading North on Ansborough Avenue, in between West 4th street and Highway 63, and I looked to my right, where I saw the object hovering high in the sky.  It was somewhat orange and yellow, and it seemed to glow. I cannot discern a particular shape. It did not seem to be traveling in any direction at all; rather hovering. It seemed to be very high in the sky, but much lower than an airplane.  I was unable to gaze at the object for a continuous amount of time, as I was driving my car, but I viewed the object in several short gazes. I saw the object, and then returned my eyes to the road. I looked at the object again, and then returned my eyes to the road. I did this again. After the third time I returned my eyes to the road, I looked to the sky again, and the object was gone. I did not see any sort of trail left by the object. The entire experience lasted about ten seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67012.html](http://www.nuforc.org/webreports/reports/067/S67012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
