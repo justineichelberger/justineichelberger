@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Mayfield (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>cigar shaped brightly lit object, hovered for 30 seconds and shot off to the northWe were enjoying a camp fire on my property off Jackson Summit Road West and heard a slight humming noise.  We looked to the west, up the mountain looking and saw a long cigar shaped brightly lit object.  It hovered above the ridge of the mountain, between our location and Woodworth Lake for about 30 seconds.  It accelerated very fast to the north and disappeared.((NUFORC Note:  Source indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77306.html](http://www.nuforc.org/webreports/reports/077/S77306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lander (WY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My son and I were looking at stars when we saw a fast moving light high in the sky traveling very fast in a circle then it suddenly dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76649.html](http://www.nuforc.org/webreports/reports/076/S76649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
