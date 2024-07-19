@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Doylestown (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03 - 0.03 minutes.</sub><blockquote><sub>Bright, Pink light in the sky that disappeared.My daughter and I were driving, and a very bright pink light appeared in the sky. I immediately pulled over and we were both saying “what is that?” It was still and very bright, the color of a flare but the light was massive. We were in the middle of the country. As soon as I pulled my phone out to take a picture it disappeared. It didn’t trail off, it was like it vanished into thin air. We were both in shock and couldn’t move while it was visible. I’ve never seen anything like it. I hope that others saw this too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157708.html](http://www.nuforc.org/webreports/reports/157/S157708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Pacific (WA) reported seeing craft that fit the description of some '' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Man sees bizarre cluster of 5 lights in straight line.  Center 3 strobed.  Obj. moves north, dips below trees. Turned w/o banking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00622.html](http://www.nuforc.org/webreports/reports/000/S00622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
