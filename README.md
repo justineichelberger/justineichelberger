@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball - Mississauga, Ontario, CanadaFacing North and slightly Northeast about 5% - Approximately 15 to 20 degrees to the horizon - Just above rooftops of medium sized houses which are across the street approximately 30 metres - Declining at low angle - 3 to 5% - Fireball - extremely large - Travelling from East to West - Approximately the size of 5 low flying 747 airplanes stacked together - Fire trail similar to a comet - but close in proximity like fireworks - Not the distance of a star or a high flying airplane - very close and large - Fire trail spanned the length of four houses - Fire trail did not shorten or lenghthen - Fire was orange, red, yellow - but appeared to sparkle, glisten, or shine - Appeared to something an like an asteriod or meteor entering the atmosphere like you would see in a movie like deep impact or transformers - No noise noted at all.I was just coming outside house for a cigarette and noticed it immediately - It lasted for a very short time before going under the horizon (or burning out) - I am not sure because a tree was in the way.I am educated individual and I was not on any illegal substances.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91033.html](http://www.nuforc.org/webreports/reports/091/S91033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Newberry (MI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We all heard a humming,  ran outside and for whatever reason,  we all knew to look up.  We saw a cylindrical object, white silver in color - very bright,  almost brilliant,  moving very slowly through the sky.  It seemed quite large.  Upon calling the small,  local airport,  they stated that there were no known aircraft in the area.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144398.html](http://www.nuforc.org/webreports/reports/144/S144398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
