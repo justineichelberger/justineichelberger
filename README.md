@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Pacific (WA) reported seeing craft that fit the description of some '' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Man sees bizarre cluster of 5 lights in straight line.  Center 3 strobed.  Obj. moves north, dips below trees. Turned w/o banking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00622.html](http://www.nuforc.org/webreports/reports/000/S00622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Northfield (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright white,silvery ball of light, soft ball sized in backyardI was outside with the dogs in the backyard and out of the corner of my left eye I started to see a bright light.  When I looked up, I saw a soft-ball sized or slightly larger ball of light that was silvery and white in color, fairly bright, travelling pretty fast, maybe 50 - 60 mph.  It was against a black night sky and dark trees because it was night time.  It looked like it came out of a treed aread overhead, passed between another tree and near the roof of the house.  It was maybe no more than 20-30 feet overhead.  There was no sound.  It passed by within a second or two.  There was no sign of it after I went and looked around the corner of the house.  When I saw it my first thought was that I was seeing a shooting star.  But, then I realized that it was so closes overhead that it wasn't a shooting star at all, and it wasn't arcing, it was going in a straight, linear direction from my left to my right, in a perfect straight line, no arcing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45178.html](http://www.nuforc.org/webreports/reports/045/S45178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
