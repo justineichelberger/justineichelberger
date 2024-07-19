@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Geneva (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball over state highway 318 NY.I was driving my buddy home last night and we were traveling on state rt. 318 heading eastward.  We happened to look up in the sky ahead of the car and we noticed what looked like an airplane on fire.  As we drew closer to it, it appeared to be an orange glowing ball.  I slowed down to about 20 mph and neither of us heard anything other than my car's engine and the sound of the tires on the road.  It just seemed to hover over that spot and was about 200-300 yards up from the ground, which would've made it a very low-flying plane.  No noise, no exhaust could be seen or heard.  My buddy continued to look out the windows as we passed it.  He explained to me that it looked like it was following us.  He no sooner got that out of his mouth and then said that it had grown dim and then suddenly, it flashed out like a light switch.  There were other cars on the road at the time, so I imagine others had to have seen this too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111680.html](http://www.nuforc.org/webreports/reports/111/S111680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball - Mississauga, Ontario, CanadaFacing North and slightly Northeast about 5% - Approximately 15 to 20 degrees to the horizon - Just above rooftops of medium sized houses which are across the street approximately 30 metres - Declining at low angle - 3 to 5% - Fireball - extremely large - Travelling from East to West - Approximately the size of 5 low flying 747 airplanes stacked together - Fire trail similar to a comet - but close in proximity like fireworks - Not the distance of a star or a high flying airplane - very close and large - Fire trail spanned the length of four houses - Fire trail did not shorten or lenghthen - Fire was orange, red, yellow - but appeared to sparkle, glisten, or shine - Appeared to something an like an asteriod or meteor entering the atmosphere like you would see in a movie like deep impact or transformers - No noise noted at all.I was just coming outside house for a cigarette and noticed it immediately - It lasted for a very short time before going under the horizon (or burning out) - I am not sure because a tree was in the way.I am educated individual and I was not on any illegal substances.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91033.html](http://www.nuforc.org/webreports/reports/091/S91033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
