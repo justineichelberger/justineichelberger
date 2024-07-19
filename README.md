@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Small metalic teardrop shape object that made a parallel front-back movement.The object I saw was through my window, it made like some type of parallel front and back movement (slowly) then suddenly disappeared.  It made this same movement one more time before disappearing once again.  It had a sliverish metalic shiny color.  It was not an airplane or a helicopter beacause it made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90993.html](http://www.nuforc.org/webreports/reports/090/S90993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round bright white light traveling at a high rate of speed.Single round bright white light at approximately 3000' - 5000' traveling at a high rate of speed (it appeared faster than the jets from nearby DFW airport and the Joint Naval Reserve) traveling in a linear north- northeast direction.  No trail or aura other colors or objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147658.html](http://www.nuforc.org/webreports/reports/147/S147658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
