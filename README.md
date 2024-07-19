@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round bright white light traveling at a high rate of speed.Single round bright white light at approximately 3000' - 5000' traveling at a high rate of speed (it appeared faster than the jets from nearby DFW airport and the Joint Naval Reserve) traveling in a linear north- northeast direction.  No trail or aura other colors or objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147658.html](http://www.nuforc.org/webreports/reports/147/S147658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dicomano (NNE pf Firenze) (Italy) () reported seeing craft that fit the description of some 'Disk' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Dark objekt moving slowly from E to V. Rappid accelerat and and make 1 jump up and down.From vertical verry fast flight spinning in a spiral and desapear.Point of  observation. From Dicomano, Italy on the road to Il Lago. (On way up) Direction of view S towards mountains and Dicimano (Apm height  o. sea. 150 m), Dark object in an angel of 20-30 degrades above observation point, first moving slowly from E to V. over mountains. Then rapid accelerate and make 1 jump up and down. From vertical very fast flight, spinning in a spiral and disappear. On drawing object shape was  disk but long. On a drawing "as we did se it" I was ca. 5 mm Observation made by two children at 12 and one adult women. Both children had no doubt of "something" was weary different from helicopter and aeroplane there fore they reacted by telling there observation as a question "what was that ?". The children were a bit frighten so I did not dug further in there observation. The woman wouldn't talk about it. Next day we heard that UFO observation in the days before was made in northern Italy. That's why I respond with this observation. We are from Denmark and was on vacation in Italy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08526.html](http://www.nuforc.org/webreports/reports/008/S08526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
