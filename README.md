@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dicomano (NNE pf Firenze) (Italy) () reported seeing craft that fit the description of some 'Disk' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Dark objekt moving slowly from E to V. Rappid accelerat and and make 1 jump up and down.From vertical verry fast flight spinning in a spiral and desapear.Point of  observation. From Dicomano, Italy on the road to Il Lago. (On way up) Direction of view S towards mountains and Dicimano (Apm height  o. sea. 150 m), Dark object in an angel of 20-30 degrades above observation point, first moving slowly from E to V. over mountains. Then rapid accelerate and make 1 jump up and down. From vertical very fast flight, spinning in a spiral and disappear. On drawing object shape was  disk but long. On a drawing "as we did se it" I was ca. 5 mm Observation made by two children at 12 and one adult women. Both children had no doubt of "something" was weary different from helicopter and aeroplane there fore they reacted by telling there observation as a question "what was that ?". The children were a bit frighten so I did not dug further in there observation. The woman wouldn't talk about it. Next day we heard that UFO observation in the days before was made in northern Italy. That's why I respond with this observation. We are from Denmark and was on vacation in Italy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08526.html](http://www.nuforc.org/webreports/reports/008/S08526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Belgrade (Serbia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 fireballs patrol like steady glideOk, I can't hold it anymore.  I was reluctunt to report "them" but it seems they just don't give up showing.  PD was more than once asking for any info on fireballs.I saw 2 fireballs in broad daylight in late july 2010.For about a minute I watched them glide at steady pace along the ourskirts of city of Belgrade/Serbia.  Direction was south to north.At first I thought it was airplane on it's usuall approach, with the landing lights on in the daylight.  Then I clearly saw that there is no body and wings to this airplane, and then second fireball came into my view.  They were flying in paralell, some 500 meters apart, some 300 meters from the ground.  Also those 2 balls were no more then 500 meters from observation point.  Their color was very live and sparkling amber/orange.The light must have been very strong to be so clearly visible in sunny summer day.I also dismiss any idea of chinese lanterns or 2 invisible planes competing for runway.  Considering speed, it was easily 100 km/h. It felt like they were patroling the area.  There was no sound.regards from Serbia((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81749.html](http://www.nuforc.org/webreports/reports/081/S81749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
