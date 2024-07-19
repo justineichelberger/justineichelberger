@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Belgrade (Serbia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 fireballs patrol like steady glideOk, I can't hold it anymore.  I was reluctunt to report "them" but it seems they just don't give up showing.  PD was more than once asking for any info on fireballs.I saw 2 fireballs in broad daylight in late july 2010.For about a minute I watched them glide at steady pace along the ourskirts of city of Belgrade/Serbia.  Direction was south to north.At first I thought it was airplane on it's usuall approach, with the landing lights on in the daylight.  Then I clearly saw that there is no body and wings to this airplane, and then second fireball came into my view.  They were flying in paralell, some 500 meters apart, some 300 meters from the ground.  Also those 2 balls were no more then 500 meters from observation point.  Their color was very live and sparkling amber/orange.The light must have been very strong to be so clearly visible in sunny summer day.I also dismiss any idea of chinese lanterns or 2 invisible planes competing for runway.  Considering speed, it was easily 100 km/h. It felt like they were patroling the area.  There was no sound.regards from Serbia((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81749.html](http://www.nuforc.org/webreports/reports/081/S81749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Geneva (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball over state highway 318 NY.I was driving my buddy home last night and we were traveling on state rt. 318 heading eastward.  We happened to look up in the sky ahead of the car and we noticed what looked like an airplane on fire.  As we drew closer to it, it appeared to be an orange glowing ball.  I slowed down to about 20 mph and neither of us heard anything other than my car's engine and the sound of the tires on the road.  It just seemed to hover over that spot and was about 200-300 yards up from the ground, which would've made it a very low-flying plane.  No noise, no exhaust could be seen or heard.  My buddy continued to look out the windows as we passed it.  He explained to me that it looked like it was following us.  He no sooner got that out of his mouth and then said that it had grown dim and then suddenly, it flashed out like a light switch.  There were other cars on the road at the time, so I imagine others had to have seen this too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111680.html](http://www.nuforc.org/webreports/reports/111/S111680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
