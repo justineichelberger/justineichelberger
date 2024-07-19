@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 18 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:51 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lander (WY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My son and I were looking at stars when we saw a fast moving light high in the sky traveling very fast in a circle then it suddenly dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76649.html](http://www.nuforc.org/webreports/reports/076/S76649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in In-flight (Pennsylvania; above) (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>I was flying from niagara falls ny to myrtle beach, sc and snapped a picture of the engine. .with duct tape covering/used for repair.  In the background and unseen at the time, were three(3)objects that when zoomed in are unexplainable.((NUFORC Note:  We suspect that the three small lights in the photo probably are reflections of cabin lights in an overhead console.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111813.html](http://www.nuforc.org/webreports/reports/111/S111813.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
