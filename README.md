@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was walking my dog when I noticed a red light in the sky moving slowly from south to north around the mid-town area.  I knew it wasn't a plane as it was low enough, below the clouds that I would have heard the engines.  Also, the light was not blinking.  I stopped and listened thinking it might be a helicopter, but again, no noise and no blinking lights.   As it disappeared, I shrugged it off.  A few minutes later, there were six more red lights, all traveling together slowly and quietly below the clouds, but spaced erratically and at different altitudes.  Again, they were low enough that I would have heard engine noise.  They flew in the same direction and eventually disappeared out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111694.html](http://www.nuforc.org/webreports/reports/111/S111694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Blackstone (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange orange ball hovered near military base.About 11:15 on July 19, 2014, I saw a orange ball just above the tree line. I watched it for about 2 mins and it dropped down slowly behind the tree line towards Fort Picket military base.  About two miles away there is a small access rd that runs along side the base around where we saw the object descend.  As we were parked along side the rd with our lights off, the sky started to pulsate just beyond the tree line, and a few mins later, the fireball flew parallel to the tree line really fast, and shot up on a very sharp angle and was out of sight.((NUFORC Note:  We attempted to contact the source of the report, in order to clarify the time of the sighting, but could not reach him via the contact information he provided to NUFORC.  We suspect that the sighting occurred at night, and we have amended the time above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111705.html](http://www.nuforc.org/webreports/reports/111/S111705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
