@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Newberry (MI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We all heard a humming,  ran outside and for whatever reason,  we all knew to look up.  We saw a cylindrical object, white silver in color - very bright,  almost brilliant,  moving very slowly through the sky.  It seemed quite large.  Upon calling the small,  local airport,  they stated that there were no known aircraft in the area.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144398.html](http://www.nuforc.org/webreports/reports/144/S144398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huber Heights (Bethel township) (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orange spheres in a triangular patternAt approximately 10:15 pm, est, tonight, my husband and I were standing on our deck, when coming from the SW heading NE over our house, we noticed three orange spheres moving in a triangular pattern (there was no noise that we could hear).   I came inside to grab my cell phone, and when I returned to the deck (less than 10 seconds), only  two orange spheres remained (I have pictures, although they are kind of grainy), within seconds, both of those spheres disappeared.  As we stood there, trying to make sense of what we had just seen, a single bright white light (and no, it  was not a star, more in common with a spotlight) as I turned my cell phone on to take a picture, it too disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100361.html](http://www.nuforc.org/webreports/reports/100/S100361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
