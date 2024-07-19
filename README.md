@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:51 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in In-flight (Pennsylvania; above) (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>I was flying from niagara falls ny to myrtle beach, sc and snapped a picture of the engine. .with duct tape covering/used for repair.  In the background and unseen at the time, were three(3)objects that when zoomed in are unexplainable.((NUFORC Note:  We suspect that the three small lights in the photo probably are reflections of cabin lights in an overhead console.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111813.html](http://www.nuforc.org/webreports/reports/111/S111813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Small metalic teardrop shape object that made a parallel front-back movement.The object I saw was through my window, it made like some type of parallel front and back movement (slowly) then suddenly disappeared.  It made this same movement one more time before disappearing once again.  It had a sliverish metalic shiny color.  It was not an airplane or a helicopter beacause it made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90993.html](http://www.nuforc.org/webreports/reports/090/S90993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
