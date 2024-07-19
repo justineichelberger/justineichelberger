@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huber Heights (Bethel township) (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orange spheres in a triangular patternAt approximately 10:15 pm, est, tonight, my husband and I were standing on our deck, when coming from the SW heading NE over our house, we noticed three orange spheres moving in a triangular pattern (there was no noise that we could hear).   I came inside to grab my cell phone, and when I returned to the deck (less than 10 seconds), only  two orange spheres remained (I have pictures, although they are kind of grainy), within seconds, both of those spheres disappeared.  As we stood there, trying to make sense of what we had just seen, a single bright white light (and no, it  was not a star, more in common with a spotlight) as I turned my cell phone on to take a picture, it too disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100361.html](http://www.nuforc.org/webreports/reports/100/S100361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was walking my dog when I noticed a red light in the sky moving slowly from south to north around the mid-town area.  I knew it wasn't a plane as it was low enough, below the clouds that I would have heard the engines.  Also, the light was not blinking.  I stopped and listened thinking it might be a helicopter, but again, no noise and no blinking lights.   As it disappeared, I shrugged it off.  A few minutes later, there were six more red lights, all traveling together slowly and quietly below the clouds, but spaced erratically and at different altitudes.  Again, they were low enough that I would have heard engine noise.  They flew in the same direction and eventually disappeared out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111694.html](http://www.nuforc.org/webreports/reports/111/S111694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
