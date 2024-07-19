@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ormond by the Sea (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A perfectly round orange, translucent orb moving slowly from the sw to ne followed 20 minutes later by a second orb, same as the first which disappeared once over the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121763.html](http://www.nuforc.org/webreports/reports/121/S121763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Marfa (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>West Texas Triangle UFOsWitnessed two silent and large craft fly over the Marfa lights veiwing area east of Marfa, TX.  The craft each had three white non-blinking lights at the tip of an equilateral triangle with a blinking red light in the center.  They flew over from north to south.  They maneuvered towards the south and then began to follow each other close to the horizon at a high rate of speed going east.  I have video and screenshots of one of the craft.I checked an ap on my iPhone X that indicated there were no commercial aircraft in the vicinity that would have been visible during the sighting.  There is a strong possibility that this was some kind of advanced military aircraft.  That being said, it met the classic description of the widely seen and reported black triangle UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142485.html](http://www.nuforc.org/webreports/reports/142/S142485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
