@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:49 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Northampton (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I stepped outside one evening to smoke a cig. I always look up and watch the stars. It was a very clear night. As a looked around I saw 2 round shaped objects. They both had yellow,red and another color circling around them. I watched they would move back and forth across the sky in a straight line. Then they started to move up and down, somewhat like a pattern of a diamond shape. One object dropped suddenly down, then it seemed to be hovering. The other oject darted off very quickly in a "V" shaped pattern and the disappeared.  As the other craft was still hovering you could really see the lights. Nothing like this have I ever seen before. The object hovered lower to the ground, but didn't touch. I was NOW becoming very scared. But I stilled watched. The object still had the lights circling around the bottom and it began to move one way and the another straight line back and forth, and the made a "L" shaped design and up it went very fast and then disappered. I did live near a local airport and called them to see if there were any planes coming into the area. They stated "NO"  I am KNOW a BELIEVER!!!!!   Judi Wright  Northampton, PA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26579.html](http://www.nuforc.org/webreports/reports/026/S26579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Baldwin (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>i saw a craft floating outside my house.I saw a craft outside my house.  I don't know how big it was because i don't know exactly how far away it was.  I've told some people about it and they didn't see anything.  The craft didn't make any noise at all, it just sat there and slowly moved what appeared to be to the northwest towards me.  I took two pictures on a polaroid camera, but there was a problem with the second picture (connected???).  Just as i was looking to see what the problem was with the second picture that i took, it vanished.  All without a sound, or anything.  It didn't waver in the wind or anything, no noise, nothing.  It was rather egg shaped and looked a brass/gold color.  I could see that it had an opening of some sort underneath it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45176.html](http://www.nuforc.org/webreports/reports/045/S45176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
