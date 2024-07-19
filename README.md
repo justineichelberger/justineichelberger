@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:49 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Blackstone (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange orange ball hovered near military base.About 11:15 on July 19, 2014, I saw a orange ball just above the tree line. I watched it for about 2 mins and it dropped down slowly behind the tree line towards Fort Picket military base.  About two miles away there is a small access rd that runs along side the base around where we saw the object descend.  As we were parked along side the rd with our lights off, the sky started to pulsate just beyond the tree line, and a few mins later, the fireball flew parallel to the tree line really fast, and shot up on a very sharp angle and was out of sight.((NUFORC Note:  We attempted to contact the source of the report, in order to clarify the time of the sighting, but could not reach him via the contact information he provided to NUFORC.  We suspect that the sighting occurred at night, and we have amended the time above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111705.html](http://www.nuforc.org/webreports/reports/111/S111705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Northampton (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I stepped outside one evening to smoke a cig. I always look up and watch the stars. It was a very clear night. As a looked around I saw 2 round shaped objects. They both had yellow,red and another color circling around them. I watched they would move back and forth across the sky in a straight line. Then they started to move up and down, somewhat like a pattern of a diamond shape. One object dropped suddenly down, then it seemed to be hovering. The other oject darted off very quickly in a "V" shaped pattern and the disappeared.  As the other craft was still hovering you could really see the lights. Nothing like this have I ever seen before. The object hovered lower to the ground, but didn't touch. I was NOW becoming very scared. But I stilled watched. The object still had the lights circling around the bottom and it began to move one way and the another straight line back and forth, and the made a "L" shaped design and up it went very fast and then disappered. I did live near a local airport and called them to see if there were any planes coming into the area. They stated "NO"  I am KNOW a BELIEVER!!!!!   Judi Wright  Northampton, PA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26579.html](http://www.nuforc.org/webreports/reports/026/S26579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
