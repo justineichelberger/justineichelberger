@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Follansbee (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black triangle shape with 2 bright white lights and 4 deep red lights. Back curved inward. no markings no sound. hovered above treelineTraveling south on Rt. 2 near the Market street bridge. Just before entering Follansbee, WV, Hovering just above the tree lines. A large black craft with 2 bright lights in front and 4 deep red lights. 2 of the red lights were centered on the bottom of the white lights. The other 2 lights were each side of the triange. There were no lights in the back of the craft which was bowed inward. The overall shape was that of a triangle that looked like the corners were cut off and the back was curved inward. There was no letters or writting on it anywhere. The bottom was smooth. Like it had no landing gear. I could not see any windows, or doors. I was very close to it. It was around 4:30 a.m. At first I thought it was an airplane, but it did not move. It made no noise. We slowed to watch it with the windows down. We went up on the hill to get a good look at it. The clearing showed the entire sky. The shy was clear. It just vanished. Nowhere in sight. I was not drinking or use drugs. Very clear of mind. There was another person in the car with me and my husband. My husband was sleeping. I can't find anything on the net that looks like this. How can it just vanish like that? Awsome. Could you please let me know if you know what this was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57799.html](http://www.nuforc.org/webreports/reports/057/S57799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green object in the sky 3 mi off Miami Beach, Fl.What happened was that me and a friend were fishing on a boat. Around 12:30 A.M. on July 20, 2007 I was looking towards Miami Beach. Then I saw a green light come from the west at a very rapid speed. It stopped at a distance of a couple of football fields away in the air. It made no sound but it had a color of bright green. It stayed stationary for about 3 seconds and then it speeded off to the west. I turned to the side to tell my friend to look at it when it was stationary and my friend looked up and then it speeded off. But he also was able to see the UFO. When this happened i realized that it was not a glare or my mind playing tricks on me but it was an actual UFO and not a shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57853.html](http://www.nuforc.org/webreports/reports/057/S57853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
