@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ida (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireball over Monroe Co, MIWe were driving North on Lewis Ave when I noticed two women looking and pointing up into the sky south of town.  I looked out the car window and saw a orange red fireball!   It looked like a meteorite heading right towards us. The flames were visible.  It was at that point a basketball size.  It was flying north at a downward angle.  It looked like it was right over us.  It then appeared smaller as it turned and leveled out north then suddenly it went East and disappeared.   We got back into the car and headed North.  I looked out again and it reappeared over town again.  We turned the car around and headed South see it, but it disappeared again.   I thought that it was a meteorite or even an Iraq missile headed towards us.  I have never seen anything like it before.  My son and his girlfriend have been watching the fireballs for the past 3 nights over Ida.  Monroe, Co Michigan.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76697.html](http://www.nuforc.org/webreports/reports/076/S76697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Huge beam of light comes from sky, no craft of any kind visible that could produce it.What is just as important about this encounter is not only what the three winesses saw but what we did not see, please bare with me. I was visiting friends who were staying at Rockhound State park in Deming NM. The night was clear, slightly hazy, and not dark but dusk. The couple I was visiting and I were outside, and I was chatting with one of my friends while her husband stood close by looking out toward the city of Deming as we were talking.Suddenly my friend whom I was not conversing with called out "what is that?" at which point the two of turned to look in his direction, at which time we observed a huge beam of light coming down from the sky not up as one would expect. Yes it was coming down! There was an obvious point of origin, but no visible craft of any kind was observed that could produce the light. There was no airplanes, helicopters, hot air ballons ect that could be seen only a very translucent whispy small cloud.I would describe the light as being orangish yellow in color, very intense, and wide. Its hard to estimate the width of the beam but it was easily as wide as any spotlight I've ever seen. The light originated from an elevation of approx 1000 to 1500 ft, again hard to determine exactly. What was just as strange is the light just slowly fizzled out, not at all like a light switch that had been turned off but just fadded away until it was no longer visible.   I have had several other experiences in my lifetime but this one is by far the most unusual and I believe unique.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90364.html](http://www.nuforc.org/webreports/reports/090/S90364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
