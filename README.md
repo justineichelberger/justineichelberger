@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:41 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auburn (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two bright, non-moving lights in the sky, brighter than the stars.A friend and myself were standing outside of his house, which is in a subdivision.  We were looking in the sky attempting to identify constellations, studying for an astronomy class.  There is a significant amount of light pollution in the area.  I was looking north or northwest, and my friend was looking southeast.  He mentioned that I should look where he was looking.  I looked southeast. We both observed two extremely bright points of light.  One light appeared vertically above the other light.  They were not moving at all.  My first impression was that they were just extremely bright stars, and I looked into my book to try to find them.  I looked back up a few seconds later and they were gone.  There was no sound.  Both points of light were the same brightness, and appeared to be much brighter than any star in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71212.html](http://www.nuforc.org/webreports/reports/071/S71212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Disk, hovered over shoping center.It was a hot summer night. We were all outside playing with our parrents.  We were kind of having a court partyI saw the object first and told my father, he then got the attenshion of the others.  We all watched the object for several min.  One of the neibors was so scared he slid under a car. Mother called the police and filed a report.  Disk like shape hovered over the shoping center for a clp minutes. The cars on the street stoped and people got out and watched in amazement. The cross road is a busy intersection.  The road names are Story and White.((NUFORC Note:  The date indicated may be an approximation, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56212.html](http://www.nuforc.org/webreports/reports/056/S56212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
