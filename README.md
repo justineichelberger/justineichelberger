@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rock Island (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>The object appeared out of nowhere, flew in a straight line, got real bright, and faded away four nights in a row.This happened last year in the summer time. I was sitting outside like usual and watching the sky. I saw a light just appear out of nowhere and it flew in a straight line for about 3-5 seconds when it got real bright and then faded away. This happened about 4 nights and I tried to get my mom to see it but she thought I was just mistaking it for an aaircraft, but in all the times I've sat out there, there has been no aircraft take the path that this took. I didnt bother to tell anybody except my mom because I dont think they would have believed me. I also saw a couple nights later a bright craft fly in a straight line flying east. This lasted about 10 seconds before it got bright and faded away. There is something that happened also a few years ago in Milan, Illinois around midnight. I was at Camden Park with my boyscout group when some of the other kids ran in and said something exploded around the moon. I went out and looked up and there was what looked like debris floating around the moon. Then there went a bright light going pretty fast, I would have to say about 500 mph?, and it flew by and over the horizon. About 5 minutes later, it appeared again from the opposite horizon. Then when that had disappeared over the horizon again, another one appeared and flew after the first. There was no sound in either of the reports. That is all that happened that night.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51913.html](http://www.nuforc.org/webreports/reports/051/S51913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ida (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireball over Monroe Co, MIWe were driving North on Lewis Ave when I noticed two women looking and pointing up into the sky south of town.  I looked out the car window and saw a orange red fireball!   It looked like a meteorite heading right towards us. The flames were visible.  It was at that point a basketball size.  It was flying north at a downward angle.  It looked like it was right over us.  It then appeared smaller as it turned and leveled out north then suddenly it went East and disappeared.   We got back into the car and headed North.  I looked out again and it reappeared over town again.  We turned the car around and headed South see it, but it disappeared again.   I thought that it was a meteorite or even an Iraq missile headed towards us.  I have never seen anything like it before.  My son and his girlfriend have been watching the fireballs for the past 3 nights over Ida.  Monroe, Co Michigan.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76697.html](http://www.nuforc.org/webreports/reports/076/S76697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
