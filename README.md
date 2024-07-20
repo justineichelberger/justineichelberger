@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green object in the sky 3 mi off Miami Beach, Fl.What happened was that me and a friend were fishing on a boat. Around 12:30 A.M. on July 20, 2007 I was looking towards Miami Beach. Then I saw a green light come from the west at a very rapid speed. It stopped at a distance of a couple of football fields away in the air. It made no sound but it had a color of bright green. It stayed stationary for about 3 seconds and then it speeded off to the west. I turned to the side to tell my friend to look at it when it was stationary and my friend looked up and then it speeded off. But he also was able to see the UFO. When this happened i realized that it was not a glare or my mind playing tricks on me but it was an actual UFO and not a shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57853.html](http://www.nuforc.org/webreports/reports/057/S57853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While standing at my window with the window open I saw 1-2 orange-ish/ Fire colored lights in the sky over the Everett area near Boeing,  They were moving in an erratic way for a minute almost doing loops or something.  If you could imagine what it would look like if someone was SLOWLY juggling 2 flaming torches from very far away, that's what it looked like except it was in the sky.  They were not in sync so I think it was two different ones.This went on for about 1 minute and I ran into my bedroom to get my camera,  When I came back and started filming they were gone.  I waited for about 5 min and even went outside to get a better vantage point but they never returned.  The initial sighting was from a window about 30ft from street level, facing east, the window was open/no screen. objects were in the sky at about 45° from me and could not have been less then maybe 1000ft I believe we are not alone in this universe but I am a realistic person,  I have no clue what I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120506.html](http://www.nuforc.org/webreports/reports/120/S120506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
