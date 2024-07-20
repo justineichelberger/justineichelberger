@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large glowing orange object/ 4 blackhawk helicopters in the morning.I had some company over and was finishing up some ribs on the barbecue late Saturday night in front of my apartments, when my neighbor (around 19 years old) starting yelling  out "YOU DON'T SEE IT! YOU DON'T SEE IT!" as he came running out from in between our apartments and into my view I noticed he was pointing up. He then Exclaimed " LOOK UP! OH MY GOD YOUR MISSING IT!" as I looked up I seen a very bright glowing orange oval object about a little bigger than a 747, hovering.   Now please understand we see passenger planes on approach to LAX all day and all night long over our neighborhood, as many as 5 to 7 at time lined up at different altitudes. The object was at about 1000 to 1500 feet.  As I looked behind myself into my home to call out another person to come see it and then looked back up it elevated so rapidly, it must of accelerated in altitude from about 1500 feet to about 40,000 feet in about 1 to 2 seconds it was so high up and ! so small.  It looked to be out of the earths atmosphere within seconds and was traveling in an northeast direction till the tiny spec was unable to view.The L.A. county sheriffs helicopter is on a constant patrol in our area I even wake to the sound of it sometimes in the morning.  I also see from time to time Blackhawk helicopters in formation using the 5 freeway as a navigational tool, but the morning after the sighting I was downstairs preparing for breakfast when four Blackhawk helicopters flew directly over our block at a very very low and loud altitude and kind of circled the area, they appeared to be making a quick survey or search of the area and then quickly left.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100480.html](http://www.nuforc.org/webreports/reports/100/S100480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in St-Jovite (Canada) (PQ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>3 Dancing Flying white diskAt the night me & 5 friends, we've see some white disk dancing in the sky. Sometimes they're stop, disapear & reapear at different position. But they was always in some sort of formation or someting like that. *Scuse my poor english, i'm French, but i try to describ it to my best.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18476.html](http://www.nuforc.org/webreports/reports/018/S18476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
