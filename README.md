@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : DESCRIBED LIKE A LARGE ORANGE BUTTERFLY.LOCATED OVER THE MOUNT HOPE CIVIC AIRPORT.REPORTED TO LOCAL POLICE DEPARTMENT.THEY SAID THEY DO NOT INVESTIGATE U. F. O.'S THE SAME RESPONSE WAS GIVEN BY THE CENTER FOR UFO STUDIES IN EVANSTON, ILLINOIS.LOOKED LIKE A GIANT ORANGE BUTTERFLY ABOUT 5 MILES ACROSS. ONLY ONE WITNESS SAW THIS THING AT MIDNIGHT NEAR LOCAL BUS STOP.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02264.html](http://www.nuforc.org/webreports/reports/002/S02264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bellaire (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My friend and I were camping in a field when I suddenly saw this disc like object in the sky followed by two others traveling unusually fast when suddenly it stopped and came closer to earth then flew again.  When it stopped it turned orange then quickly flew up into darkness.  The wired thing was when I tried to take a photo you could see stars but not the disc.  The other two kept close to the first glowing disc.  We stand by what we know we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71392.html](http://www.nuforc.org/webreports/reports/071/S71392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
