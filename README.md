@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:28 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>glowing CD shaped saucer flying NW, slowly floating off into the night.At 12:40 am, i look in the night sky and i see what i thought was maybe a balloon or plastic bag.  it appeared to be moving rather slow.  almost floating.  Moving north-west.  it looked like a glowing white CD. very faint. flew off into the night and disappeared into the distance just like a plane would.  Insane!!!  tried capturing it on camera but my crappy phone wouldn't pick up the faint glow of the saucer. second sighting for me.  first was in 2014.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135263.html](http://www.nuforc.org/webreports/reports/135/S135263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Everett (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange light formation in the sky over Central Pennsylvania.At approximately 2:15 am, in the Eastern sky.  There where twelve perfectly spaced orbs.  It looked like if you would have placed lights by putting one light on each side of every rung.  They were that perfectly spaced apart.  The orb/lights appeared one at a time.  They appeared to be perfectly round and all the same size.  They lasted for approximately 20 minutes and disappeared in reverse order that they appeared.  They looked similar to the ones that were on your you tube video in Michigan.  Except for the formation.((NUFORC Note:  Witness indicates that the date above is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135780.html](http://www.nuforc.org/webreports/reports/135/S135780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
