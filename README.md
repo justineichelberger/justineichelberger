@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 19 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Marfa (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>West Texas Triangle UFOsWitnessed two silent and large craft fly over the Marfa lights veiwing area east of Marfa, TX.  The craft each had three white non-blinking lights at the tip of an equilateral triangle with a blinking red light in the center.  They flew over from north to south.  They maneuvered towards the south and then began to follow each other close to the horizon at a high rate of speed going east.  I have video and screenshots of one of the craft.I checked an ap on my iPhone X that indicated there were no commercial aircraft in the vicinity that would have been visible during the sighting.  There is a strong possibility that this was some kind of advanced military aircraft.  That being said, it met the classic description of the widely seen and reported black triangle UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142485.html](http://www.nuforc.org/webreports/reports/142/S142485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auburn (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two bright, non-moving lights in the sky, brighter than the stars.A friend and myself were standing outside of his house, which is in a subdivision.  We were looking in the sky attempting to identify constellations, studying for an astronomy class.  There is a significant amount of light pollution in the area.  I was looking north or northwest, and my friend was looking southeast.  He mentioned that I should look where he was looking.  I looked southeast. We both observed two extremely bright points of light.  One light appeared vertically above the other light.  They were not moving at all.  My first impression was that they were just extremely bright stars, and I looked into my book to try to find them.  I looked back up a few seconds later and they were gone.  There was no sound.  Both points of light were the same brightness, and appeared to be much brighter than any star in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71212.html](http://www.nuforc.org/webreports/reports/071/S71212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
