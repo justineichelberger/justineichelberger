@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Huge beam of light comes from sky, no craft of any kind visible that could produce it.What is just as important about this encounter is not only what the three winesses saw but what we did not see, please bare with me. I was visiting friends who were staying at Rockhound State park in Deming NM. The night was clear, slightly hazy, and not dark but dusk. The couple I was visiting and I were outside, and I was chatting with one of my friends while her husband stood close by looking out toward the city of Deming as we were talking.Suddenly my friend whom I was not conversing with called out "what is that?" at which point the two of turned to look in his direction, at which time we observed a huge beam of light coming down from the sky not up as one would expect. Yes it was coming down! There was an obvious point of origin, but no visible craft of any kind was observed that could produce the light. There was no airplanes, helicopters, hot air ballons ect that could be seen only a very translucent whispy small cloud.I would describe the light as being orangish yellow in color, very intense, and wide. Its hard to estimate the width of the beam but it was easily as wide as any spotlight I've ever seen. The light originated from an elevation of approx 1000 to 1500 ft, again hard to determine exactly. What was just as strange is the light just slowly fizzled out, not at all like a light switch that had been turned off but just fadded away until it was no longer visible.   I have had several other experiences in my lifetime but this one is by far the most unusual and I believe unique.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90364.html](http://www.nuforc.org/webreports/reports/090/S90364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Levittown (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately about an hour - about an hour minutes.</sub><blockquote><sub>Bright  U shaped craft was low to the ground, many planes appeared in the area prior to the sighting.At a party, 8 witnesses saw a bright craft.  It was almost similar in shape to a Star Trek craft, it was so low to the ground and moved so erratically, it was hard not to notice. it flew around the perimter of the surrounding blocks, and then disapeared.  Bright blue and white lights that hurt the eyes to look at beamed off the craft.  When it dissapred there were at least a dozen planes and helicopters circling the area. After about 15 minutes, the sky had weird, cloud looking formations and several witnesses clamied they felt dizzyness.  After the primary planes that appeared were gone, 2 black hawks flew over where we witnessed the sighting, and then dissapered.  Then, the area became extremley windy, and then the strange happening ceased.((NUFORC Note:  We are uncertain as to whether this was submitted as a serious-minded report, or not.  We cannot be certain, but we doubt that it is legitimate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71216.html](http://www.nuforc.org/webreports/reports/071/S71216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
