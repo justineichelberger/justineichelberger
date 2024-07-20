@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:41 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:49 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Disk, hovered over shoping center.It was a hot summer night. We were all outside playing with our parrents.  We were kind of having a court partyI saw the object first and told my father, he then got the attenshion of the others.  We all watched the object for several min.  One of the neibors was so scared he slid under a car. Mother called the police and filed a report.  Disk like shape hovered over the shoping center for a clp minutes. The cars on the street stoped and people got out and watched in amazement. The cross road is a busy intersection.  The road names are Story and White.((NUFORC Note:  The date indicated may be an approximation, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56212.html](http://www.nuforc.org/webreports/reports/056/S56212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wildwood (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A lit object hovered over wildwood boardwalk.  Only slight movements back and forth not indicative of any man made flight craft I've ever seen.  Multi-colored lights flashed in sequence red, blue, and green. The lights were bright and definitive in their color.  The object remained in the same section if the nighttime sky for just over 1/2 hour.  It was easily visible.  It was well above any if the lit rides that are stationed on the boardwalk. As I got home and attempted to capture the object on video from my balcony, it disappeared.  It was difficult to ascertain the shape of the craft but it did seem to be circular or sphere shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111749.html](http://www.nuforc.org/webreports/reports/111/S111749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
