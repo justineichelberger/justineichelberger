@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 20 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Everett (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange light formation in the sky over Central Pennsylvania.At approximately 2:15 am, in the Eastern sky.  There where twelve perfectly spaced orbs.  It looked like if you would have placed lights by putting one light on each side of every rung.  They were that perfectly spaced apart.  The orb/lights appeared one at a time.  They appeared to be perfectly round and all the same size.  They lasted for approximately 20 minutes and disappeared in reverse order that they appeared.  They looked similar to the ones that were on your you tube video in Michigan.  Except for the formation.((NUFORC Note:  Witness indicates that the date above is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135780.html](http://www.nuforc.org/webreports/reports/135/S135780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hopkington (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>4 crafts were sighted above a large road, one of which suddenly stopped and turned on a large searchlight.4 witnesses, including myself, sighted 4 triangular objects with three rows of blinking lights flying overhead.  They changed speeds rapidly, and one of the crafts, when over our heads, stopped suddenly and turned on a bright glowing light.  It looked like a regular old star.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91130.html](http://www.nuforc.org/webreports/reports/091/S91130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
