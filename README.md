@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 round orange lights in Duluth,wittnessed by several people.Like the person that saw 3 orange lights on July 4th in Duluth,myself,2 friends,and several other people saw the same thing.  We were staying at a hotel on canal park,and were sitting on a bench at the lake.There were several others walking at that area,about 10:45pm,when we saw a round orange light slowly crossing over us.It then disappeared,followed by 2 more round orange lights,that passed over us, one at a time,then disappeared.I took videos, and I noticed several other people were also taking pictures.I just discovered your website, and when I read the other person had seen the same thing that we did, I wanted to report of as well.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91897.html](http://www.nuforc.org/webreports/reports/091/S91897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw an air craft that looked and sounded like a helicopter and after staring at it it sent a surge of heat/radiation through my bodyI was watching the air craft thinking it was a helicopter.  I’ve been seeing it for the passed 2 weeks.  This time it was close. I thought there was a pending investigation near by because it sounded like a chopper as Well And it also had red white and blue lights like an nypd car does when its sirens are on.  I checked citizens app but there were no recent crimes. I stared at it for a while until I believe it noticed me because it sort of played peek a boo and went right behind the house in front of me but in a distance.  It then disappeared But to get closer to me but more higher and out of sight hard to explain.  Then it went back to where it was by the building.  At this point for some reason I thought police were probably going to arrest me.And that’s when i felt this heat like feeling going through my body.  Starting at my head.. like some sort of radiation. Burning me like frying me. And that’s when I realized it was the craft. I honestly thought it was the government putting something into the air with everything going on during these times. and I thought I would wake up and find it all over the news or on instagram but after looking All over there were no sightings near me reported. I ran inside the house because I never felt such a thing. I was scared. Weak.  I told the people I was around that I felt I may die of cancer from the brain because that’s where it burned most.  I had a headache for the next 3-4 hours.  I was scared of the dark and kept all lights on. Woke up a friend and my daughter.  My friend didn’t believe me but my daughter said she did because she never saw me so scared before. I told her it started 2 weeks ago.  That I saw this bright looking little star though the sky light in the ceiling.  That is when she looked and said there was only one star there at that moment.  When I looked it it blinked red and disappeared.  I warned my daughter to stop staring at it and never look at it if she ever saw it again.  That’s when she really believed me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157807.html](http://www.nuforc.org/webreports/reports/157/S157807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
