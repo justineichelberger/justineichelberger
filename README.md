@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:36 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lethbridge (Canada) (AB) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>6 dark triangle shapes in formationWent outside and saw 6 huge triangle shapes blocking the sky above it. The were in a diagonal formation heading North. They were low flying, looked large enough to be 6 planes. They made no noise, and had no lights. They lightly reflected the lights from the city, but were dark enough to block out the night sky. They couldn’t be birds as they didn’t move other than gliding across the sky. When looking at the sky, if you put your hand up, they were the length of the tip of my thumb to the tip of my middle finger. Pretty large. They moved North in the formation, then sped up and got smaller. I think this means they were going upwards into the sky. It only lasted about 30 seconds, and they were gone by the time my sister made her way outside from 10 feet away. Our cats also ran to the balcony door and went crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157786.html](http://www.nuforc.org/webreports/reports/157/S157786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Exeter (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I had gone outside to get the mail. when walking back to the house, something caused me to look above the roof where I saw what i thought was a helicopter. It was so low that I could not see the entire thing.  I realized that there was no rotors and I don't remember any sound. It was clear up front. I wanted to get a better look so I ran to the back of the house. It was still there. I saw no doors nor windows. I remembered that the binoculars were on the diningroom table so I ran in to get them. When I returned It was nowhere to be seen. I am seventy two years old and I will always remember.  The object was more elongated oval than cigar shape. It was not large in the center and pointed on ends.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42450.html](http://www.nuforc.org/webreports/reports/042/S42450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
