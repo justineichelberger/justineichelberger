@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:06 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lake Shasta Resort (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Out for a walk at midnight, saw a object burning, disppear behind the mountains.Friend and I were out for a walk. We began talking, and looked up. We saw a huge object, engulfed in flames, with a trail behind it.It disappeared behind the mountains. If you compare it with the full moon, it was about the size of it, or bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43497.html](http://www.nuforc.org/webreports/reports/043/S43497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Outside Baker, OR, on hwy 84 (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Driving on hwy 84 near baker Oregon.About 000 midnight was getting ready to pass a semi truck when I checked my blind spot drivers side. And thats when I saw 2 square blue/green things pacing me at 85 mph.About then i said to my wife riding passenger "hunny what the F#!$ is next to me?"  And her reply "where" I said "My blind spot drivers side" at this point still 85 mph.  She says "what the F#!$ is that?"  I reply, "I dont know. Y ou seeing the blueish squares?"  "Yea," she says.So I decided to signal and merge to pass.  As i do the squares fall back fast. Like way fast and takes place behind me now above the trunk hight.  Which just before they were even with the back driver window.  A hight increase of 2 feet at 85mph.Now I am passing the semi and look in the rearview mirror the squares pace me up to 95-100mph as I start going around the semi truck they fall back. Move fast behind the semi.After passing me and the wife conferred what was seen and I hit the breaks and slowed down so the semi could pass. And there was nothing behind it at all. In fact just the two of us on the road as far behind as i could see. Miles of nothing but dark behind us.There was no sounds. No noise. The wind in the sunroof was ... Well there was none. 85mph there was a lot of wind coming in before that came up on me.I'll describe now what we saw. Two square &#11035; &#11035; side by side maybe 12 inches by 12 inches. The blue/green was like the old indaglo watches blue green. The dog was asleep and we traveled close to 15 or 20 miles in a matter of what seemed 10 minutes. Which in its self has happened to us before. Never has there been this odd light. Dont know what it was. The stretch of 84 in Oregon might be a good place to set up and watch sometime.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158149.html](http://www.nuforc.org/webreports/reports/158/S158149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
