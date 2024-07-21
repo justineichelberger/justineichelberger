@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Canton (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>four ufos flew out of atmosphere then continued around the would as far as we could seeTwo circle shaped orange yellow in color flying side by side flew out of the atmosphere and then continued around the world as far as we could see.  then one more same path same thing then one moor same path same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91036.html](http://www.nuforc.org/webreports/reports/091/S91036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 round orange lights in Duluth,wittnessed by several people.Like the person that saw 3 orange lights on July 4th in Duluth,myself,2 friends,and several other people saw the same thing.  We were staying at a hotel on canal park,and were sitting on a bench at the lake.There were several others walking at that area,about 10:45pm,when we saw a round orange light slowly crossing over us.It then disappeared,followed by 2 more round orange lights,that passed over us, one at a time,then disappeared.I took videos, and I noticed several other people were also taking pictures.I just discovered your website, and when I read the other person had seen the same thing that we did, I wanted to report of as well.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91897.html](http://www.nuforc.org/webreports/reports/091/S91897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
