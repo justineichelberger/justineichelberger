@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I am 75 years old.  My Military Service was Air Force.  I've seeb a lot of STRANGE Stuff .... but ??????Sitting on my deck having (yes) a Cocktail (1 cocktail) looking up at the sky, in a  north by northeast direction, I observed a sphere-shaped (something) traveling from the north (east) to the south (west) at a high rate of speed.  At first, I thought it was a helicopter and thought, Man that chopper is really moving FAST.  Then, I realized it was not close ... rather some distance away and, quite large. (I guess).Its color was Bright Orange / Yellow / Orage (pulsating).  I have no idea of its size but it did seem to be quite large for a helicopter. It got my attention and just as I was really staring at it .... the Light went out !!!!!!   There was No Cloud Cover so ...... it did not disappear behind the Clouds.There was No Sound (at least that I could hear).I have no idea how far away it was as it was dark here so I couldn't judge.At first, I thought it may have been the international space station but, It WASN'T! This is the 2nd sighting of  ???? in that direction over the last 2 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157817.html](http://www.nuforc.org/webreports/reports/157/S157817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Logansport (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving south on u.s 35 with two other people when bright blue flashing light is just above the road. Than moved fast leaving trail of light and started to appeared and dissapeared large distances from side to side of the road, no sound. Just 10 to 20 feet above ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147709.html](http://www.nuforc.org/webreports/reports/147/S147709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
