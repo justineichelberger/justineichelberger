@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Jenks (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>Rectangle shaped air craft that appeared to change lengthsWhile recording the early evening sky, we noticed a strange rectangle shaped air craft.  The strange aircraft appeared to change its length during flight.  It had a curious looking halo that reflected light in various ways.  At one moment, there appeared to be another object flying in parallel to the strange aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147764.html](http://www.nuforc.org/webreports/reports/147/S147764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Medford (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Orange glowing oval sphere flying in fromation styleWe saw at least 20 orange glowing oval sphere's flying in the sky heading from the south to the north.  They traveled mostly two by two, formation style, very uniformed in shape size and speed with no sound.   There was a cloud that they floated into and disappeared.  With a plane you would see it appear on the other side.   We did see a few flashes of lights, not sure what they were.  One of the witnesses was on his way to work as an air traffic controller.  He called it in and was advised there were no planes in that vicinity and so many of them.  Every witness had the same reaction, nothing they have ever seen and truly a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91078.html](http://www.nuforc.org/webreports/reports/091/S91078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
