@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>in 2007, I saw a small, white fireball slowly moving across the sky.It was summer vacation, and I was looking out the window, when suddenly, I saw a ball of white light pulsing red about the size of a pea with a hazy aura around it slowly moving across the sky. It was in July, about the 21st, so even at 9:00, it was still light outside. Heck, even at 11:00, there would still be light. Anyways, I saw around 5:00, and the sky was bright blue. In the apartments I lived in, there were lots of trees in the way of the sky. It flew behind two of the trees, and came back out again. Still the same  shape. What in the heck was it?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70390.html](http://www.nuforc.org/webreports/reports/070/S70390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>july 21/2007,11:00pm-whitish,triangular image shoots across sky in toronto area....we were at a bbq,enjoying the clear nights’ sky.an image came travelling over the house,from east to west,and moving very quickly.i was trying to get the attention of the people,but i froze,and by the time i could speak,it was already a fading image and was quite far away.only one other person caught the image,but it was already so far away.the image appeared as a fast travelling triangle.it was a whitish colour,almost faded looking,and had 3 lights on each point of the triangle.it appeared almost translucent.it was travelling so quickly,it went from east to west within seconds,and then just faded away.when i first saw the image,i was looking at the bottom of it as it travelled above me.then it travelled west,and i saw the image turn into more of a line,like a side image.i can only describe it like a kite above me,but then like the side image of a kite as it travelled away form me.the size was much larger than anything i have ever seen in the sky.it did not look at all like a plane or a fireball,or satellite.it seemed very close to the house but then at the same time,so far away,as it was somewhat blurry.like i said,i have never seen anything like this,or been so taken away but what i saw.it was a once in a life time thing,i am sure.it just happened so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57778.html](http://www.nuforc.org/webreports/reports/057/S57778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
