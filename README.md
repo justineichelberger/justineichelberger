@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:47 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Hot Springs (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two silent stars hover; vanish when jet nearsOn 21 July 1994 two local women spotted two very bright starlike lights around 10:00.The lights were red and white respectively.  They made no noise and didn't move.   They watched the skyshow for about ten minutes--it ending when the object/objects disappeared as a jet plane entered the area. Source is Greg Nedved's "SDUFO: A CASE HISTORY" from 2004</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46616.html](http://www.nuforc.org/webreports/reports/046/S46616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Napavine(?) (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White sparkling lights in a triangle stationary in the skyMy two friends and I were heading north towards Olympia, Washington on I5 coming from Portland Oregon. We were past Winlock, Washington and not yet at Napavine, Washington. My friend (the driver) said to me (in the right side back seat) and his wife (who was in the passenger seat) something along the lines of hey do you also see that thing in the sky or is that just me. It was about 21:23. When I looked up there were about 6 or 7 white lights that were glittering in a triangle pattern. They were just stationary in the air above the trees forward and to the right of the car. I thought it was fireworks but they just stayed stationary glittering for about a minute while we discussed whether or not it was an airplane. I then thought I should take a picture of it and as I did the lights turned off one by one, or maybe two at a time, but not all at once and then it was gone. I got a picture with only two of the last lights on. About a minute later I took a screens! hot of where we were on the map on my phone. I have never seen anything like this before, I have no idea what it was. The driver and I are 21 and his wife is 22. He and I are college students and she just graduated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164138.html](http://www.nuforc.org/webreports/reports/164/S164138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
