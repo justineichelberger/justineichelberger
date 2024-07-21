@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>july 21/2007,11:00pm-whitish,triangular image shoots across sky in toronto area....we were at a bbq,enjoying the clear nights’ sky.an image came travelling over the house,from east to west,and moving very quickly.i was trying to get the attention of the people,but i froze,and by the time i could speak,it was already a fading image and was quite far away.only one other person caught the image,but it was already so far away.the image appeared as a fast travelling triangle.it was a whitish colour,almost faded looking,and had 3 lights on each point of the triangle.it appeared almost translucent.it was travelling so quickly,it went from east to west within seconds,and then just faded away.when i first saw the image,i was looking at the bottom of it as it travelled above me.then it travelled west,and i saw the image turn into more of a line,like a side image.i can only describe it like a kite above me,but then like the side image of a kite as it travelled away form me.the size was much larger than anything i have ever seen in the sky.it did not look at all like a plane or a fireball,or satellite.it seemed very close to the house but then at the same time,so far away,as it was somewhat blurry.like i said,i have never seen anything like this,or been so taken away but what i saw.it was a once in a life time thing,i am sure.it just happened so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57778.html](http://www.nuforc.org/webreports/reports/057/S57778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Object of light seen in the skyI was driving north bound on highway 160 in Fort Mill. I was about 30 seconds from the intersection of Gold Hill road and Highway 160. On my left (driver's side) towards the Tega Cay/ Lake Wylie area I saw a yellowish white light in the shape of a disc in the sky. There was no one behind me so I slowed down to about 20 mph. The white color was only on the outside of the light almost like a very thin, dull halo. I did not see an actual metallic disc but light in the shape of a disc like it was was glowing. It stayed still in the same spot for about 12-15 seconds. Then towards the top of it the light brightened a white color and then the object just vanished. I did not turn my head, look back and then it was gone. I had my eyes on it the whole time and it just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18530.html](http://www.nuforc.org/webreports/reports/018/S18530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
