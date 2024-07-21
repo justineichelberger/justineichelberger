@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wilton Manors (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Solid black sphere hangs motionless and soundless in windy sky.On a warm, cloudy and breezy evening in the south Florida city of Wilton Manors in the Fort Lauderdale metropolitan area, I was out for a walk when I suddenly noticed a solid black sphere hovering motionless in the sky.  The object hung below the rapidly drifting clouds and above the height of the power lines, and despite a strong easterly breeze it did not change position, it was absolutely still!  At my distance below the black sphere my best judgment of its size is to compare it to looking at a solid black bowling ball from 50 feet away.  There was still plenty of daylight in the cloudy evening sky to see the object clearly and it appeared to be motionless, solid and silent.  Planes from the nearby and very busy Hollywood/Fort Lauderdale International Airport could be heard but this thing did not seem to be making any audible sound.I thought I could get under it but it disappeared or at least I could no longer locate it in the sky. I looked away for a mere second to check for traffic before crossing NE 20th Drive and when I looked back to the position in the sky where this thing had been sitting it was no longer there.  I scanned the as much of the visible sky as I could take in for several minutes but could no longer locate the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108671.html](http://www.nuforc.org/webreports/reports/108/S108671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Canton (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>four ufos flew out of atmosphere then continued around the would as far as we could seeTwo circle shaped orange yellow in color flying side by side flew out of the atmosphere and then continued around the world as far as we could see.  then one more same path same thing then one moor same path same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91036.html](http://www.nuforc.org/webreports/reports/091/S91036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
