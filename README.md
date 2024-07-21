@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Logansport (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving south on u.s 35 with two other people when bright blue flashing light is just above the road. Than moved fast leaving trail of light and started to appeared and dissapeared large distances from side to side of the road, no sound. Just 10 to 20 feet above ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147709.html](http://www.nuforc.org/webreports/reports/147/S147709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>New type of aircraft sighted over vegas.At 7:56PM on July 21, 2018, I was having a cigarette outside of St. Rose Dominican hospital in the southwest part of Las Vegas, NV, when I saw what I belive is some new aircraft being tested near town.  I was looking to the southwest the right way at the right time to see a plane I think.  I do know however it was the fastest thing I've ever seen move through the air.  It was the same color as the night sky yet had a greyness to it due to the city lights bouncing off the bottem or "belly."  I've flown my whole life, so I tried looking for all the usual suspects, vertical stabilizer(s)?  No.  Has some kind of fighter front end.  Intakes exhausts?  No.  Maybe a hint of a delta shape with a flat "stealthy" single point kinda like an F-117.  No sound none!  I was watching airliners depart the valley at the class B boundry.  A new plane type looked to me like it  was transitioning from class c (or uncotrolled airspace) to class bravo and close to commercial traffic.  He made whatever airliner that was look like he was standing still.  He was also higer in altitude than the traffic off his left... may I say wing?  I watched him fly over the horizon.  Not a sound at a speed I never seen before.  He flew right over my head I caught him when my head was about 80 degrees to already be watching airplanes so I saw him really good and for a time.  No lights of anykind this aircraft I dont think anyone would know it, if it was flying treetop level over there head's right now that quiet and that dark.  I'm proud I got to see such a thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142383.html](http://www.nuforc.org/webreports/reports/142/S142383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
