@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carolina () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red lights seen in the sky.Around 8:00pm my parents and I were sitting in front of our house just chattering when we start seeing a red light in the sky.  First we thought it was a plane because it is in an area where a lot of planes pass.  The light disappears like a minute later. We did not think much about it until we saw an actual airplane and then we knew that what we saw was not a plane.  The plane lights were smaller and blinking while the red light were bigger and motionless.  Right after that we saw another three red lights forming a triangle and moving, but they disappeared again a minute later one by one.After a minute or two of those lights disappearing we saw another two lights, all of them coming from the same part of the sky.  One of the lights did like the others and disappeared and the other one start to look like it was going down somewhere and we lost track of it.  Finally a last red light appeared in the sky but it disappeared sooner that the others lasting less than 30 seconds. We did not saw any other red lights but planes that night and there were no clouds around during the sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91081.html](http://www.nuforc.org/webreports/reports/091/S91081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>in 2007, I saw a small, white fireball slowly moving across the sky.It was summer vacation, and I was looking out the window, when suddenly, I saw a ball of white light pulsing red about the size of a pea with a hazy aura around it slowly moving across the sky. It was in July, about the 21st, so even at 9:00, it was still light outside. Heck, even at 11:00, there would still be light. Anyways, I saw around 5:00, and the sky was bright blue. In the apartments I lived in, there were lots of trees in the way of the sky. It flew behind two of the trees, and came back out again. Still the same  shape. What in the heck was it?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70390.html](http://www.nuforc.org/webreports/reports/070/S70390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
