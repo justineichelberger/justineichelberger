@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Amber ball of light over Colorado.This is the second night this has happened in a row.  The first night was last night, with my friend; he was doing astrophotography and noticed what we thought to be a planet, until it shot to the right quickly.  It appeared to be a bright orange-ish light.  Just a big, abnormally bright, amber-orange ball of light.  It moved like a jellyfish kind of; it would dart left, then float back right a little, and dart left again, but it would change directions quickly.  From what we saw, there was no distinct pattern in the flight.  I did manage to capture some video.Then, tonight (7/21), we were outside smoking, and look up to see the same amber colored ball outside, same movement type.  It has gone on for a the better part of an hour from when we noticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142348.html](http://www.nuforc.org/webreports/reports/142/S142348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Jenks (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>Rectangle shaped air craft that appeared to change lengthsWhile recording the early evening sky, we noticed a strange rectangle shaped air craft.  The strange aircraft appeared to change its length during flight.  It had a curious looking halo that reflected light in various ways.  At one moment, there appeared to be another object flying in parallel to the strange aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147764.html](http://www.nuforc.org/webreports/reports/147/S147764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
