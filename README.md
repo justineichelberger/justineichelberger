@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:29 on 21 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Exeter (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I had gone outside to get the mail. when walking back to the house, something caused me to look above the roof where I saw what i thought was a helicopter. It was so low that I could not see the entire thing.  I realized that there was no rotors and I don't remember any sound. It was clear up front. I wanted to get a better look so I ran to the back of the house. It was still there. I saw no doors nor windows. I remembered that the binoculars were on the diningroom table so I ran in to get them. When I returned It was nowhere to be seen. I am seventy two years old and I will always remember.  The object was more elongated oval than cigar shape. It was not large in the center and pointed on ends.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42450.html](http://www.nuforc.org/webreports/reports/042/S42450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gridley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Silent LightsAround 9:20 pm on Monday the 21st of July I was coming out of my shop and was walking up to our back door when I noticed something in the night sky coming towards me from the east. At first I just thought it was an aircraft due to the fact that there was a large blinking red light, which appeared to be in the center. As it drew nearer I thought that there were an extremely large number of lights around the blinking red light which was larger than any light I’ve seen on aircraft that I’ve observed flying over. Then I thought, it’s most likely one of those sky crane helicopters that’s been used in our area lately battling the fires that has ravaged the surrounding mountains to the east. The next thing to go through my mind was do they have whisper mode, because there was no sound at all. All of these thoughts went through my mind at the same time as I tried to rationalize what I was seeing. Then I ran into my house grabbed my camera ran back outside to see the object make a graceful turn to the right at which time I pointed my camera up and took one picture. Thinking I hadn’t captured anything because it was dark I lowered my camera while watching the object head north, still hearing no sound. I went back inside and told my wife what I had just seen and then I looked at the photo I had taken. To my surprise I had captured a group of twelve lights surrounding the larger red light. Also, due to the fact that it was a longer exposure it had formed trails, with three of the trails making the exact same pattern in the sky, which I noticed after I put it up on my computer. The other thing that I noticed about the red light is, to me it appears to be closer to the left side as it makes its turn. I have no idea as to what it was whether it was a group of lights in formation or lights fixed on an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64703.html](http://www.nuforc.org/webreports/reports/064/S64703.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
