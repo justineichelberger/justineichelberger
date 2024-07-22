@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>WOWwhile i was out on my back porch i noticed a fire ball type ufo it jus stayed in one spot for about 10min or as soon as i noticed it i ran an got my exwife an our kids to witness the ufo after watching it for a lil while they went back inside . i stayed an continued to watch it jus sit there in the sky then . a few mins later an air plane comes near ther ufo an as the air plane got closer to the ufo it jus vanished it was so fast it was like turning off a light in ur house fast it was pretty amazing to my children that what they were seeing was a ufo cuz they do not believe in them but after this experiance they do now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76722.html](http://www.nuforc.org/webreports/reports/076/S76722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Topsham (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Quick moving, non-blinking light moving across the night sky above Topsham, Maine.We were standing outside, looking at the stars and discussing inter-dimensional beings.  My boyfriend was saying how sometimes, when thinking about projecting energy into space, it increases the probability of a sighting.  As I look up, I notice a light moving across the sky quickly, with no blinking lights.  My boyfriend said the only thing that would move similarly would be a drone, but the object was too high up to be one.  As we watched, the craft seemed to vibrate intensely for a moment before slightly changing direction and becoming further away and dimmer.  We continued to look after it was out of our sight and then went inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120573.html](http://www.nuforc.org/webreports/reports/120/S120573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
