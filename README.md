@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>In bright daylight, bright  object observed-thru binoculars it looked wierd-second bright object traversed path of first.I was lying out tanning. I saw a bright object that seemed to change shape. I called out my 13 yr. old son. While he kept track, I got out the binoculars. Using them, it seemed that there were several smaller bright objects clustered. Since it was moving in the general direction of the one high cloud(although at a different speed), Maybe a weather balloon? Another bright single starlike object came into the binocular view. This thing approached then went by the first thing. This was at a right angle to the direction of the first object. I'm 45 yrs. old., and a manager at a grocery store. My son will go into the eighth grade this September. Total time observing the first object is about 20 minutes. The second object came and went within 1 to 2 minutes. My son says that the second object "looked like a moon."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18558.html](http://www.nuforc.org/webreports/reports/018/S18558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Persian Gulf (at sea) () reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>UFO found in background of photo used in a recent article by the NY Times.I found a UFO in the background of a photo used in a very recent NY Times article about piracy at sea.If you look at the fourth/fifth picture (depending on where you start counting) in the article, of security contractors working out on the deck of the ship Resolution, you will see on the left side upper middle of the picture  a disk shaped object that looks similar to a classic UFO saucer.  I have sat on this for two days wondering if anyone else would comment or notice it.LINK:  http://www.nytimes.com/2015/07/20/world/middleeast/murder-at-sea-captured-on-video-but-killers-go-free.html?hp&action=click&pgtype=Homepage&module=span-ab-top-region&region=top-news&WT.nav=top-news&_r=0((NUFORC Note:  Seagull??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120601.html](http://www.nuforc.org/webreports/reports/120/S120601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
