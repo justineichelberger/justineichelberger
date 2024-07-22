@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:52 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Cloaked TR3B over Vacaville Ca!Went outside looked up towards the moon and moving slowly across sky were three bright lights in a triangle formation.  Then all lights dimmed out simultaneously.  This had to be a cloaked TR3B!  I am a believer.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142381.html](http://www.nuforc.org/webreports/reports/142/S142381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Algonquin (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>6 amber/orangish color, fast moving orb like objects moving at an extremely fast rate of speed.A neighbor and I were sitting around his fire pit when six bright amber/orange orbs streaked past in the clear, about 57 degree, night sky (you had to wear a sweater and could clearly see stars).  Three orbs crossing from the south, to the north at an extremely high rate of speed.  The first one passed over and caught our attention, then within an approx.  15 second window the second one shot by following the same path of the first orb then, within the same time element the third one streaked past following the previous two.  They were so high and moved extremely fast, that we could not tell if they were pulsating very rapidly, or if what seemed to be pulsing was an optical illusion.  Then, there was what seemed to be a five to ten minute pause in the action and the fourth one came streaking into vision and appeared  to veer to the west one to five degrees from the first thee (moving so fast that we could not tell how the change in direction occurred). Once again, a brief pause and the fifth and sixth ones appeared, each veering the one to five degrees from each other.  Ironically, minutes before the fifth and sixth orb streaked by, a commercial or cargo type airplane, high in the sky passed overhead from the west to the east (could barely see the port and starboard lights flashing and was a good point of reference as to if  the orbs were pulsing). Our point of reference for the headings was the tree line directly behind our homes that face from south (front) to north (backyard and fire pit).  From our position of viewing, the orbs appeared to be the approx. size of a quarter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111867.html](http://www.nuforc.org/webreports/reports/111/S111867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
