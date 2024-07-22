@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Abington (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>I saw a big light streak across a good portion of the sky in very little time.  It seemed to be too big to be a shooting star.I saw a big light streak across a good portion of the sky in very little time.  It seemed to be too big to be a shooting star.  It appeared to be ascending in the sky, which is also odd.  Have there been any other reports of this?((FOLLOW-UP RESPONSE))Reply to your inquiryThe apparent size of the object was pretty large, I'd say maybe about 1/4 to 1/2 the size of the moon last night, or about the size of 3 or 4 stars put together.  It seemed to move a great distance in a very short amount of time.  Also, the direction appeared to be a right to left, in a large upward arc across the sky.  Are you at liberty to tell me what else has taken place at the same time as my sighting, because I am very curious?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18572.html](http://www.nuforc.org/webreports/reports/018/S18572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>NOISELESS OBJECTS MOVING OVER FREDERICK, MD.WHILE MY WIFE AND I WERE SITTING ON OUR FRONT PORCH ON SUNDAY EVENING JULY 22, 2012 AT ABOUT 10:30PM,   WE OBSERVED STRANGE ORANGISH-RED OBJECTS IN THE SKY THAT WERE MOVING VERY SLOWLY.  MY IMMEDIATE THOUGHT WAS THAT THEY WERE SOME SORT OF AIRCRAFT, BUT THEN IT OCCURRED TO ME THAT THEY WEREN’T MAKING ANY NOISE.  ALSO IT SEEMED THAT THEY WERE MOVING IN A SINGLE FILE FORMATION UNTIL THREE WERE IN A TRIANGULAR FORMATION FOLLOWED BY MORE SINGLE FILE OBJECTS SIMILAR TO THE FIRST ONES WE SAW.  TO ME THEY SEEMED LIKE VERY INTENSE BRIGHT LIGHTS THAT WERE ROTATING LIKE A BEACON.THEY APPEARED TO COME FROM THE WASHINGTON, D.C. AREA OVER OUR TOWN, FREDERICK, MD, AND THEN OFF TOWARD BALTIMORE IN AN EASTERLY DIRECTION.WE ARE IN THE GLIDEPATH FOR BALTIMORE-WASHINGTON INTERNATIONAL AIRPORT AND  I THOUGHT THAT PERHAPS PASSING AIRCRAFT MAY HAVE ALSO SEEN THEM AS WELL.   SOME FLEW OVER OUR HOUSE AT ABOUT THE SAME TIME AS THE OBJECTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91123.html](http://www.nuforc.org/webreports/reports/091/S91123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
