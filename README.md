@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Quincy (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>a strange flash seen in sky showing evidence of ufoTwo of my friends and I were walking around town when one of us described seeing a flash across the sky. We first believed it was lighting but with the absence of clouds, noise and it appearing in different colors we began getting concerned.  It continued for another 20 min showing in different brightness levels and colors. We tried to show a parent but it wouldn’t show.  It stopped for about five minutes and began once we tried to show another parent who witnessed it.  We did some research and found similar sightings near the area over the years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91112.html](http://www.nuforc.org/webreports/reports/091/S91112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green light streaking vertically towards Lake MichiganA friend and I were sitting on the beach, talking and having a cigarette, at approximately 11:30 p.m. In mid sentence he said, "Hey! Look at that!" so I quick turned my head and observed a bright green light descending rapidly in a straight vertical line. The light faded before reaching the water, and travelled a distance of approximately 2 hand lengths with arm extended. It did not "explode" like a firework or a boat flare normally would.  There were no boats visible on the lake at the time, and it was too far over the water to have been a firework launched from the shore. We also did not hear any sound come from the object. It's possible that it may have been a meteor.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38399.html](http://www.nuforc.org/webreports/reports/038/S38399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
