@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Persian Gulf (at sea) () reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>UFO found in background of photo used in a recent article by the NY Times.I found a UFO in the background of a photo used in a very recent NY Times article about piracy at sea.If you look at the fourth/fifth picture (depending on where you start counting) in the article, of security contractors working out on the deck of the ship Resolution, you will see on the left side upper middle of the picture  a disk shaped object that looks similar to a classic UFO saucer.  I have sat on this for two days wondering if anyone else would comment or notice it.LINK:  http://www.nytimes.com/2015/07/20/world/middleeast/murder-at-sea-captured-on-video-but-killers-go-free.html?hp&action=click&pgtype=Homepage&module=span-ab-top-region&region=top-news&WT.nav=top-news&_r=0((NUFORC Note:  Seagull??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120601.html](http://www.nuforc.org/webreports/reports/120/S120601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Chevron-shaped craft gliding over Washington, D.C.Just before 9:30 p.m. on July 22, 2003, I turned off the lights in my apartment, on my way to bed. I was startled to see, out my window, what looked at first to be a large passenger jet passing low over the apartment building. (I live in the middle of Washington, D.C., and this is restricted airspace. Passenger jets never fly over this building.) I raced to the window and pulled out the screen in order to get a better view. I saw what looked like a giant boomerang, with several flashing lights around its edge, flying low, slow, and silently toward the west. When it reached the Potomac River, it turned south and continued until it was out of sight.((NUFORC Note:  We have requested some type of graphic from the witness.  If anyone knows what this object might have been, we would appreciate a note.  PD))((FOLLOW-UP COMMUNICATION FROM WITNESS))Peter Davenport:I'm quite sincere about the report, but I'm not willing to embarrass myself by going public with it in the absence of collaborating witnesses. I have told no one other than my son (who's spending the summer at ((Ivy League school name deleted)), in their Secondary School Program). I left the report on your Web site in the hope that it might find some support.I'm not much good at drawing and it would be difficult for me to accurately portray, from memory, the ships lights. However, I meant what I wrote about it looking like a giant boomerang: The wing tips and nose were all fairly rounded, not pointed, and the craft was relatively flat. (For an example of the type of boomerang I mean, see the "Turning Point Ash Natural Elbow Doublers" at this Web site:http://www.flight-toys.com/boomerang/hardwood.htm.) There were lights in various places on the wings--some lights blinking, some lights rotating, others doing neither. Other than that, I don't think I can add much more to my report.Thank you for taking this seriously.((name deleted))((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30311.html](http://www.nuforc.org/webreports/reports/030/S30311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
