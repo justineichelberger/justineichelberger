@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>saw 5or 6 lights circling overhead object  blocked out stars.object was silent and very large, myself and a friend were walking in the same area we always walked, when I noticed 5 or 6 lights moving in a circle .The lights were white in color.I do not remember looking up at all, I do know I was frozen in fear,it was like they wanted me to see it.When I looked out around the lights it blocked out the stars     it was a clear night,so I was sure what I was seeing,  After 15 or 20 seconds I told my friend to look up,when he did the object went straight up and left the earth,  It did not vanish,we were both seeing the same thing,we took off running screaming,that night we  lost about 4 or 5 hours of time.After we saw whatever it was for some reason we were wore out and we just went home and went to sleep. The next morning my friends forehead look like someone put a softball under his skin,also I had a hole in my hip that had some kind of black object that looked like a rock . It was there for about 20 years just under the skin and then it seemed like it vanished,it may still be there.I have been having a lot problems both physical and emotional,I must tell someone.((NUFORC Note:  We suspect that this report is an attempt to hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57800.html](http://www.nuforc.org/webreports/reports/057/S57800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Abington (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>I saw a big light streak across a good portion of the sky in very little time.  It seemed to be too big to be a shooting star.I saw a big light streak across a good portion of the sky in very little time.  It seemed to be too big to be a shooting star.  It appeared to be ascending in the sky, which is also odd.  Have there been any other reports of this?((FOLLOW-UP RESPONSE))Reply to your inquiryThe apparent size of the object was pretty large, I'd say maybe about 1/4 to 1/2 the size of the moon last night, or about the size of 3 or 4 stars put together.  It seemed to move a great distance in a very short amount of time.  Also, the direction appeared to be a right to left, in a large upward arc across the sky.  Are you at liberty to tell me what else has taken place at the same time as my sighting, because I am very curious?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18572.html](http://www.nuforc.org/webreports/reports/018/S18572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
