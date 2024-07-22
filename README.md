@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 22 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wildwood Crest (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of fireballs seen off coast of Wildwood, New Jersey.While on vacation with my family we were driving back to the hotel from the boardwalk on sea view ave which runs parallel with the ocean.  While stopped at a red light, I was looking toward the ocean, and saw a cluster of approximately 9 orange fireball looking objects out over the ocean.  I alerted my wife and 3 daughters who are aged 17, 11, and 7, and all of us saw the objects.  They appeared to be in what looked like a pentagon type formation.  As we continued driving, my 17 year old brought to my attention that some of the fireballs had faded out, and now there was just a large triangle shaped formation.  At this point we tried to pull over to get a better look, and traffic being what it is we found ourselves unable to do so.  So we kept driving.  In the next clearing the triangle had become only two objects that were right next to each other, and they shortly faded to nothing.  I am an avid listener to coast and ground zero, and immediately thought to report this, when we got back to north jersey.  My wife works for Fox News and I am a loss prevention detective/HD video surveillance operator and trained as a observer.P</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120751.html](http://www.nuforc.org/webreports/reports/120/S120751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oakmont (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately a long time - a long time minutes.</sub><blockquote><sub>Repeated circular flashes of light in the sky in southern Florida.We were outside in the backyard a repeated flashes of light was happening in the sky to the east of us - very large very round, this was not lightning.  it was happening in the same place. over and over.  There did not seem to be a pattern of the flashes.  Also, the flashes seemed to be sort of circular shaped.  VERY big in the sky.  I remember thinking the flashes of light looked pink.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128729.html](http://www.nuforc.org/webreports/reports/128/S128729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
