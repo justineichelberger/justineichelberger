@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Clive (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright white light in the sky that got brighter, turned red and was gone.At approx. 10:15 P.M. Looking west and South of the Big Dipper I saw a white light that was not an Airplane.  I saw no flashing lights.  The object was heading East from the West.  At first I thought it may be a Sat.  It seemed to slow down and off to East it got brighter.Then I believe it stopped then turned red and was gone.I do not know what it is.  I do know it was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71267.html](http://www.nuforc.org/webreports/reports/071/S71267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Leicestershire (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three anti gravity trianglesI was mowing my grass when my wife noticed three black triangle craft in the sky.  There was a purple hue coming from the rear of the craft and a rotten egg smell in the air.  there was a buzzing noise and when my son came out his ears popped.  they just hovered and then shot off.  my dog was shaking in nervous temprement during sighting.((NUFORC Note:  We wonder whether this is a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120588.html](http://www.nuforc.org/webreports/reports/120/S120588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
