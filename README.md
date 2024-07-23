@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Pleasant Grove (UT) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was the one who reported this sighting that I saw on 7/23/17 in pleasant grove this year. My story does not change</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136834.html](http://www.nuforc.org/webreports/reports/136/S136834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Orange and yellow elongated fireball looking object.While looking east at the ocean a bright orange and yellow elongated shape appeared over the water.  It traveled slowly in a straight line north.  It became smaller and circle shaped but still had a yellow and orange glow like a fire ball.  It got smaller until it disappeared.There was no sound and it was above the horizon.  It did not disappear into the water.  From when I first saw it to when it disappeared, was maybe half a mile.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128676.html](http://www.nuforc.org/webreports/reports/128/S128676.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
