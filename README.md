@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>07/23/10 duel lights( no strobes)above the Orlando area ,multiple helicopters around object(s)There is something looming over orlando right now.it consists of two bright lights both moving independant of each other. There are three helicopters in the air all with normal lighting and can be seen hovering near the object . I called the Orange county sheriffs office to be directed to the FAA in which I was recorded.the object/s shut its lights off and made a strange noise.  I grew up around military aircraft and my step father (retired military) witnessed the event and said it couldn't be flying under current FAA guidelines because it must have a strobe(which is not present)  I am going to drive to a better vantage point</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76746.html](http://www.nuforc.org/webreports/reports/076/S76746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ROUGHLY AROUND 10:15 PM WIFE WITH NUMBEROUSE WITNESSES SAW SIMILAR SIGHTING AS THE PHOENIX LIGHTS.SHE GOES ON TO DESCRIBE HOW SHE SAW IT FLYING TOWARDS HER POSITION COMING FROM NORTH TO SOUTH AT ABOUT 10 THOUSAND FEET IN ALTITUDE CLEARLY SEEM BY ALL THE WITNESSES.STUNNED AT WHAT THEY WERE WITNESSING SHE SAID NO WORDS TO DESCRIBE JUST THAT IT LOOK VERY VERY SIMILAR TO WHAT HAPPEND IN PHOENIX. WHITE LIGHTS IN A HUGE TRIANGULAR SHAPE. OVERFLEW HER POSITION AND SAW IT DISSAPEAR GOING SOUTH, SHE DOESN'T KNOW HOW FAST IT WAS GOING JUST IT WAS FLYING FAST.SHE GOT HOME ALL SHAKEN UP INCLUDING MOM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23891.html](http://www.nuforc.org/webreports/reports/023/S23891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
