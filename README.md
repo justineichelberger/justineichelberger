@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:01 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boiling Springs (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO and possible AliensI've been practicing meditation w/ high hz sounds and music.  First there was a cloud shaped like a UFO  days prior to this event.  Which disburst once my spouse started watching...it disburst what appeared to be eyeballs over the sky through pictures.  This next night my spouse was away on business...I stepped outside for a cigarette...I noticed Flashing lights in the sky...tried to take a picture or record it. Video recording shows object spinning in sky.  Also photos appeared to have red tint...reverted photos back to normal that shows disoriented photo...the next photo show object in neighbors yard with foreign entities in helicopter shaped object. Next day neighbor's yard had noticeable marks in grass.  This would not be the first appearance according to photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147806.html](http://www.nuforc.org/webreports/reports/147/S147806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maple valley (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3 ish a.m - 3 ish a.m minutes.</sub><blockquote><sub>Super bright light , silent ,continuously ever 5 minutes .I just got off of work about 12ish and as soon as I got home I noticed a repetitive flash that was lighting up the whole sky .  It only last on second but changed brightness about 6 times per second if not more .  It was completey silent an didn't stop until about 3 . I starting search for answers an ended up driving on black diamond high way.  Out of no where a ring of fire apeared in the air this also was on a glimps of a eye but so bright an impossible to miss .  I was very glad that there was 4 other people with me that witnessed the same thing . Honestly you will never know the truth an this is the last time I speak I just seen a post before mine that saw the same silent electric high voltage of some sort .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128658.html](http://www.nuforc.org/webreports/reports/128/S128658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
