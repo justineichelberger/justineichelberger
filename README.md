@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:45 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:15 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Saint John (Canada) (NB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>This plane sat in the air not moving and made no noise, no noise at allI was driving in my car, up a road my house was just off of, the road was straight with about a 10 degree grade, I was driving up the grade.  My 12 year old son was in the passenger seat.  We were driving up this road when I could see cars pulled over on both sides of the road.  People were out of their cars and looking up in the air to the right of the road I was driving on.  At this time there were trees to the right of my car and I could not see what they were viewing.  I approached where they were and off to the right of my car in the air, about 4 telephone poles high, maybe 160-200 feet in the air was a silver Plane, all silver, just sitting there not moving nor was it making a sound.....I'm guessing it was about 1000 feet off the road to my right  The road I live on was 200 feet to the left past where people were standing watching this Silver plane sitting in midair.  The road I live on is a dead end road with 6 houses on it, I live in the third house on the left.  I turned and drove down this road where as I seen my neighbor pointing in the air toward the Silver plane.  I shook my head in a yes motion and turned into my driveway...my son and I ran to the back of my house where I yelled for my wife to come out and look ,she did, with my daughter.  We watched this Silver Plane for about 8 minutes.  The plane from where we are now watch is about 1350 feet away.  There were no markings on this silver plane....No jet engines under the wings, it did have a windshield and they appeared tinted just because I could not see anybody inside.  When this silent plane decided to leave.  It made a slight bank to the left of itself and slowly flew off.  This area is a fairly populated part of the city in a rural setting.  This Silver Plane was about the size of a 727 I guess ,not a big Plane but big enough</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104842.html](http://www.nuforc.org/webreports/reports/104/S104842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Monticello (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately driving from monticello t - driving from monticello t minutes.</sub><blockquote><sub>3 bright orange lights flashing in the sky for about 10 seconds then went away, after that big ball of white light falls from sky.We seen 3 bright orange lights separate from each other. The farthest right light flashed then the middle and the third. after that it just sat there for about 3 seconds then it went away. My friend said it was in the sky on the right then jumped to the left and thats when in flickered. about 5 minutes after the UFO left we seen a big ball of white light go down towards the earth, kinda like a meteor but it was to big for that. all this was seen at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64776.html](http://www.nuforc.org/webreports/reports/064/S64776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
