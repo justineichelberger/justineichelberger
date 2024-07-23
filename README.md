@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Orland Hills (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>strange objects in the skymy cousin was looking out her window of our two story house  and sighted two disk like objects flying across the sky that had one bright white light and a small white light and a green, red, blue flashing lights flying in a straight line so we watched more closely and noticed a few more of these strange objects  in different directions.they were completely silent and would turn back instantly in which the direction  it came from and repeat this they were at all different heights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71264.html](http://www.nuforc.org/webreports/reports/071/S71264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Alvin (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 390.0 - 390.0 minutes.</sub><blockquote><sub>On the night of July 23 2020 I arrived at the fishing camp in rural Alvin wi along with my two good friends that I have known since middle school.  I am a Marine corps veteran and my friend's dad is a US Army veteran  We arrived hours late around 2330 buds central standard time.  My friends dad who owns the camp is at this time sitting by the campfire.  We all unpack and set up tents or racks in the garage and settle in.  About a half hour into our usual formalities and during a lull in the conversation I ask my friends dad (who I consider a father to me) why he keeps looking at the sky.. he says "oh it's nothing" a little while later his son asks him the same question.  He then seems withdrawn. And points to the sky where I look.  I was on the same side of the campfire as him.  I noticed a weird constellation a perfect equalalateal triangle the three points were the brightest points in the sky.  I asked if this was what he had see  be said yes but that's not! the weird part.  Seconds later the triangle seemed to shed a orb or ball shaped craft that stayed all g the edge of the craft for a few minutes then wormed it's way across the sky slowly and inconsistently before stopping for a minute the darting across the sky at great speed. They also appeared out of nowhere or shot across the sky then j hooked back the way they came.The rest of the night was extremely event full we say two distinct formations of craft s Chase each other across the sky. Lesser flashes of light near the craft as if possible explosions from a distance. Also what appeared to be light beams emitted towards each other. This happened regularly at very close intervals until the sun came up and drown out the lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157978.html](http://www.nuforc.org/webreports/reports/157/S157978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
