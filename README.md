@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sequoia National Park (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>V shaped aircraft at Sequoia National Park.We were camping at Sequoia National Park It was around 9:30pm to 10:00 pm when a family member looked up at the sky it was a huge aircraft in the form of a V with red lights. We were able to see the object for about 2 minutes. It made like a humming noise but nothing like an airplane. Other campers saw this aircraft too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24007.html](http://www.nuforc.org/webreports/reports/024/S24007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Orland Hills (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>strange objects in the skymy cousin was looking out her window of our two story house  and sighted two disk like objects flying across the sky that had one bright white light and a small white light and a green, red, blue flashing lights flying in a straight line so we watched more closely and noticed a few more of these strange objects  in different directions.they were completely silent and would turn back instantly in which the direction  it came from and repeat this they were at all different heights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71264.html](http://www.nuforc.org/webreports/reports/071/S71264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
