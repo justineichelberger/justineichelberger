@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I WAS IN MY BACK YARD, I LOOKED UP AND SAW A SILVER CIGAR SHAPE OBJECT.I WAS IN MY BACK YARD, I LOOKED UP AND SAW A SILVER CIGAR SHAPE OBJECT, TRAVELING WEST TO EAST, FLYING AS HIGH AS PASSENGER JET WITH TWO SMALL POINT LIKE PROTRUSIONS STICKING OUT OF BOTH SIDES.  NO CONTRAIL. A JET FLEW BY A FEW MIN. LATER TO HELP DETERMINE SIZE AND SPEED.  CIGAR MUCH LARGER THAN JET, FLEW AT SAME SPEED.  ON THE JET I COULD SEE MARKING AND WINGS WELL. THE CIGAR HAD NO MARKING, VERY STREAM LINED. STAYED ON STRAIGHT COURSE DURING SIGHTING.Witness did not contact police nor any other UFO organization. No photos.Report received by MISSOURI INVESTIGATORS GROUP - http://ufomig.bravehost.com((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73249.html](http://www.nuforc.org/webreports/reports/073/S73249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New London (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We were sitting outside and a triangle shaped craft came from the east and moved very slowly with flashing lights on the craft, and a beam of light directly under the craft, as if it were searching for something . It went slowly then suddenly disappeared from view.  This happened as lightning flashes have been going off in the same southern portion of the sky, with no noise, for over an hour.  I also am experiencing strange objects coming from my skin and small unknown creatures scattering around our house at night between midnight and five a.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157872.html](http://www.nuforc.org/webreports/reports/157/S157872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
