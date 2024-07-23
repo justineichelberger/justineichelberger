@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Leicestershire (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three anti gravity trianglesI was mowing my grass when my wife noticed three black triangle craft in the sky.  There was a purple hue coming from the rear of the craft and a rotten egg smell in the air.  there was a buzzing noise and when my son came out his ears popped.  they just hovered and then shot off.  my dog was shaking in nervous temprement during sighting.((NUFORC Note:  We wonder whether this is a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120588.html](http://www.nuforc.org/webreports/reports/120/S120588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I WAS IN MY BACK YARD, I LOOKED UP AND SAW A SILVER CIGAR SHAPE OBJECT.I WAS IN MY BACK YARD, I LOOKED UP AND SAW A SILVER CIGAR SHAPE OBJECT, TRAVELING WEST TO EAST, FLYING AS HIGH AS PASSENGER JET WITH TWO SMALL POINT LIKE PROTRUSIONS STICKING OUT OF BOTH SIDES.  NO CONTRAIL. A JET FLEW BY A FEW MIN. LATER TO HELP DETERMINE SIZE AND SPEED.  CIGAR MUCH LARGER THAN JET, FLEW AT SAME SPEED.  ON THE JET I COULD SEE MARKING AND WINGS WELL. THE CIGAR HAD NO MARKING, VERY STREAM LINED. STAYED ON STRAIGHT COURSE DURING SIGHTING.Witness did not contact police nor any other UFO organization. No photos.Report received by MISSOURI INVESTIGATORS GROUP - http://ufomig.bravehost.com((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73249.html](http://www.nuforc.org/webreports/reports/073/S73249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
