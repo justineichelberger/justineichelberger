@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:15 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Monticello (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately driving from monticello t - driving from monticello t minutes.</sub><blockquote><sub>3 bright orange lights flashing in the sky for about 10 seconds then went away, after that big ball of white light falls from sky.We seen 3 bright orange lights separate from each other. The farthest right light flashed then the middle and the third. after that it just sat there for about 3 seconds then it went away. My friend said it was in the sky on the right then jumped to the left and thats when in flickered. about 5 minutes after the UFO left we seen a big ball of white light go down towards the earth, kinda like a meteor but it was to big for that. all this was seen at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64776.html](http://www.nuforc.org/webreports/reports/064/S64776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Logansport (IN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At first we thought it was a bright star but then it got bigger & brighter and disappeared then a yellowish lit up banana shape appeareIt came about as a bright star, then got brighter and bigger, all the sudden disappeared and just as fast, a banana shape light appeared then quickly disappeared((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38279.html](http://www.nuforc.org/webreports/reports/038/S38279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
