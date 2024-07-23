@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Valencia (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Eight objects flying in a modified V formation; seven smaller objects all with one red light, white light on larger objectWhile I was talking to a friend outside one night I noticed in the northern sky behind her, eight approaching aircraft which I estimate their altitude to be 15, 000 ft. to 20,000 ft. These may have been seven spotter or escort planes accompanying a much larger craft in a modified, yet very structured V formation.  The five smaller objects, with one red light each, fanned out evenly spaced to the side and behind the larger craft left wing. The larger craft appeared to have only white light(s).  On the right side of the larger craft were only two other objects (also with one red light each) replicated the same pattern and spacial distance as noticed on the other side of the craft.  The five objects on the larger craft's leftside (as well as the other two on the right side), each had one bright red light which flashed once (for approximately one second -- much like an airport runway strobe but slower)) in a sequential fashion from the lead object back to the last and then repeated this same sequence as it continued across the night's sky.It began in the northen sky and seemed to cruise at what would be a normal commercial aircraft speed for that altitude taking appoximately 1min/30sec to cross from the norhern most horizon to the southern most horizon. The sound was a gentle whisper and appeared to defy what might have seemed a normal audible sound for so many aircraft.My friend began watching almost immediately after I spoted this unusual formation.  She did not distinguish 8 separate objects, but felt that it was one composite.  My engineering background and practical mind convinces me it must be eight craft in total, although I could not see eight separate craft.  Is there some practical explanation or answer for this type of formation?((NUFORC Note:  Time was corrected by witness to 22:10 hrs.; we have amended the time here.  We spoke at length with the witness, and found her to be exceptionally credible.  She is quite familiar with all types of aircraft, and she stated that what she had observed was no type of a/c with which she is familiar.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23911.html](http://www.nuforc.org/webreports/reports/023/S23911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Clive (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright white light in the sky that got brighter, turned red and was gone.At approx. 10:15 P.M. Looking west and South of the Big Dipper I saw a white light that was not an Airplane.  I saw no flashing lights.  The object was heading East from the West.  At first I thought it may be a Sat.  It seemed to slow down and off to East it got brighter.Then I believe it stopped then turned red and was gone.I do not know what it is.  I do know it was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71267.html](http://www.nuforc.org/webreports/reports/071/S71267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
