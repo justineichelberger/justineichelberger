@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canton (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Weird shaped UFO hovering 30 feet in sky.It was a summer night and me, my mom, aunt and sister were on our way to see my grandmother in the hospital a couple years ago.  I told my mom there was something in the sky that looked like flying headlights.  We got closer to it and it was not moving,  it was about 30 feet above us,  it was shaped like an oval with a triangle shape missing from it and had a lot of weird lines on the bottom of it,  it was about the size of an suv car.  It was silent then slowly moved to the field next to us.  It then moved higher to the sky, stopped and then lit up a lot of different colors.  It then vanished. I have witnessed it a few more times recently in the same area, it looked the same except it spun around and had lots of white lights on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126549.html](http://www.nuforc.org/webreports/reports/126/S126549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mhow (India) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was an absolute object,it had intent,and I will never forget that night!  It had trailing lightsIt was going straight up then it suddenly changed its direction and went sidewards.its was very bright.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130781.html](http://www.nuforc.org/webreports/reports/130/S130781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
