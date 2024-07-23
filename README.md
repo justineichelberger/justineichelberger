@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:01 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Whitewright (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was like watching the changing of the guards, but they looked like moving stars?Three of us were sitting on our porch enjoying the coolness of the evening when my son looking at the stars asked "What's that?" Looking up I said jokingly "The Milky Way". He stated "No,mom that star, look it's moving" At that point I seen it too. It was moving quite fast to the south and very high. It looked like a star but not fast like a shooting star, then my husband seen it. It would almost stop, then shoot off again. We watched it move to a point near a stationary star then stop. Then we watched another leave just south of that one and head north, it moved slow then faster, then two more from the north to the south. They looked like stars at first then moved to specific points. I joked at one because it moved in a jerky pattern not smooth like the others. "I said it must be Santa Clause testing new equipment" They all traveled down the milky way. Then two others moved back up to the north. Were they satellites being repositioned? It was like watching the changing of the guards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45344.html](http://www.nuforc.org/webreports/reports/045/S45344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boiling Springs (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO and possible AliensI've been practicing meditation w/ high hz sounds and music.  First there was a cloud shaped like a UFO  days prior to this event.  Which disburst once my spouse started watching...it disburst what appeared to be eyeballs over the sky through pictures.  This next night my spouse was away on business...I stepped outside for a cigarette...I noticed Flashing lights in the sky...tried to take a picture or record it. Video recording shows object spinning in sky.  Also photos appeared to have red tint...reverted photos back to normal that shows disoriented photo...the next photo show object in neighbors yard with foreign entities in helicopter shaped object. Next day neighbor's yard had noticeable marks in grass.  This would not be the first appearance according to photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147806.html](http://www.nuforc.org/webreports/reports/147/S147806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
