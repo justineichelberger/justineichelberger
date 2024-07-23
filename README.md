@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Starlight object moving across sky coming to a complete stop then moving again until it disappear upwards (???)We were at my sister's party standing in the garden.   My friend caught my attention when he said he saw a light move across the sky directly overhead coming to a complete stop.   At forst glance it just looked like a star which I initially thought was Mars because of its colour.  However looking more closely I notice it was quite a large type star and the colour was not constant as it seem to be changing. After a few minutes it started to move across the sky over a period of around 2/3 mins then appeared to disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45252.html](http://www.nuforc.org/webreports/reports/045/S45252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>07/23/10 duel lights( no strobes)above the Orlando area ,multiple helicopters around object(s)There is something looming over orlando right now.it consists of two bright lights both moving independant of each other. There are three helicopters in the air all with normal lighting and can be seen hovering near the object . I called the Orange county sheriffs office to be directed to the FAA in which I was recorded.the object/s shut its lights off and made a strange noise.  I grew up around military aircraft and my step father (retired military) witnessed the event and said it couldn't be flying under current FAA guidelines because it must have a strobe(which is not present)  I am going to drive to a better vantage point</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76746.html](http://www.nuforc.org/webreports/reports/076/S76746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
