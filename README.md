@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Football sized  saucer over Hagertown MD in summer of 1974It was dark out, and my wife and I just got out of our car close to our apartment on West Franklin St. For some strange reason we both looked toward the downtown area in the sky. Above the square of Hagerstown was a craft that seemed to be about a football field long, and was hovering silently. My wife and I just kept looking at it without even saying anything for awhile. It had different colored lights slowly revolving around it's perimeter. We couldn't believe the size of it, plus the fact of no noise. Then we began to talk about it, watching it slowly begin to move to the west.All at once it sped up to an incredible speed and vanished. I went to the apt. and called Hagerstown Airport and asked if they picked up anything on radar,and they said no. We have kept quiet about this forever. Now we aren't exactly positive of the exact date that summer, since it has been such a long time, but we will remember this the rest of our lives. The reason I am doing this now is, we are wondering if anyone other than us had seen it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16995.html](http://www.nuforc.org/webreports/reports/016/S16995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Aztec (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>huge, bright meteor seen over Aztec, New Mexico...again.On the night of Thursday, July 24th for the second night in a row, I witnessed a huge meteor over the towns of Aztec and Flora Vista, New Mexico.  Both happened at 11:30 p.m. on two consecutive night. This seemed to last slightly longer than the night before.  Duration was 5-6 seconds on the 23rd. of July and the 24th sighting seemed a second or so longer. This one came from the Northeast to the Southeast.  Both nights the meteor was huge in size as well as the brightest meteor I have ever seen.  We are very used to seeing meteor's in the sky.  The lack of light pollution makes New Mexico an ideal place for viewing "shooting Stars".  But on both nights these were huge and the duraturation lasted longer than any others I have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65060.html](http://www.nuforc.org/webreports/reports/065/S65060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
