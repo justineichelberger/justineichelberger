@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:53 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:08 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in St. Croix Falls (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw the crafts in the sky early in the morning over my neighborhood.It was before I was going to go to work. I was out on my deck with my wife eating breakfast and I saw something in the sky. I saw a cigar shaped object moving slowly across the sky. It had bright lights, like windows along the side of it. Then in the next five minutes, three more craft appeared. They were in a V-shaped flight formation heading to the north.  My son came on the deck with me and my wife four minutes after the other three appeared. After a short time, maybe a couple minutes, the craft took off at very high speed to the north.  I never saw them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06110.html](http://www.nuforc.org/webreports/reports/006/S06110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Arcadia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Star like object drops rapidly from a high altitude.While driving on I-210 from Pasadena, CA, to Arcadia, CA, I witnessed a white star-like object (in size, brightness, and color) drop in a straight line from an apparent high altitude to almost ground level.  I say “almost” because it was dark out, and I could not clearly discern distance to the object, or where the ground would be.  I did not detect an impact.  I felt that the object was at least 10 to 15 miles away, in other words, quite a ways away.  However, I cannot rule out that it was quite close.  The object did not change color or shape, nor did it have a tail.  I immediately thought it might be a meteor, which is entirely possible, but it did not look like the many other meteors I have seen.  It was more reminiscent of a bright satellite.  I saw something extremely similar on 5 January 2007 in Huntsville, AL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142498.html](http://www.nuforc.org/webreports/reports/142/S142498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
