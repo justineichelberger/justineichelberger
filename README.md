@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A gaint greyish football moving through the skyIt was a bright early morning, I was getting ready for guard mount, I was a Security Policeman in the Air Force, stationed at Kirtland Air Force Base in New Mexico. I heard a voice saying," what the hell is that"? I said, "where", and the Airman pointed toward the flightline. I saw this object the size of a football field, and it was shaped like a football. The object was slowly moving from left to right. the object turned right, and headed toward the ground, and it disappeared. We called the airport to find out if there was Jets landing, and they said, "no". There was nothing going on. The People We talked to said, " it's probably a cloud of some type". "I'd say it was a UFO".((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42141.html](http://www.nuforc.org/webreports/reports/042/S42141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Meeniyan (Australia) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.013333333333333334 - 0.013333333333333334 minutes.</sub><blockquote><sub>24/7/05 meeniyan vic . cigar shaped object orange lights  50 seconds 1/8/05we where going to my car and we observed this light in the sky coming to wards us from the north it was cigar shaped and yellowy orange it was about 1000 ft high and going about 80/100 khph it went over us and went south there was no sound  i got my camera out of the car and took three photos of it .when we got back to the carvan site i cheked them on the computer they did look differant than when i took them there was me and my wife and our frend we thought it was a comet at first but it was to slow and it went up not down .on one photo it looks like a fiee snake and on another it looks like fire ball the other one looks like a line of lights with some on topat one end .but all we saw was a cigar shape with our eyes .the night was clear no aircraft around .do not no wether anybody else saw it .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45374.html](http://www.nuforc.org/webreports/reports/045/S45374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
