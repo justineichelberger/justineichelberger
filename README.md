@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kuala Lumpur (Malaysia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>star shape object moving at high speed in a straight line. blinking and after 5 sec, it was blocked from view by heavy clouds. object resemble a star but it is not a meteorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38284.html](http://www.nuforc.org/webreports/reports/038/S38284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Rectangular connected series of "glass" globes with exhaust...I saw an unusual craft flying overhead today at approx 12:15 am CDT.It looked like a series of glass globes, possible six, in tandem with an afterburner/exhaust and very unusual lights on it, although it had a blinking red light on what was the rear section. It also had three bands of marquee-like lights on the bottom. There were lights between some of the sections and internally. I have never seen this type of craft before nor read any accounts of it.(You may post this if you wish...I did not have anyway to draw then post to internet so I found a program called draw where I made a "sketch" of the general shape.  The smaller circle at the end represents the exhaust or afterburner; the rectangles represent the three strips of "marquee" like lights which were solidly on...they did not blink,,,,and the small circle the red light which was flashing on and off. I am emailing you seperately the 'drawing"  as an jpg I made using draw online software.)   I don't know if it was of earth or beyond, but it was impressive, and much larger than a typical jet.  It sounded like a typical jet but the light patterns and shape dispelled similarity to a typical jet.It made the sound of a typical jet albeit louder than average, and it appeared much larger than typical jet, if I held my arm at full length and measured using fingers I would say it appeared four inches in length, about 1/2 inch in width against the night sky.  I would estimate it was way less than 30,000 feet --maybe 10,000 feet up.<To match drawing being mailed seperately please look for KCSHAPE in tagline of my sepearte email.></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71271.html](http://www.nuforc.org/webreports/reports/071/S71271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
