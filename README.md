@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Captiva (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately brief - brief minutes.</sub><blockquote><sub>Fifth sighting of amber UFO's at same location in 4 weeks,((NUFORC Note:  This is one of nineteen reports, submitted by the same witness, over the course of seven weeks.  The reports are well written, and the witness seems sincere, although we would be surprised if all of the sightings are about authentic UFOs, i.e. alien spacecraft.  We cannot be certain, however.  PD))Sighting #12 – July 24, 2013 – 5th sighting of amber UFOs At 9:40 p.m.  I went to the beach across the street from where I live on the south end of Captiva Island, and immediately saw two of the amber lights I had now seen four times before in the past month, and the same lights described by another person from Cape Coral, some 8 miles to the NE of where I live.  The lights were SSW of me, about two finger-widths of my outstretched hand above the rock jetty at Blind Pass, and about one finger width apart.  I would reasonably guess that they were around 500 feet above the water, and two to three miles distant.  They appeared to be due west of my friend “Carol’s” house, two miles south on Sanibel Island. Unfortunately, by the time I got my binoculars out and the lens caps off, they had disappeared. What’s important here is that after exactly one month, they still showed up in the same location.  As I’ve stated in my previous reports to NUFORC, it now seems clear to me that there is some kind of a reason they are continually showing up  at this relatively isolated area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100474.html](http://www.nuforc.org/webreports/reports/100/S100474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blaine (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball disappearingDriving home saw low flying fireball thought it was a burn in the power line, turned around and saw it heading south below the clouds.  Then it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120634.html](http://www.nuforc.org/webreports/reports/120/S120634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
