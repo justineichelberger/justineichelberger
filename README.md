@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sept-Iles (Canada) (PQ) reported seeing craft that fit the description of some 'Circle' over a period of approximately several seconds - several seconds minutes.</sub><blockquote><sub>Circular bright coloured sphere was seen very clearly above houses in small native community 1000 Kil. northeast of MontrealI am reporting this incident for others in the Sept-Iles area.  They don't speak English - only Montagnais/Innu (local native language) and French.  I haven't seen the recorded images other than the one that I am forwarding with this message.  It was sent to me by ((name deleted)), who witnessed this event.  I have known him for 30 years, he used to be a native policeman.  His description of the event seems factual and his observations very precise and without hesitation.  Personnally, I tend to think that alot of these sightings have to do with atmospheric gases and northern lights type phenomena.   ((name deleted)) wanted me to pass this info on to anyone who might be interested.  If you have a french speaking member, he should get a response from him.  I was told that the recorded video is still in the possession of one of ((name deleted)) neighbours.  My description is not very good, because I wasn't there. His Email is ((address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13957.html](http://www.nuforc.org/webreports/reports/013/S13957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Harpersfield (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:00:15 - 00:00:15 minutes.</sub><blockquote><sub>Moving white light 3 miles South of Lake Erie in Northeast Ohio.At about 9:40pm I went outside to walk my dog.  I often watch the stars, and am fairly familiar with the night sky.  As I headed South, I saw an unfamiliar very bright white “star” under Neptune.  It was as bright as Neptune, but not as large, and hovering just above the tree line.  I was excited to see a new star and pulled my phone out to open the star app (Sky Guide) I use to identify stars.As I opened the app, I watched the “star” slowly move closer to me and then gently “float” up and diagonally into the space between Neptune and Saturn.  It then moved diagonally rather quickly towards Saturn (Northeast) then up again. It did not move like a floating object. There was a definite flight like intentional pattern to its movement. Although, I’ve never seen an aircraft move in the manner like the object I observed.The object seemed to turn and change from a bright white to a softer amber glow. I then could make out three dimmer lights in place of the single amber color. Then the amber colors slowly dimmed simultaneously very similarly to how a flame might extinguish.Since I do like to observe the night sky and identify the objects I see, I opened an app I use to identify aircraft (Flightradar24). There were no aircraft in the area.  I’ve seen Chinese lanterns in the sky, but this was not a Chinese lantern.  It did not move in a straight line through the sky like a meteor or satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157962.html](http://www.nuforc.org/webreports/reports/157/S157962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
