@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:47 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blaine (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball disappearingDriving home saw low flying fireball thought it was a burn in the power line, turned around and saw it heading south below the clouds.  Then it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120634.html](http://www.nuforc.org/webreports/reports/120/S120634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in North Huntingdon (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Small Sphere Observed At Close RangeI have been investigating an unusual event which occurred in the parking lot of a shopping complex at about 10 P.M., after the stores had closed. Three people were talking when one yelled out for the others to look at something. A small spherical object, "absolutely round and shiny" and about the size of a tennis ball was observed at a distance of no more than 10 feet away. The object which moved in a slow straight line down the center of the road, was only about 6 feet off the ground and appeared silent. THe object appeared to be powered as it moved down towards the end of the complex. At one point it zig-zagged to the right, then to the left, and soon went out of sight. One witness who has a military background, stated that whatever this device was, it gave him the impression that it was a probe of some type. From Researcher: Stan Gordon. PA UFO Hotline: 724-838-7768 (http://www.westol.com/~paufo((NUFORC Note:  Our gratitude to Stan Gordon, well-known UFO investigator from Greensburg, Pennsylvania, for sharing this report.  Other witnesses should contact Mr. Gordon directly.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24972.html](http://www.nuforc.org/webreports/reports/024/S24972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
