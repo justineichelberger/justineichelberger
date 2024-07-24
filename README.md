@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:50 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rocky Point (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green/Teal Lights up night sky, fast moving lightAround 11pm tonight my boyfriend and I were standing outside smoking a cigarette in the street.  I was facing southeast when the sky illuminated a greenish/teal color everywhere for a couple of seconds.It lightly strobed; through the trees I quickly spotted a bright green/teal super fast moving light shooting Northern possibly slightly westward in the sky that disappeared just as quickly.  It looked distant because of how fast and how quickly it stopped and disappeared.My boyfriend says he did not spot the light because he was facing me, and it disappeared too quick, but confirms the whole sky turned bright greenish.  We were both awestruck.  Perhaps it was a meteor?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147781.html](http://www.nuforc.org/webreports/reports/147/S147781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A gaint greyish football moving through the skyIt was a bright early morning, I was getting ready for guard mount, I was a Security Policeman in the Air Force, stationed at Kirtland Air Force Base in New Mexico. I heard a voice saying," what the hell is that"? I said, "where", and the Airman pointed toward the flightline. I saw this object the size of a football field, and it was shaped like a football. The object was slowly moving from left to right. the object turned right, and headed toward the ground, and it disappeared. We called the airport to find out if there was Jets landing, and they said, "no". There was nothing going on. The People We talked to said, " it's probably a cloud of some type". "I'd say it was a UFO".((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42141.html](http://www.nuforc.org/webreports/reports/042/S42141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
