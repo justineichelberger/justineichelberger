@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Silver orbs hanging in the eastern sky.I was seeing airliners flying by to the east of the Queens Farm Museum's Powwow.  Must be MacArther Airport out there.  Looked up once and noticed three far up and tiny silver balls hanging in a row. Looked away and back.  They were then hanging from top left to bottom right.  Got the camera and located them in view finder.  They were no longer in a formation and only one is shining in the sun but the other two are there.  I thought later that they could be those silver balloons but in a formation? I didn't even stay focused on them because what I was seeing didn't make sense and I was trying to think up a logical explanation.  They then faded. Could've been something floating like balloons on a 105 degree day.  Hmm.....Sorry, I don't have any work right now so I can't accept a collect call.   Anyone interested is free to call in the evenings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76872.html](http://www.nuforc.org/webreports/reports/076/S76872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Overcup (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 ufo north on hwy 9Go to work was north on arhansas hwy 9 this pass overcup ark. look north the ufo all 3 of then was about 340@ from north that was about 500 to 600 hurdred feet hight more to the north at 25 to 45 mph .They act like they was look for something. I wath them to this pass conway co. hwy 71 them one went north one went west and went south.they out of my vist.all this time my car was run rushing .my radio was act up.((NUFORC Note:  Anonymous report.  We have no way of getting back to the witness to request information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13584.html](http://www.nuforc.org/webreports/reports/013/S13584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
