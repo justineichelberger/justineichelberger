@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Toledo (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Lights circling over Iowa.Ok this is a freaky and true story:  We decided to have a hot dog roast tonight so my brother started a little fire out back.We were telling stories and such then all of a sudden Willie was looking in the sky...The sun had gone down by now and the stars were bright ....He was saying "look.at that plane..." And telling us where to look ....Pretty soon we were all looking up and just to the northeast of where we were sitting we saw this plane and we watched it go past this bright star...Except it wasn't a star....It was a bright light but it was going in circles....not rotating but moving in circles....Soon another light appeared beside the rotating light and started moving away!!!!!!  I tried to capture with my phone but its no good in the dark....My bro took out his binoculars and we could see the light moving to the south and it had two smaller companions beside it moving in the same fashion.  Idk if the plane that passed by it noticed it or not but it was freaky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100443.html](http://www.nuforc.org/webreports/reports/100/S100443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sept-Iles (Canada) (PQ) reported seeing craft that fit the description of some 'Circle' over a period of approximately several seconds - several seconds minutes.</sub><blockquote><sub>Circular bright coloured sphere was seen very clearly above houses in small native community 1000 Kil. northeast of MontrealI am reporting this incident for others in the Sept-Iles area.  They don't speak English - only Montagnais/Innu (local native language) and French.  I haven't seen the recorded images other than the one that I am forwarding with this message.  It was sent to me by ((name deleted)), who witnessed this event.  I have known him for 30 years, he used to be a native policeman.  His description of the event seems factual and his observations very precise and without hesitation.  Personnally, I tend to think that alot of these sightings have to do with atmospheric gases and northern lights type phenomena.   ((name deleted)) wanted me to pass this info on to anyone who might be interested.  If you have a french speaking member, he should get a response from him.  I was told that the recorded video is still in the possession of one of ((name deleted)) neighbours.  My description is not very good, because I wasn't there. His Email is ((address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13957.html](http://www.nuforc.org/webreports/reports/013/S13957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
