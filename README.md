@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:21 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30+ slowly flying fireballs in the sky (second time witness)I was in Saint Catharines about a month or two ago and saw red lights flying in the sky.  A whole pack of them. But they were very far away.  And now I saw the same thing in front of my house.There must have been 30-50 of them.  The flew from the right (West) to the left (East)  The second time they were Very close to me.  I had my digital camera, (as I am a photographer) and although zoomed right in, I could only see a red dot.  When the lights disappeared, it was a black object.  Not in any shape known.Not a sound heard.Airplanes do not fly in such a formation, and not in that area/direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91329.html](http://www.nuforc.org/webreports/reports/091/S91329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grand Marais (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Went out of house saw red and white flashing lights in moonless clear night.  Could not make out shape of object.  Object was traveling north and flashing red and white lights were appearing and disappearing in a circular rotation at least by my estimate 1 mile apart.  Object was far away and could be seen with big dipper constilation in background. Object omitted no sound traveling slowly across the sky until disappearing behind trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135348.html](http://www.nuforc.org/webreports/reports/135/S135348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
