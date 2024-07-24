@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burton-on-Trent (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>silent star-like ufo sighted in ukon the evening in question my dog began to bark at something out side i went out and saw nothing until i looked up and saw what seemed to be a very bright star which was stationary until it began to move west at first it maoved slow but sped up and slowed down in bursts. it had know flashing beacons and made no noise at all. as it moved it appeared to cross the path of a flight of a passenger plane that was approaching the nearby airport which is around 4 miles away. as this plane came into view i clearly heard the engines of the plane. it arced to the east i thought no more of it even though it was the first time i had seen anything like it until on the following saturday there were a reported 200 sightings throughout the uk</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64848.html](http://www.nuforc.org/webreports/reports/064/S64848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Football sized  saucer over Hagertown MD in summer of 1974It was dark out, and my wife and I just got out of our car close to our apartment on West Franklin St. For some strange reason we both looked toward the downtown area in the sky. Above the square of Hagerstown was a craft that seemed to be about a football field long, and was hovering silently. My wife and I just kept looking at it without even saying anything for awhile. It had different colored lights slowly revolving around it's perimeter. We couldn't believe the size of it, plus the fact of no noise. Then we began to talk about it, watching it slowly begin to move to the west.All at once it sped up to an incredible speed and vanished. I went to the apt. and called Hagerstown Airport and asked if they picked up anything on radar,and they said no. We have kept quiet about this forever. Now we aren't exactly positive of the exact date that summer, since it has been such a long time, but we will remember this the rest of our lives. The reason I am doing this now is, we are wondering if anyone other than us had seen it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16995.html](http://www.nuforc.org/webreports/reports/016/S16995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
