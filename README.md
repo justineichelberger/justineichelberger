@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 23 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New London (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We were sitting outside and a triangle shaped craft came from the east and moved very slowly with flashing lights on the craft, and a beam of light directly under the craft, as if it were searching for something . It went slowly then suddenly disappeared from view.  This happened as lightning flashes have been going off in the same southern portion of the sky, with no noise, for over an hour.  I also am experiencing strange objects coming from my skin and small unknown creatures scattering around our house at night between midnight and five a.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157872.html](http://www.nuforc.org/webreports/reports/157/S157872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Giant white glowing Star like object (diamond shaped) above Boston MAMy friends and I were driving to a club in Boston.  We got lost and I looked up into the sky and noticed a giant bright white star.  To my eyes, it appeared diamond shaped. I watched it as we drove towards it and noticed it did not change directions or even move.  It stayed perfectly still. My friend thought it was a star until we noticed clouds moving behind it.  We had no idea what it could of been.As we turned around to try and find our way through the city on search of the club we were going to. We moved away from the giant star like object.  I could no longer keep it in my eye of view. But for 5 whole minutes during that time of driving towards it, I watched it from the car window.  Did not take my eye off of it.  I wanted to make sure it wasn't a plane or something more explainable.We ended up getting lost again until we were right back where the giant white reflective star was and I saw it again.  This time it had moved towards the west side and again was sitting perfectly in the sky that had no stars in it.  Since Boston is very bright, you normally don't see stars. We ignored the object and drove away to find our destination.  At 2:30am after we got out of the club, I looked for it again on our drive home and did not see it.Description:  This object seemed large, diamond or circular shaped.  It was silent.  Stayed perfectly still. All electronic devices in our car were working (cellphone and other gadgets)  If it did move, it moved very slowly then paused.  Moved up and down behind the clouds then back out again to where you could noticed the clouds behind it.  Very bright and color was off white.  It was Glowing. No other star or aircraft was in the area.  Just clouds and dark sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71306.html](http://www.nuforc.org/webreports/reports/071/S71306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
