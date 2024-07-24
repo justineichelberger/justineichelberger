@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Harpersfield (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:00:15 - 00:00:15 minutes.</sub><blockquote><sub>Moving white light 3 miles South of Lake Erie in Northeast Ohio.At about 9:40pm I went outside to walk my dog.  I often watch the stars, and am fairly familiar with the night sky.  As I headed South, I saw an unfamiliar very bright white “star” under Neptune.  It was as bright as Neptune, but not as large, and hovering just above the tree line.  I was excited to see a new star and pulled my phone out to open the star app (Sky Guide) I use to identify stars.As I opened the app, I watched the “star” slowly move closer to me and then gently “float” up and diagonally into the space between Neptune and Saturn.  It then moved diagonally rather quickly towards Saturn (Northeast) then up again. It did not move like a floating object. There was a definite flight like intentional pattern to its movement. Although, I’ve never seen an aircraft move in the manner like the object I observed.The object seemed to turn and change from a bright white to a softer amber glow. I then could make out three dimmer lights in place of the single amber color. Then the amber colors slowly dimmed simultaneously very similarly to how a flame might extinguish.Since I do like to observe the night sky and identify the objects I see, I opened an app I use to identify aircraft (Flightradar24). There were no aircraft in the area.  I’ve seen Chinese lanterns in the sky, but this was not a Chinese lantern.  It did not move in a straight line through the sky like a meteor or satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157962.html](http://www.nuforc.org/webreports/reports/157/S157962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Burgess Hill (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object sighted in sky to the east, near approach to airport, seemed triangular  or circular shape when enlarged.Clear day, near approach to airport, very patchy high cloud, I was watching aircraft from my rear porch going in to land, I then noticed object in sky to the east,this was above aircraft landing level, I managed to grab camera and take two photos (submitted) before the craft dissapeared, I have tried to enlarge the photos, it does appear to be either triangular shape or spherical, it seemed dark in colour possibly of metallic colour. I cant guess at the height but it was below any high cloud as can be seen from the photos.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58244.html](http://www.nuforc.org/webreports/reports/058/S58244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
