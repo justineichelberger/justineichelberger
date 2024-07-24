@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:08 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Arcadia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Star like object drops rapidly from a high altitude.While driving on I-210 from Pasadena, CA, to Arcadia, CA, I witnessed a white star-like object (in size, brightness, and color) drop in a straight line from an apparent high altitude to almost ground level.  I say “almost” because it was dark out, and I could not clearly discern distance to the object, or where the ground would be.  I did not detect an impact.  I felt that the object was at least 10 to 15 miles away, in other words, quite a ways away.  However, I cannot rule out that it was quite close.  The object did not change color or shape, nor did it have a tail.  I immediately thought it might be a meteor, which is entirely possible, but it did not look like the many other meteors I have seen.  It was more reminiscent of a bright satellite.  I saw something extremely similar on 5 January 2007 in Huntsville, AL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142498.html](http://www.nuforc.org/webreports/reports/142/S142498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burton-on-Trent (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>silent star-like ufo sighted in ukon the evening in question my dog began to bark at something out side i went out and saw nothing until i looked up and saw what seemed to be a very bright star which was stationary until it began to move west at first it maoved slow but sped up and slowed down in bursts. it had know flashing beacons and made no noise at all. as it moved it appeared to cross the path of a flight of a passenger plane that was approaching the nearby airport which is around 4 miles away. as this plane came into view i clearly heard the engines of the plane. it arced to the east i thought no more of it even though it was the first time i had seen anything like it until on the following saturday there were a reported 200 sightings throughout the uk</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64848.html](http://www.nuforc.org/webreports/reports/064/S64848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
