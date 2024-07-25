@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:50 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>An air craft caught my eye early one morning. The craft made no sound at all  as I watched the craft fly in the distance it appeared to be approaching toward me then all of a sudden it flew vertically up in the air it was lit up like a Christmas tree with lights of red, yellow, blue, green Just like a decorated christmas tree still no sound as it excelled straight up in the atmosphere, my attention turned to a sound of,what sounded like a small censna, I looked to my right and it was flying so low ,if not for the tree in my yard I could of looked in the eyes of the pilot, then all of a sudden  There was no engine sound, I started bracing for a crash of the craft,I walked to my front yard but could not see or hear the small plane any more, all of a sudden I see a air craft slowly ascending from the direction the small craft was headed but had large round orange fan like objects that were hazy orange in color that craft also just disappeared, as I turned my attention back to the Christmas tree looking craft that also was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158856.html](http://www.nuforc.org/webreports/reports/158/S158856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Rocky Mount (Plain Dealing) (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>While swimming in pool I looked up and noticed what looked like a bird just hoovering, it suddenly moved backwards about 2 lengths and moved foward to it original position then it turned on its port side and disappeared about three minutes later an air force jet passed in the same area.The object and the jet where about the same altitude the jet left a con trail</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08564.html](http://www.nuforc.org/webreports/reports/008/S08564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
