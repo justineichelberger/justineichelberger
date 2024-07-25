@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Playa Del Rey (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately :30 - :30 minutes.</sub><blockquote><sub>Small fireball object traveling from west to east, approx 6,000-10,000 foot elevation.Object made no noise, had no navigation lights (as every aircraft does),  Did not register on any online flight tracking page, also flying in a very unusual pattern for being above an international airport.The two witnesses noticed it while laying on the couch.  The fireball looking object stood out very well against the night sky.  While watching the object come toward us observing it facing west, we watched until object passed over the building.  We ran to the front door approx 25ft away, and tried to resume watching it move.  The object had literally disappeared from the sky.The two witnesses have lived near an airport for almost 30 years, each.  This is nothing we have ever seen before.... ..weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91186.html](http://www.nuforc.org/webreports/reports/091/S91186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>very bright round object, witnesses descending and hovering in sky over the city.While standing outside with my neighbors,I notice a bright light descending in the sky.  The object stop and hovered on the horizon for approximately 35 minutes then disappeared.  The object appeared to be round and very bright white light, could not see any structure while looking through binoculars.  Object just disappeared.  No sound or movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100479.html](http://www.nuforc.org/webreports/reports/100/S100479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
