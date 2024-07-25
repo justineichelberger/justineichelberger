@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Looking out  of a back window, I noticed a large, extremely bright, white light cross the northern sky.I happened to be looking out of a back window at 2:30 AM  when I saw a very bright, white light come out from behind the trees behind our house. It was so brilliantly bright that I called to my mother to come and see it too before it disappeared. It looked like a moving flash of light. The object itself was not flashing; it was a constant, extremely bright, white light, which I've never seen anything like. If I had to describe it further, I would say that it reminded me of a clear Christmas tree light, laying on its side (that is, horizontally) - only a thousand times more bright. The shape of the object - other than its eliptical bias (it was NOT round) - we couldn't determine because the "rays" shone out from the center of the light, extending away from it, obscuring its actual shape. I can't emphasize enough what a BRIGHT, large light it was. It's difficult to estimate its distance, but it seemed to be moving at the approximate height of a helicopter a fair distance away. It remained at a constant altitude from the time I first saw it to when it crossed behind the trees out of our field of vision. It made no discernible sound. The window faces to the north and the object passed from the west to the east. For maybe 10 - 15 seconds or so it disappeared behind some trees, but it emerged again (where one would have expected it to) and continued moving to the right. The whole thing lasted approximately 45 seconds. If one would have been directly underneath it, I suspect it would have lit up the ground below, it was so bright; it was like a huge, moving star against the dark clouds - we had had a thunderstorm earlier and the sky was still very dark. I am a recent law graduate. My mother works at the University of Western Ontario (which lies just a mile to the north of us).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08545.html](http://www.nuforc.org/webreports/reports/008/S08545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oak Harbor (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately miunute - miunute minutes.</sub><blockquote><sub>ok ima playen my vidio game i look out the window i see a craft i live near a military base it was nothing like anything before.i folowed it through the windows it was white and slowly decending but whats odd is it did it towrds the sea nowhare near a base.((NUFORC Note:  Witness elects to remain semi-anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71298.html](http://www.nuforc.org/webreports/reports/071/S71298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
