@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Delanson (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Possibly triangle shaped craft with three lights spotted flying low for a few minutes, lights equidistant, one was red.Was sitting outside my house, stargazing.  I live in a pretty rural area so the sky is really clear and easy to see on cloudless nights.  I heard what I thought was a helicopter flying pretty low and I didn't pay attention to it until it more into my line of vision.  I noticed there were three lights and I figured, for a second, it was three flying in formation, BUT I kept watching and the lights stayed completely equidistant the entire time.  I went to our back porch to get a better look and I saw the barest hint of a triangle silhouette.  I watched the lights disappear behind the hills, the lights stayed totally equidistant and did not change (not at all like the brigades of helicopters I've seen flying together, even at night).  One of them was red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147825.html](http://www.nuforc.org/webreports/reports/147/S147825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wallowa (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Flying saucer type object not large and alone soft white light and incredibly fast.Driving from Lewis air base in Washington to Wallowa lake in Oregon I was thirteen sitting in the back of our motor home when off to the left I saw an almost almond shaped soft white light about 300 feet up about a half mile away it was approximately 70 feet long and 20 feet tall it moved straight down about 150 feet then left to right and back 3 times in a zigzag pattern up to about 400 feet hovered at that height for 5 seconds and then flew up and to the right faster than I've seen anything ever move including super sonic air craft and for about 600 feet and then vanished.  my dog was agitated during the event.  This is first time reporting for fear of persecution and ridicule.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127536.html](http://www.nuforc.org/webreports/reports/127/S127536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
