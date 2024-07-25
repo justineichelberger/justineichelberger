@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>unusual lightWhile walking the dog I am always star gazing and while looking at the sky a large red light just appeared.  This was no running light from a plane, to give an example of how large the light was, hold a quarter out at arms length and that is the size of the red light.  The light was stationary for about one minute and then the size of the light reduced to the size of a typical running light then slowly traveled along the coast going North.  It then stopped and turned into a white light of the same size and remained stationary for about for about 30 seconds, while stationary the white light grew in size to about the size of a fify cent piece.  There was a flash of lightning from a storm out over the ocean and then the light simply went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08549.html](http://www.nuforc.org/webreports/reports/008/S08549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in UK/England () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A very constant bright light, too high to be a plane or any other flying object, glided across the sky.A very constant bright light, too high to be a plane or any other flying object, glided across the sky went behind a very small thin cloud, was visible behind the cloud, then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71339.html](http://www.nuforc.org/webreports/reports/071/S71339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
