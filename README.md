@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oak Harbor (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately miunute - miunute minutes.</sub><blockquote><sub>ok ima playen my vidio game i look out the window i see a craft i live near a military base it was nothing like anything before.i folowed it through the windows it was white and slowly decending but whats odd is it did it towrds the sea nowhare near a base.((NUFORC Note:  Witness elects to remain semi-anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71298.html](http://www.nuforc.org/webreports/reports/071/S71298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phenix City (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>V Shaped objects in the shape of a W hovering over wal mart.I was walking into the Phenix City Wal Mart, around 9:30 EST, and looked up in distance (still very visable) and there were V shaped lights in the shape of a W hovering slowly.  There wasnt any noise coming from them, like a chopper or air plane would produce.  As I was taking a picture (which I still have), from the far right, I saw 2 jets speeding towards the lights.  I ran into Wal Mart after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128735.html](http://www.nuforc.org/webreports/reports/128/S128735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
