@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 24 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A light drifted from west to east, roughly following the Rogue Valley corridor.I was standing in front of my home, and saw a light drifting from west to east, roughly following the Rogue Valley corridor. I was facing north, toward Grizzly Peak. There was no sound, no flashing lights as on aircraft wings, the path was not exactly straight, but somewhat wobbly; it was slow, not fast like a meteor; and at the east end of the valley it disappeared as if it had gone behind a cloud, however, it didn't reappear. At some points in its trajectory it looked blurry. It was too low to be a satellite; it was a constant white light as it drifted from the left of my visual field to my right, as a planet's light is constant because it is reflected light. I am an acupuncturist with a masters of science in oriental medicine. My vision is 20/10, I do not have night blindness or light sensitivity, and I have been living in this location since 4/97. I have never seen a UFO before, however, I have seen satellites, meteorites, and of course aircraft at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08460.html](http://www.nuforc.org/webreports/reports/008/S08460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wayne (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a silver orb.Saw a silver orb traveling through the sky.  Couldnt have been a plane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120650.html](http://www.nuforc.org/webreports/reports/120/S120650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
