@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:50 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unusually bright star-like object low on horizon near city.Unusual bright "star" which I viewed out my window while seated on the couch.  Caught my attention because it was unusually bright, being near the horizon.  I looked at it out the window for several minutes, then went out onto my front stoop, where it very slowly moved out of sight.  It did not appear to be over my neighborhood, but rather, it seemed closer to SeaTac airport or perhaps over Fairwood/Kent.  There was no noise.  It appeared to pulsate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147769.html](http://www.nuforc.org/webreports/reports/147/S147769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>An air craft caught my eye early one morning. The craft made no sound at all  as I watched the craft fly in the distance it appeared to be approaching toward me then all of a sudden it flew vertically up in the air it was lit up like a Christmas tree with lights of red, yellow, blue, green Just like a decorated christmas tree still no sound as it excelled straight up in the atmosphere, my attention turned to a sound of,what sounded like a small censna, I looked to my right and it was flying so low ,if not for the tree in my yard I could of looked in the eyes of the pilot, then all of a sudden  There was no engine sound, I started bracing for a crash of the craft,I walked to my front yard but could not see or hear the small plane any more, all of a sudden I see a air craft slowly ascending from the direction the small craft was headed but had large round orange fan like objects that were hazy orange in color that craft also just disappeared, as I turned my attention back to the Christmas tree looking craft that also was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158856.html](http://www.nuforc.org/webreports/reports/158/S158856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
