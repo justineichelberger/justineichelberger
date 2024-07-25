@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wallowa (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Flying saucer type object not large and alone soft white light and incredibly fast.Driving from Lewis air base in Washington to Wallowa lake in Oregon I was thirteen sitting in the back of our motor home when off to the left I saw an almost almond shaped soft white light about 300 feet up about a half mile away it was approximately 70 feet long and 20 feet tall it moved straight down about 150 feet then left to right and back 3 times in a zigzag pattern up to about 400 feet hovered at that height for 5 seconds and then flew up and to the right faster than I've seen anything ever move including super sonic air craft and for about 600 feet and then vanished.  my dog was agitated during the event.  This is first time reporting for fear of persecution and ridicule.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127536.html](http://www.nuforc.org/webreports/reports/127/S127536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Carrie (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Moving light  stopping over us and turning brightMy brothers, a friend, and I where fishing at pond below my house.  My older brother told us to look at how bright that star was.  We all looked up in time to hear him say it was moving.  We all watched it as it move south east across the sky, then came to a stop over us, but it seemed very high in the sky. When it stopped the light got really dim, then got very bright, brighter then before.  Then the light took off very fast.We sat there and watched the sky then about 5 minuets later it appeared coming from the south this time moving slower and the light going form bright to dim.  Once again it stopped over us, but was very high in the sky, once again the light got very bright, but it so far away it just looked like an extra bright star.  It sat there bright for about 5-10 minutes then just disappeared, like it turned the light off.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76962.html](http://www.nuforc.org/webreports/reports/076/S76962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
