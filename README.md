@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phenix City (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>V Shaped objects in the shape of a W hovering over wal mart.I was walking into the Phenix City Wal Mart, around 9:30 EST, and looked up in distance (still very visable) and there were V shaped lights in the shape of a W hovering slowly.  There wasnt any noise coming from them, like a chopper or air plane would produce.  As I was taking a picture (which I still have), from the far right, I saw 2 jets speeding towards the lights.  I ran into Wal Mart after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128735.html](http://www.nuforc.org/webreports/reports/128/S128735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mukwonago (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light slowly ascending then slowly fading.I was watching the night sky like I always do when I noticed a what I thought at first to be a star in the southern sky but realized that there should not be anything in that position.The brightness of this light was that of Venus it was really bright.After watching this light for about 5 minutes it slowly, slowly started to move I first thought it was moving in my direction but no it was ascending slowly.  It continued to move straight up steadily and after about 30 seconds it started to slowly and I mean slowly fade then it was gone.One of the strange things about this was the fact that almost exactly a year ago I saw a light in almost the identical area but that time the light slowly slowly descended then faded out It was no meteor or plane this time or last there is something happening in that direction all the time.I ask every one to keep looking up there is a lot to see that can not be explained but it can be reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128771.html](http://www.nuforc.org/webreports/reports/128/S128771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
