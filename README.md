@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Rocky Mount (Plain Dealing) (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>While swimming in pool I looked up and noticed what looked like a bird just hoovering, it suddenly moved backwards about 2 lengths and moved foward to it original position then it turned on its port side and disappeared about three minutes later an air force jet passed in the same area.The object and the jet where about the same altitude the jet left a con trail</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08564.html](http://www.nuforc.org/webreports/reports/008/S08564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Benicia (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Witness another Orb over another neighbors home.Sunday 7-25-21 Nothing happened Saturday but last night, I was standing in my garage doorway and about to step inside and call it a night when a dark grey shadowy streak flew by my face like a swift flying bird right to left, not 10 feet from my face. My eyes and head turned to track this object. A flash caught my eye and I turned to look left in its vicinity over my neighbor’s house across the street. A glowing Orb hovering over my neighbor’s home. Suddenly it shot off leaving a streak from low too high for about 30 yards did I see this "light" streak/trail. Similar to a shooting star, but shooting stars don’t travel from low to high. Nor hover over a roofline or even at this level. Am I going crazy? It appeared at 4 feet above the roofline, but burned out at 30 feet, a certain degree of angle, no burning debris trail, just a streak, like you wave a glowing light stick through the air super-fast. So, I watched where the streak of light had burned out at its apex because instinct told me to, (at this moment I was thinking of dashing inside and yelling for my wife), and...out of nowhere, I can see depth, neighbor's houses, stars and everything behind it when a bright white light like Orb last Wednesday flashed, then the hole closed. Happened just before midnight. This Orb was exactly like the July 21st Orb. I immediately went in and told my wife.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165758.html](http://www.nuforc.org/webreports/reports/165/S165758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
