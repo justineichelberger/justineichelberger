@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 25 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Kiowa (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lake KIowa  Texas UFOTwo Officers on Duty saw a Bright Round Object low on Horizon stationary- Object suddenly moved close from a distance of aprox 2 miles to directly overhead of officers. Craft slowed to aprox 10mph and at a height of 600-800 ft. Craft had no tail was shaped like the tip of a spear was aprox the size of a 737 jet. Object made no noise and had no exhaust no motor or propeller was not a Helicopter and had no heat signature. Object had a soft glow or ring that surrounded the perimeter was transparant close to object and dense further away like a ring around the moon. Object was brightly lit from bottom and had no markings or insignia. Object had two large antennae on right side of nose that extended slightly shaped like spears. Craft had three points of light at tips that blinked slowly and were very dim- bottom of craft had many small lights that illuminated entire bottom. Object moved from Lake Kiowa towards the SSE at a slow speed that slowly increased and as object moved away seemed to gain height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65006.html](http://www.nuforc.org/webreports/reports/065/S65006.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Objects moved very fast made right angle turns and varied in light intensity.  Disappearing and reappearing for approx. 20 minutes.To whom it may concern: This incident took place during the summer of 1989 (June/July).  It was approx. 22:00 hrs. I was sitting on the side porch of my parents old home talking with a friend when I observed  2 solid white lights in the Eastern sky I found the objects immediately interesting because of their ability to control there light intensity varing from very bright to vanishing completely and reappearing and then moving at a high rate of speed slightly lower in the Eastern sky.  This behavior continued for a few minutes when I decided to get my mother and let her take a look.  During this time we both observed the objects disappear, reappear, vary light intensity, make very fast right angle turns and then return to a previous position.  Rather, interesting we both thought.  After, approx. 20 minutes the object suddenly disappeared.  I'm very knowledgeable in aerodynamics and a plane enthusiest.  I'm niether U.F.O believer or a skeptic I'm just a normal guy reporting what me and my mother witnessed.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31120.html](http://www.nuforc.org/webreports/reports/031/S31120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
