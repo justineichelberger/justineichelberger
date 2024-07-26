@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:42 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>bright white object at high rate of speed vanishesI was standing outside the sky was clear I looked up towards the southwest and I noticed a very bright light.  It moved at a high rate of speed definitely was not a terrestrial aircraft.  As it moved from southwest to northeast heading it was at its brightest for about 30 seconds then got dimmer, at about the 45 second mark it began to fade complete vanishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100526.html](http://www.nuforc.org/webreports/reports/100/S100526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Object was heading north, at 3 o'clock it flew over Seattle.Object was heading north, at 4 o'clock it flew over Seattle, sighting lasted 20 minutes before it went over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142439.html](http://www.nuforc.org/webreports/reports/142/S142439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
