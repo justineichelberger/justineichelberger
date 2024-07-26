@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hampton (near Langley AFB) (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A bright light in the sky almost directly over head seemed to be moving in an erratic pattern.At around 11:30 PM my wife, her brother and I walked out to the car and I happened to look up.  I noticed a bright light in the sky almost directly over head.  It seemed to be moving in an erratic pattern, sometimes drifting in a circular fashion and other times it would jump from one place to another.  The light changed color several times and at one point looked as though it split in two.  Also, at one point we all observed a bright green flash next to but not coming directly from the light. There were stars visible though the clouds behind the light and they stayed still as this object danced around. We watched it for about a half an hour and finally went back into the house.  I went out sometime later but by then a thin layer of clouds had moved in and I could not find it again.((NUFORC Note:  We believe that the first possibility to be ruled out would be a celestial body, either a star or planet.  However, we are not aware of any exceptionally bright star in the July night sky, that would be directly overhead at that hour.  We will try to check a star chart.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30491.html](http://www.nuforc.org/webreports/reports/030/S30491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bensenville (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 8:07am looking east towards O’Hare airport, I seen two objects in the sky.It was a sunny morning with some clouds in the sky . The objects were without cloud cover.Looking up I seen two objects reflecting the sun from the top of the objects ,from the bottom they appeared to be  invisible.  One object was reflecting light for 5minutes while staying in one  position. Object number two moved from parallel with object one  to a position what seemed 45 degrees down to the right, this same object would lose reflection and regain reflection maybe Four times.  Both objects appeared to be hovering in position.  There were planes in the area ,and  the objects seemed to be twice as high as the planes in the sky.  After five minutes the reflections In the sky were gone.  During this sighting the clouds in the background helped determined The objects were in one position. Both ojects also shared the same cirlce shape.July, 26th, 2010((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76795.html](http://www.nuforc.org/webreports/reports/076/S76795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
