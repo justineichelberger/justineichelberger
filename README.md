@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:40 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:59 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Iola (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I WAS SITTING ON MY CARPORT WHEN I LIGHT CAME SHINING THROUGH THE TREEI WAS SITTING ON THE CARPORT SMOKING A CIGARETTE ABOUT 11:30 PM. WHEN A BRIGHT LIGHT CAME SHINING DOWN THROUGH THE OAK TREE THAT STANDS ABOUT 20 FEET AWAY.  IT WAS BRIGHT ENOUGH TO CAUSE CLEAR SHADOWS ON THE GROUND OF THE LEAVES AND LIMBS IN THE TREE.  THE LIGHT MOVED TOWARD THE CARPORT AND THEN WENT OFF.  I HEARD NO NOISE OF ANY KIND TO SUGGEST THAT IT WAS A AIRPLANE OR HELICOPTER.  I LIVE IN THE COUNTRY SO ANY NOISE WOULD HAVE BEE APPARENT.  I THEN WALKED OUT INTO THE DRIVEWAY AND LOOKED AROUND THE SKY ABOUT 3 - 5 MINUTES LATER I HEARD A SONIC BOOM OFF IN THE DISTANCE.  WHETHER THAT HAD ANYTHING TO DO WITH THE LIGHT, I DON'T KNOW.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13604.html](http://www.nuforc.org/webreports/reports/013/S13604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>North Myrtle Beach  Brillant StarburstI was sitting on the balcony at a resort looking out over the ocean in North Myrtle Beach around 9:30 pm.  It was a perfectly clear night, the Moon and North Star seem tiny in comparison to what I witnessed. A Brilliant white starburst flashed on (no sound) high in the sky out in the distance over the ocean starting on left that flashed horizontally from left to right several times leaving a bright white trail in between where it started and stopped that left a starburst on each side when it stopped at the exact same distance each time. I felt as though it was “scanning something.”  Then it stopped exactly on the left where it first appeared with the same huge white brilliant starburst light and disappeared as quickly as it appeared.  Within seconds a falling star leaving a small burn out trail of red/blue/green appeared out of the same direction caught my attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158252.html](http://www.nuforc.org/webreports/reports/158/S158252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
