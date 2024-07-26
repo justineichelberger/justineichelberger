@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:26 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately ALL NIGHT - ALL NIGHT minutes.</sub><blockquote><sub>I saw these lights last night 7/25/04 so I grabbed my binoculars and what I saw was amazing, looks like a cluster of dancing lights, blue, red, yellow from the naked eye it looks like a twinkling star but when you look closely you notice strange light colors red blue yellow.Kind of what a police cars lights look from far away.Tonite we saw 2 more. The lights seem stationary but with binoculars you can see they are a cluster of small round lights swirling around.  I live only minutes from Sacramento. I will keep everyone informed if they continue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38331.html](http://www.nuforc.org/webreports/reports/038/S38331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cutler Bay (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>round light movibg across the sky . hovered and changed colorsWe saw a round object in the sky.  It was quiet and moved fast but it would stop and hover.  As it stopped it changed color.  As it moved, it was blue, but when it stopped, it turned red.  My mother saw it first.  Her first sighting it was green.  She came in and called me my daughter and her boyfriend.  We saw it continue west, and it seemed to either land or disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120691.html](http://www.nuforc.org/webreports/reports/120/S120691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
