@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object  was flying at a very high speed(probably 3000 miles per hour) without making any sound.On july 26 1998,6:25PM(Sunday),in the backyard of my house,my brother observed a flying object in the sky.I went into the house immediately to get the videocamera. In about 25 sec.I came back with the videocamera and the binoculars.When we first saw the object at (90 degrees), it was round  like a ball,and the color was white.My brother looked through the binoculars(20*50) and saw the object a little bigger but the shape did not change too much.When I started videotapping,the object was at 45 degrees flying SE,I zoomed in 72 times with a 8 mm videocamera and the object looked totaly different.It looked like a cylinder,the front and the back were black and the midlle was white like a neon light.The light seemed to be comming from inside of the object.There was no sound at all.The object was probably flying 3000 miles per hour.I videotaped the object for 30 sec. and then  it disappeared in the clouds.The  witnesses were: Me,my wife,my doughter,my brother and his wife.I attach 2 photos of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15676.html](http://www.nuforc.org/webreports/reports/015/S15676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>we were having a bbq on the garden when we saw a light in the sky, a gold/orange light in the sky approximatly to the right hand side of our location which seemed to appear then move leftwards across the sky then stopped and went up away from us growing slightly fainter in brightness then it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30720.html](http://www.nuforc.org/webreports/reports/030/S30720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
