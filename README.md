@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Object was heading north, at 3 o'clock it flew over Seattle.Object was heading north, at 4 o'clock it flew over Seattle, sighting lasted 20 minutes before it went over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142439.html](http://www.nuforc.org/webreports/reports/142/S142439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hampton (near Langley AFB) (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A bright light in the sky almost directly over head seemed to be moving in an erratic pattern.At around 11:30 PM my wife, her brother and I walked out to the car and I happened to look up.  I noticed a bright light in the sky almost directly over head.  It seemed to be moving in an erratic pattern, sometimes drifting in a circular fashion and other times it would jump from one place to another.  The light changed color several times and at one point looked as though it split in two.  Also, at one point we all observed a bright green flash next to but not coming directly from the light. There were stars visible though the clouds behind the light and they stayed still as this object danced around. We watched it for about a half an hour and finally went back into the house.  I went out sometime later but by then a thin layer of clouds had moved in and I could not find it again.((NUFORC Note:  We believe that the first possibility to be ruled out would be a celestial body, either a star or planet.  However, we are not aware of any exceptionally bright star in the July night sky, that would be directly overhead at that hour.  We will try to check a star chart.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30491.html](http://www.nuforc.org/webreports/reports/030/S30491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
