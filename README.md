@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Edgewood (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange object with size, movement and high rate of multiple flashing light sequences that are not seen in modern human technologySpotted object with strange flashing light paterns moving W to E in sky through Seatac International Airports flight path. Object was flashing multiple colored lights very quickly in a round or octagon shape. Objects path was straight, then turned left and back to right in sky without banking. Its movement in sky was like a spike from heartbeat on EEG readout. 5 adults viewed from spotting scope, and none could explain it's shape, pattern or lights as something of human technology. Neighbors whom saw are nonbelievers in UFOs or extraterrestial life because of relegious beliefs, but both now believe they saw object with shape and manuevers of nothing of known technology. Flashing lights were postioned in patterns that couldn't be fit onto jetliners or small planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08497.html](http://www.nuforc.org/webreports/reports/008/S08497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>woman in canada spots an unidentified object"not from this earth"the object was a diamond turned side ways,it appeared out of no where, and shot almost like a beam of light.It had a orange firery glow around it and the light sort of trailed behind. what ever it was it was it was not from this planet i can assure you.The sky was very clear and i was not under the inflence of any medication drugs or alchol.I'm still in shock about the whole thing.My boyfriend was with me at the time but he was driving while i was gazing through the sub roof.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57864.html](http://www.nuforc.org/webreports/reports/057/S57864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
