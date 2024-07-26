@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:40 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bolton (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Bright red lights, fading in and out, white light could be seen flashing aound the object, object moved sharply and quickly,no soundIt was about 1:20 am on Monday July 26, 2004. The night was very clear. I went to lock the back patio door when i noticed a red light over a tree line behind my house.  I didn't think anything of it when i first saw the object but became curious when i noticed that there were flashing lights on the object.  Although i realize there are lights on such things as aircrafts it caught my attention because the object was stationary or "just floating" like a wieghtless object. The lights were a bright red.  They would also fade in and out and a bright white light would be present. The object was a little  distance away so i could not observe it's exact shape.  From the different angles which i saw the lights from it seemed to be a fair size.  After observing the object for some time a few strange things started to happen.  As i stared at the object it seemed as there were flashes of light on the treetops.  This may be a result of me starring at these lights for some time.  Another strange thing that occured after about 15 minutes of observation was that all the silouhettes from houses andtrees seemed to dissappear and all that could be focused on was the lights.  it was almost as if i was being hypnotized.  the only way i could see the houses or the treetops were if i closed my eyes or looked away for a few seconds but they would dissappear shortly after.  This may not have been due to the object but i observed a very faint flashing white light.  There was no solid light (one that was on for any duration of time) but it would appear and dissapear every few seconds.  The object was statonary for about 15 minutes and then the most amazing thing happened.  It started moving in very eratic patterns without a sound. It would be siting there and all of a sudden it would move up and down then stop.  It would move diagonally and turn so sharply that it amazed me. I was scrambling around looking for binoculars or a camamra all of which my parents took with them on vacation.  All i remember feeling was a little frieghtened but also amazed.  Although i am strong believer in UFO's this is my first encounter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38336.html](http://www.nuforc.org/webreports/reports/038/S38336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Iola (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I WAS SITTING ON MY CARPORT WHEN I LIGHT CAME SHINING THROUGH THE TREEI WAS SITTING ON THE CARPORT SMOKING A CIGARETTE ABOUT 11:30 PM. WHEN A BRIGHT LIGHT CAME SHINING DOWN THROUGH THE OAK TREE THAT STANDS ABOUT 20 FEET AWAY.  IT WAS BRIGHT ENOUGH TO CAUSE CLEAR SHADOWS ON THE GROUND OF THE LEAVES AND LIMBS IN THE TREE.  THE LIGHT MOVED TOWARD THE CARPORT AND THEN WENT OFF.  I HEARD NO NOISE OF ANY KIND TO SUGGEST THAT IT WAS A AIRPLANE OR HELICOPTER.  I LIVE IN THE COUNTRY SO ANY NOISE WOULD HAVE BEE APPARENT.  I THEN WALKED OUT INTO THE DRIVEWAY AND LOOKED AROUND THE SKY ABOUT 3 - 5 MINUTES LATER I HEARD A SONIC BOOM OFF IN THE DISTANCE.  WHETHER THAT HAD ANYTHING TO DO WITH THE LIGHT, I DON'T KNOW.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13604.html](http://www.nuforc.org/webreports/reports/013/S13604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
