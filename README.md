@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:59 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:42 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>North Myrtle Beach  Brillant StarburstI was sitting on the balcony at a resort looking out over the ocean in North Myrtle Beach around 9:30 pm.  It was a perfectly clear night, the Moon and North Star seem tiny in comparison to what I witnessed. A Brilliant white starburst flashed on (no sound) high in the sky out in the distance over the ocean starting on left that flashed horizontally from left to right several times leaving a bright white trail in between where it started and stopped that left a starburst on each side when it stopped at the exact same distance each time. I felt as though it was “scanning something.”  Then it stopped exactly on the left where it first appeared with the same huge white brilliant starburst light and disappeared as quickly as it appeared.  Within seconds a falling star leaving a small burn out trail of red/blue/green appeared out of the same direction caught my attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158252.html](http://www.nuforc.org/webreports/reports/158/S158252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>bright white object at high rate of speed vanishesI was standing outside the sky was clear I looked up towards the southwest and I noticed a very bright light.  It moved at a high rate of speed definitely was not a terrestrial aircraft.  As it moved from southwest to northeast heading it was at its brightest for about 30 seconds then got dimmer, at about the 45 second mark it began to fade complete vanishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100526.html](http://www.nuforc.org/webreports/reports/100/S100526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
