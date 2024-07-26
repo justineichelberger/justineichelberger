@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Concord (NC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Me and a long time fire were walking out to his car and I saw this amber light an brought it to me buddies attention.  He thought it was a plane but he watched it vanished after I ran to get a pair of binoculars.  When I came back it was gone.  So we watched again.  And another one came across the sky.  This time I got the binoculars up on time to see it.  It was an egged shaped object.  I saw it for about two seconds, long enough to indentify it as that shape. I tried to get my friend over to see it in the binoculars, but by time he made it over, it had flickered out.  We both sat there for about 10 minutes, waiting on it to come back, but it never did.  I know for a fact what I saw wasn't a plane or helicopter of any thing I've ever seen. I'm not sure what else to say but I'm still in shock.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111871.html](http://www.nuforc.org/webreports/reports/111/S111871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately ALL NIGHT - ALL NIGHT minutes.</sub><blockquote><sub>I saw these lights last night 7/25/04 so I grabbed my binoculars and what I saw was amazing, looks like a cluster of dancing lights, blue, red, yellow from the naked eye it looks like a twinkling star but when you look closely you notice strange light colors red blue yellow.Kind of what a police cars lights look from far away.Tonite we saw 2 more. The lights seem stationary but with binoculars you can see they are a cluster of small round lights swirling around.  I live only minutes from Sacramento. I will keep everyone informed if they continue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38331.html](http://www.nuforc.org/webreports/reports/038/S38331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
