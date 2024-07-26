@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wildwood Crest (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I dont believe what i just sawfast moving object southwest to northest made sharp left turn cut back at a 45 and shot forward then disappeared triangle shaped  brother saw same thing  lightning storm rolling in  very quick moving clouds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71313.html](http://www.nuforc.org/webreports/reports/071/S71313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Florence (near) (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 yellow/orange to orange/red, round to oval shaped lights in NE sky near Florence, Ky. hovered then returned in the NE direction.While walking one of my dogs, I noticed 3 round to oval shaped lights, all varying from an orangish yellow to orange red in color, in the Northeastern sky moving Southwestward toward Mt.Zion Rd. area near Florence Key.  A larger one appeared to be in front or closer as they moved.  They stopped an hovered a minute or so. During that time the two smaller lights in the back moved toward each other seeming to touch.  They then separated an one, then the other following, took off northeast in the direction they came and disappeared from sight.  The larger one hovered a few more seconds then also took off  in the same direction of the other two. No sound was noticed.  It was at this time I attempted to take a picture with my cell phone and just caught a blurred glimpse of the orange light.  On the camera screen it appeared more as a streak or angled line of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100511.html](http://www.nuforc.org/webreports/reports/100/S100511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
