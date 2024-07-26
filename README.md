@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Glowing red sphere traveling across night sky.I watched a red sphere travel across the night sky; a solid glowing red object going from north to south. The object then faded and abruptly disappeared. The object was traveling smoothly across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111913.html](http://www.nuforc.org/webreports/reports/111/S111913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bensenville (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 8:07am looking east towards O’Hare airport, I seen two objects in the sky.It was a sunny morning with some clouds in the sky . The objects were without cloud cover.Looking up I seen two objects reflecting the sun from the top of the objects ,from the bottom they appeared to be  invisible.  One object was reflecting light for 5minutes while staying in one  position. Object number two moved from parallel with object one  to a position what seemed 45 degrees down to the right, this same object would lose reflection and regain reflection maybe Four times.  Both objects appeared to be hovering in position.  There were planes in the area ,and  the objects seemed to be twice as high as the planes in the sky.  After five minutes the reflections In the sky were gone.  During this sighting the clouds in the background helped determined The objects were in one position. Both ojects also shared the same cirlce shape.July, 26th, 2010((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76795.html](http://www.nuforc.org/webreports/reports/076/S76795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
