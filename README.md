@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Apollo (PA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.8571428571428571 - 0.8571428571428571 minutes.</sub><blockquote><sub>Craft seen flying over star gazing party in a small town in PA.I was at a star gazing party at my local park, and as I was looking up at the stars and planets, I saw a cone shaped craft flying through the sky.  It was striped.  The colors where bright orange and silver.  It did NOT burn up like a shooting star, it was moving in a straight direction.  After 6 or 7 minutes it spun around a few times then vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147874.html](http://www.nuforc.org/webreports/reports/147/S147874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Daytime sighting on busy freeway, UFO landed.Hello, I am a 27 year old truck driver and My wife is a Registered nurse, we had a sighting a couple sundays ago. This is the first time we have ever seen a ufo. I was driving my wife to work on Loop 1604 West in San Antonio Texas, Sunday July 27, 2008 at about 13:10. I was driving and she was looking outside the passenger window.  The sky was blue, no clouds in the sky, very sunny. She said she had seen this object  flying to her right, about 200 feet up. She said she watched it for about a minute before she realized she didn’t know what it was and told me to look at it.  It was hard to see at first because it was sliver and was like a flat egg, it blended in so easily to the sky but I did finally see it and we watched it accelerate to a very fast pace and then slow down again, at this point it was in front of us, over the freeway. Then it continued a steady pace to our left, and landed.  It went straight down to land, not like an airplane.  I wanted to exit and look for it but my wife did not want to. So we drove on.  It was not a helicopter and it was not an airplane.  We did not see any markings on it.  We did not take any pictures with our phones, when it was happening we were in such disbelief that we didn’t even think of takings pictures of it.  This happened before the 281 highway exit on 1604, it landed behind a Shopping center. We do not think it was a remote control toy because of the distance it was traveling, the height and the speed is unlike anything we have ever seen.  This location is not near any military base.Has anyone else reported seeing this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65185.html](http://www.nuforc.org/webreports/reports/065/S65185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
