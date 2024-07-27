@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Incline Village (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright yellow round object with orange and purple tail seen over North Lake Tahoe.I was driving down Mt Rose Hwy, and saw what I thought to be a helicopter with a search light through the pine trees.  I rolled down the window to the vehicle, and didn't hear the typical helicopter noise.  The US Coast Guard has a station here, and I've seen and heard their helicopters many times, and quickly dismissed this as a one.  I came to a clearing in the trees, and got a closer look at the object. It was coming from the west over Crystal Bay on the north shore of Lake Tahoe.  It was round in shape, yellow/orange in color, with a long orange and purple fiery looking tail. It made no noise.  For a moment it almost looked like two separate objects.  It was moving slower than any aircraft that I've seen, and was heading southeast in what appeared to be a downward motion.  It then disappeared into the forest.((NUFORC Note:  Space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128846.html](http://www.nuforc.org/webreports/reports/128/S128846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Milford (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>We live in a farm.  Was outside above house and barn about ten feet above barn hovered in silence and then moved approx 3 miles an hour with a buzzing sound like a blimp almost.  Had three white lights and one red beneath them.  Flashing.  Continued to move towards New York for twenty minutes.  At same pace.  Only 69-75 feet above ground.  Very quiet very slow and eerie.  I videoed it for two minutes but my cell phone only shows black fuzz with a little sound for one second.  Very strange.  Very awesome.  Not sure what it was.  But it's a very clear starry night tonight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128773.html](http://www.nuforc.org/webreports/reports/128/S128773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
