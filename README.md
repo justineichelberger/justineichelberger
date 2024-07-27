@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:23 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kannapolis (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Well me and my other friend was looking up and saw a star moving across the sky at first I through it was the ISS but I checked it and it was over South America it was not a shooting star because it didn't go away I don't know what it was but it was in orbit and was really small and moving very fast. ((NUFORC Note:  Date may be flawed.  The date of the alleged sighting, we suspect, may have been August 27, not July 27.  We have attempted to contact the two witnesses via telephone, but unsuccessfully, to date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112961.html](http://www.nuforc.org/webreports/reports/112/S112961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Steady green light shot down from the heavens and to close proximity to the ground (seen from my car -perhaps half a mile - 2 miles  away?)- above trees. I was travelling east approaching The Junction shopping centre and the light came down around Phoenix Lake Area, not far from Lyons Bald Mountain. It was an emerald green colour, not too bright and very different from anything I have seen before. Acted in a controlled way, stopping before hitting the fround on the horizon. I was travelling to work so couldn't stop and look further. I turned off the raod and went away from the area it came down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57870.html](http://www.nuforc.org/webreports/reports/057/S57870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
