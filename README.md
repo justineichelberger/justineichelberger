@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:46 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw a large ball of light traveling West to East in Livermore.A large, bright light was traveling fast from West to East in a smooth trajectory, but seemed to be falling.  It had a trail of some kind, such as what you see come out of a jet.  There were no lights on it and it seemed to be burning.  There was no sound associated with it.    My husband and I have seen meteorites and satellites, but nothing this large and bright.  We were afraid that it would land nearby and cause damage of some kind, as it appeared to be under the clouds.((NUFORC Note:  Space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128826.html](http://www.nuforc.org/webreports/reports/128/S128826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in East Setauket (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Port JeffersonMy friend and I were sitting on the beach of conscience bay on the Strongs Neck side facing the west-southwest. The bay is about 400 meters across with 40-50 foot trees on either side.  I noticed a small red dot pop straight up on the horizon from the west-southwest that was not blinking, but thought nothing of it, believing it was just a plane.  It was like a small red star or just the light of a plane.  It appeared to be a plane miles away, and it appeared to be about 20 degrees above the horizon, or a few degrees above the trees.I noticed it started to wiggle left and right and I figured it must have been closer than I thought and might fly over the bay soon.  I mentioned it to my friend and he looked up and saw it wasn't doing anything, so he ignored it.The red dot hung in the same position for about 2 minutes, and then suddenly it changed color from red to orange.  This got our attention.  A few seconds later, it appeared to become 40 times the size as before, like 40 times the size of a bright star, or 1/4th the size of a full moon in the sky, appearing to travel miles closer to us almost instantaneously.  It looked like a small sun at sunset due to its orange color.  In this same second, it traveled a short distance so rapidly to the right (north) that it appeared to blur the whole distance, and then in the next second it appeared to travel back from where it came from (west-southwest) and became a small red dot the same size it was when it first appeared, and then about a second later it became a very tiny dot and a second later was completely gone.  It appeared to do this just above and beyond the trees on the other side of the bay.My friend stood up from where he was sitting in shock gasping for breath because he was in such disbelief. He had the wind knocked out of him.  I just sat there in disbelief.  The object was so bright the dot was still in his eyes, although I don't believe I experienced that effect.  Either way it was the strangest experience I've ever had and couldn't have possibly imagined actually seeing something like that in real life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82824.html](http://www.nuforc.org/webreports/reports/082/S82824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
