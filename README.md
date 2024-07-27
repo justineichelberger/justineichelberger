@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Brighton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright reddish light floating randomly, no sound or flashings.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142437.html](http://www.nuforc.org/webreports/reports/142/S142437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Castlegar (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>The object seemed to stop about halfway across the open sky.The most bizarre one though was in the summer - late July 2001. I was sleeping outside with my two kids - 10/6 under the stars in the back yard. We have a very private backyard - lots of trees/terraces and up against the mountain. The view from the yard is great, with the lake and the City below. It was totally clear warm mid-summers night and we looked at the various constellations and spotted satellites and fell asleep at about midnight.I woke up in the middle of the night - about 2:00 a.m., and immediately had a notion for whatever reason to turn my head and look to the north. I saw what appeared to be an extremely bright object traversing the sky in a north to south direction. I thought at first it was an extremely low satellite as it had no flashing lights whatsoever, just a continuous bright light like a streetlight again at about 100 yards or so. But it was so bright I wasn't really sure what it was. There was no noticeable noise. All of a sudden after watching for about 8-10 seconds, the object seemed to stop about halfway across the open sky, and either slowly went out - just like turning off a TV that is heated up - the light/picture goes very rapidly smaller, or it just took off at an extreme speed in the opposite direction. This all took place in a span of maybe 15 seconds. When it "disappeared", my daughter who was unbeknownst to me awake and obviously observing the same thing, commented "Dad, what was that" and "I'm really scared right now". I also experienced a very odd sensation right after the sighting. It felt eerie to me. Almost a feeling of dread. We all went quickly inside the house that night - ending our big camp-out. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for the report.  The date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35491.html](http://www.nuforc.org/webreports/reports/035/S35491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
