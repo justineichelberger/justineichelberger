@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:20 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wheaton (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>It was fast and silent.I was standing next to my car looking up in the sky, and all of a sudden, a triangular shaped object passed by real fast and silent.  It had to be about 500 feet up in the air.  It had like green lights on its under belly that just floored me because it was going so fast and was so silent that you could hear a pin drop before you got a sound out of this craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128904.html](http://www.nuforc.org/webreports/reports/128/S128904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Glassboro (NJ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Green and yellow lights in Glassboro, NJ.Look like in the video that I took was egg shape with a face and two eyes turn yellow and green did not move</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158058.html](http://www.nuforc.org/webreports/reports/158/S158058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
