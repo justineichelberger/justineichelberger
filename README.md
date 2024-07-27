@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:23 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Steady green light shot down from the heavens and to close proximity to the ground (seen from my car -perhaps half a mile - 2 miles  away?)- above trees. I was travelling east approaching The Junction shopping centre and the light came down around Phoenix Lake Area, not far from Lyons Bald Mountain. It was an emerald green colour, not too bright and very different from anything I have seen before. Acted in a controlled way, stopping before hitting the fround on the horizon. I was travelling to work so couldn't stop and look further. I turned off the raod and went away from the area it came down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57870.html](http://www.nuforc.org/webreports/reports/057/S57870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lexington (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White light witnessed from aircraft is seen traveling at an extremely high speedThis sighting occurred on Sunday, July 27th 2008 at 10:39PM EST. The object was witnessed aboard a McDonnell Douglass MD-82 twin jet aircraft traveling eastbound at 33,000 feet and 497 knots. At the time of the sighting the aircraft was at latitude 37.87 and longitude -79.79, placing the aircraft between Covington and Lexington, VA. The aircraft was in radio contact with the Washington Air Route Traffic Control Center (ARTCC), and traveling between the waypoints ASBUR and DENNY on jet airway 42 (J42).The object was witnessed off of the left side of the aircraft traveling north (right to left) at an extremely high velocity. The object appeared spherical in shape and bright white and glowing in color. The object appeared to leave some sort of contrail, which may have been a distortion of light due to speed. The object contained no other sources of light typically found on civilian aircraft. The object disappeared from horizontal view within 2-3 seconds, moving at a speed much greater that that of an approaching opposite direction jet aircraft. The object had an apparent size of 1/4 the circumference of a full moon, and looked similar to a shooting star or meteorite. Size relative to the aircraft could not be determined. The object appeared to be between 35,000 and 38,000 feet, 2,000-5,000 feet above the aircraft. The trajectory of the object resembled an ascending arch.According to NASA’s website, the International Space Station was not in the area at the time of the sighting. Other aircraft were also in the vicinity at the time. The object was witnessed by a more than one person, including trained observers.((NUFORC Note:  We spoke with this witness via telephone, and we deem him to be an exceptionally good witness.  Witness provides no contact information.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64834.html](http://www.nuforc.org/webreports/reports/064/S64834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
