@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White light orb with long vapor trailObject was witnessed by myself only as I was driving home.  Location is east Austin.   Duration was just a few seconds before it disappeared out of view.  Object was a white light sphere.  Very bright.  Perhaps the size of a van or SUV.  It was not strobing like other spheres I have encountered.  Just a solid white orb traveling basically horizontal, maybe slightly angled downward.  Flew from west to east.  Was no more than an 8th of a mile away and perhaps 600 feet above ground level.  What made this orb unique from all the other orbs I've witnessed (I've had more than a few UAP encounters) was that it had a fiery orange/red vapor trail behind it.  This thing was moving very fast like I said it was only visible for a couple seconds, but I knew right away that it wasn't any conventional aircraft or pyrotechnics display...  And it was totally silent as per usual.((NUFORC Note:  Source of report provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128851.html](http://www.nuforc.org/webreports/reports/128/S128851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Playa del Rey (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I saw this happen one time before but never reported it but Wed night I was star gazing and a really bright light turned on and then off in the sky.  This time it happened around 15 min apart but in the same place with same effect.It was a clear night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76892.html](http://www.nuforc.org/webreports/reports/076/S76892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
