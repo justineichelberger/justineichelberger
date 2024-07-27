@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in West Babylon (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A circular object that was spotted in NY.Me and my cousin were recording some nasty weather when I say a flat circular object flying east of our direction. It was up real high at cloud level and seemed to be lowering in altitude and was swiviling in a clockwise direction I have it on video and I want expert annalist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45290.html](http://www.nuforc.org/webreports/reports/045/S45290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bonney Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>3 amber red lights rotate 360 degrees with bright with light to the left remaining stillFacing a tree line in front of mt. Rainier 3 large glowing amber orbs in a triangular shape appeared with a small bright white light to the left.  The lights hovered for approximately 30 seconds, then just the triangle pattern of orbs rotated counterclockwise in a 360 degree circle with the white light still.After the rotation the amber lights faded quickly into the clouds and the smaller white light slowly faded downwards.there are three witnesses to this event((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91243.html](http://www.nuforc.org/webreports/reports/091/S91243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
