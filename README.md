@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 26 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>White light moving at extremely high speed and left a streak for a brief time of only seconds.A low object emitting white light was spotted flying over my house last night in Staten Island NY at extremely high speed.  It occurred after I heard a strange noise coming from my driveway.  As soon as i was done investigating the sound i turned around and that is when I saw the white light.  It had to be under 1500 feet because the clouds were low last night and it was visibly flying below the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111882.html](http://www.nuforc.org/webreports/reports/111/S111882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw a large ball of light traveling West to East in Livermore.A large, bright light was traveling fast from West to East in a smooth trajectory, but seemed to be falling.  It had a trail of some kind, such as what you see come out of a jet.  There were no lights on it and it seemed to be burning.  There was no sound associated with it.    My husband and I have seen meteorites and satellites, but nothing this large and bright.  We were afraid that it would land nearby and cause damage of some kind, as it appeared to be under the clouds.((NUFORC Note:  Space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128826.html](http://www.nuforc.org/webreports/reports/128/S128826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
