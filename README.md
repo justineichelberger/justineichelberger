@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 27 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bonney Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>3 amber red lights rotate 360 degrees with bright with light to the left remaining stillFacing a tree line in front of mt. Rainier 3 large glowing amber orbs in a triangular shape appeared with a small bright white light to the left.  The lights hovered for approximately 30 seconds, then just the triangle pattern of orbs rotated counterclockwise in a 360 degree circle with the white light still.After the rotation the amber lights faded quickly into the clouds and the smaller white light slowly faded downwards.there are three witnesses to this event((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91243.html](http://www.nuforc.org/webreports/reports/091/S91243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Quetico Provincial Park (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately thirty minutes - thirty minutes minutes.</sub><blockquote><sub>Three evenly spaced, very bright white lights in Eastern sky over Quetico Park that pulsated.I was on a canoe camping trip last week, deep in the wilderness, with my wife and kids.  I was woken up by something really bright--saw three bright lights in the Eastern sky, evenly spaced, but absolutely not moving.  They seemed to me to be too low in the sky for a satellite, plus they were stationary.  The spacing, at that distance, seemed too bright for any manmade object I am familiar with (geosynchronous orbit).  After ten minutes the three lights began fading and glowing randomly, and continued doing so for over thirty minutes. When it went dark you could still see a sort of halo around the area, then the lights woud pulse back on--but not all at once, they sort of followed each other in their pulsations.   I went to sleep, too tired to continue watching.  I initially thought it might be the space station, solar arrays rotating in the sunlight, but then I found out later the space station orbits the earth and would have been moving--this held position! .  My wife and kids saw the whole thing, and my daughter saw it again the next night.  If I had to guess at a location it would be 60-80 miles south of Atikokan, ONT.  Still, it could have been a man-made object I suppose.  But it was unusual enough that I have been doing a little websearching on this subject and now I am not so sure it was man-made.  I did hear a commercial jet aircraft fly by at the time north of my position.  Maybe they saw it too. I screwed up by not filming it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Expresses preference to not be contacted.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71519.html](http://www.nuforc.org/webreports/reports/071/S71519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
