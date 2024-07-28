@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cape May Court House (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two large brightly lighted UFO's seen by three in southern NJCo-worker of mine described incident that happened on Thursday 7/28/05 he and his sister and another male friend were traveling south about 30 mph on Route 47 about 30-45 min. north of Wildwood,NJ near Cape May Court House when they noticed two objects very large about 150 ft above highway.  He said the white lights were as bright as "stadium lights" and the objects looked like a huge "two by four" with lights in the center and on each end. The lights were so bright they could not see the shape of the vehicle. One of the objects was stationary farther back and the closer one was moving across the highway and came to a stop above their car.  They did not hear any sound and they became very nervous and accelerated away from the objects and continued to observe them out the rear windsheild of the car.  They also noticed the other object starting to move and went parallel with the other object.  About a minute later they saw a police cruiser with it's flashing lights on heading north at a high rate of speed towards the UFO.  There were three cars behind the observers car also heading south but no cars heading north during the time of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45436.html](http://www.nuforc.org/webreports/reports/045/S45436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a blinking object in the sky which quickly appeared and disappeared.I saw a blinking object in the sky appear and disappear in matters of seconds.((NUFORC Note:  For some reason, the sour of the report that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91268.html](http://www.nuforc.org/webreports/reports/091/S91268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
