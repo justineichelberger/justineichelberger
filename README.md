@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:30 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cigar-shaped ship.  Glittery lights and strange orange lights.I looked out the window toward the east, toward the Boise foothills, there were two glittery white lights doing a zigzag pattern in the sky.  They were very high up and moving fast.  I kept watching them and they started to get lower in the sky.  As they came down they were large, maybe 20 feet around and moved off toward the foothills to the east, they finally disappeared.  I kept watching for them to come back when a large cigar shaped ship appeared near the same foothills going west to east, the ship was long, maybe 20 feet around and glittery white.I watched it for about one minute and it vanished out over the foothills.I thought I would look out the bedroom window that faces south and saw two pale orange lights above a tree in our neighbors backyard close to our fence.These lights were about 12" in diameter and 20 to 25 feet high and going in and out of the heavily leafed trees.  These lights each had two pale white beams of light, and it looked like they were searching for something. I quietly opened the window and there was no noise from these lights/small ships at all, they were totally quiet. I started to close the window and the lights froze, like I had been spotted.This scared me a little, so after closing the window and blinds, I opened one single blind just a little to watch them, and they had started moving again, with no sound whatsoever. Then the light vanished into the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142454.html](http://www.nuforc.org/webreports/reports/142/S142454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Rogerville (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ONE LIGHT IN SKY COMING OVER HILLTOP STOPS THEN SPLITS IN TO TWO LIGHT SIDEBY SIDE THEN IN A SPLIT SECONT ONE ON TOP AND ONE ON BOTTOM  BLINKING AT SAME TIME  THENSTARED BLINKING AT OPPITICE TIME WITH NO SOUND AT ALL WE SHINED LIGHT AT OBJECT IT STARED BLINKING AT THE SAME TIME THEN IT TOOK OFF BOTH MY SON AND BROTHER COULD NOT STOP YELLING ABOUT IT IT CAME THE WEST AND LEFT NORTHEAST IT WAS ONE IN THE MONING JUST GOT DONE FISHING</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12273.html](http://www.nuforc.org/webreports/reports/012/S12273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
