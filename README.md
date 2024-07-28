@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:06 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tulare (close to, on I-5) (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were driving north on Interstate 5, around Tulare,CA. We saw something flying in the sky with three big lights, like spotlights. The craft was rectagle shaped. It did not appear to have a tail or a front, though it did have 2 small red lights on the side. It swerved in the sky,going up(not too high) and dipping almost to the ground over the empty fields then it flew over the interstate low to the traffic. Turning around and doing the same thing on the other side of the interstate, again crossing over low to the traffic. It did this 4 times then we drove past it. After about 5 minutes we saw the craft again in the field to the left of us, again swerving up and down toward the ground then it crossed in front of us, turned in the field and headed towards the car flying just over the length of the van. We did not hear any noise coming from the craft. The color of the craft seemed dark other than the lights showing. We saw only the one craft at a time.Full description is the same as the short description. Witnesses were a mother and 13 year old daughter who were quite mesmerized by the experience and kept trying to follow it. We did not stop, nor did other vehicles around us.  The second time when we saw the craft, when it came towards us we were the only vehicle on this section of the Interstate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04314.html](http://www.nuforc.org/webreports/reports/004/S04314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Troro (MA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1 frame - 1 frame minutes.</sub><blockquote><sub>Is this a UFO???The UFO was seen in a photograph taken on the beach.  In the sky, above the ocean a small grey teardrop/triangle shaped object can be seen in the upper right corner of the photo.  None of the observers are farmers, rednecks or from the south period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30610.html](http://www.nuforc.org/webreports/reports/030/S30610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
