@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>'Star' close to The Plough fades to nothingI like to gaze at the small patch of sky visible from my backyard and I'm reasonably familiar with the star patterns as they change throughout the year.  Looking in the direction of The Plough I noticed a star in close proximity to that constellation, in a location where none would be seen.  It was approximately the same brightness as the stars comprising the Plough.  I watched it for about five seconds as it dawned on me that it can't be a star, whereupon it gradually faded to nothing, taking about another three seconds to do so.  I was hoping to see it move but it remained absolutely stationary for the whole time.  No big deal as sightings go, but I thought I'd commit it to posterity in case someone else saw it too and can provide more information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76851.html](http://www.nuforc.org/webreports/reports/076/S76851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange light over Flint Mi.Sunday July 28th at 1:30 am in the skies over Flint Michigan I saw a very bright light straight over head.  It was too big to be a satellite and it paused overhead and then started moving east. It disappeared after a few seconds of travel.  It was larger than a satellite or the ISS. I’ve seen both and this was not the same. I had seen a shooting star 5 min before seeing this object. I also saw a BRIGHT flash in the sky “Like Lightning “butt the sky was crystal clear.  It seemed very large and at a very high altitude. ???  It was an exciting experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100582.html](http://www.nuforc.org/webreports/reports/100/S100582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
