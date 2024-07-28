@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange light over Flint Mi.Sunday July 28th at 1:30 am in the skies over Flint Michigan I saw a very bright light straight over head.  It was too big to be a satellite and it paused overhead and then started moving east. It disappeared after a few seconds of travel.  It was larger than a satellite or the ISS. I’ve seen both and this was not the same. I had seen a shooting star 5 min before seeing this object. I also saw a BRIGHT flash in the sky “Like Lightning “butt the sky was crystal clear.  It seemed very large and at a very high altitude. ???  It was an exciting experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100582.html](http://www.nuforc.org/webreports/reports/100/S100582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>bright white later yellow and blue light hovering over Fraser River for several hours from Surrey, CanadaOn Friday July 28 my wife and I were loking through our west facing window towards Vancouver from Surrey, over the Fraser River.  We noticed a highly powerful bright white glowing ball.  We got out the binoculars and was able to view 4 balls tightly compacted.  The light appreared to hover for at least 1/ hour before I alerted the neighbors who agreed that the light(s) were very unusual.  Upon further viewing the lights slowly moved N.W. and grew smaller.  We thought it would go away but within 15 minutes it came back to it's original location where the balls began to turn yellow, green, blueish purple.  It stayed hovering for so long that we finally decided to go to bed at 01:00.  The following morning a neighbor (that we did not speak with the night before, came by and brought up the strange light of the prior evening.((name deleted)) Surrey, British Columbia, Canada</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51786.html](http://www.nuforc.org/webreports/reports/051/S51786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
