@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mims (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple different "what look like stars" blinking then moving very slow in different directionsMe and my girlfriend were watching a meteor shower (Southern Delta Aquarids)  We saw about 10 shooting stars.  So while we were watching all this I see what I thought was a star blink like 3 or 4 times really bright then it started moving not fast like a shooting star but almost like it was cruising with very smooth motion, no way it could be a plane,  Then my girlfriend pointed out 2 other "stars" began moving as well all in different directions.  We watched one of them go from north to south for about 10mins before it was out of site.Very very strange and interesting enough we went out 2 weeks ago to Melbourne Beach and and saw like 5 of these but I never reported it but now that we have seen this twice I am very concerned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91248.html](http://www.nuforc.org/webreports/reports/091/S91248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rawlins (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Looking East, a ball of light, bigger than Jupiter, hovered in the sky above the mountains.  The object/light then darted straight up, then down, then left and right, back to its original position.  The light then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147875.html](http://www.nuforc.org/webreports/reports/147/S147875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
