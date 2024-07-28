@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 37.0 - 37.0 minutes.</sub><blockquote><sub>Diamond shape hovering over mountainsI had gone on a roadtrip from El Paso, Texas, to Denver, Colorado with my mom, sister, and her friend. It was between 3:00 am and 3:37 am that I had seen what looked like a shooting star; it a lit up the sky for a good couple of seconds.  Fascinated, I kept watch in the sky.  A couple of minutes later, I noticed that there was what looked like a huge diamond shape with an outline of stars/lights hovering just above the mountains.  It stayed completely still;later I lost sight of it then it appeared again but now was in a different position.  So I did some research and I came across your website and found a ufo sighting report that was very similar to mine; the Bayfield, Colorado Report of Sunday May, 8th, 2011.  I looked into it and that sighting was reported to be ALSO over the mountains.  I'd say that I was probably in the same spot the people from the other ufo sighting were; just on the OTHER side of the mountain.  I was really shocked to see the picture from the! report was so disturbingly similar to mine; I drew out what I saw on a piece of notebook paper (didnt have a camera).  It was an exhilarating experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82907.html](http://www.nuforc.org/webreports/reports/082/S82907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mims (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple different "what look like stars" blinking then moving very slow in different directionsMe and my girlfriend were watching a meteor shower (Southern Delta Aquarids)  We saw about 10 shooting stars.  So while we were watching all this I see what I thought was a star blink like 3 or 4 times really bright then it started moving not fast like a shooting star but almost like it was cruising with very smooth motion, no way it could be a plane,  Then my girlfriend pointed out 2 other "stars" began moving as well all in different directions.  We watched one of them go from north to south for about 10mins before it was out of site.Very very strange and interesting enough we went out 2 weeks ago to Melbourne Beach and and saw like 5 of these but I never reported it but now that we have seen this twice I am very concerned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91248.html](http://www.nuforc.org/webreports/reports/091/S91248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
