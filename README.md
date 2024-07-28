@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a blinking object in the sky which quickly appeared and disappeared.I saw a blinking object in the sky appear and disappear in matters of seconds.((NUFORC Note:  For some reason, the sour of the report that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91268.html](http://www.nuforc.org/webreports/reports/091/S91268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3  Moving   Star Sized Lites Grace South Dakota Nite SkyOne person witnessed streak of lite from ground to 30-40degrees from horizon in NW sky 2-5 miles Nth of Soo Falls. Pointed out to 2 others who began to verbally describe activity without dissent.Initial lite observed by this rptr.to be size of bright star; moved horizontally 5degrs. then nolite,then lite observed to be mvoing in opposite direction approx 10 degrs. from former position. 30-90secs.later joined by another lite,then both lites moving up down or sideways-but also doing turns horizontally or sudden reverses of direction;then briefly joined by 3rd lite which streaked in from 10degrs. left of others at which time they maintained respective left right position within 5 degrs. of each other where rptr. said they "played game" or "danced" for 15-20 secs.Then 3 human witnesses reported  sightings to others.  Rptr. 10-15 mins. later observed shooting star streak go thru same sector.Then rptr. saw streak in NE sky as if fixedstar within field of vision accelerated at high speed away from rptr. and out of sight.skipping some detail and others observations,rptr. then went with 2 new observers and 1 orig'l obsvr.when rptr.asked 2 observers which "thing" they were viewing.1 new observer pointed out orig'l "one" which was moving slowly and horizontally lft and rt and compared to approaching airplane with landing lites on.  Airplane getting brighter and brighter and brighter than prvious brite star sized lites and obsever pointed out the unusual horizontal motion of the one as compared to the airplane's path which was predictable and approaching Nth end runway (5 miles out?)then we looked back to horizontal moving lite then rptr. looked back at airplane (formerly 10degrs. right of horz'l moving lite and plane was gone.)Rptr. asked new observer where plane was and observer said didn't know.Plane would have flown overhead but no lites; no sound; no clouds-plane gone.If military,we win.If not,we must be somebody's zoo.(Sometimes objects moved from 0 to very fast without appearing to "accelerate" as most non-! physicis ts would use that term.)Possibly swamp gas or weather balloons that lite up and move fast or don't move at all or move in opposite directions and then disappear.Possibly jet powered helicopters flying close to each other near airport not worried about airport area or flight restrictions or crashing into each other by playing game and flying close but not crashing when lites turned off.((NUFORC Note:  Date may be approximate.  Source elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24302.html](http://www.nuforc.org/webreports/reports/024/S24302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
