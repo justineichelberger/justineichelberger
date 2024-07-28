@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rawlins (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Looking East, a ball of light, bigger than Jupiter, hovered in the sky above the mountains.  The object/light then darted straight up, then down, then left and right, back to its original position.  The light then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147875.html](http://www.nuforc.org/webreports/reports/147/S147875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>spotted fast moving object in the sky that gets larger and brighter than anything in the sky,then quickly disappearsI went outside my house to smoke a cigarette with my girl friend and was looking at the stars, when we saw one that was moving very fast,  it got bigger almost 4x its size from when we first spotted it then became extremely bright, brighter than anything in the sky (like a glow).  The object then quickly disapeared as it was moving higher then just took off and was gone. I know what planes look like and it was not a plane.  The light was big for how high up it was so whatever it was was huge.  The object was moving fast but to slow to be a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76836.html](http://www.nuforc.org/webreports/reports/076/S76836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
