@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Niles (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witness was delivering papers when he saw this disk object come his way. His sister was with him and they got out of the car to take a look. It was about 150 feet above their heads, was a dark disk, that emitted white, orange and red lights.  It traveled very slowly, almost as if it was hovering to gaze below. As soon as it passed over a tree  they lost sight of it. They moved to try to  find it again, but about 5 seconds later, it was gone. Shortly after, they saw a black helicopter travel the same direction.  At the time of the incident they noticed car alarms we re flashing. .1 min. (NUFORC) http://www.nuforc.org/webreports/111/S111957.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139592.html](http://www.nuforc.org/webreports/reports/139/S139592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Busby (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bobbing light object unknownseen behind our house west of busby it was like a light that would dim out then get really really bright at first we thought it was a satallite or a star but as we watched it started moving it would go for like 1o seconds stop then kept repeating that and it looked like it was bobbing up and down it was very high in the sky to high to be a plane and it was a yellow goldish light then continued east near highway 212 by kirby crossing. this is not an unusual sighting for our family every summer we have seen many strange things in the sky like in june we seen a mothership with escort their were 4 ufos moving very very fast within about 30 seconds they were gone.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64858.html](http://www.nuforc.org/webreports/reports/064/S64858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
