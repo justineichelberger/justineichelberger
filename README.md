@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Busby (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bobbing light object unknownseen behind our house west of busby it was like a light that would dim out then get really really bright at first we thought it was a satallite or a star but as we watched it started moving it would go for like 1o seconds stop then kept repeating that and it looked like it was bobbing up and down it was very high in the sky to high to be a plane and it was a yellow goldish light then continued east near highway 212 by kirby crossing. this is not an unusual sighting for our family every summer we have seen many strange things in the sky like in june we seen a mothership with escort their were 4 ufos moving very very fast within about 30 seconds they were gone.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64858.html](http://www.nuforc.org/webreports/reports/064/S64858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Worcestershire (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>slow moving light sped up suddenly made no noisei saw a slow moving glowing light,red/orange in colour,it moved west to east in a straight line,slowing even further,it made no noise at all,it had no flashing lights,when it had passed overhead and got to an angle of approx 45 degrees from us in the west it sped up very quickly and disappeared leaving a light trail.i am a 35 year old nurse,my husband is a 46 year old timber merchant and the 3rd observer was a young man on his way home ,not connected to us,whose car stopped dead,it restarted after the light had gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23978.html](http://www.nuforc.org/webreports/reports/023/S23978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
