@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:24 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White round disk with dark markings and lights seen high over Northern ColoradoA little after 8 PM, I looked up at the sky from my backyard and saw a tiny round white object high overhead, looking like a little moon with dark markings I could not make out.  I grabbed my binoculars for a better look (7x50) and still had difficulty seeing what it was, but it appeared that the dark markings were squared off, and the object had a circle of tiny lights.  I went to the garage to get out my small telescope, but the object by this time was coming in and out of clouds, however, I could see that it was moving eastward, from high overhead toward the eastern horizon.  The sky was still very light.  Now (8:40 PM MDT) clouds have obscured the sky, but I have no idea what this object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142471.html](http://www.nuforc.org/webreports/reports/142/S142471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two blinding lights over torontoI was sitting on my balcony just watching the stars when suddenly out of nowhere 2 blinding lights appeared. At first I thought they were just planes seeing as I live near an airport but after watching them I saw they were hovering in one spot but yet they moved up and down. About 5 mins passed and they were still in the same spots side by side. Then as quick as they appeared they shot across the sky and then straight up and were gone.((NUFORC Note:  Witness elects to remain semi-anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51805.html](http://www.nuforc.org/webreports/reports/051/S51805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
