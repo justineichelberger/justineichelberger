@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Vinton (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>It was Black as night, triangle shaped, with three lights underneath one in each corne  It was the last week in July or the first week of August in 1981. I was only 12 years old.  I have only told about three people of me and my friend’s Experience.  We lived in rural Benton County.  I was spending the night at this friend’s house.  We were going to camp out in a ravine in the pasture behind his house. We went out at around 6:00 PM and had just started a small fire.As we were putting wood on the fire I noticed a big black object in the sky to the west of us.  It was heading in a southward direction.  We were trying to figure out what kind of plane it could be.  When it changed direction and was headed right toward us.  Being kids as we were we started thinking it was the DNR coming to get us for our fire.  (Quite a silly thought now that I am older).  We were trying to put out our fire as it approached we realized this was no plane it was Black as night, triangle shaped, with three lights underneath one in each corner they were like spot lights very bright bluish white light, and one white light right in the middle.  There was no sound coming from this object. And it was moving very slowly between 10 and 15 mph. My friend and I ran up under the tree on the hill. This thing was about half the size of a football field.The leaves on the trees were moving a lot but I can not remember if I could Feel a wind or not. I could see the lights coming through the trees.  The very next thing either of us remembered was running up the hill until we reached the fence, we were scared and nervous.  We watched this object Flying of in a southeast Direction toward Cedar Rapids, and Palo.  We raced to his house and when we entered the clock said 12:07 AM.  Now mind you the place we were going to camp that night is only about a five minute walk to the house and with in sight of the house.  I cannot say what happened in the time between about 6:25 PM and 12:07 AM.I can go with out thinking of this all year but even now 28 years later this occupies my mind in the last week of July and the first week of August.  And here it is I am writing this on July 29th.  I have always been curious if anyone else had seen what we did.  Even living out in the country someone had to have seen this thing.  A farmer in the fields or someone!!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89545.html](http://www.nuforc.org/webreports/reports/089/S89545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glendalemingle Dale (AZ) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>strange lights above Glendale Arizona July 29th at about 11:30 pmvideo taped 2 blueish white objects that seemed to be hovering for about 4 to 5 min then one changed colors and descended rapidly in what appeared to be a downward spiral motion shortly followed by the other object then they fell below the skyline and then reappeared in about the same spot and repeated the motion as before they did this a total of 3 times within the 10 minutes that I noticed them</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100635.html](http://www.nuforc.org/webreports/reports/100/S100635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
