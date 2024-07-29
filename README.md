@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Walking home from the casino at about 12:30 AM, 7/29/11, a flying object was observed in the skies above Detroit, MI.  The object was sphere like and completely silent, appearing relatively close at first as a steady bright amber/yellow light, but gradually pulsating to a deep red color every 10 seconds or so.  The object moved swiftly across the sky moving further away.  It was observed for approx. 45 seconds, I looked away for a few moments, and when I looked back, the object had completely vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82784.html](http://www.nuforc.org/webreports/reports/082/S82784.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On the eve of 7/29/01 I witnessed a huge fireball fly accross the sky while driving So. on a Ft, Lauderdale Florida road.I was driving South on a major roadway in Fort Lauderdale at approximately 23:45 on Saturday, July 29, 2001. In an instant, something caught the attention of my sight in the lower sky just above eye level. I witnessed a large object on fire with a trail of fire behind it shoot accross the sky. At first I thought it was a plane crashing to earth. The 3-5 second span that this object took to fly accross the whole sky canceled this theory. I then braced myself to feel the effect of the impact of such a large object falling towards the earth at such velocity. There was nothing. However, I knew there was Something!!!!!!! This Something I cannot explain. Can you help me???????!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18822.html](http://www.nuforc.org/webreports/reports/018/S18822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
