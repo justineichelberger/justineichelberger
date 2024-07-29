@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4 orbs over ocean at Myrtle BeachWatching the night shy while chatting on our oceanfront balcony, we witnessed 4 circular orange orbs light up one after the other within about a second of each other. The first lit up, then the second and so on. Then as fast as they appeared they went out in the same fashion, with the last going out first and so on. Then about 5 minutes later only 1 lit up for about 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71498.html](http://www.nuforc.org/webreports/reports/071/S71498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver Object, flashing and floating in place. Commercial Flight Altitude.To the West, over the Rockie Mountains, I saw a grey/silver object floating stationary at my best guess around 30,000 ft. It was near commercial flight altitude. Too high for a helicopter, and not moving at all, unlike a flare, missile, or Satellite.It would periodically and randomly flash a bright white light at me, as bright as a super bright iredean flare. Not in any kind of consistent order like FAA lights. Every now and again it looked like the light shown right at me. Atleast in my direction.Over the course of about 10 minutes it started to slowly move off to the North where I couldn't see it anymore.I took pictures and video of the object. I can't see it yet, but I haven't put it in Photoshop to blow it up and clean it up yet. But I did notice 2 round very strange lense blurs on my camera. Almost look like if you were to look down into a cone of water. Only when I shot photo's of the object did these blurs show up...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76852.html](http://www.nuforc.org/webreports/reports/076/S76852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
