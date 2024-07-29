@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:58 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Harrison (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fireball in the sky & it went down into the horizon.On the deck, fireball shot out of the sky, went red to green & then the group could not decide what really happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135426.html](http://www.nuforc.org/webreports/reports/135/S135426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Low flying triangular object over Greenlake, Seattle.Myself and three of my roommates (all college students nearby) were driving through our Greenlake neighborhood, when one of us spotted a low flying object, triangular in shape. It's shape was evident through the triangular shape of three lights on each "point" of the object.  It was flying low, and moving very slowly in some spots, faster in others...the driver tried to follow the object as far as possible, but we lost it about 15 minutes later. Before following the object, myself and another roommate got out of the car to get some pictures. Interestingly, I was not the first to notice the object, but when my roommate pointed it out, I recognized the same shape as a similar object that I had reported over two years earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45434.html](http://www.nuforc.org/webreports/reports/045/S45434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
