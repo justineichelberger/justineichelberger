@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Harrison Twp. (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>star-like object moving stangelyI was in the backyard around 12:30am and noticed something funny in the southwest sky.  One of the stars looked out of place, it was brighter and slightly bigger then the rest of the stars.  Shortly after the star-like object moved slightly north and stopped.  Then it moved slightly north again and stopped.  Then finally it made a sharp arc back south and up into space.  There is no possible way this could have been an airplane the way it was moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33354.html](http://www.nuforc.org/webreports/reports/033/S33354.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gap (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>6 fireballs traveling in Pennsylvania.I was driving east on US Rte. 30 in Gap, PA.As seen in my videos, there are 6 "fireballs" of reddish color traveling northwest in a variety of groupings, in pairs, and then realigning to a triangle (three balls) and the remaining 3 traveling behind in singles.I pulled over on US Rte. 30 and began to film this with my Iphone 4GS.I then contacted two of my friends and drove 1000 feet to them and video taped another short video and they were also present to witness this strange activity.I have videos and would like to know the best way to submit them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91306.html](http://www.nuforc.org/webreports/reports/091/S91306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
