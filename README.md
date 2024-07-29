@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gap (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>6 fireballs traveling in Pennsylvania.I was driving east on US Rte. 30 in Gap, PA.As seen in my videos, there are 6 "fireballs" of reddish color traveling northwest in a variety of groupings, in pairs, and then realigning to a triangle (three balls) and the remaining 3 traveling behind in singles.I pulled over on US Rte. 30 and began to film this with my Iphone 4GS.I then contacted two of my friends and drove 1000 feet to them and video taped another short video and they were also present to witness this strange activity.I have videos and would like to know the best way to submit them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91306.html](http://www.nuforc.org/webreports/reports/091/S91306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Keller (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>12 white dots in four groups of three flying in a coordinated path at high altitude.At 10:00 PM CST (July 29, 2017), my family and I witnessed a flight of 12 objects flying in a formation of 4 groups of 3 objects.  They were flying at a high altitude, and did not have any beacons, strobes, or red/green indicators.  The unknown items were so high, we might not have noticed them, because they looked liked stars at first, but my daughter jumped and said "they were moving".  And wow, they were moving in a coordinated formation and direction (south-southwest).  As there were at least 12 objects, one would have thought there would be engine noise, but none was heard.  I would wonder if these items were observed on DFW Airport, Alliance Airport, or Fort Worth Joint Reserve Base's radar screens?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135443.html](http://www.nuforc.org/webreports/reports/135/S135443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
