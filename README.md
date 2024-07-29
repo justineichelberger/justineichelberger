@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:19 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Balsam Lake (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange ball of light rising above tree line and darting into spaceWe were sitting on the dock at a cabin on the Western side and Southern end of Half Moon Lake.  Across the lake, above the tree line and under the moon, we saw an orange ball rise at the speed of a drone.  We thought it was a drone, until it went higher than any drone could fly. It was about 1/4 the size of the full moon when it rose, much larger than any starts or aircrafts we could see in the sky.  When it rose to the height of an airplane, it moved across the sky to the Southern side of the lake.  It stopped moving or slowed down significantly for at least 7 seconds.  It then suddenly and very rapidly moved East towards Mars (which was visible to us and looked like a very bright star).  It moved as if it was shooting off. It then disappeared as if the light had just gone out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142467.html](http://www.nuforc.org/webreports/reports/142/S142467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kitty Hawk (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights appeared in northern sky in triangle formation, then broke off into separate groups. The lights were bright red, appeared to be round, and blinked.  Once they broke off, they scattered throughout the sky and moved south, fading away in the distance.  No sound.((NUFORC Note:  We assume a nighttime sighting, and have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112027.html](http://www.nuforc.org/webreports/reports/112/S112027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
