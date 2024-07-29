@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver Object, flashing and floating in place. Commercial Flight Altitude.To the West, over the Rockie Mountains, I saw a grey/silver object floating stationary at my best guess around 30,000 ft. It was near commercial flight altitude. Too high for a helicopter, and not moving at all, unlike a flare, missile, or Satellite.It would periodically and randomly flash a bright white light at me, as bright as a super bright iredean flare. Not in any kind of consistent order like FAA lights. Every now and again it looked like the light shown right at me. Atleast in my direction.Over the course of about 10 minutes it started to slowly move off to the North where I couldn't see it anymore.I took pictures and video of the object. I can't see it yet, but I haven't put it in Photoshop to blow it up and clean it up yet. But I did notice 2 round very strange lense blurs on my camera. Almost look like if you were to look down into a cone of water. Only when I shot photo's of the object did these blurs show up...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76852.html](http://www.nuforc.org/webreports/reports/076/S76852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Devon (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Saw three bright lights and 2 smaller lights in the sky with strange zig zag moving patterns, no sound or noice to them.We were parked down a dirt road surrounded by tall grass, some trees, a lot of bats flying around and millions of mosquitoes.  Thats when we saw two bright lights hovering over the tree line.   When they moved they went kinda sideways like a zig-zag pattern, then hover again...  They were slowly heading south and moving higher into the sky. A third bright light came from the west and moved at a steady pace across the sky past the first two and then it seemed to just disappear.  The other two bright lights took almost 2 hours to move slowly upwards as they seemed to be mostly hovering.  No noice or sound at all.  It wasn't until the sun started to rise that the bright lights began to decend higher and higher at a quicker pace, until they were completely out of site.  It's like they disappeared into the sky. I don't know what I saw up there but it was not a plane or a chopper!! We watched them for almost 3 hours straight.  Amazing experience...  what ever they are! !! ((NUFORC Note:  Planets in E sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91282.html](http://www.nuforc.org/webreports/reports/091/S91282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
