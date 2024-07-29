@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Devon (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Saw three bright lights and 2 smaller lights in the sky with strange zig zag moving patterns, no sound or noice to them.We were parked down a dirt road surrounded by tall grass, some trees, a lot of bats flying around and millions of mosquitoes.  Thats when we saw two bright lights hovering over the tree line.   When they moved they went kinda sideways like a zig-zag pattern, then hover again...  They were slowly heading south and moving higher into the sky. A third bright light came from the west and moved at a steady pace across the sky past the first two and then it seemed to just disappear.  The other two bright lights took almost 2 hours to move slowly upwards as they seemed to be mostly hovering.  No noice or sound at all.  It wasn't until the sun started to rise that the bright lights began to decend higher and higher at a quicker pace, until they were completely out of site.  It's like they disappeared into the sky. I don't know what I saw up there but it was not a plane or a chopper!! We watched them for almost 3 hours straight.  Amazing experience...  what ever they are! !! ((NUFORC Note:  Planets in E sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91282.html](http://www.nuforc.org/webreports/reports/091/S91282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Balsam Lake (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange ball of light rising above tree line and darting into spaceWe were sitting on the dock at a cabin on the Western side and Southern end of Half Moon Lake.  Across the lake, above the tree line and under the moon, we saw an orange ball rise at the speed of a drone.  We thought it was a drone, until it went higher than any drone could fly. It was about 1/4 the size of the full moon when it rose, much larger than any starts or aircrafts we could see in the sky.  When it rose to the height of an airplane, it moved across the sky to the Southern side of the lake.  It stopped moving or slowed down significantly for at least 7 seconds.  It then suddenly and very rapidly moved East towards Mars (which was visible to us and looked like a very bright star).  It moved as if it was shooting off. It then disappeared as if the light had just gone out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142467.html](http://www.nuforc.org/webreports/reports/142/S142467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
