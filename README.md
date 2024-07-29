@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 28 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:27 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Egg' over a period of approximately 17:20 - 17:20 minutes.</sub><blockquote><sub>Date July 28 2020 Time was approx 515-520 pm.I saw 3 egg looking possible ufos today. I was going south on wyoming between Academy and Montgomery when I saw what I thought was a helicopter carrying something coming to ward me to the left or east of me over houses...Initially it looked like it had something behind it had something flapping below it was kind of trailing...As it  got closer and I saw it clearly…  It was 3 dark colored egg shapped things about the size and height in the sky as a helicopter.It was going south on the east side of the housing area off Wyoming.  The eggs were fast and quick and moved very soothly and quickly around each other extremely close!  It looked like a dance but probly more security I feel.It was in a straight line of travel but the eggs moved around like the cup game where bet that you can find the ball after the dealer moves the cups all over over under and around...and at constant speed.I saw it for maybe a good minute as I freaked and looked around to see if anyone else was seeing them...  Finally traffic got tight from roadwork and I couldnt look safely behind me.  I got to Candelaria at a red light and quickly looked behind me but saw nothing.My window was down.  I heard no sound of a helicopter, just my radio and cars</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158039.html](http://www.nuforc.org/webreports/reports/158/S158039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Harrison (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fireball in the sky & it went down into the horizon.On the deck, fireball shot out of the sky, went red to green & then the group could not decide what really happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135426.html](http://www.nuforc.org/webreports/reports/135/S135426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
