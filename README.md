@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Triangle Shape In Downtown CharlotteWe were walking in downtown Charlotte near the Bank of America building and snapped a couple of pictures.  After reviewing the photos later, we discovered a triangle appearing shape near the building.  There were 3 “lights” each that have a circular shape lined up vertically with what appeared as a dark shape (point), making a triangle point.   From our memory there was not any noise at all from this object.  The event lasted less than 20 seconds.  I am emailing photos; hopefully you can review and determine what it possibly could have been.  Thanks!((NUFORC Note:  Lens flare, from photographing a bright reflection.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128994.html](http://www.nuforc.org/webreports/reports/128/S128994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cerritos (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Twirling Object Over Buena Park.less than an hour ago i was outside with my binoculars(sp?) and was just looking around then a bright light caught my attention. i cant estimate how far away it was but it was pretty far and really bright outside. i would have to say it was easily over the city of buena park. first it was heading west then it went straight up. while it kept turning around in strange ways. it was big, silver, and looked like it had 1 light on top of it but im very sure it was just the reflection off the sun, but who knows...after looking at it for about 30 seconds i huried and called for my girlfriend and made her look and she saw the same object twirling around and moving west then eventually just went higher and higher until we lost sight of it. i saw another UFO the night before but do to what i saw that night id rather keep it to myself as ive never seen anything like it on the face of planet earth. no photos, videos, or stories that ive ever read or heard have come close to what i saw. the most strangest shape shifting object to ever float in the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57888.html](http://www.nuforc.org/webreports/reports/057/S57888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
