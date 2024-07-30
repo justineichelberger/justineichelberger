@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange flying lights over DIA seen from Thornton, CO.Thornton, Colorado, which is about 20 miles west of DIA.  I witnessed multiple bright orange lights in the sky, headed from what seemed to be DIA, west.  These orange lights were extremely bright silent, and moving very sporadic, and fast. They all disappear. After all objects are gone, every dog in my neighborhood started barking.  These objects look like orange fire circles with no tails.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120772.html](http://www.nuforc.org/webreports/reports/120/S120772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four aircraft circle like vultures then shoot off at great speedsI was watching a plane dump out a chemtrail when I noticed what looked like four "vultures" very high up in the sky.  They were at the very least 4000 ft in the air, yet their shape was quite visible, and unusually large.  They made unusually quick circles for several minutes, then I finally decided to try and film them with my iPhone; and as if it was scripted I kid you not they stopped circling and shot off at an insanely fast speed, one by one.  Of course the noon sun made it impossible to capture via the iPhone 5s, but my eyes (shaded by raybans) saw everything in 20/20 vision.  I wouldn't waste our time with a fairy tale, this was a unique event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112040.html](http://www.nuforc.org/webreports/reports/112/S112040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
