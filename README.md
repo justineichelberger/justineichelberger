@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Troutdale (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Long, flat whitish silver object between Clackamas and Troutdale, Oregon.While driving northbound from Clackamas to Troutdale, Oregon, I witnessed a large, very flat object, hovering in mid air.  The size of the object isn't clear to me, but seemed to be the size of a medium size jet plane.  It was very thin, almost looked flat and was bright white or silver in color.The object seemed to move very effortlessly and was not in any known flight path that I have seen in the area.  It seemed to be gravitating towards other aircraft in the area but never got too close.  I watched for roughly 10 minutes before arriving at a location I could pull over and take a photograph.  At this point I had lost sight of the object for less than 30 seconds, since the last point it went out of view because of trees.  It had completely disappeared upon my arrival to my destination.Was not an airplane or helicopter. Looked nothing like any drones I had ever seen.95 degrees, clear skies and sunny.((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be quite eloquent and sober-minded.  We suspect he is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120749.html](http://www.nuforc.org/webreports/reports/120/S120749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>07-30-03 19:00 CST 15 miles South of Birmingham on I-65   I was tailing a friend on the way back to Montgomery, AL following a trip to Birmingham to help him move his belongings. Heading South on I-65 approximately 15 miles below Birmingham, I saw what I first presumed to be a short contrail at 2'o-clock [it was still daylight]. I looked again and noticed it was a perfect rectangle shape, like a flat non-reflective white 2-by-4, and seemed suspended in air - - no movement. It seemed huge. If it was a single-level passenger craft, it was designed for an average passinger height around 12 feet tall. As my friend was on his cell phone, I decided not to call him to verify, but when we returned from the trip I asked if he had noticed the bogey at 2-o-clock. Athough I have seen several different objects since childhood, it was important to verify what he thought because he is a Marine Sgt. and he has a knowledge of military - civilian craft. He noted that although he knew of an airport close by, he had noticed the object and that it was certainly not moving, nor was it a contrail. He had a rear glass window large enough to notice it still motionless a minute or so later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30545.html](http://www.nuforc.org/webreports/reports/030/S30545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
