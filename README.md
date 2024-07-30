@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange Lights Over Bakersfield CaliforniaOn the night of July 30th, 2011, at approximately 10:30 PM, my son had gone out to the backyard.  He came back in right away, and told me to hurry and come outside.  I hurried out, and he pointed to the sky and there, in the West, was a long line of round, orange lights heading straight toward us.  There had to be at least a dozen to 20 of them.  They were in rows of 2-4 each.   I told my son to run and get his dad, because he's a skeptic, and he'd never believe it if he didn't see it for himself.  He came out and witnessed it too.   It was exciting, yet scary too, because my first thought was we were being attacked, and those were missiles.  But as they got closer, I could see that they weren't missiles...they were round objects, that  moved slowly in formation...all at the same pace, and they never moved out of that formation.  All of them were the same size.  There was absolutely no sound coming from them, and no flickering lights as they passed over us.  The sky was clear, with the exception of one small whispy cloud over the house next door.  Every one of those objects went into the cloud, and never came out.  There were openings in that small cloud, and we didn't see any of the objects pass by any of those openings.  When it was over, I tried to find out if anyone reported the sighting, but only one news station answered, and she said they were short handed and nobody reported it.   I went back outside to check the sky, and the cloud was gone as well.   It was very frustrating!  I was kicking myself for not running into the house and grabbing my cell phone to try to film it.  I was afraid if I went to look for my phone, I'd miss the event.   I don't know how high up the cloud was, or how low the objects were, but those objects had to be really big if that cloud was very high up, because they weren't  small dots in the sky.  They were a good size, and appeared to be  close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85795.html](http://www.nuforc.org/webreports/reports/085/S85795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New London (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light turned to red as it sped up, slowed down, and zigzagged across the sky.I was out looking at the stars facing to the east off of my deck.  Off to the north but almost directly up in the center of the sky a very bright white light appeared out of nowhere.  It appeared to be flying at the same height that the airplanes fly but it did not fly like a plane.  I watched it for a few seconds and witnessed it speeding up and slowing down while making a slight zigzag pattern along the path of flight.  I called my fiancé out to see it after about 15 seconds or so.  He came out and we watched it fly farther to the east continuing in the same pattern previously described.  After about 30 seconds the object began to change from bright white to bright red and then disappeared in the eastern sky. After it turned red we only saw it for about 15 more seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64901.html](http://www.nuforc.org/webreports/reports/064/S64901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
