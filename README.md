@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:48 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:24 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Waterbury (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights over Waterbury,  CTWhile driving home from work, I noticed  8 or more orange circles flying single file after another in an eliptical form. (curving)  They flew from the right side of the sky and curved to the left.  They were orange flame in color and slient yet perfectly round.  About the size of a grapfruit.I pulled over and watched with 3 other witnesses in another vehicle.  They had a still photo of the craft, whereas I had a few seconds of video on my camera phone.  Amazing sight!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82818.html](http://www.nuforc.org/webreports/reports/082/S82818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ORANGE LIGHT MOVING ERRATICALLY BEFORE MOVING QUICKLY UPWARDS DURATION APROC 3 MINSROUND LIGHT,  FLAME COLOURED (UK SPELLING) IN THE NIGHT SKY MOVING SOUTH TO NORTH ON A VARIED PATH APROX 3000 FT ALMOST LIKE A PLANE ON FIRE BUT ORANGE COLOURED FOR APROX 2 MINS THEN RAPIDY MOVING UPWARDS AND DISSAPEARING WITHIN 1 MIN.THIS TOOK PLACE APROX 9 MILES NORTH OF LONDON.  BEING IN A HIGH DENSITY FLIGHT PATH FOR 3 MAJOR AIR PORTS IT IS NOT UNUSUAL TO SEE AIRCRAFT LIGHTS BUT THIS LIGHT AND VARIED FLIGHT PATH HAS NEVER BEEN SEEN BEFORE((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64866.html](http://www.nuforc.org/webreports/reports/064/S64866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
