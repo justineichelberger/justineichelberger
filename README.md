@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:20 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tioga (ND) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A blue light that moved fast in the sky then slowed rapidly turned red and then faded.It looked like a shooting star, only brighter and not as quick. It moved so smoothly, there were no blinking lights. It changed direction, my friend and I followed it onto Main St. and before we got there it slowed down turned a reddish color and then it just faded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30454.html](http://www.nuforc.org/webreports/reports/030/S30454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Brooklyn UFO / VIdeo and Photo / 7.30.12On 7/30/12, from approximately 4:00 PM to 5:00 PM, in Windsor Terrace, Brooklyn, I experienced a daytime sighting of white orb /circular object / UFO.  With a small digital camera, I recorded photos and video.  Samples of photos and video will, as in previous sightings I have reported, be provided via e-mail/links to NUFORC for review.During the sighting two other witnesses joined me for at least a portion of the time:  (1) another resident of the house (the son of the landlord), and (2) a maintenance person who was returning from an errand to complete a sink repair in my home.  I pointed the object out to them.  We were all perplexed.The object was not stationary, but moved around in the sky for about 50 minutes, varying in brightness, altitude and relative visibility.A local UFO reporting / research group (to which I belong) agreed that the object does not appear to be a balloon or star.  I believe the following could also be ruled out:  airplane, helicopter, standard drone, plastic bag, glider, satellite, bird, toy/kite, blimp.NOTE: At the end of the sighting, chemtrail activity was observed to begin.  It is unclear as to whether this could have been related to the observed incident.  A separate 2009 sighting I reported (which included similar activity) resulted in the NUFORC informing me that chemtrail activity appears not to be a real phenomenon.  Again, as in 2009, it is not my intention to debate the topic of chemtrails, but rather to report the details of the crafts / orbs I observe.  These reports sometimes include airplane activity during or after the event that creates visible contrails or "chemtrails."  SAMPLE PHOTOS AND VIDEO LINK WILL BE SENT TO NUFORC.This is my fifth UFO sighting report to NUFORC.  The other four were for sightings that took place on: 1.  2/6/97 (Mesa, AZ)---Original report was updated with map.2.  4/26/09 (Brooklyn, NY)---Orb 3.  5/14/11 (Brooklyn, NY)---Lights 4.  7/10/11 (Brooklyn, NY)---Brilliant light / orb (NOTE: this is a resubmission of this report. A sixth report was submitted for a sighting that took place on an earlier date---7/23/11)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97311.html](http://www.nuforc.org/webreports/reports/097/S97311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
