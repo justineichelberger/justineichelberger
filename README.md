@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tawas City (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Tue Night - Tue Night minutes.</sub><blockquote><sub>Red ball in the sky.TAKING A PICTURE FROM OUT SIDE HOMES FRONT DOOR.I HAD LOOK OUT MY BEDROOM WINDOW AND SAW THIS LIGHT ON IN A CABIN THAT WAS OLD AND NO ONE LIVE IN.  SO I HAD TO GO OUT SIDE FOR A BETTER LOOK.  THINKING WHAT IS GOING ON I WALK BACK IN SND GOT MY CAMERA OUT AND WAS TRYING TO TAKE A PICTURE OF THIS CABIN WITH THE LIGHT ON AND THIS BIG RED BALL GOT IN THE WAY OF WHAT I WAS TRYING TO TAKE THE PICTURE OF.  IT WAS LIKE IT WAS TRYING TO BE IN THE PHOTO I WOULD MOVE A WAY FROM IT IN THE LENS AND IT PUT BACK IN THE FRAME.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91405.html](http://www.nuforc.org/webreports/reports/091/S91405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bolivia (NC) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>NC Emer. Commo.Cntr. repts. 2 police officers reporting strange lights in sky near Goose Creek area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00648.html](http://www.nuforc.org/webreports/reports/000/S00648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
