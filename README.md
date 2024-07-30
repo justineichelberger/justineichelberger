@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Myles Inlet (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Hello . This was a sighting just out of Myrtle Beach in South Carolina. This Happened around 1978. This was a different siteing that you normally do not hear of.Just let me tell you what I saw and who I was with.  I was with my Grand father .  Big Ufo beleiver . A WarWar 2 Radar speacalist as well as a b24 bomber pilot.  He knew the sky .  He has studied radar . Air traffic control and weather .  He has studied a lot of things .  I just want to send a siteing that I saw with him . Around 1978 , during the summer I saw a UFO .  It flew right above me,my uncleand Grandad's head . It looked like a large ribbon .  Tied from end to end . Lights of every color reflected down on us .  My Grand dad said ,"do not be afraid , it's not maned".  Then we just stood there and watched it cross the ocean .Thats about it .If it is any use of information .  There was South Carolina Sea Turtles laying eggs that night .  I was just a child and well , that was a scarey night for me .((NUFORC Note:  Source indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67853.html](http://www.nuforc.org/webreports/reports/067/S67853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tioga (ND) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A blue light that moved fast in the sky then slowed rapidly turned red and then faded.It looked like a shooting star, only brighter and not as quick. It moved so smoothly, there were no blinking lights. It changed direction, my friend and I followed it onto Main St. and before we got there it slowed down turned a reddish color and then it just faded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30454.html](http://www.nuforc.org/webreports/reports/030/S30454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
