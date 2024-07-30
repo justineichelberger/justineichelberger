@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:58 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Indialantic (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We were sitting on the beach my wife and myself when we saw what looked like a military flare bright orange in the sky.  It was at about 3000 Ft and would fly a circle pattern and drop to about 10 ft off the top of the ocean in about 1/2 second.   Then it would fly an s pattern back up to where it was first at and circle closer drop.  It did this many times and kept coming closer.   I tried to get it on my cell camera but my wife was freaking out.  I was a FA-18 avionics technician for the Marines for five years and I currently hold a top secret ssbi clearance and work with avionics systems and I am on the new JSF program for the company I work for.  I am ahead of my times in technology.  I have never seen anything move like this before.  I am also 3/4 of the way through ground school and I have 28 hrs in a R22 helicopter.    In my time I have never seen anything move so fast.  I started really researching into this after I lived through what was called the San Diego Boom read the article on this if you want to hear some crazy news that just died away with no explination...  It was on the front page of the San Diego union tribune...  then everyone just forgot about it.http://www.signonsandiego.com/news/northcounty/20060423-9999-1n23bigboom.html   Read this!!!!  You tell me    I live right by the Cape now and I know what a shuttle sounds like when it re-enters the atmosphere      The sound this made was 1000 times that if not more.  It felt like an earthquake.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56673.html](http://www.nuforc.org/webreports/reports/056/S56673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bolivia (NC) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>NC Emer. Commo.Cntr. repts. 2 police officers reporting strange lights in sky near Goose Creek area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00648.html](http://www.nuforc.org/webreports/reports/000/S00648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
