@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 29 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glendalemingle Dale (AZ) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>strange lights above Glendale Arizona July 29th at about 11:30 pmvideo taped 2 blueish white objects that seemed to be hovering for about 4 to 5 min then one changed colors and descended rapidly in what appeared to be a downward spiral motion shortly followed by the other object then they fell below the skyline and then reappeared in about the same spot and repeated the motion as before they did this a total of 3 times within the 10 minutes that I noticed them</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100635.html](http://www.nuforc.org/webreports/reports/100/S100635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chawton (village of) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Single white star like object moving across sky at a very high altitudeReturned home and parked vehicle(at the back of my flat)walking back towards my home I noticed a single white light(like a star) moving across the sky overhead it was at a very,very high altitude when I first saw it and it was going at a steady speed but then appeared to slow down and at one point looked to me like it was completely stationary(not moving at all)and then change postion in a hesitant and eratic manner it caught my attention and at the same time seemed particually weird as I don't know what it could have been,  Do please get in touch with me by Email as I have had two VERY REAL sightings of UFO'S both Occured in 2002 (the first was a white light that I thought was just a normal aircraft but turned out to be a large flickering round white ball of light that suddenly changed into a pure glowing Size Changing White Disc/Saucer right in front of me (you'll see this on the footage I have of it)((NUFORC Note:  One of multiple reports from same source, who provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100649.html](http://www.nuforc.org/webreports/reports/100/S100649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
