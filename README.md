@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:58 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bolivia (NC) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>NC Emer. Commo.Cntr. repts. 2 police officers reporting strange lights in sky near Goose Creek area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00648.html](http://www.nuforc.org/webreports/reports/000/S00648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange flying lights over DIA seen from Thornton, CO.Thornton, Colorado, which is about 20 miles west of DIA.  I witnessed multiple bright orange lights in the sky, headed from what seemed to be DIA, west.  These orange lights were extremely bright silent, and moving very sporadic, and fast. They all disappear. After all objects are gone, every dog in my neighborhood started barking.  These objects look like orange fire circles with no tails.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120772.html](http://www.nuforc.org/webreports/reports/120/S120772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
