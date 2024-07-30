@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Buzzards Bay (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>sitting in my back yard. around 345pm,.  light haze to  the sky, with mostly sunny skies.i heard a faint jet engine  .living near cape cod air base and lots of summer  pilots etc.  didnt think much of it. looking up towards the south/southwest  i looked up an watched this very very fast diamond shape object go from 1clock to 5clock in a matter of 2 seconds. i lived on navel bases an been in south pac.  never have  i seen a object that fast. first  i thougt the intl space station. or a airforce jet  then i i kept watching an went out into  the clouds.   it was up around 35,000  ft no vapor  trails. it moved to  fast for a pilot.. never thought id say this.. think did see a ufo...  just thought i let ya know.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82856.html](http://www.nuforc.org/webreports/reports/082/S82856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Lights to the west over the mountainsMy wife and I were standing on the balcony enjoying the evening when I noticed a bright light in the sky to the west, I pointed this to my wife and she agreed that it looked like a star, but it was to light outside not another single star was visible, I thought we could be looking at a plane or another aircraft approaching as Loveland has a small airfield of its own and we are very close to Denver. I made this decision as there was a level of movement on the light both up and down and side to side but only slightly so we thought it may have been heading straight at us. I then noticed another object close by but appeared to be at a different altitude and was not nearly as bright, this I assumed was another plane following in. I was happy with my guess until the first object literally dropped from the sky behind an apartment building blocking the rest of the view, the secondary object seem to get dimmer and completely disappear, At first reactions from residents has been probably children with fireworks but this was no firework, It was over the mountains not actually in Loveland I don't think kids will trek into the mountains to have fun with rockets.((NUFORC Note:  Witness elects to remain totally anonymous.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45360.html](http://www.nuforc.org/webreports/reports/045/S45360.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
