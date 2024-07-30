@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 30 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Isle of Palms (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My wife, son, daughter in law, and I were all sitting on the beach getting ready to look for shooting stars when we all saw four (4) orange lights in a tight formation - forming a straight line.  A few seconds later, another identical formation of 4 lights appeared to the right, maybe 15 degrees apart from the first one.  Both formations disappeared at exactly the same time after only a few seconds.  We later determined that we were facing due south at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147938.html](http://www.nuforc.org/webreports/reports/147/S147938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Butler (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red blinking ufo, stopped on a dime, did 180, traveling 20-25 mph about 1/2 mile-1 mile away at around 100ft or so.I was outside in my yard gazing the sky and stars.  Was out there for about 30 minutes I'd say.  Then saw a red light in the distance. Northeast of where I was standing. It was very low and relatively close to where I was.  At it's closest I'd say it was probably about 1/2 mile to a mile away and maybe just 100 feet off the ground.  It was blinking red.  And they were kind of mediocre timed intervals, almost kind of reminded me of a persons breaklight if they were to delay each compression for a couple seconds.  It kind of went up and down a bit within very short distances which was different for my eyes to see. I watched it not gain very high altitude at all.  It stayed really low to the ground around the area. I got my mom to show her.  And she watched it with me, and I couldt tell she knew that it was different. It finally came to a holt for just a second or so.  I watched it as it had vertually sit still in the air.  This is when the object blinked 1 blue light w! ithin it's red light.  And then it turned around, 180 degrees on that dime. Which was pretty amazing really.  Uh, I was very excited to see this variance in whatever this thing was. I could not hear any sound, if it was a nearby local cessna I could of heard it's engine from it being so close.  I am correct with my time, so the airports the only one that could deny my sighting.  This was a really awesome sighting.  I haven't seen anything in the sky this intersting over the last 4-5 months that I would waste my time talking about.  As I am a consistent star/sky gazer. Really different type of lights on this thing.  The way it moved was pretty different.  I don't think this could be related to any type of other flying aircraft.  Here's another big thing as well.  For the distance it traveled and as close as it was, I'd have to say this thing was moving at no more then 20-25 miles per hour.((NUFORC Note:  One of many reports from same source of alleged sightings of UFO's.  Telephone number provided by source of report is bogus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71432.html](http://www.nuforc.org/webreports/reports/071/S71432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
