@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:02:31 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:17 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>impossible speeds. best explination, classified unmaned craft.  I can't see a human pilot surviving the g force of those speedsRed/orange ball at minimum cruising altitude of commercial airline covering a huge distance coming from the south before curving the northeast and vanishing. Lost contact.  Military fighter jets also coming from the south about 5 seconds after sighting. No way they caught up.  Impossible.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112067.html](http://www.nuforc.org/webreports/reports/112/S112067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pembroke (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 110</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148157.html](http://www.nuforc.org/webreports/reports/148/S148157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
