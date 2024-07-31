@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:51 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fairlawn (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular pattern witnessed on summer night in backyardThis happened when I was about 10 years old and I am now 16, so I will try to relate everything that I can remember. I recently watched a Larry King Live episode on UFOs and decided to write here. I never realized that something like this site existed, and had forgotten about the incident up until now. 	I was outside sitting on our swing out in my backyard with my friend from school when we saw a huge triangular shape approaching very low. I don't remember exactly when we noticed it, but it was very large and very low. It was about the size of 2 or 3 large houses put together and probably about 5 or 6 stories above the ground. It made little or no noise, and was moving very slowly. It had a triangular pattern of small white lights spaced fairly far apart. Each light was about the size of a regular bulb from that distance away. There were about three on each side. In between the lights it was blacked out so I think it was only one entity. 	I remember my friend staying outside while I ran inside to get my dad. When we came back out it was passing over our house. It was probably moving about 10-15 mph depending on how low it was, but it was moving very slowly. It reminded me of the shape of a Stealth Bomber, but it made no noise at all. We also do not have any nearby military airport bases near our house. 	I went back inside to get the video camera and when I came back outside it was almost gone. If I did get it on tape, we either didn't see anything afterwards and threw it away, or I simply didn't tape it at all. As I said, it was a while ago so I don't remember too much. I still don't know if anyone else saw it that night besides myself, my friend, and my dad. 	It did not leave a trail. There were no other aircraft following it. It was moving almost directly east to west and very slightly north to south. I hope this report helps, even though I couldn't give much exact detail.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60985.html](http://www.nuforc.org/webreports/reports/060/S60985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Black Forest/Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orbs seen landing/disappearing in SE coloradoThree bright orbs were seen floating in the sky when one disappeared suddenly, and the other two were seen slowly descending towards the ground for landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147957.html](http://www.nuforc.org/webreports/reports/147/S147957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
