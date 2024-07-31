@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:22 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very fast disappearing light in nighttime skyWas laying on my back watching for satellites (they look like little stars that move across the sky in a systematic way). Thought we saw one but this was going at least 5 times faster (same size, same systematic way) and I thought maybe it was just a really, really fast satellite - it crossed half the sky in less than 3 seconds, but then it just disappeared out of the sky in front of my eyes. Not over the horizon or behind clouds, but poof and gone.  Have seen may satellites, but nothing like this. Definitely not an airplane - there were several of them in the sky at the same time and it was very easy to ascertain their altitude and speed/shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64912.html](http://www.nuforc.org/webreports/reports/064/S64912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>glowing object in clear blue skyIt was Saturday 31st of July 04 we decided to have a barbecue in the back garden, it was a lovely warm evening with a very clear sky some cloud in patches but very high altitude cloud.The boys were tucking in to the burgers while I cooked on and talked to my wife ((name deleted)) And then occasionally looked up at the passing planes over head as we have a flight path directly over our house, and our very used to seeing all types of planes over head.I sat down to eat a burger and then casually looked up to see something unusual in the sky overhead, it was a glowing object and in a northerly direction from my position, quite high in the sky and moving slowly in a easterly direction.It had the shape of a coke can that was standing on end and glowed very brightly. I then pointed it out to the rest of my family, who then all just gazed into the sky at this strange object, while I darted into the house to get my camcorder. Upon returning only to find the film had run out and had to run back in for another. I fed it into the camera and recorded about forty-three seconds of this object going into the distance, and can clearly see the shape and the glow of this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38431.html](http://www.nuforc.org/webreports/reports/038/S38431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
