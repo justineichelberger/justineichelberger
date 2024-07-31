@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Trenton (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>NJ Division of Aviation relays seemingly credible UFO report from NJ citizen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00662.html](http://www.nuforc.org/webreports/reports/000/S00662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>It was about 10:40 pm. a light moving slowly north, seemed like a plane but suddenly moved very fast in an arc and dissappeared.There was a light moving slowly north that seemed like a plane but it suddenly zipped ectremely fast in a shallow arc and vanished. The sky was dark all around but clear enough to see any planes and many stars. I didn't hear any sound from it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30464.html](http://www.nuforc.org/webreports/reports/030/S30464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
