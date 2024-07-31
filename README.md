@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Butler (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I witnessed 1 object just after dark in the western sky. It seemed to hover upward slowly. It had 1 yellow light on it. I watched it for several minutes. I then watched as it came closer and lowered altitude at the same speed. Looking as if it was hovering downward now. This object was several thousand feet up, but very visable. There were other objects in the sky at that time. But only 1 was strobing blue and white lights very fast. Back and forth, back and forth. And then they left after about 10 minutes or so. I had 1 more person witness exactly what I saw, and two others that saw the yellow light in the sky. Just a day before I witnessed a blinking red object that stopped on a dime and did a 180 turn. It was reported.((NUFORC Note:  One of many reports from same source of alleged sightings of UFO's.  Telephone number provided by source of report is bogus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71533.html](http://www.nuforc.org/webreports/reports/071/S71533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Trenton (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>NJ Division of Aviation relays seemingly credible UFO report from NJ citizen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00662.html](http://www.nuforc.org/webreports/reports/000/S00662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
