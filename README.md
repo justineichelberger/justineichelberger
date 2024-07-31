@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:22 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mosinee (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>5 lights in straight horizontal line that faded out---no noise heardMy Mom and I saw something very weird on our walk.  At around 9:15pm on July 31st 2008 over Mosinee, Wisconsin I witnessed a straight horizontal line of 5 yellowish lights.  The tops of the perfectly rounds lights seemed to have a little bit of red in them too.  They were kind of weak in intensity and just above the tree tops over a potato field about 2 blocks away.  I only saw them for about 5 seconds before I grabbed my Mom’s arm to look at them too.  As I did that they quickly started to fade out one light at a time from the right to left.  She saw that last light sparkling before it disappeared.We continued on our walk for about 15 minutes and came to a spot where we could see the sky in full view over the potato field.  We stopped and looked up towards the south to see if we saw something to explain it.  We watched for about 3 minutes.  Then all of a sudden to the SW we saw it again, but this time it was really bright and lasted for about 15-20 seconds.  And it faded out from right to left again, but faster this time.It never appeared to be "flying" or moving, just hovered there. It was as high up as a helicopter would fly and about a quarter mile away from us.  There was nothing in the path of our view, completely open and clear skies.  It was unbelievable!!!  We are really interested to see if anyone else saw the same thing.  We can’t explain it----like nothing we had EVER seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64902.html](http://www.nuforc.org/webreports/reports/064/S64902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very fast disappearing light in nighttime skyWas laying on my back watching for satellites (they look like little stars that move across the sky in a systematic way). Thought we saw one but this was going at least 5 times faster (same size, same systematic way) and I thought maybe it was just a really, really fast satellite - it crossed half the sky in less than 3 seconds, but then it just disappeared out of the sky in front of my eyes. Not over the horizon or behind clouds, but poof and gone.  Have seen may satellites, but nothing like this. Definitely not an airplane - there were several of them in the sky at the same time and it was very easy to ascertain their altitude and speed/shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64912.html](http://www.nuforc.org/webreports/reports/064/S64912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
