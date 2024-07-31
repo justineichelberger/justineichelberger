@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>15-20 redish lights moving in lower case lambda formation heading North to South over the Wasatch FrontI went to let the dogs out to do their business.  I looked up and heading North to South over the valley were 15-20 redish orangish lights. I t was a partially cloudy night and they were above the clouds.  They stuck together moving in formation, but were weaving in and out of each other in a pattern that looked like the greek lower case lambda symbol.  It was like watching synchronized swimmers as they changed position so the formation changed shape, all the while maintaining the same speed and direction.  I'd say it/they stayed visable for a min as they passed out of sight into the clouds to the south. Strangest thing I've ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91351.html](http://www.nuforc.org/webreports/reports/091/S91351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white to red constant one light, to black saucer.At first I saw a oval shaped VERY bright light that came out of the sky.  I quickly reached in my pocket, and pulled out phone to take a video of it.  When I got the camera up,  I could not see the light anymore while filming.   After watching the film that I had taken, I realized I took this picture of the UFO in some black Stealth form.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91352.html](http://www.nuforc.org/webreports/reports/091/S91352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
