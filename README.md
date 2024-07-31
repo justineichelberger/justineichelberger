@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Black Forest/Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orbs seen landing/disappearing in SE coloradoThree bright orbs were seen floating in the sky when one disappeared suddenly, and the other two were seen slowly descending towards the ground for landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147957.html](http://www.nuforc.org/webreports/reports/147/S147957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sutherlin (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>GLOWING RED OBJECTS, HIGH RATE OF SPEED, ONE DISAPPEARED THE OTHER KEPT GOING. VERY LOUD ROARING SOUNDI WAS OUTSIDE IN MY DRIVEWAY WATCHING A LIGHTNING STORM.  I HAPPENED TO NOTICE TWO GLOWING RED OBJECTS COMING FROM THE NORTH TRAVLING SOUTH AT A HIGH RATE OF SPEED OVER THE TOP OF MY HOUSE.  ONE OF THE OBJECTS DISAPPEARED AND THE OTHER VEARED OFF TOWARDS THE SOUTH EAST.  AS THE OBJECT PASSED OVER IT APPEARED TO BE A FUZZY RED GLOW AND MADE A VERY LOUD ROARING SOUND.   LIGHTING WAS FLASHING AT THE TIME BUT NO THUNDER.  I WAS STILL ABLE TO HEAR THE ROARING SOUND FOR APPROX. 6 SECONDS AFTER  THE OBJECT WENT OUT OF MY VIEW.I AM A 56 YEAR OLD HOUSEWIFE.  MY HUSBAND LISTENS TO COAST RADIO AND TOLD ME ABOUT THE REPORT FROM COOS BAY ON JULY 31, 2014 AT APPROX. THE SAME TIME I HAD MY SIGHTING, SO I THOUGHT IT WAS WORTH GIVING MY REPORT.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112102.html](http://www.nuforc.org/webreports/reports/112/S112102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
