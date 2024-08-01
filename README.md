@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Series of bright orange lights appearing above San DiegoSeveral bright lights above the horizon, right above the cloud layer, bright orange and shimmering.  First, there was one, which we thought might be a light.  Looking from the Poway area, it was Southwest and at the same star location as the Menkent star cluster.It faded away without moving after 5 minutes, but then reappeared in the same spot with a second light around a minute later.  These stuck around for another 5 minutes, or so, faded, and then reappeared with 3 lights, in the same spot.The three lights stayed for about 10 minutes.  During this time, they shimmered in different patterns, then faded away.  After less than a minute, one appeared above and to the right of the original location, stayed a minute, then faded, and soon after two appeared, below the previous but above the original location.  They faded as well, and that was it.There was a heavy Marine layer at the time, so no other stars were shining through, but these were abnormally bright, much brighter than the city lights in the distance though appearing to be just as far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147994.html](http://www.nuforc.org/webreports/reports/147/S147994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Elgin (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two orange craft approx. 1/2 mile apart moving westLate at night on July 31st/August 1st my friends and I witnessed two large orange lights with a greenish glow behind them.  They were traveling west about a 1/2 mile apart very high in the sky and lasted 30 seconds to 1 minute. They seemed to disappear in an upward direction after their westward flight.Being truly amazed and never seing anything like this before, I went home and searched online for ufo's in South Elgin Illinois and realized that other people have been seing the same thing that my friends and I saw that night, not to mention a story about secret base in the area of the new bridge construction site.  Too strange...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76950.html](http://www.nuforc.org/webreports/reports/076/S76950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
