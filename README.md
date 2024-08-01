@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:06 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Elgin (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two orange craft approx. 1/2 mile apart moving westLate at night on July 31st/August 1st my friends and I witnessed two large orange lights with a greenish glow behind them.  They were traveling west about a 1/2 mile apart very high in the sky and lasted 30 seconds to 1 minute. They seemed to disappear in an upward direction after their westward flight.Being truly amazed and never seing anything like this before, I went home and searched online for ufo's in South Elgin Illinois and realized that other people have been seing the same thing that my friends and I saw that night, not to mention a story about secret base in the area of the new bridge construction site.  Too strange...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76950.html](http://www.nuforc.org/webreports/reports/076/S76950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright red and white UFO moving at medium speed, then hovering and changing directions before disappearing.Saw bright red and white UFO very close, flew East then stopped for a few seconds above us, then changed directions and sped opposite direction, west.  Very bright red and white solid lights side by side, no sound.  It was almost dark, appeared as soon as the brightest stars were visible.  This is the second one we have seen this month.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112095.html](http://www.nuforc.org/webreports/reports/112/S112095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
