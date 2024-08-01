@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ottumwa (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Star or planet - when seen in binoculars, five lights in a circle, one in the middle - flashing a rainbow of colours - moved miles EastI've been on a kick with seeing UFOs, this is the second I've seen this month.  I saw what looked to be a large star, maybe a planet.  I thought the colours were changing..too quickly and too many colours for a star.  It wasn't a twinkle, but it looked more like light flashing off a diamond very quickly, showing off its rainbow of colours.  Anyways, I looked at it through binoculars, and I could see at least five lights in a circle, with one light in the middle, all changing colours.  I went and got my dad to get up and look at the "star."  He grabbed the binoculars, looked in the same area, and couldn't see anything.  I looked in that area and it was gone.  I then looked to the East of where it just was (a few inches if you were to hold your hand out arm-length), and it was there, except not as bright, like it was hiding as a dimmer star.  I couldn't tell exactly how many lights there were, but like I said there were at least six (five in a circle formation, one in the middle).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45373.html](http://www.nuforc.org/webreports/reports/045/S45373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spicewood (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange lights seen in the area of Briarcliff, Texas near Lake Travis.Though our address is in Spicewood, this sighting was seen closer to Briarcliff. From the neighborhood of West Cypress HIlls, off Highway 71, we saw 5 orange lights.  After the first one, my partner came into the house and told me.  I went back outside and saw the rest  They appeared to be coming from the lake, north of our position.  The orange lights did not flash at all.  They seemed to follow the same path and they each disappeared at the same spot in the sky.  We did not hear any sound coming from them. It was partly cloudy that night, but there were no clouds where the orange lights disappeared.  The moon was full.  The ones I saw seemed to appear one after another.  They were round with a smaller round shape on top.  We thought they were drones at first, but the lights were orange and didn't blink.  Since they disappeared, we don't think they were drones. I don't see any record of anyone else seeing these lights, so I wanted to make sure this was recorded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158174.html](http://www.nuforc.org/webreports/reports/158/S158174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
