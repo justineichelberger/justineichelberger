@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>simple silver disk, moved at amazing speedsMy stepfather was always a skeptic as far as UFO's went, he always figured they were U.S. military craft or meteorlogical phenomenon.  One afternoon in the summer of 2002 he called me out to the back porch. He already had the binoculars out and handed them to me.  He pointed to a spot in the sky and said "what do you think that is?" I looked through the binoculars and saw a silver disk shaped craft maybe 40-50ft in diameter.There was absolutely no sound coming from the craft.  When I took the binoculars away from my eyes I could see the object hovering maybe a half mile off and about 300 ft off the ground.  I started to look at it through the binoculars again and in a few moments it disappeared. At that same moment my stepfather said "where did it go"?   I quickly looked around the sky and saw the object 15 miles away over the city of Pleasanton. My stepfathers response was "we can't have anything that can do that." The objects dissapeared again and we never saw it again.  My stepfather passed away last year, but at least he got to see a real UFO.   He was never the same after that day, and he had started to consider the link between extraterrestrials and the history of the human race. I loved him and I will miss him and I'm glad we were able to share this.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43273.html](http://www.nuforc.org/webreports/reports/043/S43273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in La Puente (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>OVAL OBJECT WITH ELECTRIC BLUE LIGHTS FLY'S OVER LA PUENTEI WAS OUTSIDE HANGING UP A SHEET IN FRONT OF MY HOUSE, AND FROM THE CORNER OF MY EYE I SEEN AN OBJECT THAT WAS GLOWING AND AT THE TIME I THOUGHT IT WAS A SHOOTING STAR OR A COMET. I LOOKED UP AT THE OBJECT AND I SEEN AN OVAL OBJECT WITH CIRCLE AND SQUARE SHAPED WINDOWS THAT WERE DIMLY GLOWING. THE GLOW WAS AN ELECTRIC BLUE. IT WAS FLYING AT A FAST SPEED, TO FAST FOR A PLANE. IT MADE NO SOUND WHAT SO EVER. AS IT MOVED, I LOST SIGHT OF IT BECAUSE MY HOUSE WAS BLOCKING MY VIEW SO I WENT TO THE SIDE OF MY HOUSE ALMOST INSTANTLY TO MAYBE SEE THE OBJECT AGAIN BUT IT WAS NO LONGER THERE. IT JUST DISSAPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64939.html](http://www.nuforc.org/webreports/reports/064/S64939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
