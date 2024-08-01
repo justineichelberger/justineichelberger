@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:13 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three bright reds lights crossing the sky, and then straight up and out of sight.I was outside on the phone when I saw a large flickering red light moving west, then a second light, moving slowly, then a third.  As they move closer, the light lowered, and one by one, they went straight up and out of sight.  I managed to get my wife out to witness this, as well as a neighbor.  I also videoed with my cell phone.  This was something I will never forget.  I'm glad I got to finally witness something like this for real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128968.html](http://www.nuforc.org/webreports/reports/128/S128968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Berkeley (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Early 50's sighting in Berkley, MissouriHi, the date and time I listed is approximate. I was about 8 years old at time of sighting and some details (as time) are fuzzy. As I remember I was playing on street where we lived in Berkley, Missouri near Lambert Airport. I lived on Purefoy (maybe mispelled) its off Airport Road.  We saw a bright object (orange) in the sky and as I remember we just watched it.  As best I can recall we were looking north toward Florissant and the object was low in the sky but rising.  I went inside and told my mom of what we saw and that was about it.((FOLLOW-UP COMMUNICATION WITH WITNESS))Hi Mr. Davenport. Thanks for responding to our possible mutual sighting.Concerning my sighting and possible date, I tried to time frame it as best as possible.  We lived at the Berkley address for a short time from the summer of 53 to early winter of 54.  I heard you mention your sighting on Art's show in the past and said it sounded like my experience, but your sighting in 54 was a little late for mine.  If you believe summer of 53 is possible for yours, we may have seen the same occurence.  As I remember there was no sound associated with what I saw.  Just a bright object, believe it was orangish yellow.Thanks again for responding,  ((name deleted))((END))((NUFORC Note:  Please see sighting for July 1954 over Lambert Airport, St. Louis, MO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34514.html](http://www.nuforc.org/webreports/reports/034/S34514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
