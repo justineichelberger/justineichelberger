@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:06 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright red and white UFO moving at medium speed, then hovering and changing directions before disappearing.Saw bright red and white UFO very close, flew East then stopped for a few seconds above us, then changed directions and sped opposite direction, west.  Very bright red and white solid lights side by side, no sound.  It was almost dark, appeared as soon as the brightest stars were visible.  This is the second one we have seen this month.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112095.html](http://www.nuforc.org/webreports/reports/112/S112095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>simple silver disk, moved at amazing speedsMy stepfather was always a skeptic as far as UFO's went, he always figured they were U.S. military craft or meteorlogical phenomenon.  One afternoon in the summer of 2002 he called me out to the back porch. He already had the binoculars out and handed them to me.  He pointed to a spot in the sky and said "what do you think that is?" I looked through the binoculars and saw a silver disk shaped craft maybe 40-50ft in diameter.There was absolutely no sound coming from the craft.  When I took the binoculars away from my eyes I could see the object hovering maybe a half mile off and about 300 ft off the ground.  I started to look at it through the binoculars again and in a few moments it disappeared. At that same moment my stepfather said "where did it go"?   I quickly looked around the sky and saw the object 15 miles away over the city of Pleasanton. My stepfathers response was "we can't have anything that can do that." The objects dissapeared again and we never saw it again.  My stepfather passed away last year, but at least he got to see a real UFO.   He was never the same after that day, and he had started to consider the link between extraterrestrials and the history of the human race. I loved him and I will miss him and I'm glad we were able to share this.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43273.html](http://www.nuforc.org/webreports/reports/043/S43273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
