@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:56 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw something in the sky.my friends and i were flying our model ir planes when we noticed 2 large military plane flying at a really high altitude. we stopped (some landed) to watch the site cause none of us had seen 2 planes so large flying so close to eachother. when one of saw a light next to them, the light didnt move it stayed in one possition for about an hour. we had a pair of binoculars avaliable so we took a look. all i saw was a dot that appeard metalic. it was to small to see any detail but i do know that t reflected sunlight really well. i dont know what this was but im pretty sure it wasnt a star or planet so that makes it a ufo. i dont know what that means but i do know that i saw something in the sky that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45414.html](http://www.nuforc.org/webreports/reports/045/S45414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Amsterdam (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Observed 2 saucer shaped objects, traveling at high speed, vertically and horizontally.Staying with friends whose home was in the country.  No surrounding light.  I Awoke out of a sound sleep, went to the window and was looking out when I observed a round, large object with visible bluish-green lights around the bottom of the object.  It was charging back and forth and up and down at a very fast speed.  At that time I woke my husband to view this, and we then both witnessed a second, idenically shaped object approaching the first one.  Together they would go up and down and after a minute or so they both took off at a very high speed.  I called the local police station and asked if they had received and reports on strange events in the shy, and the officer stammered and him- hawed around and finally said "no Ma'M"  I could tell he was obviously not telling the truth.  Also the friends we were staying with had had a more spectacular experience about 10 months prior to this one.  They had a greenhouse, and one night as they were potting plants a large round object hovered over them, above the greenhouse.  At that time they became immobilized.  After a couple of minutes, this object soundlessly lifted off and flew away.  At this point our friends were once again able to move.  Out friends at this time were mature, 50+ people.  They were honest and never would have made anything like this up.  The wife had told me the story, only after making me promise never to let her husband know she had told me.  He rightfully thought that at time, people would think he was crazy.  They have both now passed on so I feel free to relate their experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02892.html](http://www.nuforc.org/webreports/reports/002/S02892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
