@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 31 July 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white to red constant one light, to black saucer.At first I saw a oval shaped VERY bright light that came out of the sky.  I quickly reached in my pocket, and pulled out phone to take a video of it.  When I got the camera up,  I could not see the light anymore while filming.   After watching the film that I had taken, I realized I took this picture of the UFO in some black Stealth form.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91352.html](http://www.nuforc.org/webreports/reports/091/S91352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Nockamixon (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately over an hour - over an hour minutes.</sub><blockquote><sub>Two balls of light pulsating colors zig-zagging across the sky.Two balls of light pulsating from red to white about the size of stars in the sky moved in random directions and zig zagged back and forth staying in the same general area of the sky. Stayed for over an hour and remained there after we left.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45963.html](http://www.nuforc.org/webreports/reports/045/S45963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
