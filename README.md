@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Porterville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UFO sightingIt was a summer affernoon in Porterville, California, we went out to lake success with the family.  It was me, my brother and our friend we decided to go to the restroom, when we where done we walk several feet away from the restrooms my brother and friend decided stop and and chit chat mean while I'm just looking around and then I see a light brown flying saucer fly across just above the trees and zips straight up into sky and disappear and a soon as one zips up the next one follows in the exact same path and several follow.  As many as 15 flying saucers one right after the other in daylight hours about 300 yards away and about 5 stories high the object where flying.  During the time the saucer where flying by I told my brother to take a look up in the sky he ignored me then I ask him again he was so annoyed by me and he told me to wait while he talks to our friend so I continued to look up in the sky till there where all gone.  Since I was the young one they never ask me what I wanted so I never said anything until we where adults.  I can tell my brother belives me now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117136.html](http://www.nuforc.org/webreports/reports/117/S117136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Excelsior Springs/Kearney (between) (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I saw a blueish-pink glowing sphere maybe a hundred feet off the ground...I was on my way home from work and about a mile from my destination when a light caught my attention on my right.   All of a sudden my radio went dead and I glanced down at it to see what happened.  When I looked back up at the light a chill ran down my spine.  I still don't know what it was, but it scared me and I stopped my truck to look at it.  I don't know why I did this because I was so scared that I couldn't move.  It was above the field next to my truck.  It was a sphere that was glowing a blueish-pink and it was moving real slow.  I could hear this intense humming that I assume was coming from the object.  Then a beam came out of the bottom of it and it almost looked like it was searching for something.   The beam was just kind of combing the ground to the left and right below the object.  I decided to get out of my truck and look at it closer, but when I opened the door the beam went out and it stopped so I got back into my truck.  All of a sudden it just shot straight up into the sky and just kind of disappeared from the inside out.  When it disappeared my radio came on full blast and my windshield wipers turned on on high.  I was so scared that I drove the rest of the way home as fast as I possibly could and ended up sitting in my truck in the driveway for about 2 hours because I was scared to get out of my truck and go into the house.  Like I said, I still don't know what it was, but I do know that I never want to see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05738.html](http://www.nuforc.org/webreports/reports/005/S05738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
