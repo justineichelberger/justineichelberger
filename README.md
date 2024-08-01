@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:17 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hickam AFB (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I saw a bright orange glowing object moving across the sky and viewed the object for 25 secondsLast night on 1 August 2010 at approximately 0032 Local Hawaiian time, I was fishing on the south shore of Hawaii with 2 friends on Hickam AFB.  We were fishing facing the south direction.  My brother in law said, "Hey man, I just saw 2 shooting stars."  Immediately he said, "Dude, what the hell is that."  I turned and looked in a south facing direction and my eyes locked on a bright orange glowing object.  It appeared to be in a triangle with a flat shaped nose.  The visibility last night was unlimited.  There were clouds to the east of our location and the object was definitely below the cloud height.  The object was glowing the entire time as it moved across the sky.I would estimate the height of the object to be about 1200 feet off the ground.  It moved very fast, steady and very smooth as it flew across the sky.  It was absolutely 100% not an airplane.  Being in the Air Force for almost 11 years I have seen my fair share of aircraft and this was most certainly not one.  It made absolutely no sound.  I would estimate the object to be about 2 1/2 miles away from where we were.  The sighting lasted approx 25 seconds.  From the time I first viewed the object to the time I could no longer see it had moved about 110 degrees across the sky east to west.  The object was moving in a west direction down the shore line of Oahu.  We were right beside the airport when this happened so I know Honolulu International Airport picked this object up on their radar.  I wish everyone could have seen this as it was truly amazing!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76937.html](http://www.nuforc.org/webreports/reports/076/S76937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ottumwa (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Star or planet - when seen in binoculars, five lights in a circle, one in the middle - flashing a rainbow of colours - moved miles EastI've been on a kick with seeing UFOs, this is the second I've seen this month.  I saw what looked to be a large star, maybe a planet.  I thought the colours were changing..too quickly and too many colours for a star.  It wasn't a twinkle, but it looked more like light flashing off a diamond very quickly, showing off its rainbow of colours.  Anyways, I looked at it through binoculars, and I could see at least five lights in a circle, with one light in the middle, all changing colours.  I went and got my dad to get up and look at the "star."  He grabbed the binoculars, looked in the same area, and couldn't see anything.  I looked in that area and it was gone.  I then looked to the East of where it just was (a few inches if you were to hold your hand out arm-length), and it was there, except not as bright, like it was hiding as a dimmer star.  I couldn't tell exactly how many lights there were, but like I said there were at least six (five in a circle formation, one in the middle).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45373.html](http://www.nuforc.org/webreports/reports/045/S45373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
