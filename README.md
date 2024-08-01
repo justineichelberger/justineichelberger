@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Trenton (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were driving on our way to perth ontario essentially on the 401 east from toronto to ottawa. While driving close to may have been a few km outside of trenton ontario I saw and mentioned a 3 light combination hovering in the distance.  As we approached the anomaly while driving on the hwy we actually drove pretty much directly underneath it.  There were three ligjts white in colour no variation and they formed pretty much an equilateral triangle shape.  The reason I am even writing this is not the fact we saw this shape or light combination as I originally thought it would be a b2 bomber relation.  The fact is while we drove over the object it literally hovered above us with no movement   It was high enough that the entire encounter lasted a few minutes which was more than enough time for us to get a great look at it It was spectacular and with my basic understanding of our current level of technology I realized that we do not possess the tech to allow a mechanism of this size to hover in its place. Was an amazing experience - it was very close to an air force base here and assume it would be related to an un announced flight tech but considered it still a ufo to the general populous...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100796.html](http://www.nuforc.org/webreports/reports/100/S100796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>At between approximately 4:00am and 4:30am I was looking at the stars and saw what appeared to be a very high flying aircraft, flying southwest over the downtown area of Seattle. The movement is what caused the object to catch my eye, the object was approximately the same size and brightness of the visible stars in the clear sky. It produced no discernable sound. I watched as the object flew, at a slow and steady rate, and then appeared to vanish, almost as if the light of the aircraft had slowly faded out. The object itself appeared to get smaller. The entire even took approximately 3 seconds. I've seen 2 other instances of this type, in the same general area, occuring in the past couple of months. It is possible that these objects are simply sattelites, as I don't know what satelites look like in orbit, although I'm not sure they fade from view. I know they are not comets or meterorites because, in the two or three instances I've seen these objects, they are not streaking through the sky at a fast rate nor do they leave a trail/tail behind them. Additionally, the objects appear to be leaving the atmosphere ("fading") after a short duration, not entering the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38441.html](http://www.nuforc.org/webreports/reports/038/S38441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
