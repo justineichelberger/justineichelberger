@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:14 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:13 on 1 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Murrieta (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Reflection light, change direction, looks like golden light, took picture looked different from what I saw.It looked like a comet coming towards earth, then it came towards a school I was by it was reflecting light and changing direction, it was the brightest golden light ive see, but when I snapped the picture and went home it didn't look triangle it was a reflection of a light.  ith 2 metal pieces on each side, n a center thing roundish and it looped in at bottom it looked like refection of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112136.html](http://www.nuforc.org/webreports/reports/112/S112136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three bright reds lights crossing the sky, and then straight up and out of sight.I was outside on the phone when I saw a large flickering red light moving west, then a second light, moving slowly, then a third.  As they move closer, the light lowered, and one by one, they went straight up and out of sight.  I managed to get my wife out to witness this, as well as a neighbor.  I also videoed with my cell phone.  This was something I will never forget.  I'm glad I got to finally witness something like this for real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128968.html](http://www.nuforc.org/webreports/reports/128/S128968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
