@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Croydon (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Hovering oval/disc shaped object hovering above treeline in Croydon, PAMy husband had just come home from work and was in the back yard with our dog kicking the ball around.  Something in the sky caught his eye and he first thought it was just a plane with the sun reflecting off it since it was a sunny day.  But he realized it seemed REALLY bright so he took another look and realized quickly that the object wasn't moving at all.  He could see some high clouds moving behind it but the object itself was not moving.  We have two very tall trees in the backyard and the object was viewed in the space between.   He couldn't give much of an estimate on the altitude of the object but it appeared to be where a small local aircraft might be seen.He had trouble believing what he was seeing and he kind of closed his eyes and shook his head for a second and when he looked again it was gone. He moved about the yard to look past the two trees but it was nowhere to be found in the sky.He felt silly describing it because it sounded so cliche, but my husband is a huge skeptic so I believed him when he drew it out showing an oval/disc like shape either with windows or some kind of markings on the side. He said it was very bright, brighter than any reflection of sun would have been (on an airplane).When I came home from work he showed me where he had seen it.  I'm a lover of planes and flight patterns so I understand that planes may appear stationary for a few moments if they're flying directly towards or away from you but eventually you will see the movement.  The area of sky where he had seen the object would not have obstructed him from seeing a plane continue it's path if that were the case...there was a ton of sky.  The object simply disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100776.html](http://www.nuforc.org/webreports/reports/100/S100776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a star like object flickering strangely.  I got up and saw it was rapidly flashing red green orange white blue, no real pattern i could see.  I got my wife, and we watched it dart down diagonally.  It stayed there for about 30 minutes until it moved from its location very quickly and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120827.html](http://www.nuforc.org/webreports/reports/120/S120827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
