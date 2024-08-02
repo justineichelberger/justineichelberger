@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garner (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light moves across sky and stops suddenly and reversesA bright white light kind of like a plane or a planet looks and it was moving very fast in a horizontal position from south to north, at apx. 45 degrees.  I was only surprised by the speed it was moving until it stopped and immediately reversed and went back the same way it had come. I knew no plane or object known to me could physically do this.  It went out of my line of vision obstructed by trees.  I moved and looked for it but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57970.html](http://www.nuforc.org/webreports/reports/057/S57970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sun Valley (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We watched the circle shaped craft move erratic across the sky.  It seemed to be hovering and searching for something.  It had red and white blinking lights blending in with other aircraft, but moved like no aircraft we have, then suddenly changed from red and white lights, to a light blue light, then seemed to land at water and power field on Sheldon and Roscoe St.  Lasted for 3 minutes.  I saw a red orb circle the same area a couple months ago and a couple months before that, i saw a bright white light fly slow over the 405 freeway.  Then disappear in seconds.  Later, navy says they tested a missle over the valley?  It's highly populated. and there was a blue vapor trail that stayed in the sky for an hour or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135535.html](http://www.nuforc.org/webreports/reports/135/S135535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
