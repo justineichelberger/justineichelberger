@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a star like object flickering strangely.  I got up and saw it was rapidly flashing red green orange white blue, no real pattern i could see.  I got my wife, and we watched it dart down diagonally.  It stayed there for about 30 minutes until it moved from its location very quickly and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120827.html](http://www.nuforc.org/webreports/reports/120/S120827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wapakoneta (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>sphere with orange flame moving across sky.My wife and I were heading north on Glynwood-New Knoxville rd.  We were approximately 500 feet from the 33A intersection when I noticed an orange object in the Northern sky.  I immediately stopped the car and we got out; trying to capture a picture of the object with our cell phones.  Unfortunately the pictures did not come out. The object was moving from the North to the Southwest.  There was no sound.  It looked like a sphere with an orange flame moving across the sky.  It could not have been a hot air balloon because there was no canopy visible and it moved too fast across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64989.html](http://www.nuforc.org/webreports/reports/064/S64989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
