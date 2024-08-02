@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sun Valley (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We watched the circle shaped craft move erratic across the sky.  It seemed to be hovering and searching for something.  It had red and white blinking lights blending in with other aircraft, but moved like no aircraft we have, then suddenly changed from red and white lights, to a light blue light, then seemed to land at water and power field on Sheldon and Roscoe St.  Lasted for 3 minutes.  I saw a red orb circle the same area a couple months ago and a couple months before that, i saw a bright white light fly slow over the 405 freeway.  Then disappear in seconds.  Later, navy says they tested a missle over the valley?  It's highly populated. and there was a blue vapor trail that stayed in the sky for an hour or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135535.html](http://www.nuforc.org/webreports/reports/135/S135535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Another Zig Zagging Light Light.I went to the Houston mall today to pick up some more tapes, when I was there one of the stores employees told me about a sighting he and his friend had when they were out camping at Irrigation Lake which is just a few minutes west of Houston, British Columbia. Both were sitting at the lakes shore when a bright white flash of light caught their eye and traveled from the north to the south and at a high rate of speed. Before they lost sight of it, the light started zig zagging briefly across the sky and completely disappeared. The entire event lasted approx: 3 seconds but it did give the fellows something interesting to tell their friends. HBCC UFO Note: It seems there has been a lot of this type of sightings recently that I have received. Lights zig zagging across the sky. It makes me wonder what the heck these lights are. Thank you to the fellow for his report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30595.html](http://www.nuforc.org/webreports/reports/030/S30595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
