@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:49 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Burke (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw three triangular craft that appeared to be followed by 10-20 smaller lights.My girlfriend and I were out taking long exposure shots on the road about halfway to the old Star Mine in Burke, outside of Wallace, ID. We were positioned facing south 30 or so feet away from the road and a small stream. The road ran generally north to south. There were tree covered mountains on either side of the valley we were in. While were taking some longer photos, and chatting, I saw a bright light over my shoulder.I turned to see a row of three triangular crafts coming over the mountains to the east. The silhouettes appeared to be large triangles with rounded corners. They had bright white lights on each corner. In addition to the three triangles, there were somewhere between 10-20 smaller red lights following them. A few behind the first two, and then the bulk of them following the third. There was absolutely no sound that accompanied any of them. We frantically tried to take pictures, but my girlfriend's camera died just before (it would be easy to fantasize that the crafts did this, but I doubt it), and mine was in the middle of rendering one of our long exposures. Before I could get my phone out of my pocket, they had already gone behind the western mountains on the other side of the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158517.html](http://www.nuforc.org/webreports/reports/158/S158517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>fast bright moving object at night, level flightI was late at night as usually hand watering the backyard garden while watching the stars, and the started following the red blinking lights of a jet airplane moving East to West, at apparently usual speed, whatever it is and at high altitude (some 30,000 feet as jets do my guess), and as the airplane passed at about 2 O'clock (I was facing North) a bright white object appeared from the North and moved really fast (4-5 times the relative speed of the moving airplane) in a North to South direction (perpendicular to the plane's route) but clearly at a much lower altitude (15 to 20 K feet) and in a horizontal, level trajectory, not a meteorite or at least not the way a meteorite behaves, no trail or debris at all as I have seen in the past many meteorites fall from the sky at night.  It was such a rare view that I actually tried following the object with my sight after it disappeared from view behind a tree.  Whatever it was it was bright white, not red like othe! r meteorites I've seen. and what surprised me was the straight line it followed as if in level flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92012.html](http://www.nuforc.org/webreports/reports/092/S92012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
