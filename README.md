@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wapakoneta (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>sphere with orange flame moving across sky.My wife and I were heading north on Glynwood-New Knoxville rd.  We were approximately 500 feet from the 33A intersection when I noticed an orange object in the Northern sky.  I immediately stopped the car and we got out; trying to capture a picture of the object with our cell phones.  Unfortunately the pictures did not come out. The object was moving from the North to the Southwest.  There was no sound.  It looked like a sphere with an orange flame moving across the sky.  It could not have been a hot air balloon because there was no canopy visible and it moved too fast across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64989.html](http://www.nuforc.org/webreports/reports/064/S64989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Streak of bright white light over Los AngelesI was out looking at Venus around 4:30 am smoking a cigarette and saw a thin streak bright white light fall at a downward trajectory and then vanish.  It lasted less than a second.It definitely wasn't a meteor and didn't have any orange trails.  There were no sparks.  It looked like if you took a section of a piece of shoelace and cut it so it was about 6 inches long, inflated it so it was rounded, but still flat... and the shoestring glowed a bright white to almost bluish light saber glow.The shoe string was huge though.  Miles long and was miles above the ground   It flew directly over head and fell downward, then disappeared all at once.  Not like it fell past the horizon, or anything like that.So if there's anyone else who saw it also, or anyone who might know what it was, please post here.Thanks!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91379.html](http://www.nuforc.org/webreports/reports/091/S91379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
