@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Object stood still in Charleston skyThe dark grey-black object high in the NW sky stood still; it was bell or dome-shaped.  A friend and I were lounging in my pool, just chit-chating and I was looking up and began to focus on what I thought was a bird.  Then I realized the bird wasn't moving; I stood up and really began looking at this thing which looked like a dot in the sky.  My friend couldn't see it at first, but when she focused in at exactly where I told her to look, she said, "yes, yes, ooohhhh, that's weird, what is it?"  It wasn't until I got the binoculars that we could see that it was sort of dome or bell-shaped.  It was really far away and we couldn't make out an details.  We watched it for about a half an hour, then the night sky faded it out. Wonder if anyone else in the area saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51870.html](http://www.nuforc.org/webreports/reports/051/S51870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Walker (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>shiny object on a clear sunny day too far to i.d.I was on my way home from work when i noticed a silver/metalic looking thing in the sky, but when i got my camera out and ready to shoot it was gone. but i snapped a photo in the sky just in case, after viewing the photo and zooming in i saw what appears to be an object similar to a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91798.html](http://www.nuforc.org/webreports/reports/091/S91798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
