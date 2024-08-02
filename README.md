@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:47 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Blue Springs (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>orange sphere burning at the center appears over my houseMe and a friend were swimming in my pool and had been watching meteors all night and then out of nowhere a bright orange sphere just appeared overhead about 3 or 4 hundred feet up.  It was burning at the center but made no noises whatsoever.  We both watched it hover in one spot for about 5 to 10 seconds, and then it just started to move towards the horizon.  It didn't move much faster than a bird would fly id say.  We watched it disappear over the horizon and then asked each other if we really just saw that. We saw many planes criss crossing the area for about 30 minutes after it disappeared too.  I would have gotten a picture but I was soaking wet and my phone was across the yard</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83012.html](http://www.nuforc.org/webreports/reports/083/S83012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garner (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light moves across sky and stops suddenly and reversesA bright white light kind of like a plane or a planet looks and it was moving very fast in a horizontal position from south to north, at apx. 45 degrees.  I was only surprised by the speed it was moving until it stopped and immediately reversed and went back the same way it had come. I knew no plane or object known to me could physically do this.  It went out of my line of vision obstructed by trees.  I moved and looked for it but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57970.html](http://www.nuforc.org/webreports/reports/057/S57970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
