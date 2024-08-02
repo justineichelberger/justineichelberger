@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Avoch (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright object moved quickly across the night sky.Object of similar size and shape to a star, in fact we thought that is what it was until it started moving, much too quickly to be any kind of aircraft.  It moved from the east to the west at a fast pace, became brighter, almost like afterburners or exiting the atmosphere - not sure, then disappeared.((NUFORC Note:  We have requested clarification on the date.  We believe that it may be July 2nd, but it may be February 7th.  PD))((COPY OF CORRESPONDENCE FROM SOURCE OF REPORT))Sorry date was 2nd August 2009.((END))((NUFORC Note:  We have amended date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71470.html](http://www.nuforc.org/webreports/reports/071/S71470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Object stood still in Charleston skyThe dark grey-black object high in the NW sky stood still; it was bell or dome-shaped.  A friend and I were lounging in my pool, just chit-chating and I was looking up and began to focus on what I thought was a bird.  Then I realized the bird wasn't moving; I stood up and really began looking at this thing which looked like a dot in the sky.  My friend couldn't see it at first, but when she focused in at exactly where I told her to look, she said, "yes, yes, ooohhhh, that's weird, what is it?"  It wasn't until I got the binoculars that we could see that it was sort of dome or bell-shaped.  It was really far away and we couldn't make out an details.  We watched it for about a half an hour, then the night sky faded it out. Wonder if anyone else in the area saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51870.html](http://www.nuforc.org/webreports/reports/051/S51870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
