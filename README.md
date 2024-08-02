@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:48 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Midland (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Zig Zagging Light in the night sky.I was up north with some friends and as we were sitting around outside the cottage, I was staring up into the sky marvelling at the beauty of the stars. I live in Toronto so when I do manage to get away from the light pollution I try to take it all in. What I saw was this; a light that closely resembled that of a bright star zig zag from one end of the horizon to the next. The light was moving at too fast a speed to be a satellite, and the zigs and zags must have cleared miles of sky judging from how far up the light appeared to be. I followed the light for as long as I could before losing it over the horizon.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39655.html](http://www.nuforc.org/webreports/reports/039/S39655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Holladay (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two bright, white lights were seen in formation, and possibly exiting Earth's atmosphere, late Au. 2nd over the Salt Lake Valley.There were two bright lights in the sky at about 11:20 pm over the Salt Lake valley.  They were seen from south-eastern Salt Lake.  They initially looked like airplanes, but they did not blink, were much brighter, bigger, and followed each other in close formation.  They were traveling north. After 30 seconds, the lead began to appear smaller and slowly dimmed, as though it was increasing distance from the earth's surface.  The second light followed exactly the same trajectory and pattern of dimming.  An attempt was made to use a cell phone video camera to record the event, but the two lights were gone before the camera was even running.  The whole sighting lasted about two minutes.  The lights seemed to follow the same path as planes approaching the airport from the south, but appeared to be higher than planes would be found and "increased distance from earth" well before getting near the airport.  There was also no sound.The witnesses were a young married couple (20s & 30s) who had just returned home from a movie. The lights were bright white and were seen from the witnesses' apartment parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82909.html](http://www.nuforc.org/webreports/reports/082/S82909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
