@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 2 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Walker (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>shiny object on a clear sunny day too far to i.d.I was on my way home from work when i noticed a silver/metalic looking thing in the sky, but when i got my camera out and ready to shoot it was gone. but i snapped a photo in the sky just in case, after viewing the photo and zooming in i saw what appears to be an object similar to a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91798.html](http://www.nuforc.org/webreports/reports/091/S91798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Niagara (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Next to the falls on Canadian side in Niagara ; the way it fly is not conventional to be a plane nor an animal because it was speeding fast, making not conventional circle!  The triangle form can be cleary seen in the picture i had a chance to take</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148011.html](http://www.nuforc.org/webreports/reports/148/S148011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
