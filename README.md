@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wilson (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three bright orange/red lights hovering above Rt. 22 forming in an acute triangle.Me and my boyfriend were driving on Rt. 22 Sunday night around 11 pm when we both noticed three orange/red lights in the sky.  I thought they were the orange street lights on the highway at first, but as I kept staring I noticed that the three lights were forming an acute triangle and they were not moving very fast.  I tried looking for a string or wire they could have been hanging off of, but I couldn't see anything.  It was a cloudy night so I couldn't make out any stars or planes in sight.  These three lights just sort of hovered above the 25th St. shopping center near Olive Garden.  We started to drive underneath them and I had to turn my head back to look at them (which means they were not moving or they were moving very slowly).  They were pretty bright lights and they did not flicker or flash at all.  They were pretty stagnant as well; they didn't move around a lot and they kept the triangle shape consistent. Today 8/4/14 my boyfriend drove on Rt. 22 again and drove on the same exact spot that we saw the lights at last night, but they were not there anymore.  They were too low to the ground to be air planes and too high up to be street lights.  I tried for hours to try and come up with a logical explanation and I couldn't.  I do not want to jump to conclusions, but it looked like all the stories you hear about UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112203.html](http://www.nuforc.org/webreports/reports/112/S112203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tokyo (Japan) () reported seeing craft that fit the description of some '' over a period of approximately moment - moment minutes.</sub><blockquote><sub>A weird thing is in picture.I took a lot of pictures of the night view but just only this picture was weird and something like ufo was in this picture.  So I want you to check this picture.Thanks!((NUFORC Note:  Photo is ambiguous.  Object could be a flying insect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142536.html](http://www.nuforc.org/webreports/reports/142/S142536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
