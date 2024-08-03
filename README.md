@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:14 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jammu (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>We saw a star like object,twinkling like a star but with differentiable irregularity and changing location and brightness.The object was in the sky where there were very few visible stars or constellations and I spotted it because of its weird , irregular pattern of movement(like it was hovering).I know it was not a sattelite because it was not moving in one direction but was changing speed ,brightness like a bulb being switched on/off.It was not an airplane or a helicopter as the lights were white like that of a star and the way it was moving and sometimes just hovering in one place and slowly changing its position until it finally faded away.((NUFORC Note:  Date is approximate.  We believe that the possibility of a "twinkling" star might have to be ruled out, before we could conclude that the object was a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39145.html](http://www.nuforc.org/webreports/reports/039/S39145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pigeon Forge (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On the night of 08/03/2016, I was walking to my car and as I shut the car door I noticed a bright orange/red ball, three to be exact.  they were very close together no flashing lights that's how we knew they where not helicopters or airplanes.  As they were coming toward us from the south they where in a straight line, then all of a sudden, the one in he front shot out to the east and slowly disappeared.  The other two shot off slowly into the west and then slowly disappeared as well.  We stood there looking and then all of a sudden two more reappeared out of thin air in the exact south location.  This time these two stayed in single formation very close to each other they looked about the size of star.  As they where coming from the south these two cane to a complete stop right over our heads and then shout to the west and disappeared.  I've never been a believer in UFOs but tonight definitely changed my whole outlook on what has joined us here on earth.  This is no joke.  My whole family saw this and we also have three videos of this sighting.  Also, while this was happening all five of my families cell phones lost service shut off and then came back on.  I thought about it and started questioning what I saw, so I called our local airport and they where closed its a very small airport just for our little town so when they are closed it says on the recording there is no incoming or out going air craft so this was no normal aircraft we saw.  This was 100 %  a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129004.html](http://www.nuforc.org/webreports/reports/129/S129004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
