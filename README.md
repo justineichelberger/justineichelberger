@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cayucos (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four Fireballs in Cayucos SkyA friend and I were sitting on a rooftop balcony in Cayucos when we saw three glowing red/orange firebals forming a triangle, moving through the sky.  They stopped after a few minutes, and hovered.  One of the fireballs suddenly disappeared.  I was taking photos and then took another photo when it disappeared.  My friend said, "quick, take another picture before the second one disappears." Immediately after I snapped the picture of the two remaining fireballs, another one disappeared, followed about a minute later by the third.  A fourth fireball appeared lower in the sky and moved toward us for about a minute, changing direction several times, moving back and forth laterally, before disappearing.  All four fireballs seemed to change from orange to red to white several times.  Each blinked rapidly before disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100728.html](http://www.nuforc.org/webreports/reports/100/S100728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Bern (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large orange circle appearing and moving across the sky at high rate of speedI was sitting on the back stairs talking on the phone, when I saw a bright flash of light.  I looked up, and saw a bright, yellow/orange ball of light in the sky that had not been there previously.  As I sat and watched this, it  started  going in a slow circle, then flew off at a speed no aircraft could match.I was the only witness as far as I know.  There was no sound made by the object, the color remained solid and unchanging.  It was large in size, bigger then a plane, if I had to guess is say it was several hundred yards in diameter.I was not intoxicated or under the influence of any substance.  I am familiar with meteors, couple space craft and aircraft, this was 100% none of those.((NUFORC Note:  We spoke via telephone with this witness, and he sounded quite sober-minded to us.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91413.html](http://www.nuforc.org/webreports/reports/091/S91413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
