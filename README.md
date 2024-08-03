@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cheadle (Canada) (AB) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large red orb shape shifting to smaller orange orb then a Cresent then to a black rectangular object.Appeared as a large intense red orb zig zagging out of the southeast sky.  It was about the size of your thumbnail at arms length.  Approximate altitude was 1500 to 2000 ft.  It stopped over a house and it's shape changed to half it's original size and became bright orange.  It then changed again to a orange Cresent with a dark Grey hazy mass emerging from its right or south side.  The orange Cresent gave way to a slowly emerging dark Grey almost black rectangular object easily twice the size of the red orb.  It slowly drifted silently due south parallel to hwy 24 until it's colour blended with the darkening evening clouds.  Object was smooth in appearance with no visible windows or protrusions or obvious propulsion means.  It's corners were square and had a 3 dimensional shape.  It's surface was a satiny grey to black.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103200.html](http://www.nuforc.org/webreports/reports/103/S103200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cockeysville (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I breifly looked up and saw a white light flash across above the treeline then disappear because of its rapid speed.The object was a perfectly circular ball of light that was moving at a very rapid speed and was in view for approx 1 second but immediatly after I saw it I asked the 2 other people with me if they had and 1 had seen it, the other had not. It passed above us in the north in a break in the treeline. I imagine that in all likelyhood that it was just an unusually bright circular meterorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08543.html](http://www.nuforc.org/webreports/reports/008/S08543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
