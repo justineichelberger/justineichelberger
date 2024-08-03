@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Bern (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large orange circle appearing and moving across the sky at high rate of speedI was sitting on the back stairs talking on the phone, when I saw a bright flash of light.  I looked up, and saw a bright, yellow/orange ball of light in the sky that had not been there previously.  As I sat and watched this, it  started  going in a slow circle, then flew off at a speed no aircraft could match.I was the only witness as far as I know.  There was no sound made by the object, the color remained solid and unchanging.  It was large in size, bigger then a plane, if I had to guess is say it was several hundred yards in diameter.I was not intoxicated or under the influence of any substance.  I am familiar with meteors, couple space craft and aircraft, this was 100% none of those.((NUFORC Note:  We spoke via telephone with this witness, and he sounded quite sober-minded to us.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91413.html](http://www.nuforc.org/webreports/reports/091/S91413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looked like a flaming ball shooting fireballs off it then it turned and sped off to the South, no way it was a plane or meteor</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148016.html](http://www.nuforc.org/webreports/reports/148/S148016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
