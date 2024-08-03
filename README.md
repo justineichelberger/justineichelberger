@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cockeysville (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I breifly looked up and saw a white light flash across above the treeline then disappear because of its rapid speed.The object was a perfectly circular ball of light that was moving at a very rapid speed and was in view for approx 1 second but immediatly after I saw it I asked the 2 other people with me if they had and 1 had seen it, the other had not. It passed above us in the north in a break in the treeline. I imagine that in all likelyhood that it was just an unusually bright circular meterorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08543.html](http://www.nuforc.org/webreports/reports/008/S08543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cayucos (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four Fireballs in Cayucos SkyA friend and I were sitting on a rooftop balcony in Cayucos when we saw three glowing red/orange firebals forming a triangle, moving through the sky.  They stopped after a few minutes, and hovered.  One of the fireballs suddenly disappeared.  I was taking photos and then took another photo when it disappeared.  My friend said, "quick, take another picture before the second one disappears." Immediately after I snapped the picture of the two remaining fireballs, another one disappeared, followed about a minute later by the third.  A fourth fireball appeared lower in the sky and moved toward us for about a minute, changing direction several times, moving back and forth laterally, before disappearing.  All four fireballs seemed to change from orange to red to white several times.  Each blinked rapidly before disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100728.html](http://www.nuforc.org/webreports/reports/100/S100728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
