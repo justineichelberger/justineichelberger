@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:46 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:13 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A red light that traveled across the sky, then dissapeared.My husband called me outside to see this weird red light. He's an avid sky watcher now that we've moved to Arizona. He had his binoculars and pointed to this red point of light that appeared to be stationary in the northwestern sky. As I looked through the bino's I could tell that whatever it was was very high in altitude and was moving fast, not slow. It was traveling east. As it got directly above us it made a 90 degree turn north, went on for 3 seconds then dissapeared. It stayed red the entire time, no strobe lights, and no pulsations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16245.html](http://www.nuforc.org/webreports/reports/016/S16245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Riverdale (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 Metallic Unidentified Flying Objects Slowly Flying 1000Ft Above Completely stops in mid air and Shoots off out of sight.Metallic Shaped Saucers Flying approx:1000ft above ground and in formation of cross and moving slow then coming to complete stop, and then all crafts shot directly up in sky and  stopped for 1 second, or 2, and then shot forwards out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135533.html](http://www.nuforc.org/webreports/reports/135/S135533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
