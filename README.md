@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:14 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tokyo (Japan) () reported seeing craft that fit the description of some '' over a period of approximately moment - moment minutes.</sub><blockquote><sub>A weird thing is in picture.I took a lot of pictures of the night view but just only this picture was weird and something like ufo was in this picture.  So I want you to check this picture.Thanks!((NUFORC Note:  Photo is ambiguous.  Object could be a flying insect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142536.html](http://www.nuforc.org/webreports/reports/142/S142536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jammu (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>We saw a star like object,twinkling like a star but with differentiable irregularity and changing location and brightness.The object was in the sky where there were very few visible stars or constellations and I spotted it because of its weird , irregular pattern of movement(like it was hovering).I know it was not a sattelite because it was not moving in one direction but was changing speed ,brightness like a bulb being switched on/off.It was not an airplane or a helicopter as the lights were white like that of a star and the way it was moving and sometimes just hovering in one place and slowly changing its position until it finally faded away.((NUFORC Note:  Date is approximate.  We believe that the possibility of a "twinkling" star might have to be ruled out, before we could conclude that the object was a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39145.html](http://www.nuforc.org/webreports/reports/039/S39145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
