@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The movement away from me was too quick to be a blimp, and the change in direction to sudden for a plane.I awoke at 12:14 am on the 3rd of August 2001. I found myself walking to our third story balcony and saw a cigar shaped object about the size of my thumb at arm's length. I saw it at a 75 degree angle off the horizon toward the East. It was a clear night with a few clouds and a bright moon. No sound came from it as it drifted east. I thought it was a blimp as I watch the light pattern flick on and off... However, I saw the shape seem to shrink and wondered at this until I realized it was moving east away from me. It moved or "shrank" very quickly and then suddenly began a southern line of flight again within 2 or 3 seconds. I watched it move south until tress blocked my view. I can't say I saw a surface-but it did block the stars. In addition, the movement away from me was quick enough to cause grave doubt in my blimp theory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18819.html](http://www.nuforc.org/webreports/reports/018/S18819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Morton grove (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was on my roof and noticed an orange/fiery ball, circling around in the sky.  It appeared as a Chinese lantern, but it wasn't one.  It passed the moon and was a bit translucent.  It then flew east into the sky and disappeared not to be seen again for the rest of the night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120863.html](http://www.nuforc.org/webreports/reports/120/S120863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
