@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Senatobia (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw what I can describe as a silent, stationary beacon in the night sky make a single revolution and vanish.I do not want to sound like one of those kooks that probably contact your agency all the time, but I have seen something that is a mystery to me.I am a retired Federal employee (34 years USACE) and I have always had a fascination with aviation, military aircraft, the space program and the heavenly bodies above.  I've always got a eye on the sky (day or night).  For health purpose, I walk at night in my small town neighborhood.  Tonight, 3 Aug 2014, at approx. 9:15pm Central time, I saw what I can only describe as a silent, stationary beacon in the night sky (like a lighthouse at sea) make a single revolution and disappear with no further sight or sound.  I pulled my cellphone and checked my “PlaneFinder” app, and as I expected, there was nothing there.  The truly amazing aspect of this event is that it occurred once before while I was walking at night, at roughly the same time in August of 2004.  Almost exactly ten years ago.I live in northwest Mississippi, 30 mile south of Memphis International.  We get a lot of FedEx traffic in the evenings so I’m quite familiar with their aircraft, their lighting and their sounds.  And helicopters are extremely audible.  Nothing that I know of in aviation, silently turns in place with an extremely bright search light that points downward.What do we have in our inventory that can cause such an occurrence?  Thanks,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112180.html](http://www.nuforc.org/webreports/reports/112/S112180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Oconto Falls (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>FireBall Crash In Oconto WI 23:35 08/03/01Large object streeked (leaving a cloudy trail) over  highway about 7-10 miles ahead of us glowing dimly at first then bursting into flames traveling very very rapidly  dissapearing over tree line (guess at altitide 3k-6k ft ) aprox 37degrees above horizon.  We were 3 miles east of intersection  "I "on hwy 22 outside Oconto WI  heading west to Minneapolis MN.   Clear skies,  Full moon,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18832.html](http://www.nuforc.org/webreports/reports/018/S18832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
