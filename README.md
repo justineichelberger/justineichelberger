@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Oconto Falls (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>FireBall Crash In Oconto WI 23:35 08/03/01Large object streeked (leaving a cloudy trail) over  highway about 7-10 miles ahead of us glowing dimly at first then bursting into flames traveling very very rapidly  dissapearing over tree line (guess at altitide 3k-6k ft ) aprox 37degrees above horizon.  We were 3 miles east of intersection  "I "on hwy 22 outside Oconto WI  heading west to Minneapolis MN.   Clear skies,  Full moon,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18832.html](http://www.nuforc.org/webreports/reports/018/S18832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cheadle (Canada) (AB) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large red orb shape shifting to smaller orange orb then a Cresent then to a black rectangular object.Appeared as a large intense red orb zig zagging out of the southeast sky.  It was about the size of your thumbnail at arms length.  Approximate altitude was 1500 to 2000 ft.  It stopped over a house and it's shape changed to half it's original size and became bright orange.  It then changed again to a orange Cresent with a dark Grey hazy mass emerging from its right or south side.  The orange Cresent gave way to a slowly emerging dark Grey almost black rectangular object easily twice the size of the red orb.  It slowly drifted silently due south parallel to hwy 24 until it's colour blended with the darkening evening clouds.  Object was smooth in appearance with no visible windows or protrusions or obvious propulsion means.  It's corners were square and had a 3 dimensional shape.  It's surface was a satiny grey to black.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103200.html](http://www.nuforc.org/webreports/reports/103/S103200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
