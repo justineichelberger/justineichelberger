@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looked like a flaming ball shooting fireballs off it then it turned and sped off to the South, no way it was a plane or meteor</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148016.html](http://www.nuforc.org/webreports/reports/148/S148016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>High Speed light vanishes on clear nightTraveling from North to South was a single, solid white light that suggested a high altitude object such as a plane.  It was night and the light bright, no suggestion of shape or configuration of the craft was possible.  The speed of the light was many times faster than a normal planes speed, it traveled in a straight line.The remarkable thing about this was that as i watched this high speed light for approx 7-8 sec, it faded away into nothing.  This was a clear night, no clouds, the object was just past its apex flying across my field of vision, and it just went out.  Not like the light was turned off, but dimmed, took approx 2 sec to disappear.Possible factors: 45 south of McCord AFB and Fort Lewis.  Directly between Seattle and Portland airports (lots of air traffic).((NUFORC Note:  Source of the report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71530.html](http://www.nuforc.org/webreports/reports/071/S71530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
