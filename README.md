@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:36 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 3 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Flattened cylinder with blue glowThis is my report on a most recent sighting August 3, 2013 at approximately 11:35PM.  My location is north east Cedar Rapids Iowa, precisely 42° 01' 00" N by 91° 40' 30" W which is the surveyed location of my back yard astronomical observatory.  I am a retired electrical engineer working in the aerospace industry over 45 years.  I am 78 years old and my hobby is astronomy.  My observatory is a slide off roof type giving me a full view of the sky.  While preparing to mount a camera on my telescope for some deep sky photographs I observed an object moving slowly almost over head in a Northerly direction.  The object trailed a blue glow.  It did not have navigational lights and the only reason I could make out the shape had to be that it was low enough to catch the glow from the city lights south end east of my location.   The object was rectangular or perhaps a flattened cylinder. Definitely not a shape I associate with aeronautics.  While observing the blue glow intensified and the object disappeared over the northern horizon in perhaps 2 seconds.  My estimate of the speed was something like four to five thousand miles per hour, yet there was no sound.Over the past several years, I have seen different objects at various places in the sky but never paid much attention to them.  Only recently with the radio on in the observatory I became aware of other people reporting unusual events.  I hope this report is of some use and will keep and eye out for any other unusual aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100855.html](http://www.nuforc.org/webreports/reports/100/S100855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Powell (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately across sky - across sky minutes.</sub><blockquote><sub>orange fireball moving from south to north over Powell Ohiojust a large orange glow ( like a fireball) going from the south to north. No sound nor did it fall to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71483.html](http://www.nuforc.org/webreports/reports/071/S71483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
