@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Dorking, Surrey (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>TWO WHITE CIRCULAR OBJECTS MOVING AT HIGH ALTITUDE & SPEED.A WHITE CIRCLE – LIKE A VERY SMALL MOON, HEADING WEST TO EAST.	 ANOTHER IDENTICLE OBJECT APPEARED A FEW MOMENTS LATER SLIGHTLY TO ONE SIDE, BUT IN FRONT OF THE FIRST OBJECT.	 THEY TURNED AND HEADED NORTH DIRECTLY IN LINE, BEFORE DISAPPEARING INTO THE DISTANCE.	 IT WAS A CLEAR BLUE SKY (NO CLOUDS IN SIGHT).THEY MOVED MUCH QUICKER THAN ANY AIRCRAFT/SATELLITE, I HAVE EVER WITNESSED AND HIGH UP. HAVING WATCH AIRCRFT I WOULD ESTIMATE THERE ALTITUDE AT OVER 35000ft. 					 THESE OBJECTS WERE ALSO MUCH LARGER THAN A PLANE AT THAT SORT OF HEIGHT. THERE WAS NO SOUND OR VAPOUR TRAILS FROM THEM.THE WHOLE INCIDENT LASTED ABOUT 3 OR 4 MINUTES.I WITNESSED A SIMILAR INCIDENT ABOUT TWO YEARS AGO, UNDER VERY SIMILAR CONDITIONS, WHEN THERE WERE FOUR OF THESE OBJECTS INVOLVED. CAN ANYONE EXPLAIN THIS PHENONOMEN?	</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58141.html](http://www.nuforc.org/webreports/reports/058/S58141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Morphing Sphere UFOi was driving my car home from a friends house late.  was driving down road on the interstate, going approx. 50 an hr. suddenly, a red morphing object appeared above the interstate sign probably 20 feet above it. it came into illumination at night in front of my car coming horizontal in the sky, it seemed to appear from the direction to my right. the object was the brightest red ive ever seen, and single morphing undiscernable shape. it was red, then morphed and the colors changed from brown, black , then the brightest blue in front of my eyes. inside, as it changed formation, i notice objects inside, such as wire types or techincal machinery. it was browning, caramal mixed with blackish inside. i could not really describe what the type of wires i was seeing, it was like a long cylinder with barbwire wrapped around. i felt like i might be looking at the underside back side view of the craft. i took out my camera and snapped two photos as proof, because id see! n a different craft 2 weeks earlier.  i felt like it was wondering what my lights from car were, as if it startled it, and the color changing and morphing was its identification meter. it kept its blue shape, then floated over to a building in the city, and stayed over it looming above with the brightest blue shape. i drove away and went home, i felt in awe like my mind couldnt believe what it was seeing. only when i got home and went to my room did what happen really hit me. its like my mind wouldnt come to terms with it. i still cant get this experience out of my head.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88056.html](http://www.nuforc.org/webreports/reports/088/S88056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
