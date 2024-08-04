@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Grovetown (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange disappearing lights that looked like aircraft at first. These lights have been reported in the area before.They looked like 2 military jets at first. There were 2 and they were close beside each other. One was further behind. They were just lights as headlights look to be and it was shocking to see them flying toward us if they were jets. I say military jets because I had enough time to ponder if they were helicopters but they were moving too fast.  They weren't falling but seemed to be flying down and forward at an angle toward us.  At the time, it didn't occur to me jets make lots of noise and there was no noise.  Just at the top of the treeline, the first light blinked out and shortly after, the second light blinked out. There was a faint dark cloud left behind and I watched because I wasn't sure if it was from that or just clouds. It disappeared. I have no idea what this was but I would hope there is a reasonable explanation. It happened over a large acreage of land used for trail riding. My daughter and I were alone when we saw this.  The horses were grazing and apparently oblivious.  I should add that I had my car turned off so can't say if there were any magnetic effects.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45457.html](http://www.nuforc.org/webreports/reports/045/S45457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports witnessing unusual object against mountains to E of city. (Facts unclear)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00677.html](http://www.nuforc.org/webreports/reports/000/S00677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
