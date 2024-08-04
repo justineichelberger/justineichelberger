@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:06 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:16:47 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Shoreline (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>a bright light in the south-western skylooking south west from my brothers back deck I noticed a very bright star, as I watched it grew brighter and began to travel west across the sky. The light dimmed and faded still traveling the same direction until it could not be seen any longer. elevation to sighting aprox 40 degrees from ground paralell</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13670.html](http://www.nuforc.org/webreports/reports/013/S13670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bloomfield Hills (MI) reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fast moving, low to treeline ufoI was watching television on the couch and from the window looking to the backyard/swimming pool I saw an object up in the sky with red and blue lights. I thought this was strange because it seemed to be hovering and it was too late to be a commericial airline. I went outside and the ufo was heading in my direction. It was VERY, VERY QUICK and glided through the air, and it was quite low. The ufo was blinking red and blue lights and had a yellowish aurora of light around it. It was making a very loud humming sound as it made its way north. The shape of the object could best be described as a cone with a hexagonic/octagon type shaped top of silver color. It was a very errie sight, unlike anything I have ever seen in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38480.html](http://www.nuforc.org/webreports/reports/038/S38480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
