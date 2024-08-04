@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vienna (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It started as a circular beam of light and after acknowledging it it began to spin very fast then zoomed out of sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148089.html](http://www.nuforc.org/webreports/reports/148/S148089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Knoxville (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Taking pictures of hayfields to paint.Object was not seen until film was developed.On august 4, 1996 between 7-7:30am on a bright sunshiny day with a slight moring haze. I went out to the south of my home to take some snapshots of landscape material for future paintings. I had taken several shots at different locations before I arrived at this location. Approximately 5 miles south of Knoxville Illinois. I parked at a T intersection where I saw some large haybales and thought this would make for a good shot. I took EXP.#18 looking south. I then turned and took a shot to the west. Then I turned and walked to the intersection and took a shot to the north then I turned and walked a little way to the south and took EXP.#21. I did not know the object in these two exposures were there till I had the film developed. My concentration was mainly on the ground. The object in EXP#18 is approximately 1/3 of a mile away. The object in EXP#21 had moved off to the south east away from me. The time span between EXP#18 and EXP#21 was approximately 3 to 5 minutes. I am a graphic artist for the Maytag Corporation and have been employed there for 40 years. I paint landscapes for a hobby. I'm married with two grown children. I am sending you 2 images that I have blown up copies of. They will be sent via email from ((E-mail address deleted))t. Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04264.html](http://www.nuforc.org/webreports/reports/004/S04264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
