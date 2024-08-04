@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (south of, in Normandy Park) (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a cigar shaped object flying at the cloud level maintaing constant speed North to SouthHi,  We were walking our dog about 8:15PM and saw a cigar shaped object flying at the cloud level -- it went in and out of the clouds maintaing constant speed. It moved roughly from the North to the South. We saw it move for several minutes and it was clearly visible there were no wings or tail fins. It was about 20 times as long as it was wide. There was absoutlely no sound. Aircraft later at the same height we were able to hear. There were no trails or lights. The sun was glaring to setting so we had a good look.((NUFORC Note:  We wonder whether the witnesses might have observed a contrail behind a high-flying jet aircraft, although that is a guess.  It is not uncommon that aircraft at cruising altitude cannot be heard by witnesses on the ground, we observe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30528.html](http://www.nuforc.org/webreports/reports/030/S30528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Brooklyn Center (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>about  1:17 am over 252 in brooklyn center, evergreen park elementary, a brightly lit object hovered closer and closer to us.a group of us walked over to evergreen park elementary and were by the pavilion, when one of us noticed something in the sky. he said," what the hell is that? is that a ufo?" and we all looked and sure enough there was a saucer shaped thing. so we stared at it for about 4 minutes and took pictures on a cell phone and recorded some, but all that showed up was a little white dot. what we saw was brightly lit and had sparkly stuff all over it. it "hovered" to the right a little bit and then would change direction and go to the left. we finally got an idea to walk to the car that was about 3 blocks away and kept looking back when we noticed that it was following us. when we saw it the first time, it was behind some trees and when we were going to the car,  it was closer to us and not behind the trees. so we ran to the car fast as we could and drove onto 252 to get a closer look. when we got to 252 there was nothing and if it was a plane or a blimp or something then it couldnt have landed that fast. we never believed in this kind of stuff before and we all couldnt believe our eyes. now we know that there really is stuff out there that needs to be checked out. there was only one craft and it was really bright with lights all around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51937.html](http://www.nuforc.org/webreports/reports/051/S51937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
