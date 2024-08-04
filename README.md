@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rincon (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately continous - continous minutes.</sub><blockquote><sub>Bright yellowish disk objectI am still having continous observations of some type of craft. It appears as a bright cross when viewed on a low powered telescope. When I put my 10" Telescope with video on it it appears as a firey sun (yellowish) looking disk that is **EXTREMLY** bright in the center. Never the less, you can still make out a dark object that looks like a disk in the center. I have very detailed video through my telescope (I have a Meade Lx200 10" with an Astrovid 2000 video camera attached). This object appears every night for the past 3 - 4 weeks. There is also another object that is more white in color that appears near the back of my property in the early morining (0530 hrs)the night object is not present in the morning, I will soon get video of this! This is not a prank. I filed a report earlier but notice that it was not posted.((NUFORC Note:  We believe Venus is visible in the morning sky, at present.  Given that the event occurs daily.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18874.html](http://www.nuforc.org/webreports/reports/018/S18874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ufo triangle transparrent !hi, on the 4th of august i was rideing my bike home from 7-11 at about 3.15 am. i looked over my shoulder then saw this strobe like comming towards me. i motioned to it and said follow me. kind of jokeing about it. i got home ran in the house got my cam corder. went outside turned it on by the tree. then these strobe lites appeared from behind the tree. it must have followed me home. anyway , i have the video at home. i watched it several times. i finally deturmined this object was triange shape with these strobe lites in the front of ship. i could not see ship until i studied video several times. i could see triangle out line. the dam thing is tranparrent. i have studied ufos for years. this object was right over my house very low. and made no sound. please get back to me soon. i must show experts this clasified video.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51579.html](http://www.nuforc.org/webreports/reports/051/S51579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
