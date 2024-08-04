@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two fireballs observed over Atlantic Ocean from Ocean City, Maryland, hotel balcony.While on vacation in Ocean City, Maryland, wife and myself witnessed unusual sight over Atlantic Ocean while sitting on balcony of hotel room.  Date was either 8/3/17, 8/4/17, or 8/5/17 (don’t recall which of those three nights) approximate time 22:00 hours.Witnessed a fireball traveling parallel to the coast, heading from the north to the south, about the speed of a normal aircraft.  Seemed to be within a few miles of our location.  It turned east over the ocean, appeared on a trajectory to higher altitude, again at normal aircraft speed, and extinguished after about 10 seconds.  No aircraft warning or marker lights were visible nor could we hear any sound.  Fireball was visible for approximately 50 to 60 seconds total.A second identical sighting was witnessed 5 to 10 minutes after the first.Note that Dover Delaware Air Force Base.  Is not far north of our location.  Unsure if it might have been afterburners from jets conducting nighttime training.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138487.html](http://www.nuforc.org/webreports/reports/138/S138487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Numerous whites light observed flying over West Jordan, UtahOn August 4, 2013 at 2200 hours (10:00 pm), I and my wife witnessed an extremely bright light travelling northeast.  This light was about 12,000 ft AGL.  We observed it pass over a cloud which it illuminated.  The light was brighter than the lights of an aircrafts landings lights. As this light moved eastward in "turned off", it did not dim but turned off.The night before we were driving on the east side of the Salt Lake Valley, in Cottonwood Heights and observed two (2) more lights of the same intensity travelling northbound.  These two lights were travelling one behind the other in a distance of about fives miles apart on the same flight path and altitude."UFO" activity in the Salt Lake Valley has been increasing.  The last two weeks have been very interesting, on Sunday July 28 at about 1900 hours (7:00 PM), there was a thunderstorm coming in from the southwest, the ceiling of this storm was about 8,000 ft AGL.  Just above us we observed a black object that had a red light below it.  This object travelled north over Redwood Road from 7000 South and maintained a steady course and flight path.  The winds were blowing about 25 miles an hour from the north.  This was witnessed by 10 people and a few customers that in 7-11.  Which is located of the northwest corner of Redwood and 7000 South.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100812.html](http://www.nuforc.org/webreports/reports/100/S100812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
