@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:27 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yelm (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw this object (Below) on August 4, 2008 at 7:05 PM going from NW to SE over my house which is near Clear Lake (Yelm) WA.I was sitting in the backyard looking at my garden when something told me to look up and I saw this object flying over the top of a large tree. I watched it move to the SE and it went over my house and then after about 10 seconds it just vanished.If you travel SE from where I live you will be headed for Mt. Adams and the Trout Lake area?? This object made no sound and was about 1,000 feet or so in the sky and was moving faster then a plan or jet.As far as size I could not tell, But if I held up my hand it was about the size of a quarter.Has anyone else seen this object?? Gregg Marshall of Yelm, WA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68532.html](http://www.nuforc.org/webreports/reports/068/S68532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two fireballs observed over Atlantic Ocean from Ocean City, Maryland, hotel balcony.While on vacation in Ocean City, Maryland, wife and myself witnessed unusual sight over Atlantic Ocean while sitting on balcony of hotel room.  Date was either 8/3/17, 8/4/17, or 8/5/17 (don’t recall which of those three nights) approximate time 22:00 hours.Witnessed a fireball traveling parallel to the coast, heading from the north to the south, about the speed of a normal aircraft.  Seemed to be within a few miles of our location.  It turned east over the ocean, appeared on a trajectory to higher altitude, again at normal aircraft speed, and extinguished after about 10 seconds.  No aircraft warning or marker lights were visible nor could we hear any sound.  Fireball was visible for approximately 50 to 60 seconds total.A second identical sighting was witnessed 5 to 10 minutes after the first.Note that Dover Delaware Air Force Base.  Is not far north of our location.  Unsure if it might have been afterburners from jets conducting nighttime training.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138487.html](http://www.nuforc.org/webreports/reports/138/S138487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
