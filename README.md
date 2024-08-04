@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Knoxville (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Taking pictures of hayfields to paint.Object was not seen until film was developed.On august 4, 1996 between 7-7:30am on a bright sunshiny day with a slight moring haze. I went out to the south of my home to take some snapshots of landscape material for future paintings. I had taken several shots at different locations before I arrived at this location. Approximately 5 miles south of Knoxville Illinois. I parked at a T intersection where I saw some large haybales and thought this would make for a good shot. I took EXP.#18 looking south. I then turned and took a shot to the west. Then I turned and walked to the intersection and took a shot to the north then I turned and walked a little way to the south and took EXP.#21. I did not know the object in these two exposures were there till I had the film developed. My concentration was mainly on the ground. The object in EXP#18 is approximately 1/3 of a mile away. The object in EXP#21 had moved off to the south east away from me. The time span between EXP#18 and EXP#21 was approximately 3 to 5 minutes. I am a graphic artist for the Maytag Corporation and have been employed there for 40 years. I paint landscapes for a hobby. I'm married with two grown children. I am sending you 2 images that I have blown up copies of. They will be sent via email from ((E-mail address deleted))t. Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04264.html](http://www.nuforc.org/webreports/reports/004/S04264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (south of, in Normandy Park) (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a cigar shaped object flying at the cloud level maintaing constant speed North to SouthHi,  We were walking our dog about 8:15PM and saw a cigar shaped object flying at the cloud level -- it went in and out of the clouds maintaing constant speed. It moved roughly from the North to the South. We saw it move for several minutes and it was clearly visible there were no wings or tail fins. It was about 20 times as long as it was wide. There was absoutlely no sound. Aircraft later at the same height we were able to hear. There were no trails or lights. The sun was glaring to setting so we had a good look.((NUFORC Note:  We wonder whether the witnesses might have observed a contrail behind a high-flying jet aircraft, although that is a guess.  It is not uncommon that aircraft at cruising altitude cannot be heard by witnesses on the ground, we observe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30528.html](http://www.nuforc.org/webreports/reports/030/S30528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
