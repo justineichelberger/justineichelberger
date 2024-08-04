@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fire in the Sky, an Orange UFO Mystery.When I was sitting out side smoking looking at the sky, I saw two round balls of fire, they were moving slow and kind of spinning.  It was floating very low to the ground.  It looked as if both orbs went to land somewhere and disappeared. It wasn't that dark outside when this happened, anybody standing there could have seen this..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112193.html](http://www.nuforc.org/webreports/reports/112/S112193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairhaven (MA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was glad to have a late night sighting and share it with my daughter.On August 4, 2013, I saw a tear-drop shaped light in the sky around 3 AM.  I tried filming the object, but I struggled filming and zooming in on the object.  I followed it in the sky for over an hour.  It disappeared and then reappeared above my house and I was able to get some footage.  I am not thrilled with the pictures and video as I struggled with a new camera to get a clear picture.  I am happy, however, that I have something to look at.  I have had past experiences with sightings.  I have been sky-watching for close to 30 years, and actually woke my daughter to join me outdoors to see the object moving in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100724.html](http://www.nuforc.org/webreports/reports/100/S100724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
