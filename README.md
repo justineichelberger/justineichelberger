@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 4 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man witnesses 5  very luminous, "crescent-moon shapes" pass overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00673.html](http://www.nuforc.org/webreports/reports/000/S00673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Rapidly moving silver cylinder crosses horizon of HoustonA silver cylinder, possibly emitting a yellow and silver exhaust, appeared from the southeast, which would include the Gulf of Mexico, and flew at an extremely high rate of speed and disappeared over the horizon in the north northwest. Its course was parabolic and though its height was difficult to judge at night, it did not seem to be over six thousand feet up. It bore no resemblance to any aircraft, meteor or satelite that I had ever seen. I was on the porch of my house, which faces north, and looked up because I heard a strange muttering noise in the sky over the noise of the Saurday night traffic in West Houston. I yelled when I saw it and my daughter camr running out, but the object had already disappeared over the horizon,far faster than any helicopter could do it. The terrain is very flat down here and one can see quite a long way. My initial reaction was that it was a cruise missile, because it fit that profile. There were no news reports that I could find of this event the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18853.html](http://www.nuforc.org/webreports/reports/018/S18853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
