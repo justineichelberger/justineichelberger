@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in In orbit (space () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>live tv nasa ,on tv, 1st rigth to mid screen went up alittle then to the right then stoped.  the 2nd same right to mid screen just left of 1st one the stop.  the 3rd ? look like the circle on the craft whit a dark center. nasa - as soon as this happen the try to move offthis happen to find some wetre elase to show pople-- the cam. was not moveing at the time this happen..stars did not move-please see tape at this time 2:10 am western usa time- on tv-replay. hope they don"t cut it out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45479.html](http://www.nuforc.org/webreports/reports/045/S45479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in East Machias (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light in sky got brighter and truck almost stalled out light flickered out.First I want to say I am not crazy,  Iam only posting this because I mentioned my sighting to a co worker who told me to post it. Iam a reserve deputy sheriff what I seen I can't explain.  I was travling out of East Machias on Rte 191 when I noticed  a light in the sky, that I thought at first was a star but it was getting brighter and brighter,  the light was bright white and it did not move,  as I drover closer in it's direction it would get brighter,  Then my truck started to act like it wanted to stall out.  I stoped the truck, when I stoped the truck the light flickered and got dimmer and dimmer till it flickered out.  I looked for any other lights like a marker light or a strobe but I could not see a thing.  I tried my police raido and it was not working, till I arived home.    I am worried about people thinking I'm "nuts" but I'm not This event scared me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04346.html](http://www.nuforc.org/webreports/reports/004/S04346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
