@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:16 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kalispell (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Several nights of sightingsLast night we saw a bright light around 2330 this is around the same time that we saw it before a couple of nights ago.  The light is in the same area as before also.  I walked over to my neighbors house and we all watched it with our binoculars for an hour or so.  This time we were able to see a red light that seemed to change positions around the light at times.  It would move slowly around in the same basic vicinity.  I don't know who to report this to so I decided to sign on again.Myself and my husband and two of our neighbors all saw it.  None of them belived it to be a satillite.It is also back tonight again a bright light same approximate time and area in the sky.  So we've seen it three separate nights in the last week.((NUFORC Note:  We suspect that the sighting may have been caused by a celestial body, either a star or a planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30559.html](http://www.nuforc.org/webreports/reports/030/S30559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in In orbit (space () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>live tv nasa ,on tv, 1st rigth to mid screen went up alittle then to the right then stoped.  the 2nd same right to mid screen just left of 1st one the stop.  the 3rd ? look like the circle on the craft whit a dark center. nasa - as soon as this happen the try to move offthis happen to find some wetre elase to show pople-- the cam. was not moveing at the time this happen..stars did not move-please see tape at this time 2:10 am western usa time- on tv-replay. hope they don"t cut it out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45479.html](http://www.nuforc.org/webreports/reports/045/S45479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
