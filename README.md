@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:53 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hialeah (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball UFO zooms away at warp speed making no sound.As I stepped out of the car in a parking lot late one night with 2 friends, I looked up to the sky. I saw what a appeared to be a glowing ball of light.  It was pretty dim, I described it as a fireball because it looks a lot like the fireball UFO pictures posted on this site.  The second I saw it, I said "Holy S**t" and pointed my finger in the direction for my friends to see.  While they are turning around, the light got a little brighter and it zoomed away. It dissapeared out of my site in less than a second.  And IT MADE ABSOLUTELY NO NOISE.  So they turn around, see nothing, and think I am playing around.  They tell me to swear to "God", "My Mother" and several other things.  And then they said they beleived that I really thought I saw it, but that it was probably my imagination.But I know what I saw.  And it definitely was not my imagination.  I am 3rd year college student with a 4.0 gpa.  Tomorrow I will go back to my regular life and not really care much about this ever happening. It was an awesome experience though.  Too bad nobody ever beleives stories like these.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82942.html](http://www.nuforc.org/webreports/reports/082/S82942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately lights - lights minutes.</sub><blockquote><sub>lights arownd south mount.im a ufo investergater living in mesa a.z. i have <so far> viedo taped 6 nights of lights going back at the start of jun 15th untell now. the latest night happen aug. 5th  my son and i and a freind saw wight lights dancing arownd the south mount. we viedo tape thim for about 10 to 15 mins. i have witness a lot of ufo activity alot and news ch. 10 will be doing a story on the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38528.html](http://www.nuforc.org/webreports/reports/038/S38528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
