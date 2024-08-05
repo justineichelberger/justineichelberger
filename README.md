@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:53 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately lights - lights minutes.</sub><blockquote><sub>lights arownd south mount.im a ufo investergater living in mesa a.z. i have <so far> viedo taped 6 nights of lights going back at the start of jun 15th untell now. the latest night happen aug. 5th  my son and i and a freind saw wight lights dancing arownd the south mount. we viedo tape thim for about 10 to 15 mins. i have witness a lot of ufo activity alot and news ch. 10 will be doing a story on the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38528.html](http://www.nuforc.org/webreports/reports/038/S38528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>The past week I've noticed a stationary white light with red flashing lights to the west.  Every night the same light.  Sometimtimes higher sometimes lower.  Tonight , my friend was over and I pointed it out to her. As we were looking at it, another one appeared moving slowly around it for about 20 min before it descended down somewhere to the west. 20 min later another one appeared further away. There is no way this is a star, planet, or plane.  It was too slow moving to be a plane (a plane actually did fly by at one point and was over us and gone within minutes). This just sort of hovers, then moves, then hovers.  And way too big to be a helicopter.  Not to mention the original stationary one moved positions over the last hour. Also ... I don't know if this has any relevance, but there was a second plane that flew REALLY low over us ( I thought it was going to crash in my yard). It was a jet ... Not a small plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91489.html](http://www.nuforc.org/webreports/reports/091/S91489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
