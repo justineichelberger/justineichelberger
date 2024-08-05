@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Schererville/Merrillville (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Multiple hovering orange sphere/orbs in a broken triangle shape over Hwy. 30While traveling E. BOUND ON US30 through Schererville and entering Merrillville.  I observed at least 4 maybe 5 orange spheres/orbs which seemed to just hover with no sound over the highway, they were under 400 ft. approx.These lights were spread out into a broken triangle and seemed to just appear or catch my eye.  I sensed a very sureal feeling and was totally shocked and amazed.  My mind was racing with questions.With narrow sholders on the road and heavy traffic I did not stop but slowed down.  One light was larger (sphere) and the others seemed more like orbs.It was cloudy and I could not discern if they were connected.  About one quarter of a mile I turned off Hwy. 30 to enter Crown Point and looking back to my right I could still see one orange orb, lighting up the clouds.((NUFORC Note:  For some reason, witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83016.html](http://www.nuforc.org/webreports/reports/083/S83016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Results of research on Ft. Smith chevron sighting.This is a follow-up to my recent post here regarding the specific chevron-shaped object.  I have since done some research that would dispel two of my theories.  I contacted a retired B-58 crew member who confirmed that the leading edge of the wing did not glow when supersonic. I have also researched the possiblity of the XB-70.  The Final Report on the the XB-70 program published in 1972 lists every flight of each of the giant delta wing aircraft.  A/V-2 had already crashed by the time of this sighting. A/V-1 was flying. I have been unable to determine if the XB-70 did any night flying, or flying significantly away from Edwards AFB, CA.  From reading the chief test pilot's summary, I would highly doubt that this aircraft did either.  It was a very complex aircraft, often having malfunctions requiring unique support.  To intentionally stray from its support base would be doubtful. Also, it was a very crudely equipped and instrumented aircraft in its experimental form.  Its single TACAN worked poorly, requiring the crew to rely heavily on FAA ATC for help with navigation. There is one long-shot date of possibility. The aircraft flew on 8/24/67 for over two hours, reached over Mach 2, and an altitude of 58,000 feet.  If the actual sighting that I witnessed occured on this date, it would be an interesting coincidence.So, I believe that leaves this sighting on mysterious footing.  Other possible aircraft of the day are the CIA A-12 Blackbird and its followers, the YF-12 and SR-71. That will take more research and will probably be more difficult to find records in the public domain.((NUFORC Note:  We express our gratitude to the source of this report for his having done such nice investigative work regarding his sighting.  PD))((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47142.html](http://www.nuforc.org/webreports/reports/047/S47142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
