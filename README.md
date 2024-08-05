@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:21 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Stationary triangular shaped UFO with 3 very bright lights sighted several times at 5-10 min intervals during a period of 1 hr.It was a little after midnight, while sitting in my car, I happened to glance out the window and saw a clear very bright light source that was stationary for about 5 seconds and then it dimmed a little, and then a little more until it suddenly vanished. I remained in the same place watching for it to return or, if possible, to determine if my eyes were playing tricks on me. I waited and then about 5-8 min later, the same light returned.  It followed the same pattern of remaining visible for about 5 seconds and then gradually dimming out of sight.  About 10 min later it retuned again and this time I pulled out my Bushnell binoculars catching a clearer view of it for a brief moment.  Fascinated by its strange and mysterious appearance and its repeated return to my view I was able to view it twice more over a 10-15 min time span.  Through the binoculars the light seemed to emanate from one large source at the top of its shape and from two slightly lower light sources.  It was hard to tell at what distance it could have been and did not seem to be traveling but rather it seemed to have stationed itself in that portion of the sky for a short while.  After my last viewing i waited for its return but then it must have disappeared because I didn't see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112222.html](http://www.nuforc.org/webreports/reports/112/S112222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palmyra (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow/white lights hovering over field in Palmyra, PA.I was driving up Forge Rd. here in town on my way home.  I went to turn left down my street and about 10 extremely big white/yellowish lights were hovering in the sky over a field.  I saw about 10 lights in a half oval and the lights were diminishing one by one and then, all of a sudden, the last 4 or 5 light went out at once.  I was under it off to the right and there was NOTHING in they sky no planes no flood light nothing.  I called the Palmyra police and they laughed at me and I was the first to call they said.  I went home went on facebook and my close friend saw it as well but he had 2 other people that could testify that we all saw the same thing.  He posted something to Facebook a little video of the very end.  I'm really freaking out.  I have seen other pictures of sightings in Arizona and Florida and its the SAME thing I saw.  II'm very freaked out by what I saw and to know others saw what I did has me freaking out even more and this is why I am contacting you! !!!!!((NUFORC Note:  Source of report confirms that the time of sighting was 9:16 p.m., not a.m..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120913.html](http://www.nuforc.org/webreports/reports/120/S120913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
