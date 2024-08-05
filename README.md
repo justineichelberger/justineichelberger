@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Jerseyville (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>my brother and i chased after bright orange light in jerseyville,Il summer 0f 1992on the summer of 1992 my brother and i were cuising the area of hwy 16 and centennial road in jerseyville as we arrived home at 1100 pm . as we exited my car we were met by our mother in the font yard . it was the i observed an extremely bright orange light that was hovering just above the cornfield at the above location. my mother and brother then saw what i was pointing at and were intrigued. as i had seen objects before i wasted no time . we jumped back into my vehicle and ped toward the object on hwy 16 headed west and away from the city of jerseyville. i knew the area well as the object was right next to an isolated barn. i tried keeping a visual on the light . however it was so low to the ground i lost sight on the highway due to the tall corn crop it was over. when arrived only 1.5 minutes later the light was gone. this was the amazing part because we would have seen this light fly away and did not. it was a clear night and there were no other obstructions that would have blocked our view for miles. either the light went out with object still there or it left at an incredible speed as we drove to it. the only other good detail about it was that when you stared into the light it appeared to rotating in one place.((NUFORC Note:  Witness indicates that date is approximate.  One of six reports from same witness, who describes self as a public employee.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42970.html](http://www.nuforc.org/webreports/reports/042/S42970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Will email videoI noticed the UFO hovering in midair and thought it was a balloon.  On further inspection I saw that it was not in fact a balloon, but a plane-like shape.  The object hovered in midair for a few seconds longer and then started to slowly fly away.  It was moving much slower than a plane would.  The object continued in the same direction and eventually moved out of sight behind a tree.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158251.html](http://www.nuforc.org/webreports/reports/158/S158251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
