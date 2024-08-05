@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Nea Peramos (Greece) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>BRIGHT LIGHT MOVING FROM WEST TO EAST.STARTED WITH DARK ORANGE COLOR BECAME BRIGHT AND FADED TO ORANGE AGAIN AND DISAPPEARED.SPEED WAS HIGH, COVERED QUITE A BIG SPACE IN A MINUTE.WAS BRIGHT LIKE A CAR HEAD LIGHT NO OTHER COLORS.SLOWED DOWN IN SOME POINT.  MOVED LIKE A DRONE BUT IT WAS EXTREMELY HIGH AND BRIGHT.  MOVED WAS SMOOTH WITH SLIGHT WAVING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142572.html](http://www.nuforc.org/webreports/reports/142/S142572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White dot in sky seen streaking twice in opposite directions over East San Jose foothills. Observed from South San Jose.  The angle in the sky was somewhat shallow, at 20-30 degrees.First object was a small white dot travelling at high rate of speed to the south toward Gilroy.  It could have made the trip from San Jose to Gilroy in 10 to 20 seconds which would make this speed ±6,000 to ±12,000 MPH.A minute or so later, I see what appears to be same object at lower altitude this time (maybe 30,000 feet) travel north along foothills.  Same speed.  Observed both objects for about 3 seconds.Too fast to be a plane.  Highly doubt this was a bird as it was so far away and traveling so fast. I estimate the object was 10-15 miles away from my vantage point.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77170.html](http://www.nuforc.org/webreports/reports/077/S77170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
