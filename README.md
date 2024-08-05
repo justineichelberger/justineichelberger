@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>SITTING AROND ON THREE FLOOR WHEN WE THOUGHT WE SEEN A COMET.One sunday peaceful evening me and a few family member was sitting talking when my nephew said look it a comet flying thur the sky so everyone run to the window. AT first we all thought it was a comet to the object stop dead in it track abd a gray bubble form around the thing.we live on three floor amd like the thing was direct across from the moon. The thing stay were it was for a three to five minutes then start flying backward toward moon then disapper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65210.html](http://www.nuforc.org/webreports/reports/065/S65210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kenna (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights flashing in sky.Low flying string of large yellow lights in northwest sky above canyon, approx. 10-15 lights in sideways s formation.  The lights then turned off one by one from right to left.  The lights then appeared to the west in a u shape, like a smile, turning on one by one from right to left. The lights turned off again in same sequence. The lights were not spotted again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71599.html](http://www.nuforc.org/webreports/reports/071/S71599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
