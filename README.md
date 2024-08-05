@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:54 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:21 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Algonquin Highlands (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On Tuesday, August 5th, at 10:00pm EST, a silent light UFO was observed traveling at a high rate of velocity, banking sharper than a plane.One object traveling 38 deg NE To 75 deg E at an estimated altitude of ~35,000 feet.  One solid light was observed with no sound being completely silent.  Approximately 1-2 minute flight time, with agile side movement or banking throughout the flight.  Exact coordinates are as follows:  45ø 25' 31" N 78ø 41' 53" W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112398.html](http://www.nuforc.org/webreports/reports/112/S112398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Stationary triangular shaped UFO with 3 very bright lights sighted several times at 5-10 min intervals during a period of 1 hr.It was a little after midnight, while sitting in my car, I happened to glance out the window and saw a clear very bright light source that was stationary for about 5 seconds and then it dimmed a little, and then a little more until it suddenly vanished. I remained in the same place watching for it to return or, if possible, to determine if my eyes were playing tricks on me. I waited and then about 5-8 min later, the same light returned.  It followed the same pattern of remaining visible for about 5 seconds and then gradually dimming out of sight.  About 10 min later it retuned again and this time I pulled out my Bushnell binoculars catching a clearer view of it for a brief moment.  Fascinated by its strange and mysterious appearance and its repeated return to my view I was able to view it twice more over a 10-15 min time span.  Through the binoculars the light seemed to emanate from one large source at the top of its shape and from two slightly lower light sources.  It was hard to tell at what distance it could have been and did not seem to be traveling but rather it seemed to have stationed itself in that portion of the sky for a short while.  After my last viewing i waited for its return but then it must have disappeared because I didn't see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112222.html](http://www.nuforc.org/webreports/reports/112/S112222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
