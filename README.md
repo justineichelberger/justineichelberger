@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:50 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Will email videoI noticed the UFO hovering in midair and thought it was a balloon.  On further inspection I saw that it was not in fact a balloon, but a plane-like shape.  The object hovered in midair for a few seconds longer and then started to slowly fly away.  It was moving much slower than a plane would.  The object continued in the same direction and eventually moved out of sight behind a tree.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158251.html](http://www.nuforc.org/webreports/reports/158/S158251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Nea Peramos (Greece) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>BRIGHT LIGHT MOVING FROM WEST TO EAST.STARTED WITH DARK ORANGE COLOR BECAME BRIGHT AND FADED TO ORANGE AGAIN AND DISAPPEARED.SPEED WAS HIGH, COVERED QUITE A BIG SPACE IN A MINUTE.WAS BRIGHT LIKE A CAR HEAD LIGHT NO OTHER COLORS.SLOWED DOWN IN SOME POINT.  MOVED LIKE A DRONE BUT IT WAS EXTREMELY HIGH AND BRIGHT.  MOVED WAS SMOOTH WITH SLIGHT WAVING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142572.html](http://www.nuforc.org/webreports/reports/142/S142572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
