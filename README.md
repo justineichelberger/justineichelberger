@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orwell (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange star like ball of light follows plane and then tales offMe and my boyfriend were outside watching the stars and talking when I noticed a plane flying towards Cleveland.  When I looked behind it I saw what I thought was a star at first until I seen it moving (It was just a little ball of light that from that far up, looked like a white- blue orb/ ball of light)) just to make sure my eyes weren't deceiving me   I quickly had my boyfriend look at it.  Sure enough he seen it to and thought it was strange.  We watched it follow the plane and then veer off in a U shape towards a star where it quickly disappeared into the blackness.  We didn't see it after that, it was just gone as</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82988.html](http://www.nuforc.org/webreports/reports/082/S82988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White light in the sky near Yuma, AZWe saw a light in the South Western sky.  It flashed like an airplane strobe once then it didn't flash again for about 10 sec it was very high in altitude then it fashed again much further north than the previous flash.  It then flashed a third and final time again about 10 to 15 seconds later again further north then we didn't see anymore flashes of light.  We thought it was unusual, and decided to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51976.html](http://www.nuforc.org/webreports/reports/051/S51976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
