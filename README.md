@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Guelph (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Witnessed 9 bright orange objects, flying in exact formation with 3 flying v formation at front of each group of 3.They were bright orange, 3 in front flew in v formation, with 3 following in a straight line, this happened in 3 seperate groups, no noise at all,  They flew in from south east direction.They were round in shape, bright orange with no lights.  It was a clear night, no stars or planes in the sky at that time. It was about 9:45pm.When I was taking pics they started to separate from formation and flew around each other then disappeared higher into the nite sky, could not see them after that.I attempted to take video with my camera, but was so excited and had never used the video on camera before, the video only shows one as I treid to track them with camera, seems as tho when my camera started to flash they started to move around and it was hard to track them at that point.I saw about 9 of these bright orange flying objects,in about a 15 min period of time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82989.html](http://www.nuforc.org/webreports/reports/082/S82989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Changing' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>White stationary object remaining for >20 min and counting; very very high in atmosphere. Changing shape from oval to angular.Sitting outside at neighborhood pool in nice bright evening light and all at pool witnessed a white object, way farther up than a drone, remaining in a general stationary area.  Sky view says Arcturus is up there but this is bright day light and seems closer.  Seems like a dimensional object.  Sometimes looks oval, sometimes looks angular or triangular.  We have photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129108.html](http://www.nuforc.org/webreports/reports/129/S129108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
