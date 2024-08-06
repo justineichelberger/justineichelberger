@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Allen (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My husband and I had just taken out the trash at the rear of the house.  I followed him out to talk to him and see the night sky. Suddenly a cigar shaped object, bluish white in color sped across the sky underneath the planet Jupiter and rising as it sped across the sky.  It was going incredibly fast. By the time I told my husband to look, it was gone. It definitely was not a meteor or conventional air craft.  What struck me most was the incredible speed. Until this happened I was a UFO skeptic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58041.html](http://www.nuforc.org/webreports/reports/058/S58041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Albert Lea (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light moving very slowly to the west, then at a 45 degree angle, shot out of sight.At approximately 3:25am, I noticed a light moving in the sky just south of where I was standing.  I observed it while it moved to the west of my position for approximately 5 minutes.  Then, the light changed direction to S. S.W. at a 45 degree angle.  Then the light dissapeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18943.html](http://www.nuforc.org/webreports/reports/018/S18943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
