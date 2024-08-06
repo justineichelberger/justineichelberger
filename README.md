@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sharon (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A year back me and my daughter were dropping my mother off at her elderly home.  There is a round driveway and we dropped off my grandmother and as we were rounding the driveway we saw something overhead and stopped.  An extremely large, low flying aircraft flew over the top of the other building and then took a sudden turn and took off so quickly in disappeared in just a second.  The shape of the aircraft was triangular with one of the points appearing to be the front.  As it was very dark outside, it was hard to make out the color of the aircraft, but we did observe that it had a light on each corner.  It was flying extremely low to the ground (right above the treetops) and from what I remember, made absolutely no noise.  It was also extremely large, and although it is hard to estimate the size, it was definitely larger than our car.  Afterwards we both looked at each other in absolute shock and tried to figure out what we saw.  We both concluded any other aircraf! t that we are familiar with would make some noise, and wouldn’t be flying so low.  We couldn’t find a plausible explanation for the sighting.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86931.html](http://www.nuforc.org/webreports/reports/086/S86931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Newark (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>movind sw to nebright shpere, straight path,  no blinking lights, 5 times brighter, at least twice diameter of stars, probably manmade but odd that it did not blink and was solid white((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91535.html](http://www.nuforc.org/webreports/reports/091/S91535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
