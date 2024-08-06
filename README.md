@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black rectangled shaped object, polsating like a jelly fish, appeared and observed me.I was standing in the kitchen, I got an urge to go outside on the deck, I walked out and looked up and there to the right above the neighboring house was an object, it seemed to be coming towards me, maybe it was 100ft in the air.  It was silent, it look like a black rectangle shape, the rectangle was rolling or spinning, it moved slow, like it was in the water, I saw an aura maybe, a circle of energy or something around the object.  it seemed to be pulsating in the center. after i saw the object it then moved in a straight line in front of me above the neighboring house, the center  which seemed to be pulsating  was facing me with the black rectangle shape rolling around it.  it moved in front of me about 50 feet and then started to power up, it went up in the sky and sat in front of a cloud for about 10 minutes, it was spinning or rolling the whole time it was moving,it then went up, beyond the clouds and out of sight. It had no wings or propellers or anythin! g recognizable to anything. it moved like it was in the water. it seemed like it observed me. also it was around 6pm and sunny out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92247.html](http://www.nuforc.org/webreports/reports/092/S92247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saw a light moving in random directions.....Me and 2 other friends went out west to Tooele to watch a meteor shower. We had already been there an hour or so. I was looking straight up at a cluster of stars. A couple minutes had passed when finaly I had saw it. It was a white light about as bright as the stars. I saw no shape just a light. Too far away. It was moving in different directions kind of like a fly. I then told my 2 friends to take a look and then pointed in the objects direction. One friend thought it was possibly a satilite untill he watched longer. The weirdest part was the movement it moved in almost a figure eight. If I remember correctly. The I went to get my binoculars to see if I could get a closer look. By the time I got back it was gone. Not sure what you want for backgound info. but:I'm 23/Male lived in Utah all my life. No illnesses. I'm not on any medication or drugs. I work at nights for a film developing company so paying attention to little details is my job. No religion preference... One friend is 24/M he has lived in Utah all his life also. Lives with his parents. No job right now. No medication or drugs. Mormon...... My roommate is 19/m not sure if he has lived here all his life. works the same place I do. No medication or drugs. No religious preference...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10306.html](http://www.nuforc.org/webreports/reports/010/S10306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
