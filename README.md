@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:01 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Maryland (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright oval object moving across the night sky.It was 3:00 am and I could not sleep.  So I stepped outside to have a cigarette. When I looked in the sky, I saw a bright oval object quitely flying low across the night sky.  And when I tried to get footage of the craft it increased speed and was gone.((NUFORC Note:  Source does not indicate a date.  We have no way of contacting the witness, and have applied an arbitrary date above.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82967.html](http://www.nuforc.org/webreports/reports/082/S82967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Strongsville (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red and green cylinder object  standing almost stationery with slight, jerky motions.This was seen on the 5th as well as the 6th.  We thought it was a star in the sky but after further observation noticed it was moving slightly so we got our binoculars.  On the 5th it was more clear.  With our binoculars we could see the the red and green lights flashing around the cylinder.  It remained very stationery for about an hour moving slightly in all directions.  Finally it just shot up and disappeared.  We attempted to take pictures with our digital and video camera but it was at too far a distance to be done.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45494.html](http://www.nuforc.org/webreports/reports/045/S45494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
