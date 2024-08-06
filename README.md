@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Changing' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>White stationary object remaining for >20 min and counting; very very high in atmosphere. Changing shape from oval to angular.Sitting outside at neighborhood pool in nice bright evening light and all at pool witnessed a white object, way farther up than a drone, remaining in a general stationary area.  Sky view says Arcturus is up there but this is bright day light and seems closer.  Seems like a dimensional object.  Sometimes looks oval, sometimes looks angular or triangular.  We have photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129108.html](http://www.nuforc.org/webreports/reports/129/S129108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Haddam (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A very large circular objects about the size of two football fields stood above the ground for about an hour it was glowing green and just hung in the air it looks so close it looked so incredibly large.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121138.html](http://www.nuforc.org/webreports/reports/121/S121138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
