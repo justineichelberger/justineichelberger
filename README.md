@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saw a light moving in random directions.....Me and 2 other friends went out west to Tooele to watch a meteor shower. We had already been there an hour or so. I was looking straight up at a cluster of stars. A couple minutes had passed when finaly I had saw it. It was a white light about as bright as the stars. I saw no shape just a light. Too far away. It was moving in different directions kind of like a fly. I then told my 2 friends to take a look and then pointed in the objects direction. One friend thought it was possibly a satilite untill he watched longer. The weirdest part was the movement it moved in almost a figure eight. If I remember correctly. The I went to get my binoculars to see if I could get a closer look. By the time I got back it was gone. Not sure what you want for backgound info. but:I'm 23/Male lived in Utah all my life. No illnesses. I'm not on any medication or drugs. I work at nights for a film developing company so paying attention to little details is my job. No religion preference... One friend is 24/M he has lived in Utah all his life also. Lives with his parents. No job right now. No medication or drugs. Mormon...... My roommate is 19/m not sure if he has lived here all his life. works the same place I do. No medication or drugs. No religious preference...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10306.html](http://www.nuforc.org/webreports/reports/010/S10306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Guelph (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Witnessed 9 bright orange objects, flying in exact formation with 3 flying v formation at front of each group of 3.They were bright orange, 3 in front flew in v formation, with 3 following in a straight line, this happened in 3 seperate groups, no noise at all,  They flew in from south east direction.They were round in shape, bright orange with no lights.  It was a clear night, no stars or planes in the sky at that time. It was about 9:45pm.When I was taking pics they started to separate from formation and flew around each other then disappeared higher into the nite sky, could not see them after that.I attempted to take video with my camera, but was so excited and had never used the video on camera before, the video only shows one as I treid to track them with camera, seems as tho when my camera started to flash they started to move around and it was hard to track them at that point.I saw about 9 of these bright orange flying objects,in about a 15 min period of time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82989.html](http://www.nuforc.org/webreports/reports/082/S82989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
