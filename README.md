@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 5 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Freemont County (CO) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UapsThis photo is of some thing of the uap persuasion and we are seeing things of this sort a lot. Nightly.  Sometimes the occurrences can be several times a night and they will get very close to us.  At times the distance can be as close as 60 yards.  This has become so very common place that we don’t really pay the any attention now.  However it should be said that we border “public land “ and it would almost seem like mining equipment of an unknown origin is being used at night only.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142714.html](http://www.nuforc.org/webreports/reports/142/S142714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sedro Woolley (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw an object that was lit up as bright as a full moon all by itself in the sky.It appeared to be bending light.The object was brilliantly bright for 2 minutes then gradually dimmed its appeaerance,until finally it disappeared.The odd thing about it was as the sun was coming up I could see it was extremely overcast and cloudy.How can an object be so intensely bright through all these cloud formations?  I was standing on the outside of the Annex Post Office of Sedro Woolley on Eastern and State St., looking straight up at the horizon when I witnessed this encounter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38521.html](http://www.nuforc.org/webreports/reports/038/S38521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
