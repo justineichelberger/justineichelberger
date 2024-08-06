@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:49 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:24 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellow slow flight pulsing bag object above 35000'Looked at moon with 10x minolta binocs. and noticed unusual object. Motion was from approx W to E. Elevation over 50k ft. ?? . Looked like yellow plastic bag at first. Had to lay on my back on the lounge to keep clear focus on object. The yellow thing was pulsating from round or full to narrow and skinny. This pulsing seemed to be moving it across the sky. A regular pulsing like breathing. Maybe one second intervals between fat to skinny.  Not visible at all to the naked eye. After it passed the moon I watched it till my eyes got tired and I wanted to see how far from the moon it had progressed. I found it once more with a bit of effort only to loose it for good. I wouldn't say it was any sort of space craft. It almost looked alive, or some sort of naurally powered thing. It may have been flying garbage. At the elevation I estimated, it could have been quite large. It seemed unusual enough I wanted to report it to see if anyone else has seen anything like it. ????????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13689.html](http://www.nuforc.org/webreports/reports/013/S13689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I was taking pictures of the skyline from my window.  I took about 6 pictures and noticed a light in the sky that was not there a second ago.  I turned on the camera on the phone and recorded the object flying what appeared closer towards me occasionally changing shape to disk (so it appears).  My camera shut off (I think I accidentally pressed button to stop) when I looked back the object was gone.I have reviewed my pictures and found that during my series of shots the object just appeared.  I checked the time stamp of the picture of when the object appeared and it said 9:11 pm.  (little weird).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135591.html](http://www.nuforc.org/webreports/reports/135/S135591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
