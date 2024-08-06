@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:24 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I was taking pictures of the skyline from my window.  I took about 6 pictures and noticed a light in the sky that was not there a second ago.  I turned on the camera on the phone and recorded the object flying what appeared closer towards me occasionally changing shape to disk (so it appears).  My camera shut off (I think I accidentally pressed button to stop) when I looked back the object was gone.I have reviewed my pictures and found that during my series of shots the object just appeared.  I checked the time stamp of the picture of when the object appeared and it said 9:11 pm.  (little weird).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135591.html](http://www.nuforc.org/webreports/reports/135/S135591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Allen (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My husband and I had just taken out the trash at the rear of the house.  I followed him out to talk to him and see the night sky. Suddenly a cigar shaped object, bluish white in color sped across the sky underneath the planet Jupiter and rising as it sped across the sky.  It was going incredibly fast. By the time I told my husband to look, it was gone. It definitely was not a meteor or conventional air craft.  What struck me most was the incredible speed. Until this happened I was a UFO skeptic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58041.html](http://www.nuforc.org/webreports/reports/058/S58041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
