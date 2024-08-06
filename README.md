@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I was taking pictures of the skyline from my window.  I took about 6 pictures and noticed a light in the sky that was not there a second ago.  I turned on the camera on the phone and recorded the object flying what appeared closer towards me occasionally changing shape to disk (so it appears).  My camera shut off (I think I accidentally pressed button to stop) when I looked back the object was gone.I have reviewed my pictures and found that during my series of shots the object just appeared.  I checked the time stamp of the picture of when the object appeared and it said 9:11 pm.  (little weird).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135591.html](http://www.nuforc.org/webreports/reports/135/S135591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Windham (Catskills) (NY) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange balls or boat shapes, silent slow, over 15.Traveling in 2's and 3's northwest to southeast. Orange-red. Looked like fireballs  from more distant angle, but, when closer, boat shape or cross from below or alongside. No sound, no trail, no beam.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129107.html](http://www.nuforc.org/webreports/reports/129/S129107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
