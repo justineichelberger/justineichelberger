@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:46 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Albert Lea (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light moving very slowly to the west, then at a 45 degree angle, shot out of sight.At approximately 3:25am, I noticed a light moving in the sky just south of where I was standing.  I observed it while it moved to the west of my position for approximately 5 minutes.  Then, the light changed direction to S. S.W. at a 45 degree angle.  Then the light dissapeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18943.html](http://www.nuforc.org/webreports/reports/018/S18943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Utica (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My daughter (age 27) who lives in KY called me in CA at the time of this sighting.  She called and asked me if 2 satellites ever travel together.  I replied that as far as I knew they did not, but they may travel on a similar path.  She said that what looked like 2 satellites were travelling side by side then the 2 objects stopped and then the changed to a different direction and split apart, then were no longer visible.  The sky is very clear there tonite and she lives in a rural area away from city lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38506.html](http://www.nuforc.org/webreports/reports/038/S38506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
