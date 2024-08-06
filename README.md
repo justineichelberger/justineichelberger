@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:01 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Strongsville (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red and green cylinder object  standing almost stationery with slight, jerky motions.This was seen on the 5th as well as the 6th.  We thought it was a star in the sky but after further observation noticed it was moving slightly so we got our binoculars.  On the 5th it was more clear.  With our binoculars we could see the the red and green lights flashing around the cylinder.  It remained very stationery for about an hour moving slightly in all directions.  Finally it just shot up and disappeared.  We attempted to take pictures with our digital and video camera but it was at too far a distance to be done.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45494.html](http://www.nuforc.org/webreports/reports/045/S45494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black rectangled shaped object, polsating like a jelly fish, appeared and observed me.I was standing in the kitchen, I got an urge to go outside on the deck, I walked out and looked up and there to the right above the neighboring house was an object, it seemed to be coming towards me, maybe it was 100ft in the air.  It was silent, it look like a black rectangle shape, the rectangle was rolling or spinning, it moved slow, like it was in the water, I saw an aura maybe, a circle of energy or something around the object.  it seemed to be pulsating in the center. after i saw the object it then moved in a straight line in front of me above the neighboring house, the center  which seemed to be pulsating  was facing me with the black rectangle shape rolling around it.  it moved in front of me about 50 feet and then started to power up, it went up in the sky and sat in front of a cloud for about 10 minutes, it was spinning or rolling the whole time it was moving,it then went up, beyond the clouds and out of sight. It had no wings or propellers or anythin! g recognizable to anything. it moved like it was in the water. it seemed like it observed me. also it was around 6pm and sunny out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92247.html](http://www.nuforc.org/webreports/reports/092/S92247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
