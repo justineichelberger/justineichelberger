@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winslow (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:41 - 1:41 minutes.</sub><blockquote><sub>Odd oscillating white lights above Maine (Sighted in central Maine)At 12:41 AM est a white oscillating light was seen from Winslow, Maine, towards the southern sky towards south southeast.  The light started off very bright brighter than anything else in the sky.  During the sighting 2 commercial planes where spotted which seemed to be flying at a much higher altitude on a typical linear course.  Unlike the light that was spotted which seem to be doing circular, elliptical, as well as zig-zag patterns during its course. The light also began to change in brightness becoming as dim as the stars that surrounded. At 1:07 AM est a second light much dimmer than the first light was spotted towards the southeast which seemed be imitating the same patterns and behavior as the first light that was imitating.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82985.html](http://www.nuforc.org/webreports/reports/082/S82985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Creek (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange orb moving through the sky.Single bright orange orb came over the hill and continued southwest at a fairly slow rate of speed. It disappeared into the trees about 3/4 of the way down the west side of the hill. It didn't seem to burn out, but seemed to land in the trees.  No sound. Didn't change shape or color.This is the second time we have seen a very similar orange orb acting this way. The first time was in the begining of July. We thought it was some sort of fireworks but there was no sound and seemed to be moving too slowly for fireworks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91582.html](http://www.nuforc.org/webreports/reports/091/S91582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
