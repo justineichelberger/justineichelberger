@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:37 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Coffeville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>very weird things going on tonight  Crazy things are happening in the sky tonight I saw what I thought was a shooting star but it stopped ,then slowly started moving south .it was  traveling east in a flash like a shooting star but just stopped.  And headed another direction the thing had no flashing lights .looked like a star but was moving then a few min later another one did the same thing but head north this time .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91571.html](http://www.nuforc.org/webreports/reports/091/S91571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chingford (London) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Huge craft caught on CCTVCCTV video showed a huge object over INKS GREEN Chingford E4 london in the UK.The craft hovered whilst in full view of witnesses (Seen from the official North London CCTV control centre in Enfield).Police officers from Chingford were dispatched and were astonished to witness a craft hovering above A406 in full view with apparently fire emitting from bottom of craft - port holes could clearly be seen.Size was difficult to determine but one officer described it as 'huge' 4x times that of a jumbo.MOD were officially informed, officers interviwed and all CCTV and evience seized.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38920.html](http://www.nuforc.org/webreports/reports/038/S38920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
