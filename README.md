@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:53 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:27 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Great Falls (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6-8 white lights in a straight, horizontal line, moving very slowly west to east above the Missouri River near Malmstrom AFB.Observed 6-8 white lights in a straight, horizontal line, moving very slowly west to east above the Missouri River on the east end of Great Falls, MT near Malmstrom AFB.  Lights remain fixed relative to each other, as if on one large object.  We see plenty of planes here and it was not a plane. We observed for about 3 minutes until the lights disappeared into a large cumulus cloud.  I did not hear a sound but my spouse did and says it was a faint humming sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158292.html](http://www.nuforc.org/webreports/reports/158/S158292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shlangen (Germany) () reported seeing craft that fit the description of some 'Flash' over a period of approximately Trampoline - Trampoline minutes.</sub><blockquote><sub>Moving in the sky, a flash, then gone.My friend and i were looking at the stars on my trampoline.  As we watched, one was moving quick but too slow to be a meteor so we followed it and as we did it got bigger, turned out to flash bright in the sky then disappear!  We watched more, the other 6 just seemed to move but not flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77042.html](http://www.nuforc.org/webreports/reports/077/S77042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
