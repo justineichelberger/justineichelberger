@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Arivaca (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Colorful craft, orbs, strobe beacons in ArivacaI could take you down to Arivaca, AZ and show you many, as many as 10, orbs that hover around the area.  When you are near them, tiny sparkles of light randomly appear like tiny flashes of a camera.  Often there is a strobe beacon in the area of them as well, and they do react to motion and light.  I also see on a regular basis a formation of lights, as well as lower altitude crafts with multiple color effects.  These tend to hover at a higher altitude in horizontal and vertical motion.  Usually to the East but have seen them South and West at times.  These craft preclude heavy orb activity up and down Arivaca road, and I have started seeing more and more orbs lately.  I work out in the desert at night, so I see them from 11pm to 3am.  I know where to find them consistently, and reliably in the same areas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58025.html](http://www.nuforc.org/webreports/reports/058/S58025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sauk Rapids (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>It was Friday night.  August 7, 2015, the time 11:45 pm.  Looking in the west northwest direction towards Waite Park, from Sauk Rapids.  Altitude was going by the stars.  It was same height as the lowest star in the sky .OK, my best description.  Me and few friends were sitting outside in his garage.  Enjoying the night getting ready to go home.  When I looked up which is normal I always watch the sky.  When all the sudden I seen a bright glow.  Its color was a blue silver start to appear . In comparison lets say it started from nothing there to golf ball size.  Then continued to grow. I said my friend hey what look.  And pointed right away he says ufo.  We never have discussed between each other about our feelings of UFOs so I said u think? He says I don't know.  At this point it has grown to the largest thing in the sky.  I will compare it to a large beach ball.  The whole time this is happening it looked stationary . While it formed to its beach ball size.The total amount of time was 45 seconds to maybe 1 minute and 15 seconds.  Then faded in size and brightness to a very dim glow.  My kids said they could still see it I couldn't . And my buddy said he could barely see it.  That's when it started to move north . In reference to the Mississippi River.  My buddy is a computer security programmer.  Respectable, trustworthy guy.  I told my girlfriend who didn't see it but was there.  And she said that's the same area her and her sister had seen the same thing.  And it did the whole bright small to large thing about.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121017.html](http://www.nuforc.org/webreports/reports/121/S121017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
