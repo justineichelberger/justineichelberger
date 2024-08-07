@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Choctaw County (southeastern OK) (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright, glowing white light moving slowly above us with no blinking lights.My husband was outside smoking, watching the stars, when he opened the door and frantically asked me to come look outside. As I got to the middle of the driveway, I looked up and saw a large, bright, glowing light that was traveling very slowly toward the east, from the west. It was traveling pretty low, and there was no sound. Suddenly, it just “blinked out,” for lack of a better term. It just seemed to disappear. Then, about a minute or so later, another light appeared, quite a bit higher up, and farther toward the southeast, it started moving toward the north east, and it also just disappeared as quickly as it appeared. Neither object had any sort of blinking whatsoever. And, neither object made a sound. However, about 3-4 minutes later we heard a loud jet, like a military jet fly over. We saw no lights on it, but we heard it go over. My husband is still outside looking, but I had to post this. There have been 2 other sightings in our local paper within the last few months (1 was a shape-shifting object, and the other a triangle), and we live in a very small town. What’s going on here?((NUFORC Note:  ISS?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65083.html](http://www.nuforc.org/webreports/reports/065/S65083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I OBSERVED A  HOVERING DISK SHAPED OBJECT WITH A RED AND WHITE BALL OF LIGHT IN THE CENTER .I observed a disk shaped object hovering silently 500 feet above the treeline on top of Dillworth Mountain in a Southwestern direction. The object had a large red and white ball of light in the center of the disk. The color of the disk appeared black against the night sky. The object produced no sound at all.I did notice that the object turned down the illumination of the red and white ball of light in the center of the disk. It looked like when a dimmer switch is turned down on a light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18908.html](http://www.nuforc.org/webreports/reports/018/S18908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
