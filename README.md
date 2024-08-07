@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Molalla (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>observed a disc shaped object hovering above me, which accelerated to the East at a highe rate of speed covering 140 degrees in 3 seconAt 1245hrs. on 8/7/00 I was watching a jump plane circling to gain altitude for a jump at the Oregon sky dive center just west of Molalla.  I was looking almost directly up trying to track the sound of a very highe light plane.  I saw a disk like light greyish/white object hovering.  The object was somewhat hazy or fuzzy appearing because of the altitude and the vapor and smke haze in the sky.  As I was watching this object trying to rationalize why it was their the jump plane apperd from my right side entering my circle of vision traveling North to South.  I passed beneeth the disc and the tail of the light aircraft obscured the disk momentarilly.  The disc continued to hover for another secondor two, the jumpers were exiting when the disc accelerated from the position obove me towards the NE.  From Molalla towards the Mount Hood area, approximately 140degrees of sky, in about 3seconds.  Some rudimentary calcs placed the disc above 45000 feet. I am a retired Air Force Officer, with 20000 flight hours, I hold a Ph.D. in Physics and I carry a current flight rating and physical.Correction as to the arc of travel of the sighting.  Using a Spi-TRONIC Pro360 Digital track device.  The object traveled from - 11 degrees of vertical to + 82.9 degrees of vertical, and arc of 93.9 degrees in just under 3 seconds.  PhD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13697.html](http://www.nuforc.org/webreports/reports/013/S13697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jakarta-Tokyo (inflight) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Morphing glowing orange oval object seen on a flight from Jakarta to TokyoShortly after take-off I was looking at the on-board movie screen which was showing live footage of the clear night sky in front of the plane. I could see stars and what I thought was the moon though it seemed odd that this small `moon` had a kind of orange glow around it. I continued to look at it when to my astonishment this shape began to move across the screen in such a way that it was clearly not the moon or a star. For two minutes I watched it as it moved across the screen in an S-shape. Occasionally during this 2 minute period it disappeared from view only to reappear again in a slightly different place. Because of this it could have been possible I was witnessing more than one UFO. I am a 28yo male and this is my first experience of this kind and I am writing this report because there is no rational explanation for what I saw. All other passengers appeared to be asleep when this happened and I did not confer with any of the flight staff/pilots etc about what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38519.html](http://www.nuforc.org/webreports/reports/038/S38519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
