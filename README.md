@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sauk Rapids (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>It was Friday night.  August 7, 2015, the time 11:45 pm.  Looking in the west northwest direction towards Waite Park, from Sauk Rapids.  Altitude was going by the stars.  It was same height as the lowest star in the sky .OK, my best description.  Me and few friends were sitting outside in his garage.  Enjoying the night getting ready to go home.  When I looked up which is normal I always watch the sky.  When all the sudden I seen a bright glow.  Its color was a blue silver start to appear . In comparison lets say it started from nothing there to golf ball size.  Then continued to grow. I said my friend hey what look.  And pointed right away he says ufo.  We never have discussed between each other about our feelings of UFOs so I said u think? He says I don't know.  At this point it has grown to the largest thing in the sky.  I will compare it to a large beach ball.  The whole time this is happening it looked stationary . While it formed to its beach ball size.The total amount of time was 45 seconds to maybe 1 minute and 15 seconds.  Then faded in size and brightness to a very dim glow.  My kids said they could still see it I couldn't . And my buddy said he could barely see it.  That's when it started to move north . In reference to the Mississippi River.  My buddy is a computer security programmer.  Respectable, trustworthy guy.  I told my girlfriend who didn't see it but was there.  And she said that's the same area her and her sister had seen the same thing.  And it did the whole bright small to large thing about.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121017.html](http://www.nuforc.org/webreports/reports/121/S121017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Choctaw County (southeastern OK) (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright, glowing white light moving slowly above us with no blinking lights.My husband was outside smoking, watching the stars, when he opened the door and frantically asked me to come look outside. As I got to the middle of the driveway, I looked up and saw a large, bright, glowing light that was traveling very slowly toward the east, from the west. It was traveling pretty low, and there was no sound. Suddenly, it just “blinked out,” for lack of a better term. It just seemed to disappear. Then, about a minute or so later, another light appeared, quite a bit higher up, and farther toward the southeast, it started moving toward the north east, and it also just disappeared as quickly as it appeared. Neither object had any sort of blinking whatsoever. And, neither object made a sound. However, about 3-4 minutes later we heard a loud jet, like a military jet fly over. We saw no lights on it, but we heard it go over. My husband is still outside looking, but I had to post this. There have been 2 other sightings in our local paper within the last few months (1 was a shape-shifting object, and the other a triangle), and we live in a very small town. What’s going on here?((NUFORC Note:  ISS?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65083.html](http://www.nuforc.org/webreports/reports/065/S65083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
