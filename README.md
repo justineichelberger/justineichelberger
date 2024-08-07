@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A red glowing ball skipping accross the sky.A friend and I were outside talking when we looked up to see a UFO. It was a glowing redish circle that was slowly skipping across the sky.  It stayed for about 2 minutes then dissapeared. It was about as far in distance as a plane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83001.html](http://www.nuforc.org/webreports/reports/083/S83001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pompano Beach (FL) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Standing outside, looking toward the East when I saw something moving in the sky, when it appeared to explode with 2 objects following.Moving across the horizon, the brightly lit object was being followed by two smaller objects.  It then let out a cone shaped burst that lit up the clouds for about 20 seconds and increased a distance between itself and the other two objects.  They continued to travel East, and then disappeared.((NUFORC Note:  Japanese re-supply ship was flying in formation with the ISS on this date.  We do not know what may have caused the flash.  PD))((NUFORC Note:  A launch of a Delta IV rocket from Cape Canaveral occurred at 20:29 hrs. on this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100891.html](http://www.nuforc.org/webreports/reports/100/S100891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
