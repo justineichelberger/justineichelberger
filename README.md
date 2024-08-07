@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jakarta-Tokyo (inflight) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Morphing glowing orange oval object seen on a flight from Jakarta to TokyoShortly after take-off I was looking at the on-board movie screen which was showing live footage of the clear night sky in front of the plane. I could see stars and what I thought was the moon though it seemed odd that this small `moon` had a kind of orange glow around it. I continued to look at it when to my astonishment this shape began to move across the screen in such a way that it was clearly not the moon or a star. For two minutes I watched it as it moved across the screen in an S-shape. Occasionally during this 2 minute period it disappeared from view only to reappear again in a slightly different place. Because of this it could have been possible I was witnessing more than one UFO. I am a 28yo male and this is my first experience of this kind and I am writing this report because there is no rational explanation for what I saw. All other passengers appeared to be asleep when this happened and I did not confer with any of the flight staff/pilots etc about what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38519.html](http://www.nuforc.org/webreports/reports/038/S38519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange object seen flying low over summerlin ,very bright sphere,moving from west to north.Driving home a bright flash low in the sky caught my eye, when I arrived at my home, I walked out to the driveway.  I stood there looking.  To the west and it was there again. I new I had to get a photo so I ran in the house,grabbed my phone ,camera and I pad.  I took picks with everything I had.  It was moving north from my location.very bright light,then it would disappear for about 30 seconds, then reappear.  I took 15 photos.  After review of them, 2 of my photos show the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100920.html](http://www.nuforc.org/webreports/reports/100/S100920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
