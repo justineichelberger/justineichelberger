@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grand Terrace (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A orb/cylinder type orange object floated from Highgrove area making no noise.  It floated several feet to the area in front of Blue Mountain, then began to drop ember looking things 3 x, then completely disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148219.html](http://www.nuforc.org/webreports/reports/148/S148219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Buxton (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>2-3 glowing yellowish orange lights, splitting from one light in parallel lines over ocean in Buxton NC.Sitting on semi ocean front property in Buxton, NC on August 7th 2012 around 9:15 at night, looked up in a southernly direction following a faint light moving south over the ocean. Light turned bright (resembled a plane headlight coming towards land) maybe a few hundred in the air, then it split into 2 lights, same size, then split in three, the first light disappeared, then the second disappeared and the third light turned from a yellowish orange to red and flew off. About 5 seconds later it reappeared, farther south and did the exact same thing. Both times they alined in a perfect line, evenly spaced. You could see a main craft flying in front/behind them. Lasted a few seconds. Neighbors saw as well. 5 witnessed it in all. Fighter jets have been flying over head for the last 2 days, been wondering what's up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91560.html](http://www.nuforc.org/webreports/reports/091/S91560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
