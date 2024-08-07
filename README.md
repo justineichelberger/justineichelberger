@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I OBSERVED A  HOVERING DISK SHAPED OBJECT WITH A RED AND WHITE BALL OF LIGHT IN THE CENTER .I observed a disk shaped object hovering silently 500 feet above the treeline on top of Dillworth Mountain in a Southwestern direction. The object had a large red and white ball of light in the center of the disk. The color of the disk appeared black against the night sky. The object produced no sound at all.I did notice that the object turned down the illumination of the red and white ball of light in the center of the disk. It looked like when a dimmer switch is turned down on a light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18908.html](http://www.nuforc.org/webreports/reports/018/S18908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Diamond shaped UFO near Fairbanks Airport.My 9 year old was playing outside of our new shop with her 2 yr old sister.  It was still light out since its Alaska.  I was trying to text my teenager and everytime I would text the message it would start deleting itself.  I heard this unusual silence outside the front propped open door of my office and then my 9 year old came in loudly saying "MOMMY I THINK I SAW AN ALIEN" I was startled and spooked because I thought there must be a dog in the yard that looked scary or maybe even a bear.  She was so scared that she ran over to me and the baby followed her and she was crying "MOMMY IM AFRAID!"  She put her back to me so I could protect her.  I put my phone down yelled for my husband in the shop who didn't hear me and walked out the front door to see what she may have seen.  She said, "NO MOMMY, IT WAS IN THE SKY"  Then my 2 year old said loudly "MOMMY THAT AIRPLANE WAS SCARY."  I started to ask her what it was that she saw.She said that it was a diamond.  But it changed shape like it was being squished. The surface was like boiling water and sometimes one side would be like diamonds and another would be black.  Then it disappeared and reappeared in the same area in the sky all the while racing around between 10 o'clock and 2 o'clock.  She would not stop telling me everyday for 2 weeks that she couldn't get it out of her head and when we would go to the shop she would be very afraid. My 3rd child was laughing at her because she said she was sitting in the car and she saw the 9 yr old witness's face scowl in fear while looking up.  However the older 3rd child in the car did not see it.  Only the 9 year old and the 2 yr old.  Weird thing is it was near the Fairbanks Airport so I can't imagine why a ufo would be hanging out around there.  I believe her based on her behavior and personality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102064.html](http://www.nuforc.org/webreports/reports/102/S102064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
