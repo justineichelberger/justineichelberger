@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:53 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Guanica (Puerto Rico) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three large bright lights forming a perfect triangle were spotted in the sky off the south coast of Puerto Rico.On the south west skies in puerto rico three large lights that formed a triangle were seen in the night sky.  The lights turned on and off in succession.  Slow at first and then more rapidly.  At times two lights forming one side of the triangle would light at the same time.  The size of the object was just smaller that the little dipper. The lights were bright white similar to a star but larger and brighter.  The object never moved from the sky.  The area were it remained was over the caribbean ocean off land. Distance could not be determined. The triangle shape was perfect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45549.html](http://www.nuforc.org/webreports/reports/045/S45549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Great Falls (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6-8 white lights in a straight, horizontal line, moving very slowly west to east above the Missouri River near Malmstrom AFB.Observed 6-8 white lights in a straight, horizontal line, moving very slowly west to east above the Missouri River on the east end of Great Falls, MT near Malmstrom AFB.  Lights remain fixed relative to each other, as if on one large object.  We see plenty of planes here and it was not a plane. We observed for about 3 minutes until the lights disappeared into a large cumulus cloud.  I did not hear a sound but my spouse did and says it was a faint humming sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158292.html](http://www.nuforc.org/webreports/reports/158/S158292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
