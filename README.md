@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 6 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yacolt (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>One brilliant white,blue oval/diamond shaped craft.At 10 pm two of my children called us outside as they were stargazing, because they saw a brilliant white,blue light.  There were seven of us who saw it. It was sort of oval, almost diamond shaped.  It was traveling toward the north at a moderately slow speed, and then it changed direction moving east.  There was no sound and its motion was very smooth but sort of moving up and down.  It seemed like it was rounded on top but the brilliant light seemed to flair which is why I described it as a diamond shape as well.  It lasted about 45 seconds to a minute at the most and gradually faded into the east.  There was no weather phenomena taking place, it was not windy, it was a perfectly clear night.  There is a hill right in front of my house so no vehicles could have made this light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91529.html](http://www.nuforc.org/webreports/reports/091/S91529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Guanica (Puerto Rico) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three large bright lights forming a perfect triangle were spotted in the sky off the south coast of Puerto Rico.On the south west skies in puerto rico three large lights that formed a triangle were seen in the night sky.  The lights turned on and off in succession.  Slow at first and then more rapidly.  At times two lights forming one side of the triangle would light at the same time.  The size of the object was just smaller that the little dipper. The lights were bright white similar to a star but larger and brighter.  The object never moved from the sky.  The area were it remained was over the caribbean ocean off land. Distance could not be determined. The triangle shape was perfect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45549.html](http://www.nuforc.org/webreports/reports/045/S45549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
