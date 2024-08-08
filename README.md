@@ -222,7 +222,11 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-
+- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
+- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
+- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
+- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
+- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
