@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:54 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:56 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Saline (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>FAST moving BIG object with smaller one tailgating.My Boyfriend and I were sitting on the couch watching TV about 10:45PM (est) I glanced up and looked out the bay window, and seen something I could not describe. It apeared to be a long plane that had (i think) 8 white lights. These lights were not flashing. However as it pasted over the house the were SEVERAL SEVERAL SEVERAL flashing lights of multicolors. Then which apeared not an inch (from our view) under neath it was a another simular object half the size of the first one, but with only 2 lights one in each "corner" both were white/clear lights that were also not flashing.  It appeared to me that the littier one was DEFFINTLY following the bigger one which was directly above it.  They were moving super duper fast too.  I mean CRAZY beyond belief fast. Like in now was shape or form could have been a normal plane fast.  Did anyone else see what we seen tonight?  Please let us know.  We would greatly appreachiate it. After we saw it we ran and got our shoes and jumped in the car and drove around looking for the object(s) but never found it...However we did find a lot of normal looking planes in the sky (About 30mins later.) We have noticed that to us anyway seems to be greater air traffic in the Annarbor area. This just us? Are we both nuts? Just noticing the Characteristics of the object we would like to note that there WAS NO SOUND from either of them...And just a few moments prior to all this sillyness our cable was acting funny, very simular to how it acted a few weeks ago when we had a large thunder storm, fadding in and out and such...Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24295.html](http://www.nuforc.org/webreports/reports/024/S24295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Washington (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>SAW A LARGE TRIANGULAR CRAFT AND OTHER SMALLER ROUND CRAFT IN THE SKY.  LIKELY NOT OF THIS EARTHwas out walkin dog. looking north and west in the sky I saw a large craft with triangle shape lights on tips. smaller craft were hovering south of me.  movement was not that of air craft we know. not man made in its motion.  I COULD SEE FROM THE SIZE OF THE TRIANGULAR SHAPED CRAFT IT WAS HUGE.  MORE THAN SEVERAL FOOTBALL FIELDS IN LENGTH.  AS THIS CRAFT HOVERED CLOSER OVER HEAD THEN MOVED WESTWARD.  THEN NORTH.  THE OTHER SMALLER CRAFT WERE TOGETHER IN TWOS AND HOVERED IN THE SOUTH SKY BEFORE MOVING OUT INTO DEEP SPACE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129130.html](http://www.nuforc.org/webreports/reports/129/S129130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
