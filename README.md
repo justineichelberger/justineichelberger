@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Liberty (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 00:45 - 00:45 minutes.</sub><blockquote><sub>2 round, very large objects traveling at alarming speed through cloud ceilingThe incident I am reporting occurred at approximately 0330 Hours CST while driving on Interstate 380 North about 2 miles after the North Liberty on-ramp.  It was cloudy and I saw two circles of light above the observable cloud ceiling (which is not uncommon given the CID airport is about 12 miles north).  The circles were right behind each other.  What caused me alarm was when the object protruded from the clouds and got closer.  They were dark and much larger, circular (sphere or disc-shaped, not certain) and had what looked most like a bright light-emitting apparatus on the underside.  It passed about 75 feet over me, moving SSE at a very high rate of speed.  The noise I heard it make was most similar to the noise sandpaper makes against wood, but louder. I got home at around 5:00am yesterday,  I usually get home at around 4:00am, I chalked the tardiness up to me driving extra carefully because the road was damp, but the math just doesn't add up.  I want to know what happened on that road last night!   I drive this route 6 days a week to work from Cedar Rapids, Iowa, to Coralville, Iowa, and back.  No remarkable event have ever occurred minus seeing some drunk crash into shrubs three months ago.  I never thought I'd be on one of these sites reporting this but who knows?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112656.html](http://www.nuforc.org/webreports/reports/112/S112656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Surf City (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orangish glowing spehere floating across the sky???Arrived home at 9:15 to our vacation home and get out of the car, look up at the sky and see a strange orangish colored sphere floating through the sky, i did a double take and told my wife and father-in-law to look at it, they were all perplexed, we just watched it in awe fly right over us and quite a ways in the distance.   Our neighbors also saw it i think they were on their roof patio and i saw them jump up to look at it.No idea what this could have been, no way was it a plane or kite of sorts it went way in the distance at a good rate of speed.Crazy, just thought i would docuement it since i dont really follow this stuff.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91610.html](http://www.nuforc.org/webreports/reports/091/S91610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
