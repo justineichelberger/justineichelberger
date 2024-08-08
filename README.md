@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Husband and daughter all witnessed 2 orange fireball like lights, traveling up in sky slowly, then a 3rd, which disappeared minutes later.Husband and daughter all witnessed 2 orange fireball like lights traveling up in sky slowly, then out of nowhere came a third following in the same path, after about 2 minutes they became smaller and less bright, then disappeared in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120969.html](http://www.nuforc.org/webreports/reports/120/S120969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ponteix (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Extremely high speed vanishing bright lightWe saw a very bright round light travelling at very high speed across the sky,   After watching for a while it got dim and then vanished.  A few minutes later we saw another light that was much higher in the sky travelling in the same fashion.  I believe that the object flew out of our atmosphere</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91651.html](http://www.nuforc.org/webreports/reports/091/S91651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
