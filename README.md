@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Blue Eye (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I'm not crazy, I'm a commercial pilot and a paramedic and I saw a group of bright white lights flying over Blue Eye, Missouri, on 8/8/14.A storm was approaching from the west.  Myself, my mother and father were sitting on the balcony of the house, which has a view of the west and a view of Table Rock Lake, off of highway JJ in Blue Eye. We were watching the storm get closer (maybe about 20 miles out to the west heading east) and we (all three of us  spotted) 5 bright lights that were white in color and appeared to range in altitude from 500 feet to 2000 feet and were staggered near each other less than a mile or two horizontally.  Furthermore, all lights were the same intensity and two or three of them began to slowly move towards the south or southeast.  About one minute later the two of the objects disappeared.  Then after about 20 to 30 seconds two more disappeared leaving only one stationary white light.  Then, two of the objects returned only this time, they were underneath and lateral of the remaining light forming what appeared to be a triangle.  By this time we hag gotten binoculars and viewed the objects as they started slowly moving southeast again.  They looked as  if they were balls of Amber white light through the binoculars.  Then two lights disappeared and then the last one very slowly faded out. I HAVE NEVER REPORTED A UFO.  I AM AN AIRFORCE VET. A COMMERCIAL PILOT, A PARAMEDIC.  I AM NOT SOME WEIRDO AND I WILL NEVER FORGET NOR WILL MY PARENTS FORGET WHAT WE SAW FLYING OVER BLUE EYE MISSOURI.  THIS WAS NOT ANY AIRCRAFT I HAVE EVER SEEN. ball lightning perhaps?  I want to know if any one else saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112359.html](http://www.nuforc.org/webreports/reports/112/S112359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately hovering - hovering minutes.</sub><blockquote><sub>I first saw two bright yellowish beams in the sky, higher than clouds, and as I got closer, a black disc over the beams, tilted, and then triangular shaped on the bottom.I was with my cousin who was driving on the fast lane of the freeway, on the edge, and I first noticed two bright yellowish beams in the sky, a little higher than a jet, the sky was still light even though the sun was going down, I saw the two beams for about 15 minutes, then when we got up to it my cousin and I saw a flat disc shaped object, black and tilted, over the two beams, which appeared longer.  And then as we got up to the beams, even longer, it was off the side of the freeway, we twisted are heads up as much as we could, following the beams, and we then saw this large triangular shaped object, like an arrowhead, with round corners, silver, with three large oval shaped white lights on each corner.  The two beams, which were not very wide but very noticable they were so bright, were coming from the center of this object.  It was just sitting there as I saw from miles back the two beams, they were not moving.  I do not know if anyone else on the freeway saw it.  I know the area, it was in a residential area.  I have not heard any other report on it, so I do not know if anyone in the area has seen it.  It seemed to be able to make itself not so obvious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04597.html](http://www.nuforc.org/webreports/reports/004/S04597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
