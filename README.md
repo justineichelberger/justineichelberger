@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:56 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Washington (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>SAW A LARGE TRIANGULAR CRAFT AND OTHER SMALLER ROUND CRAFT IN THE SKY.  LIKELY NOT OF THIS EARTHwas out walkin dog. looking north and west in the sky I saw a large craft with triangle shape lights on tips. smaller craft were hovering south of me.  movement was not that of air craft we know. not man made in its motion.  I COULD SEE FROM THE SIZE OF THE TRIANGULAR SHAPED CRAFT IT WAS HUGE.  MORE THAN SEVERAL FOOTBALL FIELDS IN LENGTH.  AS THIS CRAFT HOVERED CLOSER OVER HEAD THEN MOVED WESTWARD.  THEN NORTH.  THE OTHER SMALLER CRAFT WERE TOGETHER IN TWOS AND HOVERED IN THE SOUTH SKY BEFORE MOVING OUT INTO DEEP SPACE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129130.html](http://www.nuforc.org/webreports/reports/129/S129130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Frances (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red white and yellow oval shaped object hovering in the skyThe unidentified object was an oval shape like many typical "UFO's" . It was across the street behind some other houses and it went across the sky lower than a plane would be and slowly stopped and hovered by some trees it then moved a bit and disappeared behind the trees it was by. The object had flashing lights that were red white and yellow. It hovered for about a few seconds then disappeared behind the trees. Also my neighbours dog was out and was barking crazy at the object in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113386.html](http://www.nuforc.org/webreports/reports/113/S113386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
