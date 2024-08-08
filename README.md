@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately hovering - hovering minutes.</sub><blockquote><sub>I first saw two bright yellowish beams in the sky, higher than clouds, and as I got closer, a black disc over the beams, tilted, and then triangular shaped on the bottom.I was with my cousin who was driving on the fast lane of the freeway, on the edge, and I first noticed two bright yellowish beams in the sky, a little higher than a jet, the sky was still light even though the sun was going down, I saw the two beams for about 15 minutes, then when we got up to it my cousin and I saw a flat disc shaped object, black and tilted, over the two beams, which appeared longer.  And then as we got up to the beams, even longer, it was off the side of the freeway, we twisted are heads up as much as we could, following the beams, and we then saw this large triangular shaped object, like an arrowhead, with round corners, silver, with three large oval shaped white lights on each corner.  The two beams, which were not very wide but very noticable they were so bright, were coming from the center of this object.  It was just sitting there as I saw from miles back the two beams, they were not moving.  I do not know if anyone else on the freeway saw it.  I know the area, it was in a residential area.  I have not heard any other report on it, so I do not know if anyone in the area has seen it.  It seemed to be able to make itself not so obvious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04597.html](http://www.nuforc.org/webreports/reports/004/S04597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Husband and daughter all witnessed 2 orange fireball like lights, traveling up in sky slowly, then a 3rd, which disappeared minutes later.Husband and daughter all witnessed 2 orange fireball like lights traveling up in sky slowly, then out of nowhere came a third following in the same path, after about 2 minutes they became smaller and less bright, then disappeared in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120969.html](http://www.nuforc.org/webreports/reports/120/S120969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
