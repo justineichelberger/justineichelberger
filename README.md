@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 7 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 Lights along Los Angeles CoastlineHi, at approximately 8 pm my wife and I were looking west at the sunset over the ocean, standing on Redondo Beach, CA.  We noticed after the sun went down, three distance bright orange oblong shapes in the sky. This was very distant, miles away, over the mountain coast past Malibu, looking northwest.  These blips slowly moved individually at approximately 45 degrees, as if they were moving away from us possibly and across the sky, but not in formation.  One moved towards the earth and two slowly up and away.We assumed because of the slightly orange sunset sky, that they were orange because of reflecting the sunset, so they could have been silver or reflective in some way.   Nearer to us, Planes were taking off from Lax, moving east to west across the sky lifting off, and they were consistently silhouetted against the orange sky, without their lights on.So to us, whatever was in the distance was very orange (reflective possibly).  As they began to become less visible, assuming distance, one object suddenly appeared as a very brilliant light for about 3 to 5 seconds and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100902.html](http://www.nuforc.org/webreports/reports/100/S100902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Curious to know what is going on.I live in Portland, OR and since the begining of summer I have noticed strange things in the skies at night. Almost nightly there are bright glowing orbs that are orange/ white in color.  They are stationary until just before dawn.  I have personally witnessed one raise from below to the tree line rapidly moving vertical until it was positioned close to the moon, and there it stays. Naturally I know its not by the moon but it's relation to the moon's position in the sky is strange. It isn't a star or jupiter as my friend tried to explain.  I dont know what it is and the pictures I have taken arent very good quality but they are pictures of what I am describing and feel free to check it out. I would like to know what it is.  I took these throughout the month of August and September 2012.  All the photos are taken from the West Facing East early Am before the sun comes up.((NUFORC Note:  Witness elects to remain totally anonymous, but provides contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92860.html](http://www.nuforc.org/webreports/reports/092/S92860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
