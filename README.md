@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A firery ball came from a high altitude at a steep angle in the northern sky. It leveled off and changed to a dome shape with a pulsating red light on top. A white light glowed underneath as it flew level in a NW direction.I am a private pilot (at age 16) with USAF pilot training in T-37 jet. Three of us saw a fire ball enter the atmosphere at a steep angle. It was trailing red fire as it came down at high speed. It leveled off at a few thousand feet and became a dome (lampshade) shape with a pulsating red light on top and a yellowish-white light shining below. It was several miles to the north so we had a side view as it leveled off and slowed way down. It was moving in a westerly direction at approximately two or three thousand feet. It made no sound and the sky was clear and very dark. It got smaller as it flew to- ward the west at several hundred miles per hour. We lost sight after two minutes when it was hidden by the trees on the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03115.html](http://www.nuforc.org/webreports/reports/003/S03115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Miramichi (Canada) (NB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw orange glowing flying very low and slow,changed direction and climbed out of sightsaw what first appeared to be meteor,but realized it was moving very slow,was orange glow,edges seemed to have mother of pearl effect,was very low, approaching from south west,watched as it turned eastward and began gaining altitude as it flew towards miramichi bay, eventually reached a height where it was no longer visible.about 5min.total.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83483.html](http://www.nuforc.org/webreports/reports/083/S83483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
