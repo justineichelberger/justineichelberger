@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Brownsville (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>2 triangular shaped objects spinning around each other over the roof of an apartment in Brownsville, Texas.I was getting ready to take a shower at my girlfriend's apartment at around 3:00 a.m. when I forgot to bring the soap that was in my car. When i went to my car about 50 feet away from the front door of the apartment, which i couldn't find it and needed to sit down (front passenger side). I looked over at the front door of the apartment because I thought saw someone in the corner of my eyes open the door thinking it was my girlfriend but no one was there. But right above the roof, when i happened to look up(maybe about 20-30 feet from the roof) I saw 2 triangular shaped objects about the size of 3 6-foot man that can fit in a triangle, spinning around each other with a light on one corner of the 2 triangle objects. when i stared at it, i was still blinking my eyes but kept my line of sight straight at the objects trying to identify what kind of object it was. But after realizing that the wind was stagnant and no sound was present except for the air condition that was behind the apartments. I saw the objects slow down from the spinning motion and paused for 1 second and took off to the left going up....quickly, very fast and awakening. then after about 10 more seconds, the wind started blowing for the next 5 to 8 seconds and stopped again. but the objects did not make any noise or sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51631.html](http://www.nuforc.org/webreports/reports/051/S51631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lakeville (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A circle of 12 white lights, not moving.The sighting was of a circle of 12 white lights, which were stationary in the sky.  They would occasionally fade and then come back bright again.  We watched for about an hour before they completely faded, no idea how long they had been there before we spotted them.  A second smaller circle of lights could be seen under the first one as it faded. We have some good photos.  Three other people, a mile from our house, also saw the same thing after we asked them to look.((NUFORC Note:  Suspected advertising lights at a local casino.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121024.html](http://www.nuforc.org/webreports/reports/121/S121024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
