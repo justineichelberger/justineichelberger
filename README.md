@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:16 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ottawa (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A triangle of lights appears and then disappears.My fiance and I were sitting on our balcony smoking and watching the sky since the Perseid Meteor shower will be at its peak this week.  Since we are in the city there is quite a bit of light pollution so we really only see the brightest stars.  We can see such constellations as Scorpius and The TeaPot.As I was looking just East of the TeaPot, I noticed a bright white light, like a star, in the corner of my eye. I looked towards it and realized it was not there before, it was not one of the usual stars we see. I now have my fiance’s attention and he is looking at it too.  As we are watching this bright light it begins to move downwards and two more lights appear above it forming a perfect upside down triangle! They stayed in triangle formation and continued to move downwards in unison and gradually disappeared one by one as they appeared.It did not last long, maybe 30 seconds or so. I tried to take a picture of it but would not show on my crappy cell phone cam. It was the weirdest thing we have ever seen and we have no idea what it could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158379.html](http://www.nuforc.org/webreports/reports/158/S158379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Star Valley (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 53</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164550.html](http://www.nuforc.org/webreports/reports/164/S164550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
