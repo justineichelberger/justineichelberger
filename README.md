@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:51 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:24 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A white puffy cottonball appeared and then a triangle emerged from it.  It was totally silent and had a light on each corner.A white puffy cottonball appeared toward the northeast at about 40 degrees in the sky, and then a triangle emerged from it.  My husband and I were looking for meteors, and we both saw it.  We were on our deck in the back yard.  It was completely silent and moved slowly from northeast to southwest.  I thought it was electromagnetic because all the hairs on my arms stood straight up like with static electricity from a balloon.  It was spooky.  I thought about running in the house, but I couldn't stop watching it.   It drifted along rather slowly and then stopped, tilted so that the lights appeared to line up, and blinked out.  I saw a red light at each corner of the object, but my husband saw a white light at each corner.  This was the night that the Pope and the President were in Denver (about 15 miles south of us) at Regis University.  There was no air traffic at all while we were outside, which was unusual.  It was about the length of your thumb held at arm's length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08651.html](http://www.nuforc.org/webreports/reports/008/S08651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kingsport (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Flashing lights moving across sky in northern direction.My friend, my neighbor, and I were sitting out on a trampoline and we were looking into the sky and saw multiple lights moving slowly across the sky (about the size of a small star). We knew it couldn't be a star because stars dont move and it couldn't be a shooting star cause it was moving very slowly. We observed that there were aircraft in the sky taking off from a local airport and we noticed that one of the objects began to follow the aircraft and then disappeared. The objects changed colors very rapidly from blue to red to white. We observed that one of the objects had a green color change in it that none of the others had. They all were moving in a northern/northeastern direction. We saw 7 or more of these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24325.html](http://www.nuforc.org/webreports/reports/024/S24325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
