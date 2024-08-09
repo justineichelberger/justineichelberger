@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ballwin (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>strange sounding craft after severe storm flew over our home twice, or there were two craftLast night there was a terrible storm. Our electric went out at 1:30am CT.  My husband and I were talking, the storm significantly quieted down with long periods of time in between distant thunder.  The sky still had consistent lightning.   We heard a craft fly over us, and it was very loud and peculiar sounding.  It was very fast and sounded like the stereotypical spaceship flying sound from tv shows and films.  We looked at each other shocked.  My husband commented that at first he was wondering if it were a tornado when it first started.  A few minutes later it happened again, following the same flight path [I believe NE to W, but am not certain] though it was somewhat quieter.   We get a lot of fly over from military and commercial, and are familiar with normal flight sounds. This was unlike anything we've ever heard, and with as much lightning and with as loud/low as the craft sounded like it was flying, I am unsure whether a military or commercial craft would fly that low in these conditions over a residential area. The sounds also did not follow the path of streets near us. We did not see anything. Could it be a rare sound created by weather? Do traditional aircraft somehow sound different in certain storm conditions? </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158356.html](http://www.nuforc.org/webreports/reports/158/S158356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Castro Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Driving to work on I-580, saw a glowing craft moving along the coast of California.  It was a bright greenish color, moved extremely fast from horizon to horizon.  My guess is it was flying about an altitude of 5000ft.  It flew from one side of the sky to the other side in about 2 seconds, then did a 45 degree turn and took off over the Pacific Ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129124.html](http://www.nuforc.org/webreports/reports/129/S129124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
