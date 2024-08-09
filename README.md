@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 8 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Near Westport ny (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Spinning saucer with very bright lights. Quite large- about the size of a small house.My friend and I stayed at the Meadowmount School of Music, and decided to stay left behind whilst most of the students went to a movie.  Thus the campus was quite dark. We heard some pretty loud motor sound outside and wondered what it was. When we came out we saw a large saucer -like vehicle  hovering and spinning to a stop.  The light for immensely bright and we stared into it but couldn’t see anything.  We heard what sounded like a door close quickly and then it zoomed off, spinning in circles at a very high speed- higher than I’ve ever seen in my lifetime.  And it disappeared into thin air leaving no trace of odor or sound behind.We did not feel afraid, but we both felt almost hypnotized or certainly mesmerized by it.We never reported it as we both were certain no one would believe it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158647.html](http://www.nuforc.org/webreports/reports/158/S158647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grand Terrace (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was exactly the same as the night before ...Orange floating sphere that floated over the park area on towards Blue Mountain- dropped ember looking material 3 X and then disappeared?  It made no noise???((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148216.html](http://www.nuforc.org/webreports/reports/148/S148216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
