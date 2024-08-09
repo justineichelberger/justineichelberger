@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in South Korea () reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Sighting in the Republic of South KoreaAt approximately 0630 on the above mentioned morning I witnessed a UFO traveling up a valley while in the Republic of South Korea.  I was active duty military and was stationed in Korea at the time.  My unit was out on a training excersise with our helicopters situated in a valley.  At 0630 I was standing in line to recieve breakfast and looked over into the valley.  I saw a cone shaped flying object move up the valley.  It had circling lights around it that were mult-colored and rotating in opposite directions.  It had no propellers, or rotor blades or any external engines that I could see.  It was also quite soundless and moved as if it was on a string being pulled through the valley.  That particular morning it was very foggy but as the craft approached the fog parted and the craft moved through our area.  Myself and one other person saw this UFO and he looked right at me and told me to keep my mouth shut and never mention a word about what we just saw.  Being in the military and having someone that outranks me to tell me to keep my mouth shut was to me an order.  I kept my mouth shut, but was amazed that I actually saw what I believe to be a UFO.  Again, this vehicle made no noises, no sense of motion except for it's flight and was NOT a military reconnisance aircraft.  I know the difference, believe me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20807.html](http://www.nuforc.org/webreports/reports/020/S20807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waterford (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in the hottub with my mom looking at the stars when we saw the lights in the triangle shape glide across the sky then hover up.Me and my Mom were relaxing in the hottub Looking up at the sky hoping to see a shooting star. There were alot of Tall trees to the left of us, and from over the trees we saw one bright light, at first my mom thought it was a satelite until two more bright lights followed behind it making a triangle shape. Me and my mom could clearly see the shape of a triangle in the sky, the triangle was darker than the sky and you could see the sky behind it. The triangle had three bright lights on each corner of it. The Triangle slowly cruised over the night sky without a sound, then the triangle stopped and proceeded to hover up into the sky until it was out of view. From the time me and my mom saw the triangle until it was out of view was about 2 minutes. It was an experience I will never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158362.html](http://www.nuforc.org/webreports/reports/158/S158362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
