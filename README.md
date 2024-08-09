@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Warwick () reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large orange light moving slowly north in the sky. Got very bright and then just went out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112333.html](http://www.nuforc.org/webreports/reports/112/S112333.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A Thin Slice of Black over the Las Vegas mountain rangeI was traveling North on route I-15 heading to the Grand Canyon. 20 miles outside of Las Vegas there is a large mountain range on the right hand side of the road about 2-3 miles away.  To my surprise I saw a floating black object which seemed to be staying in the same position a little to the left of the mountain range as I was driving by.  The best I can describe the shape is like a thin slice of black, I may have been to far away to get the full definition of the craft. But it hung in the same spot for at least 5-8 minutes, had me staring the entire time till it started moving slowly towards Las Vegas strip and disappeared behind the mountain range. It was rather strange, I've never seen anything like that. I have been to many airshows and I don,'t really know to many aircraft that can stay in the same place unless it was a helicopter from really far away, but after review, I ruled that out judging from Its shape. It was like black plate that appeared statio! nary for about 5-8 mins, then slowly moved behind the range and out of my sight. I have never seen something like this I couldn't explain</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77114.html](http://www.nuforc.org/webreports/reports/077/S77114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
