@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:24 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kingsport (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Flashing lights moving across sky in northern direction.My friend, my neighbor, and I were sitting out on a trampoline and we were looking into the sky and saw multiple lights moving slowly across the sky (about the size of a small star). We knew it couldn't be a star because stars dont move and it couldn't be a shooting star cause it was moving very slowly. We observed that there were aircraft in the sky taking off from a local airport and we noticed that one of the objects began to follow the aircraft and then disappeared. The objects changed colors very rapidly from blue to red to white. We observed that one of the objects had a green color change in it that none of the others had. They all were moving in a northern/northeastern direction. We saw 7 or more of these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24325.html](http://www.nuforc.org/webreports/reports/024/S24325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ridgewood (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>http://www.ufocenter.com/reportformsubmit.html  OK, i will try to be as descriptive as possible. (sorry for my bad English)  Also, i am 13 and i am scared about this.  i haven't been able to sleep for days.Me and some of my buddies were going out for biking. there were some clouds on the sky and was a sunny day. me and my friends were out on the streets biking near a graveyard.then, some of the clouds started to turn green. either that, or green smoke appeared in the clouds out of nowhere. then, a rocket-like (rocket shaped) object appeared from the green cloud. what happened next was unbelievable... the object disappeared and reappeared several times on different places in the sky. and then, the shape of the object changed the third time it reappeared. the object's new shape looked somewhat like this:  ()===() another time it changed its shape, it looked like this: ()() so i think that the ufo teleported in the different places in the sky.it disappeared and repappeared for about 20 times.and it changed its shape.my other 8 friends saw this too. and since i am living in new york, i am sure many other people saw this too. they should have.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77210.html](http://www.nuforc.org/webreports/reports/077/S77210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
