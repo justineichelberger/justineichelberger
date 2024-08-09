@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waterford (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in the hottub with my mom looking at the stars when we saw the lights in the triangle shape glide across the sky then hover up.Me and my Mom were relaxing in the hottub Looking up at the sky hoping to see a shooting star. There were alot of Tall trees to the left of us, and from over the trees we saw one bright light, at first my mom thought it was a satelite until two more bright lights followed behind it making a triangle shape. Me and my mom could clearly see the shape of a triangle in the sky, the triangle was darker than the sky and you could see the sky behind it. The triangle had three bright lights on each corner of it. The Triangle slowly cruised over the night sky without a sound, then the triangle stopped and proceeded to hover up into the sky until it was out of view. From the time me and my mom saw the triangle until it was out of view was about 2 minutes. It was an experience I will never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158362.html](http://www.nuforc.org/webreports/reports/158/S158362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 slow moving lights in triangular formation over Savannah, GAAs I was driving home, I noticed 3 lights in the sky in a triangular formation, two on top and one on the bottom, and the bottom one being much brighter than the other two.  I pulled over to watch them and videoed for 20 minutes.  While videoing them, they didn't appear to be moving.  After review of the video, they were indeed moving slowly, noticed by a point of reference in the video.I thought possibly it was a bright star or planet (even though I have never seen a star or planet this bright), so I rushed home to grab my camera and tripod.  I was going to attempt to do a long exposure photograph that would capture the star trails as the earth spun to see if these lights were of the same pattern.  As I went back out to the vicinity of the lights, I noticed they were much farther away.  They were moving in a west / south-west direction.  I attempted to get on the interstate to follow them (I-16 west), but they were moving too fast for me to keep up and eventually I lost them in the trees in the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77090.html](http://www.nuforc.org/webreports/reports/077/S77090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
