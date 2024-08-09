@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:51 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pike Creek (DE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Objects at very high altitudes, traveling east.Formation of glowing objects traveling east to west at very high altitudes, some change direction both south and north to tighten formation.  Too high to be aircrafts.  No sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120966.html](http://www.nuforc.org/webreports/reports/120/S120966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>40+ fireballs in formation moving fast and changing shapesThe sighting happened at 21:38 on Monday, August 9th 2010.  I was located in Spokane Valley, WA and, I was looking directly above me when my sighting took place and the angle of elevation was 90 degrees.  I witnessed approximately 40 or more brightly lit objects/orbs of orange and reddish light in a formation/straight line above me moving east very quickly.  The objects themselves were in motion as they maintained the line formation, and they appeared to move in front of each other and around each other.  Formation then changed shape from a line to a V.  Objects appeared to be the same size as the stars and appeared to be at a high altitude based on my observations.A closed fist at arm’s length when the formation/cluster was directly above me covered about 1/10th of the formation.  The cluster of objects was very large across the sky.  No other witnesses were present at time of sighting, and objects made no noise whatsoever as they went overhead from west to east.  Objects then changed shape into a V formation, and then disappeared from view to the east after about ten seconds.  Speed of objects was very fast, covering the sky and off to the east in seconds.  Speed of the objects was constant the whole time.  It was almost hard to follow them because of the speed.  I have been an amateur meteorologist for about 15 years and I watch the sky daily and observe weather conditions and aircraft all the time from my residence.  I can say with much certainty that the objects I witnessed were not any known aircraft, stars or planets.  This was in the lower atmosphere and seemed very unusual to me.  I have never witnessed anything like this, an! d I would love to find out more on what this may have been.  Feel free to contact me for any more info.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77154.html](http://www.nuforc.org/webreports/reports/077/S77154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
