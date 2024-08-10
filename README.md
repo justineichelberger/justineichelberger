@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bayside (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Triangles searching with light. 46yard sphere comes along and beams down at   triangles, Then they r gone..Well the first thing i noticed was a green light coming through my window. Thats when i seen 3 triangle shaped ...Things in the sky. At first they looked like a plane ( i wear glasses) but i thought why would 3 planes stay together? I got my glasses and I looked out the window. There was a bright green flash.It started to hover over the houses. I thought i was having a dream. So i went back to sleep. Then later I heard the sound of the triangles before.Then a green light.So i went over to my camera and took some photos.Thats when i noticed something under the ship that was the source of the light. I seen it moving toward my friends house. Then it switched to my house then it went away for like 20 min.Later I heard the noise again thats when i seen a bigger shape. A sphere in the air! It was like 46 yards long. then it beamed down at the triangles. Then the dissapeared. Thats all I remember.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45569.html](http://www.nuforc.org/webreports/reports/045/S45569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Thought it was a Satellite until witnessing a very bright flash of light come from the object.While looking at the western sky noticed a small dot in the sky traveling from north to south. Thought it was a satellite at first as it was very small and seemed to be traveling at the speed I am use to seeing from a satellite. The odd thing was as we were watching the small dot it suddenly started to glow with a very high intensity light so much so that I thought it was a helicopter spotlight. The light only lasted for a few seconds then went back to normal and the craft continued on a southerly course at the same speed before fading out. I have an aviation background and do not think it was an aircraft given the small size, the speed of the object and the brightness of the flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71595.html](http://www.nuforc.org/webreports/reports/071/S71595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
