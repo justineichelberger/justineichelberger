@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Very bright round light hovered while changing size then faded away.Saw a round light, about the size of a street light, hovering in the northern sky. Then faded down about half its original size, then it appeared to back up to about 3/4 size, then very quickly faded away to size of a star and kept fading until it disappeared.The whole process lasted about one minute.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33759.html](http://www.nuforc.org/webreports/reports/033/S33759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Greenwich (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>With friends in field, saw object illuminate and hover, flash and then take off quite fast.Was standing out in a field unwinding with some friends and as I was putting out my cigarette I caught a flash in the sky, we all looked up and watched this continuing flashing pattern grow and grow. The object then illuminated so that we could see a triangular shapes, we almost thought we heard a faint humming sound coming from it, it stayed in one spot for about 5 minutes, started to move westward slowly, and then about 2 minutes later increased speed and was gone in almost the blink of an eye.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58173.html](http://www.nuforc.org/webreports/reports/058/S58173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
