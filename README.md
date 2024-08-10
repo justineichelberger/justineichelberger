@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My family was leaving Paramounts Kings Island.  We were in the parking lot and someone walking behind us tapped my brother-in-law on the shoulder and said "what the heck is that" and pointed up in the clear night sky.  At first is was a round figure resembling a fire ball many thousands of feet high.  It was stationary for about 3-5 minutes.  There were flames dropping from it.  Finally it moved westward and the flames went out.  Then it had a white smokey glow, and continued to move westward.  About 10 minutest later it appeared to drop at a faster rate from the sky (lasting another 3-5 minutes) until it was out of site.  There was no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24479.html](http://www.nuforc.org/webreports/reports/024/S24479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brigantine (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It appeared 0n August 10, 2019, at 9:22 pm above the ocean in Brigantine, New Jersey.  It was round with red, green, and white lights.  No sound at all it hovered for a few minutes then slowly moved and disappeared  into the clouds.  It was seen at our beach house back deck above the ocean.  We have video of it but it is not that good.  We were in shock at what we were seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148975.html](http://www.nuforc.org/webreports/reports/148/S148975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
