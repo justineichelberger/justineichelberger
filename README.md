@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw flashing object in sky.We were looking at the meteor shower and saw a flashing object hovering.  It stayed hovering for 15 min with flashing red green and yellow light.  We thought it must have been a star but it eventually moved out of sight, with no noise.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121027.html](http://www.nuforc.org/webreports/reports/121/S121027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ravenna (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Large triangle in sky moving at steady slow pace as I was watching for meteor shower. Brought my 18 yr. old out to verify.  Starlike points in sky moving from southwest to northeast. Two points in front and one in back creating perfect triangle.  Could not identify.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24705.html](http://www.nuforc.org/webreports/reports/024/S24705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
