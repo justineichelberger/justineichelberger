@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:56 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Gaviota (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On August 10, 2002, I was camping with my family and we were watching for falling stars on a clear night.  We noticed a star like object flying east to west across the sky.  Object was very high and it appeared to be traveling at a fast rate of speed. It definitely was not a falling star as it was traveling across the sky horizontally in a straight line and in a conrolled manner. It went from horizon to horizon in a bout 2 minutes time.  It had the same brightness as the stars.  I was wondering if anyone else saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24562.html](http://www.nuforc.org/webreports/reports/024/S24562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cardiff (UK/Wales) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately Grangetown - Grangetown minutes.</sub><blockquote><sub>I FINISHED EXERCISING IN THE GYM AND I WALKED THROUGH THE BIG CAR PARK WITH NO CARS PARKING IN IT. I LOOKED AT THE SKY AND I SAW THIS WHITE OBJECT IN THE SKY. I THOUGHT IT WAS A STAR BECAUSE IT WASN'T MOVING. THEN 1 MINUTE LATER I LOOKED AT IT AGAIN AND IT TURNED AND IT FLEW AWAY. I KNEW I WASN'T A BUG OR PLANE BECAUSE I WOULD HAVE SEEN IT GO SLOWLY. SO THAT IS HOW I KNEW IT WAS A UFO, BECAUSE IT FLEW AWAY FASTER THAN ANY PLANE OR BUG. THAT IS MY UFO SITING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32127.html](http://www.nuforc.org/webreports/reports/032/S32127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
