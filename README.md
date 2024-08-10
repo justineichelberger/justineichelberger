@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My cousin says whats that a bird?  i look up to see a rectangular object moving across the night sky.The three of us were laying, in the front yard. We were watching the night sky for shooting stars or weird stuff as we normally do. When my youngest cousin says whats that it looks like a big bird. I then look up and focused into the Nw part of the sky and saw a rectangular object moving slowy across the sky. Were the wings would be both sides were dark, and the body seemed to be grayish.There were no lights on it and made no sound. I ran across the street to get my cousins and when we came out and looked up it was gone......For once in my life i know what i saw and is what not a plane or any thing iv ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65170.html](http://www.nuforc.org/webreports/reports/065/S65170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake City (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>the object came from the north real slow and made a beep  beep  beep   beep sounddisk came from north and hovered over my trailor and then the camper that my two girls were in ages 12 and 7. Both girls saw the disk and they both drew the same picture and told me that the disk made no noise. The lights were yellow, orange, green.  The disk turned as it hovered.  It had a bright light that shined down on the camper and my 7 year old said she felt tingly,she also says they're coming back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45574.html](http://www.nuforc.org/webreports/reports/045/S45574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
