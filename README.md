@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Thought it was a Satellite until witnessing a very bright flash of light come from the object.While looking at the western sky noticed a small dot in the sky traveling from north to south. Thought it was a satellite at first as it was very small and seemed to be traveling at the speed I am use to seeing from a satellite. The odd thing was as we were watching the small dot it suddenly started to glow with a very high intensity light so much so that I thought it was a helicopter spotlight. The light only lasted for a few seconds then went back to normal and the craft continued on a southerly course at the same speed before fading out. I have an aviation background and do not think it was an aircraft given the small size, the speed of the object and the brightness of the flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71595.html](http://www.nuforc.org/webreports/reports/071/S71595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My family was leaving Paramounts Kings Island.  We were in the parking lot and someone walking behind us tapped my brother-in-law on the shoulder and said "what the heck is that" and pointed up in the clear night sky.  At first is was a round figure resembling a fire ball many thousands of feet high.  It was stationary for about 3-5 minutes.  There were flames dropping from it.  Finally it moved westward and the flames went out.  Then it had a white smokey glow, and continued to move westward.  About 10 minutest later it appeared to drop at a faster rate from the sky (lasting another 3-5 minutes) until it was out of site.  There was no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24479.html](http://www.nuforc.org/webreports/reports/024/S24479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
