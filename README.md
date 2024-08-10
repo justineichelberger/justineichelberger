@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:18 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ravenna (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Large triangle in sky moving at steady slow pace as I was watching for meteor shower. Brought my 18 yr. old out to verify.  Starlike points in sky moving from southwest to northeast. Two points in front and one in back creating perfect triangle.  Could not identify.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24705.html](http://www.nuforc.org/webreports/reports/024/S24705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Worcestershire (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>it looked like a bright star moving very fast, there was no sound, it moved across the sky about a mile and vanished the sky was full of stars and very clear, i thought at first it was a plane but could see on red flashing lights and there was no sound from the object. its direction was from worcester to evesham and i live in pershore.((NUFORC Note:  Report is not inconsistent with a bright satellite, although we do not know what direction the object was traveling.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18924.html](http://www.nuforc.org/webreports/reports/018/S18924.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
