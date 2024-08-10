@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:49 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Supply (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Coordinated flashing lights entered and left the sky over a span of 2+ hours. They culminated into bright orange flashing lights once.On the coast of Holden Beach, North Carolina. Initial sighting of white, hovering, flashing lights at 9:30 PM EST. About 4 flashing lights remained in a rectangular formation for a few minutes before moving in unpredictable yet coordinated directions. An hour later(&#8776;10:30 PM) the lights reappeared, but culminated into more coordinated and sporadic movement. The lights converged into a line before becoming bright orange shortly before returning to normal. At about 11:20 PM, the flashing lights returned to move around the sky in bizarre directions. The white flashing lights appeared often in the sky over a span of a couple hours, but the lights turning orange and moving as coordinated as they did only happened once. Whatever UFO activity it may have been was extended over the period of a few hours and only transformed in bright orange lights for a fraction of the whole experience. This phenomenon was witnessed by me, as well as several members of my fami! ly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164307.html](http://www.nuforc.org/webreports/reports/164/S164307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bayside (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Triangles searching with light. 46yard sphere comes along and beams down at   triangles, Then they r gone..Well the first thing i noticed was a green light coming through my window. Thats when i seen 3 triangle shaped ...Things in the sky. At first they looked like a plane ( i wear glasses) but i thought why would 3 planes stay together? I got my glasses and I looked out the window. There was a bright green flash.It started to hover over the houses. I thought i was having a dream. So i went back to sleep. Then later I heard the sound of the triangles before.Then a green light.So i went over to my camera and took some photos.Thats when i noticed something under the ship that was the source of the light. I seen it moving toward my friends house. Then it switched to my house then it went away for like 20 min.Later I heard the noise again thats when i seen a bigger shape. A sphere in the air! It was like 46 yards long. then it beamed down at the triangles. Then the dissapeared. Thats all I remember.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45569.html](http://www.nuforc.org/webreports/reports/045/S45569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
