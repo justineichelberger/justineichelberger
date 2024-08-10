@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I witnessed what is most likely a very bright green fireball or meteorite heading S SE above athanum ridge around 12:45am while driving up S 16th ave toward AMPM on Washington Ave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71581.html](http://www.nuforc.org/webreports/reports/071/S71581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My cousin says whats that a bird?  i look up to see a rectangular object moving across the night sky.The three of us were laying, in the front yard. We were watching the night sky for shooting stars or weird stuff as we normally do. When my youngest cousin says whats that it looks like a big bird. I then look up and focused into the Nw part of the sky and saw a rectangular object moving slowy across the sky. Were the wings would be both sides were dark, and the body seemed to be grayish.There were no lights on it and made no sound. I ran across the street to get my cousins and when we came out and looked up it was gone......For once in my life i know what i saw and is what not a plane or any thing iv ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65170.html](http://www.nuforc.org/webreports/reports/065/S65170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
