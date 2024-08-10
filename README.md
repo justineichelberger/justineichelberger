@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I saw a black metallic cigar shaped object. It moved slowly and was silent.Witness says he reported this to the police. Did not report to any other UFO organization.(Possibly same event reported to NUFORC on 8/10)   Report received by Missouri Investigators Group - http://ufomig.bravehost.com((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73242.html](http://www.nuforc.org/webreports/reports/073/S73242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Supply (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Coordinated flashing lights entered and left the sky over a span of 2+ hours. They culminated into bright orange flashing lights once.On the coast of Holden Beach, North Carolina. Initial sighting of white, hovering, flashing lights at 9:30 PM EST. About 4 flashing lights remained in a rectangular formation for a few minutes before moving in unpredictable yet coordinated directions. An hour later(&#8776;10:30 PM) the lights reappeared, but culminated into more coordinated and sporadic movement. The lights converged into a line before becoming bright orange shortly before returning to normal. At about 11:20 PM, the flashing lights returned to move around the sky in bizarre directions. The white flashing lights appeared often in the sky over a span of a couple hours, but the lights turning orange and moving as coordinated as they did only happened once. Whatever UFO activity it may have been was extended over the period of a few hours and only transformed in bright orange lights for a fraction of the whole experience. This phenomenon was witnessed by me, as well as several members of my fami! ly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164307.html](http://www.nuforc.org/webreports/reports/164/S164307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
