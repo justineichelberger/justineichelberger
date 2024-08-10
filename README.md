@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Greenwich (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>With friends in field, saw object illuminate and hover, flash and then take off quite fast.Was standing out in a field unwinding with some friends and as I was putting out my cigarette I caught a flash in the sky, we all looked up and watched this continuing flashing pattern grow and grow. The object then illuminated so that we could see a triangular shapes, we almost thought we heard a faint humming sound coming from it, it stayed in one spot for about 5 minutes, started to move westward slowly, and then about 2 minutes later increased speed and was gone in almost the blink of an eye.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58173.html](http://www.nuforc.org/webreports/reports/058/S58173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange triangular object, very distant, very slow, binocular brightness.I was scanning the south sky in constellation Sagittarius with 10x binoculars; Jupiter was in the area and I could see three of its moons as well.  The planet was directly north of globular cluster M22 with about 1.5 degree separation.  I spotted something that should not have been there, a small red-orange light traveling leisurely westward halfway between Jupiter and the cluster.Upon closer examination, I discerned that it was triangular shaped, about fourth magnitude, and flickering slightly.  I watched it for about ten minutes, and in that time it proceeded west into Scorpius and brightened by about one magnitude.  It was about 20 degrees above the horizon, and moved very slowly. I got the impression that it was at a great height.After ten minutes, my arms became fatigued from holding the heavy pair of binoculars.  I put them down for a few seconds. When I resumed looking, I could not relocate the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84895.html](http://www.nuforc.org/webreports/reports/084/S84895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
