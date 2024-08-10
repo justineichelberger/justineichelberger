@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ajax (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flat-bottomed triangle craft in residential area.Seen outside my bedroom window at about 9:25pm Sunday evening August 10, 2014.Large triangle shaped object, completely flat on the bottom, with 3 orange/red lights, with white lights in the middle on each corner.  It had no wings or tail and made a strange shushing sound, as it went slowly past our house, from east to west.  Not sure of the color, due to the twilight.  It looked VERY large to Me.It appeared to be close enough to our house to touch!  I have never seen anything like this in my 72 years.  I am 100% sane and not on medication that would cause hallucinations, nor have I read/watched or had any interest in UFO's, but what I saw is very similar to pictures my son (the one typing this report) has shown me online of 'black triangle' objects!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112383.html](http://www.nuforc.org/webreports/reports/112/S112383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I saw a black metallic cigar shaped object. It moved slowly and was silent.Witness says he reported this to the police. Did not report to any other UFO organization.(Possibly same event reported to NUFORC on 8/10)   Report received by Missouri Investigators Group - http://ufomig.bravehost.com((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73242.html](http://www.nuforc.org/webreports/reports/073/S73242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
