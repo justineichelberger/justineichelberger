@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 9 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Green River (UT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A good friend and I were traveling westbound on I-70 a few miles west of Green River, Utah as we had just stopped to gas up there. We were traveling through some rolling hills when all of a sudden a bright flash in the sky caught my eye.  I focused my attention to the area and then I was able to see many objects in the sky. The objects seemed to be of diamond shape, but completely flat, so just imagine a 2-d diamond.  It was metallic in color as it reflected the sunlight extremely well when the horizontal plane was perpindicular to the ground. I immeadeately told my friend about what I was obeseving and told him to focus his attention towards that airspace, but he was not able to observe them. I remembered that I had been wearing my polarized sunglasses so I took them off so he could have a look, and lo and behold he could see them too. This was the case for a minute or two but when we grew closer we were able to observe them with the naked eye. The objects movement was so calculated, it was most reminiscent to a group of sardines swimming in the ocean, in that they all were oreinted in the same direction and turning and interacting with one another with crazy precision. It was funny because my friend and I had been keeping ourselves entertained by sharing mostly everything that we have heard/seen about ufo's from coast2coast and various other surces and BAM! who would have known that we would be able to observe something so awesome as what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58301.html](http://www.nuforc.org/webreports/reports/058/S58301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Gaviota (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On August 10, 2002, I was camping with my family and we were watching for falling stars on a clear night.  We noticed a star like object flying east to west across the sky.  Object was very high and it appeared to be traveling at a fast rate of speed. It definitely was not a falling star as it was traveling across the sky horizontally in a straight line and in a conrolled manner. It went from horizon to horizon in a bout 2 minutes time.  It had the same brightness as the stars.  I was wondering if anyone else saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24562.html](http://www.nuforc.org/webreports/reports/024/S24562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
