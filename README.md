@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in ((town name temporarily deleted)) (OK) reported seeing craft that fit the description of some 'Cone' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I saw aliens and their space shipIt appeared to be in the shape of a thimble.  It had a Orange or gold tint. It was a very clear night. I could see the milkyway and many stars.I could hear some kind of engine noise',but it is hard to descibe.It was very large and hovered over me and would rotate its position.On the ground I thought a car passed me but I didn't hear the engine or tire noise.The lights of the vehicle had affected my vision.((NUFORC Note:  We spoke with this witness at length, and found him to be extremely credible.  A member of law enforcement has confirmed much of what the witness has reported to NUFORC.  We will follow up in the future with a more thorough report.  PD))((NUFORC Note #2:  We have had difficulty establishing contact with the witness for a follow-up report.  We do not understand why.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13977.html](http://www.nuforc.org/webreports/reports/013/S13977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple ufos seen within a few minutes of one another.  all ufos came from the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135685.html](http://www.nuforc.org/webreports/reports/135/S135685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
