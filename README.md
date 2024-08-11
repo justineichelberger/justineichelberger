@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Homestead (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>We went out to see the meteor shower tonight. We figured the best place, away from the Kendall area (and bright city lights) was Homestead. We headed down Krome Avenue towards Homestead, but didn't go down that far. We pulled over on a side street and saw a few meteors. The sky was cloudy so we waited while the moon faded. Then my friend mentioned that she was watching a strange shape between the clouds and that it was flying in a strange manner. I told her it must be a plane. Then my other friend said she was looking at it too. When the clouds dissipated, I saw it. It was coming in closer and then would go backwards. It would then fade. When it got closer, I saw green and red lights and mentioned it out loud. My friend said she saw the same lights.We noticed two more smaller objects at a farther distance doing the same thing - flying from center to left, to right, and around in a circluar pattern. I have never seen anything like this and was wondering if anyone saw the same thing tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45580.html](http://www.nuforc.org/webreports/reports/045/S45580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hazen (ND) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Diamond shaped craft, charcoal gray, with four lights at  the corners, moving silently at very high speed.This sighting occurred on 8/11/13, at approximately 2330 Hrs, while viewing the Perseids meteor shower.  My son and I were watching the night sky, and suddenly a diamond shaped object appeared, traveling from a south to north trajectory.  As it passed by the Milky Way Galaxy, it blocked out the stars as it flew by.  The diamond shaped object had a charcoal gray color to it and on all four corners, it had dim white solid lights.  Its speed was very fast, as we were able to observe it for about only 7 seconds.  The object was silent, and the size, at best guess, was if you held out your thumb out at arms length, it would cover it.  So it was very large in size.  About two minutes later, a commercial jet liner came into view, traveling west to east, but the speed was nowhere even close to what we witnessed.  The sky was clear, no moon, no wind.  The speed it was moving, it would be very difficult to photograph.   Thank you for your interest in this subject.  Hopefully ! soon this mystery can be known.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101139.html](http://www.nuforc.org/webreports/reports/101/S101139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
