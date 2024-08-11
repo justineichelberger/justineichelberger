@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>my friend and I were delivering news papers to an apartment complex around four thirty am and I looked up and saw a bright flying through the sky object that appeared to also have a trailing fire like tail.  The object was travaling about 500 miles per hour. I told my friend to stop the car and look and she saw it to. We got out of the car to get a better look and it fized out as it flew through the casiopa constellation.  A bright light just then seemed to cetch my eyes about 75 to 100 feet over our heads as it flew silently fast just above our heads.  I was frightened enough to run and jump back in to the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77125.html](http://www.nuforc.org/webreports/reports/077/S77125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gretna (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 craft flying low and slow and minimul noise3 craft were seen coming from a south easterly direction with what appeared to be search lights on the underside and flashing beacons at the corners. No sound was detected until they were directly overhead and then only a minimum rumble was heard. These craft were flying very low and slow. Approximately 700 - 1000 feet high. Maybe 30 - 40 mph. The outline of the craft gave the impression of stealth bombers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58742.html](http://www.nuforc.org/webreports/reports/058/S58742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
