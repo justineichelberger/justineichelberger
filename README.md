@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately July 27- current - July 27- current minutes.</sub><blockquote><sub>We first saw object the night of the lunar eclipse, July 27th, 2018.  Realized it wasn't Mars when we noticed it moved around the sky in the same vicinity above the left of our house.  We have witnessed it in the sky every night since, including tonight August 11th 2018.The object is orange-ish red in color and looks to emit fire or gas of some sort around it.((NUFORC Note:  We suspect that the object may be Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142655.html](http://www.nuforc.org/webreports/reports/142/S142655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mount Vernon (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large, silent, triangular craft moving very fast, stopping suddenly, then disappearing.I was on my back porch, watching the Perseids meteor shower. I saw a triangular shaped, extremely fast moving object, gliding from north to south, directly overhead. It crossed about 2/3 of the sky in about 5 seconds, much faster than any aircraft could do. It was completely silent. It stopped dead in one spot in the southern half of the sky and stayed in place for a moment. I pointed at it and said, "I see you!" The triangle rotated in place, and then the lights faded out completely.This is the second time I have seen this type of craft -- the only UFO sightings in my life. The other one was in a different state, but it also appeared during the Perseids meteor shower and behaved almost exactly the same, except it faded away rather than stopping in one spot first. In both cases, there was a kind of shimmery appearance surrounding the object.I am not sure how big the craft was, but it had to be several times larger than any sort of airplane. It was difficult to tell how high its elevation was.  If it was flying where one would expect a plane to be (30-40,000 feet), I would have to guess that it was massive, maybe 300 feet across?  If it was higher than that, I have no idea how big it could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91723.html](http://www.nuforc.org/webreports/reports/091/S91723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
