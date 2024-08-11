@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Berea (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Star gazing one night then seen a light that I thought at first glance was a plane but the object was zig zagging really fast all over the area where I was looking.  Done this for at least 30 minutes and literally disappeared.  I had a video but it accidentally got deleted but I have a pic of what I think is it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159563.html](http://www.nuforc.org/webreports/reports/159/S159563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately July 27- current - July 27- current minutes.</sub><blockquote><sub>We first saw object the night of the lunar eclipse, July 27th, 2018.  Realized it wasn't Mars when we noticed it moved around the sky in the same vicinity above the left of our house.  We have witnessed it in the sky every night since, including tonight August 11th 2018.The object is orange-ish red in color and looks to emit fire or gas of some sort around it.((NUFORC Note:  We suspect that the object may be Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142655.html](http://www.nuforc.org/webreports/reports/142/S142655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
