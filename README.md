@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Altadena (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Stationary Black Triangle over Southern California Near JPL, spotted by 2 witnesses. 20-30 seconds.My friend and I after running some errands got out of my car he looked up and said he saw something strange. I thought he was teasing at first then when he kept looking I began looking through the high clouds bright sunlight and he had to direct me to what he saw just North west of the suns position. He joked that it was either and Object or a black trash bag floating around. I saw for a few seconds a black triangle, same distance up as the high clouds, it was not obscured at first and did not appear to be moving at all. Within a few seconds it was gone, either vanished or was obscured by clouds.This is my third sighting, only my first report. It is possible it was a highflying balloon(unlikely because of not moving) or a test craft designed by Northrup Grummann JPL is less than 250 yards from my front door. It is also possible it was something else- of non-terrestrial origin, There was no propeller or exhaust visible at all.((NUFORC Note:  Witness is a medical professional.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30647.html](http://www.nuforc.org/webreports/reports/030/S30647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mount Holly (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>They made me feel very uncomfortable.4 lights different colors which switched colors back and forth, arranged in an arch directly south of my position.  I watched them for about 10 minutes then went back to bed.  At 1500 hrs.  (sic.  04:30 hrs) there was a hum that grew louder.  I went back outside and the lights were closer and moving up and down - to be honest I can't remember any more. I am staying awake tonight.((ADDENDUM FROM WITNESS))2:30 am and 4:30 am((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112421.html](http://www.nuforc.org/webreports/reports/112/S112421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
