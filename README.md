@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gretna (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 craft flying low and slow and minimul noise3 craft were seen coming from a south easterly direction with what appeared to be search lights on the underside and flashing beacons at the corners. No sound was detected until they were directly overhead and then only a minimum rumble was heard. These craft were flying very low and slow. Approximately 700 - 1000 feet high. Maybe 30 - 40 mph. The outline of the craft gave the impression of stealth bombers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58742.html](http://www.nuforc.org/webreports/reports/058/S58742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Berea (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Star gazing one night then seen a light that I thought at first glance was a plane but the object was zig zagging really fast all over the area where I was looking.  Done this for at least 30 minutes and literally disappeared.  I had a video but it accidentally got deleted but I have a pic of what I think is it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159563.html](http://www.nuforc.org/webreports/reports/159/S159563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
