@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 10 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brigantine (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It appeared 0n August 10, 2019, at 9:22 pm above the ocean in Brigantine, New Jersey.  It was round with red, green, and white lights.  No sound at all it hovered for a few minutes then slowly moved and disappeared  into the clouds.  It was seen at our beach house back deck above the ocean.  We have video of it but it is not that good.  We were in shock at what we were seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148975.html](http://www.nuforc.org/webreports/reports/148/S148975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lugano (Switzerland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>3 UFO over Lugano, SwitzerlandMe and my two friends were looking the stars, when I've seen a little point of light in the sky, the light moved right for 500 meters and then did a movement that formed a "(" of light. We have seen 3 times the same light making the same movements in 3 different places.((NUFORC Note:  We will ask this student to have the other witnesses submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30648.html](http://www.nuforc.org/webreports/reports/030/S30648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
