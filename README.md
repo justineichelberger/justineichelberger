@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:20 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:19 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kuna (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright yellowish orange balls pulsating. 3 than 4 than 6 to 8 circles flashing lighting Night sky.  After they faded out alot of helicopters went that way.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91721.html](http://www.nuforc.org/webreports/reports/091/S91721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Roxbury (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Dark spherical object sighted moving south to north at a rapid pace in the Litchfield Hills area of Connecticut.There was one craft dark gray to black in color.  The shape was a squashed sphere.  There appeared to be a lump on the bottom center.  It appeared metalic.  It traveled from south to north smoothly and without a sound.  We get many balloons over this area.  This object did not appear to be a balloon as it traveled much faster.We are located at N40º 32.517'   W73º 20.131'.  I was in the back yard at dusk when I looked up to observe a private plane flying over head north to south.  I then noticed the object higher and to our west traveling south to north.  At first I thought it was another plane, but there was no sound.  It looked round and not at all like a plane.  I would have dismissed it at that point as a balloon were it not for the color and speed of travel.  I ran to the house for binoculars and sure enough it was indeed round (spherical) in shape.  My wife and I watched until it disappeared to the north.((NUFORC Note:  Witness describes self as having considerable technical background.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24358.html](http://www.nuforc.org/webreports/reports/024/S24358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
