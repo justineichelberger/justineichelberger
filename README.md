@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mount Vernon (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large, silent, triangular craft moving very fast, stopping suddenly, then disappearing.I was on my back porch, watching the Perseids meteor shower. I saw a triangular shaped, extremely fast moving object, gliding from north to south, directly overhead. It crossed about 2/3 of the sky in about 5 seconds, much faster than any aircraft could do. It was completely silent. It stopped dead in one spot in the southern half of the sky and stayed in place for a moment. I pointed at it and said, "I see you!" The triangle rotated in place, and then the lights faded out completely.This is the second time I have seen this type of craft -- the only UFO sightings in my life. The other one was in a different state, but it also appeared during the Perseids meteor shower and behaved almost exactly the same, except it faded away rather than stopping in one spot first. In both cases, there was a kind of shimmery appearance surrounding the object.I am not sure how big the craft was, but it had to be several times larger than any sort of airplane. It was difficult to tell how high its elevation was.  If it was flying where one would expect a plane to be (30-40,000 feet), I would have to guess that it was massive, maybe 300 feet across?  If it was higher than that, I have no idea how big it could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91723.html](http://www.nuforc.org/webreports/reports/091/S91723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Park City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three groups of lights, one had three orange globes in a row, one was binary (two), and one was single, over Park City, UTMy mother, girlfriend, and I were driving home from a dinner out.  As we left the restaurant, I looked up in the sky and saw a grouping of lights that looked very strange.  There were three separate groups of lights.  The most prominent, and unusual one, was a series of three glowing orange spheres, parallel, and seemingly spaced evenly across.  Not far from this first light was a second group of two lights, both yellow-orange.  To the left of this one, there was a third single light.I pointed these lights out to my girlfriend and mom, and we spent some time talking about what they could be.   At first, we thought they could possibly have been on a mountain, but as we continued driving closer, we realized that they were likely too high to be on one.  As we drove, the single light disappeared.  Then, a few moments later, the group of three orange lights also disappeared.  My mom commented that there was only one "group" of lights too.  Suddenly, they too disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91714.html](http://www.nuforc.org/webreports/reports/091/S91714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
