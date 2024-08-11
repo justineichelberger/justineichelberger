@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Stowe (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireball above rt 100 and Moscow rd in pouring rainIt was at 11:15 pm. Raining, thunder and lighting. We were driving home to Stowe on rt 100 at about a half a mile south of Moscow rd we started to see a fireball in the sky, we stopped and watched it, then it started to move north along rt 100. We proceeded to follow it to Moscow rd where it seemed to stop so we parked. We stood there and watched it along with another couple who had also stopped to watch. It zig zagged around the sky until it just disappeared. It made no sound, and appeared to be below the clouds because it was raining so hard.Never seen anything like.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91788.html](http://www.nuforc.org/webreports/reports/091/S91788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Altadena (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Stationary Black Triangle over Southern California Near JPL, spotted by 2 witnesses. 20-30 seconds.My friend and I after running some errands got out of my car he looked up and said he saw something strange. I thought he was teasing at first then when he kept looking I began looking through the high clouds bright sunlight and he had to direct me to what he saw just North west of the suns position. He joked that it was either and Object or a black trash bag floating around. I saw for a few seconds a black triangle, same distance up as the high clouds, it was not obscured at first and did not appear to be moving at all. Within a few seconds it was gone, either vanished or was obscured by clouds.This is my third sighting, only my first report. It is possible it was a highflying balloon(unlikely because of not moving) or a test craft designed by Northrup Grummann JPL is less than 250 yards from my front door. It is also possible it was something else- of non-terrestrial origin, There was no propeller or exhaust visible at all.((NUFORC Note:  Witness is a medical professional.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30647.html](http://www.nuforc.org/webreports/reports/030/S30647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
