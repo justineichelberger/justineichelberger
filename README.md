@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Las Vegas (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black Dish with small point on top between Las Vegas and Nellis AFB.Around 3PM to 3:15 PM on 8/11/2017, I was watching lightning from outside a casino in North Las Vegas.I noticed in the SW a tiny black dot slowly going upward a little to the left and right.  I thought it was a Mylar balloon that someone had let go of.Then it just stopped mid air, and then it started moving NE slowly just outside a storm cell I was watching.  It appeared to be entering just inside and outside of the Cloud Cell.As it got closer, it appeared to be just near Stratosphere Casino but much higher in the sky like ½ mile higher in the sky.  It was well defined at this point, black, flat on the bottom with a small point on the top center of it.At around Stratosphere Casino, it stopped again, and then started increasing speed, and in a matter of maybe 3 to 4 seconds, it went from Stratosphere Casino, to just left of Nellis AFB.  It looked like it was on a collision course with the mountains, when I lost sight of it as it went under my line of site as trees were to the East of me and the mountains.I heard no noise, no sonic booms, and did not hear any impact and did not see any visible signs of debris flying up as if it impacted something.From my vantage point, I can see Stratosphere to Nellis AFB, I guess that’s maybe what 25 miles between the two of them?  As it speeded up from virtually a stand still hover over Stratosphere to speeding out of site, it only took about 3 to 4 seconds travel that 20 to 25 miles, I know when the jets hit their burners, you see the thrusters flames and loud, like I said this was totally silent and no flames, just extremely fast and quick.It was traveling much faster than the fighter jets that pass by here every day.I was going to inquire to Nellis AFB if they caught a blimp on their radar site around 3 to 3:15 PM, but don’t know how to report it.  Google just popped up with you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135658.html](http://www.nuforc.org/webreports/reports/135/S135658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Brigantine (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large crafts traveling very fast. The first one was going really fast and it seemed like the second was chasing it and it had really bright lights on it. FIve minutes later another plane comes in and it seemed like it was military however it was huge!((NUFORC Note:  Source of the report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71608.html](http://www.nuforc.org/webreports/reports/071/S71608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
