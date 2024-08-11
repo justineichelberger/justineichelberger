@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Extreme radio interference and no cell phone service availableI wasn't sure how to report what happened to me and my son.  We keep seeing UFO's in our area at night.  They usually appear as a bright star that moves different directions.  We reported a few years ago a huge craft over our house on this website.  Last night my son and I were freaked out and stayed up half the night afraid something would happen.  As we were going to bed, I noticed my radio in the bedroom had some serious interference.  I started to feel sick and dizzy and had an over all feeling of being watched, but was going to bed.  I laid in bed feeling really uneasy.  A few minutes later my 17 year old son came running up the stairs into my room, saying he felt like he was being watched and had a feeling like something was about to happen and his chest hurt.  He said his cell phone has no service which was odd because we never have that issue where we live.  I checked my phone and it was not working at all.  We didn't turn any lights on in our home and crept outside to see if a UFO was somewhere in site.  We didn't see anything, but both of us were too scared to really get out in the open to check.  Like I said before, we see UFO's all the time out here.  I don't even report how many we see. My son and I huddled in my bedroom with the doors locked all night.  The radio interference, cell phone problems and uneasy feelings stopped after 1am.  My son and I were so scared that we stayed awake most of the night.  That has never happened to us before when we have seen the UFO's, they usually keep their distance in the sky and when we say we see you they will flash colors as if to say we are here.  We didn't see anything last night, but we know something was out there to cause what we went through.  I have a friend who works for MUFON, so I may reach out to her too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112413.html](http://www.nuforc.org/webreports/reports/112/S112413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Stowe (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireball above rt 100 and Moscow rd in pouring rainIt was at 11:15 pm. Raining, thunder and lighting. We were driving home to Stowe on rt 100 at about a half a mile south of Moscow rd we started to see a fireball in the sky, we stopped and watched it, then it started to move north along rt 100. We proceeded to follow it to Moscow rd where it seemed to stop so we parked. We stood there and watched it along with another couple who had also stopped to watch. It zig zagged around the sky until it just disappeared. It made no sound, and appeared to be below the clouds because it was raining so hard.Never seen anything like.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91788.html](http://www.nuforc.org/webreports/reports/091/S91788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
