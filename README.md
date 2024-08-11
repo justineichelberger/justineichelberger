@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:14 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A birght light that was moving around and around then it would come straight down, as if to earth and then back up.I was laying down, playing talking with my friends, then we started to doze off. I looked up and suddenly said "What the hell is that". There were 4 of them, 3 small circles and 1 BIG one. The three were chasing each other as though it were a game of tag. The big one would just stay there.Then 1 fell STRAIGHT DOWN as if it were coming to earth then my friend and I heard a BOOM!! then i saw it fly back up in the sky. After that, all 4 came together (so now there is 1) and they flew straght up into the middle of nowhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17473.html](http://www.nuforc.org/webreports/reports/017/S17473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three red lights Triangle craftMe and my son were watching the perseid meteor shower when three lights appeared on the horizon.  The lights formed a triangle formation and appeared to form a large craft that filled a large area of the sky.  We live on the flight path of the local airport and these lights and formation are unlike anything we have seen before.  I am also an amateur astronomer and have not seen anything like this in over 20 years of observing.  The craft seemed to hover over the horizon for a few minutes and then started travelling at a low altitude before disappearing behind low cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121065.html](http://www.nuforc.org/webreports/reports/121/S121065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
