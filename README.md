@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Minnetonka (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange ball of light on the Eastern horizon that moved unnaturally8/11/2018 7 a.m.I was driving east on Cedar Lake Road between Cty. Rd. 73 and Hwy. 169.  The Sun was this gorgeous orange ball low on the horizon.Then it started to move.I realized at that point that the sky was heavily overcast; there were thousands of feet of clouds between me and the real Sun.  Whatever this thing was it was lower than the clouds.I can't say how big it was; large enough for me to mistake it for the Sun for a moment.  It didn't move aerodynamically; it bounced around on the south side of the road before crossing over and quickly descending behind the trees on the north side.  It was in view for 1-2 minutes.It didn't change size, shape, or color.  It was featureless; just a perfect circle of bright orange.  I checked the local papers and the Internet, but haven't seen any reports from anyone who might have seen it.I have no idea what it was.  It didn't have the ephemeral feeling of reflected light; it seemed very solid.  It did nothing that frightened me; it just wasn't supposed to be there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142667.html](http://www.nuforc.org/webreports/reports/142/S142667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in ((town name temporarily deleted)) (OK) reported seeing craft that fit the description of some 'Cone' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I saw aliens and their space shipIt appeared to be in the shape of a thimble.  It had a Orange or gold tint. It was a very clear night. I could see the milkyway and many stars.I could hear some kind of engine noise',but it is hard to descibe.It was very large and hovered over me and would rotate its position.On the ground I thought a car passed me but I didn't hear the engine or tire noise.The lights of the vehicle had affected my vision.((NUFORC Note:  We spoke with this witness at length, and found him to be extremely credible.  A member of law enforcement has confirmed much of what the witness has reported to NUFORC.  We will follow up in the future with a more thorough report.  PD))((NUFORC Note #2:  We have had difficulty establishing contact with the witness for a follow-up report.  We do not understand why.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13977.html](http://www.nuforc.org/webreports/reports/013/S13977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
