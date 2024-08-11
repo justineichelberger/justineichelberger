@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hazen (ND) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Diamond shaped craft, charcoal gray, with four lights at  the corners, moving silently at very high speed.This sighting occurred on 8/11/13, at approximately 2330 Hrs, while viewing the Perseids meteor shower.  My son and I were watching the night sky, and suddenly a diamond shaped object appeared, traveling from a south to north trajectory.  As it passed by the Milky Way Galaxy, it blocked out the stars as it flew by.  The diamond shaped object had a charcoal gray color to it and on all four corners, it had dim white solid lights.  Its speed was very fast, as we were able to observe it for about only 7 seconds.  The object was silent, and the size, at best guess, was if you held out your thumb out at arms length, it would cover it.  So it was very large in size.  About two minutes later, a commercial jet liner came into view, traveling west to east, but the speed was nowhere even close to what we witnessed.  The sky was clear, no moon, no wind.  The speed it was moving, it would be very difficult to photograph.   Thank you for your interest in this subject.  Hopefully ! soon this mystery can be known.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101139.html](http://www.nuforc.org/webreports/reports/101/S101139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Minnetonka (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange ball of light on the Eastern horizon that moved unnaturally8/11/2018 7 a.m.I was driving east on Cedar Lake Road between Cty. Rd. 73 and Hwy. 169.  The Sun was this gorgeous orange ball low on the horizon.Then it started to move.I realized at that point that the sky was heavily overcast; there were thousands of feet of clouds between me and the real Sun.  Whatever this thing was it was lower than the clouds.I can't say how big it was; large enough for me to mistake it for the Sun for a moment.  It didn't move aerodynamically; it bounced around on the south side of the road before crossing over and quickly descending behind the trees on the north side.  It was in view for 1-2 minutes.It didn't change size, shape, or color.  It was featureless; just a perfect circle of bright orange.  I checked the local papers and the Internet, but haven't seen any reports from anyone who might have seen it.I have no idea what it was.  It didn't have the ephemeral feeling of reflected light; it seemed very solid.  It did nothing that frightened me; it just wasn't supposed to be there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142667.html](http://www.nuforc.org/webreports/reports/142/S142667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
