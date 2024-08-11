@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Stonington (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>2:36am in Stonington, Ct there was a bar of light in the upper right sky about the sz of an inch, it tilted to  right, then sped awayThis morning,  August 11th, 2010, at about 2:36 am, I was driving home from Foxwoods casino, as I had passed our local movie theater a ways (regal cinema in Stonington,Ct),  I suddenly saw a bar of light to my upper right in the night sky.  It was white light like a bunch of stars linked together to form a line about an inch wide from my perspective.  And it tilted down to the right a bit.I was thinking how it couldn’t be a plane or anything like that because those are usually one dot and slowly moving.  This was like if an edge of a coin were lit up in a line and it wasn’t really moving.Then it slowly tilted with purpose (again this was strange to me because if it were a man made prop or something far away the effort to so even would be quite difficult) like when you weigh something with those doctor scales and you get the lead weight right it kind of has this slow settling into place as it gets its balance.  Like that. It tilted in that ‘gaining balance’ way for another 20 degrees tilting down on the right side.Suddenly it looked like it was moving forward away from me for a moment and then I got this sense of a burst of incredible speed because the lights became smaller so quick they practically winked out they were gone so fast.I was not tired. I was not drunk.  I have never made such a claim before.  I saw my first UFO.  I have no idea what it was alien, military, or otherwise but Unidentified Flying Object.  Oh yes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77123.html](http://www.nuforc.org/webreports/reports/077/S77123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>my friend and I were delivering news papers to an apartment complex around four thirty am and I looked up and saw a bright flying through the sky object that appeared to also have a trailing fire like tail.  The object was travaling about 500 miles per hour. I told my friend to stop the car and look and she saw it to. We got out of the car to get a better look and it fized out as it flew through the casiopa constellation.  A bright light just then seemed to cetch my eyes about 75 to 100 feet over our heads as it flew silently fast just above our heads.  I was frightened enough to run and jump back in to the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77125.html](http://www.nuforc.org/webreports/reports/077/S77125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
