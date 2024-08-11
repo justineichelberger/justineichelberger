@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mount Holly (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>They made me feel very uncomfortable.4 lights different colors which switched colors back and forth, arranged in an arch directly south of my position.  I watched them for about 10 minutes then went back to bed.  At 1500 hrs.  (sic.  04:30 hrs) there was a hum that grew louder.  I went back outside and the lights were closer and moving up and down - to be honest I can't remember any more. I am staying awake tonight.((ADDENDUM FROM WITNESS))2:30 am and 4:30 am((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112421.html](http://www.nuforc.org/webreports/reports/112/S112421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A birght light that was moving around and around then it would come straight down, as if to earth and then back up.I was laying down, playing talking with my friends, then we started to doze off. I looked up and suddenly said "What the hell is that". There were 4 of them, 3 small circles and 1 BIG one. The three were chasing each other as though it were a game of tag. The big one would just stay there.Then 1 fell STRAIGHT DOWN as if it were coming to earth then my friend and I heard a BOOM!! then i saw it fly back up in the sky. After that, all 4 came together (so now there is 1) and they flew straght up into the middle of nowhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17473.html](http://www.nuforc.org/webreports/reports/017/S17473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
