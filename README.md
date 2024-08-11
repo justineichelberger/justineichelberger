@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:19 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:28 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Roxbury (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Dark spherical object sighted moving south to north at a rapid pace in the Litchfield Hills area of Connecticut.There was one craft dark gray to black in color.  The shape was a squashed sphere.  There appeared to be a lump on the bottom center.  It appeared metalic.  It traveled from south to north smoothly and without a sound.  We get many balloons over this area.  This object did not appear to be a balloon as it traveled much faster.We are located at N40º 32.517'   W73º 20.131'.  I was in the back yard at dusk when I looked up to observe a private plane flying over head north to south.  I then noticed the object higher and to our west traveling south to north.  At first I thought it was another plane, but there was no sound.  It looked round and not at all like a plane.  I would have dismissed it at that point as a balloon were it not for the color and speed of travel.  I ran to the house for binoculars and sure enough it was indeed round (spherical) in shape.  My wife and I watched until it disappeared to the north.((NUFORC Note:  Witness describes self as having considerable technical background.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24358.html](http://www.nuforc.org/webreports/reports/024/S24358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Homestead (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>We went out to see the meteor shower tonight. We figured the best place, away from the Kendall area (and bright city lights) was Homestead. We headed down Krome Avenue towards Homestead, but didn't go down that far. We pulled over on a side street and saw a few meteors. The sky was cloudy so we waited while the moon faded. Then my friend mentioned that she was watching a strange shape between the clouds and that it was flying in a strange manner. I told her it must be a plane. Then my other friend said she was looking at it too. When the clouds dissipated, I saw it. It was coming in closer and then would go backwards. It would then fade. When it got closer, I saw green and red lights and mentioned it out loud. My friend said she saw the same lights.We noticed two more smaller objects at a farther distance doing the same thing - flying from center to left, to right, and around in a circluar pattern. I have never seen anything like this and was wondering if anyone saw the same thing tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45580.html](http://www.nuforc.org/webreports/reports/045/S45580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
