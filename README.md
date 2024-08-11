@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Park City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three groups of lights, one had three orange globes in a row, one was binary (two), and one was single, over Park City, UTMy mother, girlfriend, and I were driving home from a dinner out.  As we left the restaurant, I looked up in the sky and saw a grouping of lights that looked very strange.  There were three separate groups of lights.  The most prominent, and unusual one, was a series of three glowing orange spheres, parallel, and seemingly spaced evenly across.  Not far from this first light was a second group of two lights, both yellow-orange.  To the left of this one, there was a third single light.I pointed these lights out to my girlfriend and mom, and we spent some time talking about what they could be.   At first, we thought they could possibly have been on a mountain, but as we continued driving closer, we realized that they were likely too high to be on one.  As we drove, the single light disappeared.  Then, a few moments later, the group of three orange lights also disappeared.  My mom commented that there was only one "group" of lights too.  Suddenly, they too disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91714.html](http://www.nuforc.org/webreports/reports/091/S91714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four bright white horizontal lights turned into a triangle with a red and irane lightOk so I'm driving home I turn off of Tyler and as I'm driving I see four bright ass lights like stadium lights and they really close to the ground.  And I start slowing down I'm already freaking cause I know that's not normal!  There were no flashing lights like a plane or helicopter just four stadium type lights.  And I'm slowing down the far right light starts moving down and that whole thing forms into a ducking triangle.  (This thing has not moved either) and it starts moving south really slow like I was now trying to catch up to it. Then all of a sudden it's a triangle with a red light and orange light and it started spinning or rotating really slowly and just cruises south!  It looked like it had wide beams pointing away from it (there were three of those) and the beams weren't bright at all just dim.  And I ducking lost it I went down a dead end road.  Just cruising south really slow.  It turned into a triangle in front of my eyes I watched it! I was shaking I was so freaked out!!!!((NUFORC Note:  We are not convinced this report is intended as a serious account.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101108.html](http://www.nuforc.org/webreports/reports/101/S101108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
