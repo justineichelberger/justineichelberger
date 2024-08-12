@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:50 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fort Wayne (SW Allen Co.) (IN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Moving very slow. Then it disappearedMy friend and I are realy into looking for the paranormal and U.F.O. conspiracy. We were laying on the trapoline looking at the stars, and then we saw a slow moving object. It had a white, blue, and red light on it. then a few minutes later it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08631.html](http://www.nuforc.org/webreports/reports/008/S08631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Lima (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Spherical luminous object hovering in North Lima, Ohio.Tuesday August 12, 2008 8:45 pm North Lima, Ohio 44452  Witnesses noticed stationary luminous spherical object.  Object appeared to wobble or oscillate in place.  It also appeared to be releasing "spirals" of light.At one point another similar object quickly approached the first, stopped adjacent, then sped off.Witnesses observed object for an hour, then went inside a residence.Witnesses have seen so many "UFO's" lately that they left the object while it was still visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65191.html](http://www.nuforc.org/webreports/reports/065/S65191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
