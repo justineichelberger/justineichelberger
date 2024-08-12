@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:50 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Yucaipa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.666666666666667e-05 - 6.666666666666667e-05 minutes.</sub><blockquote><sub>Caught circular object in photographI was working on my 8" Mead telescope imaging and photographing the sun.  I captured a circular orb on one of the pictures.  I was using an aluminumized mylar filter with Cannon Rebel camera.  Exposure was 1/250 sec.  Weather clear, dry and hot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101205.html](http://www.nuforc.org/webreports/reports/101/S101205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fort Wayne (SW Allen Co.) (IN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Moving very slow. Then it disappearedMy friend and I are realy into looking for the paranormal and U.F.O. conspiracy. We were laying on the trapoline looking at the stars, and then we saw a slow moving object. It had a white, blue, and red light on it. then a few minutes later it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08631.html](http://www.nuforc.org/webreports/reports/008/S08631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
