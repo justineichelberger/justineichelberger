@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dublin (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow Glowing Lights on I-16 Georgia.Traveling from Macon towards Savannah on I-16 Approximately 45 minutes past Exit 54, Time is 11pm at night, for those few minutes I was the only one on that particular section of highway.  I notice three dull yellow lights in my rear view mirror , about two miles behind me.  One of the lights then closes on my car extremely fast.  The light is not a perfect circle , but a circle none the less.  It’s a dull glowing yellow.  It gets to within 10 yards from my bumper , then just starts to slow down.  Once it drop back to 50 yards behind me , it just disappears -gone -nothing .  I was watching my rear view as it just vanished .  The other lights never advanced.  I slowed down, but I never saw the light come back - it was just gone.  There was no exits, no where for it to have gone - but it did .  It made no sound .  There were no signs of brake lights or turn signals that a motorcycle would have had at that time of night.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142832.html](http://www.nuforc.org/webreports/reports/142/S142832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While on vacation, at 04:40 early in the morning I observed a triangular lighted object tracking north to south stopping several times suspended still.  The size is what got my attention, as it became closer I was able to identify that it indeed was one object and not several lights together.  It was completely silent, gliding if you will to the south just over the Atlantic Ocean. I would estimate its size of being 200'x200'x200.  From a stopped position, to moving, there wasn't any noise nor lateral movement upon acceleration.  Object left from sight on south-easterly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58115.html](http://www.nuforc.org/webreports/reports/058/S58115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
