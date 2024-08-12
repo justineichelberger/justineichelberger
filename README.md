@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hammond (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round green light followed by smaller ufos above hammond indianaMe and my buddy were in my garage listening to music.  Around 2:15 we came out the garage to go get some water.  I looked up and saw this round green light.  It was pretty big.  As soon as i saw it, it zoomed from above me to behind the treeline in front of me.  I was in shock telling my buddy what i saw, so we both sat in the driveway looking up at the sky.  For five minutes we kept spotting ufos.  He would see one then i would and once we saw one at the same time.  After i saw the round green ufo, the other ufos were smaller or farther away.  My buddy said he saw one that had a bright blue light.  They were flying past us pretty fast so they were hard to spot but together we saw about 6 or 7 ufos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77144.html](http://www.nuforc.org/webreports/reports/077/S77144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Briliant white ball of light moving from West to East in Desert Southwest.I went out into backyard to put some things away and looked up at the almost full moon.  It was then I saw an object of solid bright light round in shape move slowly from West towards the East.  I have seen enough aircraft at night in the High Desert and this was nothing I had ever seen before, it was not an ordinary airliner.  It was briliant white and did not change in brightness nor did it flash.  It did seem to follow a straight path until I could no longer see it.  It was not a shooting star or metior as I have also seen enough of them to know this was neither.((NUFORC Note:  Possible sighting of ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83112.html](http://www.nuforc.org/webreports/reports/083/S83112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
