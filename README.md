@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:16 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I was driving home hoke with my boyfriend and we saw this white light fly downwards extremely quickly, and then it flew forward and completely disappeared, the same thing happened a couple of months ago and the light just vanishes, way too fast to be a drone or a plane and can't move like a plane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135671.html](http://www.nuforc.org/webreports/reports/135/S135671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A huge, maybe 100' wide,  metalllic flying  saucer. It hoovered quickly and swift, colorful lights at bottomI was 17 years old, it was the summer of 1977. A male friend and I went over to Lake Chabot,it was late about 3:00 AM. We stood at the deck which overlooked the lake. Mountains surround the area and it is lit by the moonlight. It was very peaceful and pleasant, no one was out at this time of night. I remember feeling safe with guy friend, then suddenly from behind the mountain, a huge, maybe 100' wide flying saucer hovered into the valley like area, almost like it was hiding. It made a very swift humming sound and took over the sky. There were colorful lights twinkling on the bottom of the saucer. I was amazed, I looked over to my friend and he started running and left me there! I realized then how dark it was. The saucer had taken up the sky and the moonlight. I couldn't see the road which would lead me back up to the car. Oh my god, this guy left me! I said "Wait"!. Luckily, I found my way up the hill by memory, for have often visited Lake Chabot. There he was, my so called friend, taking off in his car. I was able catch him. He was very frighten, where I was more amazed. We went back to my house to share it with my roomate and she thought we were on drugs. Well, we weren't. We talked alone out in front of my house for a few miniutes, then he left. I haven't seen him since. I don't even remember his name. Hopefully, one day he will read this and want to contact me. If he is reading this, please place an add, do something, come find me. I would like to talk about that night, plus I will have proof, that I did see what I saw. I am not one to make up things, I have no reason to do this. I keep telling my children and family, "Come on.... do you really think I would make something like this up" and they say no, but find it hard to believe in UFOs. Well, that's my story and honest to God, I did see a flying saucer.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31880.html](http://www.nuforc.org/webreports/reports/031/S31880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
