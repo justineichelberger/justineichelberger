@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:50 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in East Petersburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Heat lightning in sky made my husband and I look out window. Seen one single bright light in sky hovering for approximately a minute to minute and a half. Then started flying at a quick rate of speed. Faster than a normal plane. Which the local airport is in our vicinity. No flashing lights like a normal plane. Not a star or moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164321.html](http://www.nuforc.org/webreports/reports/164/S164321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Union (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A round circular craft with bright lights followed me home and hovered over my front lawn.I was coming home from work in spartanburg, SC when I spotted what I thought was a plane traveling parallel to me, going in the same direction toward Union, SC.  It seemed to have more light coming from it than just an ordinary plane.  Believe it or not, it followed me all the way home, and hovered over our front lawn.  It hovered at about 2000 feet, and cast a beam of light over our front lawn.  The altitude of the craft could have been a little more or less.I got out of my car and called my wife to the front porch.  We stood and watched it for several minutes.  It made very little noise. The only sound that came from it was a humming noise, and when it moved the humming did not seem to get any louder.  The speed of it's movement was unbelievable. It seemed to move like a humming bird.   It  moved in any direction with ease.  The top of the circular craft appeared to have windows 360 degrees with light protruding from them.  I would estimate the diameter of craft to be between 20 and 30 feet.  I called the local airport, and they wanted to write it off as national guard having maneuvers.ALL I HAVE TO SAY IS: THAT THERE IS NO TELLING WHAT THIS COUNTRY HAS DEVELOPED!  It did not sound like an airplane nor did it sound like a helicopter or any thing else that I have seen in the sky.  I wish I had had a computer back then.  We wanted to tell someone but didn't know how to get in touch with anyone.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40829.html](http://www.nuforc.org/webreports/reports/040/S40829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
