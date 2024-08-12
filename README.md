@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:28 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hanford (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>About four days earlier my husband was working on the flight line at NAS Lemoore, CA, and he and two of his coworkers saw three brights stars moving in a triangle formation when one changed direction and moved off quickly.  Then, I and two neighbors saw the one brights star make a few strange movements then take off quickly.  I am retired military and know this was not an aircraft.Sincerely, ((name and e-address deleted)) P.S. Keep strong.  Your work is important.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101423.html](http://www.nuforc.org/webreports/reports/101/S101423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Slades Corners (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My friends and I were standing in a street when we noticed a bright blueish/white light 20 ft in the air that caused a power outage.The three of us were stanging in the middle of 60th street.  A road that cuts our small town in half.  Only about 7 houses on each side.  (Middle of nowhere town)  WE are all about the same age, middle teens.  We were just standing there when we looked towards the end of town directly over the road there was this brilliant flash of blue/whitish light, only a few meters above ground.  About 5 seconds after the light presented itself, there was a shake in the air, a boom, but it wasnt loud, but it was strong.  I felt it hit my chest like a box of rocks it was so strong.  The power went out in the entire town.  A few car alarms sounded and were going off.  One of the street lights exploded and the light ambers floated to the ground.  For about 10 seconds the blue/whitish light was the only light we could see.  It didnt illuminate the entire town.  But it was sorta outside of town, but still directly over the road.  The power then returned and the light disappeared as teh street were lit up by street lights again.  My name is Alex Nadelhoffer.  I'am 17 years old.  My number is 1 262 ((number deleted)).  I'am interested to hear someone elses view point on what I might have experienced.  It wasnt rained or storming out either that night So it wasnt lightning.  I was wondering if you could relate this to any other recent reports and if my details are similar to theirs.  You can email me back at ((e-address deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58415.html](http://www.nuforc.org/webreports/reports/058/S58415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
