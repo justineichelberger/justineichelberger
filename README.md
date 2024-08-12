@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Montgomery (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>High, fast, zig-zag/wobbly flight pattern ...My daughter and I were sitting in the backyard looking at the Perseid meteor shower when we noticed a strange aircraft much higher in the sky than any of the other planes we had been observing that evening.  It had all bright white lights and was traveling toward the N-NE extremely fast with a zig-zag/wobbling sort of flight pattern, unlike any aircraft that we had ever seen.  It continued on it's jerky direct path until we could no longer see it.  Does anyone know what that craft could possibly be?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77179.html](http://www.nuforc.org/webreports/reports/077/S77179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in East Petersburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Heat lightning in sky made my husband and I look out window. Seen one single bright light in sky hovering for approximately a minute to minute and a half. Then started flying at a quick rate of speed. Faster than a normal plane. Which the local airport is in our vicinity. No flashing lights like a normal plane. Not a star or moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164321.html](http://www.nuforc.org/webreports/reports/164/S164321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
