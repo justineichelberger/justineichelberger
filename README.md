@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Alameda (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I saw a single red light that never changed shape or color but moved in an unconventional fasion.Sometimes around 3 am I go out and look up at the sky with my naked eyes.  On two different occasions when looking straight up I've seen this star sized red light that moves around now and then.  I'm wondering if it's some kind of satellite.  It stays in one place though and then moves a few degrees and stops and then repeats this moving a few degress from there to a different spot.  I have not seen it disappear, it outlasted me as I don't have much stamina.  What I've done is gone back inside for awhile to rest and then I've come back outside to see if it's still there and I was able to find it quickly and it continued doing its strange stopping and then moving a few degrees and stopping again.It stays completely red the whole time and does not scintilate at all.  I have to admit, part of me is wondering if it's a UFO but I've never heard of a UFO described this way.  If you know what it is please enlighten me.I saw this in Alameda California.  Unfortunately, I don't know the date, it was during last summer, that's all I remember.  I don't think it was ET, I think it may have been a  manmade UAV.  I recently joined an Astronomy forum and someone there thought I should report it here.  I have to say that I am surprised that so far no one else has seen something like this on the forum I joined.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59921.html](http://www.nuforc.org/webreports/reports/059/S59921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in York (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 23:00 - 23:00 minutes.</sub><blockquote><sub>Bright Orange lights over York Beach!We were staying at the GrandView Motel in York, Maine.  Friday, August 12th at around 8:30-9:00pm. While setting on the balcony of the Motel we noticed a bright solid orange light which seemed to be coming from the town of York heading across the horizon out to sea.  As we watched this bright orange object heading out to sea it gradually disapeared.  Just before it disapeared another one followed its path. We were wondering what these objects were. At one point durning the evening we notice 2 objects riseing at the same time but one was smaller and was the color red not orange. We could see a plane that was traveling from one end of the beach to the other at the same time these objects were in the sky. In around 15-20 minute intervals these objects would follow almost the same path as the previous ones and disapear as did the others.  Around 10:00 - 10:30 pm two such orange objects came from the opposite side of town (Kittery) and headed out to sea & disapea! red as did the other ones we had seen coming from York.  Saturday night, August 13, 2011 my husband & I decided to take a walk and as we were heading back along the beach toward the Motel we saw one in the sky but this time behind the Motel heading from South to North where as the other were heading North East to South West.  When we got back to the hotel the couple that were in the room next to ours told us that they had seen two in the sky behind the motel when they had went on their walk about a half hour before we did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83220.html](http://www.nuforc.org/webreports/reports/083/S83220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
