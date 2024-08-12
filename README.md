@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 11 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Brigantine (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large crafts traveling very fast. The first one was going really fast and it seemed like the second was chasing it and it had really bright lights on it. FIve minutes later another plane comes in and it seemed like it was military however it was huge!((NUFORC Note:  Source of the report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71608.html](http://www.nuforc.org/webreports/reports/071/S71608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Bright repetitive flashes during 2017 Perseid meteor showers.An unusual nighttime sighting, both alone, and with friends, during the recent 2017 Perseid meteor shower was dismissed as some sort of odd, but probably explainable, visual illusion.  But 4 evenings later while driving I was listening to Coast to Coast and heard a mention of several similar accounts reported from the U.S. and Turkey, so will add our experiences (in two reports) to the mix.Around 2:00 AM on Saturday, August 12, 2017, I had just returned home to Grass Valley, CA, after a flight from Phoenix, AZ, and after unpacking the car went back outside to see if any of the Perseids might be visible.  There were very few but while looking NNE at around 3:00 AM there was an extremely bright blue-white flash about 35° up which lingered and faded for maybe a full second, followed quickly by another dimmer flash, and then a couple more that were even fainter, although not at regular intervals.  At first I assumed it was a plane, but it was stationary and there were definitely no colored running lights or associated sounds.  I’m familiar with helicopters doing nighttime searchlight operations, but the lights were just flashes with no downward beam.My background includes a lifetime amateur interest in the biological sciences, and later in the hard sciences (esp. quantum physics, astrophysics, cosmology, topology, etc.), but not UFO’s.  Since 1965, have been a professional fine woodworker (luthier), spec. stringed musical instruments, involving fine measurements, close tolerances, good observational skills, and a good ear.((NUFORC Note:  We spoke via telephone with the witness, and we found him to be exceptional eloquent, and he seemed to be quite sincere and sober-minded.  We suspect that he is an excellent witness.  Please see a second report of a similar sighting by the same witness, which occurred at 2200 hrs. (PDT) on Sunday, August 13, 2017.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135775.html](http://www.nuforc.org/webreports/reports/135/S135775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
