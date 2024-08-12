@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kaunas (Lithuania) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>7 gray lights in the evening sky.Took my dog for a walk.  Heard plane (jetliner) flying above, gone in darker area after my house for a dog to do its stuff, looked in the sky to spot the plane.Suddenly, ~7 fast moving objects, grayish colour travelled through the sky.  Formation random and changing rapidly.  No craft (man made) could fly so fast, changing formation so rapidly with absolute no sound.  There was jetliner flying at high sky normal high ~10km.  Those objects flew ~1-3 km.  Hard to say couse no visible shape just lights.  Gone through the sky from one corner untill couldn't see in 6-7s.  Too fast to be able to take photo.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112437.html](http://www.nuforc.org/webreports/reports/112/S112437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dublin (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow Glowing Lights on I-16 Georgia.Traveling from Macon towards Savannah on I-16 Approximately 45 minutes past Exit 54, Time is 11pm at night, for those few minutes I was the only one on that particular section of highway.  I notice three dull yellow lights in my rear view mirror , about two miles behind me.  One of the lights then closes on my car extremely fast.  The light is not a perfect circle , but a circle none the less.  It’s a dull glowing yellow.  It gets to within 10 yards from my bumper , then just starts to slow down.  Once it drop back to 50 yards behind me , it just disappears -gone -nothing .  I was watching my rear view as it just vanished .  The other lights never advanced.  I slowed down, but I never saw the light come back - it was just gone.  There was no exits, no where for it to have gone - but it did .  It made no sound .  There were no signs of brake lights or turn signals that a motorcycle would have had at that time of night.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142832.html](http://www.nuforc.org/webreports/reports/142/S142832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
