@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:02 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Bright repetitive flashes during 2017 Perseid meteor showers.An unusual nighttime sighting, both alone, and with friends, during the recent 2017 Perseid meteor shower was dismissed as some sort of odd, but probably explainable, visual illusion.  But 4 evenings later while driving I was listening to Coast to Coast and heard a mention of several similar accounts reported from the U.S. and Turkey, so will add our experiences (in two reports) to the mix.Around 2:00 AM on Saturday, August 12, 2017, I had just returned home to Grass Valley, CA, after a flight from Phoenix, AZ, and after unpacking the car went back outside to see if any of the Perseids might be visible.  There were very few but while looking NNE at around 3:00 AM there was an extremely bright blue-white flash about 35° up which lingered and faded for maybe a full second, followed quickly by another dimmer flash, and then a couple more that were even fainter, although not at regular intervals.  At first I assumed it was a plane, but it was stationary and there were definitely no colored running lights or associated sounds.  I’m familiar with helicopters doing nighttime searchlight operations, but the lights were just flashes with no downward beam.My background includes a lifetime amateur interest in the biological sciences, and later in the hard sciences (esp. quantum physics, astrophysics, cosmology, topology, etc.), but not UFO’s.  Since 1965, have been a professional fine woodworker (luthier), spec. stringed musical instruments, involving fine measurements, close tolerances, good observational skills, and a good ear.((NUFORC Note:  We spoke via telephone with the witness, and we found him to be exceptional eloquent, and he seemed to be quite sincere and sober-minded.  We suspect that he is an excellent witness.  Please see a second report of a similar sighting by the same witness, which occurred at 2200 hrs. (PDT) on Sunday, August 13, 2017.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135775.html](http://www.nuforc.org/webreports/reports/135/S135775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in East Sandwich (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Intense white light replaced by dot high in the night sky over Cape CodAt approximately 8:30 pm on 8/12/2007, while looking at the stars with my family, an extremely bright light appeared high in the clear night sky.  The light was bright white, very intense, and 5-6 times larger than Venus.  The bright light lasted 1-2 seconds and then was replaced by a very small faint dot that moved rapidly on a southeasterly course until it disappeared from sight about 45 seconds later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58144.html](http://www.nuforc.org/webreports/reports/058/S58144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
