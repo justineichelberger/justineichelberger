@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Lima (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Spherical luminous object hovering in North Lima, Ohio.Tuesday August 12, 2008 8:45 pm North Lima, Ohio 44452  Witnesses noticed stationary luminous spherical object.  Object appeared to wobble or oscillate in place.  It also appeared to be releasing "spirals" of light.At one point another similar object quickly approached the first, stopped adjacent, then sped off.Witnesses observed object for an hour, then went inside a residence.Witnesses have seen so many "UFO's" lately that they left the object while it was still visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65191.html](http://www.nuforc.org/webreports/reports/065/S65191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hammond (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round green light followed by smaller ufos above hammond indianaMe and my buddy were in my garage listening to music.  Around 2:15 we came out the garage to go get some water.  I looked up and saw this round green light.  It was pretty big.  As soon as i saw it, it zoomed from above me to behind the treeline in front of me.  I was in shock telling my buddy what i saw, so we both sat in the driveway looking up at the sky.  For five minutes we kept spotting ufos.  He would see one then i would and once we saw one at the same time.  After i saw the round green ufo, the other ufos were smaller or farther away.  My buddy said he saw one that had a bright blue light.  They were flying past us pretty fast so they were hard to spot but together we saw about 6 or 7 ufos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77144.html](http://www.nuforc.org/webreports/reports/077/S77144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
