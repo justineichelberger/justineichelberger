@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in York (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 23:00 - 23:00 minutes.</sub><blockquote><sub>Bright Orange lights over York Beach!We were staying at the GrandView Motel in York, Maine.  Friday, August 12th at around 8:30-9:00pm. While setting on the balcony of the Motel we noticed a bright solid orange light which seemed to be coming from the town of York heading across the horizon out to sea.  As we watched this bright orange object heading out to sea it gradually disapeared.  Just before it disapeared another one followed its path. We were wondering what these objects were. At one point durning the evening we notice 2 objects riseing at the same time but one was smaller and was the color red not orange. We could see a plane that was traveling from one end of the beach to the other at the same time these objects were in the sky. In around 15-20 minute intervals these objects would follow almost the same path as the previous ones and disapear as did the others.  Around 10:00 - 10:30 pm two such orange objects came from the opposite side of town (Kittery) and headed out to sea & disapea! red as did the other ones we had seen coming from York.  Saturday night, August 13, 2011 my husband & I decided to take a walk and as we were heading back along the beach toward the Motel we saw one in the sky but this time behind the Motel heading from South to North where as the other were heading North East to South West.  When we got back to the hotel the couple that were in the room next to ours told us that they had seen two in the sky behind the motel when they had went on their walk about a half hour before we did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83220.html](http://www.nuforc.org/webreports/reports/083/S83220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hidden Hills (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A shadow went over my house and it was dark for a second.  It was completely silent but it got dark outside.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77152.html](http://www.nuforc.org/webreports/reports/077/S77152.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
