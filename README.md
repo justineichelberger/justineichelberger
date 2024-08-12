@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 12 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While on vacation, at 04:40 early in the morning I observed a triangular lighted object tracking north to south stopping several times suspended still.  The size is what got my attention, as it became closer I was able to identify that it indeed was one object and not several lights together.  It was completely silent, gliding if you will to the south just over the Atlantic Ocean. I would estimate its size of being 200'x200'x200.  From a stopped position, to moving, there wasn't any noise nor lateral movement upon acceleration.  Object left from sight on south-easterly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58115.html](http://www.nuforc.org/webreports/reports/058/S58115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wexford Town (Ireland) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>We saw a Formation of 4 or 5 lights in the formation of a TriangleWe taking our break on the roof to watch metor shower when we saw a formation of 4 or 5 orange lights in the formation of a triangle which moved from south west to north east before disappearing in to clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77157.html](http://www.nuforc.org/webreports/reports/077/S77157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
