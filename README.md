@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:33 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A small, low gliding disc shaped with a tail ufo was seen over Scottsdale.Driving on 56th street towards Shea, saw in the sky a very slow moving and seemingly low to the ground object, which look like a metallic disc with a tail.  Not very big, maybe as big as a swimming pool.  Had 3 lights, I think, which were fading in and out.  I had seen a massive shooting star fall towards the ground barely 2 minutes before.  The lights were whitish-blue and not like bright and starry shaped like lights in the sky can be but softer and blurrier.  It was moving too slowly to be anything else, and it was so close to the ground, I think the depth perception was hard. Nothing on the ufo was moving, it was just simply gliding across the air.  Then I turned left onto shea blvd and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77198.html](http://www.nuforc.org/webreports/reports/077/S77198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Goshen (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Star Shaped Object, Near Aircraft in Sky, Bright Flash, Moving slowly across sky, disapears.suddenlyIn Goshen near Mohawk Mountain, some friends and I where laying down on the trapoline when we me and my friend where staring at this Star suddenly it flashed bright as if something near it exploded then it started to move slowly across the sky and vanished, a few mins later we spotted another one yet this one didn't flash we looked away just for a second and it was gone. It could of been space debrise but you never know.., It looked like a star, must have been some place in the lower orbit of earth..the lower orbit of((NUFORC Note:  Report appears consistent with observation of satellites.  The first event may have been the flash from an Iridium satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24488.html](http://www.nuforc.org/webreports/reports/024/S24488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
