@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Elbe (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 blue lights and 1 large orange object in the night sky NW of Mt Ranier.I saw a blue light in the sky NW of Mt Ranier at 1 am.The light erratically shot from north to south.Then disappeared.Another blue light,north of where the other light disappeared, was erratically moving in circles making it's way south towards a much larger orange horizontal oval object.The blue object then stayed beside the orange object.Another blue light appeared below the orange object then appeared to go inside.A friend shined a 12 volt flashlight toward the sky.The orange object then blinked twice and then shot in our direction.We were scared and jumped in the car and raced away from where we were.The orange object then followed our car.A large bright, white light about two feet in diameter then shined into the car from about 100 yards behind us.The radio became static and went out.The hairs on the top of our heads shot to the roof of the car.We could hear the soft high pitched whirring sound of the object.The light disappeared soon after then the radio came on and the static left our hair.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18962.html](http://www.nuforc.org/webreports/reports/018/S18962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Georgetown (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small star-sized light moved across sky, then toward ground.Small light, size of plane or star (about 40,000 to 50,000 feet up), moved quickly across sky, towards the east.  It made a sudden sharp right turn, then a long streak movement down towards the horizon (tree line) past Volcanoville, CA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135707.html](http://www.nuforc.org/webreports/reports/135/S135707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
