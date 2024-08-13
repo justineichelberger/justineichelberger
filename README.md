@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Georgetown (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small star-sized light moved across sky, then toward ground.Small light, size of plane or star (about 40,000 to 50,000 feet up), moved quickly across sky, towards the east.  It made a sudden sharp right turn, then a long streak movement down towards the horizon (tree line) past Volcanoville, CA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135707.html](http://www.nuforc.org/webreports/reports/135/S135707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lawrence (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright, white light flashing, triangular object moving extreme distances instantaneouslyA group of us were watching the Perseids Meteor Shower.  The object appeared in the distance, as I pointed it out, it blinked brightly and disappeared.  It reappeared a few seconds later in much different part of the sky and continued to flash brightly, disappear and then reappear, and flash.  We were unable to make out the shape.  This went on for a few minutes.  Then the object appeared directly overhead moving at a very fast speed.  We could see the it was of triangular in shape, it left a light tracer behind it as it was moving above us, then flashed a VERY BRIGHT white light and vanished, never to been seen for the rest of the night.  At no point was any noise heard.  The object's flashing was at least 10x brighter than any meteors seen that night/morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142726.html](http://www.nuforc.org/webreports/reports/142/S142726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
