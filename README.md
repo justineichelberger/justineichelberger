@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:05 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1943, an anonymous witness in Portsmouth (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>vertical lines of 5-6 crescent moons, some 10+ rows in a night sky over naval base.I was approximatly three years old. Row upon row of crescent moons appeared over the house opposite, this would have placed them over portsmouth naval dock yard, they were so bright that they lit up my bedroom, blackout conditions prevailed at this time, I fell asleep watching them. This scene is still vivid in my minds eye, so beautiful that even some 62 years later, they still have the power to enthrall.My bedroom looked west into the setting sun.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43433.html](http://www.nuforc.org/webreports/reports/043/S43433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Nassau County (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>LONG ISLAND NY UFOThere was a meteor shower tonight so me , my father and two friends went outside to look. As soon as I got outside something seemed off about this "star". Unfortunetly I did not see any meteors, my dad saw one and my friends saw none as well. But I just could not get my attention off this hovering object. At first glanceit appeared to be a star, but the more I looked at this object the more it became clear to me that it was not a metoer, a comet, a star or a planet. This object was rotating in full circles while simultaneously appearing to hover all over the place(left to right, up & down). It had flashing lights...at one point I thought I saw red lights. I have always been into stars and planets and meteors, but not once have i seen anything quite like this. In the back of my head I thought it could have been a satellite...but I;ve seen those before, and it appeared nothing like that. The shape is difficult to answer,..at one moment it appeared so clear and visible and at another moment it appeared so distant and vague. I just cant pit it into words what I truly saw...((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58131.html](http://www.nuforc.org/webreports/reports/058/S58131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
