@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Blue/White Object at high velocity/low altitude.Traveling 20 mph eastbound through lit residential neighborhood in vehicle.  An object was noticed directly overhead, also traveling eastbound and disappeared from view (due to large trees) at an approximate 45 degree line of sight.  Object would have been considered to have been at low altitude (approx. 1000 ft.)and traveling at high velocity within field of view for 1.5 seconds. The colors varied from a soft blue glow at the center that radiated out to eventually become white. Streaks from the rear outermost points were also white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24395.html](http://www.nuforc.org/webreports/reports/024/S24395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tromsoe (Norway) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangeled crafts, appearing and summoning other crafts.I was at my friends house for his birthday party, we went to get some sodas and we stopped to look at a red light in the sky, we tought it was a firework but wen saw that it disappeared and appeared again with another red light we could see the form of the crafts. they were triangeled with red and neon green lights underneath the craft.It "summoned" more and more ship until they were about 8 crafts.There was some sort of flashes of light and they started to hover over the ground, Suddenly they started to go straight up to the sky, they went in to some weird positions and disappeared. it was like they just vanished from the sky. we knew at that time that what we saw was UFO's. It had to be alien aircrafts. I don't think that any human technology can summon crafts like that.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58507.html](http://www.nuforc.org/webreports/reports/058/S58507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
