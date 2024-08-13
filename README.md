@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:05 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:57 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Nassau County (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>LONG ISLAND NY UFOThere was a meteor shower tonight so me , my father and two friends went outside to look. As soon as I got outside something seemed off about this "star". Unfortunetly I did not see any meteors, my dad saw one and my friends saw none as well. But I just could not get my attention off this hovering object. At first glanceit appeared to be a star, but the more I looked at this object the more it became clear to me that it was not a metoer, a comet, a star or a planet. This object was rotating in full circles while simultaneously appearing to hover all over the place(left to right, up & down). It had flashing lights...at one point I thought I saw red lights. I have always been into stars and planets and meteors, but not once have i seen anything quite like this. In the back of my head I thought it could have been a satellite...but I;ve seen those before, and it appeared nothing like that. The shape is difficult to answer,..at one moment it appeared so clear and visible and at another moment it appeared so distant and vague. I just cant pit it into words what I truly saw...((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58131.html](http://www.nuforc.org/webreports/reports/058/S58131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in O'Brien (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange Orb rumbling UFO over coastal mountains in southern OregonShortly after 10pm last night (about 10:10) husband and I (in lawn chairs stargazing, post Persied Shower- and still looking for “leftover shooting stars after a couple of good nights)  We BOTH saw an orange-orb rumbling UFO in the west about 40 degrees? up from the horizon....just high enough to be over local homes but behind tall trees.I saw it as orange my husband saw it as orange with a yellow halo. It was like a subtle audio-earthquake in the sky it was vibrating so much! It was moving slow;mostly behind trees but I saw it stationary in a clear spot for just a few seconds.  Size about 3 X the Space station brightness and a nice glowing orange.  We’d heard it earlier and commented on how long and loud the “odd jet rumbling” was over the coastal mountains, going north, but then It Came Back and went south and that was when we saw it.Visually it slowly moved behind the trees on our property but we could see it between them many times for a minute more. We lis! tened to the rumbling for several minutes afterwards.I'm late 50s and college educated and my husband is a Vietnam veteran with two purple hearts. I'd seen a couple of other UFOs in my life but it was his first and he is quite astonished and thoughtful about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91815.html](http://www.nuforc.org/webreports/reports/091/S91815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
