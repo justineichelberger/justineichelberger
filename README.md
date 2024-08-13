@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:33 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Goshen (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Star Shaped Object, Near Aircraft in Sky, Bright Flash, Moving slowly across sky, disapears.suddenlyIn Goshen near Mohawk Mountain, some friends and I where laying down on the trapoline when we me and my friend where staring at this Star suddenly it flashed bright as if something near it exploded then it started to move slowly across the sky and vanished, a few mins later we spotted another one yet this one didn't flash we looked away just for a second and it was gone. It could of been space debrise but you never know.., It looked like a star, must have been some place in the lower orbit of earth..the lower orbit of((NUFORC Note:  Report appears consistent with observation of satellites.  The first event may have been the flash from an Iridium satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24488.html](http://www.nuforc.org/webreports/reports/024/S24488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Bend (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent, golden orange orbsMy daughter and I were in the yard watching the shooting stars, planes, and satellites. We also viewed different stars through our telescope, but got tired of looking up, so we lay down on a tarp in the grass and just looked up at the beautiful night sky.Out of nowhere, from the east, there was golden-orange colored round orb/light (very bright - glowing like) in the east, over a hill nearby, coming towards the bay. At first, I thought it was a plane who turned on its landing light for the local airport, but it was much larger than a landing light, not the right color, and there was no sound... totally silent. It appeared to be moving quite slowly, down and forward - moving east to west. Then all of a sudden another light came from it - same color, round shape, size, and same speed - but moving north without descending.The original light/orb continued, several more lights came from it and descended at same speed, but at about 45 degree angle. Other lights (2 or 3) appeared near to these. All of them would appear to turn off for a few moments, then turn back on in a direct line of path... not a blinking affect but a distinct off, then back on. A couple of them seemed to appear out of nowhere as well on either side of the original one.It was unreal... my daughter, who is 6, kept saying "cool, mommy"... and I was in awe.  I asked my daughter to run into the house and grab my cellphone so I could video it, and the housephone to call my brother who lives right down the road. While she was inside, all of them disappeared...About 1-2 minutes later I heard a rumbling at high altitude, like jet fighters.  I could hear them to the north, and when the sound passed over, I saw what looked like the red glow of two after-burners moving due south.It had taken my daughter about 2 (maybe 3) minutes to return outside. I called my brother, and he came over... I described what I had seen. I wondered what I just witnessed. I have never seen anything like it before. My brother thought it may have been star-burst-flares and explained what they look like, but it was definitely not that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92267.html](http://www.nuforc.org/webreports/reports/092/S92267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
