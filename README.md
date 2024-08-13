@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 137</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158914.html](http://www.nuforc.org/webreports/reports/158/S158914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brentwood (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I observed an object in the north-easterly skies at approximately 4:30 pm on this Saturday. The object became evident when I was observing a private aircraft moving in a northwesterly direction; at the same time an airliner was above it moving in the same general direction towards San Francisco or Oakland airports. As the two aircraft moved and separated I noticed a third 'aircraft' behind and higher then either of the two I had been observing. Under clear blue skies what I thought was another jetliner was in full view and it was not moving and made no noise. It seemed odd that the craft could be so still and yet with the sun in the western skies it was clearly reflecting light as you would see in an aluminum like jet or airplane. I focused on the craft, with the naked eye, and I continued to observe it and clearly saw it was not moving. I deduced it could not possibly be a star because it was too early in the afternoon. I called to my wife to witness this but she declined, but I was able to hail my daughter. Unfortunately, she has a serious eye condition and could not see the object so I told her to bring down my binoculars which she did. With the binoculars I could see the object with more clarity and it appeared oval in shape and the bright aluminum-like reflection seemed to also show a red band? Without the aid of a tripod to steady the binoculars I was pressed to get a clear image. The object remained steady and did not move and I used a reference point to make this observation. I kept watching the object and then told my daughter to get my video cam-corder but she could not find it. After about 5 minutes I had to rest my eyes and had a hard time re-acquiring the object but I did and watched for a few minutes more with the binoculars now resting on the top of a camera tripod - my binoculars have no tripod attach point. Frustrated that no one else was there to witness this I hollered to my wife; as I was waiting for her - having taken my eyes off the object - I turned back to the are! a where the object was and could not locate it. After a few moments I was able to see it for one last time. Now it seemed to have moved away since it seemed much smaller than when I first saw it. By the time my wife came down I lost sight of the object and did not see it again. I will add that in the general direction of the sighting you will find Travis AF base. From my backyard I will often see military aircraft on occasion; however, my military background and understanding of aircraft lead me to believe this was not a typical aircraft. It was too high and was absolutely still - no movement - and no noise.   I am a college educated person (B.A. San Jose State University - 1978)and majored in photo-journalism and am an x-military having served 3 years in the U.S. Army-Europe (1972-75)artillery unit 3/16 FA 8th Infantry Division. This is an honest statement of the event I witnessed on this date. J. Rodriguez -</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65657.html](http://www.nuforc.org/webreports/reports/065/S65657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
