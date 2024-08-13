@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular formation of white blurry lights over venetian park Stockton CaI was at Venetian park in Stockton Ca last night with some friends and as we were conversating one friend all of a sudden shouted ((deleted--"what")) is that!  I scanned around to see what he was talking about and when i looked up i saw a triangular formation of 3 blurry white lights.  I could not tell if it was a solid triangular craft or 3 seperate orbs butthey looked like they were eminating heat difracting the light around it. sadly it went out of view behind some trees before I could pull out my phone and attempt to record anything on my shitty camera.  As I chased after it to get a better view it was just gone but it was at low altitude and only looked like it was going roughly 60 mph southbound.  Afte ra few minutes of looking around for more objects another friend of mine pointed a similar formation out but higher and going north possibly the same craft/orbs which just appeared flew for a short distance and suddenly was gone. My initial thought was mabey it was a triangu! lar craft with a partial cloaking device as it did appear to come from nowhere it might have been in the process of cloaking and as I chased it was completely invisible or it sped up I really don't know. I thought I would be more prepared for such a sighting but it actually shook me up a little though I thought I had seen a few,once before for sure but that was a while ago.  There did seem to be an influx of helicopter traffic after the sighting over the amount of airplanes flying by which where very distinguishable it was a clear night.  The object/s where completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121245.html](http://www.nuforc.org/webreports/reports/121/S121245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>saw 6 oval disks close to the ground6 oval disks came very close to the ground maybe on a hundred feet up then they shot in to the sky and were gone in a blink of an eye((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38631.html](http://www.nuforc.org/webreports/reports/038/S38631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
