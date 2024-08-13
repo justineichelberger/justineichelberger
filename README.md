@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:28 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mt. Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 119</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164543.html](http://www.nuforc.org/webreports/reports/164/S164543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Neptune (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A lot of fog and mist about 20 feet high starting from the ground and about 15 feet wide with different color lights circling it.It was a a really, quiet night summer night. I was asleep in bedroom, home for summer vacation after my sophmore year in college. I could not sleep so like I used to do on some nights, I looked out my window. Across the street from where we lived was an open field maybe 50 yards wide and long. The sky was unusually bright to be 2:00 am in the morning. I saw a lot of fog and flying around the fog were different color lights that were red, blue, green and yellow. I ran and told my mother and father and they told me to look out the door. I opened the door and it was still there, probably about 60 feet in fron of my house. I was frozen and I thought about running out and running into the fog to see what would happen. I did not have the guts to do it and I watched for about 15 minutes. It still did not vanish! After a while a went back to the room and layed back down. When I looked out of the window about an hour later it was gone. I do not know if it was a UFO or a ghost or a portal to another dimension but I am glad that I had the experience.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24978.html](http://www.nuforc.org/webreports/reports/024/S24978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
