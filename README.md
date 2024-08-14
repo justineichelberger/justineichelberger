@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Calistoga (7 miles outside of) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object was a black triangle with 3 spot lights in the corners,100 yrds above the trees, hovering and silent.A black, triangle with 3 white spotlights on the corners, hovered about 100 yards above the trees over the road.  I noticed the lights first because I was on a road that had no street lights.  Even though it was black and the sighting was at night,  It was easy to make out because it was so low.  I slowed the car to a stop and it was directly above me, it looked about as big as house.  I pulled the car over and turned it off, the object was completely silent.  I drove away quickly, up a hill and around a bend so that I could see the object still hovering where I had been.  As I watched it sped away very very quickly, away from me.((NUFORC Note:  Date indicated by witness is incomplete, or flawed.  We have assigned an artificial date, until we hear back from the witness, at which time, we will correct the date and repost the report.  PD))((ADDENDUM FROM WITNESS))Sorry it was 8/14/92((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106574.html](http://www.nuforc.org/webreports/reports/106/S106574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1:31 - 1:31 minutes.</sub><blockquote><sub>strobing lightGoing outside for a cigarette I imediately noticed an object west of my location which resembled a strobe light I instantly got my camera out and began making a video of it.   Eventhough there was fireworks in the area (where I don't know because I could only hear them) Almost as soon as I started making a video of it, something came out the bottom of the object.  The object resembled our fire emitting friend that I and others have seen many times over the last year.  Whatever came out the bottom very quickly faded away and the original object disappeared into the clouds.  No sounds or disruption of electricity happend and there was no aircraft near it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91822.html](http://www.nuforc.org/webreports/reports/091/S91822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
