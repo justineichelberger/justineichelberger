@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 13 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cannon Beach (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Dim white light went to a super white pulsed 3 blue luminated rings . after 30 seconds the lights retracted back tothe white light thenMy backyard is like a planatorium in Cannon Beach, Oregon.  It's a clear night I was star gazing when my wife and I seen what appeared to be a star that went from dim to absolute bright white and then pulsed three times a huge blue luminated ring around the brute white light for about 30 second's and then the blue ring retracted back to the bright white light and then dined and set idle for about 4 minutes.  The light was so low it was just barley  visible when it relit to a medium bright white light and headed dew North at a blazing speed across our stary  night sky puff gone.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101174.html](http://www.nuforc.org/webreports/reports/101/S101174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Selbyville (DE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We were on our way home from work when I looked up and said “WHAT IS THAT?” .It was a bright light in the sky over the trees, a rectangular shape.  My husband looked up and said, “Did you see that?”   I was trying to keep an eye on it, when a tractor pulled out and then the trees got in the way.By the time we came to a clearing it was gone.  We have never seen anything like that before.((NUFORC Note:  Witness indicates that the date above is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135979.html](http://www.nuforc.org/webreports/reports/135/S135979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
