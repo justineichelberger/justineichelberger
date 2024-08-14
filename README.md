@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in McFarland (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saw an hovering object in the sky with blinking lightsme and my girlfriend saw two blinking lights in the air. at first we thought it was a plane. but it wasnt moving. it seemed liked it was just hovering in the sky. but then it started moving and seemed to get closer and the blinking lights werent the same as those of a plane. they were much faster.  then, for like 10 seconds the ufo seemed to speed up drastically and it made a roaring sound. after it went over our heads, it was out of sight.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85601.html](http://www.nuforc.org/webreports/reports/085/S85601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wells (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle pattern of lights over Maine TurnpikeTwo of us were driving in heavy volume summer traffic on the Maine Turnpike, heading north, around 8PM, Friday 8/14. We came over a hill in the Wells area and instantly noticed a bright white light just off to the left of the highway up around an estimated 1000 ft. It was hovering over a mostly rural area and we thought initially it may be a helicopter, but would seem somewhat out of place given the area. As we got closer we could see it had some very erratic, and bright, small square lights flashing in a bizarre linear sequence. It was unlike any aircraft lighting scheme I've ever seen. The lights also didn't seem to illuminate (a very humid evening with much haze) as much as just shine brightly. As we passed it we could see three red lights on each tip of an isosceles triangle and could hear no noise of engine or rotors since we had all the windows down. The driver confirmed the lighting being on three corners and also concluded it wasn't a plane or helico! pter. Estimated to be the size of three fighter jets nose to nose. It was way to large to be a kite. No visible craft was seen but the lights did look attached and static compared to the rest that were visible. The larger lights did not blink.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71844.html](http://www.nuforc.org/webreports/reports/071/S71844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
