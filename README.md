@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:53 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pleasanton/Livermore (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Three orbs over the Tri-Valley areaI was taking a really late drive in my home town of Pleasanton, and on my way back home sometime after 4am I saw two brightly shining orbs in the distance to my right. They were vertically parallel, and the bottom one was slightly bigger (ie. closer). Because I'm deathly curious and and a UFO/alien fanatic, I immediately turned in that direction. Gradually the bottom orb increased in size as I twisted through the neighborhood I'd entered, and before I knew it I was almost directly beneath it. No longer appearing as an orb, the UFO was extremely close enough to the ground; I'm not great with measuring distances, but to give you an idea, to my vision it was about the size of making circle with your index finger and thumb. It was rather egg-shaped, if the egg were on its side, and it appeared to be black, although it was hard to distinguish color in the dark of night. I remember the arrangement of the ship's lights looking rather like three, bright bug-eyes. As I raced through the suburban streets to keep pursuit, the UFO slowly flew overhead at a constant pace. Eventually it decided it was done there (or as I like to believe, wanted to lose me) and picked up speed so it was impossible to continue the chase. I watched it fly away from me, and suddenly it was above the hills on the far side of town. Hopeful to see more, I drove in that direction, and during this drive I saw two more very shiny orbs hovering on either end of town. After waking up another space-loving friend of mine to watch the two, I changed course for a nearby set of hills one of them seemed to be over. When the orb didn't get any bigger after a short hike, I gave up, but from that hill I had a fantastic view of one of the UFOs directly above the center of the valley. From this view I also noticed a human aircraft flying over the valley but at a lower altitude than the UFOs. Around 6am, when the sky was finally starting to lighten from daylight, I returned home on the outskirts of town to clearly see another orb over the neighboring city. With such a clear view in the morning sky, I woke up my parents to witness the UFO as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71654.html](http://www.nuforc.org/webreports/reports/071/S71654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in McFarland (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saw an hovering object in the sky with blinking lightsme and my girlfriend saw two blinking lights in the air. at first we thought it was a plane. but it wasnt moving. it seemed liked it was just hovering in the sky. but then it started moving and seemed to get closer and the blinking lights werent the same as those of a plane. they were much faster.  then, for like 10 seconds the ufo seemed to speed up drastically and it made a roaring sound. after it went over our heads, it was out of sight.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85601.html](http://www.nuforc.org/webreports/reports/085/S85601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
