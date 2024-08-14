@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1:31 - 1:31 minutes.</sub><blockquote><sub>strobing lightGoing outside for a cigarette I imediately noticed an object west of my location which resembled a strobe light I instantly got my camera out and began making a video of it.   Eventhough there was fireworks in the area (where I don't know because I could only hear them) Almost as soon as I started making a video of it, something came out the bottom of the object.  The object resembled our fire emitting friend that I and others have seen many times over the last year.  Whatever came out the bottom very quickly faded away and the original object disappeared into the clouds.  No sounds or disruption of electricity happend and there was no aircraft near it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91822.html](http://www.nuforc.org/webreports/reports/091/S91822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>It was 6:30 am the sun was just coming up.  We’re a masonry crew building a ((name deleted)) car wash on eagle road in meridian Idaho.  I run a high lift and was sending mortar up to the guys on the scaffolding.  When I boomed up the tub full of mortar, I noticed the whole crew was looking at the sky.  I shut off my machine and hollerd up to them.  What are you guys looking at.  That’s when they pointed out to me a pill shaped object in the sky.  It literally hung in the sky in one place till around 8:30 am.  Between those hours I went to my truck and got out my binoculars. I passed them around to everyone.  It was a disc.  Metallic and had a linear line running through its center.  With a noticeable circular dome on what appeared to be its top.  But that’s hard to say because it was sanding vertically in the sky.  It was there so long every trade seen it including the project manager and the owner of the project!  I find myself and notice the others now a week later looking towards the sky.    It appeared to all of us to be broke  down stuck there.  With all the fires burning the visibility became obscured.  And that was the last we seen of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142778.html](http://www.nuforc.org/webreports/reports/142/S142778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
