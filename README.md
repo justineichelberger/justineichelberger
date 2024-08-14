@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wells (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle pattern of lights over Maine TurnpikeTwo of us were driving in heavy volume summer traffic on the Maine Turnpike, heading north, around 8PM, Friday 8/14. We came over a hill in the Wells area and instantly noticed a bright white light just off to the left of the highway up around an estimated 1000 ft. It was hovering over a mostly rural area and we thought initially it may be a helicopter, but would seem somewhat out of place given the area. As we got closer we could see it had some very erratic, and bright, small square lights flashing in a bizarre linear sequence. It was unlike any aircraft lighting scheme I've ever seen. The lights also didn't seem to illuminate (a very humid evening with much haze) as much as just shine brightly. As we passed it we could see three red lights on each tip of an isosceles triangle and could hear no noise of engine or rotors since we had all the windows down. The driver confirmed the lighting being on three corners and also concluded it wasn't a plane or helico! pter. Estimated to be the size of three fighter jets nose to nose. It was way to large to be a kite. No visible craft was seen but the lights did look attached and static compared to the rest that were visible. The larger lights did not blink.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71844.html](http://www.nuforc.org/webreports/reports/071/S71844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Amber-Orange light over PhoenixThis sighting of 1 object, occurred in central Phoenix, at 3:33 am, Wednesday, July (sic.  August) 14, 2013.As I walked outside, I immediately noticed an object due north of my position, approximately 40 degrees above the horizon.Object moved on a west, north-west to east, south-east heading.  When it seemed to be almost overhead, but still slightly east of my position, it executed a smart left turn for a heading of approximately due east.Object, then abruptly slowed, to approximately half it's previous speed.  It almost came to a full stop, but slowly continued on a due east course for about 45 seconds, then began to dim in brightness, until after another 15 to 20 seconds, the light seemed to just “turn off”.Object was a brilliant orange-amber light, about the size of a green pea held at arms length.  The color and intensity were very vivid, and at first dazzling.  It had a similar appearance, and brilliance to the landing flood lights of a passenger jet coming head on, except the color of the light was a very intense amber-orange.  Duration of this sighting was two and a half, to three minutes.I do not think this object was some sort of “flare” tied to a balloon, although that remains a possibility. 3:30 am on a Wednesday morning does not strike me as good timing for a hoax.  Still, the thought did occur to me.  Upon returning inside my home, I examined three internet based weather stations very close to my home.Weather conditions were, lightly scattered clouds, with calm wind conditions.  All three showed wind conditions of 1 mph or less at the time of this sighting, reporting “calm” with no wind direction indicated.  I have archived these weather stations by URL, and by taking screen captures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101188.html](http://www.nuforc.org/webreports/reports/101/S101188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
