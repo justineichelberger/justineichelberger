@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Warren (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange orb in northwestern sky-no sound-changed directionSaturday August 14, 2010 ELEVATION 970 FT MOOSEHILLOCK CAMPGROUND  AT AROUND 10:45PM MY DAUGHTER AND I WERE QUIETLY ENJOYING A CAMPFIRE AT OUR SEASONAL SIGHT.  I HAPPENED TO LOOK UP INTO THE TREES IN FRONT OF US AND SAW AN ORANGE LOOKING ORB.  I ASKED MY DAUGHTER “what is that?” she looked and saw the orange orb.  We followed it through the trees moving northeast.  It was hard to follow through the trees.  We kept following it for about 4 or 5 minutes.  Then we went down into the street but could no longer see it.  When we got back up on our deck , we saw it through the trees and it was growing larger and coming at us.  We did not stay outside to see where it went next.The orb was somewhat circular with a bright orange glow.  There was no sound but it was slowly moving. It seemed as if it was coming to our trailer as we were watching it.  It’s size was about ¼ the size of a full moon.The direction it first appeared was over the national forest close to moosilaukee mountain.After about ten minutes we went back out with my son and nephew.  We could no longer see it.  At no time did we hear any sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We suspect that the report may have been submitted by the mother of the woman, who submitted a similar report from the same are, and for the same time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77221.html](http://www.nuforc.org/webreports/reports/077/S77221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Liverpool (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Strange dancing lights astound couple in own back garden.clear night,stars easily visible,warm and dry.no cloud at all.2 round white lights at about 10/12,000 ft maybe a mile apart .Moving about in perfect syncrony,as if dancing.then,moving across the sky about half a mile apart parallel to each other.All this right in front of us.then,at high speed they moved apart at 45 degrees they came back towards each other,again at about 45 degrees.within another second,at incredible speed they then took a rightangle sharp turn and shot upwards into space.This in total took about 15/20 seconds,all in tota silence.I have never seen,nor heard of any thing that could perform like this,except the special effects in some movies.I am still stunned over it 2 months later and cant stop looking at the sky at night.All this was witnessed by both my wife and I.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72810.html](http://www.nuforc.org/webreports/reports/072/S72810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
