@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Littleton (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright flash of light, turning to pinpoint  of light that traveled silently and quickly through night sky of NH.At 9:40 pm, husband and wife were meteor watching when a bright flash of white light (as if someone snapped a photo with a large flash) from the Southern sky caught our attention. We noted a small pinpoint of light traveling quickly from the flash’s point of origin. The object was too high to be a plane and silent. It traveled in an arc overhead at a steady rate of speed from South to North until we lost sight of it over the mountains into Canada. We originally thought that it might be the space shuttle, but after checking the NASA channel realized the shuttle was still docked at the space station and not orbiting. We are first time posters and have never seen anything prior to last night to warrant a report. Interested to know if other people witnessed anything similar in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58209.html](http://www.nuforc.org/webreports/reports/058/S58209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Calistoga (7 miles outside of) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object was a black triangle with 3 spot lights in the corners,100 yrds above the trees, hovering and silent.A black, triangle with 3 white spotlights on the corners, hovered about 100 yards above the trees over the road.  I noticed the lights first because I was on a road that had no street lights.  Even though it was black and the sighting was at night,  It was easy to make out because it was so low.  I slowed the car to a stop and it was directly above me, it looked about as big as house.  I pulled the car over and turned it off, the object was completely silent.  I drove away quickly, up a hill and around a bend so that I could see the object still hovering where I had been.  As I watched it sped away very very quickly, away from me.((NUFORC Note:  Date indicated by witness is incomplete, or flawed.  We have assigned an artificial date, until we hear back from the witness, at which time, we will correct the date and repost the report.  PD))((ADDENDUM FROM WITNESS))Sorry it was 8/14/92((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106574.html](http://www.nuforc.org/webreports/reports/106/S106574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
