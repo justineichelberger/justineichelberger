@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Myers Flat (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Went outside to answer a call from my mother, looked up and saw a white orb shaped craft, about the size of the moon moving in a zip zag formation.  I've seen planes and satellites my whole life but this was bizarre, I told my mother what I was seeing because she directed me to go outside and watch the meteor shower . Quite a shock to say the least and then I went to bed, next morning told my son and he suggested we report it here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158590.html](http://www.nuforc.org/webreports/reports/158/S158590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ewa Beach (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright celestial object larger than a starI'm not sure it was a craft or a star/planet.A bright orb with light yellow center and red ring around it.Looked like a star but much bigger and brighter than any other star in the sky.We watched for apx. 2 minutes and it did not change.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83482.html](http://www.nuforc.org/webreports/reports/083/S83482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
