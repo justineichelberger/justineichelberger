@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:27 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Three crafts flying southeast forming a tringle.Three craft seen flying over neighborhood in Santa Clara County at high speed zig zag.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38663.html](http://www.nuforc.org/webreports/reports/038/S38663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thompson (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Bright light again appearing from west moving east, not to fast this time but made its way towards us (North) in a curve then a plane came from the the airport north of us and it curved south and took off faster south by the time the plane came it was gone south, can't help but think the pilots had to see it, as they where in the same airspace as the bright object, again this object is predictable, flys any speed, any direction, flashes in then leaves, we have seen this over and over each time the craft behaves in a different way, it knew the plane was coming and turned and took off. Could not pick it up on our video camera this time but we could pick up the plane which was about the same brightness as the craft in its airspace ,camera kept going out of focus on the craft but no problem with the plane...... They are here.  Everyday!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121253.html](http://www.nuforc.org/webreports/reports/121/S121253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
