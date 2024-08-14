@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sausalito (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Whitish star performs symmetrical acrobatics overhead for 4-5 minutesMy wife saw the small "planet-like" light first as she looked almost vertically overhead. I (her husband) looked up a minute or more later and also saw it hovering in the clear, dark sky. To both of us it seemed to adopt a fixed "central" or "home" location above us but would then very rapidly disappear and reappear in a new location that we estimated to be about six inches (on a ruler held at arm's length) away where it stopped for about 2 seconds.  It then returned to its "central" location again for another 2-3 seconds before flitting away in another direction to a new location at the same angular distance as the first.  This went on for around five minutes.  If all of the object's/light's positions were connected with a line it would have been an approximate circle with a diameter of about 10 inches (on same ruler) or about 18 - 20 deg. arc.How did it disappear?  Over some minutes the "central" position seemed to drift toward the south (it continued its symmetrical disappearing-reappearing act)where it eventually dimmed out completely. It seemed to be at a pretty high altitude, was whitish or silverish, between a star and a planet in angle (no shape could be seen), it was completely quiet, and we saw no airplanes in the sky at any time during the sighting.  The object's brightness never changed and it left no visible trail or contrail.  Winds were off the ocean and very clear (of smoke) that night.  We know of no earth tremors either just before, during, or after the sighting.  We reported it the next day to Dr. Haines by phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142845.html](http://www.nuforc.org/webreports/reports/142/S142845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Firebaugh (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>8/14/11.in firebaugh three bright lights in a triangleat night i looked ot my window because i heard a sharp noise and saw three lights in a triangle formation((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83188.html](http://www.nuforc.org/webreports/reports/083/S83188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
