@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Providence (RI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Was walking through Golf course during run with my boyfriend when I saw six  small star like orbs In a line slowly moving across the sky, fading off one by one. They were similar in distance as the stars in Orion’s Belt. They were gone and I could not find them again after they faded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158535.html](http://www.nuforc.org/webreports/reports/158/S158535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Keswick (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 redish orange lights/fireballs moving slowly across the sky, at one point in "w" formation.5 glowing orange red lights/fireballs not blinking slowly made their way across the sky from east-ish to west-ish. At first thought they were brightly glowing planets but they were too big and I realized they were moving.  Then I thought they were planes but they moved too close together and the lights weren't blinking.  At one point, they were in a perfect "w" formation directly in front of me across the sky as I was driving towards them. They kept moving slowly across until I lost sight them because of tree cover. I am an attorney and was returning home late in the evening.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121256.html](http://www.nuforc.org/webreports/reports/121/S121256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
