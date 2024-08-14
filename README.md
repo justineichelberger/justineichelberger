@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Burlington (ND) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball at Des Lacs and Souris River ForksOn or about 8/14/1998, the first year I was to junior high school, at approx. 1400 hours my mother and I were en-route to the Burlington Elementary School to meet with the school biology teachers from the Jr. High and High School to dissect sharks as a project to get students interested in the biology classes they offered.While en-route my mother was driving and we were Northbound on Highway 52 by Burlington, ND.  Due to the elevation we were at we could see across the Souris River Valley. At the fork of the Des Lacs River and Souris River approx. 700 ft above the fork was round object approx. 70ft in diameter that appeared as though it was on “fire.”  I use fire in quotes as the fire appeared to start at the bottom of round object and flowed upwards in expanding then contracting rings around the round object until it reached the top of the round object.  The ring of “fire” would flow slightly above the object and disappear. The flow of the fire was not very fast taking about 10 sec. from bottom to top. There was no smoke coming from the object that I could observe but it did appear as though it had heat distortion around the object.  The object hovered in position for about 5 min and we turned onto Johnson St. and after we made the turn south bound I looked back and the object was gone.  The ball! appeared a shade of red and the "fire" was yellow and flame like.  During the observation I pointed it out to mother and she still acknowledges the incident occurred. I did not see how the object left as my view was obstructed while making a turn. I only observed a single object. I did not hear any out of the ordinary noises.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96987.html](http://www.nuforc.org/webreports/reports/096/S96987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Providence (RI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Was walking through Golf course during run with my boyfriend when I saw six  small star like orbs In a line slowly moving across the sky, fading off one by one. They were similar in distance as the stars in Orion’s Belt. They were gone and I could not find them again after they faded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158535.html](http://www.nuforc.org/webreports/reports/158/S158535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
