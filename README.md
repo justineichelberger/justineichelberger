@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Millerstown (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a large triangle shaped object hovering above treetops on a clear night for about 5 minutes or more.I was driving home from my second shift job as a machinist around 12:00 PM. It is hard to remember the exact date as this happened back in the 90's.  About 5 miles from home I was driving up a hill in Millerstown KY when I noticed three lights hovering above tree tops to my left.   I could easily tell this was a huge triangle shaped object.  This object just hovered. I slowed down to almost a stop and rolled my window down to look out to try to get a better view.  I was driving at this point around 2 mph.  The object looked as big if not bigger than a football field.   I do not remember the colors of the three lights but I could tell the object was either totally black or of a dark color.  It totally blocked the stars in the sky. It made no noise.  After about five minutes of viewing the huge object which just hovered it went straight up in a matter of a second and vanished into the night sky.  It was later reported two other people had seen an object in the sky o! n this same night within a 15 mile radius of my sighting.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101990.html](http://www.nuforc.org/webreports/reports/101/S101990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Columbus (near, at Fort Benning) (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Army soldiers see object over Fort Benning, GeorgiaOur Basic training company at Fort Benning, Georgia was doing night training on firing the 81mm mortar. We all looked up when this huge saucer shaped object floated from the south west to the north east It made no noise and had several irregular lights in what appeared to be port holes. The object was spinning in a clock wise rotation about one full turn every two minutes, Its speed seemed to be 10 mph and it appeared to be about a quarter mile in diameter and was about 500 ft above the ground. The object appeared to resemble a space station similar to to the one I saw in the movie "Close encounters of the third kind" If you remember the scene where Richard Dreyfuss was at the RR tracks and he looked up and saw this spinning space station type object. A master sergeant was mad at us for looking up.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31621.html](http://www.nuforc.org/webreports/reports/031/S31621.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
