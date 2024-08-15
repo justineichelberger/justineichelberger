@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:32 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bainbridge (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangular object with three large green lightswe were at my brother-in-laws house celebrating a birthday. at 10:00 p.m. we were outside on the deck. I had not been drinking and nobody that saw it was drunk.  leaned back in my seat and saw three large green lights in a triangular format. it was slowly moving across the sky from east to west with a slow rotation. unable to distinguish its altitude I can say how big it was. I said holy shit look at that then everybody looked up and watched it as it moved. my sister-in-law tried to take a picture and it showed up on her camera's digitle display but after taking the picture it didi not appear in the picture. any way after moving to the left it stopped then proceeded to rapidily rise then move to the right and then off out of view because of the trees. I put on my sneakers to run down the road to see if I could continue to see it and in the distance it was hovering counter clockwise circle. Two airliners were approaching from two different directions but bot! h traveling west to east where at that time it disappeared during the time I looked at the two airliners,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71692.html](http://www.nuforc.org/webreports/reports/071/S71692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cedar Grove (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Greenish circles right above the treeline.  As big as a car and moving togetherI saw 2 greenish circles connected in the center moving from east to west over Efland Cedar Grove Rd.  The object was slightly bigger than a car and was moving fast just above the treeline.  The lead circle was much bigger than the trail.  I initially thought it was a helicopter but there was no noise whatsoever and both circles were in profile as if it were two letter Os, not the ovals one would see from static off of a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101239.html](http://www.nuforc.org/webreports/reports/101/S101239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
