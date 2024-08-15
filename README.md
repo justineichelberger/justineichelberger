@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I HEARD YELLING AT THE APARTMENT BELOW US, SAYING "LOOK !, LOOK !" I WENT TO THE LIVING ROOM WINDOW AND PULLED BACK THE DRAPES AND SAW A UFO COMING AT AN ANGLE AND IT WENT OVER THE APARTMENT COMPLES. I YELLED AT MY HUSBAND TO HURRY OUTSIDE. WE BOTH RAN DOWN THE OUTSIDE STAIRS AND STOOD IN THE PARKING LOT WITH 4 OTHER PEOPLE. TWO OF THEM SAID THEY HAD BEEN FOLLOWING IT DOWN COSBY LAKE ROAD. WE WATCHED IT "HOVER" OVER TREE TOP LEVEL FOR A FEW MINUTES AND THEN IT RAISED ITSELF AND TOOK OFF BACK TOWARD CAMP COSBY. IT WAS SILVER SAUCER SHAPED WITH FLASHING LIGHTS GOING ROUND AND ROUND. IT WAS DAYLIGHT SAVINGS TIME AND STILL VERY LIGHT OUTSIDE. WHY WE DIDN'T RUN FOR A CAMERA, I DON'T KNOW. BUT I HAVE ALWAYS WONDERED IF WE HAD, WOULD WE HAVE "BEAMED UP" !((NUFORC Note:  Date is approximate.  We will invite the witness to have the other witnesses submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29036.html](http://www.nuforc.org/webreports/reports/029/S29036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>aircraft shadow, but no aircraft.In the parking lot of Lowe's @ gilbert and warner an aircraft shadow passed over me as i was parking. out of idle curiosity i looked out the window to see what cast the shadow and saw nothing. no more than two seconds later i stopped and got out to look. i know that it was eleven am because i looked at my watch as i noted the position of the sun. at that time of day i should have been able to see an aircraft whose  shadow passed over me...but i saw nothing in any direction.the sky was neearly cloud-free and i had miles of visbility in all directions. also there was no sound to be heard.((NUFORC Note:  Date is approximate.  NUFORC has received many reports of peculiar shadows, allegedly seen streaking across the ground, in cases in which the witness can find no aircraft in the sky.  We do not know what causes them, or if the reports are accurate, but many of them appear to be submitted by serious-minded appearing witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34225.html](http://www.nuforc.org/webreports/reports/034/S34225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
