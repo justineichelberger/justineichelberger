@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 14 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ewa Beach (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright celestial object larger than a starI'm not sure it was a craft or a star/planet.A bright orb with light yellow center and red ring around it.Looked like a star but much bigger and brighter than any other star in the sky.We watched for apx. 2 minutes and it did not change.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83482.html](http://www.nuforc.org/webreports/reports/083/S83482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bainbridge (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangular object with three large green lightswe were at my brother-in-laws house celebrating a birthday. at 10:00 p.m. we were outside on the deck. I had not been drinking and nobody that saw it was drunk.  leaned back in my seat and saw three large green lights in a triangular format. it was slowly moving across the sky from east to west with a slow rotation. unable to distinguish its altitude I can say how big it was. I said holy shit look at that then everybody looked up and watched it as it moved. my sister-in-law tried to take a picture and it showed up on her camera's digitle display but after taking the picture it didi not appear in the picture. any way after moving to the left it stopped then proceeded to rapidily rise then move to the right and then off out of view because of the trees. I put on my sneakers to run down the road to see if I could continue to see it and in the distance it was hovering counter clockwise circle. Two airliners were approaching from two different directions but bot! h traveling west to east where at that time it disappeared during the time I looked at the two airliners,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71692.html](http://www.nuforc.org/webreports/reports/071/S71692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
