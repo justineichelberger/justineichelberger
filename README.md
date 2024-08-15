@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two bright red lights in the southwestern skyI observed two round red lightts in the south western sky. they were very bright red and did not seem to move or make any sound. three airplanes were visable traveling nearby during this time. After about 5 minutes the first light seemed to dim and go out but the the second remained. Finally when one of the airplanes seemed to approach it it faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13813.html](http://www.nuforc.org/webreports/reports/013/S13813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I HEARD YELLING AT THE APARTMENT BELOW US, SAYING "LOOK !, LOOK !" I WENT TO THE LIVING ROOM WINDOW AND PULLED BACK THE DRAPES AND SAW A UFO COMING AT AN ANGLE AND IT WENT OVER THE APARTMENT COMPLES. I YELLED AT MY HUSBAND TO HURRY OUTSIDE. WE BOTH RAN DOWN THE OUTSIDE STAIRS AND STOOD IN THE PARKING LOT WITH 4 OTHER PEOPLE. TWO OF THEM SAID THEY HAD BEEN FOLLOWING IT DOWN COSBY LAKE ROAD. WE WATCHED IT "HOVER" OVER TREE TOP LEVEL FOR A FEW MINUTES AND THEN IT RAISED ITSELF AND TOOK OFF BACK TOWARD CAMP COSBY. IT WAS SILVER SAUCER SHAPED WITH FLASHING LIGHTS GOING ROUND AND ROUND. IT WAS DAYLIGHT SAVINGS TIME AND STILL VERY LIGHT OUTSIDE. WHY WE DIDN'T RUN FOR A CAMERA, I DON'T KNOW. BUT I HAVE ALWAYS WONDERED IF WE HAD, WOULD WE HAVE "BEAMED UP" !((NUFORC Note:  Date is approximate.  We will invite the witness to have the other witnesses submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29036.html](http://www.nuforc.org/webreports/reports/029/S29036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
