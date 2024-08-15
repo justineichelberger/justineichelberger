@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:05 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:48 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Kingsman/Hoover Dam (between) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Summary : LOOKED LIKE STARS AT FIRST THEN BEGAN TO MOVE IN ODD MANORMY MOTHER WAS DRIVING AND MY BROTHER WAS RIDING SHOTGUN AND LOOKING THROUGH THE MOONROOF OF THE CAR HE CALLED TO ME TO OBSERVE 2 STARS WHEN I LOOKED AT THEM THEY SEEMEDTO DROP OUT OF THE SKY THEY BEGAN TO SORT OF CHASE EACH OTHER WE WATCED FOR AWHILE AND THEN THEY STOPPED, WENT HIGHER INTO THE SKY AND HOVERED THERE LOOKING LIKE STARS</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02903.html](http://www.nuforc.org/webreports/reports/002/S02903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1950, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three saucer shaped ships.  High in the sky, metallic but no shine.  Rather dull gray.  They hovered overhead in a V formation and from time to time seemed to dip down and they had a bubble shaped top.((NUFORC Note:  Witness indicates that the date above is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135871.html](http://www.nuforc.org/webreports/reports/135/S135871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
