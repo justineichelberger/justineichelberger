@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Granada Hills/Mission Hills (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw two flying saucers around midnight in granada hills going at fast speed around the city following the same route twice.Me and some friends saw about 3 strange lights paused in the air near a popular hill restaurant The Odyssey. We saw it leaving heading south at an extreme speed. We tried to reach the saucers speed but it was impossible, it would swerve over to one side and fly across to the other. The night was clear and the moon was half a moon. It was flying @ a lower level than other airplanes or helicopters. The weirdest thing is that I took a picture wit my cell phone camera & it came out blurry but I could see a blurry swerving light. Moments later I checkd the pic again and the image I got was dark and nothing came out:I sent it to my email but there was no picture. The other saucer we saw was a triangular shape with 3 white lights and a red one in the middle. This sightings were all seen around midnight and 1am.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51485.html](http://www.nuforc.org/webreports/reports/051/S51485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Macedonia (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A point of light in the sky moving around an aircraft in an unusual manner.We were looking at a plane heading east. The sun was reflecting the aircraft orange and it had a short contrail of orange as well. There was a quick spark of light that appeared close to the air craft and moved around the plane in a C shape. It was not moving in the same direction as the airplane. It was able to change direction and disappear and appear again quickly. There is no possible way it was another aircraft.  We could see the shape of the other plane. But this had no shape. It just appeared like a spark in the sky around the plane and then it disappeared and we did not see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51495.html](http://www.nuforc.org/webreports/reports/051/S51495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
