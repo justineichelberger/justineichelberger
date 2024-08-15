@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Ramona (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I live in Tokyo, Japan and was on vacation visiting my family in Ramona, California. I went outside to have a smoke, as my mother and father are not smokers. After a short while I saw a beam of light coming down from the sky. The beam was only about 75 to 100 yards from where I was smoking. It seemed as if the light was searching for something; moving here and there, up the hill and then down the hill. At first, I thought it might have been a helicopter searching for something, but I didn’t hear the sound of the blades cutting through the air. The sky was very dark blue and the stars were out, but when I tried to see where the light was coming from I couldn’t see a thing. I thought at least I would see a silhouette of the thing from where the light came. I called to my nephew, who was about 9 or 10 years old at the time, to come outside.  He yelled back that he was watching something on television. A few minutes later the light went out. This was the strangest experience I ever had and remember it forever. Every time I hear the word ‘UFO,’ or ‘alien,’ I always think of this strange moment in my life.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18326.html](http://www.nuforc.org/webreports/reports/018/S18326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two bright red lights in the southwestern skyI observed two round red lightts in the south western sky. they were very bright red and did not seem to move or make any sound. three airplanes were visable traveling nearby during this time. After about 5 minutes the first light seemed to dim and go out but the the second remained. Finally when one of the airplanes seemed to approach it it faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13813.html](http://www.nuforc.org/webreports/reports/013/S13813.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
