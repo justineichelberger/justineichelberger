@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:52 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Macedonia () reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>A STAR BUT CHANGING COLOURS AND LEAVES TRAIL AS IT MOVESI`m SEEING SOMETHING IN THE SKY RIGHT NOW ITS LIKE A STAR BUT GLOWS MORE IN DIFFRENT COLOURS. AS IT MOVES IT LEAVES A TRAIL AND ITS MOVING DOWN FAST ITS ALMOST GONE BEHIND THE HILL.... THIS IS NOTHING LIKE Ive EVER SEEN BEFORE IT WAS CLOSE TO BIG BEAR BUT IT MOVED LEFT AND DOWN SO FAST((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51488.html](http://www.nuforc.org/webreports/reports/051/S51488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Pidley, Huntingdon (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object was the size of a double decker bus, it had a search light and some other lights. It didn't make a sound.The object was a disc shape with a massive search light on top and there were other lights on each sides(Orange and red). The object went from one part of a forest to another and then back again, it did this for about 5-10 minutes. When the object was moving i opened the window and it was silent, I think it could have been running on electricity or something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14018.html](http://www.nuforc.org/webreports/reports/014/S14018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
