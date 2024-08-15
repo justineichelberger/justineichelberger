@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:51 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:44 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Warden (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>star like lights moving across sky and re accuringHello, I would like to start off by saying this is no hoax or joke, what my cousin and I saw is real and im 99.9% shure its not a military craft. what we saw and continue to see every night around the same time is a light that moves across the sky very quick and not in one general direction either, sometimes they disappear and reappear, we have seen airplanes flying and the light are completely different and the speed is very slow compared to the light we see.  this event occurs every night between 8 and 12, tonight ill try to get video to send in to you.  this literally happens every night we look for it.  I would really like to get someone else to see this that can maybe tell if its a plane of somesort or really a ufo.  The color of these are white they look exactly like a moving star, sqame brightness and color but they move quick.  please contact me I have called the hotline and left my number so I look forward to hearing from you soon.  thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112521.html](http://www.nuforc.org/webreports/reports/112/S112521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Ramona (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I live in Tokyo, Japan and was on vacation visiting my family in Ramona, California. I went outside to have a smoke, as my mother and father are not smokers. After a short while I saw a beam of light coming down from the sky. The beam was only about 75 to 100 yards from where I was smoking. It seemed as if the light was searching for something; moving here and there, up the hill and then down the hill. At first, I thought it might have been a helicopter searching for something, but I didn’t hear the sound of the blades cutting through the air. The sky was very dark blue and the stars were out, but when I tried to see where the light was coming from I couldn’t see a thing. I thought at least I would see a silhouette of the thing from where the light came. I called to my nephew, who was about 9 or 10 years old at the time, to come outside.  He yelled back that he was watching something on television. A few minutes later the light went out. This was the strangest experience I ever had and remember it forever. Every time I hear the word ‘UFO,’ or ‘alien,’ I always think of this strange moment in my life.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18326.html](http://www.nuforc.org/webreports/reports/018/S18326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
