@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>aircraft shadow, but no aircraft.In the parking lot of Lowe's @ gilbert and warner an aircraft shadow passed over me as i was parking. out of idle curiosity i looked out the window to see what cast the shadow and saw nothing. no more than two seconds later i stopped and got out to look. i know that it was eleven am because i looked at my watch as i noted the position of the sun. at that time of day i should have been able to see an aircraft whose  shadow passed over me...but i saw nothing in any direction.the sky was neearly cloud-free and i had miles of visbility in all directions. also there was no sound to be heard.((NUFORC Note:  Date is approximate.  NUFORC has received many reports of peculiar shadows, allegedly seen streaking across the ground, in cases in which the witness can find no aircraft in the sky.  We do not know what causes them, or if the reports are accurate, but many of them appear to be submitted by serious-minded appearing witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34225.html](http://www.nuforc.org/webreports/reports/034/S34225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Carlisle (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Loud long transparent craft with red lights on each endOn August 15th 2015 around 9 pm my daughter and I were in the living room watching TV when what sounded like a helicopter went over our home.  I looked out the window and I could see a long craft that looked to be transparent with a red lights on each end.  I told my daughter to follow me outside so we could get a better look .Once outside, I thought I would be able to see the bottom of a craft, but neither of us could make out anything but the lights.  It looked to be just a long transparent craft that sounded like a helicopter. It was very low.  My husband and I tried to look up drone pictures but couldn't find anything that looked like this.  I'm sure other people had to of seen it and would like to know what it was if anyone has and information.We see tons of odd things where we live and I know they some times have air shows.My husband also witnessed a large orange orb in 2006 floating above our home. We had just moved in. He said it made no sound.  Floated off and never seen anything like it again.In 2014, my family witnessed silver cylinder like crafts that seemed to be equally paced one in front of the other. I lost count at how many were line.  At first I assumed it was a airplane but I would have no idea why they would be lined up or the reason for so many.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121241.html](http://www.nuforc.org/webreports/reports/121/S121241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
