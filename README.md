@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lenexa (Greater Kansas City Metro Area) (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An object moving at a high rate of speed, leaving a bright pink trail.I was on my way to work early morning as usual, it was about 5:40am CST, as I always do, I like to take pictures of beautiful sunrises.. This particular morning, I left my house and Pulled to an intersection, where I looked towards the East, and saw the beautiful clouds. I got my camera all ready, rolled down my window, right before I snapped the shot, before holding the camera up to my face, I saw what looked to be a shooting star upwards to my right.. I looked up, and it slowly dissappeared.. I went ahead and took the photo, thinking, "At least I got the clouds and the sky. I wish I Could've got the star!" Well, never really studied the picture once it was developed.. Until last week, I was looking at some pictures of furniture, and my eyes were attracted to it immediately! I looked and looked, I could not tell WHAT had shown up on my picture, but it looked as if the shooting star that I saw, had dissappeared to my eye, but the instant I shot the picture, it reappeared.. It must have been traveling at a high rate of speed, and also I had noticed, shooting stars usually do not stop, or turn back around, as shown in the picture.. I have tried to contact some local college professors, or really someone that wants this picture.. I do not know the first thing about UFO's, I'm just amazed that it finally happened to me! I am very interested (and have been)in the paranormal, ghosts, UFO's, so this just really struck me hard... It was a great experience!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04735.html](http://www.nuforc.org/webreports/reports/004/S04735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Granada Hills/Mission Hills (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw two flying saucers around midnight in granada hills going at fast speed around the city following the same route twice.Me and some friends saw about 3 strange lights paused in the air near a popular hill restaurant The Odyssey. We saw it leaving heading south at an extreme speed. We tried to reach the saucers speed but it was impossible, it would swerve over to one side and fly across to the other. The night was clear and the moon was half a moon. It was flying @ a lower level than other airplanes or helicopters. The weirdest thing is that I took a picture wit my cell phone camera & it came out blurry but I could see a blurry swerving light. Moments later I checkd the pic again and the image I got was dark and nothing came out:I sent it to my email but there was no picture. The other saucer we saw was a triangular shape with 3 white lights and a red one in the middle. This sightings were all seen around midnight and 1am.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51485.html](http://www.nuforc.org/webreports/reports/051/S51485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
