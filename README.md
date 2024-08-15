@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:51 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omak (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO sighting over Omak WashingtonStepped out into our backyard and up above the valley, in the night sky there were 4 red lights in alignment and they slowly began to circle the valley.  They came out of formation and were moving all over they were blinking red and white lights and then one of the objects went into the first and slowly the next one flew into the first, making three together, then finally the last one flew into them and they became one. Then as the one object was circling the valley in the night sky again, it was blinking red and white from one end of it to the other and then it started to separate and make very irratic movements from right to left and horizontal and vertical.   Then they began to form a line again and move around the valley again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91862.html](http://www.nuforc.org/webreports/reports/091/S91862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Warden (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>star like lights moving across sky and re accuringHello, I would like to start off by saying this is no hoax or joke, what my cousin and I saw is real and im 99.9% shure its not a military craft. what we saw and continue to see every night around the same time is a light that moves across the sky very quick and not in one general direction either, sometimes they disappear and reappear, we have seen airplanes flying and the light are completely different and the speed is very slow compared to the light we see.  this event occurs every night between 8 and 12, tonight ill try to get video to send in to you.  this literally happens every night we look for it.  I would really like to get someone else to see this that can maybe tell if its a plane of somesort or really a ufo.  The color of these are white they look exactly like a moving star, sqame brightness and color but they move quick.  please contact me I have called the hotline and left my number so I look forward to hearing from you soon.  thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112521.html](http://www.nuforc.org/webreports/reports/112/S112521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
