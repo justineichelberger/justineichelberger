@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Aurora (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A slow moving craft in triangular shape at about 100 to 200 feet altitude. A series of 3 lights in a trianbular shape under the craft. It was silent and slow moving. It came out of the northwest and was traveling south east at about 35 to 40 miles per hour.I was traveling home form work on I 88 west bound out of Chicago at about 9:00pm. Around Naperville road I noticed a line of lights in the distance about 20 degrees off to the right of the highway. It was very low in the sky. It was not in the flight path of either O Hare or Midway airport. As I continued west bound I realized that what ever it was would be passing directly over head in a few moments. As I came closer to it, I noticed that what seemed like a line of nine lights was a series of three triangles with three sets of lights in each. I slowed to 25 to 30 miles per hour as it passed directly overhead. There was no sound as it passed over the highway. The lights were to bright to allow any sighting of the craft itself, although the outline of the configuration of the lights suggested that the craft was V shaped wing. The altitude is only a approximation. If it were higher in the sky then it would be of a larger size, if it were lower it would be slightly smaller. I have flown ultralight aircraft and no a little about determining altitude from the ground level persective. Other cars had slowed down and were also looking up as it passed dircectly overhead. It traveled towards the very populated Naperville area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05253.html](http://www.nuforc.org/webreports/reports/005/S05253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pace (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright object in eastern sky suddenly disappears while being viewed through binoculars.On Sunday night, August 16, 2020, shortly before midnight, I took my dogs outside before bedtime . I looked up at the eastern sky and saw a very bright object that I had not previously seen in that location.  I watched it for a minute or so, and then went in the house to get my binoculars.  When I came back out, the object was still there so I began focusing on it.  As I was doing so, the object just suddenly completely disappeared. I’ve been seeing strange objects in the eastern sky for around 3 years now, but never this bright.  Previously, the objects have rapidly moved in ways that typical aircraft cannot (sideways, up and down, etc.).  They also appeared to not be stars because sometimes they were there and sometimes they weren’t, whereas other stars and planets are always visible in the same approximate locations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158910.html](http://www.nuforc.org/webreports/reports/158/S158910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
