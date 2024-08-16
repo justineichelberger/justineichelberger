@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winkler (Canada) (MB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red fireball traveling slowly across the sky.Small white and red glowing ball, traveling slowly SW TO SE then fading to a red ball and eventually disappearing completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101250.html](http://www.nuforc.org/webreports/reports/101/S101250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nazareth (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a very bright light one night as I was taking out the recycling, when I returned with another can, it was gone.I am just a teenager who often looks up at the stars.  I can identify many constellations and also planets that are in the sky.  On the night of August 16, 2012, around 9:05 pm, I was putting the recycling cans out for the next day.   I had multiple cans to put out so I made two trips.  On the first trip out I noticed an unusually bright object in the ESE sky.   At first I thought that the object might be a planet such as Venus but it was much larger and much, much brighter than anything I had ever seen in the sky before.  It seemed to be glowing.   It was fairly low, perhaps fifteen degrees above the horizon.   I stared at it for at least fifteen seconds to see if it was moving or not, to see if it was an airplane, but it did not move at all.   I immediately thought to go get my binoculars to get a closer look but first I went back into my garage to get the next recycling can.   When I returned to the end of my driveway, so I could see around a tree that blocks th! e view from the house, the object was gone.   No signs of it were around anywhere.  I immediately went inside to alert my mom and grab a pair of binoculars.   We returned outside but there was still nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91874.html](http://www.nuforc.org/webreports/reports/091/S91874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
