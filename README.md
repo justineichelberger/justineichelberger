@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:26 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:52 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grand Canyon (North Rim) (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright multi colored object seen at night,at our campsite near the Grand Canyon North Rim.While at our campsite 15 miles North of the Grand Canyon North Rim on the night of Tuesday 8-16-11,I noticed a brightly colored object moving toward our campsite at the DeMotte US Forest Service Campground.  It stopped and I told my girlfriend to come look. We got the binoculars and saw red,blue,silvery white,and yellow lights spinning around in circles on the UFO.  We saw it very clearly.A few minutes later we saw 2 jets fly near the UFO as if they were checking it out also. My girlfriend said to take a picture of it,so I got my camera and did.  She also took a picture of the UFO with her camera.  Then I decided to flash my large flashlight at the UFO.It stayed in the same place and moved only a few degrees horizontally to our right.  We observed the UFO for over an hour between the hours of 11:00pm and 12:00am. We finally went to sleep in the van at midnight because it was just hanging there and we were cold and tired.We took pictures of the UFO with our Kodak cameras.  My camera is a Kodak Z981 digital and I took the picture at 26x zoom and my girlfriend took her picture with a Kodak C195 digital camera at 5x zoom.  We also noticed some orb looking objects in 2 of our pictures that night after I flashed my light at the UFO.Were not sure what they are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83268.html](http://www.nuforc.org/webreports/reports/083/S83268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Keyser (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>To the northeast, I noticed a round light moving across the sky.  There wasn't any sound coming from it.  It was solid red and then solid white, changing between those colors every minute or so.  It stopped in the sky, stayed there for a few minutes and then disappeared.  I observed the object from a dark back road.  I wasn't in any kind of vehicle and there wasn't any houses or buildings in the immediate area.  I tried to get a picture and/or video of it with my phone but I couldn't see it on my screen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121209.html](http://www.nuforc.org/webreports/reports/121/S121209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
