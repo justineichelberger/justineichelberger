@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newport (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving 30-60+ amber lights heading northeast of Lake Memphremagog.To the northeast of Lake Memphremagog my fiancé was driving home and said that I should come outside.  She told me that she had observed all of the floating amber colored lights for approximately 5 minutes before she arrived home. I went outside and saw the drifting to the northeast with others entering from the horizon on the northwest.  There were dozens of the amber colored lights and their altitude was below 5000 feet, as it is very cloudy and a little foggy outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112520.html](http://www.nuforc.org/webreports/reports/112/S112520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Sumner (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman woke up in middle of night, witnesses four bright lights in two formations.  It alarmed her for some reason.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00723.html](http://www.nuforc.org/webreports/reports/000/S00723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
