@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pittstown (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately TBD - TBD minutes.</sub><blockquote><sub>Object may have landed in area that saw similar circumstances 4 years agoFrom approx 9:10 this evening to 9:27pm, 2 other witnesses and I observed an orange orb, low in the north west sky, which descended slowly, (approx. 17 minutes) and disappeared behind a tree line.  Through binoculars, it appeared to be perfectly round and pulsating.  The color would at times deepen to red, than back to orange.  The area where it descended is the same area in which I witnessed similar events 4 years ago.  A digital photograph was taken by one of the witnesses, but unfortunately, the object appears as a pin dot. This was also videotaped, but again, the object appears minute on the tape.((NUFORC Note:  Possibly Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77255.html](http://www.nuforc.org/webreports/reports/077/S77255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Tecumseh (OK) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>a flying disc circled around me and gave me somthing.it was a disc shaped craft it was hard to see like...almost grayish-black.it had a strip of a bright white light around it,it had a couple windows around it aswell,and there was....a wonderful yet wierd noise to it and in one of the windows was...it looked like a person was standing there, it sort of looked down at me and the craft barely even moved it just hoverd over some trees then when the wierd being looked up at the sky i did the same,"i was trimbiling" then it looked back down at me for a little bit and just turned away, then the craft hoverd around in a half circle and darted off.....i ddnt move i was frozen and i saw it again only this time it circled around me and made a sound that was sort of like a deep pitched swirl i got freaked out untill it droped somthing but instead if it picking the thing that dropped up it pointed at me and darted off and that was the first time i ever saw one.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83455.html](http://www.nuforc.org/webreports/reports/083/S83455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
