@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Bend (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unidentified object in Western Washington sky on a bright sunny morning.I witnessed an unknown object in the sky from my vantage point in North Bend, WA.  At 11:55 am I saw a metallic reflection in the Western sky.  The object was VERY distant.  It did not move.  It reflected the sunlight and when I looked at it with my naked eye, appeared to rotate.  I had my binoculars with me and the object was still to distant to discern any tell tale identifying characteristics.  Through the binoculars it appeared to shimmer different colors - red - blue and green.  My neighbor and his two grand kids saw it too.  I pointed it out to another gentleman who saw it as well.  I went into the store and came out and it was gone.  I watched the object for a total of fifteen minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83212.html](http://www.nuforc.org/webreports/reports/083/S83212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fast moving light, going straight up.Noticed red and blue light in the sky it say there for a second, and then rapidly wen straight up in the air.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121169.html](http://www.nuforc.org/webreports/reports/121/S121169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
