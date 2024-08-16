@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 15 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:26 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Columbus (near, at Fort Benning) (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Army soldiers see object over Fort Benning, GeorgiaOur Basic training company at Fort Benning, Georgia was doing night training on firing the 81mm mortar. We all looked up when this huge saucer shaped object floated from the south west to the north east It made no noise and had several irregular lights in what appeared to be port holes. The object was spinning in a clock wise rotation about one full turn every two minutes, Its speed seemed to be 10 mph and it appeared to be about a quarter mile in diameter and was about 500 ft above the ground. The object appeared to resemble a space station similar to to the one I saw in the movie "Close encounters of the third kind" If you remember the scene where Richard Dreyfuss was at the RR tracks and he looked up and saw this spinning space station type object. A master sergeant was mad at us for looking up.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31621.html](http://www.nuforc.org/webreports/reports/031/S31621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grand Canyon (North Rim) (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright multi colored object seen at night,at our campsite near the Grand Canyon North Rim.While at our campsite 15 miles North of the Grand Canyon North Rim on the night of Tuesday 8-16-11,I noticed a brightly colored object moving toward our campsite at the DeMotte US Forest Service Campground.  It stopped and I told my girlfriend to come look. We got the binoculars and saw red,blue,silvery white,and yellow lights spinning around in circles on the UFO.  We saw it very clearly.A few minutes later we saw 2 jets fly near the UFO as if they were checking it out also. My girlfriend said to take a picture of it,so I got my camera and did.  She also took a picture of the UFO with her camera.  Then I decided to flash my large flashlight at the UFO.It stayed in the same place and moved only a few degrees horizontally to our right.  We observed the UFO for over an hour between the hours of 11:00pm and 12:00am. We finally went to sleep in the van at midnight because it was just hanging there and we were cold and tired.We took pictures of the UFO with our Kodak cameras.  My camera is a Kodak Z981 digital and I took the picture at 26x zoom and my girlfriend took her picture with a Kodak C195 digital camera at 5x zoom.  We also noticed some orb looking objects in 2 of our pictures that night after I flashed my light at the UFO.Were not sure what they are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83268.html](http://www.nuforc.org/webreports/reports/083/S83268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
