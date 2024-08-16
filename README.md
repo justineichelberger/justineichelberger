@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sparta (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Seen hovering over house in triangle shape with blinking lights until fading away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101248.html](http://www.nuforc.org/webreports/reports/101/S101248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Abersoch (UK/Wales) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was in Wales on holiday, lying on the grass watching the stars with my friend, and i happened to see this orange bright oval shape really high in the sky, a plane could never reach taht distance because it was above the clouds (it woz a clear night) but this large orange oval shape was surrounded by 6 in a circle, and i watched as they hovered for about 5-10 mins and then i saw something come out of the lafge orange oval shape and hit 1 of the smaller crafts, and the craft that was hit disappeared, I was freaked out((NUFORC Note:  Date is approximate.  Source elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25080.html](http://www.nuforc.org/webreports/reports/025/S25080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
