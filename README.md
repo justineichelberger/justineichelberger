@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Sumner (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman woke up in middle of night, witnesses four bright lights in two formations.  It alarmed her for some reason.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00723.html](http://www.nuforc.org/webreports/reports/000/S00723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Palmdale, California 3 Triangles Sighted  While out photographing the meteor shower show to take in the skies of East Palmdale California, 2 gentleman "Mike" 22 and "Lance" 22 on the evening of August 16, 2004 sighted 3 triangles in a circle spinning at fantastic speeds then stop and disappears. There were no clouds. While they sighted this event "Mike" called his girlfriend on his cell phone and while taking the cell phone died. Then the camera they had which was fully charged died and would not work. The camera noted "Battery Dead". When both returned home the cell phone worked and the camera as it was placed in its charger stated it had a full charge. Location was 47th and "S" streets. Time of sighting between 1:00 - 2:00 am Aug 16th. The craft were said to be at the height of high altitude jet flight patterns 20,000'. At arms length holding a quarter the craft seemed to be the size of a quarter. No noise was associated with this event. The triangles had a half sphere shape to them. The men saw high definition shapes in the crafts bodies. ((name and URL deleted))((NUFORC Note:  Witness elects to remain totally anonymous.  We cannot guarantee that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38881.html](http://www.nuforc.org/webreports/reports/038/S38881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
