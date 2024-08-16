@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw about 6 bright orange light  over highway five when I was driving 60 mph!I was driving 60 mph on highway 5 North from Seattle close to Northgate  shopping mall .Clearly, I saw  about 6  orange bright light in the sky  in the front of me moving  toward my direction  .They were close to each other and moving on independently changing direction slightly , seems to me.They passed me on my left side as I was still driving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112604.html](http://www.nuforc.org/webreports/reports/112/S112604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newport (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving 30-60+ amber lights heading northeast of Lake Memphremagog.To the northeast of Lake Memphremagog my fiancé was driving home and said that I should come outside.  She told me that she had observed all of the floating amber colored lights for approximately 5 minutes before she arrived home. I went outside and saw the drifting to the northeast with others entering from the horizon on the northwest.  There were dozens of the amber colored lights and their altitude was below 5000 feet, as it is very cloudy and a little foggy outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112520.html](http://www.nuforc.org/webreports/reports/112/S112520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
