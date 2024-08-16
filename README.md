@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:47 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in South Berwick (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>this night was hot and hughmid we had went out on the deck and laid out on the proch to watch the stars when we saw this thing zooming almost as to get away from somthing then it stoped and just sat there we got scared and ran into the house as it sat there we watch it  then all most as if it never happened it was gone and i could never stop thinking about it to this day in my dreams it was alwhas there and every time i thought about it made no nose it was not a plain but as it went away it was landing some were i dont know were please post your thoughts((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Date may be approximate.  We cannot be certain whether this is intended to be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48693.html](http://www.nuforc.org/webreports/reports/048/S48693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winkler (Canada) (MB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red fireball traveling slowly across the sky.Small white and red glowing ball, traveling slowly SW TO SE then fading to a red ball and eventually disappearing completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101250.html](http://www.nuforc.org/webreports/reports/101/S101250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
