@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pace (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright object in eastern sky suddenly disappears while being viewed through binoculars.On Sunday night, August 16, 2020, shortly before midnight, I took my dogs outside before bedtime . I looked up at the eastern sky and saw a very bright object that I had not previously seen in that location.  I watched it for a minute or so, and then went in the house to get my binoculars.  When I came back out, the object was still there so I began focusing on it.  As I was doing so, the object just suddenly completely disappeared. I’ve been seeing strange objects in the eastern sky for around 3 years now, but never this bright.  Previously, the objects have rapidly moved in ways that typical aircraft cannot (sideways, up and down, etc.).  They also appeared to not be stars because sometimes they were there and sometimes they weren’t, whereas other stars and planets are always visible in the same approximate locations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158910.html](http://www.nuforc.org/webreports/reports/158/S158910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wantagh (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>ufo recon on long island?We were sitting outside when a greenish blue object appeared crossing the sky then a stream of fire blasted for a second from the rear of the object. It flew across the sky then went down somewhere near sunrise highway. I feel it must of went down near Jones Beach. Then a bright light appear in a circle shape that was hovering in the same area where the greenish blue object fell. We followed the light to a open field and stood there watching what it was going to do. The circle shape started to rotate and around it, other lights in circular patterns appeared. A small circle came off of it and shot away fast. Two other small circular objects appeared near the big one, it stayed there for one hour, then vanished. During the whole event, the sky was different the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58221.html](http://www.nuforc.org/webreports/reports/058/S58221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
