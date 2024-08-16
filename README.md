@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:48 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Round red orange object stationary in the sky.  Dissapeared and reappeared quickly in the south east sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91888.html](http://www.nuforc.org/webreports/reports/091/S91888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pittstown (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately TBD - TBD minutes.</sub><blockquote><sub>Object may have landed in area that saw similar circumstances 4 years agoFrom approx 9:10 this evening to 9:27pm, 2 other witnesses and I observed an orange orb, low in the north west sky, which descended slowly, (approx. 17 minutes) and disappeared behind a tree line.  Through binoculars, it appeared to be perfectly round and pulsating.  The color would at times deepen to red, than back to orange.  The area where it descended is the same area in which I witnessed similar events 4 years ago.  A digital photograph was taken by one of the witnesses, but unfortunately, the object appears as a pin dot. This was also videotaped, but again, the object appears minute on the tape.((NUFORC Note:  Possibly Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77255.html](http://www.nuforc.org/webreports/reports/077/S77255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
