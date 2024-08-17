@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 16 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Tecumseh (OK) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>a flying disc circled around me and gave me somthing.it was a disc shaped craft it was hard to see like...almost grayish-black.it had a strip of a bright white light around it,it had a couple windows around it aswell,and there was....a wonderful yet wierd noise to it and in one of the windows was...it looked like a person was standing there, it sort of looked down at me and the craft barely even moved it just hoverd over some trees then when the wierd being looked up at the sky i did the same,"i was trimbiling" then it looked back down at me for a little bit and just turned away, then the craft hoverd around in a half circle and darted off.....i ddnt move i was frozen and i saw it again only this time it circled around me and made a sound that was sort of like a deep pitched swirl i got freaked out untill it droped somthing but instead if it picking the thing that dropped up it pointed at me and darted off and that was the first time i ever saw one.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83455.html](http://www.nuforc.org/webreports/reports/083/S83455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright round object seen flying south  underneath path of airplaine.I was standing outside of my house near downtown Las Vegas and I seen a bright round object flying south at about cloud level.  There were no flashing lights or anything that resembled a "normal" aircraft. An airplane was flying westward at the time.  Object appeared to be moving about three times faster than the airplane.  Watched the object until it disappeared in the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83539.html](http://www.nuforc.org/webreports/reports/083/S83539.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
