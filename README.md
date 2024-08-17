@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wedgfield (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Ball of light w multicolor-several sightings.We woke up around 1am and saw the white/yellow light in the sky.  I took video with my iPhone but the object was very high up and I can only see it very well when I zoom.  It is a ball of light that moves and has multicolors that can only be seen in Zoom view.  It appears the middle of the orb is black. I have seen this 3 times over the past 3 weeks and once several months ago in a different area of the sky.  I live between the Space Center (35 miles away) and a Nuclear Energy plant (10 miles away).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158638.html](http://www.nuforc.org/webreports/reports/158/S158638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sydney (Australia)) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I stand there, tranfixed at this light, not being able to move. It was this wonderful glowing light.I was standing outside in my backyard, just standing, until something caught my eye. It was a very bright light in the distance. I stood tranfixed at that very light, i couldn't shout to anyone, I couldn't move away. I felt so weak, it was so beautiful it made me feel like i could not be touched. It remained there for 10 seconds in mid-air, then suddenly flew away at the speed of light and dissappeared behind a tree. It made no sound whatsoever, it was like it was never there. I got into vision with where it should have been, behind the tree but it wasn't there, it had just dissapeared, like that. I suddenly got back to my senses and noticed what had happened. I ran inside and told my mum the whole story. She reckoned it was a satellite. That was no satillite, it was a UFO.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48741.html](http://www.nuforc.org/webreports/reports/048/S48741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
