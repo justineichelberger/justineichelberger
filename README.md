@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:26 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:35 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>My husband and I were enjoying the evening in our balcony.  As I was looking up at the stars,  I noticed what seemed to be a Chevron object, almost with a infrared glow, coming at a very fast rate.  My husband quickly saw it.  It made no noise and left no trail.  I'm going to guess it was about 2,000 feet up.  It moved past us and then we saw a ball of light and it was gone . I have been searching local sites since last night,in Hope's that someone else saw it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158693.html](http://www.nuforc.org/webreports/reports/158/S158693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>zoomed camera on light and filmed did not look light a plane no sound no blinking lightsI saw it moving slowly over trees in the distance.  There was no blinking lights.  I filmed it and took a few studio pictures with my studio lets me take pictures.  I don't want to send the video it was taking with my cellphone was not the great of footage.  Light moved slow left to right over trees in the distance.  It had no blinking lights like all the other planes in the sky knowing I am miles away from Midway Airport.  It happened around 5:24am knowing it's a good chance to tape the stuff as the sun is starting to come up I went outside and then ended up right away seeing this.  The ending of the video was the best because 4 minutes later it even gotton lighter outside and was the closest I have filmed of the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77401.html](http://www.nuforc.org/webreports/reports/077/S77401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
