@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 Bright lights in the sky moving about and flickering.Exactly midnight.On porch of home.6 orange lights in sky, all pulsating randomly.Two groups of three.Both groups moving away from each other.The left group breaks apart, moving downwards, and starts to flicker away.3 lights left, 2 next to each other, 1 below view.1 light burns out.2 lights left.1 light mid sky, varying brightness, stationary.1 light rising up from out of view, pulsating, moving towards other light.Both lights now about a perceived inch away, perfect 45 degree angle.Both lights slightly move towards, then away from each other, randomly pulsing, Both lights slowly flicker away to nothing.2 Minutes later, all visible stars/ lights in the sky disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112552.html](http://www.nuforc.org/webreports/reports/112/S112552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Borger (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Today Saturday August 17, 2014, I was talking to a cousin that had just got back from a 9 hour trip while I looked up at the stars I seen to what appeared to be a shooting star.  It was the same size of a star but it couldn't be a shooting star because it kept lite and did not have any form of fire or have a tail.  It could not be a plane because it moved way too fast. As it kept moving it disappeared and appeared again.  It was heading northwest then it changed direction to the southwest.  It was two of them that at one one point they crossed. Something I have never seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112592.html](http://www.nuforc.org/webreports/reports/112/S112592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
