@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Raspberry red oval craft observed traveling north to south along East Coast of FloridaAt approximately 3:05 AM, Saturday, August 17, 2013, I went outside to get something out of our car.  As I got to the end of the driveway and looked across the street, due East, in the direction of the Space coast, I saw an oval object at about 30 degrees above the horizon.  It was traveling in what appeared to be a southerly direction along the coastal region. Thinking that I should get some kind of point of reference regarding size and such,  I held out my hand at arm's length. The UFO was gliding along very slowly, in a straight path, taking about 2 minutes to travel what measured at arm's length to be between 10 and 12 inches.  The size of the craft, using my thumbnail at arm's length, was about 1/2 an inch. And it was a medium to medium dark RASPBERRY RED...not the tone of red like on emergency vehicle lights, or on traditional aviation lights...and it pulsated slowly. The lighting of the craft seemed to come from within the object, and not from an external! light source.  It continued along its flight path at what appeared to be the same altitude and direction for the entire 2 minutes that I was able to see it.  When it was no longer visible, I came inside, marked this event on my calendar, told my husband that I just saw a UFO and that I had to report it to NUFORC.  I called your Hot Line, and have now made this written report.  Please feel free to contact me, if needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101266.html](http://www.nuforc.org/webreports/reports/101/S101266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 Bright lights in the sky moving about and flickering.Exactly midnight.On porch of home.6 orange lights in sky, all pulsating randomly.Two groups of three.Both groups moving away from each other.The left group breaks apart, moving downwards, and starts to flicker away.3 lights left, 2 next to each other, 1 below view.1 light burns out.2 lights left.1 light mid sky, varying brightness, stationary.1 light rising up from out of view, pulsating, moving towards other light.Both lights now about a perceived inch away, perfect 45 degree angle.Both lights slightly move towards, then away from each other, randomly pulsing, Both lights slowly flicker away to nothing.2 Minutes later, all visible stars/ lights in the sky disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112552.html](http://www.nuforc.org/webreports/reports/112/S112552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
