@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Algonquin Park (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>While attending a performance at an outdoor theatre. Anywhere from 30 to 50 witnesses.In August 1988, I was vacationing in Algonquin park Ontario, Canada. I saw what appeared to be 6 objects that appeared to break off or seperate from eachother in a swirling clockwise fassion. This all took place at an outdoor theater with at least 30 to 50 witnesses. One woman saw it before I did, and that prompted all the other people to look up at it.  The Naturalist who was operating the theatre that night saw it as well.  He immidiately repoted it to our Canadian government, and the next night when we returned the naturalist told us that it was a Japanese satelite that crashed. I wonder if anyone else can recall seeing or hearing about this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04501.html](http://www.nuforc.org/webreports/reports/004/S04501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>while waiting for pizza object spotted in sky lasted about 6 min.At 8:00p.m. on the 17th I saw a string of  lights strobe  just to the southeast. At first I thought a plane, but I was startled enough to call my friend outside to see and he told me what I feared , that it was a ufo. The craft was hovering and slowly moving south , toward the airport. From my point of view I could see the red lights of a water tower stand still as this object moved in the background, from one side of it to the other, like it was moving further and further away the whole time strobing the length of the craft sort of giving it a shape it happened this way until about 8:08p.m. when it moved out of sight.About 25 min. later I saw two planes flying in formation which is weird because I never see that sort of thing, except for at an air  show, or on T.V. and the thing about those planes that caught my eye was that they strobed at the same time and stayed at the same altitude, flying the same length apart for what looked like the whole city .Later that night about 9:15 p.m. I was returning home from dropping off my friend, driving east on N.W. 30th street crossing N. Rockwell and saw what looked like a fighter jet parallel with N.W. 30th  flying directly west it was very low. And had very bright lights((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66963.html](http://www.nuforc.org/webreports/reports/066/S66963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
