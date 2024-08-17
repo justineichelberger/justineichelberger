@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:40 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright round object seen flying south  underneath path of airplaine.I was standing outside of my house near downtown Las Vegas and I seen a bright round object flying south at about cloud level.  There were no flashing lights or anything that resembled a "normal" aircraft. An airplane was flying westward at the time.  Object appeared to be moving about three times faster than the airplane.  Watched the object until it disappeared in the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83539.html](http://www.nuforc.org/webreports/reports/083/S83539.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kennett square (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Color changing, circular glowing light spotted, turning on and off as it panned over the sky.Just above the clouds there was a circular light glowing in different colors for at least 15 minutes. The light would change color slowly, evenly transition from blue to purple, purple to red, etc. and it would randomly switch colors immediately, like instantly switch to pink or something. Several times it shut off all together and turned back on after a few moments. It almost looks as though something was angular in the clouds, However it was so cloudy I could only make out likes a couple times. It also appeared to shift quite a few times, moving but not dramatically far or fast, just like pacing around in various directions. I have 2 videos but don’t know where to send them!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164367.html](http://www.nuforc.org/webreports/reports/164/S164367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
