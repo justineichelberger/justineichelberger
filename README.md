@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Secret rocket launch in southern Florida, tonight?I went outside to smoke a cig around 21:00, and saw a bright object on fire.  I called my friends outside, and a second object appeared.  We watched both objects for about 35 seconds, as they headed up and out of site in a slight arch.  Looked like a rocket and booster.  Searched Internet for any Rocket Launches tonight in Florida….nothing.   Secret launch from Southern Florida?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135765.html](http://www.nuforc.org/webreports/reports/135/S135765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mabton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>sound less bright lightbright light flying by slow and low going from west to east then took off straight up like a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101289.html](http://www.nuforc.org/webreports/reports/101/S101289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
