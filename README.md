@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>while waiting for pizza object spotted in sky lasted about 6 min.At 8:00p.m. on the 17th I saw a string of  lights strobe  just to the southeast. At first I thought a plane, but I was startled enough to call my friend outside to see and he told me what I feared , that it was a ufo. The craft was hovering and slowly moving south , toward the airport. From my point of view I could see the red lights of a water tower stand still as this object moved in the background, from one side of it to the other, like it was moving further and further away the whole time strobing the length of the craft sort of giving it a shape it happened this way until about 8:08p.m. when it moved out of sight.About 25 min. later I saw two planes flying in formation which is weird because I never see that sort of thing, except for at an air  show, or on T.V. and the thing about those planes that caught my eye was that they strobed at the same time and stayed at the same altitude, flying the same length apart for what looked like the whole city .Later that night about 9:15 p.m. I was returning home from dropping off my friend, driving east on N.W. 30th street crossing N. Rockwell and saw what looked like a fighter jet parallel with N.W. 30th  flying directly west it was very low. And had very bright lights((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66963.html](http://www.nuforc.org/webreports/reports/066/S66963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Saskatoon (Canada) (SK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ufo spotted over SaskatoonA friend and I were sitting outside his house in the most northern community in Saskatoon. My friend looked up into the sky, and his jaw dropped.  I turned around and looked up to see what he was looking at.  I could clearly see the black silhouette of a saucer against the orange glow of the night sky.  It was a slightly cloudy night which, sometimes caused the sky to be orange at night rather than black.  Anyways, this disk had 3 flashing lights on the bottom, but each time one of the lights flashed the light was a different color.  The Disc also appeared to be flying fairly low, being that we saw it against the clouds from below supports this.  The really strange thing is that neither of us heard a thing, not the whine of a jet engine, or pulsing of a helicopter rotor, so it definately was not a plane or a helicopter.  My friend and I couldn't help but watch as this object silently flew out of site in a matter of minutes, and being in Saskatchewan it had to go a long way before it is out of site.  Neither of us had ever seen anything like it before, but this incident has opened our eyes, and we are now constatly glancing up at the sky for another glimpse.  Now I am not sure if this is the absolutely correct date, i know it was a sunday night during mid-late august.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37969.html](http://www.nuforc.org/webreports/reports/037/S37969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
