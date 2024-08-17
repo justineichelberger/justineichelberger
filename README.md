@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mabton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>sound less bright lightbright light flying by slow and low going from west to east then took off straight up like a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101289.html](http://www.nuforc.org/webreports/reports/101/S101289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Corunna (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 crimson red spheres of beauty ..I was standing outside on my front porch.  It was a perfect night to see the stars. I was went outside to have a cigarette.  All of a sudden a huge red sphere with a orange outside came from directly out of the north in a straight line.  It looked like it came from above Lake Huron.  Anyways it was the most beautiful red I have ever seen!! It flew in a straight line from North to south.  It then make a 90 degree turn and headed east in a straight line.  It then made another 90 degree turn straight upward and went straight up and went right out of site.  It climbed right up and out of site.  Now behind it were 2 others which did the same thing and were the same size.  It was absolutely breathtaking!!((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105057.html](http://www.nuforc.org/webreports/reports/105/S105057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
