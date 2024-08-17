@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:35 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>zoomed camera on light and filmed did not look light a plane no sound no blinking lightsI saw it moving slowly over trees in the distance.  There was no blinking lights.  I filmed it and took a few studio pictures with my studio lets me take pictures.  I don't want to send the video it was taking with my cellphone was not the great of footage.  Light moved slow left to right over trees in the distance.  It had no blinking lights like all the other planes in the sky knowing I am miles away from Midway Airport.  It happened around 5:24am knowing it's a good chance to tape the stuff as the sun is starting to come up I went outside and then ended up right away seeing this.  The ending of the video was the best because 4 minutes later it even gotton lighter outside and was the closest I have filmed of the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77401.html](http://www.nuforc.org/webreports/reports/077/S77401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red/Raspberry Pulsating Orb Travelling in Straight Line from E to WEvent time: appoximately 8:55pm EST on 8/17/2013  Location: I was sitting on my outside screened-in patio cooking burgers on our grill  Observation:  I noticed the peculiar colored and flashing object as it was passing over me.First thoughts: I looked for the tell-tale signs of airplane lights, but there were no wing lights, gear lights or any typical airplane lights whatsoever.  Being a trained pilot, I knew this was not a blimp or airplane.  I knew within seconds that this was something different, and ran outside my patio to take some pictures.Description:  The UFO was a spherical/elliptal shape of flashing pulsating reddish/raspberry light.  There was no pattern to the flashing, and seemed random.  It was moving slowly from East to West, perhaps SE to NW, or thereabouts.  An airliner passed above it, coming from MCO... typically airliners at this point are probably 8000-10000 feet up, and seemed to cross its path, so it was lower than that, and would estimate it was around 3000-5000'.Feelings:  Excitement.  I have only seen 1 other UFO several years ago, and was excited to see another one.  I immediately ran outside my screen to take some zoomed in pictures on my cellphone before it disappeared…  I was able to get 3 in, as it traveled to the W/NW.  I tried to get my family out after taking these pictures, but in the time it took for them to get out, the object had already disappeared completely into the distance.Lost sight:  I lost sight of the object as i was trying to get my family to join me in seeing this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101279.html](http://www.nuforc.org/webreports/reports/101/S101279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
