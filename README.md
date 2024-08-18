@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>i saw a trainguler shape in the sky with light on every corner. Lights like blue, red, yellow, green, all flashing at random times. the craft was moving at a good consistant speed. Then at of know where it disappeared.((NUFORC Note:  Source is anonymous.  We presume the witness means a nighttime sighting.  PD))((NUFORC Note:  Several similar reports for the evening on this date.  We suspect the objects may be the three satellites that have been reported to NUFORC on many occasions, and which we believe are part of the U. S. Navy N.O.S.S. satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19939.html](http://www.nuforc.org/webreports/reports/019/S19939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sumrall (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>star like object making circular and zigzag pattrens almost like its searching for somethingLooks like a star in the sky , it has a ocasional aura around it , it flickers bright and dim makes circular motion and a zig zag motion.  Dims out when a comercial plane flys in view.  it moves what seems like 5 feet across the sky , then comes back.  This is the third night this week we have seen this and have watched for 3 and half hours.it seems to change colors and will dim almost out then come back bright.((NUFORC Note:  Twinkling star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83269.html](http://www.nuforc.org/webreports/reports/083/S83269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
