@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake George (just north of) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>i was driving norht bound on the nys northway,i came over a hill into a valley where just west of the north way i oberved 2 aircraft in the air,running north to south, there were no navigation lights,and i rolled down my window to hear chopper thump, nothing,..........the lower forward one was about 700 ft in the air,the other trailed behind maybe 100 yds and 150 ft above it, there were no wings, no noise, no rotors, there color was that of a sodium vapor orange lightbulb, like a streetlight,but seemed to have a molton gold in with it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101336.html](http://www.nuforc.org/webreports/reports/101/S101336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>One orange light split into two lights over the ocean .The observers are 2 female ages, 22 and 24. We were sitting on the beach looking over the ocean. Somewhere between 2-4 miles out over the ocean at about low cloud level; we saw a light. The light started as one point in the sky and immediately split into two lights. They went horizontally away from eachother. The light that went to the right faded first. Immediately after the light to the left faded in the same fashion. The lights that we saw were an orange color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24574.html](http://www.nuforc.org/webreports/reports/024/S24574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
