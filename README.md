@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:29 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hewitt (VT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>White Cigar Shaped UFO Caught on Wildlife CameraThis was sent to me by a friend of ours. She is a retired school teacher and has high integrity.  These are still shots from a wildlife camera that had turned over in their yard and was pointing to the sky.  It was very interesting to me and it does not appear to be insects or aircraft that were flying around or over.  I am a retired Texas State Trooper and a private pilot.((NUFORC Note:  I exchanged e-mail with the source of this report, expressing my opinion that the objects probably were insects.  However, I cannot be certain that is what they are.  However, the objects do not look like alien craft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148831.html](http://www.nuforc.org/webreports/reports/148/S148831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Los Lunas (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A Sliver circular object was observed at a very high  altitude over Los Lunas, New Mexico. Until obstructed by clouds.Mid day very high over Los Lunas.  Sliver in appearance,  The object was stationary for a long period of time.  The object was observed  by myself and wife over a 20 minute time frame.  A cell phone picture was taken, however, distance is to far for identification.  The background was  sky blue with several scattered clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142826.html](http://www.nuforc.org/webreports/reports/142/S142826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
