@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gold Coast (Australia) () reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Green light sharp turn super fast.Green flashing light moving straight at normal looking speed then changing direction sharply and instantly an boosting away fast like nothing iv ever seen.  I’m actually shaking rite now I have no doubt what iv seen is like nothing from this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142774.html](http://www.nuforc.org/webreports/reports/142/S142774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Looking out at the stars son and I noticed red craft come on like a beacon go off about six times then it did this with several times coming back in various spots facing the ocean from Baldwin county kiva dune area south west locations then seen multiple craft at various spots come on like lights all around them then they went off several times through out evening we did.  Hear military craft but I have seen puff in combat this wasn’t it.  It wasn’t flares and it went on and off then the final time they all went off together leaving us befuddled</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158719.html](http://www.nuforc.org/webreports/reports/158/S158719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
