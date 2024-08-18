@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Keizer (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Watched 3 lights in a triangle formation travel slowly and silently west to east across the night sky.Some time between 11:15PM and 11:30PM Saturday night, August 18th, my sister noticed that a few of the stars overhead were moving.  We had been relaxing on the backyard deck, watching shooting stars along with my wife, father and father in law.  I couldn't think of any reason any of the "non-shooting" stars would be moving and asked her to point them out.  She did and said she was a little bit "freaked out."  There were 3 lights about the same apparent size and brightness as an average star.  They were moving in a triangle from west to east and seemed very high in the sky.  None of the lights were pointing in the direction of travel ; they seemed to be moving with what would be the bottom of a right triangle at the front.  They were traveling slightly slower than a satellite.  A satellite would be the closest thing I could think of to describe this phenomenon but I've never heard of satellites traveling in formation (perhaps they do?).  In retrospect I don't know if it was one object or three, it didn't strike me as a single object at the time.  Had we not been looking directly at the stars for some time we would definitely not have noticed them.  They were silent and if they had stopped, would have been blended in completely with the night sky.  Very unspectacular compared to the shooting stars we'd seen all night but very unnerving.  You had to watch them for a few moments to fully realize what you were seeing.  We watched them travel across the sky for 5 or 6 minutes and they disappeared behind the tree line.((NUFORC Note:  Several similar reports for the evening on this date.  We suspect the objects may be the three satellites that have been reported to NUFORC on many occasions, and which we believe are part of the U. S. Navy N.O.S.S. satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19272.html](http://www.nuforc.org/webreports/reports/019/S19272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gold Coast (Australia) () reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Green light sharp turn super fast.Green flashing light moving straight at normal looking speed then changing direction sharply and instantly an boosting away fast like nothing iv ever seen.  I’m actually shaking rite now I have no doubt what iv seen is like nothing from this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142774.html](http://www.nuforc.org/webreports/reports/142/S142774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
