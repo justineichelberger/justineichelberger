@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.5 - 3.5 minutes.</sub><blockquote><sub>fireball over Erie Pa. 8/18/12 duration, no more than 4 minutes.Observed fireball, traveling east to west/southwest in the sky over Erie, Pa.  It started at a low altitude out of our eastern sky and as it traveled toward Ohio, gained both altitude and speed as it traveled.  I don't think it took more than 3.5 to 4 minutes, for this to happen.  I watched it climb until it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91932.html](http://www.nuforc.org/webreports/reports/091/S91932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>8/14/19 5:00 am. Grants Pass, Oregon.  Bright star in North West.  Moved up, down, left and right.  Half circles.  Would stop after each movement.  Watched approximately half hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148263.html](http://www.nuforc.org/webreports/reports/148/S148263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
