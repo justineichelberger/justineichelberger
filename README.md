@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Aberdeen (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>There were three lights on the object. There was no sound from the craft.It was treetop high in its flight.the object tree top high.  It was triangular shaped, with three amber colored circular lights.  One light had each point of the triangle.  I noticed the object off to my right as I was driving east on Route 7, between route 543 and route 40.  The object was hovering, and there was no sound.  The color of the object was black.  The lights did not illuminate the object or the ground below.  I saw the object several times.  When I got to route 40 and looked back to see the object off to my right as I turned west on route 40 there was nothing to see, the object was gone. Thinking back it was similar in appearance to a stealth bomber.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41402.html](http://www.nuforc.org/webreports/reports/041/S41402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hewitt (VT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>White Cigar Shaped UFO Caught on Wildlife CameraThis was sent to me by a friend of ours. She is a retired school teacher and has high integrity.  These are still shots from a wildlife camera that had turned over in their yard and was pointing to the sky.  It was very interesting to me and it does not appear to be insects or aircraft that were flying around or over.  I am a retired Texas State Trooper and a private pilot.((NUFORC Note:  I exchanged e-mail with the source of this report, expressing my opinion that the objects probably were insects.  However, I cannot be certain that is what they are.  However, the objects do not look like alien craft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148831.html](http://www.nuforc.org/webreports/reports/148/S148831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
