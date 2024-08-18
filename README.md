@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:13 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green bright  ball falling from sky, Mesa, AZ.Driving and saw a soccer size green light, with light in back, fall from sky and disappeared.  Was really fast.((NUFORC Note:  We assume a nighttime sighting, and have amended the time above, to reflect that fact.  Witness elects to remain totally anonymous, and provides no contact information, so we are unable to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129367.html](http://www.nuforc.org/webreports/reports/129/S129367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in West Palm (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle shaped object with two green lights and one red light then it appeared to have three green and one red.  It moved side to side when an approaching airplane was spotted, and also seemed to go faster when an approaching smaller airplane was coming  This was observed for at least 10 minutes; much too big for a drone Have photos on phone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135822.html](http://www.nuforc.org/webreports/reports/135/S135822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
