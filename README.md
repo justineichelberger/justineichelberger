@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:47 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>green ball of light falling East of Issaquah.I was driving on I-90 (East bound- right before the first Issaquah exit)and saw a green light or lit-up green object appear suddenly and fall quickly and then disappear.  The edges of it were fuzzy- not crisp.  It looked to be past Tiger Mountain- maybe in the North Bend area.  It was over quick.  I think that the driver in front of me saw it as well, because he/she put his brakes on for a second right after it happened.((NUFORC Note:  One of two reports about the same incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38738.html](http://www.nuforc.org/webreports/reports/038/S38738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake George (just north of) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>i was driving norht bound on the nys northway,i came over a hill into a valley where just west of the north way i oberved 2 aircraft in the air,running north to south, there were no navigation lights,and i rolled down my window to hear chopper thump, nothing,..........the lower forward one was about 700 ft in the air,the other trailed behind maybe 100 yds and 150 ft above it, there were no wings, no noise, no rotors, there color was that of a sodium vapor orange lightbulb, like a streetlight,but seemed to have a molton gold in with it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101336.html](http://www.nuforc.org/webreports/reports/101/S101336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
