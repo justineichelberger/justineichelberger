@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Whitesboro (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A little glowing moving dot in the middle of the dayIt was very bright out. I looked up at the sky and I saw a glowing dot. It looked like a star but it was day so it couldn't have been a star. It was still at first then it started moving then stopped again. I ran inside to get a camera so i had proof but it was gone.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44041.html](http://www.nuforc.org/webreports/reports/044/S44041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Circular object in the sky above DenverTuesday August 18, 2009 04:04 am approx. Englewood Colorado   I was standing my on my front porch which faces north. I had gone out to have a cigarette and was looking at the sky listening to crickets. I saw an object in the sky approximately 80 degree angle from looking horizontally. I was almost staring straight up when I saw what at first what I thought it was an aircraft of some sort, but it was moving too fast to be an aircraft. Next I thought it was a meteorite slowly coming into and atmosphere moving west to east but as it cleared my position it made a hard angle like turn to the northward direction and disappeared behind the tree my neighbor has. There were no flashing lights on the object like aircraft would have. There was no sound emitted from the craft and I knew meteorites do not usually make hard left hand turns like this had done. This left me with a feeling like I had seen something quite unique and not of this world. I knew I should write this out so that I may save the utmost detail of the event. I also wanted to ha! ve it on record should someone else report something strange in the skies about Denver on this morning. I am available to contact should you have further questions about this event. Current time of this writing is 04:17 on the same day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71723.html](http://www.nuforc.org/webreports/reports/071/S71723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
