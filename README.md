@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:48 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Port Hope (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange Oval flame radiating in night sky started small got larger and closer, 3 min past no sound left high rate of speed NE 401Travelling eastbound on Jocelyn Street, Port Hope Ontario. Observed an Orange oval radiating object, originally small enough to look like a star or maybe Mars in the night sky.  The object began growing and radiating larger and appeared to come closer and lower to myself in my vehicle.  I observed other drivers look up at object and wonder what it was.  The object got smaller and then bigger hovering approximately 1000 feet over the 401, then took off in a northeast direction at a high rate of speed, getting smaller and disappered.  Only one object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91985.html](http://www.nuforc.org/webreports/reports/091/S91985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>i saw a trainguler shape in the sky with light on every corner. Lights like blue, red, yellow, green, all flashing at random times. the craft was moving at a good consistant speed. Then at of know where it disappeared.((NUFORC Note:  Source is anonymous.  We presume the witness means a nighttime sighting.  PD))((NUFORC Note:  Several similar reports for the evening on this date.  We suspect the objects may be the three satellites that have been reported to NUFORC on many occasions, and which we believe are part of the U. S. Navy N.O.S.S. satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19939.html](http://www.nuforc.org/webreports/reports/019/S19939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
