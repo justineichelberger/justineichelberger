@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two white objects flying twice the speed of other jet aircraft, following the flight path of a plane that had just flown over.I am a recently retired Engineering Standards Lead for a major aviation company.  On August 18, 2020, my wife and I were riding our bikes and took a break at approximately 3:15 PM.  We typically rest in a grassy area adjacent to a golf course about 3 miles from Lake Michigan, where we have a clear view of most of the sky.  We saw a couple commercial jet aircraft, and one that we watched heading east seemed to be a bit different from the usual aircraft we see.  Shortly after that plane flew over, we saw two white objects that appeared a bit oval in shape, flying east at about twice the speed of the other jet aircraft we observed.  The objects then varied their flight path and turned to the south east, where we lost track of them in some clouds.  We haven't been able to find any other info about the incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158801.html](http://www.nuforc.org/webreports/reports/158/S158801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Aberdeen (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>There were three lights on the object. There was no sound from the craft.It was treetop high in its flight.the object tree top high.  It was triangular shaped, with three amber colored circular lights.  One light had each point of the triangle.  I noticed the object off to my right as I was driving east on Route 7, between route 543 and route 40.  The object was hovering, and there was no sound.  The color of the object was black.  The lights did not illuminate the object or the ground below.  I saw the object several times.  When I got to route 40 and looked back to see the object off to my right as I turned west on route 40 there was nothing to see, the object was gone. Thinking back it was similar in appearance to a stealth bomber.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41402.html](http://www.nuforc.org/webreports/reports/041/S41402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
