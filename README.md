@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:29 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Los Lunas (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A Sliver circular object was observed at a very high  altitude over Los Lunas, New Mexico. Until obstructed by clouds.Mid day very high over Los Lunas.  Sliver in appearance,  The object was stationary for a long period of time.  The object was observed  by myself and wife over a 20 minute time frame.  A cell phone picture was taken, however, distance is to far for identification.  The background was  sky blue with several scattered clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142826.html](http://www.nuforc.org/webreports/reports/142/S142826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rock Hill (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Normal sightings at night are two or three. TONIGHT THERE ARE NINE!!I have been reporting over the past several months about my seeing "bright white objects that are strobing green and red lights in a counter-clockwise pattern."  Mostly, the numbers of objects seen in a single evening are two or three.  I have seen tonight NINE, repeat NINE, of these objects in my immediate vicinity. THIS IS THE FIRST TIME I HAVE WITNESSED THIS MANY OBJECTS [AS DESCRIBED ABOVE] IN ONE EVENING. These are NOT any known aircraft. These are totally stationary objects.  There is a nuclear power plant within 7 direct miles of my residence.  Other than that facility, there is nothing else of any interest in my area. We are a small bedroom community 22 miles south of Charlotte NC.  As I face due north in my backyard, FIVE objects are dispersed in the east and northeast quadrants.  A SIXTH is to my northwest (near the power plant), a SEVENTH AND EIGHTH are due west and the NINTH is to my southwest.  I live under the 'southern air traffic turn around' for Charlotte-Douglas Airport. To-date, not a single commercial aircraft has appeared to deviate away from the objects, even though most of the objects appear to be in or very near to the air traffic pattern. Also to-date, there has not been a single military aircraft come into this area to 'inspect or challenge' these objects.  My guess is that the presence of these objects is known to ATC and the government and these objects are being allowed to remain 'on station and unchallenged.'  What other rationale could there be?((NUFORC Note:  We suspect a hoax.  Nine sightings of GENUINE ufo's in one night is unlikely.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58810.html](http://www.nuforc.org/webreports/reports/058/S58810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
