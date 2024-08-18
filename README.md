@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 17 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Gabriel (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3  Goldish Orange crafts heading north moving very slow like a half a mile 2 months time, then 2 more appeared and then 2 more... crossing over a city nursury defently a hovercraft . The rear lights caught up with the front and made a path.  I got out of the car and noticed the rear ones but finally they all just disappeared out of the sky like nothing. They were low not helicopters because noone heard any sound...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101292.html](http://www.nuforc.org/webreports/reports/101/S101292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green bright  ball falling from sky, Mesa, AZ.Driving and saw a soccer size green light, with light in back, fall from sky and disappeared.  Was really fast.((NUFORC Note:  We assume a nighttime sighting, and have amended the time above, to reflect that fact.  Witness elects to remain totally anonymous, and provides no contact information, so we are unable to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129367.html](http://www.nuforc.org/webreports/reports/129/S129367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
