@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Walnut Creek (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large blue dome structure appearing during lightning storm and then disappearing in the next stroke.Early in the morning around 3:30 am August 16th, 2020 after seeing from our living room the lightning storm light up the sky outside behind us we go out onto our balcony to watch the storm.  As we exit onto the balcony we notice the clouds are making very strange geometric patterns and as the lighting storm continues and becomes upon us there is one short burst of light reminiscent of the Northern Lights immediately followed by another burst of the same color light that exposed this massive dome structure in which we could very clearly discern the edges of the craft and the height in which it reached into the sky.  My roommate and I were both immediately hit with this immense feeling of fear which made us not only brace but bring each other in closer.  The structure was not visible for longer than a strike of lightning would last and after it hit our neighbor came out onto their balcony but did not seem to notice us.  My girlfriend who also witnessed it didn’t feel the same sort of fear that my roommate and I experienced. She seemed to be completely unaffected by what she saw which makes us believe that my roommate and I were possibly abducted then placed back in what seems to be absolutely no time at all.  Which would also in our perspective explain as to why our neighbor did not acknowledge or notice us even know we had been talking rather loudly.  After the structure made it self apparent and then left we did not seem any further signs and in the next few minutes the geometric shapes in the clouds no longer seemed to be there.  None of us who saw the structure or spacecraft are alien deniers but we did our best to convince ourselves that what we saw was just an unusual lightning phenomenon but after a few hours and some reflecting we all came together and decided that what we saw could not have been an unusual lightning event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158651.html](http://www.nuforc.org/webreports/reports/158/S158651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lanesville (IN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two blue-green smokey streaks of light forming large boomerang shape shot across about 50 feet above the road. No sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71738.html](http://www.nuforc.org/webreports/reports/071/S71738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
