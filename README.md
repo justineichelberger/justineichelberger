@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake George (just north of) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>i was driving norht bound on the nys northway,i came over a hill into a valley where just west of the north way i oberved 2 aircraft in the air,running north to south, there were no navigation lights,and i rolled down my window to hear chopper thump, nothing,..........the lower forward one was about 700 ft in the air,the other trailed behind maybe 100 yds and 150 ft above it, there were no wings, no noise, no rotors, there color was that of a sodium vapor orange lightbulb, like a streetlight,but seemed to have a molton gold in with it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101336.html](http://www.nuforc.org/webreports/reports/101/S101336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Whitesboro (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A little glowing moving dot in the middle of the dayIt was very bright out. I looked up at the sky and I saw a glowing dot. It looked like a star but it was day so it couldn't have been a star. It was still at first then it started moving then stopped again. I ran inside to get a camera so i had proof but it was gone.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44041.html](http://www.nuforc.org/webreports/reports/044/S44041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
