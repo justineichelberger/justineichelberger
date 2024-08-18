@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Looking out at the stars son and I noticed red craft come on like a beacon go off about six times then it did this with several times coming back in various spots facing the ocean from Baldwin county kiva dune area south west locations then seen multiple craft at various spots come on like lights all around them then they went off several times through out evening we did.  Hear military craft but I have seen puff in combat this wasn’t it.  It wasn’t flares and it went on and off then the final time they all went off together leaving us befuddled</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158719.html](http://www.nuforc.org/webreports/reports/158/S158719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two white objects flying twice the speed of other jet aircraft, following the flight path of a plane that had just flown over.I am a recently retired Engineering Standards Lead for a major aviation company.  On August 18, 2020, my wife and I were riding our bikes and took a break at approximately 3:15 PM.  We typically rest in a grassy area adjacent to a golf course about 3 miles from Lake Michigan, where we have a clear view of most of the sky.  We saw a couple commercial jet aircraft, and one that we watched heading east seemed to be a bit different from the usual aircraft we see.  Shortly after that plane flew over, we saw two white objects that appeared a bit oval in shape, flying east at about twice the speed of the other jet aircraft we observed.  The objects then varied their flight path and turned to the south east, where we lost track of them in some clouds.  We haven't been able to find any other info about the incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158801.html](http://www.nuforc.org/webreports/reports/158/S158801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
