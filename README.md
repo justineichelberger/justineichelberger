@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Weird Lights FollowingI was sitting outside around sunset this evening, and I noticed first a bright light in the sky as if it was a plane. But something was strange with this plane, It was traveling extremely high up in the sky, and at first I thought it was a plane, but what plane could travel that high in the sky and that fast?  Then, after i saw the initial light, a second just as bright light was following maybe 10 kilometers away from the first...Moving at the same speed! I ran inside to get the camera, and by that time the two lights which were traveling North to South had passed.Everyone I was with were in shock, and we have no idea what to think about this. Stars would not be flying so close to each other at the same speed and the chances of seeing 2 shooting stars following each other could be hardly possible. There were no tails on these lights, and they did not lose brightness intensity at all.Please if you could email me back it would be greatly appreciated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58272.html](http://www.nuforc.org/webreports/reports/058/S58272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lanesboro (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At 3:10 PM DST, I was sitting in my backyard reading, when I heard a very high pitched crackling sound (a zing-g-g-g ?) overhead.  It was loud enough that my wife and sister-in-law heard it from the living room.  Within a second or two following the event, another sound came.  It was similar in effect to the sound of an acorn falling and hitting a leaf, yet sharper.  It dislodged several leaves which fluttered to the ground from my right to my left.  There was no breeze or wind.  Everything was quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135788.html](http://www.nuforc.org/webreports/reports/135/S135788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
