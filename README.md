@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baker City (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball, space debris, or unknown object .I originally noticed a flash in my peripheral vision on the right as I was heading east on Washington Street at 12:50 AM.  I consulted a cell phone for the exact time. Immediately following the original flash,which caught my attention, I looked to the SW and noticed an extremely bright fireball slowly coursing the sky towards the south.  As I watched, orange sparks and chunks appeared to fall away from the main train.  The train stayed a constant length until the object disappeared behind the low hills to the south.  When it reached this point, a brilliant flash appeared, lighting the southern sky, the way it does when a lightning strike occurs some distance away, on a locally clear night.  This was different than anything I've witnessed before, and as I've enjoyed astronomy for years, I have witnessed many things in the night sky.  It was brighter and bigger, with a longer and more solid looking train, than any other meteor I've previously seen.  The train did not! smoke, but was rather a solid sheet of light, as bright as sunlight on chrome, following behind the object or fireball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83293.html](http://www.nuforc.org/webreports/reports/083/S83293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Weird Lights FollowingI was sitting outside around sunset this evening, and I noticed first a bright light in the sky as if it was a plane. But something was strange with this plane, It was traveling extremely high up in the sky, and at first I thought it was a plane, but what plane could travel that high in the sky and that fast?  Then, after i saw the initial light, a second just as bright light was following maybe 10 kilometers away from the first...Moving at the same speed! I ran inside to get the camera, and by that time the two lights which were traveling North to South had passed.Everyone I was with were in shock, and we have no idea what to think about this. Stars would not be flying so close to each other at the same speed and the chances of seeing 2 shooting stars following each other could be hardly possible. There were no tails on these lights, and they did not lose brightness intensity at all.Please if you could email me back it would be greatly appreciated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58272.html](http://www.nuforc.org/webreports/reports/058/S58272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
