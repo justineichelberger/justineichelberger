@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Concord (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A green fireball streaked down through the sky at a steep angle and disappearedI was driving north on Interstate 1-85 near exit 58.  Maybe 1 quarter mile from the exit,I saw a green oval object, glowing as if on fire - move from high in the sky on a downwards diagonal path - then then disappear before reaching ground level.  The object looked roughly oval, it was not round, but it did seem to have a firey glow around it.  Granted it was a foggy night - but the green light was not sharp and defined - the glow may have been due to the mist/fog in the air.I was nearing a commercial shopping area near the highway exit, and it looked as though the object would head right down into the shopping center area - but instead before it reached what would be ground level it disappeared in the fog.There is no airport at this exit, and the path was steep - it descended on a 45 degree angle.  That is, it did NOT move on an even path as an passing plan would, and it was too steep for any aircraft to descend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101330.html](http://www.nuforc.org/webreports/reports/101/S101330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Saugerties (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>The object the sky was very bright and only remained there for a few short secondsOn the night of August 19th, I witness a light from the sky.  This light was very bright and I seemed to be very circular.  The light was pure white on the outer parts of it and appeared blue in the middle. And as soon as the object appeared it vanished in the sky.  When I saw the object I was on my way home from the Kingston Movie Theater. My friend was driving me home, and the light just appeared in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77400.html](http://www.nuforc.org/webreports/reports/077/S77400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
