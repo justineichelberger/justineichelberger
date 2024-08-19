@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rochester (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed object hovering at low altitude, spinning,and changing colors. in S.W. evening sky.I viewed this light low in the S.W sky.  Approx. @9:02pm. The circular light appeared to spin and produce yellow,blue green light.  Only one light was viewed. I was able to drive close to its location in Oakville,Wa. 8 miles away to obtain a closer view.  The object hovered in the air at approximately 1000 ft.altitude.  And also moved slowly toward the western horizon until too far away to see detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101387.html](http://www.nuforc.org/webreports/reports/101/S101387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Roxbury (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright white light no blinking lights no soundSitting on back porch at 9:00 pm and saw a bright light moving slowly going south east flying low about normal plane hieght about 1minute after take off.  There was only one light very white and bright, no blinking lights. We noticed as it was getting closer this object was not making any noise at all even when it was directly over us.  As we watched this object go by, I would say about one minute after it flew over the bright light started to dim and then eventually disappear into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112660.html](http://www.nuforc.org/webreports/reports/112/S112660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
