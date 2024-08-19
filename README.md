@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oakdale (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Flash of white light, followed by other flashes not following a pattern or straight pathSecond night we have seen this, a bright flash high up, then we follow the "craft" as it has other flashes, no specific pattern to the flashes.  Also does not follow a straight path.  All flashes we see are white in color, some bright some dull.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135794.html](http://www.nuforc.org/webreports/reports/135/S135794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i looked up an saw 3.i was getting ready for my birthday party.  it was still day light outside.  3 of my friends had jus arrived.  my brother was starting the grill.  i started putting up some decorations in the tree.  i looked up and there i saw 3 dots in the sky.  i yelled at my friends and brother down below to look up.  the dots got bigger and then smaller.  one started moving east twords the mountains near my house.  another followed.  the last one stayed there moving in circles.  it did that for about 15 minutes then followed after the other 2 in the same direction.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29072.html](http://www.nuforc.org/webreports/reports/029/S29072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
