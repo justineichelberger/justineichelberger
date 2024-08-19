@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:50 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>White high-altitude object suspended over Twin Cities and witnessed for 12 hoursOn the 19th of August, I witnessed a round white object over the Twin Cities (Minneapolis-St. Paul) area around 18:00.  The earliest reports I heard were 9am in the morning and it was there until dark.I personally did not hear about it until around 6pm in the evening when a small blurb was mentioned on the radio. The object drifted slowly but not very far while under my observations and exhibited no unusual characteristics that one would expect if this were a high-altitude research balloon. The meteorologists from the local TV stations said that it was above the cirrus clouds indicating an altitude greater than 30,000.  This would make the object VERY big indeed. A local person with a high-powered telescope viewing it said it did indeed look like a balloon. Perhaps that would satisfy most people's questions, but how does an untethered balloon stay in basically the same position for at LEAST 12 hours in a row?  Especially in the Midwest where fronts are blowing through every few days?  Perhaps it was the center of a very slow moving low pressure system?  Officially, NO ONE has claimed ownership for the object and there has been NO official explaination. Here are some links to various local TV stations that covered (briefly) the event:  http://wcco.com/localnews/local_story_232202348.html http://www.startribune.com/stories/462/4938203.html http://www.kstptv5.com/article/stories/s1972.html http://www.coasttocoastam.com/shows/2004/08/20.html#ufo http://www.visi.com/~rschwa/arspix/IMG_2068.JPG  Here is a photo that I took, although it was almost dark by the time I got home to get my camera.  It is completely unedited and shot with a CoolPix 990 digital camera... http://www.bombardiersoftware.com/MPLSUFO.html  Please feel free to email me if you have further questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38907.html](http://www.nuforc.org/webreports/reports/038/S38907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Commack (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>	Yellowish/orange sphereAt approximately 9:00 PM EST I was watching TV when I noticed a light out my window. It seemed to be moving North to South.I proceeded to go to my deck which was on the South side of my house.Right behind it was another one.2 flames diamond shaped approximately 1/16 size of the moon.Moving slow  Very bright seemed to be a flame. Diamond shaped  At first I thought it was a hot air balloon.But it wasn't.They both stopped and one went straight up and the other one followed.The whole episode took about 4 minutes.I live in Suffolk County Long Island NY.They were low.Seemed to be less than 2000 feet at first.((ADDENDUM FROM ORIGINAL WITNESS))This is rob from previous report.  There were calm winds and broken clouds 14000 feet.((END ADDENDUM))((NUFORC Note:  Winds and ceiling checked with either National Weather Service, or with FAA Flight Service Station.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91970.html](http://www.nuforc.org/webreports/reports/091/S91970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
