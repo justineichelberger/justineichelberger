@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pulsano, Taranto (Italy) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>i'm italian.excuse for my bad english.at 21.40, during the dinner, I see a fireball in the sky.we were 5 witnesses, me, my girlfriend her parents and her syster.they fly very slow, and no noise in the sky.for 10 second.then he go away, with no noise and very faster.it's too slow to be a meteor, and too big to be an airplane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24737.html](http://www.nuforc.org/webreports/reports/024/S24737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hubbardsville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>we were camping. It was the full moon. almost 100% cloud cover. Only saw the full moon briefly through a patch in the clouds. Saw object to the north east of the sky over the hills. Was bright orange glowing. Object started making very fast manuvers at high speeds. 90 degree jolts. it would go up, then over. NOT AN AIRCRFT. i have seen them before. This was the 1st time since Oct 2004, i saw them in rochester, NY. the object cam towards us and was over us in a matter of seconds. travelled approx. 2 miles to right above us in seconds. Then turned and disapeared. You couldnt see anything in the sky because of the clouds. this was low. amazing. hope this helps  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46598.html](http://www.nuforc.org/webreports/reports/046/S46598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
