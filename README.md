@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A glowing white orb appeared in the sky at the southeast apex and moving in the southeast direction.  It was about 1/8 the size of the moon, and there was no streaking.  The orb traveled steadily across the sky for about a mile, and then shot straight upwards, and disappeared.  It lasted for approximately 15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112643.html](http://www.nuforc.org/webreports/reports/112/S112643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Waltham (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>An extremely bright light that appeared to be a star but when viewed through binoculars, three distinct lights banded together.:  I awoke at approximately 3:40 AM to use the bathroom. Our bed is right in front of two windows which are diagonal to Main Street and more specifically a Church with a tall white steeple. I have been an avid star gazer since I was a teen and am familiar with the constellations, north sky circle, and appearance of planets with in the zodiac band. Being fully awake, I lay looking out the window and noticed a REALLY bright star in the sky to the left of the church steeple. I then realized this was too far north to be a planet. I waited awhile thinking it could be a plane but after 5 minutes it hadn't move. I then woke up my husband and we got out our Canon Binoculars and what we saw gave us both wicked goosebumps! The easiest way to describe it is that it looked like a wedding ring - there was one bright white light in the middle with dimmer lights on each side. There was a definite distinctive dark band separating the lights. IT NEVER moved for the 25 minutes we watched it - we don't know how long it was there before 3:40 AM. During this time the light intensity varied. At 4:07 AM - it just got dimmer and dimmer and "went Out" - still having never moved in relation to the steeple. The weather was clear - other stars were visible. The sky was still dark - dawn had not set in at all.  I am a high school English Teacher and my husband is in the printing business but also an avid aviation buff.  Of the two, he would be the skeptic and even he was blown away by what we saw.((NUFORC Note:  We would like to know the direction the witnesses were looking.  The object might have been Venus in the eastern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19231.html](http://www.nuforc.org/webreports/reports/019/S19231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
