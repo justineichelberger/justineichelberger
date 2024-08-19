@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:03 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Willow Beach (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>silent orange lightslooked out my window at around 9:05 this evening to see if my daughter had pulled in the driveway when I noticed 2 orange lights moving slowly overhead.  There was absolutly no noise.  Thought maybe it was parachuters but not this time of night. Went on the deck and they disappeared over the trees next door.  Threw on my shoes and went into the driveway just to see another orange light passing over again, went out to road and followed it as it went south toward the golf coarse and it disappeared.  Told my neighbour about it hoping someone else in the area saw it as well so she could verify it with others that I wasn't crazy?!?!?!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91969.html](http://www.nuforc.org/webreports/reports/091/S91969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mulberry (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>silent aircraft or ufo that turned off lights and left only i red one onit was dark i was watching the sirius star then 20 min. before the sun was to raise first a red flashing light rasiedup from no were it had two white lights that were witnessed turn off leaving only one red constent light and what ever it was the color blended right in with the night sky and there was no sound what so ever coming from it.  It drove right over use and we counld not make out a shape never seen anything like it in my 23 years((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83279.html](http://www.nuforc.org/webreports/reports/083/S83279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
