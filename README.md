@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baker City (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball, space debris, or unknown object .I originally noticed a flash in my peripheral vision on the right as I was heading east on Washington Street at 12:50 AM.  I consulted a cell phone for the exact time. Immediately following the original flash,which caught my attention, I looked to the SW and noticed an extremely bright fireball slowly coursing the sky towards the south.  As I watched, orange sparks and chunks appeared to fall away from the main train.  The train stayed a constant length until the object disappeared behind the low hills to the south.  When it reached this point, a brilliant flash appeared, lighting the southern sky, the way it does when a lightning strike occurs some distance away, on a locally clear night.  This was different than anything I've witnessed before, and as I've enjoyed astronomy for years, I have witnessed many things in the night sky.  It was brighter and bigger, with a longer and more solid looking train, than any other meteor I've previously seen.  The train did not! smoke, but was rather a solid sheet of light, as bright as sunlight on chrome, following behind the object or fireball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83293.html](http://www.nuforc.org/webreports/reports/083/S83293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rochester (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed object hovering at low altitude, spinning,and changing colors. in S.W. evening sky.I viewed this light low in the S.W sky.  Approx. @9:02pm. The circular light appeared to spin and produce yellow,blue green light.  Only one light was viewed. I was able to drive close to its location in Oakville,Wa. 8 miles away to obtain a closer view.  The object hovered in the air at approximately 1000 ft.altitude.  And also moved slowly toward the western horizon until too far away to see detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101387.html](http://www.nuforc.org/webreports/reports/101/S101387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
