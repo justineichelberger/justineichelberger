@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 18 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lilly (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>very large square object with bright orange lights in a Z shaped pattern observed by 8 people for a hour.I arrived home and when I got out of my truck I noticed that across the field just above the tree line were these unusal mass of bright orange lights.  My four sons were there with me and I said what in the world is that.  Nobody had an idea.  The light were in a Z-shaped pattern, the best we could tell the craft was a very large square shape there was three set of lights on each side each set of light were in a Z shape pattern.  There was no engine noise or any other noise for that matter.  The lights remained in the same position just above the tree line in the distance and then it slowly lower down out of sight behindthe trees.  You could see a bright glow of orange and then after a few minutes it slowly rose back above the tree line. Ttwo of my boys got pictures and video footage.  After about 30 minutes another craft with similar orange lights appeared a lot higher up in the sky.  It wasn't as bright but it was alsoa lot further away.  The first craft continued to ! raise and lower in what appeared to be the same area for about another 20 minutes and then both craft just simply seemed to turn off the lights.  There was no noise of departure the lights just went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112930.html](http://www.nuforc.org/webreports/reports/112/S112930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Willow Beach (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>silent orange lightslooked out my window at around 9:05 this evening to see if my daughter had pulled in the driveway when I noticed 2 orange lights moving slowly overhead.  There was absolutly no noise.  Thought maybe it was parachuters but not this time of night. Went on the deck and they disappeared over the trees next door.  Threw on my shoes and went into the driveway just to see another orange light passing over again, went out to road and followed it as it went south toward the golf coarse and it disappeared.  Told my neighbour about it hoping someone else in the area saw it as well so she could verify it with others that I wasn't crazy?!?!?!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91969.html](http://www.nuforc.org/webreports/reports/091/S91969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
