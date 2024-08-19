@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Saugerties (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>The object the sky was very bright and only remained there for a few short secondsOn the night of August 19th, I witness a light from the sky.  This light was very bright and I seemed to be very circular.  The light was pure white on the outer parts of it and appeared blue in the middle. And as soon as the object appeared it vanished in the sky.  When I saw the object I was on my way home from the Kingston Movie Theater. My friend was driving me home, and the light just appeared in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77400.html](http://www.nuforc.org/webreports/reports/077/S77400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A glowing white orb appeared in the sky at the southeast apex and moving in the southeast direction.  It was about 1/8 the size of the moon, and there was no streaking.  The orb traveled steadily across the sky for about a mile, and then shot straight upwards, and disappeared.  It lasted for approximately 15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112643.html](http://www.nuforc.org/webreports/reports/112/S112643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
