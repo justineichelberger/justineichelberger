@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:13 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i looked up an saw 3.i was getting ready for my birthday party.  it was still day light outside.  3 of my friends had jus arrived.  my brother was starting the grill.  i started putting up some decorations in the tree.  i looked up and there i saw 3 dots in the sky.  i yelled at my friends and brother down below to look up.  the dots got bigger and then smaller.  one started moving east twords the mountains near my house.  another followed.  the last one stayed there moving in circles.  it did that for about 15 minutes then followed after the other 2 in the same direction.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29072.html](http://www.nuforc.org/webreports/reports/029/S29072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Santa fe (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The night of August 19th 2021 around 3:00 in the morning I look towards the ski base Santa Fe New Mexico and I saw a ball of light in the sky couple minutes passed by and I saw it come down and meet with another one both of them swirled around and disappeared after about 2 minutes .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164404.html](http://www.nuforc.org/webreports/reports/164/S164404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
