@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:03 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:16:03 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mulberry (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>silent aircraft or ufo that turned off lights and left only i red one onit was dark i was watching the sirius star then 20 min. before the sun was to raise first a red flashing light rasiedup from no were it had two white lights that were witnessed turn off leaving only one red constent light and what ever it was the color blended right in with the night sky and there was no sound what so ever coming from it.  It drove right over use and we counld not make out a shape never seen anything like it in my 23 years((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83279.html](http://www.nuforc.org/webreports/reports/083/S83279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object Seen In FloridaWe were on our way to the HardRock Casino.  We parked on the top of the garage...the very top level.  We were about to get out of the car when we  looked up in the sky and at first I saw a light.  It was a clear night.  We noticed it was not a plane and it was not a star.  At first it was hovering in the air, then it became clear to see it was an object and it had a shape. It started to move left to right and back and forth for a few seconds...then it disappeared behind a cloud.  Then it came from behind the clound.  It was dark ...its shape was like a saucer.  I tried to reach in the back seat of the car to get the video camera, but as soon as I was about to press the record button...the object started to leave.  It was very visable until we got the camera out.  It seemed to fade away after I was about to get it on video.  Then it took off at an unblievable speed.  At that exact moment, it started to thunder and rain.  From the same cloud it disappeared behind, came a lightening.  It only rained for only about one minute.  Its rare for it to rain in Florida at that time of day.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58332.html](http://www.nuforc.org/webreports/reports/058/S58332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
