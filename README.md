@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Commack (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>	Yellowish/orange sphereAt approximately 9:00 PM EST I was watching TV when I noticed a light out my window. It seemed to be moving North to South.I proceeded to go to my deck which was on the South side of my house.Right behind it was another one.2 flames diamond shaped approximately 1/16 size of the moon.Moving slow  Very bright seemed to be a flame. Diamond shaped  At first I thought it was a hot air balloon.But it wasn't.They both stopped and one went straight up and the other one followed.The whole episode took about 4 minutes.I live in Suffolk County Long Island NY.They were low.Seemed to be less than 2000 feet at first.((ADDENDUM FROM ORIGINAL WITNESS))This is rob from previous report.  There were calm winds and broken clouds 14000 feet.((END ADDENDUM))((NUFORC Note:  Winds and ceiling checked with either National Weather Service, or with FAA Flight Service Station.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91970.html](http://www.nuforc.org/webreports/reports/091/S91970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pulsano, Taranto (Italy) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>i'm italian.excuse for my bad english.at 21.40, during the dinner, I see a fireball in the sky.we were 5 witnesses, me, my girlfriend her parents and her syster.they fly very slow, and no noise in the sky.for 10 second.then he go away, with no noise and very faster.it's too slow to be a meteor, and too big to be an airplane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24737.html](http://www.nuforc.org/webreports/reports/024/S24737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
