@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:03 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 19 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object Seen In FloridaWe were on our way to the HardRock Casino.  We parked on the top of the garage...the very top level.  We were about to get out of the car when we  looked up in the sky and at first I saw a light.  It was a clear night.  We noticed it was not a plane and it was not a star.  At first it was hovering in the air, then it became clear to see it was an object and it had a shape. It started to move left to right and back and forth for a few seconds...then it disappeared behind a cloud.  Then it came from behind the clound.  It was dark ...its shape was like a saucer.  I tried to reach in the back seat of the car to get the video camera, but as soon as I was about to press the record button...the object started to leave.  It was very visable until we got the camera out.  It seemed to fade away after I was about to get it on video.  Then it took off at an unblievable speed.  At that exact moment, it started to thunder and rain.  From the same cloud it disappeared behind, came a lightening.  It only rained for only about one minute.  Its rare for it to rain in Florida at that time of day.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58332.html](http://www.nuforc.org/webreports/reports/058/S58332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baker City (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball, space debris, or unknown object .I originally noticed a flash in my peripheral vision on the right as I was heading east on Washington Street at 12:50 AM.  I consulted a cell phone for the exact time. Immediately following the original flash,which caught my attention, I looked to the SW and noticed an extremely bright fireball slowly coursing the sky towards the south.  As I watched, orange sparks and chunks appeared to fall away from the main train.  The train stayed a constant length until the object disappeared behind the low hills to the south.  When it reached this point, a brilliant flash appeared, lighting the southern sky, the way it does when a lightning strike occurs some distance away, on a locally clear night.  This was different than anything I've witnessed before, and as I've enjoyed astronomy for years, I have witnessed many things in the night sky.  It was brighter and bigger, with a longer and more solid looking train, than any other meteor I've previously seen.  The train did not! smoke, but was rather a solid sheet of light, as bright as sunlight on chrome, following behind the object or fireball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83293.html](http://www.nuforc.org/webreports/reports/083/S83293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
