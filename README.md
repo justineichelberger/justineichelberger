@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:50 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laramie (WY) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>On August 29, 2008 my wife and I went for a day trip across snowy range road to Saratoga, WY, we had a 2006 red Sebring convertible car and made the day trip with the top down.  From Saratoga, WY we went North  to I-80, and then East back to Laramie, WY and this picture was taken at about mile marker 255 on I-80 going east and only to look at the wind generators and take picture of them.  Only upon downloading our pictures from the camera to the computer did we discover the round formations in the picture and we would like your opinions of what you think it might be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73950.html](http://www.nuforc.org/webreports/reports/073/S73950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Oceanside (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My girlfriend and I noticed a cresent shaped object over our house. The object would rise or fall slightly but for the most part remained stationary. We saw several airplanes fly underneath and around it. The object is still stationary and has been for over hour. We took amatuer video tape of the object. Both of us are in law enforcement and aren't the type to make any type of false report. We notified the FAA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13850.html](http://www.nuforc.org/webreports/reports/013/S13850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
