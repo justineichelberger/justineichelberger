@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Myself, and 3 friends decided to go to the cemetery at midnight, we were teenagers and thought it would be scary, as we were sitting at the top of a hill overlooking the cemetery, my boyfriend took my keys, trying to scare me more, I was wrestling with him in the front seat, when out of the corner of my left eye I saw a large shield shaped object hovering approximately 20 feet in front of my VW bug, I yelled at everyone to look, we were all literally frozen in fear.  I remember it like it was yesterday, it was fairly big, shaped like a shield and the brightest white I have ever seen.  it had no lights at all.  My boyfriend threw my keys at me, they landed on the floor.  I couldn't move,  I dont really know how much time went by,I remember clearly that the bright white of this craft started to fade lighter and lighter in color, at one point it looked like spilled milk hovering in front of us.  then it was just gone, it didnt fly away, it was just gone.  I grabbed my keys and backed out of that cemetery and left, the strange thing is the 3 people who saw this with me, we never discussed it again.  There was a famous women in Sandpoint who was could read your past and future, a year later, I went to see her,she still had one of those bubble TV sets,  on her tv was a program about UFO'S,  I was watching it while she was reading my palm.  Mrs ((woman's name deleted)) stopped and she said to me, you have seen a UFO.  I was shocked that she knew I had.  She then explained to me where they come from, the inner earth,not outer space.  I have never forgotten that night up close with a UFO and never will.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145696.html](http://www.nuforc.org/webreports/reports/145/S145696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three black saucer-shaped objects quickly take off from the woods.This event ocurred when I was a kid, and I'm unsure of the exact date.  I do know it was toward the end of summer vacation so it must've been in mid to late August.  I was riding my bike up the street with my friend to my house and just when we reached the edge of my driveway, my friend yelled "Look!" and he pointed to the sky ahead of us.  I saw three black or dark gray saucer-shaped objects rapidly flying up at a roughly 45-degree angle, one right after another.  They looked like they had come from an area of woods north of my house that is now a neighborhood.  They were moving so fast and quickly disappeared in the clouds.  My friend and I were stunned because they definitely weren't airplanes.  They made no sound that I could notice.  My dad was right there in the driveway washing his car.  I asked him if he saw the objects, but he was looking down at the time.  The weird thing is that I had deja vu right at that moment.  I remember having a dream before where I asked my dad "Did you see that?" while he was washing the car.  Probably just a coincidence.  This was during a summer when UFO sightings were quite common in the Anchorage area.  There was even something about it on the local news and in the newspaper.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37133.html](http://www.nuforc.org/webreports/reports/037/S37133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
