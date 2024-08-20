@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large triangular craft soundlessly moving slowly at low altitude in large metropolitan area.I live in a garden style condo. community of 173 units just outside of Wash. D.C. I awoke about 3:30am because I had to go to the bathroom but didn't get up immediately. As I lay there, I was on my left side facing a large double window a few feet away. As I lay there a large triangular craft passed over the roof of my unit passing over the roof of the the units directly across the courtyard from where I was and then I lost sight of it. I would estimate the altitude of this craft to be no more than five-hundred feet and it was traveling in a north-easterly direction. It was moving slowly and I estimated the speed to be in the neighborhood of thirty-five miles per hour, give or take. I didn't make any sound that I could detect. I would estimate the size of the craft to be about three-hundred feet on a side; maybe a little larger.Although this happened in the middle of the night, the sky does not get really dark here because of all the lighting in the area so I saw the craft fairly well. It appeared to be flat-black against the lighter sky and there were low intensity lights at the points of the triangle. There were no visible windows that I could see but I only had a view of the bottom of the craft. The best way I can describe the movement is that it appeared to just slide effortlessly across the sky rather than fly as would a conventional aircraft. I told one other person who lives in the community about the incident but I could tell I wasn't believed so I kept it to myself. I would have reported the incident to a Government agency but I know how that would go so I didn't bother. I can state that this craft did not depend on air moving over the surface to keep it airborne because it was traveling far too slow for that to be a factor. I can also state that whatever technology this craft possessed was far advanced to anything that I am aware that this country or any other country currently employs.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68642.html](http://www.nuforc.org/webreports/reports/068/S68642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ocean Isle Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>5 lights in the sky.One light appeared high in the sky, almost as a very close star and was orange/yellow in color.  Then, a second, third, forth and fifth light appeared.  Once the fifth light appeared, all the lights quickly disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112695.html](http://www.nuforc.org/webreports/reports/112/S112695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
