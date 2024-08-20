@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three black saucer-shaped objects quickly take off from the woods.This event ocurred when I was a kid, and I'm unsure of the exact date.  I do know it was toward the end of summer vacation so it must've been in mid to late August.  I was riding my bike up the street with my friend to my house and just when we reached the edge of my driveway, my friend yelled "Look!" and he pointed to the sky ahead of us.  I saw three black or dark gray saucer-shaped objects rapidly flying up at a roughly 45-degree angle, one right after another.  They looked like they had come from an area of woods north of my house that is now a neighborhood.  They were moving so fast and quickly disappeared in the clouds.  My friend and I were stunned because they definitely weren't airplanes.  They made no sound that I could notice.  My dad was right there in the driveway washing his car.  I asked him if he saw the objects, but he was looking down at the time.  The weird thing is that I had deja vu right at that moment.  I remember having a dream before where I asked my dad "Did you see that?" while he was washing the car.  Probably just a coincidence.  This was during a summer when UFO sightings were quite common in the Anchorage area.  There was even something about it on the local news and in the newspaper.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37133.html](http://www.nuforc.org/webreports/reports/037/S37133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Farmington (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Nebulous Teardrop shaped object which emitted a single flash.Driving East on Grand River Ave and noticed a flash in the sky. What I saw was a teardrop shaped mass flying north.  Speed unknown and height was at least hundreds of feet in the air.  The shape was not a plane.  Not sure if any blimps in the area.  The shape of the object was very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101311.html](http://www.nuforc.org/webreports/reports/101/S101311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
