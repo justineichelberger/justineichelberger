@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:26 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Brewster (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>a small red light on a disc that was about 3 feet in diameter quickly darting in my garden whirring faintly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33580.html](http://www.nuforc.org/webreports/reports/033/S33580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two different color orbs playing chase over denver & shortly after military aircraft shows up.The second witness and I were sitting on a trampoline in the back yard looking up at the sky and as a single small cloud passed overhead two balls of fire or orbs one bluish white and the other reddish orange came down under the cloud and then played chase over and under and threw the cloud emitting bright lights that could be seen threw the cloud even during the day, they played for no more than two or three minutes and shot straight up in the sky disappearing. No more that 5 minutes went buy and two F-18 jets came screaming out of the east directly threw the cloud where the balls of fire where just playing giving me the chilling Idea we were not the only ones who seen the flying orbs. My then girl friend ran in the house terrified & I fallowed feeling the same fascinating fear.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72663.html](http://www.nuforc.org/webreports/reports/072/S72663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
