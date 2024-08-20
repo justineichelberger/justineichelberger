@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:45 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Solid Non-Flashing LightWe looked up in the sky and saw a very bright solid (non-flashing) light flying silently across the sky. What could this be?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101310.html](http://www.nuforc.org/webreports/reports/101/S101310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bethel Island (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>a light in the sky moving fast and disapperingit was about 10 o'clock at night and i was having a smoke at the back of my property before going to bed (something i do often). i was almost finished when i notice something strange in the sky. a light in the shape of an orb appeared high in the sky (about a mile or so), as soon as it appeared it stayed in one place for a second or so and then spead off at a high rate of speed across the sky. when it moved it accelarated to top speed almost instantly and held the same rate of speed the whole duration of flight. i appeared in the west end of the sky and moved toward the south end, it flew paralle with the ground and toward the end made about a 20 degree angle up then blinked out. the duration of flight was also about 2 to 3 seconds and it left no trail or streek behind as a falling star would. it also flew perfectly straight lines with no arc and made the turn up at a sharp angle, the flight path on paper would look like a line bent upwards at the end. it also blinked out instantly, it did't fade out or dim at all. i often smoke outside at night and see falling stars (meteors) and satellites all the time, i also know the flight paths of all the air routes for planes in my area. it's the only ufo i've seen in this area or in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49792.html](http://www.nuforc.org/webreports/reports/049/S49792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
