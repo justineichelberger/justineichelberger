@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in American Fork (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Light Clusters Passing OverheadWhile sitting outside on the patio we noticed clusters of light passing us overhead.  They were in a V-Formation, like the way that birds travel.  However, the objects emit light independently.  The objects flew overhead individually as a single craft, but sometimes in pairs or even groups of three.  At one point two of these formations separated when an airplane passed it.  The objects also varied in size and the altitude at which they traveled.  Not sure what to make of it.  Upon research the lights resemble that of the “Lubbock Lights”.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148404.html](http://www.nuforc.org/webreports/reports/148/S148404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shafter (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a red object hovering in the sky on August 20, 2010, from 9:25 to 9:29 pm, south-southwest of Shafter, CA.  I hung around for a coA very large, silent, bright red object travelling from the north to the south.  It stopped to hover for about 1 minute before zipping away at a very high speed.((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77375.html](http://www.nuforc.org/webreports/reports/077/S77375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
