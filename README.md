@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Delta (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three spectacular sightings. Two diamond shaped formations (4 each) about 30 seconds or a minute apart. An hour later 8 discs flying side by side.Four bright white lights in a diamond formation appeared moving across the sky.  The light in the rear of the formation left the formation and began moving down towards the ground. The other 3 maintained their places in the formation and continued moving across the sky.  The light that left the formation and dropped close to the ground suddenly shot across the sky back to the other lights and began spinning rapidly around one of the lights in the formation then shot to another one spinning rapidly around it also.  30 sec. - 1 minute later another diamond-shaped formation appeared behind me and travelled across the sky in another direction.  About an hour later 8 white luminescent discs travelling side by side in a row appeared, moving in the opposite direction of the first group.  They were silent and moved along a wiggly path, not a straight line.  Again 1 or 2 left their place in the row and rapidly spun around other members of the group.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08523.html](http://www.nuforc.org/webreports/reports/008/S08523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in American Fork (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Light Clusters Passing OverheadWhile sitting outside on the patio we noticed clusters of light passing us overhead.  They were in a V-Formation, like the way that birds travel.  However, the objects emit light independently.  The objects flew overhead individually as a single craft, but sometimes in pairs or even groups of three.  At one point two of these formations separated when an airplane passed it.  The objects also varied in size and the altitude at which they traveled.  Not sure what to make of it.  Upon research the lights resemble that of the “Lubbock Lights”.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148404.html](http://www.nuforc.org/webreports/reports/148/S148404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
