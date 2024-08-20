@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Burlington (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Object appears, brightens then disappear in night sky.At approximitely 9:53pm, on the night of August 20, 2016, I went out back of my house to smoke a cigarette and looked up to the sky, as I always do.  As I looked I saw a dim light move across the sky, and at first I thought it was a satellite which I have seen numerous times.  As I continued to watch the object it suddenly became very bright as if a spotlight was turned on, only to dissapear into the sky as if it was never there.  The total sighting took around 15 seconds, while the brightest part before it disappeared lasted about 5 seconds.  The best description I can give on the location would be straight above the moon's current location and traveling in a horizontal direction.((NUFORC Note:  Possible Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129403.html](http://www.nuforc.org/webreports/reports/129/S129403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tiruvannamalai (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>light in the sky !dear sir/madam, I am an engg. student in bangalore. My parents stay in pondicherry. i keep shuttling bw bang. and pondy quite often. i usually take the night bus(8:30 PM). on one of my recent journeys to bangalore, on the way when the bus was passing through tiruvannamalai, i happen to see a quite-bright light in the night sky exactly above the hill( it was dark everywhere else).  the light was arched, in somewhat a circular shape and it was huge. i first thought it was some light coming from a big bulb-or-something situated on the hill. but as the fast-moving bus went a little further i could see some 4-5 people prostrating in the direction of the 'light in the sky'. i felt amazed ! i am really puzzled at what i saw !  i want to know the significance to the light which i saw. was it an artificial light or what? did anyone other than me see it? i wont accept if u tell me that it was some sort of imagination, because i really did see it with my eyes wide open !   i am not a very spiritual person , so blving that the light was natural , is a bit difficult for me. Looking forward for ur reply urs sincerely, ((name deleted))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31047.html](http://www.nuforc.org/webreports/reports/031/S31047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
