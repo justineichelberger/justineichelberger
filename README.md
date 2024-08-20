@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hannibal (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fire in the sky.Tuesday night I was heading north on Hwy 61 just past Hannibal, MO and I see fire hovering in the sky. Looking out my driver side window I got a great view of it for about 30 seconds. It was not moving and I thought it might be a Chinese lantern but it was not floating up, it just sat statinary and I did not see any balloon. I know others on the Hwy must have seen it and hope they will report it as well.  The fire looked a lot like a camp fire without the wood and appeared to be about 500 feet off the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101444.html](http://www.nuforc.org/webreports/reports/101/S101444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three bright red cylinders changing to very bright white lights before disappearing at high speedsInitially, there was a very loud low rumble that soon showed twin red balls moving very fast for several seconds before disappearing very suddenly in a northwesterly direction.  After about 5-10 minutes the sound returned and there was a red cylinder shaped object in the north.  Suddenly, the cylinder became a very bright light like a search light had been turned on.  This was answered by another brigh light in the south and another in the west.  These lights stayed on for 10-20 seconds in a stationary position and then suddenly all three became red balls moving very quickly and disappearing to the west.  After another 10-15 minutes the same red cylinder was observed very high in the sky moving from west to east and the white light appeared three more times but at a very high elevation.((NUFORC Note:  We received a telephoned report from this individual, and he seemed quite credible to us.  We have asked him to invite the other witnesses to submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38837.html](http://www.nuforc.org/webreports/reports/038/S38837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
