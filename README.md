@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:45 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:54 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bethel Island (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>a light in the sky moving fast and disapperingit was about 10 o'clock at night and i was having a smoke at the back of my property before going to bed (something i do often). i was almost finished when i notice something strange in the sky. a light in the shape of an orb appeared high in the sky (about a mile or so), as soon as it appeared it stayed in one place for a second or so and then spead off at a high rate of speed across the sky. when it moved it accelarated to top speed almost instantly and held the same rate of speed the whole duration of flight. i appeared in the west end of the sky and moved toward the south end, it flew paralle with the ground and toward the end made about a 20 degree angle up then blinked out. the duration of flight was also about 2 to 3 seconds and it left no trail or streek behind as a falling star would. it also flew perfectly straight lines with no arc and made the turn up at a sharp angle, the flight path on paper would look like a line bent upwards at the end. it also blinked out instantly, it did't fade out or dim at all. i often smoke outside at night and see falling stars (meteors) and satellites all the time, i also know the flight paths of all the air routes for planes in my area. it's the only ufo i've seen in this area or in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49792.html](http://www.nuforc.org/webreports/reports/049/S49792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fairfield (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Object traveling at immense speed, size and altitude of satellite, over Fairfield, CT (metro NY airspace)Observing stars, aircraft (landing at metro NY airports - and White Plains) and tracking satellites for many, many years, this is the FIRST time I was amazed at a completely unrecognizable sighting. It was DEFINITELY NOT a falling star as it did not lose altitude but swept across the night sky with a speed I have never seen.  It was the size of a satellite, to the observer of such, a came out of the south (from the direction of the NY airports), but at the height of a satellite) with great speed (also unlike tracking a satellite) headed north.  I followed the sighting for a few seconds until it was no longer visible then turned quickly toward the west and saw the same thing, for perhaps two seconds.  I am not sure that what I saw for a second heading west was also the same object but since I was keeping a careful eye in the sky was also able to catch that brief sighting.  The entire three or four second event (including three seconds from south to north and one or two in the west)was an object very high in the sky the size of satellite.  However, it was differentiated by the speed.I am an educated woman (Smith College graduate) who studied astronomy and has visited numerous observatories. I was taught by my Smith College astronomy professor to identify satellites from the Smith observatory on top of the science building. This event was unlike anything I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71778.html](http://www.nuforc.org/webreports/reports/071/S71778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
