@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Farmington (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Nebulous Teardrop shaped object which emitted a single flash.Driving East on Grand River Ave and noticed a flash in the sky. What I saw was a teardrop shaped mass flying north.  Speed unknown and height was at least hundreds of feet in the air.  The shape was not a plane.  Not sure if any blimps in the area.  The shape of the object was very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101311.html](http://www.nuforc.org/webreports/reports/101/S101311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Willow Spring (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>double lights/ no sound with a zig-zag motion over Willow Spring on 8/20/14Watched as two lights (one larger than the other) zigzagged from the northwest with no sound for around 45 seconds and then completely faded out.  Hard to say what altitude but I have many hours in the seat of a Cessna 172 and it is my guess that it was approximately 10,000 to 15,000 feet.  There was no sound from the craft and I couldn't see the shape at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112698.html](http://www.nuforc.org/webreports/reports/112/S112698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
