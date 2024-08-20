@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 20 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shafter (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a red object hovering in the sky on August 20, 2010, from 9:25 to 9:29 pm, south-southwest of Shafter, CA.  I hung around for a coA very large, silent, bright red object travelling from the north to the south.  It stopped to hover for about 1 minute before zipping away at a very high speed.((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77375.html](http://www.nuforc.org/webreports/reports/077/S77375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Media (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately still going on - still going on minutes.</sub><blockquote><sub>Coworkers and I witnessed at least 8 red and blue or red and green flickering shapes in formation in Media, PA at approximately 4:00.At approximately 4:00 some coworkers and I spotted what we thought was a police helicopter hovering with red and blue or red and green lights. Then we looked around where we sighted the first one initially and others began to appear. There were two that were above what we initially thought was a triangle formation. The two above the others were moving up and down but seemed to be stationed in the same location. All began to flicker and we witnessed one in particular move horizontally, flash then flicker out. We then witnessed three form a vertical line on the right side of the triangle formation. We were astounded because there appeared to be many more than we originally thought. We   got weirded out and left the area. Amazing spectacle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65311.html](http://www.nuforc.org/webreports/reports/065/S65311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
