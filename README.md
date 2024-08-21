@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tunnel Hill (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1m - 1m minutes.</sub><blockquote><sub>Two large unlit triangular objects passed overhead from horizon to horizon in about 30 seconds.Standing on my deck with all house lights off and no nearby street lights. One triangular unlit object passed overhead followed by another about 15 seconds later. They traveled from horizon to horizon going from north to south in about 15 seconds each. They appeared pitch black against a silvery dark sky and blacked out stars as they passed over. It was impossible to estimate distance, speed or size. The shape appeared to be approximately triangular with one of the points leading. I got the impression that they were fairly large and covered about 40 degrees of sky. There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83363.html](http://www.nuforc.org/webreports/reports/083/S83363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charlestown (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light orb over Charlestown lake ontarioLight on orb appeared .it meandered then stopped dead and made a 90 degree turn  Then it flashed and was gone.  We are all university graduates</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101499.html](http://www.nuforc.org/webreports/reports/101/S101499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
