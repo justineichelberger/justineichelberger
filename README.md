@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:51 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangular figure that was not registered in local air ops.I seen a triangular figure that was large and had what looked like navigation lights on the front of it.  At the time of the sighting, I contacted the local air operations and there was not any air craft identified in the area.  It was in the middle of a field and it faced towards the interstate and it took off going from 0 miles per hour to what looked like a super sonic speed.((NUFORC Note:  Date of sighting may be approximate, although the source does not indicate that fact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77521.html](http://www.nuforc.org/webreports/reports/077/S77521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright "star" appeared out of nowhere, maintained it's position for 3 seconds, and then "zoomed-out" of sightWas gazing up at the stars when this "white light" appeared. Looked like an extremely bright star. It maintained it's position for approximately 3 seconds, and then it "zoomed-out" of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52178.html](http://www.nuforc.org/webreports/reports/052/S52178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
