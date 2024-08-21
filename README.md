@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:52 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Knightsen (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Knightsen ca. Weird lights in the sky august 21st 2011I was in Knightsen waiting outside for my son and saw 2 big bright lights over Antioch area they came towards me and when they got closes I saw 3 triangle lights flying in perfect formation really high up in the sky and 3 bigger lights also flying in formation yet closer to the earth.  They flew over slow then one went sideways did a circle and got back in formation.  The three lights higher in TGE sky disappeared and the TGE brighter closer lights went in opposite direction the the lights went out.   It was kinds like military planes were following the lights that were higher up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83356.html](http://www.nuforc.org/webreports/reports/083/S83356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>We went out in back yard with dogs and my sister asked if I seen the red light?  I saw the red orb come over the tree in my back yard, I said that is the ufo again, I have seen them before.  This time there was just one and it was suddenly coming right up over us and we were both looking up at it.  Then the light went out and I could see the actual craft hovering there and it looked just like a flying saucer out of the movies.  We both watched it move east towards the High school and for another 20 sec. then it shot off. No noise no sounds, there was a low flying plane above it flying south.  Yes it was a very surreal experience. hard to grasp what you are seeing.  It is absolutely proof to me that something is out there checking on us but for what I do not know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158895.html](http://www.nuforc.org/webreports/reports/158/S158895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
