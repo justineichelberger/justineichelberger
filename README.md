@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Round O (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights over round o South Carolina.I was leaving for work I got to my truck and noticed 3 yellowish white lights in the distance. I thought it was three planes flying around each other well within 3 minutes the lights moved all the way to me and went from white to red.  They were moving in the same direction at the same speed.  Now I knew they weren’t planes because I didn’t see any blinking lights, and there was no noise as they flew.  Now three planes flying the same direction of each other you’re bound to hear some kinda noice from the engines.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142836.html](http://www.nuforc.org/webreports/reports/142/S142836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alton (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>15 objects over Alton IlAt 8:30pm saw 15 orange objects moving across the sky in groups.  They were slow then would dart across the sky and fade to nothing.  Then reappeared at random times and numbers.  All were the same size and moved in an erratic pattern forward and backwards moving south and north over western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101383.html](http://www.nuforc.org/webreports/reports/101/S101383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
