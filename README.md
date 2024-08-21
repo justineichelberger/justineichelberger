@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:20 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:51 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silvery sphere buzzes jet aircraft, suddenly stops and hoversAbout noon, I was on my balcony enjoying the sunny weather and clear cloudless skies when I heard a jet approaching off to the right. We are almost directly beneath a southeastern approach corridor to Vancouver International Airport. I looked up to watch the passing commercial passenger jet, which was heading northwest about a thousand feet or so above. I suddenly noticed a strange "light", which seemed to suddenly zip in front of the jet, before coming to a sudden stop. As it moved through the air, it left  what looked like a vapor trail that almost instantly disappeared. I thought that the movement seemed very strange, and continued to watch the light, but it did not seem to move, or only moved slightly, as the jet passed by. I believe that the jet was beneath the light when it passed it. My estimate is that if the object at the same or higher elevation than the jet, then it was probably traveling at a velocity of about one thousand miles per hour when I first noticed it, before coming to an instantaneous stop. I rushed inside to get my binoculars, and when I returned, the object was still there. I focused on it and discovered the object was actually shaped like an orb, although I seem to recall that it looked slightly flattened in the vertical dimension. It had a pronounced  metallic or pearly luster. The outer edges had a reddish color. The brighter, more reflective center seemed more like a silvery gold color. It was hard for me to guess at the height of the object, as I had no real reference point - other than the passing jet. I reasoned to myself that maybe it was a type of balloon, even if its initial movement did not seem to indicate this. The object did not seem to rise, as you would expect from a balloon. It did start to move, in a sort of random manner until it was finally hidden behind a nearby tree and I lost sight of it. I probably observed it for a period of about five minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15125.html](http://www.nuforc.org/webreports/reports/015/S15125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangular figure that was not registered in local air ops.I seen a triangular figure that was large and had what looked like navigation lights on the front of it.  At the time of the sighting, I contacted the local air operations and there was not any air craft identified in the area.  It was in the middle of a field and it faced towards the interstate and it took off going from 0 miles per hour to what looked like a super sonic speed.((NUFORC Note:  Date of sighting may be approximate, although the source does not indicate that fact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77521.html](http://www.nuforc.org/webreports/reports/077/S77521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
