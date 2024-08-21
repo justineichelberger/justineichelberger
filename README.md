@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:20 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dartmouth (Canada) (NS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangl shaped objectI was sitting in my backyard looking ito the night sky when I saw a triangular shaped object made up of three lights over head.  The lights on it were white like the stars but, all three lights were moving at the same speed and with no trail following them. From this I fell that the lights were one object It was moving with no sound and very fast.  As I called for others to come see it had moved behind a tree and never came out the other side.  Only momments after that there was three small aircraft  that slowly came over to the area that I had first seen the object.  They flew over the area for some time but I did not take notice of when they left.  There is an older airbase by my home and I am very use to aircraft in the night sky but the object that I saw was too fast to be any of the local aircraft that comes from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24610.html](http://www.nuforc.org/webreports/reports/024/S24610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silvery sphere buzzes jet aircraft, suddenly stops and hoversAbout noon, I was on my balcony enjoying the sunny weather and clear cloudless skies when I heard a jet approaching off to the right. We are almost directly beneath a southeastern approach corridor to Vancouver International Airport. I looked up to watch the passing commercial passenger jet, which was heading northwest about a thousand feet or so above. I suddenly noticed a strange "light", which seemed to suddenly zip in front of the jet, before coming to a sudden stop. As it moved through the air, it left  what looked like a vapor trail that almost instantly disappeared. I thought that the movement seemed very strange, and continued to watch the light, but it did not seem to move, or only moved slightly, as the jet passed by. I believe that the jet was beneath the light when it passed it. My estimate is that if the object at the same or higher elevation than the jet, then it was probably traveling at a velocity of about one thousand miles per hour when I first noticed it, before coming to an instantaneous stop. I rushed inside to get my binoculars, and when I returned, the object was still there. I focused on it and discovered the object was actually shaped like an orb, although I seem to recall that it looked slightly flattened in the vertical dimension. It had a pronounced  metallic or pearly luster. The outer edges had a reddish color. The brighter, more reflective center seemed more like a silvery gold color. It was hard for me to guess at the height of the object, as I had no real reference point - other than the passing jet. I reasoned to myself that maybe it was a type of balloon, even if its initial movement did not seem to indicate this. The object did not seem to rise, as you would expect from a balloon. It did start to move, in a sort of random manner until it was finally hidden behind a nearby tree and I lost sight of it. I probably observed it for a period of about five minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15125.html](http://www.nuforc.org/webreports/reports/015/S15125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
