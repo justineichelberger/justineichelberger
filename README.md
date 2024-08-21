@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright "star" appeared out of nowhere, maintained it's position for 3 seconds, and then "zoomed-out" of sightWas gazing up at the stars when this "white light" appeared. Looked like an extremely bright star. It maintained it's position for approximately 3 seconds, and then it "zoomed-out" of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52178.html](http://www.nuforc.org/webreports/reports/052/S52178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green orb of light moving in low horizontal trajectory.My husband and my neighbor were standing outside talking at about 9:30 at night in our neighborhood and saw a glowing, misty orb of light.  The glowing edges of the orb were more green than the center.  It traveled in a low horizontal trajectory.  It looked as if it was traveling in a trajectory as high above the ground as the height of six story building.  It was difficult to tell how large it was but looked fairly close.  If I outstretched my arm and made a little circle with my thumb and forefinger it could have fit in that small circle. I live close to a golf course and it looked like it was traveling over the golf course, but from my vantage point on the ground it could have been higher and farther away.  It appeared out of no where and disappeared within a second.  It traveled from north to south and I was viewing it from the west looking eastward toward the mountains.  It was really beautiful and was not frightening.  It made absolutely no sound and there was no tail like when you see a meteor.  We all said, “Whoa, what was that?”  My husband and I are in our fifties.  He is a professional and I am a homemaker.  Our friend is in his late thirties and a professional.  I have never seen any phenomena of this sort in all of my life or anything that would mimic or even come close to it.  It could not have been any type of laser light, fireworks, meteor, or aircraft to my knowledge.  It was astounding.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92039.html](http://www.nuforc.org/webreports/reports/092/S92039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
