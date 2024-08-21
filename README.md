@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Elmwood (IL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I saw a bright blue light slowly decend from the sky, a lot bigger, brighter, and slower than a shooting star.The only reason I decided to report this sighting is that someone else reported seeing the same thing on the same date.  I havn't said anything to anybody about this because I didn't think anyone would take me serious.  To the person who reported the sighting on the same date in knoxville, IL...I agree, it couldn't have been a shooting star.  I was sitting on my front porch, waiting for my wife to get home from work.  The sky was clear and there were quite a few planes flying around the area.  I was watching the sky as I always do at night, when I saw a very bright blue light to the south of town.  It was falling from the sky at a very slow speed.  It had a tail behind it made up of different colors.  I have never seen anything like it before or since then.  I felt very disturbed by this, uncomfortable.  It may have lasted longer than what I saw because I watched it disappear behind the building across the streat from my house.  The sighting in knoxville the same night was in a different location but the same discription.  I found this website and started reading sightings in Illinois and when I came across the report from knoxville couldn't believe it.  Anyway, I hope this reaches the person who reported the other sighting so that they don't have to feel alone, I know I did until now.((NUFORC Note:  Source elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26547.html](http://www.nuforc.org/webreports/reports/026/S26547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dartmouth (Canada) (NS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangl shaped objectI was sitting in my backyard looking ito the night sky when I saw a triangular shaped object made up of three lights over head.  The lights on it were white like the stars but, all three lights were moving at the same speed and with no trail following them. From this I fell that the lights were one object It was moving with no sound and very fast.  As I called for others to come see it had moved behind a tree and never came out the other side.  Only momments after that there was three small aircraft  that slowly came over to the area that I had first seen the object.  They flew over the area for some time but I did not take notice of when they left.  There is an older airbase by my home and I am very use to aircraft in the night sky but the object that I saw was too fast to be any of the local aircraft that comes from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24610.html](http://www.nuforc.org/webreports/reports/024/S24610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
