@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>8/21/2017  3:35 pm Delray Beach, Florida.  Oval 2 minutes green alone in SUVAt the end of the Eclipse, I shot these pictures with my Samsung Galaxy Note 5.I was sitting in my SUV and held my phone out of the driver side window.  I did not notice anything strange, I was not looking at the sun when I shot these photos.I just looked at them to show my wife and noticed the green oval. It is not in my lens I took the bird picture right after I took the sun shots.  I don't know what the green oval is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135830.html](http://www.nuforc.org/webreports/reports/135/S135830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent orb moving forward in pulsesThere was on object that appeared to be egg shaped or maybe football shaped (but more rounded on the ends). It moved silently and fast from west to east. Forward motion seemed to be in pulses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30833.html](http://www.nuforc.org/webreports/reports/030/S30833.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
