@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Southgate (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>This Anomoly Transformed Continously From An Orb to Cigar Shaped UFO.Ufo Anomaly Transforms from Orb to Cigar and back to Orb Continuously, Undeniable Evidence We Caught this Object this weekend on Friday 8/21/2015 at Hollydale Park, Southgate, CA, at 6pm.  This is one of the strangest anomolies i Have experienced Yet out of my 3 years of Research  https://youtu.be/ebuHlQxyOtg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121465.html](http://www.nuforc.org/webreports/reports/121/S121465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Indian Rocks Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>3 rust red bulbs of light in triangle form cruising just off the beach, Indian Rocks beach Florida. Aug/2010On August 21st 2010 I was on Indian Rocks Beach Florida late into the night and early morning.  I was sitting and watching the waves on a beautiful clear night. I had been their most of the night and decided to wait and watch the sunrise. I was starring off into the Gulf when a moving light caught my eye to my right. I looked to see what appeared to be 3 bulbs of rust red light shaped like a large triangle moving at a slow but cruising speed around 400 or so feet above the water. The object was no more than 200 feet out off the beach and made no sound. As the object passed by I could not see any body or frame inside the triangle but it seemed to be 1 object. As the object passed the rust red lights dimmed and then faded away into darkness. It was very strange because the object was still pretty close and it just faded away! As I witnessed this event I knew I was seeing something extraordinary and took in as much as I could. After this happened I sat in amaze! ment and realized I had just witnessed a UFO. The whole experience was about 45 seconds and it was the most amazing thing I have ever seen. I served in the Air force and have been around aircraft, this was not one of ours. As for Air Plane headlights, I know these were not from a plane. It was close, flying low and cruising just off the coast in front of me. I have always believed in UFOs and intelligent life beyond earth but have never done any research until after this experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79938.html](http://www.nuforc.org/webreports/reports/079/S79938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
