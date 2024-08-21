@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alton (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>15 objects over Alton IlAt 8:30pm saw 15 orange objects moving across the sky in groups.  They were slow then would dart across the sky and fade to nothing.  Then reappeared at random times and numbers.  All were the same size and moved in an erratic pattern forward and backwards moving south and north over western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101383.html](http://www.nuforc.org/webreports/reports/101/S101383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Derby (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>High spead UFO sigting.I was sat in the garden watching High level traffic (est FL 350) heading out of Europe. this object was flying around 200/250 est in an eratic pater north bound. It appeared to gain spead and altitude as time moved forward. I shouted my partner, but reacation time did not allow her to witness the event. There were three other aircraft in the area at the time. There was high level trafic which I used as a measure against this object. The object out flew the spead of this traffic, shortly after there was a medium level small jet roughly following the same path and one on a trailing course with the high level, probably a Nav follower on the Atlantic. The UFO was traveling at an astonishing spead / eraticaly i.e. could not have been a fighter arcraft as manouverability was sharp. Weather conditions are SKC with good vis. temp around 75/80 little wind at around level.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45697.html](http://www.nuforc.org/webreports/reports/045/S45697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
