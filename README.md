@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bright light headed ENE in daylight hours, very fast, changes in direction and speed, metallic objectthe sun had just risen, daylight for about 40 mins, I noticed the moon was still visible (and close)  a very bright light came up from the horizon in the west, curved gradually to pass in between the moon and me, then kept heading in a straight line almost due east, maybe ENE, it seemed to speed up and continue at that velocity until it was directly overhead, then slowed down, and seemed to drift at about half of it's previous rate of speed. speed ??? it traversed the whole sky at a VERY high altitude -- it was a speck of light -- in about 10 mins.  I dont think i need to stress that this was NOT a meteor, plane, satellite, comet, weather baloon, and DEFINITELY was not swamp gas or ball lightning.  It reflected the sun as if it were metallic, and was changing orientation, there was a "glinting" effect. It had it's own luminescence in daylight, and got brighter as it sped up, dimmer as it slowed.  Also, it seemed to be emitting a field, like a wavy aura, that also got brighter and dimmer, but on a lesser scale than the object itself. I called out other people to look, and they confirmed that my eyes were not playing tricks on me, they also saw the object, witnessed it's deceleration, and the strange "aura" that fluctuated between light and dark. i hope this is useful to someone...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45731.html](http://www.nuforc.org/webreports/reports/045/S45731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lyndon (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>It was around the last week in August.  There was a storm rolling in from the west traveling east towards Lake Michigan.  Within this storm there was a lot of electrical activity.  The whole night sky light up just about every few seconds.It was around 10 pm when my son and I were driving home on a dark country road.  We were traveling east going 25 mph.   I happen to be enjoying the light show from the storm when all sudden I saw something within a cloud that just had lite up with electrical activity.Inside this large cloud was a “HUGE” long rectangle object.   The top and bottom were very long and flat with the sides being very short in height.  There were 4 corners and on each corner where lights of yellowish/orange shining off the tips.  Inside the rectangle there seemed to be a soft whitish/silver glow throughout.  All the edges of the rectangle where very defined.I happen to see this as the cloud it was hiding in had lite up.  When the cloud went dark and lite up again the object was gone.  I had my son drive back down the same spot where I saw it off in the distance.  Unfortunately, the object was gone or at least had moved out of sight.  I would have to say that it was the largest thing I had ever seen in the sky.  It was “HUGE and AMAZING.”   I feel very fortunate to witness such an object. It seemed to be close to the lake front over the city of Sheboygan.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102497.html](http://www.nuforc.org/webreports/reports/102/S102497.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
