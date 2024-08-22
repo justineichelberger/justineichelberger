@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Glasgow (outside of) (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sighting near to Glasgow Scotland by police officers.Well we're two police officers from Yorkshire England sent to collect a prisoner from Glasgow, Scotland- a distance of about 250 miles. Just outside a place called Hamilton near to Glasgow saw what i thought was at first a low flying aircraft, could see the sun refelcting on the metal body work, craft was flying in a straight line and horizontal, appeared to be traveling at around 200mph and a height of around 2000 feet, as it drew closer could see object did not have wings or any kind of rotor blades and was in fact revolving around its axis in the direction it was traveling. Weather was good scattered cloud with sunshine about an hour and half before sun set.Object was round in shape and metalic about size of a small truck, definitley not an aircraft or helicopter or weather balloon. Mentioned it to other colleagues but have only been met with laughter and odd looks, not saying it was aliens but sure was strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52126.html](http://www.nuforc.org/webreports/reports/052/S52126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bright light headed ENE in daylight hours, very fast, changes in direction and speed, metallic objectthe sun had just risen, daylight for about 40 mins, I noticed the moon was still visible (and close)  a very bright light came up from the horizon in the west, curved gradually to pass in between the moon and me, then kept heading in a straight line almost due east, maybe ENE, it seemed to speed up and continue at that velocity until it was directly overhead, then slowed down, and seemed to drift at about half of it's previous rate of speed. speed ??? it traversed the whole sky at a VERY high altitude -- it was a speck of light -- in about 10 mins.  I dont think i need to stress that this was NOT a meteor, plane, satellite, comet, weather baloon, and DEFINITELY was not swamp gas or ball lightning.  It reflected the sun as if it were metallic, and was changing orientation, there was a "glinting" effect. It had it's own luminescence in daylight, and got brighter as it sped up, dimmer as it slowed.  Also, it seemed to be emitting a field, like a wavy aura, that also got brighter and dimmer, but on a lesser scale than the object itself. I called out other people to look, and they confirmed that my eyes were not playing tricks on me, they also saw the object, witnessed it's deceleration, and the strange "aura" that fluctuated between light and dark. i hope this is useful to someone...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45731.html](http://www.nuforc.org/webreports/reports/045/S45731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
