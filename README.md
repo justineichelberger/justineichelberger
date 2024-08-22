@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:47 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There was 5 of us outside. I looked to the east and seen a bright white light. I thought it was a helicopter but heard nothing. I let my friends know so they can look also. as we looked the light grew larger then made a sharp turn to the north. the light then began to fade out then disapeared all together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72053.html](http://www.nuforc.org/webreports/reports/072/S72053.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Marfa (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Steady cigar shape light cruises under Moon at speed with no sound or blinking.	I was looking toward the moon at sunset when I noticed a light under the moon traveling east to west. It was “cigar” shaped (thin rectangle with rounded edges). Its speed and angle seemed comparable to an airliner at first, but there was no con trail anywhere in behind it. No sound was heard even after taking into account the time delay in hearing a jet flying over. I pointed it out to a friend. We both considered that it might be a normal aircraft, but out here, if you can see it you will here it.	I went inside and checked a web site that displays aircraft flights and the only flight near our area was going south, not west. I grabbed our camera, put the optical zoom as high as it would go and took a photo. It continued on quietly and steadily until I couldn't see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58339.html](http://www.nuforc.org/webreports/reports/058/S58339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
