@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Marcus Hook (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>solid white object broke apart into a triangular formI noticed a ball of light northwest from my backyard, first with my mother.  I knew it was not a planet, star, satellite, etc.  The planet Venus popped into my head, but every few minutes, they was a light red object that would circle around the white object.  Practically looked like it would come out of the white object, do a little peek show, and then disappear and this carried on for an hour.As time went on, the white light was slowly but gradually moving north/northeast-ward.  I was holding my Camcorder thinking to myself, "I have to get this on film".  I recorded everything I saw and had experienced.  My father had come outside to see it for himself and he was shocked to what he was indeed looking at, it was nothing that i had seen before.At 11:15 PM my parents had gone inside for just a moment while im standing outside alone now, and the white light that was a solid circle had broken apart, making 3 circles appear into the shape of a triangle. to the left side of that, 2 more lights had came to join looking like it was going into the triangle form.  They were both a light shade of a green color with a white tint to them.  When my parents had joined me again, they saw the last end of it, which was, it shot behind the tower it was next to.  Within two minutes, it had shot up above the tower, back into its original form, a circle.Throughout the night, the red object would appear next to the white object and then disappear.  At 11:45 PM, my parents and I decided to go into a field that was close by to get a better look and sure enough, it was gone.  I did not get to record it because it happened to quick but my mother had seen it and she was stunned, speechless.((NUFORC Note:  We spoke at length via telephone with the young woman, who submitted this report, and we found her to be an exceptionally sober-minded, objective witness.  We suspect that her report is a quite accurate rendition of what she, and her parents, witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77378.html](http://www.nuforc.org/webreports/reports/077/S77378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Raquette Lake (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The event occurred on the final night of sleep-away camp, August 22, 1975 at Raquette Lake Boys Camp, Raquette Lake New York.All staff and campers (boys and girls camp, about 200 people) attended the final bonfire/goodbye ceremony, held in the middle of the soccer field.The night was perfectly clear, with no cloud cover. During the owner’s speech, 3 bright green round disks approached from different directions, came together, formed an equilateral triangle, and began to hover approximately 10,000 feet above us.  There was no sound.  Within a minute or so, the craft began to spin, maintaining their formation.  They remained above us for possibly 5 minutes, before shooting off in the originating directions.  Again, there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150711.html](http://www.nuforc.org/webreports/reports/150/S150711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
