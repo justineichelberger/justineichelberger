@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wantagh (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Looked like 3 fireballs that petered out.((NUFORC Note:  Meteor?...or hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112800.html](http://www.nuforc.org/webreports/reports/112/S112800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Southport (not sure) (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>a ball of light appeared out of the atmosphere over the highway and dove to the right behind treeswhile driving south on I-95 near exit 19 in Conn. i witnessed a sphere appear suddenly out of the atmoshpere. It was about 2 to 3 lamposts ahead of me over the highway. It dove to the right off the highway behind trees. It was very bright. I could see the illumination shining through the trees . All it seemed to be was a ball of light. Its color was white with a blue hue. It made no sound. I could see no craft attached to it. I know it wasn't a hellicopter. The sighting lasted about  4 seconds. This happened 8/22/02 at 3AM. I am a licensed massage therapist. 36 y.o. male.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27399.html](http://www.nuforc.org/webreports/reports/027/S27399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
