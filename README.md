@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:57 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Harrisburg (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I thought they were stars until I noticed they were moving in formation.Saturday night, August 22nd, 2015, 10:30 pm.  I went out on my west facing porch during a TV commercial to look at the setting moon and the stars.  Since the commercials were running long, I sat down in a chair and looked up to at the sky toward a bright star or planet that I was facing and the setting moon to my left.  I noticed another bright star, (not as bright as the one I was facing) and another one, slightly less bright close to the bright star.  I at first thought my eyes were playing tricks on me as the 2 stars seemed to be moving, they were, flying in formation with the one that was less bright trailing and to one side.  They were traveling at the same speed traveling south to north, almost directly overhead.  They looked like satellites, but I do not believe that satellites travel in tandem or a tight formation.  There was no noise, no flashing lights, the objects were in orbit.  I watched them till they faded out like satellite do.  My sighting lasted less than a minute.((NUFORC Note:  Possibly satellites?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121447.html](http://www.nuforc.org/webreports/reports/121/S121447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apollo beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving northbound  on  I-75 around 11:45 pm, when I saw a green ball fly over the highway at a great speed.  As I was looking at it fly by, it had came to a complete stop in the air and sat there.  While looking at it, it went from a green ball to being  a bright white light.  As I was driving past the object it appeared  to have a white dome shape and flat at the bottom.  It also appeared to be flashing white lights like a strobe light.  After about 10 minutes, I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148439.html](http://www.nuforc.org/webreports/reports/148/S148439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
