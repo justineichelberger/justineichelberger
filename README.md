@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Glasgow (outside of) (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sighting near to Glasgow Scotland by police officers.Well we're two police officers from Yorkshire England sent to collect a prisoner from Glasgow, Scotland- a distance of about 250 miles. Just outside a place called Hamilton near to Glasgow saw what i thought was at first a low flying aircraft, could see the sun refelcting on the metal body work, craft was flying in a straight line and horizontal, appeared to be traveling at around 200mph and a height of around 2000 feet, as it drew closer could see object did not have wings or any kind of rotor blades and was in fact revolving around its axis in the direction it was traveling. Weather was good scattered cloud with sunshine about an hour and half before sun set.Object was round in shape and metalic about size of a small truck, definitley not an aircraft or helicopter or weather balloon. Mentioned it to other colleagues but have only been met with laughter and odd looks, not saying it was aliens but sure was strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52126.html](http://www.nuforc.org/webreports/reports/052/S52126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wabasha (MN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>The rate of speed and no soundI just happen to step out last night to see what the weather was like, so as if we should open up the house.  I know it was over cast and I could hear a commercial air liner in the distance.  As I looked up I saw a bright flash, similar to a strobe light on an aircraft , what caught my attention , was the time and distance between flashes.  No plane I've ever seen could travel that fast between  flashes, and what was even more strange, there was no sound, absouletly none.  Like I said there was a distant  sound of a jet , and that was still heard after this object was long gone.  It  moved from the southeast toward the northwest,  like from Winona  MN to  Minneapolis  MN.   The total time I observed this object, couldn't  have been morre than  15 secs.   I know for sure I saw  3 flashes, then due to my location where I was standing, with trees and the house, buy the time I changed my stand for another view, it was gone.  It was overcast, and I'm not sure what the ceiling was,  but it's my  guess  it had to be less then 3000' and it definitely was under the overcast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13881.html](http://www.nuforc.org/webreports/reports/013/S13881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
