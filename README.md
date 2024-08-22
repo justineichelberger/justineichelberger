@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Portland (@ the Holiday Inn) (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright orange not to high up but move way to fast to not make any sounds,sharp turns at high speeds in and out of formation,dropped and went forward as if gravity diddn't exist.My mother came to visit me in maine and i took a friend with us out for the weekend with her. I think it was a friday night and we were laying out on the beach chairs by the pool. My friend mom, and i were just looking up at the sky and talking, around 11:30 before going to sleep.And were were hearing jets in the air flying earlier.after they had stop about 20 min later is when i had saw 3 triangular shape objects flying in the sky and they were glowing sort of a orangis color.I said look at that and they both were watching it with me.it was kind of freaky beacause they were going too fast to b anything i have seen and made no sound easily breaking the sound barrier.soo they were all flying in a v formation. they never slowed down when making these moves:the left one dropped straight down and went forward....the front one out of nowere shot to the left with out slowing down either straight out of its original course and then shot forward again and the other one curved to the left shot up and immediatly after that they came back into formation again a v shape and flew off...later that week one of my friends was camping in the woods at that same time i saw it and saw the same objects that i did and he told me that when i saw him before i had said anything to him so it kind of sent chills down my spine..........i never thought of reporting it untill i was watching sightings few days ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12237.html](http://www.nuforc.org/webreports/reports/012/S12237.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Westwood (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright circle light being, followed by two helicopters.My friend sent me a video of the event.  Unfortunately it was sent through an application where the video disappears after it is viewed, and he did not save his original video.  What i saw on the video was a bright light in a  circle shape flying across the sky being followed by two jets.  My friend later confirmed that they were not jets following the ufo, but helicopters.  The event did not last more than 20 seconds as the objects was moving.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129438.html](http://www.nuforc.org/webreports/reports/129/S129438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
