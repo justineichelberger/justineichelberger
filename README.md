@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Marfa (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Steady cigar shape light cruises under Moon at speed with no sound or blinking.	I was looking toward the moon at sunset when I noticed a light under the moon traveling east to west. It was “cigar” shaped (thin rectangle with rounded edges). Its speed and angle seemed comparable to an airliner at first, but there was no con trail anywhere in behind it. No sound was heard even after taking into account the time delay in hearing a jet flying over. I pointed it out to a friend. We both considered that it might be a normal aircraft, but out here, if you can see it you will here it.	I went inside and checked a web site that displays aircraft flights and the only flight near our area was going south, not west. I grabbed our camera, put the optical zoom as high as it would go and took a photo. It continued on quietly and steadily until I couldn't see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58339.html](http://www.nuforc.org/webreports/reports/058/S58339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rentz (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Dancing light in the Georgia skyI noticed a light in the sky south of Mars (which is highly cisable these days). I noticed this bright light that at first appeared to be a star, but it began to move. It wasn't like a plane in the sky, it moved left and rright and up and down. It changed direction very quickly. I made my wife and fathe in law get out of the bed to see it and they confirmed that they were seeing the same thing I was. This lasted for about an hour or so, until I lost visual contact due to cloud cover. I did notice that there seemed to be a change of red to blue in the "twinkle" of the light((NUFORC Note:  We wonder whether the witnesses might have been observing a celestial body of some type.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30839.html](http://www.nuforc.org/webreports/reports/030/S30839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
