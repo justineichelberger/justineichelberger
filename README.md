@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 21 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fairfax (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 122</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148545.html](http://www.nuforc.org/webreports/reports/148/S148545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Harrisburg (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I thought they were stars until I noticed they were moving in formation.Saturday night, August 22nd, 2015, 10:30 pm.  I went out on my west facing porch during a TV commercial to look at the setting moon and the stars.  Since the commercials were running long, I sat down in a chair and looked up to at the sky toward a bright star or planet that I was facing and the setting moon to my left.  I noticed another bright star, (not as bright as the one I was facing) and another one, slightly less bright close to the bright star.  I at first thought my eyes were playing tricks on me as the 2 stars seemed to be moving, they were, flying in formation with the one that was less bright trailing and to one side.  They were traveling at the same speed traveling south to north, almost directly overhead.  They looked like satellites, but I do not believe that satellites travel in tandem or a tight formation.  There was no noise, no flashing lights, the objects were in orbit.  I watched them till they faded out like satellite do.  My sighting lasted less than a minute.((NUFORC Note:  Possibly satellites?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121447.html](http://www.nuforc.org/webreports/reports/121/S121447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
