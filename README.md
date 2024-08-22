@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Raquette Lake (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The event occurred on the final night of sleep-away camp, August 22, 1975 at Raquette Lake Boys Camp, Raquette Lake New York.All staff and campers (boys and girls camp, about 200 people) attended the final bonfire/goodbye ceremony, held in the middle of the soccer field.The night was perfectly clear, with no cloud cover. During the owner’s speech, 3 bright green round disks approached from different directions, came together, formed an equilateral triangle, and began to hover approximately 10,000 feet above us.  There was no sound.  Within a minute or so, the craft began to spin, maintaining their formation.  They remained above us for possibly 5 minutes, before shooting off in the originating directions.  Again, there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150711.html](http://www.nuforc.org/webreports/reports/150/S150711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two red ovals moving in irregular movements in a south-east approach.My friend and I were staying in a Hotel in Myrtle Beach South Carolina on vacation. We were in a beach front room, so our balcony was overlooking the ocean. We were out on our balcony (on the 18th floor) because we were smoking a cigarette and we were trying to see lightning as it hit the ocean. It was a stormy night but we could see some stars still.So my friend looked off to the left of our balcony, so he was looking north, and he spotted these 2 red-orange ovals in the sky. Then he pointed them out to me. They were fairly small just a little bigger than the stars, we couldn't hear any noise from them. They were traveling from North to South (from the left to the right of our balcony). It was hazy out, so they were not bright at all. Kind of a dim red orange glow. At first I thought they were just airplanes, but they moved in an irregular way. They moved very slowly, and the did not stay the same distance from each other. They did somewhat of a dance around each other, getting closer and further from each other.We watched them do this slow dance all the way across our view of the sky, but as they moved south they also moved out over the ocean further (east). Eventually, about 10 or 15 minutes after we first spotted them, they faded too far into the horizon to see.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58423.html](http://www.nuforc.org/webreports/reports/058/S58423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
