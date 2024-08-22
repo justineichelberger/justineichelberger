@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sabattus (ME) reported seeing craft that fit the description of some '' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>UFO flies over Lewiston, Maine 08/22/01At 10:00 p.m. while at my computer, I began to hear the sound of what I thought to be a in the distance, a low flying jet plane. The closer it got, the louder it became. I felt a sense of fear as it seemed to pass over the top of our home. I felt that it might crash as it was so close. I immediately got off my computer and turned off the loghts, to see if I could see anything out the window. It was a very skies and stars were very bright, buti could only hear and not see any plane. I saw a huge bright light cross from one side of the lake to another, and then the noise completely ceased for a few brief moments, only to return again, coming closer back over our home once again. I knew that this could NOT be a jet, as it would not have had enough time to turn around so soon, and this is something that jets do not do as a rule anyway. The noise continued to get louder and closer,and disappeared again just as it had done the first time it passed. This time it did not return again and no more bright lights were tobe seen. My husband at the time was on the phone downstairs, but said he had heard the loud and low flying object, he too thinking it was an extremely low flying jet. The very next day in the Lewiston Sun Journal, was a write up of the hundreds of people who had called the Lewiston police, to report the same exact thing as we had heard. Lewiston police called the FAA, and they said there had been NO jets on radar in our area at this time. BTW......all the people who called in to the police reported that it was 10:00 p.m. This phenomoner was also a big story on all the local television news reports Thur.8/23/01. No one seems to be able to tell what it was, but it was darn sure scary. Almost the same thing happened just over one year ago. It was around July 22, I believe. This time it was in daylight, and in late morning. The skies were very overcast, and I was sitting on my back porch, when I heard a plane approaching over my home.((NUFORC Note:  We understand that many reports of this incident were submitted to the news media in Maine.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19257.html](http://www.nuforc.org/webreports/reports/019/S19257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wantagh (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Looked like 3 fireballs that petered out.((NUFORC Note:  Meteor?...or hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112800.html](http://www.nuforc.org/webreports/reports/112/S112800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
