@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wabasha (MN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>The rate of speed and no soundI just happen to step out last night to see what the weather was like, so as if we should open up the house.  I know it was over cast and I could hear a commercial air liner in the distance.  As I looked up I saw a bright flash, similar to a strobe light on an aircraft , what caught my attention , was the time and distance between flashes.  No plane I've ever seen could travel that fast between  flashes, and what was even more strange, there was no sound, absouletly none.  Like I said there was a distant  sound of a jet , and that was still heard after this object was long gone.  It  moved from the southeast toward the northwest,  like from Winona  MN to  Minneapolis  MN.   The total time I observed this object, couldn't  have been morre than  15 secs.   I know for sure I saw  3 flashes, then due to my location where I was standing, with trees and the house, buy the time I changed my stand for another view, it was gone.  It was overcast, and I'm not sure what the ceiling was,  but it's my  guess  it had to be less then 3000' and it definitely was under the overcast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13881.html](http://www.nuforc.org/webreports/reports/013/S13881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Portland (@ the Holiday Inn) (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright orange not to high up but move way to fast to not make any sounds,sharp turns at high speeds in and out of formation,dropped and went forward as if gravity diddn't exist.My mother came to visit me in maine and i took a friend with us out for the weekend with her. I think it was a friday night and we were laying out on the beach chairs by the pool. My friend mom, and i were just looking up at the sky and talking, around 11:30 before going to sleep.And were were hearing jets in the air flying earlier.after they had stop about 20 min later is when i had saw 3 triangular shape objects flying in the sky and they were glowing sort of a orangis color.I said look at that and they both were watching it with me.it was kind of freaky beacause they were going too fast to b anything i have seen and made no sound easily breaking the sound barrier.soo they were all flying in a v formation. they never slowed down when making these moves:the left one dropped straight down and went forward....the front one out of nowere shot to the left with out slowing down either straight out of its original course and then shot forward again and the other one curved to the left shot up and immediatly after that they came back into formation again a v shape and flew off...later that week one of my friends was camping in the woods at that same time i saw it and saw the same objects that i did and he told me that when i saw him before i had said anything to him so it kind of sent chills down my spine..........i never thought of reporting it untill i was watching sightings few days ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12237.html](http://www.nuforc.org/webreports/reports/012/S12237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
