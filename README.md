@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 22 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gardnerville (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 24:00 - 24:00 minutes.</sub><blockquote><sub>West of Tahoe what looked like bright star.  I/we can see red and green lights alternating.  Grabbed binoculars and can kinda see it's white with red and green lights circuling or alternatly blinking and stationary(not moving) wife says been there a couple days.((NUFORC Note:  We suspect that the object may have been a so-called "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121392.html](http://www.nuforc.org/webreports/reports/121/S121392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Glasgow (outside of) (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sighting near to Glasgow Scotland by police officers.Well we're two police officers from Yorkshire England sent to collect a prisoner from Glasgow, Scotland- a distance of about 250 miles. Just outside a place called Hamilton near to Glasgow saw what i thought was at first a low flying aircraft, could see the sun refelcting on the metal body work, craft was flying in a straight line and horizontal, appeared to be traveling at around 200mph and a height of around 2000 feet, as it drew closer could see object did not have wings or any kind of rotor blades and was in fact revolving around its axis in the direction it was traveling. Weather was good scattered cloud with sunshine about an hour and half before sun set.Object was round in shape and metalic about size of a small truck, definitley not an aircraft or helicopter or weather balloon. Mentioned it to other colleagues but have only been met with laughter and odd looks, not saying it was aliens but sure was strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52126.html](http://www.nuforc.org/webreports/reports/052/S52126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
