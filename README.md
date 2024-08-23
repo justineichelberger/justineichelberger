@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:12 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Purple light UFO 10 minutes after Power OutageAfter the power outage going around the neighborhood I went outside 10 minutes later to get the newspaper and looked in the sky and a small dot of purple light.  The purple light had a trail behind it and trail would disappear quickly then the purple light vanished.  It looked like a star moving about under 100 miles per an hour in the sky far in distance way up in the sky.  The object was moving let to right and was sorta bouncing a little up and down.  Object made no sound. I never saw purple before so had to report this.  Happened around 5:35 am.  I saw for puple ufo about 20 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77402.html](http://www.nuforc.org/webreports/reports/077/S77402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball moves slow, then fast and change directionsWe witnessed through the trees a big red/orange fireball in the souther sky move from left to right and up and down, and also glowing bright and then dim. Then, we ran into the street for a clear view and the UFO sped up to the right towards the west, slow down and shrink and then turned white and shoot straight up and dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71831.html](http://www.nuforc.org/webreports/reports/071/S71831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
