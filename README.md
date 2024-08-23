@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball moves slow, then fast and change directionsWe witnessed through the trees a big red/orange fireball in the souther sky move from left to right and up and down, and also glowing bright and then dim. Then, we ran into the street for a clear view and the UFO sped up to the right towards the west, slow down and shrink and then turned white and shoot straight up and dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71831.html](http://www.nuforc.org/webreports/reports/071/S71831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in El Monte (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White flashes when a satellite passed above the horizon.A friend and I were observing a passing satellite (dim light object) passing from South to North.  We assume they are satellites because many travel throughout the night.When the object passed directly above us, 2 flashes of lights appeared, flashes were 1/2 second apart from each other.  Flashes did not move, they were in the same area.  The size of a school bus, squared, white light.Unexplainable experience, never seen before.  We both stayed for another hour trying to see if the flashes appeared, but unfortunately they did not.  We have observed many satellite objects in years but never seen flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121453.html](http://www.nuforc.org/webreports/reports/121/S121453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
