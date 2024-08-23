@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>A moving, shifting light in afternoon skyI was filming some clouds and noticed the ‘object’ when I was watching it later.  I was no where near glass or windows- way out to n the lot.  I don’t know, it’s probably some bird,  but I thought I’d send it in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136940.html](http://www.nuforc.org/webreports/reports/136/S136940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright disk not moving above the seamw and my brother were on the balconey yesterday evening over-looking the bay and my brother asked me what the 'funny shape' was in the sky. i looked up and at fist thought it was a star, but i could see no other ones about and i looked larger than a ordenary star. i told him i didnt know. when my parents got home i told them and they said jokingly- i was a UFO but it made no sounds. i think it was a ufo but mno one belives me.((NUFORC Note:  We will invite the witness to have his brother submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30862.html](http://www.nuforc.org/webreports/reports/030/S30862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
