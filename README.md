@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:47 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Auburn (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several objects from south east.Saw seven objects that appeared as fireballs traveling at a slower velocity than a meteor.  Two of the objects witnessed appeared to have mass and could see the red-orange glow reflecting off the rest of it.  Seven of them appeared over the span of about twenty minutes, coming in from the east south east and heading west north west at about a 30 degree angle. At one point in their travel they seemed to veer towards the north and blink out either due to cloud cover or some other reason.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112757.html](http://www.nuforc.org/webreports/reports/112/S112757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Old AL Hwy. 35 (between MM 8-10) (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>While on my way home to Georgia, traveling on old Alabama 35, a few miles before mile marker 13, I saw a dark blue ball of light, twenty to fifty feet above trees.  It was traveling like a shooting star, for a few seconds, and then became very bright and seemed to vanish very quickly never seen anything like it before,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112887.html](http://www.nuforc.org/webreports/reports/112/S112887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
