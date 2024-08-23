@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:04 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Blackpool (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange lights in the skyi saw three lights in the sky which were flashing,and motionless,i ran into the house and called my husband who came outside and could not understand what he was seeing,i then ran in doors to get my camera,when i returned my husband said the lights turned into 6 lights and moved into a straight row,then they turned green,and did a 90degree turn,then shot up in the air and dissapeared,i just saw them shooting away,could not get a picture as my camera would not work,but we are both mystified as to what we have seen,there was no noise or explanation.My husband is a engineer and determined this was not a aircraft,or man made.Can you give us a explanation ,are ufo real cause we are confused,but know what we seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24731.html](http://www.nuforc.org/webreports/reports/024/S24731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. George (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Triangular, four lights, One bright white light, two little white lights one blue light.I first saw the object flying  overheard in a town, and it was pretty low and it was hovering.  It came towards me (i was in my car) and it passed over me going at least 20 km per hour.  It was triangular, it had two red lights on its point a really big white light on the front and a smaller blue light on the middle in the back. We followed it and it met up with one other one. The first one took off then changed directions quickly and came back towards us. Then it changed again and went back the way it was going before. The second one went a different direction and then we lost them.  So i was going home and i saw it again and it kept zig-zaging around in the sky.  I tried to follow it but lost it.  So i went home again and it returned quickly and was gone again, but a second from a different direction and changed directions after flying overhead my car. I saw another one after that and it changed its colour and disappeared. There was absolutly no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45786.html](http://www.nuforc.org/webreports/reports/045/S45786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
