@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in El Monte (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White flashes when a satellite passed above the horizon.A friend and I were observing a passing satellite (dim light object) passing from South to North.  We assume they are satellites because many travel throughout the night.When the object passed directly above us, 2 flashes of lights appeared, flashes were 1/2 second apart from each other.  Flashes did not move, they were in the same area.  The size of a school bus, squared, white light.Unexplainable experience, never seen before.  We both stayed for another hour trying to see if the flashes appeared, but unfortunately they did not.  We have observed many satellite objects in years but never seen flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121453.html](http://www.nuforc.org/webreports/reports/121/S121453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Dodge (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange pulsing fireball low on the horizon.My mother and I witnessed a pulsing fireball object low on the western horizon at 9:40 p.m. It was stationary for about five minutes, then slowly proceeded to gain altitude and travel at a high rate of speed eventually turning white. It made absolutely no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65364.html](http://www.nuforc.org/webreports/reports/065/S65364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
