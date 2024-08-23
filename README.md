@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:04 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. George (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Triangular, four lights, One bright white light, two little white lights one blue light.I first saw the object flying  overheard in a town, and it was pretty low and it was hovering.  It came towards me (i was in my car) and it passed over me going at least 20 km per hour.  It was triangular, it had two red lights on its point a really big white light on the front and a smaller blue light on the middle in the back. We followed it and it met up with one other one. The first one took off then changed directions quickly and came back towards us. Then it changed again and went back the way it was going before. The second one went a different direction and then we lost them.  So i was going home and i saw it again and it kept zig-zaging around in the sky.  I tried to follow it but lost it.  So i went home again and it returned quickly and was gone again, but a second from a different direction and changed directions after flying overhead my car. I saw another one after that and it changed its colour and disappeared. There was absolutly no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45786.html](http://www.nuforc.org/webreports/reports/045/S45786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Marstons Mills (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I have once again seen the same craft again in the skies above Cape Cod, Ma.This will be my 4th report of seeing the same object. I have sent in 3 prior reports on the same object in the last 5 weeks.Once again while outside with my adult son, we again saw a sphere like craft with its perimeter lit up brightly.  It was heading southwest at an altitude of @ 1 mile High. It is without doubt, the same craft or the same kind of craft that I have reported to your page.It was stopped motionless in the sky, I took a photograph with flash of the sphere and tonite it proceeded to move off from its position.  It moved at a very fair speed, unlike any craft that I am aware of.Tonite it moved rather irratically compared to the other 3 sightings I reported.It made some impossible movements and then took off at a speed that is impossible for any traditional type of aircraft.  The sighting only lasted @2minutes and was gone in no time.It shot across the horizon in a blink heading southwest.As I have reported in the past, something is going on here on Cape Cod  And I have spoken to several people that saw the same thing so at least we know that it is unique and that my son and I are not going crazy.  It made absolutely no sound whatsoever on any of the past and most recent sighting.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101484.html](http://www.nuforc.org/webreports/reports/101/S101484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
