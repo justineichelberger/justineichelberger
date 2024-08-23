@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sayreville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A perfect blacker than black circle move from west to east right over the car in broad daylight.Driving Vehical going west on washinton road, looked up just at the right moment and saw a perfect black circle move from west to east right over the car in broad daylight.  It appeared to me like it had dipped below the cloud cover and then went back in.I blinked and almost shook my head thinking I saw something  That wasn’t really there.  But the more I kept thinking about it the rest of the drive I no doubt saw the almost Blacker than black object.I couldn’t tell you the size of it but from my view from the car window it could have been the size of a quarter moving over the window, at cloud cover height on sat the 8th of august 2014</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112862.html](http://www.nuforc.org/webreports/reports/112/S112862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>a dieing star moving in normal day light?saw a little white dote in the sky , seemed like a fair distance high in the sky. Appeared out of nowhere and was stationary for about 1 sec follwed with a quick high speed flight across the skies and came to a complete stop in a split second. Saw the white dot getting brighter and brighter until what seemed like a cut out point after 1 second or so. After cut out point the little dot seem to be black in colour there after it just wanished in half a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45814.html](http://www.nuforc.org/webreports/reports/045/S45814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
