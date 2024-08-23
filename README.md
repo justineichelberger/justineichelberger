@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright disk not moving above the seamw and my brother were on the balconey yesterday evening over-looking the bay and my brother asked me what the 'funny shape' was in the sky. i looked up and at fist thought it was a star, but i could see no other ones about and i looked larger than a ordenary star. i told him i didnt know. when my parents got home i told them and they said jokingly- i was a UFO but it made no sounds. i think it was a ufo but mno one belives me.((NUFORC Note:  We will invite the witness to have his brother submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30862.html](http://www.nuforc.org/webreports/reports/030/S30862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Earth's Moon () reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Possible Large Statues leading to Mons La Hire on the MoonI was looking on Google Earth-Moon at a report of a humanoid.  I looked at verified wow its there.  I then proceeded to find 8 of them in a straight line, all roughly equidistant from Mons La Hire, a large mountain.  I am intially thinking they are statues or markers leading to the mountain and the main reason we can see these 8 are because the suns position threw a shadow of them.  Once the sun is overhead, i lost where the ninth one would be.The first two coordinates of statues east of Mons La Hire.  After that follow the approx. location of the next one and it will be there.27°34'27.01"N 19°36'20.48"W  27°45'56.75"N 12°51'37.71"W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112759.html](http://www.nuforc.org/webreports/reports/112/S112759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
