@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wolfville (Canada) (NS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange metal sphere 200+' up reflecting sunlight 6pm watched 15min got smaller as if it were ascendingIt was a bright clear hot day. I stopped ridding for a break and stretched out on a stump and looked up into the sky watching dragon flies. I spotted a round orange light quite high in the sky, well over 200ft because it was difficult to spot when I turned my head for a minute. I thought it may have been an air craft but it was hovering rather than moving across the sky. I realized it was a metallic object as the sunlight reflected off it, rather than a light. I watched for 15 minutes and it only seemed to get smaller as if it was moving out ward. It was still there when I left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65374.html](http://www.nuforc.org/webreports/reports/065/S65374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Auburn (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several objects from south east.Saw seven objects that appeared as fireballs traveling at a slower velocity than a meteor.  Two of the objects witnessed appeared to have mass and could see the red-orange glow reflecting off the rest of it.  Seven of them appeared over the span of about twenty minutes, coming in from the east south east and heading west north west at about a 30 degree angle. At one point in their travel they seemed to veer towards the north and blink out either due to cloud cover or some other reason.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112757.html](http://www.nuforc.org/webreports/reports/112/S112757.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
