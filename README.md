@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orangish yellow orb seen by a friend and II live on the second floor of a multi family home, and after long days I like to sit out on our balcony, just to relax.  On this particular Thursday night, I noticed this small orangish yellow orb appear out of no where, which quickly caught my interest. At first I thought this ‘thing’ was a plane, until I noticed a commercial aircraft at a higher altitude and quickly realized that this orb didn’t have any of the normal red and blue/white flashing lights.  So again, I studied this orb thinking that it may have been a helicopter with their spot light on, but for how low this orb was, it made not a sound. My neighbor came out, when I pointed out to her, just to make sure that I wasn’t seeing things, or that at the angle I was at, I may have missed something.  Sure enough, she seen it as well, and confirmed that it was neither an airplane nor a helicopter. As she continued to talk to me, I did not once take my eyes off this ‘thing’.  It was moving South to North, not extremely fast, but at a good speed.  The next thing I know, it just disappears. I thought it may have just been blocked from my view, due to other houses and trees around me, but even after walking to a spot where there was nothing to block my view, I couldn’t find it anywhere.  Even my neighbor could not spot it. I stayed out later hoping that it might come back, or that another one would come, in hopes to catch it in a picture or video, but the rest of the night went on uneventful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92231.html](http://www.nuforc.org/webreports/reports/092/S92231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sayreville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A perfect blacker than black circle move from west to east right over the car in broad daylight.Driving Vehical going west on washinton road, looked up just at the right moment and saw a perfect black circle move from west to east right over the car in broad daylight.  It appeared to me like it had dipped below the cloud cover and then went back in.I blinked and almost shook my head thinking I saw something  That wasn’t really there.  But the more I kept thinking about it the rest of the drive I no doubt saw the almost Blacker than black object.I couldn’t tell you the size of it but from my view from the car window it could have been the size of a quarter moving over the window, at cloud cover height on sat the 8th of august 2014</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112862.html](http://www.nuforc.org/webreports/reports/112/S112862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
