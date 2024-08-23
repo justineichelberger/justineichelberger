@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:55 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:23 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Laramie (east of) (WY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>Cloud-like object at extreme range changes shape.This account is taken from a personal report made shortly after the sighting:  "I was driving westbound on Interstate 80 between Cheyenne and Laramie, Wyoming when I spied what I at first thought to be a tiny cloud in an otherwise cloudless sky.  Very soon after sighting it, we passed from Laramie County (containing Cheyenne) into Albany County (containing Laramie).  The heavens were still bright (sunset had been at 19:39).  The only other object in the sky was the first-quarter Moon.  The "cloud" had an almost vertical orientation at first, and apparently hung over the Vedauwoo area (a formation of exposed granite mountains east of Laramie).  After a minute or so, the "cloud" took on more of a spherical shape but later did resume its near-vertical attitude for a short while.  As I drove toward the very bright object at 65 mph, it only seemed to get further away, more starlike, and closer to the horizon, until I lost it at about 20:05, some nine minutes after first noticing it."  The most likely explanation for this sighting is a high-altitude westbound aircraft reflecting the rays of the Sun and emitting a short contrail.  But it might have been something less conventional.  It certainly impressed me enough at the time to record the details, even though I am a licensed pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32770.html](http://www.nuforc.org/webreports/reports/032/S32770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Blue/green lights around my boyfriend and me, as we walked our dog in Atlanta, GA.My boyfriend and I were walking our dog, when we suddenly saw blue/green lights (circular pattern) right around/above us.  I thought they might have been cop lights so I looked behind me but no cops.  My boyfriend on the other hand looked up and saw a round shaped object that immediately disappeared when he looked up.  We were (still) confused as to what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112746.html](http://www.nuforc.org/webreports/reports/112/S112746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
