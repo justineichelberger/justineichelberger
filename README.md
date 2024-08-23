@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:23 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Blue/green lights around my boyfriend and me, as we walked our dog in Atlanta, GA.My boyfriend and I were walking our dog, when we suddenly saw blue/green lights (circular pattern) right around/above us.  I thought they might have been cop lights so I looked behind me but no cops.  My boyfriend on the other hand looked up and saw a round shaped object that immediately disappeared when he looked up.  We were (still) confused as to what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112746.html](http://www.nuforc.org/webreports/reports/112/S112746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>A moving, shifting light in afternoon skyI was filming some clouds and noticed the ‘object’ when I was watching it later.  I was no where near glass or windows- way out to n the lot.  I don’t know, it’s probably some bird,  but I thought I’d send it in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136940.html](http://www.nuforc.org/webreports/reports/136/S136940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
