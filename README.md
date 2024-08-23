@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:55 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Watkins Glen (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange defined circle with interior slow burn flame passes slowly E to W following Glen Creek above tree canopy Watkins Glen, NY.Looking up through trees of campsite, (Tuscarora Village N. side) Watkins Glen State Park, husband and wife observed orange red circle moving silently slowly in west direction up Glen Creek (East to West).  The object was orange in center and had a red fire like ring on the peripheral circle, which had fire like licks or prongs emanating into the center orange portion, similar to looking straight up into the base of a rocket outlet, but flame going inwards to center and flames were slowly intermittent like a dying ember not a fast burn. The object moved slowly west (visible intermittently through the tree canopy) and did not appear to be relatively high, I.E. lower than commercial jet aircraft and about as high as local prop aircraft).  The shape was definite perfect circle not rough like mold burn. Lost track through tree canopy.  (No intoxicants involved with reporters and they are objectively trained and not subject to emotional speculation).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112906.html](http://www.nuforc.org/webreports/reports/112/S112906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Laramie (east of) (WY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>Cloud-like object at extreme range changes shape.This account is taken from a personal report made shortly after the sighting:  "I was driving westbound on Interstate 80 between Cheyenne and Laramie, Wyoming when I spied what I at first thought to be a tiny cloud in an otherwise cloudless sky.  Very soon after sighting it, we passed from Laramie County (containing Cheyenne) into Albany County (containing Laramie).  The heavens were still bright (sunset had been at 19:39).  The only other object in the sky was the first-quarter Moon.  The "cloud" had an almost vertical orientation at first, and apparently hung over the Vedauwoo area (a formation of exposed granite mountains east of Laramie).  After a minute or so, the "cloud" took on more of a spherical shape but later did resume its near-vertical attitude for a short while.  As I drove toward the very bright object at 65 mph, it only seemed to get further away, more starlike, and closer to the horizon, until I lost it at about 20:05, some nine minutes after first noticing it."  The most likely explanation for this sighting is a high-altitude westbound aircraft reflecting the rays of the Sun and emitting a short contrail.  But it might have been something less conventional.  It certainly impressed me enough at the time to record the details, even though I am a licensed pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32770.html](http://www.nuforc.org/webreports/reports/032/S32770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
