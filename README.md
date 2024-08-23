@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large gold glowing ball of light that flies west to east and disappearsI was in my front yard, watering and stargazing when a large glowing gold light showed up in the western sky about the tree tops across the street.  At first I thought it was a satellite, but it was very large and very bright. Next thought was that it was a plane, it seemed to be *flying* at a height that a plane would. There was no noise, however. It flew in a direct path over my house, directly over my head, there was no other lights, there seemed to be no visible shape.  It was just a big gold glowing ball of light.  As it headed slightly east off into the sky, it stopped glowing, it went from this glowing ball of light to a lightly dimmed star, that was still moving, till I couldn't see it anymore. I don't know if it just disappeared or because it was so dim that it blended in with the other dim stars around it that I just couldn't see it anymore. 10 mins later I went into the backyard and there was an actual US air craft with lots of flashing red and blue ! lights flying fairly low in the area & then I stood out there about a half hour later and there were two more US air crafts much higher in the sky in the same area about 5 mins a part from each other.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92100.html](http://www.nuforc.org/webreports/reports/092/S92100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Mother & son witness bizarre obj., "the size of a football," hovering in sky.  They pursue it in truck for some reason.  Both alarmed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00748.html](http://www.nuforc.org/webreports/reports/000/S00748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
