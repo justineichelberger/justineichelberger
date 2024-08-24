@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:20 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:44 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Guilderland (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two spherical objects were observed,they were each reddish orange, silent, and seen in the lower eastern sky.  they moved in a straight line.  The first object  came to a stop and held its position.  The second approached the first and stopped prior to reaching the first object.  They stayed stationary and near each other for a minute.  The first appeared to grow smaller as if it were rising very quickly, then disappeared.  The second did the same  and also disappeared after 30 seconds.((NUFORC Note:  Witness elects to remain anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101528.html](http://www.nuforc.org/webreports/reports/101/S101528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Kohala Coast (Big Island) (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dancing light over Hawaiian OceanIt took us this long to find out about your center.We were 5 floors up facing the ocean over a beach in a well known resort. The sky was dark. Our sliding glass door to our room was closed and locked. When we were getting ready to go to dinner my husband heard a knock on our sliding glass door. He asked me if I heard THAT and I answered no. Within seconds, it knocked again but this time I heard it! From where? We had a private balcony many feet up from a beach. We felt compelled to open the sliding glass door and we saw it. Two bouncing lights over the ocean doing a dance. Awestruck we tried to communicate telepathically and sent our greetings to what appeared to be a joyous welcome from unknown visitors in the sky. We watched the lights move quickly to the right and left, then when I asked my husband quietly to get the camera on the bed, he slipped out and at that time, the lights did a corkscrew movement backward and charged away at an unbelievable speed. Gone.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48902.html](http://www.nuforc.org/webreports/reports/048/S48902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
