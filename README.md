@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 23 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Mother & son witness bizarre obj., "the size of a football," hovering in sky.  They pursue it in truck for some reason.  Both alarmed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00748.html](http://www.nuforc.org/webreports/reports/000/S00748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Farmington (MN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Brilliant green flash sightedOn a Thursday evening on August 24th, I was laying in bed, observing the late night commute out of my bedroom window (looking at cars at night settles me down before I go to bed).  As I was observing the late night streets (at the time it was about 10:00 pm) i noticed an extremely bright green flash that occupied the entire sky for about a split second, brighter than lightning.  I was slightly horrified and scared by what I had just seen.  I thought it was a mere hallucination, until I told my friend at the bus stop about a week later, and he said that he had seen it as well.  These flashes seem to go on regularly around my area for some strange reason in which I don't know, but no flash was as bright as I had just seen.((NUFORC Note:  Probable hoax from student, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53347.html](http://www.nuforc.org/webreports/reports/053/S53347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
