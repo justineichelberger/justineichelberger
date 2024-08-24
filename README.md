@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Pierce (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four small flaming objects silently flying toward the north west.I walked out my front door and looked up into the sky around 10:30PM.  There were 3 small red flaming objects moving toward the northwest flying over my house.  They were all moving together but did not appear to be a single object.I opened the door and told my wife to come and see the objects.  She came out the door and saw two of them and a fourth one that came flying in the same direction following the other 3.  Neither my wife nor I heard any plane or motor sound as they passed overhead.They appeared to be very low in the sky like they were flying about twice as high as the nearby tree tops.  As they moved off in the distance,  They did not fade away as expected, but one by one just disappeared as if they were being turned off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112959.html](http://www.nuforc.org/webreports/reports/112/S112959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rantoul (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two white lights seen by two separate people 30 minutes apart in same location, central IL.On the evening of August 24, 2016, I was driving to Rantoul, IL, from Thomasboro, IL, along Route 45 North approximately 8:15 pm Central time, or so.  North of me a couple of miles ahead, I saw what looked like a bright star but it was too early for stars to be that bright in the north.  The sun had set, but the sky was still bright in the west.  As I got closer, I noticed that the light wasn't moving in any direction.  It wasn't blinking like a tower or a plane is required to do because of air traffic.  Then I saw that it was actually two lights right next to each other.I passed it at the intersection of Rt. 45 and Wheat Ave.  There was a line of trees for a distance before I got to that intersection and I struggled to see the lights until I passed the trees almost at the intersection.  The lights were at least 300-400 feet up in the air by my best estimate.  About as high as a tall tower, or wind turbine maybe higher, but not much. They were several feet apart from each other.  My windows were down, I was driving about 40 mph and there was no wind.  It was dead calm other than the wind from my driving and I heard nothing.  No engine noise, no rotor thumping.  And the lights were not moving, nor was there anything blinking.I drove back by the same spot at 8:45-8:50 pm and the lights were gone.  When I got home, I wrote up what I saw and posted on Facebook and a friend of mine said her son saw the same thing about 8:45 as they were also driving north.  He said the lights suddenly ‘took off’ were the words he used, towards Champaign, IL to the south.  When I asked how fast, she said it was pretty quick, because he lost track of it quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129482.html](http://www.nuforc.org/webreports/reports/129/S129482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
