@@ -64,29 +64,29 @@
   
 <!-- ### statistics -->
 
-<h3><details open>
+<!-- <h3><details open>
   <summary>statistics</summary><br>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <!-- <td>
+    <td>
       <a href="https://github.com/justineichelberger" style="padding-left: 20%;">
         <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=justineichelberger&show_icons=true&line_height=20&count_private=true&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" alt="Justin's GitHub Stats" />
       </a>&nbsp;
-    </td> -->
+    </td>
     <td>&nbsp;
       <a href="https://github.com/justineichelberger" style="padding-left: 10%;">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=css, Jupyter Notebook, procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
-    <!-- <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
+    <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
       <img src="https://metrics.lecoq.io/justineichelberger?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FDenver" />
-    </td> -->
+    </td>
   </tr>
 </table>
 
 </details>
-</h3>
+</h3> -->
   
 [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)   
   
