@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tillamook (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three  cigar shaped lights, each at different distance, the third started my direction fast at first then slowed, then turned west a bit and then stopped.  Hovered a moment, and slowly start towards my direction again.  I ran into the house the fetch my phone (just seconds), and when I got back all three were gone in any direction.  Went so fast, couldn't believe I was seeing it.  So amazing!  Wish I had gotten video....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135887.html](http://www.nuforc.org/webreports/reports/135/S135887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chateauguay (Canada) (QC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Over 50 bright little white lights were spotted in the East.  After 10 minutes they shot in the air and disappearedOver 50 little white lights were sighted in the East.  They formed a circle.  Looked through binoculars, we could see that they were bright white lights, shining in the high distance.  We could not see them if we were not wearing sun glasses.  This sighting was seen by 5 people which included my neighbors.  This is not the first sighting of these lights.  After about 10 minutes they shot up in the sky and disappeared.  My husband took a video with his phone but unfortunately we can not see the lights.  Maybe a better camera or equipment can make it clearer but we do not have this here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101599.html](http://www.nuforc.org/webreports/reports/101/S101599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
