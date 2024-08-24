@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Silent Orange Lights over PeterboroughWhile leaving work, I noticed two orange lights in the sky.  They were a fair size which told me they were relatively close.  The odd thing was, they made no sound that I could hear.  I saw these two lights for about 45 seconds, then they disappeared behind a tree.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101987.html](http://www.nuforc.org/webreports/reports/101/S101987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Diamond shaped object in night sky S-S of Victoria BC at around 11 o'clock positionLight that is visible in a fixed location in the night sky S-SW of Victoria BC approximately in the 11 o'clock position in the sky. Light is much brighter than any other object in the sky and seems to be diamond shaped that is off-yellow in colour. I noticed it from my backyard and was visible through the trees, this is why it caught my eye. I'm no astronomer so it could be venus or another celestial body, even a satellite but I have never noticed it before and it appears synthetic to my untrained eye. As of 1:57am it is still visible and appears to have moved somewhat. Not moving very much though.((NUFORC Note:  We wonder whether the witness might have witnessed the planet, Mars, which is quite prominent, currently.  Witness elects to remain totally anonymous, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30872.html](http://www.nuforc.org/webreports/reports/030/S30872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
