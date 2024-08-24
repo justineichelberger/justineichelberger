@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rissequogue (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately short - short minutes.</sub><blockquote><sub>A craft high above earth's dome shoots off into spaceAbove the Long Island sound on the sand dunes of Long Beach sat about 17 people and I at around 11PM EST watching the almost clear night sky and connecticut.  As about 10 of us lye down watching the stars, we noticed a small white light moving slowly behind the clouds which I thought was a sattelite.  After a period of maybe 20 seconds of looking at it, a huge flash emerged from it and around it which light up a good portion of the sky, and reflected off the water as well, being very bright, then immediatly shot off to the upper right and dissappeared. 10 of 10 people agreed it was not a shooting star. 7 people agreed they had no explaination for it. 3 of us non-UFO skeptics including myself agree it had to be a UFO. Inside of that, my friend works for the US Coast guard and informed me 3 nights ago that on August 8th when he was on duty, him and several other coast guard officials got a report of a "plane with no wings" was heading there way. He stated it flew over head very fast, apparently plunged into the water and shot out to sea. He stated some form of the government came hellicopters and all and ordered everyone off the beach, park rangers, by standers, police officials, and the coast guard. Every police station was ordered to destroy every report they received about an "Unidentified Flying Object". It was ironic because I was telling this story to my friends when we saw what we saw.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45828.html](http://www.nuforc.org/webreports/reports/045/S45828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Washington (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15-25 - 15-25 minutes.</sub><blockquote><sub>Nobody's saying we saw ET, just want an explanation.The first object was witnessed by my employer and I while in our parking lot.  Noticing an orange glowing light in the night sky, we guessed at possibilities such as a helicopter with a searchlight, or a flare.  She briefly thought she heard a muffled helicopter type sound, but we were standing near an outside AC unit which also produces a hum.  We then took notice that outside of the orange light, we could make out no other lights on the object, which moved with what seemed like a controlled "floating" similar to that of a helicopter.  The brightness of the color varied but was always orange as it moved basically parallel and a few hundred feet above the tree line, until eventually disappearing.  Ruling out the flare theory, and assuming we had seen a helicopter equipped with searchlight, the darkness, or our angle of viewing causing the odd appearance, my employer leaves.  Three more fellow employees walk outside and as I'm filling them in, one points to what appears to be two, new, similar objects.  We watched for what I'd guess was around 15 minutes as they took a like path as that of the first object, but at various points seemed touch each other, fly in loose formation and be linked or connected(think one towing the other).  Again the constant orange color with varying stages of brightness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101566.html](http://www.nuforc.org/webreports/reports/101/S101566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
