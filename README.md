@@ -64,29 +64,31 @@
   
 <!-- ### statistics -->
 
-<h3><details open>
+<!-- <h3><details open>
   <summary>statistics</summary><br>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <td>
       <a href="https://github.com/justineichelberger" style="padding-left: 20%;">
         <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=justineichelberger&show_icons=true&line_height=20&count_private=true&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" alt="Justin's GitHub Stats" />
       </a>&nbsp;
     </td>
-    <td align="center">&nbsp;
+    <td>&nbsp;
       <a href="https://github.com/justineichelberger" style="padding-left: 10%;">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=css, Jupyter Notebook, procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
     <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
-      <img src="https://metrics.lecoq.io/justineichelberger?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FDenver" />
+      <img src="https://metrics.lecoq.io/justineichelberger?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FDenver" />
     </td>
   </tr>
 </table>
 
 </details>
-</h3>
+</h3> -->
+
+<br>
   
 [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)   
   
@@ -212,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:20:06 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Osborne (KS) reported seeing craft that fit the description of some '' over a period of approximately 03:30 - 03:30 minutes.</sub><blockquote><sub>They came at night and stabbed my leg and left.I was 17 years old and still in highschool. I lived with my grandparents in the basement where there were no windows. I was in bed and fast asleep when some flashing lights in my room awakened me. It was very cold all the sudden and I became very terrified.  It was such a scary feeling that i could not move. The blinking lights had stopped when I first woke up. I kept my eyes open for a few minutes and the blinking lights started again. Every time the lights blinked there were these creatures around my bed looking at me, as the lights blinked faster they began to move towards me and one of them put its three fingered hand on my forhead while the others( there was four of them)started tuging on my covers, but they weren't really touching anything. They were grey with flashy clothes and big heads, with really big black pearl eyes. The fear that came over me when the one touched my forhead paralized me dramaticaly. I closed my eyes and prayed for it to go away. But I had to open them and I didn't know why it was like a curiousity that made me open them. Then he looked at two of the beings at the foot of the bed and they grabbed my left leg and poked my calf on my left leg. They had a futuristic metal object with like buttons or switches on it, they jabbed it into my leg and pulled it out, but not all of it was there when they done so. When that was done, the one that touched my forhead looked at me and it was like a mental message was spoke. It said "If you tell no one we will return to visit you." Then the blinking lights quit and it was very dark. I heard this humming noise that got really loud then desipated into nothing. The next day I asked my Grandmother about a loud noise and she said that she heard it and it woke her up but she didn't think anything about it. I waited several days before I finally told my Grandmother. I finally told my wife about it one year ago and she didn't believe me. Still to this day my leg still itches in the spot they stabbed me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26204.html](http://www.nuforc.org/webreports/reports/026/S26204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Manchester (near) (VT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk Shaped UFO Near VT SwampI was driving in my car, it was near sunderland VT. It was near a swamp. I look up at the sky and I see a thin silver shape in the sky, It was just sitting there, If you follow this link:   http://1.bp.blogspot.com/-hfWElYiN3Do/UVBbHizeDBI/AAAAAAAARho/fUBeI7b3_do/s1600/Malta+UFO+1903+180035.jpgThe disk looked JUST LIKE IT. Then when as I was driving, trees got in the way, then when the trees were cleared, the disk was gone.  I have seen another Disk recently, but I do not remember where I was or anything about it really,  It was very quick.  The second sighting was again, the same shape as the link((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98729.html](http://www.nuforc.org/webreports/reports/098/S98729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
