@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in East Patchogue (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular lights over Suffolk county nyVery strange round lights in the sky swirling around in circular patterns very fast.  Confirmed in east patchogue and farmingville ny via phone call.  I tried to get this on video and the video was gone after recording.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135891.html](http://www.nuforc.org/webreports/reports/135/S135891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rissequogue (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately short - short minutes.</sub><blockquote><sub>A craft high above earth's dome shoots off into spaceAbove the Long Island sound on the sand dunes of Long Beach sat about 17 people and I at around 11PM EST watching the almost clear night sky and connecticut.  As about 10 of us lye down watching the stars, we noticed a small white light moving slowly behind the clouds which I thought was a sattelite.  After a period of maybe 20 seconds of looking at it, a huge flash emerged from it and around it which light up a good portion of the sky, and reflected off the water as well, being very bright, then immediatly shot off to the upper right and dissappeared. 10 of 10 people agreed it was not a shooting star. 7 people agreed they had no explaination for it. 3 of us non-UFO skeptics including myself agree it had to be a UFO. Inside of that, my friend works for the US Coast guard and informed me 3 nights ago that on August 8th when he was on duty, him and several other coast guard officials got a report of a "plane with no wings" was heading there way. He stated it flew over head very fast, apparently plunged into the water and shot out to sea. He stated some form of the government came hellicopters and all and ordered everyone off the beach, park rangers, by standers, police officials, and the coast guard. Every police station was ordered to destroy every report they received about an "Unidentified Flying Object". It was ironic because I was telling this story to my friends when we saw what we saw.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45828.html](http://www.nuforc.org/webreports/reports/045/S45828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
