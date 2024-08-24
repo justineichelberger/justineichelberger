@@ -87,6 +87,8 @@
 
 </details>
 </h3> -->
+
+<br>
   
 [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)   
   
