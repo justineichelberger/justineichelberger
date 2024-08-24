@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chateauguay (Canada) (QC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Over 50 bright little white lights were spotted in the East.  After 10 minutes they shot in the air and disappearedOver 50 little white lights were sighted in the East.  They formed a circle.  Looked through binoculars, we could see that they were bright white lights, shining in the high distance.  We could not see them if we were not wearing sun glasses.  This sighting was seen by 5 people which included my neighbors.  This is not the first sighting of these lights.  After about 10 minutes they shot up in the sky and disappeared.  My husband took a video with his phone but unfortunately we can not see the lights.  Maybe a better camera or equipment can make it clearer but we do not have this here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101599.html](http://www.nuforc.org/webreports/reports/101/S101599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Pierce (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four small flaming objects silently flying toward the north west.I walked out my front door and looked up into the sky around 10:30PM.  There were 3 small red flaming objects moving toward the northwest flying over my house.  They were all moving together but did not appear to be a single object.I opened the door and told my wife to come and see the objects.  She came out the door and saw two of them and a fourth one that came flying in the same direction following the other 3.  Neither my wife nor I heard any plane or motor sound as they passed overhead.They appeared to be very low in the sky like they were flying about twice as high as the nearby tree tops.  As they moved off in the distance,  They did not fade away as expected, but one by one just disappeared as if they were being turned off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112959.html](http://www.nuforc.org/webreports/reports/112/S112959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
