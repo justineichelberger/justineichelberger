@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bow (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>fireball with a tail streaking WSW really close and faston the date specified my father and I were outside visiting between our houses and as we were we were looking up and saw some sort of fireball??? streak across the sky with a long tail . It was traveling wsw and looked really close and my father and I were wondering what it could have been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13946.html](http://www.nuforc.org/webreports/reports/013/S13946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Silent Orange Lights over PeterboroughWhile leaving work, I noticed two orange lights in the sky.  They were a fair size which told me they were relatively close.  The odd thing was, they made no sound that I could hear.  I saw these two lights for about 45 seconds, then they disappeared behind a tree.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101987.html](http://www.nuforc.org/webreports/reports/101/S101987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
