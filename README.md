@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:49 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Farmington (MN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Brilliant green flash sightedOn a Thursday evening on August 24th, I was laying in bed, observing the late night commute out of my bedroom window (looking at cars at night settles me down before I go to bed).  As I was observing the late night streets (at the time it was about 10:00 pm) i noticed an extremely bright green flash that occupied the entire sky for about a split second, brighter than lightning.  I was slightly horrified and scared by what I had just seen.  I thought it was a mere hallucination, until I told my friend at the bus stop about a week later, and he said that he had seen it as well.  These flashes seem to go on regularly around my area for some strange reason in which I don't know, but no flash was as bright as I had just seen.((NUFORC Note:  Probable hoax from student, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53347.html](http://www.nuforc.org/webreports/reports/053/S53347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Medford (outskirts) (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Strange flashing whitish light that moved like a plane but then stopped and stood still for five minutes.My brother, mother and I were driving along North Phoenix Road North towards Medford.  We were in between Medford and Phoenix, perhaps the outskirts of Medford, around Campbell road, when I noticed a light flashing in the sky in front of us and a little to the right (East).  It was flashing in a strange way, so I pulled to the side of the road.  We got out and watched a UFO move steadily in our direction but somewhat to the East over the mountains.  At first I thought it might be a plane, but the entire craft was flashing, as I said, in a strange way. It was about 2:30 pm, so it was broad daylight, and the light needed to be fairly bright in order to flash that way.  The way that it was flashing gave me the impression that various parts of the craft were rotating.  The whitish light was continuously emanating from it, but in different intensities and from different parts of the craft.  So, the craft continued along and passed us, continuing South and a little East,! when it suddenly just stopped. I then knew definitely that it wasn't a plane.  It sat there stationary, and still flashing, for about five minutes.  We watched it for those five minutes until we had to go (we were late for something), so I have no idea how long it stayed in that position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71915.html](http://www.nuforc.org/webreports/reports/071/S71915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
