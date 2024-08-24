@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:48 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:20 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rhos (near Wrexham) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>three orange lights regularly appeared formed triangle and  headed off into north wales mountians ,nr wrexhambeen in local pappers last two weeks hundreds of poeple have reported sightings,they fly over about the same time every night and form an triangle formation no sound nor flashing lights like aircraft,they just move slowly without any sudden movement or change in direction towards the local mountains?Three small one s move together and tonight a larger one came from different direction and headed towards them ,they are round orange lights they seem quite low in the sky but no noise ,the thirty people were all neighbours everyone was out in the street ,there is a video of one of the events sent in to the local newspaper on ,www.evening-leader.co.uk</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65873.html](http://www.nuforc.org/webreports/reports/065/S65873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Guilderland (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two spherical objects were observed,they were each reddish orange, silent, and seen in the lower eastern sky.  they moved in a straight line.  The first object  came to a stop and held its position.  The second approached the first and stopped prior to reaching the first object.  They stayed stationary and near each other for a minute.  The first appeared to grow smaller as if it were rising very quickly, then disappeared.  The second did the same  and also disappeared after 30 seconds.((NUFORC Note:  Witness elects to remain anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101528.html](http://www.nuforc.org/webreports/reports/101/S101528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
