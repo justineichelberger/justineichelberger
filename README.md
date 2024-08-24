@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Diamond shaped object in night sky S-S of Victoria BC at around 11 o'clock positionLight that is visible in a fixed location in the night sky S-SW of Victoria BC approximately in the 11 o'clock position in the sky. Light is much brighter than any other object in the sky and seems to be diamond shaped that is off-yellow in colour. I noticed it from my backyard and was visible through the trees, this is why it caught my eye. I'm no astronomer so it could be venus or another celestial body, even a satellite but I have never noticed it before and it appears synthetic to my untrained eye. As of 1:57am it is still visible and appears to have moved somewhat. Not moving very much though.((NUFORC Note:  We wonder whether the witness might have witnessed the planet, Mars, which is quite prominent, currently.  Witness elects to remain totally anonymous, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30872.html](http://www.nuforc.org/webreports/reports/030/S30872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Osborne (KS) reported seeing craft that fit the description of some '' over a period of approximately 03:30 - 03:30 minutes.</sub><blockquote><sub>They came at night and stabbed my leg and left.I was 17 years old and still in highschool. I lived with my grandparents in the basement where there were no windows. I was in bed and fast asleep when some flashing lights in my room awakened me. It was very cold all the sudden and I became very terrified.  It was such a scary feeling that i could not move. The blinking lights had stopped when I first woke up. I kept my eyes open for a few minutes and the blinking lights started again. Every time the lights blinked there were these creatures around my bed looking at me, as the lights blinked faster they began to move towards me and one of them put its three fingered hand on my forhead while the others( there was four of them)started tuging on my covers, but they weren't really touching anything. They were grey with flashy clothes and big heads, with really big black pearl eyes. The fear that came over me when the one touched my forhead paralized me dramaticaly. I closed my eyes and prayed for it to go away. But I had to open them and I didn't know why it was like a curiousity that made me open them. Then he looked at two of the beings at the foot of the bed and they grabbed my left leg and poked my calf on my left leg. They had a futuristic metal object with like buttons or switches on it, they jabbed it into my leg and pulled it out, but not all of it was there when they done so. When that was done, the one that touched my forhead looked at me and it was like a mental message was spoke. It said "If you tell no one we will return to visit you." Then the blinking lights quit and it was very dark. I heard this humming noise that got really loud then desipated into nothing. The next day I asked my Grandmother about a loud noise and she said that she heard it and it woke her up but she didn't think anything about it. I waited several days before I finally told my Grandmother. I finally told my wife about it one year ago and she didn't believe me. Still to this day my leg still itches in the spot they stabbed me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26204.html](http://www.nuforc.org/webreports/reports/026/S26204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
