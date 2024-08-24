@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Flanders (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>We were sitting on the mountain view playground, looking at the stars.  Around 4 am in the morning, we saw a flying disk, on the horizon over the trees come flying over the trees.  It was blinking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148819.html](http://www.nuforc.org/webreports/reports/148/S148819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in East Patchogue (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular lights over Suffolk county nyVery strange round lights in the sky swirling around in circular patterns very fast.  Confirmed in east patchogue and farmingville ny via phone call.  I tried to get this on video and the video was gone after recording.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135891.html](http://www.nuforc.org/webreports/reports/135/S135891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
