@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:49 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:52 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Medford (outskirts) (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Strange flashing whitish light that moved like a plane but then stopped and stood still for five minutes.My brother, mother and I were driving along North Phoenix Road North towards Medford.  We were in between Medford and Phoenix, perhaps the outskirts of Medford, around Campbell road, when I noticed a light flashing in the sky in front of us and a little to the right (East).  It was flashing in a strange way, so I pulled to the side of the road.  We got out and watched a UFO move steadily in our direction but somewhat to the East over the mountains.  At first I thought it might be a plane, but the entire craft was flashing, as I said, in a strange way. It was about 2:30 pm, so it was broad daylight, and the light needed to be fairly bright in order to flash that way.  The way that it was flashing gave me the impression that various parts of the craft were rotating.  The whitish light was continuously emanating from it, but in different intensities and from different parts of the craft.  So, the craft continued along and passed us, continuing South and a little East,! when it suddenly just stopped. I then knew definitely that it wasn't a plane.  It sat there stationary, and still flashing, for about five minutes.  We watched it for those five minutes until we had to go (we were late for something), so I have no idea how long it stayed in that position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71915.html](http://www.nuforc.org/webreports/reports/071/S71915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Madison (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15:00 - 15:00 minutes.</sub><blockquote><sub>another fireball sighting in the sky maybe two .was going to work at three in the morning . at my back stairs i looked up and saw a streak of light.  At that time also saw a jet flying in almost in the same direction. Looking just above the tree line observed a fireball shaped thing.  It moved around in many directions . up, down, speed off sideways at a very fast speed than return to same spot and hover moving around just a little bit.  I am seeing a pattern forming here.  Seems that these objects appear while there is no moon. I have tried to video this but lack the proper video tools to document what is going on here . this is a real case and should not be ignored. I have seen this once before.  Same craft same area just about.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112814.html](http://www.nuforc.org/webreports/reports/112/S112814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
