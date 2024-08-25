@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Crestline (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Several lights appear, multiply, then disappear in the span of one half hour.Driving home on state hwy 18, 21:30.  Looking south, noticed two very bright lights hovering above what seemed to be Corona CA.  I then stopped in a turnout and began to film for twenty five minutes.  The first two lights hovered next to each other for several minutes then each split into two lights.  Minutes later one pair disappeared, then for the next fifteen minutes one light would appear above and to the west from the first, and the lower light would disappear.  It is also important to note that the lights began at exactly 21:30, and ended at exactly 22:00.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112904.html](http://www.nuforc.org/webreports/reports/112/S112904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, metallic object lands on city street in Cottonwood, AZ.during rain stormDuring a summer rain storm prior to sunset, I took a photo out the living room window.  Two minutes later I took a video of the exact same scene of the rain storm.  Later, while reviewing them, I discovered an oblong, rectangular object on the street below in the photograph but it was not in the video taken two minutes later.  The object was approximately 75 feet long and 20 feet wide.  Although not clearly decipherable, perhaps due to the rain, it appears there is some form of lettering on top of the object.  I have saved both the photograph and video on my camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102920.html](http://www.nuforc.org/webreports/reports/102/S102920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
