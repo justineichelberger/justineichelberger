@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:20:06 on 24 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:19 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Manchester (near) (VT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk Shaped UFO Near VT SwampI was driving in my car, it was near sunderland VT. It was near a swamp. I look up at the sky and I see a thin silver shape in the sky, It was just sitting there, If you follow this link:   http://1.bp.blogspot.com/-hfWElYiN3Do/UVBbHizeDBI/AAAAAAAARho/fUBeI7b3_do/s1600/Malta+UFO+1903+180035.jpgThe disk looked JUST LIKE IT. Then when as I was driving, trees got in the way, then when the trees were cleared, the disk was gone.  I have seen another Disk recently, but I do not remember where I was or anything about it really,  It was very quick.  The second sighting was again, the same shape as the link((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98729.html](http://www.nuforc.org/webreports/reports/098/S98729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, metallic object lands on city street in Cottonwood, AZ.during rain stormDuring a summer rain storm prior to sunset, I took a photo out the living room window.  Two minutes later I took a video of the exact same scene of the rain storm.  Later, while reviewing them, I discovered an oblong, rectangular object on the street below in the photograph but it was not in the video taken two minutes later.  The object was approximately 75 feet long and 20 feet wide.  Although not clearly decipherable, perhaps due to the rain, it appears there is some form of lettering on top of the object.  I have saved both the photograph and video on my camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102920.html](http://www.nuforc.org/webreports/reports/102/S102920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
