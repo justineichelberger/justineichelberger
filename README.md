@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:02 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:28 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Alberta/3-34-83-8 w6m (well lease #) (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three lights the colour of heated steel.I work night shift for a oil feild service company, recording well data. The office  air was was getting stuffy and I had stepped out side for a breath of fresh air, and was facing east, when i seen three red lights( the colour of heated metal) moving south,southeast. When i frist seen it, they were in the shape of right angle triangle. the center light was 90 degrees to the other two lights, and they were equal distance from the center light. As they moved a way from me the light on the left appeared to be moving off to the left. After about a minute the lights faded to black (it was like an aperture closing over the light ) and about 1-2 seconds later they disappeared. While they black I could see the outline shapes against the stars untill they dispeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19345.html](http://www.nuforc.org/webreports/reports/019/S19345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Woodmere (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Invisible, Helicopter-Like, Strange-Sounding FlybyNot seen, heard.  My wife heard it too. This was the second time I heard the same sound (first time was a year or two ago at the same location, North Woodmere Golf Course), something invisible flying by rapidly, or it was some weird sound effect from surrounding structures (its near JFK where jet engine testing and stuff goes on), but it sure sounds like something invisible is flying by very rapidly at low altitude, roughly toward the airport both times. It was somewhat of a whoop-whoop similar to a helicopter, but a bit different.  We looked in every direction and saw nothing and had a good view in all directions being on a golf course.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86811.html](http://www.nuforc.org/webreports/reports/086/S86811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
