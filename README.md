@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:19 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:16 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, metallic object lands on city street in Cottonwood, AZ.during rain stormDuring a summer rain storm prior to sunset, I took a photo out the living room window.  Two minutes later I took a video of the exact same scene of the rain storm.  Later, while reviewing them, I discovered an oblong, rectangular object on the street below in the photograph but it was not in the video taken two minutes later.  The object was approximately 75 feet long and 20 feet wide.  Although not clearly decipherable, perhaps due to the rain, it appears there is some form of lettering on top of the object.  I have saved both the photograph and video on my camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102920.html](http://www.nuforc.org/webreports/reports/102/S102920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Coldwater (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>seen in 1972 and seen later toodark for about 20 30 minutes me and my cousin were catching fire flies and thought that what we were seeing coming at us was a low flying plane.  It had flashing orange lights on the nose and both wing tips was huge with a wing span of at least 600 feet and was traveling east to west at an altitude of about 500  It was toward the end of August in 1972 in coldwater Alabama at about 8 o’clock at night it had been to 750 feet and moving at about 40 to 60 miles an hour and had no visible system of propulsion.  The craft moved in total silence and was triangle shaped but indented in the rear making it resemble the wing of a fighter jet with no body in thickness and configuration it passed directly over us without a sound and kept going in the direction of Birmingham  it was seen 1 time before and several times since but never checked out I do not no if it has been seen recently or not,((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76990.html](http://www.nuforc.org/webreports/reports/076/S76990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
