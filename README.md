@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:16 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:02 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Coldwater (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>seen in 1972 and seen later toodark for about 20 30 minutes me and my cousin were catching fire flies and thought that what we were seeing coming at us was a low flying plane.  It had flashing orange lights on the nose and both wing tips was huge with a wing span of at least 600 feet and was traveling east to west at an altitude of about 500  It was toward the end of August in 1972 in coldwater Alabama at about 8 o’clock at night it had been to 750 feet and moving at about 40 to 60 miles an hour and had no visible system of propulsion.  The craft moved in total silence and was triangle shaped but indented in the rear making it resemble the wing of a fighter jet with no body in thickness and configuration it passed directly over us without a sound and kept going in the direction of Birmingham  it was seen 1 time before and several times since but never checked out I do not no if it has been seen recently or not,((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76990.html](http://www.nuforc.org/webreports/reports/076/S76990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Alberta/3-34-83-8 w6m (well lease #) (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three lights the colour of heated steel.I work night shift for a oil feild service company, recording well data. The office  air was was getting stuffy and I had stepped out side for a breath of fresh air, and was facing east, when i seen three red lights( the colour of heated metal) moving south,southeast. When i frist seen it, they were in the shape of right angle triangle. the center light was 90 degrees to the other two lights, and they were equal distance from the center light. As they moved a way from me the light on the left appeared to be moving off to the left. After about a minute the lights faded to black (it was like an aperture closing over the light ) and about 1-2 seconds later they disappeared. While they black I could see the outline shapes against the stars untill they dispeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19345.html](http://www.nuforc.org/webreports/reports/019/S19345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
