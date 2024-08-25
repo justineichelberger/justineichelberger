@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Crescent City (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Telephoned Report:50-60 people witness several peculiar objs. to W maneuvering over water.  Call goes out over CB radio net regarding objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00764.html](http://www.nuforc.org/webreports/reports/000/S00764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hudson (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>this is a huge triangle shape ufo with one big light and three smaller lightsthis is the first ufo i have ever seen it has one huge bright light with two smaller lights to the left and one smaller one to the right.  I have been trying to take picture's but it's too far away.  i have been looking at it for a long time and got some binoculars and saw the whole thing.  I think i saw a shape like this one time on UFO Hunter's. I dont know if anybody else saw it as clear but it looks huge.  i cannot beleive it.  It is happening at this point in time and has been there for about 30 min.  It has moved along ways but is still in the nights sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77415.html](http://www.nuforc.org/webreports/reports/077/S77415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
