@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Atlantic City (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange metailic object over a NJ shore community bay.First off the craft looked like a circle with exteremly thing wings, when we first saw it we were traveling down Rt.40/322 past the A.C. High School. At first I thought it was a local man's plane that has been designed to look like it's flying backward. It was flying roughly over Wellington ave. over the back bays going westward, it was a grey metalic color and was shining in the mid-day sun, while the mans plane had a red color on it and a very pronounced proppeler. It wasn't going fast. I watched it while my fiance concentrated on driving while periodicly looking up at it.  As we turned off of Rt.40 and onto wellington I looked away from it to see if there were any cars coming as is my custom since i've been in many near accidents.  I looked back up to where it was, and it was gone.  Now the area where it had been flying was completely clear of clouds, and it is over marshes and bay, so there is no way it could have gone behind a building, now short of crashing in the water, which i'm sure we would have heard, there is no way it could have gotten out of sight at the speed it was going. This isn't the first time i've seen something in the sky, i've lived here since I was little and have seen many a U.F.O. and I beleive i've also caught a conversation about one on my scanner on a frequency used by the air force, I think if there is anything here in this particular area, it's because of the air force base close by. My background is a highschool dropout and i've been working steadily sine I was 17, and my fiance is a student at a school in philadelphia, we both have no history of psycosis or hallucinations, we've never taken any drugs with hallucinagenic traits that may be lingering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46770.html](http://www.nuforc.org/webreports/reports/046/S46770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Goshen (KY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 182</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164633.html](http://www.nuforc.org/webreports/reports/164/S164633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
