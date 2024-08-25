@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Telephoned Report: Man calls to report AP news wire report regarding object over W Pennsylvania.  Report appears to contain multiple tech. errors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00760.html](http://www.nuforc.org/webreports/reports/000/S00760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brookhaven (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Wierd neon green object.It was a clear night and I was standing outside having a cigaret when I noticed something out of the corner of my eye. I looked up and saw a neon green spherical object. It was heading pretty much due south towards the Atlantic. I think it was a meteor, but the odd thing was its speed. It seemed to be traveling way too slow to be a shooting star , but way too fast to be an aircraft. Now, I'm a pilot and I'm aware of the fact that altitude has a lot to due with how fast something seems to be moving, but I think whatever this was remaned in the upper atmosphere the whole time I saw it. The reason I say this is because it never really got close to the horizon before it faded out.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49235.html](http://www.nuforc.org/webreports/reports/049/S49235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
