@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Siting looking at the stars was moving fast and steady rusty dark look no lights but had a glow and was heading west it came out of sight over a tree and tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83415.html](http://www.nuforc.org/webreports/reports/083/S83415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Davis (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Davis, OK......light  hovers silently over us..I am 26 yrs old, warehouse worker....my brother is 20 warehouse worker.. Ardmore, OK  AUG 25 2007..We were laying in our motel parking lot…I noticed  a very bright star in the NE sky. We didn’t think much about it, just noticed that it was the brightest star. It caught my eye again  and I noticed it was moving directly toward us. I had time to say “should we run“ twice before this light was traveling directly over us. It  wasn’t extremely bright or large…..It hovered past us at a very decent speed…. I couldn’t see any shape really, but as this white light past and I was looking at what could be called the back of the object/light. I saw red white and blue lights flash repeatedly in a horizontal line. But still no shape. This lasted maybe 20 sec as the object flew into the SW sky. We just stood there...very confused  Within 5-10 min. We saw another white light that appeared in the distant NW sky. This light was flashing red white and blue as well. I think it was the same one… It was moving in short and very fast spurts in all directions/diagonally. When it would move, only the white light was visible. We watched this flashing and moving for about 30-45min.  I then saw two more lights, basically appear close to the first light forming a triangle. These never flashed or moved. While observing this……I saw something out of the corner of my eye…..I turned my head “WHAT THE HELL?”  Luckily my brother saw this too…It saw a cylinder shaped object ..it was transparent… energy, about 20 feet in the air, with a sphere like “head“.  That’s the only way to describe it..this was the weirdest part of the sighting.. I couldn’t believe what I was seeing …I’m so glad my brother saw the same things….. I don’t think I would be sane today  THEN two more extremely bright lights appeared to the right of the already present 3 light. These light had slight up/down movements.  The light would dim so much it was barely visible, when this happened I saw sphere shaped outlines behind the lights.. my brother did not see these sphere outlines. As the light would get bright again the shape could not be seen…If the one on the right  moved up then the one the left would move down, simultaneously. These were very short and barely noticeable. I cant determine the distance of the two. But they appeared to be closer than the  first 3...we watched this for like 2 hrs.  During this, we saw 4 shooting star. Orange in color…another weird thing is that at the hotel 3 stray cats were all over us. I mean friendly like we had had them for ten years..   very strange...but i loved it!!!!  FYI: Ft. Sill is less than 20 miles from this location</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59419.html](http://www.nuforc.org/webreports/reports/059/S59419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
