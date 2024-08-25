@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 lights in different parts of sky at same timeI am reporting this for a friend, his words:  About 10:15, i let the dogs out in the backyard.  I immediately noticed a bright light in the west about 20 degrees up.  It was flickering, i knew it wasn't a star.  I got the binoculars and saw it had flashing lights, red, white and an occasional blue  or green.  A few times a bright beam of pinkish light shot out to the side.  The light stayed in one spot except that it occasionally moved a hair sideways and back, or in a small circle.  I couldn't get the binoculars to focus sharply on it, although I can focus on the craters of the moon or a jet at 35,000 feet.  After a while watching I sort of decided that it was in a triangular shape and was rotating.I walked down the street to get a better look.  At the top of the beach i noticed another light, same deal, out over the lake.  This was not like any of the lights I've seen out there.  When I had a clear view of the sky I saw that there was another one low in the northwest, like over toward Toronto.About 11:15 all three were suddenly gone.  They didn't move away, they went out. I came in the house and was heading into bed when there were five bright flashes in the southern sky, like a flash going off. There was never any noise from any of this.  The flash was bright enough to throw shadows of the trees into the room.In the middle of the night, around 2:30, wife said "I can't sleep...aliens".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112897.html](http://www.nuforc.org/webreports/reports/112/S112897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Crescent City (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Telephoned Report:50-60 people witness several peculiar objs. to W maneuvering over water.  Call goes out over CB radio net regarding objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00764.html](http://www.nuforc.org/webreports/reports/000/S00764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
