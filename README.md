@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brookhaven (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Wierd neon green object.It was a clear night and I was standing outside having a cigaret when I noticed something out of the corner of my eye. I looked up and saw a neon green spherical object. It was heading pretty much due south towards the Atlantic. I think it was a meteor, but the odd thing was its speed. It seemed to be traveling way too slow to be a shooting star , but way too fast to be an aircraft. Now, I'm a pilot and I'm aware of the fact that altitude has a lot to due with how fast something seems to be moving, but I think whatever this was remaned in the upper atmosphere the whole time I saw it. The reason I say this is because it never really got close to the horizon before it faded out.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49235.html](http://www.nuforc.org/webreports/reports/049/S49235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lothian (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Unknown stationary object replying and mimicking actions from a high powered astronomy laserAs being a skywatcher for many hours a night along with my wife we have seen and reported before.  August 25 2019 at 11:30 my wife and I were sitting outside in lawn chairs looking up pointing out groups of stars with a high powered astronomy laser towards the east and as my wife pointed out a cluster of stars with the laser and as she pointed to a what we had being viewing as a star for the past 40 minutes, what we thought was a star illuminated a super bright gold flash that lasted about a two seconds.  So I used the high powered laser and made two flashes right on its location and within seconds it replied back with two flashes.  I followed back with three quick flashes and just like before it replies back with the same amount of flashes.  Amazed at what we were witnessing I gave it two quick flashes and two drawn out flashes and after about a second or two it replies with the exact same.  This all had taken place over a 5 minute period.  Then it slowly dimmed down to the same brightness of the surrounding stars and slowly dropped down to the same level as the stars below its first location.  It illuminated bright as before ( which reminded me of little sun ).  So after we both witnessed its movements and it’s intelligent replies it sat for about 3 minutes and slowly faded out.  This area along the Patuxent River and its swamps is one of the most hot spots I’ve ever lived or witnessed in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148505.html](http://www.nuforc.org/webreports/reports/148/S148505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
