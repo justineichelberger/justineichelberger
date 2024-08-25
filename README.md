@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Woodmere (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Invisible, Helicopter-Like, Strange-Sounding FlybyNot seen, heard.  My wife heard it too. This was the second time I heard the same sound (first time was a year or two ago at the same location, North Woodmere Golf Course), something invisible flying by rapidly, or it was some weird sound effect from surrounding structures (its near JFK where jet engine testing and stuff goes on), but it sure sounds like something invisible is flying by very rapidly at low altitude, roughly toward the airport both times. It was somewhat of a whoop-whoop similar to a helicopter, but a bit different.  We looked in every direction and saw nothing and had a good view in all directions being on a golf course.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86811.html](http://www.nuforc.org/webreports/reports/086/S86811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Crestline (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Several lights appear, multiply, then disappear in the span of one half hour.Driving home on state hwy 18, 21:30.  Looking south, noticed two very bright lights hovering above what seemed to be Corona CA.  I then stopped in a turnout and began to film for twenty five minutes.  The first two lights hovered next to each other for several minutes then each split into two lights.  Minutes later one pair disappeared, then for the next fifteen minutes one light would appear above and to the west from the first, and the lower light would disappear.  It is also important to note that the lights began at exactly 21:30, and ended at exactly 22:00.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112904.html](http://www.nuforc.org/webreports/reports/112/S112904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
