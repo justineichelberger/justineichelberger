@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:21 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Calhoun (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Large craft with red blinking lightsSighted on 8/25/2015.  Approximately 10:38 pm in Calhoun, Georgia.  Duration of sighting: Approximately ninety seconds.I was in my driveway, after letting my two small dogs out to go to the bathroom.  I glanced up to the west and I’m guessing here, about a mile or mile and a half away I saw a large object.  From my location it was two inches in width, so say two miles away, visually two inches across, how big would this thing have been?  It had exactly four red lights across it that blinked steadily, one after the next.  It was moving slowly northward.  It stopped and then the whole object canted to the right and dipped downward as if it was landing.  It disappeared beneath the tree line from my vantage point.I can’t be the only one who saw this but I haven’t found any mention of it in the news anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121494.html](http://www.nuforc.org/webreports/reports/121/S121494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Telephoned Report: Man calls to report AP news wire report regarding object over W Pennsylvania.  Report appears to contain multiple tech. errors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00760.html](http://www.nuforc.org/webreports/reports/000/S00760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
