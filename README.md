@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Driving to work on HW 680, today, I and a friend who was in her own car saw an irridescent green streak, very bright against the blue sky It was more or less straight across, and bright enough to get our independent attentions. Ilistened to the radio, but no one reported it, surprisingly. My friend said she saw the same event twice in the sameplace in quick succession, I only caughtthe last event. The streak came from nowhere and an object appeared, also green and then faded, (not reducing in size apparently) distance could have been in orbit or very high up. I have previously (in the last few months at different times, again travelling on HW680) twice seen bright blue balls of light descending at night towards Moffet Field direction-don't know if that is something they were doing (Nasa Aimes is there too) I have often seen shooting starts (meteors) but nothing even remotely like this. I am a CEO of a small telecommunications company (Engineering background), my friend is a Director of Montessori Academy.Driving on 680 south at 9.00 am 8-25-99, both I travelling in my car and my friend who was on the same freeway heading the same southerly direction saw something in the bright blue sky above and slightly south of us. I noticed a green (bright light color)streak, but instead of the streak disappearing into nothing it became more intese and bigger resulting in some kind of object. The object was green for 2-3 seconds and totally vanished. My friend said she saw exactly the same thing, only it had repeated twice. I only saw it the once. I have seen glowing blue balls before descending quickly in the Moffett Field/Nasa Aimes direction. his happened several months ago, I did not report it then. I am now very convinced that soemthing is going on. Note the object got bigger after a trail, not the reverse which would suggest a meteor perhaps. The object appeared last, and from the distance could have been any shape, the duration was several seconds, but very very bright and very observable for anyone with good peripheral vision on the freeway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08808.html](http://www.nuforc.org/webreports/reports/008/S08808.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ivanhoe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately NIGHT - NIGHT minutes.</sub><blockquote><sub>ONE BRIGHT LIGHT THAT POUSASSDA  (SPEED)I WAS ON GUARD DUTY WITH A OTHER OFFICER AND WE BOTH LOOK UP AT THE SAME TIME INTO THE HEAVENS AND A BRITE LIGHT SHOT OUT OF SPACE ALMOST AS THE SPEED OF LIGHT IT LOOK LIKE THE HEAD OF A SUNFROWER PLANT WITH A LIGHT SO BRIGHT LIKE HOLDING GREAT POWER IT STOOD STILL IN THE SKY AND POULSADA FOR A FEW MINUTES THE TOOK OFF LIKE LIKE THE WAY IT CAME IN.IT WAS ABOUT THE SIZE OF THE MOON, BEFORE THIS HAPPEN THE OTHERS OFFICERS REPORTED TO ME ABOUT STRANGE OBJECTS IN THE SKY FOR ABOUT A WEEK. I TOOK ITHAS THEY WERE PULLING MY LEG ( SO TO SPEAK) UNTIL I SAW THIS NOW I BELIEVIE. THIS HAPPEN AT 2135 HRS.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  We assume that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56181.html](http://www.nuforc.org/webreports/reports/056/S56181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
