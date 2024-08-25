@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 25 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A glowing green round object, that flew across the night sky at about 1 in the morning and then vanished into thin air in 5 seconds.I was sitting on the couch watching tv in my 6th floor apartment, when through the large window behind my tv (7 feet wide x 4 feet high)I saw a glowing object in the sky. I jumped to the window as it was flying and saw that it was light green in colour.  It flew downwards at a 45 degree angle, came to a sudden stop, shifted upwards and vanished. The object took 2 seconds to stop, shift and vanish. The entire incident took place over 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45825.html](http://www.nuforc.org/webreports/reports/045/S45825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Siting looking at the stars was moving fast and steady rusty dark look no lights but had a glow and was heading west it came out of sight over a tree and tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83415.html](http://www.nuforc.org/webreports/reports/083/S83415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
