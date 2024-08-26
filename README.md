@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light on southern Indianapolis from East to NWestThere was a power failure around my block, so with the family we went outside to enjoy more of the fresh air... I took my binoculars (50x10) perhaps to show the kids airplanes, Jupiter and some stars.  We are south of the Indianapolis International Airport, so usually there's a lot of light pollution, light pollution was still plentiful however there was a flight coming from south towards the airport and I asked my son to have a look with the binoculars.As the flight passed right on top of our heads I noticed this very bright light approaching from North East (over 2 o'clock if pointing North).  I excitedly asked my son that was using the binoculars to look at it (wife, sons and little daughter were there), few seconds later I got the binoculars.When looking this object (roughly at the brightness of Jupiter) I didn't see any blinking light or discernible light, so I thought it could have been the ISS, I have seen it before, but with a 10 times magnification is a bit squarish (I have seen it before).  I asked my elder daughter to pass me her phone so that I could check the ISS using her data, but to my surprise it was on an orbit to South America, hence, I'm writing this.When I checked the phone the time was 9:56 PM, thus my reported time is approximated, if possible to trace that airplane passing overhead the time would be found precisely.15 minutes later there was another less bright UFO (I call it such because I checked it with binoculars and was not a plane), this was from the direction of the airport towards South. On addition, I have seen an object following the same path before, but not this bright.  And few minutes later the same will go in the other direction... sincerely they seem too bright to be satellites.  At this main one I'm reporting I'm pretty sure was way too bright. After the second UFO my wife started complaining about me being too excited and noisy, and told me that she has seen it multiple times once even during the day, just a light, same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158930.html](http://www.nuforc.org/webreports/reports/158/S158930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Heidelberg (Germany) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three ships appeared for about five minutes then left.It was a small blinking dot.  At first I thought it was a plane, but it got a little closer and  I saw it was definitely not.  It was always going from oval to circle then it would disappear then it reappeared and went through the cycle again. Then two other craft joined it after about three minutes.  A little bit later I’m guessing two minutes later they disappeared.  They didn’t come back.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65956.html](http://www.nuforc.org/webreports/reports/065/S65956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
