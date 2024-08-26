@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Golqnovci (Bulgaria) () reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sre6ta ot treti vid  Zdraveite!  Prez 1991g.imah sre6ta ot treti vid. Edna no6t prez avgust v edin prez no6ta v momenta,v koito si lqgah se poqvi v staqta mi siv humanoid.V na4aloto vsi4ko be6e normalno-stoqhme i se nabludavahme vzaimno.Ima6e elipsovidna glava pokrita s siva edroporesta koja.O4ite mu bqha ogromni i 4erni.V edin moment usetih kak hqkakva sila povdiga i ponasq tqloto mi na nqkude.Upla6ih se,iskah da izvikam,no sqka6 bqh paralizirana.Poslednoto koeto pomnq sa durveta i lista.Kolkoto do nabludenie na letq6ti obekti sum imala vuzmojnosta da vida pone tri vida.Kato ogneno kulbo,kato pura i kupoloobrazen.((NUFORC Note:  We would welcome an English translation of this report, submitted in Bulgarian.  It appears to address an object which had been sighted at least on three occasions, but I do not have time to delve into translating it in its entirety.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60718.html](http://www.nuforc.org/webreports/reports/060/S60718.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Euleuthera (Caribbean Sea) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>August  Carribbean cruise includes a UFO sighting off starboardFrom the balcony of my stateroom aboard the Princess cruise ship Carribbean Princess, I observed (in a very clear sky) what I thought was a falling star from the south-east.  Instead of disappearing, the "star" abruptly changed direction, first back up and at a sharp right angle and then up over the the top of the ship.  Since I was facing east and the starboard side of the ship I lost sight of the object.  We were traveling N/E and were somewhere off the coast of Cuba near Silver Bank, on our way to Princess Cays. There is a similar description on your site. Total direction:3.  I wonder if any of the other 3400 passengers saw anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46107.html](http://www.nuforc.org/webreports/reports/046/S46107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
