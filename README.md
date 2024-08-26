@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:46 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Auburndale (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright light above the tree tops. Almost as if something landed...I was sleeping over at a friends house.  I was just about sleeping when my friend woke me up.  It was at about 2:30 Am.  What we seen were flashing lights above the tree tops.  They were very bright and lasted for about a half hour.  I couldn't tell how many lights there were but an area of about 30 square yards was lit up.  It was just a flickering. While I was calling my dad I looked and there was nothing.  I shouldn't have taken my eyes off it. It really has no logical reason of what this could be.  There was no smoke so it couldn't have been a fire or fireworks.  It was not lightning because it was just in that one spot.  It almost seems that it landed in the woods.  If anybody reads this and seen something similar to what I did please post it.  I never believed in these types of things either until I saw this.  There is a lot of things that we don't know about such as ufos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92212.html](http://www.nuforc.org/webreports/reports/092/S92212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Moving bright white light, size of large star appeared in Asheville, NC, NW sky at 2375 (sic--21:45) hours56 year old female retired executive observed moving, bright white light, size of large star in NW sky. Observed object that would remain stationary for approx 30 seconds annd then make sudden movements to left and right and up and down.  Observer stationed self in one position and then watched object in reference to large oak tree.  Within seconds the object went from being visible to being occluded by oak tree.  Observer again positioned self to view object, and again within seconds view of object was occluded by oak tree.  I left sight and went to my house...returned approx 30 minutes later.  Object appeared much smaller and light was less intense.  I left stopped viewing at that time.  Two other people were at site and stated they observed movement.((NUFORC Note:  We have invited the witnesses to look again at the same area of the sky at approximately the same time to night to establish whether the object might have been a celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30953.html](http://www.nuforc.org/webreports/reports/030/S30953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
