@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>blue flashing light that hovered then movedIt was 11:30pm and I went outside to smoke. I was looking at the moon and looked to the west I saw a blue flashing light.It was as bright as a star.I thought it was a satellite. It was to high to be a helicopter and it was not a plane.  I called for my daughter and she did not know what it was either.  I continued to watch the light blink for 5 mins and it started to move west and dissapered. My husband and niece saw the same light a few nights ago.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77444.html](http://www.nuforc.org/webreports/reports/077/S77444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madera (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saucer came extremely low and unstable then quickly vanished.I was driving home on the freeway it came as low as  an overpass on a freeway looked like it was going to crash in to the ground it suddenly stopped and leveled out but began to wobble from side to side like it was unbalanced it then continued heading south and quickly vanished there was semis and two cars by me but not many people witnessed it with me, although we all slowed down and almost stopped, as this was happening</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148511.html](http://www.nuforc.org/webreports/reports/148/S148511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
