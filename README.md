@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large red sphere with protrusions from top and bottom traveling silently from East to West silently and the size of a grapefruit.Large red orb or sphere traveling East to West just below cloud line.  The sphere was about the size of a large grapefruit at arm's length in the sky.  The object was solid in color and had red protrusions from top and bottom like if you took a grapefruit and stuck a pickle through it.  It was all one object and did not glow or flash.  There was no distortion of the light.  Although our first thought was that a plane was exploding, it soon became obvious that this was not a plane or helicopter.  It seemed high in altitude and moved silently across the night sky, becoming smaller and smaller until it blinked out and disappeared.  Our general impression was that it was UAP under intelligent control.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131672.html](http://www.nuforc.org/webreports/reports/131/S131672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spain () reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We are from the UK, and on our flight back from Majorca, Spain, on the plane when looking out of the window, we noticed a very long and unusually flat black object, I would say about 5 or 6 miles away from the plane, to my best approximation, guessing from the rest of the panoramic view I would say on a scale this UFO would be over 300ft long, definately not a normal aircraft I've ever seen in my life, as it was perfectly flat, and black. I am 16 years old from the UK, and I was with my brother at the time, and I would not go to the length of writing this description if I didn't believe it was something out of the ordinary. Obviously, as we were in the plane we couldn't view it for a very long time, maybe 5 minutes at the most, but it appeared almost stationary as our plane would be moving at a very high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65695.html](http://www.nuforc.org/webreports/reports/065/S65695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
