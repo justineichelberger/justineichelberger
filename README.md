@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:17 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tawas (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Four lights hovering in the sky near Tawas, MI, that appeared and disappeared and reappeared....two flew close togetherWe were watching the moon which was very bright white as we drove along state road 55 at approx. 9-9:30pm on Thursday night 8/26/10.  There were four bright gold/yellow lights hovering on our right side as we headed toward Tawas, MI.  The lights would hover...then disappear, then reappear.  The two to the farthest right would fly close together and then fly apart.   The weather was clear and the night was very bright from the moon.  There are very few artificial lights out along 55 since it runs through farm country and toward Lake Huron.We are both college graduates, professionals in the field of education.   We are over the age of 60.  We are of course trying to rationalize this sighting because people might say we are "nuts."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77501.html](http://www.nuforc.org/webreports/reports/077/S77501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large red sphere with protrusions from top and bottom traveling silently from East to West silently and the size of a grapefruit.Large red orb or sphere traveling East to West just below cloud line.  The sphere was about the size of a large grapefruit at arm's length in the sky.  The object was solid in color and had red protrusions from top and bottom like if you took a grapefruit and stuck a pickle through it.  It was all one object and did not glow or flash.  There was no distortion of the light.  Although our first thought was that a plane was exploding, it soon became obvious that this was not a plane or helicopter.  It seemed high in altitude and moved silently across the night sky, becoming smaller and smaller until it blinked out and disappeared.  Our general impression was that it was UAP under intelligent control.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131672.html](http://www.nuforc.org/webreports/reports/131/S131672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
