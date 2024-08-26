@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Heidelberg (Germany) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three ships appeared for about five minutes then left.It was a small blinking dot.  At first I thought it was a plane, but it got a little closer and  I saw it was definitely not.  It was always going from oval to circle then it would disappear then it reappeared and went through the cycle again. Then two other craft joined it after about three minutes.  A little bit later I’m guessing two minutes later they disappeared.  They didn’t come back.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65956.html](http://www.nuforc.org/webreports/reports/065/S65956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kolenchery (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>A light travelling and bursting.On 26/08/2015, Wednesday.  Mazhuvannor, near Kolenchery Town, Kerala, India  We friends were talking near the street at 7pm, and suddenly noticed a light, which is travelling from south to north,  We all looked into it carefully, and it went a long way in very high speed which is more than a plane or rocket.  Then after sometime it re-traced the path and dissppeared.  Then we saw a flight which was travelling from west to east and the sound of flight was audible to us.  After the flight went we saw a bigger and brighter light that travelled through the way the flight went and when it reached near moon it blasted.. The last video footage was taken in our phone and it is shown below.. https://www.youtube.com/watch?v=-8lxvfTVW3I</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121537.html](http://www.nuforc.org/webreports/reports/121/S121537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
