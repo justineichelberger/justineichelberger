@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Nighttime UFO sightings West KelownaThis is my second sighting.  First sighting occurred approximately 3 months ago, same location, with a witness.  Object appeared to be flat, triangular.  It almost appeared transparent, but we could see very faint round lights along the margin of the object, giving hint to its shape.  Absolutely no sound came from it.  It travelled rather slow, approximately 100 feet up from where we were standing. First sighting, it lasted maybe 5 seconds; second sighting last night approximateely 10 seconds.  Last night I was able to follow its direction for that length of time, but then lost visual contact or disappeared.  During the first sighting it was travelling south to north; last night's sighting it was travelling east to west, and directly over the town of West Kelowna (area of SuperStore grocery store), both times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112950.html](http://www.nuforc.org/webreports/reports/112/S112950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object in sky illumated by clouds circled the sky over and over again in a small set area.it was facing south from where i was from, east of where mars was and this orb kept circleling in place over and over again. I could tell it wasnt a search light because there was no stream of light shone from earth, also the light came from above the clouds.  The thing is, you could only really see the light when it was above cloud, when it was in a secton where there was no cloud you could maybe make out a speck but that was it. Towards the end of the duration a second light came out and both circled in place. The speed was fairly quickly, faster than a plane.((NUFORC Note:  Witness elects to remain totally anonymous.  We believe, despite the claim by the witness to the contrary, that some type of searchlight or advertising light would be the first possibility that would have to be ruled out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30919.html](http://www.nuforc.org/webreports/reports/030/S30919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
