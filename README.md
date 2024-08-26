@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Moving bright white light, size of large star appeared in Asheville, NC, NW sky at 2375 (sic--21:45) hours56 year old female retired executive observed moving, bright white light, size of large star in NW sky. Observed object that would remain stationary for approx 30 seconds annd then make sudden movements to left and right and up and down.  Observer stationed self in one position and then watched object in reference to large oak tree.  Within seconds the object went from being visible to being occluded by oak tree.  Observer again positioned self to view object, and again within seconds view of object was occluded by oak tree.  I left sight and went to my house...returned approx 30 minutes later.  Object appeared much smaller and light was less intense.  I left stopped viewing at that time.  Two other people were at site and stated they observed movement.((NUFORC Note:  We have invited the witnesses to look again at the same area of the sky at approximately the same time to night to establish whether the object might have been a celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30953.html](http://www.nuforc.org/webreports/reports/030/S30953.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver UFO seen up close on U.S. 37My girl friend and I in the same exact area we seen the previous UFO on U.S. 37. We observed another UFO in broad daylight and clear skys. We were traveling up U.S. 37 towards Fort Wayne, Indiana. We were just on the out-skirts of the city. When my girlfriend seen the object and directed my attention to it. The object was flying very low, about 30-35ft from the ground, following the Highway. It was very shiney and metallic like chrome, very reflective. It was about 20ft long and about 15ft wide. It looked almost identical to the UFO shown in the Disney movie, "Flight of the Navigator" only it was smooth over the top and not humped. It appeared to have no seems and had no identifing markings on the outside. It flew completely silent and did not interfere with my Camaro's operation.  It was traveling about 50 MPH as I was able to keep up with it. Their is a military depot close to that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42925.html](http://www.nuforc.org/webreports/reports/042/S42925.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
