@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spain () reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We are from the UK, and on our flight back from Majorca, Spain, on the plane when looking out of the window, we noticed a very long and unusually flat black object, I would say about 5 or 6 miles away from the plane, to my best approximation, guessing from the rest of the panoramic view I would say on a scale this UFO would be over 300ft long, definately not a normal aircraft I've ever seen in my life, as it was perfectly flat, and black. I am 16 years old from the UK, and I was with my brother at the time, and I would not go to the length of writing this description if I didn't believe it was something out of the ordinary. Obviously, as we were in the plane we couldn't view it for a very long time, maybe 5 minutes at the most, but it appeared almost stationary as our plane would be moving at a very high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65695.html](http://www.nuforc.org/webreports/reports/065/S65695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Nighttime UFO sightings West KelownaThis is my second sighting.  First sighting occurred approximately 3 months ago, same location, with a witness.  Object appeared to be flat, triangular.  It almost appeared transparent, but we could see very faint round lights along the margin of the object, giving hint to its shape.  Absolutely no sound came from it.  It travelled rather slow, approximately 100 feet up from where we were standing. First sighting, it lasted maybe 5 seconds; second sighting last night approximateely 10 seconds.  Last night I was able to follow its direction for that length of time, but then lost visual contact or disappeared.  During the first sighting it was travelling south to north; last night's sighting it was travelling east to west, and directly over the town of West Kelowna (area of SuperStore grocery store), both times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112950.html](http://www.nuforc.org/webreports/reports/112/S112950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
