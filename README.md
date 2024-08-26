@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:45 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:46 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Quick moving and incredibly bright multicolored flashing lights seen in sky appearing to travel at great speeds.My friend and I were outside having a cigarette at 10:00pm,  Aug 25th, 2012, when I had noticed a small formation of strobe like lights in the northern section of the sky. There were three of them in total. What struck me was I know what a beacon light on an aircraft looks like, and what I saw was not like any beacon light I have ever seen in my life.The objects seemed very distant, and high up. They displayed a multicolored strobe effect producing a white flash (most frequent), a blue flash (displayed this color maybe three times), and a red flash (only one of the three objects flashed red).  On none of the objects was the flash timed. There was no beat so to speak. The lights flashed without rhythm.What struck me is that they appeared very far up and far away yet their flash was powerful.  One by one the objects disappeared except the last two seemed to stay stationary at one point, then too proceeded across the sky quickly.  They all moved across the sky and due to the great distance, I imagine were traveling very quickly.When the objects moved across the sky they would disappear and reappear, being visible  by their flash.This sighting occurred over the sky's of Everett and Mulkeleteo Washington.  Possibly even farther North, I am not confident in judging where the objects appeared exactly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92162.html](http://www.nuforc.org/webreports/reports/092/S92162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Auburndale (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright light above the tree tops. Almost as if something landed...I was sleeping over at a friends house.  I was just about sleeping when my friend woke me up.  It was at about 2:30 Am.  What we seen were flashing lights above the tree tops.  They were very bright and lasted for about a half hour.  I couldn't tell how many lights there were but an area of about 30 square yards was lit up.  It was just a flickering. While I was calling my dad I looked and there was nothing.  I shouldn't have taken my eyes off it. It really has no logical reason of what this could be.  There was no smoke so it couldn't have been a fire or fireworks.  It was not lightning because it was just in that one spot.  It almost seems that it landed in the woods.  If anybody reads this and seen something similar to what I did please post it.  I never believed in these types of things either until I saw this.  There is a lot of things that we don't know about such as ufos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92212.html](http://www.nuforc.org/webreports/reports/092/S92212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
