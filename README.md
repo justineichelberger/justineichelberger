@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 26 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 small red disappearing lights in arch formationMy friend and I were out at night visiting the East End Waste Treatment Facility to check out the graffiti done on the wall by some local artists.  At one point around 10:30, we began walking back to the car. I looked up and noticed three dim red lights ascending slowly into the sky, all in line in an arch.  They seemed all very close to the ground.  Neither of us could figure out what they were since they had no white blinking light or noise to show that it was a legitimate aircraft. We watched as the red lights climbed in the sky, and soon a fourth appeared.  The first red light in line suddenly flickered and disappeared into the sky, followed soon thereafter by the second, third, and fourth. The altitude of the lights were estimated to be around 1,000 feet or so. We waiting outside the car until nearly 11:00 at night and seeing nothing else, left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83471.html](http://www.nuforc.org/webreports/reports/083/S83471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>blue flashing light that hovered then movedIt was 11:30pm and I went outside to smoke. I was looking at the moon and looked to the west I saw a blue flashing light.It was as bright as a star.I thought it was a satellite. It was to high to be a helicopter and it was not a plane.  I called for my daughter and she did not know what it was either.  I continued to watch the light blink for 5 mins and it started to move west and dissapered. My husband and niece saw the same light a few nights ago.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77444.html](http://www.nuforc.org/webreports/reports/077/S77444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
