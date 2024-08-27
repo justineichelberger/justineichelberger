@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:48 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw three small seperated lights move from the north to the south around 9:15 PM (Pacific time).Around 9:15 PM, out in the back yard, my brother and I looked up and saw three small lights in a row move quickly from the north to the south. The "middle" light moved from side to side between the two lights on the outside. They made no sound and moved very smoothly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45906.html](http://www.nuforc.org/webreports/reports/045/S45906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Surf City (NC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 glowing orbs floating silently just above the houses.My wife and I were out on our deck late that evening when we notices 5 orange orbs or egg-shaped objects floating 10-20 feet over the house across the street.  I quickly went inside and grabbed my phone and started recording video.  They were moving in the direction of our house slowly and making zero noise.  My daughter came outside and also witnessed this.They floated over our house in a single line one behind the other.  When they reached our roof, the 5 orbs formed a circle.  After forming a circle, they lined up behind one another again and made their way towards the waterway.As I continued to watch them, my wife noticed a sixth orb hovering not 5 feet over our house.  It acted like it was curious about us.  Our dog was barking at the object.  It then hovered there silently about 10-20 seconds and then rejoined the other five  orbs.  As they all floated away, they ceased to glow and disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129911.html](http://www.nuforc.org/webreports/reports/129/S129911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
