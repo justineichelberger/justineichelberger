@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:48 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Farmington (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>25-40 circular objects moving slowly/hovering at times in Farmington, MnI was outside talking to my neighbor, when she pointed to the sky and asked "what is that?"  I look up and didn't see anything right away.   After about 30 seconds I see 25-40 white circles appear in the sky.  We continued talking and watching these objects for about 45 minutes.  They were white moving slowly, almost hovering at times no sound.  It appeared that they were rotating because they were white, then they would all appear metallic and then black and then they would all at the same time disappear and reappear shortly after either in the same spot or all in different location all at together.   After about a 1/2 hour I got smart and had my youngest run in and get my oldest daughter and her boyfriend and their phone and Ipod.  They ran down the street and tryed to take pictures and video but all that showed up were a couple of black dots.  Not anything like we actually saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95772.html](http://www.nuforc.org/webreports/reports/095/S95772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw three small seperated lights move from the north to the south around 9:15 PM (Pacific time).Around 9:15 PM, out in the back yard, my brother and I looked up and saw three small lights in a row move quickly from the north to the south. The "middle" light moved from side to side between the two lights on the outside. They made no sound and moved very smoothly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45906.html](http://www.nuforc.org/webreports/reports/045/S45906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
