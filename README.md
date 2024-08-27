@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Surf City (NC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 glowing orbs floating silently just above the houses.My wife and I were out on our deck late that evening when we notices 5 orange orbs or egg-shaped objects floating 10-20 feet over the house across the street.  I quickly went inside and grabbed my phone and started recording video.  They were moving in the direction of our house slowly and making zero noise.  My daughter came outside and also witnessed this.They floated over our house in a single line one behind the other.  When they reached our roof, the 5 orbs formed a circle.  After forming a circle, they lined up behind one another again and made their way towards the waterway.As I continued to watch them, my wife noticed a sixth orb hovering not 5 feet over our house.  It acted like it was curious about us.  Our dog was barking at the object.  It then hovered there silently about 10-20 seconds and then rejoined the other five  orbs.  As they all floated away, they ceased to glow and disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129911.html](http://www.nuforc.org/webreports/reports/129/S129911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO PROB/FBI/CIA? 27 AUG 08 I was leaving work around 12:25 pm, 27 Aug 08, Ellington Fld, Houston, TX-- I was going home to evacuating from hurricane Gustav.I notice the object, as I was at the top of I-45 over pass going south towards Pearland, TX.  I slowed down to get a closer looked at this object- it was suspended 12’ to 14’ above Dixie Farm Rd.  I looked for cables or something that it could be hanging from, but nothing, it was stationary in sky on its own.  I drove under THE PROBE and  I kept going.  I looked in my rear view mirror and THE PROBE was still there, I know, I was not the only one that saw this object. The sky was clear ‘Blue Bird Day', something came over me- (Traumatized), I carry a camera with me all the time, which, I use with my job.  It’s funny; I never thought about stopping and calling 911 or take a photo of the object.When, I first saw this object, it looked like a surveillance probe; cylinder with dark windows around the top, the object was 3 to 4 feet in length, approx 10 inches in diameter.    I heard and saw UFO Probes on Discovery Channel before, when, I got home I told my wife about what I had saw.   The sky was so clear it would have made a great clear photo.  I called my brother-n-law and told him what I had seen.   He said he saw something like this on Discovery Channel... that the FBI and CIA...has.The object was stationary in a vertical stance and never moved-NO NOISE- cylinder with dark windows around the top, the object was 3 to 4 feet in length, approx 10 inches in diameter.  This photo is the area where the probe was seen and the photo of the probe is one that I made on Photo-shop to show what I saw.  This is not the original photo of the probe, but is of the location.((name and telephone number deleted))Have Photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71635.html](http://www.nuforc.org/webreports/reports/071/S71635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
