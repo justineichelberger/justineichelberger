@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:18 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Lost Lake (OR) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Man & wife witness "line of 8-9 lights in a row."  Center light(s) blinked on and off.  Lights then streak out across sky.  Strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00773.html](http://www.nuforc.org/webreports/reports/000/S00773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cardiff (near) (UK/Wales) () reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Stacked pulsating lightsVery strange occurance viewed from my back garden by myself, my girlfriend and our neighbours. Approx 22:30, clear sky with approx 1/10 high level cloud. Noticed a strange light in sky approx NNE from our position at about 20deg elevation. Lights appeared to be white, red and green stacked ontop of each other. At first put this down to helicopter (live near to the Breacon Beacons and area used for military training). However soon became apparent that we were not witessing a known form of aircraft. Light began to pulse bright and dim and move from left to right at a medium speed but with no slowing or stop between changes in direction. This continued for about 1/2 an hour. Object became obscured by cloud. We all seemed to have seen the same thing but were lost for a sensible explaination. Girlfriends sister visited us at about 23:15 and object was again visible in same area of sky. This time two aircraft seemed to be closing and movements became erratic before vanishing. I come from an engineering background in the Armed Forces and have witnessed many aircraft in flight, this object was not something I can readily explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24953.html](http://www.nuforc.org/webreports/reports/024/S24953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
