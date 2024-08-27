@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in South Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three strange crafts hover above water, the first two dissappear into the third and largest one before shooting upward in the sky.Two crafts just appeared above the water and then there was a flahing light and a third appeared. They did nothing for a while but then the first to flew by the third ship, which was larger and when the first two crossed the path of the third they dissappeared. Then all of a sudden it looked as is it just shot straight up into the air and dissappeared. Leaving a trail of light for a second before that was gone too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27573.html](http://www.nuforc.org/webreports/reports/027/S27573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Strongsville (OH) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Frequently seeing UFO in our western sky that darts in all directions and moves quickly with bright linesBecause of being surrounded by trees, we can watch this sphere in the western sky move.  It looks like a bright star in the sky but has bright lines coming down from it.  Moves in the sky darting in different directions but within a 2 hour period it disappears.  We have seen this quite frequently this summer (probably about 5 days out of seven).  It has just recently changed in appearance from just darting, to having streaming lights coming down from it.  On 3 occasions, the sky below it vibrates a light that looks like a white flasher.  It flashes like a police car light and is in the area below it.  Sometimes it is all white and at other times viewing it with or without binoculars it has red, blue and green coming from it.  If you look at it from another area, you would think it was just a star.  I think our location with the trees makes it visible to see how much it moves in the sky.  Would welcome someone to come look at it.  It's out there frequently ev! en when there are clouds and no other stars in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83494.html](http://www.nuforc.org/webreports/reports/083/S83494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
