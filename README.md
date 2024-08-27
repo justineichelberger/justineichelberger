@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fircrest (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>we thought someone lost their balloons but they moved against the windThree balloon shape rising from the east heading west against a slightly windy day.  The balloon shape crafts had a blinking light each - slightly red & blue.  They took a "V" and straight line alignments then separated and disappeared into high altitudes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148575.html](http://www.nuforc.org/webreports/reports/148/S148575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anniston (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Honestly, I have never believed in the possibility of UFO’s.  That was until tonight.  What I saw is the craziest thing I have ever seen in my life.  I was standing behind my apartment and clearly saw something.  It was circular and was in a cylindrical tube of blue light.  The circular portion was yellow and very bright.  At first I thought it was a shooting star.  The only reason I believe otherwise is because whatever this was slowed down and then disappeared into some clouds.  I feel crazy writing this, but maybe there is some truth to sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65419.html](http://www.nuforc.org/webreports/reports/065/S65419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
