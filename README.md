@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Jonesboro (AR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 143</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164637.html](http://www.nuforc.org/webreports/reports/164/S164637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Langhorne (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>A boomerang object with a baby blue aura surrounding it hovering above Oxford Valley Mall in Langhorne Pa.I was standing on a front porch at a friend’s house making a phone call on Harrow Rd a street in Highland Park section of Levittown Pa when I witnessed a boomerang in the night sky with a neon baby blue aura surrounding it.  It was traveling above the Oxford Valley mall located in Langhorne pa about a mile and a half away from where I was standing. As I stood there with my phone in my hand I witnessed the object hover slowly above the area after about 4 seconds of seeing it hover slowly to the west it changed course in its direction and gained speed, the last two seconds of witnessing it I noticed it traveled diagonally into the sky as apposed to it traveling on horizontally across the horizon. The object appeared to be slightly bigger that a full moon and the last two seconds of witnessing it traveled 3 times faster than an airline jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65433.html](http://www.nuforc.org/webreports/reports/065/S65433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
