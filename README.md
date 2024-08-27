@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Miami Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>We currently are experiencing strange appearances in the sky:  one blue light and another red light always almost close to each other appearing for 15-20 seconds maximum and then disappearing...This is occurring almost every night only when cloudy and the shape is irregular and undefinable.Location is in miami beach Florida on South west direction.  We are available for any further info</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129540.html](http://www.nuforc.org/webreports/reports/129/S129540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stryker (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An object of light that had a 20 second span between flashes directly above me that seemed to be going up and away from me as each timeJust as I stepped outside my back door to have a cigerette, I looked almost directly above me to check out the stars. Just then I noticed a brief flash of light in the area of (after checking the star charts) the constelation Cephius. The first flash lasted about as long as what the strobe lights on an aircraft do, but then didn't continue to flash, but I kept watching. About 20-25 seconds later another flash that seemed to be fainter and slightly to the NE of where it flashed previously, and again a long pause of 20-25 sec and another fainter flash even fainter as if it were leaving the Earths atmosphere. The initial flash had 2 lights very close together, but after the 3rd flash I couldn't determine there to be seperate lights. I saw a total of 4 flashes and by the time of the 4th, it was just a barely noticeable dot and had I not known where to be looking would have never noticed it.((NUFORC Note:  Witness elects to remain totally anonymous.  We wonder whether the witness might have observed a tumbling booster rocket shell in orbit.  Absent that possibility, we do not know what was observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31016.html](http://www.nuforc.org/webreports/reports/031/S31016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
