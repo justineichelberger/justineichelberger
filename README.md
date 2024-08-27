@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 21:40 - 21:40 minutes.</sub><blockquote><sub>White light traveling east to west  .The light blink blue twice then turned red,flying down slow then back up.The light turn white flew back east went flying down out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158972.html](http://www.nuforc.org/webreports/reports/158/S158972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Man repts. large "ball of fire" descend at 45 deg. angle.  Descended behind mountains 6-7 mi. distant.  Prominant tail. Ejected obj.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00782.html](http://www.nuforc.org/webreports/reports/000/S00782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
