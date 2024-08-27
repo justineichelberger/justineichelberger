@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 27 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Darien Center (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Huge diamond passenger/residential space ship with hundreds of windows shot into space in a blink after hovering in Darien Center, NY.I witnessed a UFO sighting with 8-10 other people that was unlike any sighting I've ever heard of.  It was less than a decade ago (exact year not remembered but anywhere from 2010-2014).  None of us thought anyone would believe us so we never said anything.  Now, I feel like I should share my experience especially considering I've yet to hear of a similar one.Every year we used to vacation to Six Flags Darien Lake in Darien Center, NY.  It's a six flags with a large amount of trailer and cabin campsites that you can rent to experience both camping and the theme park simultaneously.One night, we were all hanging out around the lake.  It was late and everybody was at their campsites or sleeping.  At some point I looked at the sky.  Something breached the clouds and into view and before I could even process what it was, I heard my friend yell "Holy S*** look in the sky, aliens are real, aliens are real!"  By now everybody else had turned up and I had been able to process what I was looking at.  An enormous diamond-like shaped airship (at least the size of a football field) was hovering and gliding perfectly and in ABSOLUTE silence directly above us.It was beautiful, with extravagant detail beyond imagination.  There were hundreds, if not thousands, of windows lit in almost skyscraper-like fashion.  On the bottom, there were round neon-blue lights; the exact pattern not in my memory.  This was not your typical flying saucer, floating lights, UFO etc.;  We had a perfectly clear and vivid view of what appeared to be a passenger/residential ship large enough to hold an extraordinary amount of people/beings.After maybe 10-20 seconds of hovering, which felt like an eternity thanks to the adrenaline and excitement, the ship slowly pointed upward.  There was a deep and low volume, but very audible, "whoosh".  I felt the "whoosh" in my chest similarly to how you can feel the bass at a loud concert.  At the moment the "whoosh" noise was made the ship was gone into space at literally the blink of an eye.All 8-10 of us were beyond ecstatic as we undoubtedly believed to have one of life's greatest mysteries answered.  To this day not one of us believes that we (earth inhabitants) are alone in this universe.  We do not believe that any world power on earth could possess the technology we witnessed.  Now I guess we can only wait and see if the thousands of new questions we have now will be answered over time.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148414.html](http://www.nuforc.org/webreports/reports/148/S148414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fircrest (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>we thought someone lost their balloons but they moved against the windThree balloon shape rising from the east heading west against a slightly windy day.  The balloon shape crafts had a blinking light each - slightly red & blue.  They took a "V" and straight line alignments then separated and disappeared into high altitudes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148575.html](http://www.nuforc.org/webreports/reports/148/S148575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
