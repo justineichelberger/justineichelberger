@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mt. Eden (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Firstly, I'm a veteran who has served in an AO.  I'm very familiar with all sorts of military aircraft.  As I stepped out the front door to observe three deer grazing in my front yard, movement in the sky caught my eye.  A solid orange circular object having the appearance of a glowing ember was traveling southwest to northeast approximately 30° above the horizon. It made no sound and maintained a constant rate of speed.  The brightness was unchanged as well.  I could not ascertain the size or distance of the phenomenon.  Also, the altitude seemed steady and the flight path was perpendicular to the ground.  This was not a meteor.  I'm a bit of a skywatcher and enjoy the meteor showers.  This did not burn up or dissipate and the path was not consistent with a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142869.html](http://www.nuforc.org/webreports/reports/142/S142869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Houston/Meyerland (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a black triangular object for 3 seconds pass behind a small cloud never to reappearI was playing basketball with  my son on our driveway, back by the garage, at around 7:55 pm, when my attention caught this black triangular object in the southern sky, not overhead and not on the horizon, but in the middle but more overhead.  I saw the black triangular object with three lights at each point for no longer than 3 seconds.  It was rather large, perhaps the size of the moon and  a small cloud was in its path.  It passed behind the small cloud, and I could see the lights become covered by the small cloud, but when I expected the object to reappear after passing over the small cloud, it did not reappear.  Also, the vector movement of the triangular object  in a straight line was not related to one point moving forward or one side moving forward.  When the object disappeared, I also noticed that the small cloud developed and became somewhat thicker.  There was no opportunity to visually record the event as it happened so quickly.  I have never witnessed any thing like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113034.html](http://www.nuforc.org/webreports/reports/113/S113034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
