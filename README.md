@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Valatie (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright star like object seen performing maneuvers in the skies over Columbia County, NYWe live on the east side of a lake in northern Columbia County in New York State. From where we are located, we have an unobstructed view of the western sky. On the night of Saturday August 28, 2010, the skies were clear with temps in the low 70's.At about 9:25 that evening, I went outside to get something out of my truck. We had been cooking and canning vegetables from our garden all day, and the house was quite warm inside. Noticing how pleasantly cool it was outside, I asked my girlfriend if she might like to come outside for a while to cool off.As we stood down by the water, chatting and looking at the house lights from across the lake, something caught my eye in the west northwestern night sky.At an elevation of about fifty degrees, a bright white star-like object had suddenly appeared, seemingly out of nowhere.Had this object been stationary, and not as bright, I might have mistaken it for just a large star. But it was not stationary. It was moving in a northerly direction at what appeared to be a very high rate of speed.After about three or four seconds from the time it first appeared, it executed a very tight, almost flat, 180 degree turn to the south, and after proceeding in this new direction for another three or four seconds, it just as suddenly seemed to "turn off" again, just like someone turning off a light switch, and became invisible to our eyes once more in the night sky.Please understand that when I used the word "turn", I am not speaking of any kind of a turn in the conventional way.  This object, whatever it was, had managed to accomplish a complete and opposite change of direction in less than a second.  It's speed remained constant throughout the entire manuver, and it's motion can only be described as "fluid".As we stood there in silence for perhaps fifteen seconds or so, trying to comprehend what this actually was that we had just witnessed, another bright white "star"  "turned on" in the west southwestern sky.I took this to be the same object that we had seen before, as the size and light intensity were the same, as was it's elevation above the horizon.This time however, the same manuver that we had just witnessed was being repeated in reverse, with the object making another of those "impossible" 180 degree turns, and heading back to the north again before "turning off" once more.We stood there for several more minutes watching the sky, but it did not reappear again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77545.html](http://www.nuforc.org/webreports/reports/077/S77545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bracknell (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>bright light moving very quickly with no tailBright light with no tail suddenly appeared in the sky. It then moved off very rapidly, almost as though it was falling. We are used to seeing planes in and out of Heathrow and this moved a lot quicker than that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13927.html](http://www.nuforc.org/webreports/reports/013/S13927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
