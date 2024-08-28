@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kailua Kona (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light moving fastIT WAS A VERY CLEAR NIGHT AND MY HUSBAND WAS ON THE REAR DECK OBSERVING THE NIGHT SKY.  I WAS ON MY WAY TO JOIN HIM WHEN HE SAID "HURRY COME AND SEE THIS STAR"!  I RAN OUT AND SAW A VERY BRIGHT WHITE LIGHT TRAVELING NORTH TO SOUTH IN A STRAIGHT LINE.  IT WAS MOVING RAPIDLY AND WAS DIRECTLY UNDER A PLANE.  THE PLANE WAS MOVING IN THE SAME DIRECTION AND YOU COULD SEE ITS LIGHTS BUT NOT MUCH NOISE.  THE PLANE WAS MUCH HIGHER IN THE SKY THAN THE LIGHT.  WE WATCHED THE LIGHT FOR A FEW SECONDS AND IT DISAPPEARED.  THERE WERE NO CLOUDS IN THE SKY.  WE LIVE AT THE 700 FT ELEVATION ABOVE SEA LEVEL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101738.html](http://www.nuforc.org/webreports/reports/101/S101738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dragesti (Romania) () reported seeing craft that fit the description of some 'Disk' over a period of approximately I don't know - I don't know minutes.</sub><blockquote><sub>picture taken in Romania,Dragesti from apox. 2-3 miles awaytoo many description I can't give you,when I took the picture I didn't know it is something there...I was in vacation visiting my family and I was on the way to village where I use to spend my vacation when I was a kid,I just wanted to have pictures with that forest...I only looked closely to this picture when I came back in Florida where I live,I think it is not a bird,It is not very visible only if it's magnified,in this area nobody have jet planes...or airports...honest I think it is something that you'll find better than me,more professional tools etc.I hope this is not a waste of time for you,I will send a couple of pictures to have an idea,why I think it can be an UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46780.html](http://www.nuforc.org/webreports/reports/046/S46780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
