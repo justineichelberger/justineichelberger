@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Keaau (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Big Island of Hawaii while watching the lunar eclipse, witnessed a large glowing ball darting in the skyMy husband and I were up late to see the lunar eclipse, as the moon got darker; we noticed a large white glow two to three times the size of the moon.  The light was moving at a remarkably fast rate going back and forth from east to west then north to south; it would stop and almost jiggle at a point that was straight up.  No apparent pattern was noted.  There were some clouds in the sky, we could see the light whether it was under the clouds or in a clear section of the sky.  We do know that others down a few acres saw this also, we could hear them saying “Oh my god do you see that?  What is it?”  We have not confirmed this, as we live in an area with large acreage and lots of it is jungle and forested. This lasted for approximately 5 minutes, it went down slowly behind the trees, about 6 blocks away, there are no houses where it went down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58432.html](http://www.nuforc.org/webreports/reports/058/S58432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dragesti (Romania) () reported seeing craft that fit the description of some 'Disk' over a period of approximately I don't know - I don't know minutes.</sub><blockquote><sub>picture taken in Romania,Dragesti from apox. 2-3 miles awaytoo many description I can't give you,when I took the picture I didn't know it is something there...I was in vacation visiting my family and I was on the way to village where I use to spend my vacation when I was a kid,I just wanted to have pictures with that forest...I only looked closely to this picture when I came back in Florida where I live,I think it is not a bird,It is not very visible only if it's magnified,in this area nobody have jet planes...or airports...honest I think it is something that you'll find better than me,more professional tools etc.I hope this is not a waste of time for you,I will send a couple of pictures to have an idea,why I think it can be an UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46780.html](http://www.nuforc.org/webreports/reports/046/S46780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
