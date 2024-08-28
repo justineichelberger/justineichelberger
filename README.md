@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:55 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>a bright object like a fireball  i was on my way home very dark night when i saw a fire ball of a sort of craft it came out of no were 4 lighs of origin in the bottom of the craft were lit and were very bright in colour it lasted for abot 3secs then dissapeared in the night sky shortly aftera plane like an air force jet screamed across the night sky like it was in hot pursuit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19343.html](http://www.nuforc.org/webreports/reports/019/S19343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kapoho (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>slow moving star like light in the sky at 10:30am vanishesOne object.  Looked like a star or bright light.  We could tell it was slowly moving in the sky near the moon.  The guy with binoculars said it appeared to be making rapid movements while we could only tell it was slowly moving away from the moon.  After watching for a while it suddenly vanished while we  all had our eyes glued.  We watched the sky for another 15 minutes with no trace of the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101655.html](http://www.nuforc.org/webreports/reports/101/S101655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
