@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tacoma/Spanway (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver and Gold balls of lightI had walked out onto my back deck to see if the clouds looked like they might clear so I could take my telescope out.  As I was looking toward the west, a silver ball of light caught my eye.  This light moved from south to north with no noise and no flashing lights (we live near McChord AFB and SeaTac flight paths and frequently see planes in the distance).  My second thought was a bird, but the light moved very smoothly, with none of the obvious "Bobbing" of a bird, plus it was illuminated from the east side, not the west where the sun was setting. As I got to my front yard I could no longer see the silver light, however as I looked into the west I saw an orange colored cloud (from the sunset) off to the west.  As I looked at this cloud, I saw a gold colored ball appear.  It appeared to drop from the cloud (the best way I can describe it is like when a plane, coming out of a cloud, kind of fades into view)then travel in a northerly direction and then just flash out as if someone had turned off the switch (it could have re-entered the cloud cover, but I'm not sure of this).  At first I thought someone was burning and I was seeing embers flying through the sky except that you could clearly see them come out of the cloud and move toward the north.  About the third one I saw looked like it was moving toward the ground, then went back up and continued its flight to the north.  In all I watched about 10 of these gold balls of light.  At one point there were three in the sky at the same time each appearing to come out of the cloud and then moving to the north and disappearing.  Again, there was no noise, no flashing lights, just these gold balls appearing to drop from the cloud. The entire thing lasted 5 to 10 minutes maximum.  I have been an amature astronomer all my life and I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38950.html](http://www.nuforc.org/webreports/reports/038/S38950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Burlington (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A local woman and several others reported to the police station that they saw a large oval of lights hovering over the Delaware river in Burlington NJ.  I was an officer at the time and my dispatcher and I laughed at the first report until several more calls came in from different sources. The woman who reported it was a mother of a friend of mine and she said that she pulled over with her husband in their car to watch it.  She described the UFO as 3/4 mile in length, lined with lights and that it disappeared as quickly as it came. She was shaking and crying when she reported it to our P.D. Her husband told her not to tell anyone because they would think they were crazy.((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54296.html](http://www.nuforc.org/webreports/reports/054/S54296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
