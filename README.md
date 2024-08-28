@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:44 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Forks Township (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Observed a bright red object that grew larger, turned white then vanished.5:00am August 28, 2014 Clear sky.  Looked up to the south west and observed a bright red object that grew larger as if falling to earth directly towards me.  The object then turned white and appeared to vaporize instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112999.html](http://www.nuforc.org/webreports/reports/112/S112999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub> FranciscoUnusual object flashing sequencial red lights over Ocean Beach Area in San Francisco.August 28th 2014 – Approximately from 7:45pm – 8:00pm.This evening, as I was leaving my house in the outer Parkside district of San Francisco,  (I live on 44th Avenue), I noticed an object in the sky westward with flashing sequencial Red Lights.  The Fog had already began to cover most of my view of the sky, which means I would not be able to see any stars tonight.However, Commercial Planes coming from and leaving San Francisco, Oakland, and San Jose would still be visible by their flashing navigation lights upon departure and approach to their respective airports.  This was not one of them.  My neighbor also noticed the object and we both attempted to try and figure out what it might be.  The object remained fairly stationary for about 15 minutes.  Occasionaly it would appear to drift to the right, then to the left, and then return back to its original position.Both my neighbor and I suggested that it might be someones toy drone that they were flying above the Fog (I would estimate that it would have been at least 5  to 15 feet across to account for the number of lights on the object).  With that said, I still can not ruled out that I was looking at something else, not man-made.After watching it for 15 minutes the object began to move westward towards the Pacific Ocean while also drifting northward and southward in a pattern similar to a sign wave.After It moved far enough away, I lost sight of it due to the roof of my neighbor's house across the street from my house.Red Light Sequence:  &lt;--------------*-&gt; Ooooooooooooooo.oo ^ All Red lights except for the Right most light would sometimes appear to be blue, white, or green in random order.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113007.html](http://www.nuforc.org/webreports/reports/113/S113007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
