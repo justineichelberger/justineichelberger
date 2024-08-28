@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dragesti (Romania) () reported seeing craft that fit the description of some 'Disk' over a period of approximately I don't know - I don't know minutes.</sub><blockquote><sub>picture taken in Romania,Dragesti from apox. 2-3 miles awaytoo many description I can't give you,when I took the picture I didn't know it is something there...I was in vacation visiting my family and I was on the way to village where I use to spend my vacation when I was a kid,I just wanted to have pictures with that forest...I only looked closely to this picture when I came back in Florida where I live,I think it is not a bird,It is not very visible only if it's magnified,in this area nobody have jet planes...or airports...honest I think it is something that you'll find better than me,more professional tools etc.I hope this is not a waste of time for you,I will send a couple of pictures to have an idea,why I think it can be an UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46780.html](http://www.nuforc.org/webreports/reports/046/S46780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown sightingOn the 28th of August and the only way I know this is because it was 3 weeks after my Birthday I was in the backyard at my fathers house that is backed up to Quantico.  Out on the deck I saw a shiny light in the woods that was very ambient but not focused at one point kind of spread all over. I quickly ran inside and got a knife from the drawer and went back outside. The light was now more to the right then it was before. I walked out closer to the woods and the light remained the same intensity but the object was small so i figured it was a kid.  Around 15 yards away I found it being very odd and I yelled out "Hey, what are you doing?" the light object stopped moving and then looked toward me with crisp blue eyes and a bright flash of light occured. Squinting a bit the light disappears. I ran back up to the house and lock the door. Next morning before work, I went outside to view tracks.  Nothing whatsoever.  I been around hunters all my life and know all animals leave something behind this creature left nothing not sure what I saw but I know it wasn't human. Thanks ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59214.html](http://www.nuforc.org/webreports/reports/059/S59214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
