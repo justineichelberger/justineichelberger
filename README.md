@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Davie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>South West Broward FL Orange Redish Lights Flyby on 8/28/2010 20:45I live near the flight path of where airplanes approach to land at Ft. Lauderdale international airport.  On a clear night if I look west I can see an aircraft approaching maybe out 30 miles or more.  As the aircraft proceeds to land I can see it all the way until about it reaches the airport approximately 15 miles east.  On ordinary nights I see several dozen planes go through.  I've lived at this location for the last 10 years and I know the types of lights airplanes have.  Typically they have bright almost white lights for landing, and typically a blue, read or white flashing lights.   On this August night, it was about 830 PM and I just got home from work.  I live near I-75 and the Griffen Road exit in Broward county FL.  The conditions were partly cloudy with a very distant thunderstorm South East of my location approximately 25 or more miles in the area of North Miami Beach. I was on the phone when I noticed two bright light orange redish lights flying! sided by side approximately 10 miles south of my location.  The were flying at what appeared to be low speeds and in the midst of low level clouds.   The lights appeared to be bigger than what you would expect from lights shinning on an airplane at that distance.  They flew for maybe 1 minute heading west and then turned together toward the south. The light was directional for one of the objects and was not for the other.  In other words, as one of the objects turned south, its light turned with it.  The other object seemed to turn the light after it had turned south. They repeated the same flyby another 3 times.  The lights seemed to dim and then brighten as they flew by.  When the lights turned south there were no flashing strobe lights to indicate it was an airplane. My parents witnessed the lights from their car just south of my location less than a quarter mile away. I confirmed they saw and object with orange redish lights and they thought it was an airplane at first! , but my dad noticed there were no recognizable lights that a ! typical airplane would carry.  Still can't explain what it was, but would love to know if anyone else in the South West Broward area saw lights at the same time I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77520.html](http://www.nuforc.org/webreports/reports/077/S77520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mt. Eden (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Firstly, I'm a veteran who has served in an AO.  I'm very familiar with all sorts of military aircraft.  As I stepped out the front door to observe three deer grazing in my front yard, movement in the sky caught my eye.  A solid orange circular object having the appearance of a glowing ember was traveling southwest to northeast approximately 30° above the horizon. It made no sound and maintained a constant rate of speed.  The brightness was unchanged as well.  I could not ascertain the size or distance of the phenomenon.  Also, the altitude seemed steady and the flight path was perpendicular to the ground.  This was not a meteor.  I'm a bit of a skywatcher and enjoy the meteor showers.  This did not burn up or dissipate and the path was not consistent with a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142869.html](http://www.nuforc.org/webreports/reports/142/S142869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
