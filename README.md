@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:08 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:17:05 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kirkland (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Was walking out of Metropolitan Market in downtown Kirkland and noticed something metallic in the sky looking directly north.  I watched it rotating in the sky with occasional green and red shimmering lights.  It was long from top to bottom, almost cylindrical and just rotated clockwise while moving westward.  Very sunny day with light clouds.  Clouds passed through it as it spun and moved left/westward.  Interestingly a very high in altitude plane flew to the left of it and had no visible exhaust and did not show up on my flight app.  Eventually the rotating craft completely disappeared from sight.  Absolutely incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148527.html](http://www.nuforc.org/webreports/reports/148/S148527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Moreno Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>TRIANGULAR SHAPED OBJECT HOVERING OVER MORENO VALLEY HILLS...I WAS DRIVING N. ON PERRIS BLVD., WHEN I SEEN THIS STRANGE OBJECT HOVERING OVER THE HILLS. I QUICKLY TURNED TO MY DAUGHTER TO CONFIRM WHAT I WAS LOOKING AT. NETHER ONE OF US COULD IDENTIFY IT. IT WAS TO LOW TO BE A PLANE AND VERY QUIET FOR A HELICOPTER. IT WAS TRIANGULAR SHAPED WITH BRIGHT LIGHTS ON THE BOTTOM ALMOST IN AN OCTAGON SHAPE.  IT HOVERED, MOVED RIGHT TO LEFT, AND THEN RETURNED TO HOVERING OVER THE HILLS. I SAT IN MY CAR IN SHOCK NOT THINKING TO TRY AND FILM IT WITH MY CAMERA PHONE. THEN IT WAS GONE. I DID HAVE THIS STRANGE FEELING IT DID NOT CARE HOW LOW AND EXPOSED IT WAS. KIND OF FREAKY!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58447.html](http://www.nuforc.org/webreports/reports/058/S58447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
