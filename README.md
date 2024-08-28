@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 28 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kingman (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular shape craft with diamond shape lightsDriving east on intersate 40 approx 10 miles before Kingman Arizona I saw 2 diamond shape ligths in the sky to the north of us(my wife and 15 year daughter). As I kept driving the ligts kept flying south until they stopped above i40 approx 3 miles east of us. The craft started to ilumminate the road, I could see both sides of the high way ilumminated (east/west bound lanes). As I got closer the craft turned the lights off and started heading west towards us. As it got closer I could see the lights under the craft, nothing I had ever seen before. The lights look like diamond shape and soft yellow, violet and green iluminated from them with a red light in the middle. Triangular was the shape of the craft and could not hear a sound from it. It look like it was just floating in the air. As the craft kept getting closer it started going north west until it disappear in to the trees.I know there were other vehicles comming west and few going east on this Thursday August 28 at about 11:00 pm. and probably saw the same craft in the area.((NUFORC Note:  We spoke with this witness via telephone, and he sounded quite convincing and objective to us.  We suspect he is a very good witness.  We would like to hear from other witnesses to the same event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31188.html](http://www.nuforc.org/webreports/reports/031/S31188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Forks Township (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Observed a bright red object that grew larger, turned white then vanished.5:00am August 28, 2014 Clear sky.  Looked up to the south west and observed a bright red object that grew larger as if falling to earth directly towards me.  The object then turned white and appeared to vaporize instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112999.html](http://www.nuforc.org/webreports/reports/112/S112999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
