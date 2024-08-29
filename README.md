@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cody (WY) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two silver/white objects.  Generally stationary but appeared to ascend occasionally.  Observed South of Cody, Wyoming.  (20 miles or so down the south fork road.)  Random flashes and random, minor shape changes.Observed for a half hour or so before we left.  Objects remained in sight the entire time.Clear, blue sky with no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129572.html](http://www.nuforc.org/webreports/reports/129/S129572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very High Slow Moving ObjectAs high as the clouds were (I'd guess at least 10,000 feet) a slow moving black object was flying by. Too high to be a bird. Too slow to be a plane. Too low to be a satellite. Went to grab binoculars but misplaced object or it went into a cloud. Very strange and very out of place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71941.html](http://www.nuforc.org/webreports/reports/071/S71941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
