@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:53 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:05 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright flashing light travels erratically in both pulsing pattern and trajectory for extended periodI was scanning the sky using high quality 10x50 binoculars when I saw a stationary bright object flashing just north and slightly below the moon.  Within seconds it started heading "down" starting with a basic flashing pattern of 2 and 1, but then it changed along with its trajectory.  The light was extremely bright most of the time, and then it would dim-- the timing was very erratic, and it just darted about. It stayed in the vicinity of the moon and Jupiter for about 20 minutes and I finally went inside. With binoculars, you got the sense that whatever it was, it was trying to get attention, as anyone scanning the sky with equipment at that time could not have missed it. It could not, however be seen by the naked eye.  Before I went inside, I saw a perfect rectangle cloud directly overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77490.html](http://www.nuforc.org/webreports/reports/077/S77490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8 yellow Orange orbs spotted in U village AreaI was shopping in u Village in seattle and saw 8 Orange/yellow orbs in the sky in a strange triangle/line formation above the QFC. They followed one another north till one by one they slowly disappeared.  There was no sound and no flashing lights and they traveled slow and steady   The orbs when straight up into the atmosphere like i've never seen before   I called my friend who lived up the street and they witnessed the last two orbs disappearing into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83574.html](http://www.nuforc.org/webreports/reports/083/S83574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
