@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wolcott (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three fireball like objects were seen above our house before they quickly disappeared we captured them on photo and video.There were three fireball like crafts that flew over our home about a year ago we captured one of them on photo and video which I will also submit via email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164577.html](http://www.nuforc.org/webreports/reports/164/S164577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Large Bright object over the sea CAball of light over the ocean. should be too bright at 7:16pm to see any "stars." light was several hundred feet in the air at a distance of about 20-30 miles (difficult to judge distance accurately over water) extremely bright flickering object hovering. within 10 min 2 small jets (what a assume where jets) approached the object from the north. both pilots made two passes in a oval pattern around the object before returning north, the entire time maintain a reasonable rate of acceleration. At 7:29pm the Bright object lowered in altitude by a few hundred feet at a very slow pace, stopped and made a 90 degree turn at impossible speed traveling north.  The object crossed the span of my visible horizon within 1sec.  The rate of speed and distance traveled was not at all congruent with current aerodynamic understanding.  no noise of any kind was hear. no sonic boom.  Few days later No radio (scanner,SW,IPC,Am/fm)/tv(domestic/international)/media communication of any kind seen in the following days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101909.html](http://www.nuforc.org/webreports/reports/101/S101909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
