@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>It was a star light object white moving then stopped.I was out in my backyard, noticing the sky.  I looked up at what appeared to be a light or star like light in the sky very high in the sky.  It traveled from an eastern direction and moved toward western direction very slowly then stopped once, continued for a little bit then stopped directly above me.  After the first long pause, I noticed an aircraft (what appeared to be a plane) traveling toward the same direction as the ufo was going.  The plane then veered of adjacent toward the northwestern trajectory.  During  this point I was lying down on the concrete.  The object was shining brightly and stationery at this time.  I then noticed the clouds coming in and it became a lot fainter.  I decided to come inside and report this.  I then called the National UFO Reporting Center.  I went back outside and it was gone. That is it.P.S.Just to note I am former military and I am pretty good at distinguishing an aircraft verses something else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113062.html](http://www.nuforc.org/webreports/reports/113/S113062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Westerly (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star Shaped Fast-Flying Object.I woke up really early in the morning and looked out of my window and saw what I thought was a star and I was staring at it when suddenly just zoomed off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159633.html](http://www.nuforc.org/webreports/reports/159/S159633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
