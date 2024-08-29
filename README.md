@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saucer like object hoovering in circles with bright flashing lights moving across the skySaw a Disc or Saucer shape object with flashing lights that would turn on and off it wasn’t moving in a straight line it was spinning in circles. The object was very big</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72001.html](http://www.nuforc.org/webreports/reports/072/S72001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three white shaped circles.  Motion was circular.  One would disappear and re-appear.((ADDENDUM FROM WITNESS))Yes it was evening. Friday night of 8/29/14  I am not good at describing things.  I have never seen anything like it before.  I live on 39th st and I was looking west as if it was 40th st.  It was cloudy, but the lights were bright enough that you can see them through the clouds.  The motion was circular anf speed was pretty fast.  It had three white shaped circles.  When it would circle around one or two would disappear and reappear.  I hope this helps.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113052.html](http://www.nuforc.org/webreports/reports/113/S113052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
