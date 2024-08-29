@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:50 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Man repts. sighting bright white light streaking E to W 60 deg. above S horizon.  1/3 diameter of full moon. 2nd sighting by others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00781.html](http://www.nuforc.org/webreports/reports/000/S00781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pocatello (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle Craft seen moving West over Pocatello Idaho seen as a Pinkish glow against the cloudy night sky.August 29, 2014 I live in Pocatello, Idaho. Approximately 70 miles North of Utah and 70 miles West of Wyoming.I am setting up my camera Nikon D7000 with Nikon 300mm f 2.8 manual lens, a large lens and heavy.  Manual settings pre-set on my camera.  I was ready, at just a couple minutes before 9:00 pm.  I make my way out into my driveway where I set up my camera on a tripod and a chair to start the waiting game of Sky watching, I barely had the camera set in place when I looked up, it was a cloudy but warm evening.  The clouds were less than a mile up, lots of room between me and the clouds but they were not real high, the city lights could light them up a little.  When I am outside I have to look to the sky, it is impossible for me to not look up, I always feel as though I am being watched from up there, weird I know, but so am I.So I look up towards the East over my house, just below the clouds is a Pinkish light moving very slowly due West, I immediately jumped on the camera thinking, (Couldn't you wait till I got set up?)  I started snapping picture's, I took 32 pictures of it as it moved across the sky.  I had to reposition the camera a few times because I can only take so many pictures before the object moves out of the frame, and with a 300 mm lens the field of view is rather small.  While taking pictures and looking through the viewer I saw a Red light flash and I thought to myself, that I was wasting my time taking picture's of an airplane or Jet plane.  So I stopped and looked at the pictures I just took on the camera because I could enlarge them, that's when I saw the light formation with the large light in the center, now I knew this was not a plane, and looked back up to find the object and continue photographing. Big Mistake on my part because the object was gone, and I didn't see how i! t could have disappeared, either it went up into the clouds or it shot off at high speed, because it was right up in front of me. I can and would be excited about forwarding my picture's to you via email.Mine is a very short story but I have pictures and that says it all.As far as I can tell the craft is a Triangle, it has a Bluish light on 3 sides with a larger Redish light in the center.  I am guessing because the craft was at least a mile from me when I say it in the dark, it had to be somewhere 30 to a 100 feet in size.  I could not make out detail of the craft or it's shape, because it was dark up in the sky, but the pictures lead one to believe it is of a Triangular shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125213.html](http://www.nuforc.org/webreports/reports/125/S125213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
