@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:53 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO in Colorado Springs/Manitou Springs areaI was pulling into the HP parking lot and was blinded by what appeared to be an airplane at first.  I thought to myself "man this plane is flying awfully low to make a turn into the airport. This thing was in the proximity of Manitou Springs area and litterally blinded me. I slowed to a halt and could see it was very clean silver in color with lights around the base. IT NEVER MOVED from hoover position. I turned to gain a better vantage position but lost site of it as I moved down into a troft like position in the parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52228.html](http://www.nuforc.org/webreports/reports/052/S52228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saucer like object hoovering in circles with bright flashing lights moving across the skySaw a Disc or Saucer shape object with flashing lights that would turn on and off it wasn’t moving in a straight line it was spinning in circles. The object was very big</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72001.html](http://www.nuforc.org/webreports/reports/072/S72001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
