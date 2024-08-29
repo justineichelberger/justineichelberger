@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:48 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>My husband and i were sitting in the car down by the north jetty in Florence, Oregon, and we seen a ufo with bright yellow lights under them, out over the south jetty and one over the residential area by the north jetty.  We drove up to the main road on and all of a sudden blue light came down as a clone shape from the bottom of the ufo and some one deported out and jumped straight down and then the blue light dissapeared.  Also, about two years ago we seen a huge bright circle in the ocean at strawberry hill oregon coast.  We watched it a long time and a coworker came and told me a random story of her and her daughter were at strawberry hill and seen the same thing but it flew up and hovered over the water.  This is two of many sightings that i have seen my whole life and i am 42 now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144570.html](http://www.nuforc.org/webreports/reports/144/S144570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I saw a brown triangular object fly at a low altitude and ridiculously high speed.I was looking out of my window, only to see the craft fly from roughly a quarter mile away, to over the horizon in about a second.  It seemed brown in color and flew at a relatively low altitude, as it is a very cloudy day and I could distinctly see the object below the cloud barrier.  I live on the top floor of an apartment building that's on top of a hill, and can see a very far distance from my window.  No plane or jet could go as fast and fly at such a low altitude as the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121545.html](http://www.nuforc.org/webreports/reports/121/S121545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
