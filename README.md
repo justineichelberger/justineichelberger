@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three white shaped circles.  Motion was circular.  One would disappear and re-appear.((ADDENDUM FROM WITNESS))Yes it was evening. Friday night of 8/29/14  I am not good at describing things.  I have never seen anything like it before.  I live on 39th st and I was looking west as if it was 40th st.  It was cloudy, but the lights were bright enough that you can see them through the clouds.  The motion was circular anf speed was pretty fast.  It had three white shaped circles.  When it would circle around one or two would disappear and reappear.  I hope this helps.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113052.html](http://www.nuforc.org/webreports/reports/113/S113052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small dark objects over San Antonio, TX.My friend and I were driving south on San Pedro Ave. around 8:00 pm, when we noticed three triangular dark (black) shaped objects, along with a circular (ball shaped) object flying at low altitude in the middle of the city, about 2.5 miles south of the San Antonio Airport.  We both noticed them at the same time and tried to figure out what they could be.  We named every possible flying object and discounted every single thing that it could have been.We were facing south, and they were to the west of us flying south. They were at a distance of about 150 to 200 yards away. They slowed down and then hovered in one area for a few seconds then turned and faced west and started to fly west.  But when they turned, the triangular shaped objects became "sliver like" thin, except the ball shaped object, and continued on.   About the time when they were almost out of our view, we were surprised to see another strange triangular shaped object with something hanging from it, just beneath it.  We thought it might have been an "ultralight" singleman plane with someone sitting in the seat below the wing, but quickly dismissed due to the fact that it was beginning to become dark outside, and the fact that small air crafts like "ultralights" are not allowed in the city.  And we had just had a light rain storm in some areas of the city with lightning reported in other areas with no rain.Near my house the sky was green with no rain or lightning. (My house was about the same area where the objects would have been flying over.)  They also made no sound, and flew very slow and uniform.My friend and I are still very perplexed over what we both witnessed and wondered if anyone else saw the objects too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52269.html](http://www.nuforc.org/webreports/reports/052/S52269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
