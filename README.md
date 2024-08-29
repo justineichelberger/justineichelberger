@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:47 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Metairie (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver saucer with red light on top and green light on bottom.When I pulled into my driveway at home I noticed something hovering in the sky across the street.  My oldest daughter had my cell phone for the past week so I was unable to photograph it.  When I stood at the end of my driveway it was across the street located by the railroad tracks and water plant, it hovered at the tree tops, it was a bright silver with a red light on top and a green light on bottom and remained it that spot for at least 5 minutes, then I went inside.  My mother came over and said did you see that "thing" in the sky and I said "yes, is it still there?"  She replied, "yes", I went to look at it with her and it was gone.  It showed up the next day around the same time and I have not seen it since.  I have my phone back and I want to see it again so I can get pictures to post.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114860.html](http://www.nuforc.org/webreports/reports/114/S114860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5  bright white egged shaped craftsObserved 4 to 5 very bright white egg shaped ufo's traveling north to south at very high altitude.  The sky was very blue for a clear view of these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92282.html](http://www.nuforc.org/webreports/reports/092/S92282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
