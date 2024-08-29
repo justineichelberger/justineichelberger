@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Harrow on the Hill (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately until out of sight - until out of sight minutes.</sub><blockquote><sub>Silver dome shape objectIn my back garden having a barbecue and noticed a very bright object, high up in the sky. I suppose it was as small as a dot! Moved slowly across the sky and descended slightly.  Reached for my binoculars and saw what looked like a silver dome shape with a long point accompanied by a bright orange light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45904.html](http://www.nuforc.org/webreports/reports/045/S45904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>My husband and i were sitting in the car down by the north jetty in Florence, Oregon, and we seen a ufo with bright yellow lights under them, out over the south jetty and one over the residential area by the north jetty.  We drove up to the main road on and all of a sudden blue light came down as a clone shape from the bottom of the ufo and some one deported out and jumped straight down and then the blue light dissapeared.  Also, about two years ago we seen a huge bright circle in the ocean at strawberry hill oregon coast.  We watched it a long time and a coworker came and told me a random story of her and her daughter were at strawberry hill and seen the same thing but it flew up and hovered over the water.  This is two of many sightings that i have seen my whole life and i am 42 now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144570.html](http://www.nuforc.org/webreports/reports/144/S144570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
