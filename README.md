@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 29 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in East Killingly (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Streaming lights moving above trees.I was walking up to the pay phone and I looked out into the sky like looking at the stars and I noticed a row of lights that were streaming back and forth which changed from red, white and blue.  It was hovering above the trees moving slowly east towards Rhode Island. I saw other airplanes in the sky and this looked or moved nothing like them. Then eventually it disappeared.  The entire event lasted about 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19344.html](http://www.nuforc.org/webreports/reports/019/S19344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Man repts. sighting bright white light streaking E to W 60 deg. above S horizon.  1/3 diameter of full moon. 2nd sighting by others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00781.html](http://www.nuforc.org/webreports/reports/000/S00781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
