@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:20 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I saw a faint ‘star-like’ object hovering about in the sky towards the north direction (I think). It looked very far away and was flying erratically in a manner similar to a mosquito or a house-fly.  I thought it might be a drone but then realized it was too high up.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143091.html](http://www.nuforc.org/webreports/reports/143/S143091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vernon (Canada) (BC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately several seconds - several seconds minutes.</sub><blockquote><sub>We witnessed a spectacular flash illuminating East Vernon Hill, on a cloudless, warm night to the northeast of Vernon, off Hartnell Rd.A spectacular flash appeared to the northeast, about 23:30 on 30th August 2003, illuminating East Vernon Hill, lasting several seconds.  The light was lemony with a bluish tinge in colour.  There was no sound.  We (2 middle-aged women) were part of a 'Citizens on Patrol' group formed in the rural area, just north of Vernon to patrol our area for possible fires. Shifts last 2 hours. We had signed up for the 10-12 midnight shift.We live 45 minutes north of Kelowna in the interface between the city of Vernon and crown land.  We were near the north end of Hartnell Road, coming down the road when we saw a brilliant flash to the northeast, illuminating the mountain behind.  As suddenly as the flash appeared, it disappeared. The energy required to illuminate the mountain (East Vernon Hill) must have been enormous. Neither of us had seen anything like this before. As you can imagine, given the fire danger, we were anxious to find out if this event had fire potential. The sky was clear and cloudless so we discounted lightning...did not see another flash thereafter. Also, there was no sound accompanying the flash.  We wondered if it was part of a meteor shower but have no explanation for what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31291.html](http://www.nuforc.org/webreports/reports/031/S31291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
