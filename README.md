@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Seattle (above) (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Flash of light over Seattle similar to rocket burn, moves upward quicklyWhile observing stars on a realatively clear night from an island in the San Juans at about 8:30 PM on August 30, 2007, northwest of Seattle, I noticed several satellites traverse the sky over a 15 minute time period. After a lull of movement for several minutes a flash of light caught my eye.  As I focused on that point in the sky, it continued its sustained illumination (perhaps 2 seconds at the most) and then began moving in a northern (and upward?) direction as it became dimmer and dimmer. Within a few seconds it had vanished.((NUFORC Note:  Possible sighting of Iridium satellite.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58484.html](http://www.nuforc.org/webreports/reports/058/S58484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bridgewater (MA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>chevron object with lights north south path in Bridgewater MA almost invisible and really fastObject was triangular and about 3/4 of an inch when hand held straight out to the sky. This size was estimated immmediately after the object left view. First spotted at 12:00 position and took about 1.2 to 2 seconds to be obsructed by a tree at about 45 degrees from 12:00.  Travelling north to south (roughly 187 degrees-measured after sighting using the tree as a fixture).  It was triangular and had about 5 lights in a v shape flying point forward.  Was going very very fast with no noise at all.  The sky was perfectly clear with stars.  The object had a traingular shape but it was difficult to focus on any lines or even the lights, I had the impression it was shimmering.  Only had enough time to say "What the **** is that?!" and grab my brohter and point to it before the tree blocked the view. He saw it as well. My brother said it had a glow to its edges but was not "streaking". It was not very bright at all, almost invisbible, I was just plain lucky to be loo! king at the exact spot where I noticed it.Bridgewater is south of Boston and on an approach to Logan. Very hard to tell how high this thing was but it was much higher than the trees and much larger than an airplane and going about half as fast (maybe more) as a meteor would streak.I'll never forget this or doubt others who have seen similar things. It just left me dumbfounded and not doubting I saw something that did not belong here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83579.html](http://www.nuforc.org/webreports/reports/083/S83579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
