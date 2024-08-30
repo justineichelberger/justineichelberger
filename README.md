@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sharldlow (Derby) (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Shardlow 1:44 AM (Red and white light)  I saw a still object with glowing red and white light. Was stationay for 7 min and moved very fast and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58464.html](http://www.nuforc.org/webreports/reports/058/S58464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Seattle (above) (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Flash of light over Seattle similar to rocket burn, moves upward quicklyWhile observing stars on a realatively clear night from an island in the San Juans at about 8:30 PM on August 30, 2007, northwest of Seattle, I noticed several satellites traverse the sky over a 15 minute time period. After a lull of movement for several minutes a flash of light caught my eye.  As I focused on that point in the sky, it continued its sustained illumination (perhaps 2 seconds at the most) and then began moving in a northern (and upward?) direction as it became dimmer and dimmer. Within a few seconds it had vanished.((NUFORC Note:  Possible sighting of Iridium satellite.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58484.html](http://www.nuforc.org/webreports/reports/058/S58484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
