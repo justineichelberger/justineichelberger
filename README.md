@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 to 7 bright white lights on triangular craft - North ColumbusMy girlfriend and I were watching the sky again, and we saw something flying in the distance, the craft came from the same direction, and did the same exact movements as it had the night before.  It actually descended vertically with no horizontal movement.  We saw no red or green lights present on the craft.  (Indicating a commercial or even military aircraft.)  It came from the North, until it got around some trees, made a gradual 90 degree turn and began heading to the West.  (In the direction of the airport here.)  We see tons of planes coming in and landing all day, everyday.  This thing was not a commercial airliner. It was flying entirely too slow, too low, and was way too quiet to be a passenger airliner, and had too many lights on it.  (And in the wrong places/not having the correct lights for an airplane.)  It flew pretty slowly past the house, it was probably about 100 - 250 feet away (maybe a bit more) from the house, and it was flying at a pretty low altitude, I'd guess somewhere around maybe 200-400 feet area possibly.  I actually managed to snap a few quick pictures of the thing, which I will attach to this.What was odd to me was the fact that there weren't any other airplanes coming in for about 10 - 15 minutes before this craft came, and nothing came in to the airport for about 15 - 20 minutes after we saw the craft.  There is also an Air Force base pretty close by (Rickenbacker AFB), but that base is roughly 30 minutes to the South of us.This one did have a sound, like a plane - but a very, very quiet plane. (It was more quiet than a single prop airplane.) We didn't hear the noise of it until it was passing the house, and for a brief moment after it had already passed by the house. It had at least 6 - 7 bright white lights present on it. (That's only counting the lights on the left side and back side of the craft.) It was very dark, but it was most likely a black craft, and the way the lights were situated on the craft, it had to be a triangular craft.Note:  Normally we hear crickets outside all night long, but when this craft hovered past us, it was dead quiet outside with the occasional sound of vehicles on the nearby highways and the craft when it hovered by.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129620.html](http://www.nuforc.org/webreports/reports/129/S129620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pewaukee (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Diamond Shaped UFO Sighting on the LakeI live on Pewaukee lake and look outside for several hours every afternoon and night but today I noticed something unique in the sky in a diamond shape with multiple color lights.  I was in shock and did not want to miss the scene so I decided not to go inside my home and grab my phone to take pictures or a video.  It was directly hovering over the lake for about 7-10 minutes but high up in the air.  There was only one aircraft in the sky but it was like nothing I have ever seen before and as I said earlier, I always look up in the sky everyday for many hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158981.html](http://www.nuforc.org/webreports/reports/158/S158981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
