@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Avella (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I saw a cylindrical object floating in the air. Probably 200 ft or more above the tree tops. I took several photos and a short video.It was a two tone silver and grey in color.  It never seemed to move.  I watched it for over 8 minutes.I turned my back to finish working at the site I was at and when I looked back up... it was gone! No where in the sky.  Without a trace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159046.html](http://www.nuforc.org/webreports/reports/159/S159046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman calls to report sighting of very bright red object rising in western sky.  (Rocket from Vandenburg AFB??)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00783.html](http://www.nuforc.org/webreports/reports/000/S00783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
