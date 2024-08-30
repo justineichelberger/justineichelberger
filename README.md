@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:36 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red and blue color changing orb moving in all directions.I went out on my deck and i saw a fast moving blinking white light.  It then turned solid red. It was going faster then a plane, then all of a sudden it stopped and went the oppisite direction.  Then it was moving diagnal, then up and down.  Then it turned really bright solid blue for a few seconds.  Then it turned red again and went over towards some planes coming.  Circled around them.  The movement of this red and blue orb was the most unique part.  Then it seemed like the orb didn't know what to do.  Then it feathered down past the tree line.  The interesting part was that i grabbed my phone to record it and i only got one second, and my phone misteriously died and i had 15% charge.  It didn't want me to record it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129634.html](http://www.nuforc.org/webreports/reports/129/S129634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Ramon (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright Light Seen from Bay Area 7:20PMAt 7:20PM this evening my wife and I were sitting on a bench in out backyard.  I was looking up at the southern sky about 35 degrees above the horizon and spotted a very small but very bright light source that quickly dimmed and brightened as it appeared to be stationary but rising rapidly.  My thought at the time was that it was an irregularly shaped object reflecting the light of the setting sun, and the intensity of the light ranged from ‘out’ to very bright.  At the same time, however, it appeared to be climbing rapidly.After about a minute my wife was able to see it as well. Again, it was a deep orange color, varied greatly in brightness, was as small as a small star (like half the size of Sirius, but visible in daylight), and rising.  I was able to see it in binoculars but only briefly.  I would believe it was well above regular aircraft altitudes, and near the height of a satellite, but again stationary and climbing.  No sound could be heard.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148611.html](http://www.nuforc.org/webreports/reports/148/S148611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
