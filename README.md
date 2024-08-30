@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pewaukee (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Diamond Shaped UFO Sighting on the LakeI live on Pewaukee lake and look outside for several hours every afternoon and night but today I noticed something unique in the sky in a diamond shape with multiple color lights.  I was in shock and did not want to miss the scene so I decided not to go inside my home and grab my phone to take pictures or a video.  It was directly hovering over the lake for about 7-10 minutes but high up in the air.  There was only one aircraft in the sky but it was like nothing I have ever seen before and as I said earlier, I always look up in the sky everyday for many hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158981.html](http://www.nuforc.org/webreports/reports/158/S158981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Tried to go to the store while on a phone call, strange noise happened call was disrupted, and car shut down, still wont turn on.  Heard a noise behind the car and ran inside the house.  Feel like I'm crazy but figured I would report it anyways.  I'm still not completely sure what happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158997.html](http://www.nuforc.org/webreports/reports/158/S158997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
