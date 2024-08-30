@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:10 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Eaton (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Over a ridge of small mountains an object with flashing red and green lights remained visible in one spot for several hoursToo far away to determine a shape, it had flashing red and green lights.  It could have been a satellite or airplane but it stayed hovering over the mountain ridge for several hours.((NUFORC Note:  Sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58517.html](http://www.nuforc.org/webreports/reports/058/S58517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shortly before 5 a.m., I awoke to the sound of one of my cats making noise upstairs.  I got out of bed to go to the bathroom, and when I went back to bed, my gaze shifted to the view outside my patio doors.  In the sky, slightly above Wilson Mountain, I observed an extremely bright white light, which appeared to be stationary.  The luminosity of this light was exceptional, and looked exactly like the white sparklers kids use on the 4th of July.  The light was radiating out from a central point, in brilliant sparkling rays, just like a sparkler.  The light also seemed to pulse a bit, getting bigger and brighter, and then dimmer and smaller.  I was almost transfixed by it, it was so  extraordinarily beautiful, and I did not want to leave my observation of it, but I did want a photograph, and so I went upstairs to get my camera and shoot from the outside balcony there. When I got upstairs the light was still there, but lower on the horizon, and closer to the top of the mountain.  My sense of it was that it would soon be gone, and I hurriedly grabbed my digital camera, went outside and observed it very close to the top of the mountain, and getting lower.  I took one shot, lowered my camera, and it was gone, so I do not know if I pressed the shutter in time, but my image is completely black, except for the wall of the balcony, which shows clearly.  This is unusual, because there was enough light in the sky so that the mountains should have been visible in the photo against the dawn sky,  but that area is completely black. Something else unusual is that I do take very many paranormal photographs in which I do not see the lights and shapes that appear in my photographs, but this time, I saw a mysterious light, and the landscape in the image is completely black.  There was no noise from the light.  I looked at the clock on my kitchen oven, and the time was exactly 5:00 a.m. This light was like nothing I have ever seen.  The color white was unparalled and pure, and it sparkled and radiated in such a way that it seemed to be intentionally wanting my attention.  That was the feeling I got from it, and I had a very hard time leaving it to go get my camera.((NUFORC Note:  We suspect the witness may have been looking at Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38967.html](http://www.nuforc.org/webreports/reports/038/S38967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
