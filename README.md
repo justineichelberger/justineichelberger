@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Torrenueva (Granada) (Spain) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately some minutes - some minutes minutes.</sub><blockquote><sub>Spherical object rotating over itself over the sea.I was driving along the road when at my right, over the sea, i saw a spherical object floating over the sea at 500 meters over the water.The distance from me to the object was approximately 5 or 6 kilometers far from the seashore, in the middle of the sea.At first sight i thought that it could be a helicopter. But looking carefully i saw that the object was only a sphere of colors white and grey.The object was rotating over itself.It wasn't a balloon in the water, it wasn't a meteorological balloon and, of course not a helicopter.When i stopped to take a photograph it dissapeared.  I was searching up and down, left and right, but nothing was there. What is it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58471.html](http://www.nuforc.org/webreports/reports/058/S58471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Avella (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I saw a cylindrical object floating in the air. Probably 200 ft or more above the tree tops. I took several photos and a short video.It was a two tone silver and grey in color.  It never seemed to move.  I watched it for over 8 minutes.I turned my back to finish working at the site I was at and when I looked back up... it was gone! No where in the sky.  Without a trace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159046.html](http://www.nuforc.org/webreports/reports/159/S159046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
