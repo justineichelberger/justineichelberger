@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman calls to report sighting of very bright red object rising in western sky.  (Rocket from Vandenburg AFB??)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00783.html](http://www.nuforc.org/webreports/reports/000/S00783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A huge stealthy triangle-shaped craft travels from north to south at a fantastic speed.When outside of my home looking north into the night sky I noticed a triangular-shaped craft heading south toward my location. The object appeared to be immense in size although distant.It was very faint and stealthy as it moved at extraordinary speed. Once it got closer I noticed white lights at each corner of an extended triangle-shaped craft.It emitted no sound,even once above my home. I observed it go from the northern horizon to the southern horizon in about 30 seconds.  Even though the object could be noticed only by the three triangle-corner edge lights, It had an awesome,intimidating presence.It was moving too fast to go get a camera so I just watched the smooth-floating object as it faded into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92329.html](http://www.nuforc.org/webreports/reports/092/S92329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
