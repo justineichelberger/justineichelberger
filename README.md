@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Tried to go to the store while on a phone call, strange noise happened call was disrupted, and car shut down, still wont turn on.  Heard a noise behind the car and ran inside the house.  Feel like I'm crazy but figured I would report it anyways.  I'm still not completely sure what happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158997.html](http://www.nuforc.org/webreports/reports/158/S158997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 different high speed objects observed from the little dipper.I was looking at the Little Dipper through my telescope and noticed a light almost like a star moving rather quickly considering the distance it was from me. I told the other person to look at what I was seeing and we were able to see it with the naked eye for another few seconds till it disapeared. A few minutes later while looking at the same area in the Little Dipper I noticed another of the same type of object. I followed it this time with my telescope and was not able to keep up with it. I tried to focus on it better but it seemed to be in focus with other stars in the sky... This lead me to believe that it was at a very far distance from earth. the time/date of this was: 04:05am Pacific Time 08/31/2003((NUFORC Note:  Flaw in date.  We suspect the witness means August 30, since that is the date on which the report arrived.  We will confirm the date with the witness, and we have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31020.html](http://www.nuforc.org/webreports/reports/031/S31020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
