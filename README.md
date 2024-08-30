@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ellington (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw a stationary pattern, not moving and not making any noise for a minute until it slowly dimmed away.Near Pinney Street, saw an unidentified light source, about 1000 feet high, that seemed to have structure to it; the lights seemed to be shining through something.  The object had 2 circular lights on top, a wide bright light below it, and a single light below that.  The object was not moving at all.  We watched it for about a minute, from about a mile away, until we were almost beneath it.  As we were attempting to identify it and were driving down the street, the lights slowly dimmed until they were out.  We then stopped the car, to see if we could hear a plane engine, but could not see or hear anything more.  A senior and a teenager witnessed this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129596.html](http://www.nuforc.org/webreports/reports/129/S129596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Landers (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately Brief - Brief minutes.</sub><blockquote><sub>On the night of august 30th my boyfriend were sitting outside of our Landers, California, home and we saw two extremely bright flashes that were close to the ground.  It was almost as if a wormhole had opened.   It happened twice about 30 minutes apart.  Prior to seeing this I noticed something in the sky that was neither a plane nor a meteor.  There was no noise associated with the experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148604.html](http://www.nuforc.org/webreports/reports/148/S148604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
