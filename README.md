@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Ramon (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright Light Seen from Bay Area 7:20PMAt 7:20PM this evening my wife and I were sitting on a bench in out backyard.  I was looking up at the southern sky about 35 degrees above the horizon and spotted a very small but very bright light source that quickly dimmed and brightened as it appeared to be stationary but rising rapidly.  My thought at the time was that it was an irregularly shaped object reflecting the light of the setting sun, and the intensity of the light ranged from ‘out’ to very bright.  At the same time, however, it appeared to be climbing rapidly.After about a minute my wife was able to see it as well. Again, it was a deep orange color, varied greatly in brightness, was as small as a small star (like half the size of Sirius, but visible in daylight), and rising.  I was able to see it in binoculars but only briefly.  I would believe it was well above regular aircraft altitudes, and near the height of a satellite, but again stationary and climbing.  No sound could be heard.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148611.html](http://www.nuforc.org/webreports/reports/148/S148611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Clear night bright light that looked like a star but moved vertically and then horizontally with flashing lights rear.I saw what to look like a very bright star next to a communications tower.When I looked again it was not in the same location it had moved behind the tower.I watch the light and it began to go vertical several hundred feet.  I noticed a trail as it when up but no noise. I shined my hi-powered flashlight at this and could not detect any form, but notice the light would go dim and bright at times on this object.After it went up several hundred feet it began to move west and it when right over me.It looked like it was triangle in shape and had two blinking light on the rear one on the left side and one on the right side.  I watched it move west for about 10 minutes.As i was watching this I seen blinking lights to the left of this object and it looked to be the same kind of object following behind at an angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101754.html](http://www.nuforc.org/webreports/reports/101/S101754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
