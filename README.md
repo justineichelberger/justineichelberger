@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mobile (AL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A bright flash that left a spot of light in my eyeOur power was out due to hurricane Katrina. My wife and I were sitting in our driveway and I walked around the side of the house to check to see if anyone in the neighborhood had generator power.  All of a sudden a bright flash , such as a flashbuld, caught my eye .  The flash was in the South Eastern sky at about40 degrees in the sky.  The night was cloudless and the stars were so visible everywhere.  The light put a flash in my eye , such as a welders flash, and it still is there. When I walked back around to my wife, the first thing she said was, did you see that flash.  She was facing North at the time and only saw the sky light up for a split second.  It did not affect her, since she seen only the flash from behind her.  It lasted a split second and this is Friday and I still have the spot in my eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45997.html](http://www.nuforc.org/webreports/reports/045/S45997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Torrenueva (Granada) (Spain) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately some minutes - some minutes minutes.</sub><blockquote><sub>Spherical object rotating over itself over the sea.I was driving along the road when at my right, over the sea, i saw a spherical object floating over the sea at 500 meters over the water.The distance from me to the object was approximately 5 or 6 kilometers far from the seashore, in the middle of the sea.At first sight i thought that it could be a helicopter. But looking carefully i saw that the object was only a sphere of colors white and grey.The object was rotating over itself.It wasn't a balloon in the water, it wasn't a meteorological balloon and, of course not a helicopter.When i stopped to take a photograph it dissapeared.  I was searching up and down, left and right, but nothing was there. What is it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58471.html](http://www.nuforc.org/webreports/reports/058/S58471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
