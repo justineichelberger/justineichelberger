@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 30 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Landers (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately Brief - Brief minutes.</sub><blockquote><sub>On the night of august 30th my boyfriend were sitting outside of our Landers, California, home and we saw two extremely bright flashes that were close to the ground.  It was almost as if a wormhole had opened.   It happened twice about 30 minutes apart.  Prior to seeing this I noticed something in the sky that was neither a plane nor a meteor.  There was no noise associated with the experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148604.html](http://www.nuforc.org/webreports/reports/148/S148604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Coral Gables (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>14 objects,appearing to be reddish or orange in color,moving in a V formation.No sound,moving southwest.It was a very clear night.I noticed,at first,several objects in a V formation moving southwest at a high altitude and hearing no sounds.My wife came outside and we have never seen anything like this at all.We live approximately 3 miles from MIA.There were no planes either landing or taking off.It was very quiet.We watched these objects,14 in all,for about 7 minutes.They seemed to be reddish or orange in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09619.html](http://www.nuforc.org/webreports/reports/009/S09619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
