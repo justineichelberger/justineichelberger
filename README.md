@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange orange light (flame) in the skyThere was strange orange light (flame) that we saw rise up into the sky tonight. It was very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101788.html](http://www.nuforc.org/webreports/reports/101/S101788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Loganville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>lights looked like constellation of stars, turned into 7 orange lights trailingDriving in car,it became foggy as I drove closer nwar my subdivision, looked up in the sky, at first I thought it was a bright constellation of stars, then I saw a ror trail of orange lights, in a slight circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101761.html](http://www.nuforc.org/webreports/reports/101/S101761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
