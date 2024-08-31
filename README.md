@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It happened Sunday evening just after midnight. My roomate and myself were smoking a cigarette. He jumped up and exclaimed "what the **** is that!?."   Looking up, we both noticed a cigar shaped line of neon blue, almost LED lights.  The lights stretched the entire width (from what we could see). The lights would also start to glow brighter, then dim back down.  This happened throughout the entire event.  The craft was coming from the North, East of us, and slowly heading South. Because it was dark and the moon was out, after a few minutes it was hard to keep an eye on without using our peripheral vision alone.  The last thing we noticed, was the craft did not follow the curve of the earth as it went south. It stayed in a single location in the sky, yet grew smaller and harder to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72004.html](http://www.nuforc.org/webreports/reports/072/S72004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Plymouth (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>i have video of a type of orb like light on my mobile do you have a number i can send it on too</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45939.html](http://www.nuforc.org/webreports/reports/045/S45939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
