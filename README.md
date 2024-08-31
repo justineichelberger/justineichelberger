@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oakhill (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Aug. 31 13 lights over WV8 round bright objects . Coming from same direction about 30 seconds apart as they near the city banked towards north and up direction . You see one coming as the last one you just saw is so far away . They would only be two in sight at all time and definitely solid lights no blinking solid orange ish color.  No noise may have been to far away to judge that tho. Definitely lower than planes on min then so far gone. The next gained altitude further it was away seems they was getting close before the bank toward north we all should of be able to hear but none of heard a sound felt more like slow motion and too busy looking and to dark to video if I knew after the 2nd one there was going to be 6 more I would of tryed to shoot a picture or videos but just to dark to thank it would of worked. Ive been around the service and this didnt seem to be chopper s nor planes we went just to pick the kids up from friends church friends. I view myself as an active observer ! of the skys this is another of only a hand full that I cant figure out .and all the year's ive seen stuff this one has led me here. Im not easy scared nor fast to say ufo. Tonight im definitely lost for word. Im hoping tomorrow I hear others seen it or at least people are saying what it was. WIERD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101787.html](http://www.nuforc.org/webreports/reports/101/S101787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two lights, one red and one small greenI have a new camera and wanted to see if I could capture a picture of the moon.  So I went outside and looked for a clear angle.  As I was positioning the camera a red dot flashed on the LCD screen.  Not knowing what it was, I checked the camera to be sure I had it set correctly.  I then noticed that the red dot was in the sky, much smaller than the moon.  It flashed again, and I took a picture.  I then moved over slightly to take a second picture.  I then noticed another object (blue/green) below the red.  After taking the two photos I returned indoors.  When I loaded the photos in my computer I noticed the other was green, smaller and positioned below the red dot.  So I enlarged them.  I do not know what to think about all of this other than it is strange.  They looked like dots until I enlarged them.  The enlargements look like vapors or fog.  See photos attached.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92337.html](http://www.nuforc.org/webreports/reports/092/S92337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
