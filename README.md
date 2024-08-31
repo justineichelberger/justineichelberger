@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:57 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Villa Hills (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball stops and turns into horizontal line of five lights.A group was overlooking the Ohio River getting ready for Cincinnati's Labor Day fireworks. We were facing north towards the city of Cincinnati. At approximately 8:55 pm a fireball appeared overhead . If you have ever seen the movie Deep Impact, it looked similar to the comet that entered the atmosphere but much smaller. No sound could be heard associated with the fireball. The fireball traveled north towards Cincinnati at a fairly slow speed above the river. I thought a plane might be on fire. As the fireball got fairly close to Cincinnati, it stopped and turned into a horizontal line of 5 lights. Another light appeared below. (I am using stars to show the positions.) *   *   *   *   * * After a minute or so, the lights blinked out. Had it not been for the fireball that preceeded the lights, I would have thought the lights were fireworks. A single light appeared several times again around the Cincinnati area. Those lights may have been planes, I don't know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65497.html](http://www.nuforc.org/webreports/reports/065/S65497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oakhill (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Aug. 31 13 lights over WV8 round bright objects . Coming from same direction about 30 seconds apart as they near the city banked towards north and up direction . You see one coming as the last one you just saw is so far away . They would only be two in sight at all time and definitely solid lights no blinking solid orange ish color.  No noise may have been to far away to judge that tho. Definitely lower than planes on min then so far gone. The next gained altitude further it was away seems they was getting close before the bank toward north we all should of be able to hear but none of heard a sound felt more like slow motion and too busy looking and to dark to video if I knew after the 2nd one there was going to be 6 more I would of tryed to shoot a picture or videos but just to dark to thank it would of worked. Ive been around the service and this didnt seem to be chopper s nor planes we went just to pick the kids up from friends church friends. I view myself as an active observer ! of the skys this is another of only a hand full that I cant figure out .and all the year's ive seen stuff this one has led me here. Im not easy scared nor fast to say ufo. Tonight im definitely lost for word. Im hoping tomorrow I hear others seen it or at least people are saying what it was. WIERD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101787.html](http://www.nuforc.org/webreports/reports/101/S101787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
