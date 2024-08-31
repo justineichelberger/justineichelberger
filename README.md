@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Loganville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>lights looked like constellation of stars, turned into 7 orange lights trailingDriving in car,it became foggy as I drove closer nwar my subdivision, looked up in the sky, at first I thought it was a bright constellation of stars, then I saw a ror trail of orange lights, in a slight circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101761.html](http://www.nuforc.org/webreports/reports/101/S101761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oconto Falls (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>11 bright orange circles seen, within 20 minutes.My husband and I were sitting by the bonfire, looking up in the sky, when we noticed 2 orange objects coming from the south heading northwest.  They disappeared in the northwest clouds when 2 more appeared and did the same thing.  We seen a total of 11 orange objects within a half hour period.  They all went the same way and disappeared, there was no engine sound or anything, for that matter.  I took my cell phone and tried to record it and one did turn out somewhat.  My husband and I never seen anything like this in our lifetime.((NUFORC Note:  We wonder whether the date shown above may be flawed.  We have written the witness, requesting confirmation of the August 1st, 2001, date.  PD))((ADDENDUM FROM WITNESS))I have an error on my report  It was August 31st, 2014, not August 2001.  I must not have paid attention to the entire e-mail and how I replied to it.  I do have a short video that I can send but you can't really see it that good. sorry for the error on my part but was just found my report and it was way wrong on the date.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113184.html](http://www.nuforc.org/webreports/reports/113/S113184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
