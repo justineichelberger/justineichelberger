@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two lights, one red and one small greenI have a new camera and wanted to see if I could capture a picture of the moon.  So I went outside and looked for a clear angle.  As I was positioning the camera a red dot flashed on the LCD screen.  Not knowing what it was, I checked the camera to be sure I had it set correctly.  I then noticed that the red dot was in the sky, much smaller than the moon.  It flashed again, and I took a picture.  I then moved over slightly to take a second picture.  I then noticed another object (blue/green) below the red.  After taking the two photos I returned indoors.  When I loaded the photos in my computer I noticed the other was green, smaller and positioned below the red dot.  So I enlarged them.  I do not know what to think about all of this other than it is strange.  They looked like dots until I enlarged them.  The enlargements look like vapors or fog.  See photos attached.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92337.html](http://www.nuforc.org/webreports/reports/092/S92337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Somerville (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 spherical lights in the northwest skyFacing northwest, about half way up the sky, I viewed a hazy white object that seemed to have two spheres attached or were close together. It was quite large and easily visible with the naked eye. At first, I thought it was a plane coming through a cloud, with its two wing lights on. But it was a totally clear night. And object(2) also did not move for at least 5 minutes. I left my house for a few hours, and when I checked at around midnight in the same place in the sky, the light was gone..((name and e-address deleted))((NUFORC Note:  Result of earlier missile launch.  Please see: http://www.spaceflightnow.com/atlas/ac167/040824track.htmlhttp://space.com/spacewatch/mystery_cloud_040901.htmlPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39021.html](http://www.nuforc.org/webreports/reports/039/S39021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
