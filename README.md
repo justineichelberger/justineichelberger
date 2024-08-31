@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mount Carmel (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Slow moving shape in the sky that faded but retained it's shape as it did, moved from South to NorthI am a Police Officer for the Borugh of Mount Carmel. Looking into the western sky as I was talking to a friend (who happens to be a sience teacher) I said to him "Now what do ya call that?" What we saw  was a fuzzy rectangular shaped light (almost like aircraft lights ahowing through cloud cover, but there wasn't a cloud in the sky) It appeared to be stationary in relation to the houses. As we watched others (3) also observed it. The more we watched it we noticed that it was moving very slowly North. I went inside my business and got binoculars. Through the binoculars the object looked almost like a Nebula that had exploded. It was all whaite lighted and I noticed a white light on the rear of it that blinked in no particular rhythm. Again it was moving verys slowly and by watching the stars in relation to the object close up I could tell it wasn't following the planets rotation it was definately headed North. The longer we watched it, it slowly began to fade. No noise was heard through out the entire event. The best I can describe the shape of it is like this  -)(-  ....I have no idea what we saw. If it were a stray cloud it would have broken apart and lost its shape as it moved. It did not. And clouds usually don't come with blinking lights, no matter what the rhythm.((NUFORC Note:  Result of earlier missile launch.  Please see: http://www.spaceflightnow.com/atlas/ac167/040824track.htmlhttp://space.com/spacewatch/mystery_cloud_040901.htmlPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39003.html](http://www.nuforc.org/webreports/reports/039/S39003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lees Summit (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw two lights appearing, which looked like a plane flying towards me.  I kept watching because if it was a plane, it's too big to be in this rural area.  Then the lights spread apart horizontally and stayed there for several seconds, hovering.  They both swayed back and forth for a another few seconds.  During this time there was a "waving" sound.  Suddenly one light was one.  Then the other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135978.html](http://www.nuforc.org/webreports/reports/135/S135978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
