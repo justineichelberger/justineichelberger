@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pompton Lakes (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 red-orange lights over Pompton Lakes, NJOur town had finished its Labor Day fireworks show, and we were just sitting on my lawn, talking.  Suddenly we noticed through the trees behind my building, a red-orange light rise up, over the treeline, and hover.  It hovered for close to 2 minutes.  We speculated that it looked like the flames in a hot air balloon but it was 9 pm, it had been raining and thundering off and on all day, and fireworks had just ended about 15 minutes ago.  I tried to record it on my cellphone but the light looks white or even yellow-ish on camera.  As we're watching, the light suddenly makes a sharply-angled turn (almost like an L), and rapidly flies off and then suddenly just disappears.  Seconds later, we see a second red-orange light rise up in the same place where the first one did, but this one did not hover.  It made the same sharply-angled turn and also disappeared.  Right before the second light disappeared, the third one rose--again from the same spot-- and made an ev! en sharper-angled turn and disappeared.  The third light was faster.  There was no sound, nothing else in the sky during this, although shortly after the third light disappeared, we did see an airplane because we compared it to what we had just seen.  And though in my pictures and on my video, the light looks white or even yellow-ish, it was actually a vibrant, VERY bright red=orange.  We wouldn't have noticed it and watched it otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113112.html](http://www.nuforc.org/webreports/reports/113/S113112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange orange light (flame) in the skyThere was strange orange light (flame) that we saw rise up into the sky tonight. It was very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101788.html](http://www.nuforc.org/webreports/reports/101/S101788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
