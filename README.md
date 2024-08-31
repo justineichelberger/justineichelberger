@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:57 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Stayton (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fast and curious fireball.Was walking by high school and in the sky was a fire ball shape.It was was going faster then any jet I ever saw, and bigger and brighter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113108.html](http://www.nuforc.org/webreports/reports/113/S113108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Villa Hills (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball stops and turns into horizontal line of five lights.A group was overlooking the Ohio River getting ready for Cincinnati's Labor Day fireworks. We were facing north towards the city of Cincinnati. At approximately 8:55 pm a fireball appeared overhead . If you have ever seen the movie Deep Impact, it looked similar to the comet that entered the atmosphere but much smaller. No sound could be heard associated with the fireball. The fireball traveled north towards Cincinnati at a fairly slow speed above the river. I thought a plane might be on fire. As the fireball got fairly close to Cincinnati, it stopped and turned into a horizontal line of 5 lights. Another light appeared below. (I am using stars to show the positions.) *   *   *   *   * * After a minute or so, the lights blinked out. Had it not been for the fireball that preceeded the lights, I would have thought the lights were fireworks. A single light appeared several times again around the Cincinnati area. Those lights may have been planes, I don't know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65497.html](http://www.nuforc.org/webreports/reports/065/S65497.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
