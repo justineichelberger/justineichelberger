@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 31 August 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Beavercreek (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 reddish orange lights traveling to NE.  Silent; too fast to be lighted ballons.  Travel path steady.((NUFORC Note:  We are uncertain as to whether this is intended as a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101767.html](http://www.nuforc.org/webreports/reports/101/S101767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mississippi (in flight; near delta of Mississippi River) (MS) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Passenger witnesses peculiar, rectangular object track his aircraft.Hi  Fileing this report this way because your form do not apply. Continental Flight 1741Y  Mexico City to Newark  31. august 2005  Seat 10F   About 1 pm  We had just passed the delta of the Mississippi River and the captain informed us that the descent to Newark had started.  The time was a little over one o’clock in the afternoon local time. I was sitting half a sleep in my seat looking out of the window when a strange object passed in a distance besides the wing of our plane.  My brain was at 50% capacity.  A strange kind of "bug," I thought.  A "bug" in the sky?  The "bug" slid parallel to the plane and was in sight for about 5 to 7 seconds. Then it got to me.  It was no "bug," but a dark silhouette of a rectangular object that looked like a coffin with a zigzag halo around it that was darker in color then sky.  The TV  monitor showed the ground speed to be about 800 kmh and 40000 feet above ground  (I could not remember exact data).  There was no reference point so it was impossible to determine the size and distance of the object. The question is now, what did I saw?  A balloon at a ground speed a little lowers then the plane or a new secret flying device of some kind patrolling the airspace over the US?   It is everyone’s guess.  If the pilots have been awake in the cockpit they to must have seen the object passing by. Has someone else on this flight seen the object.  Please come forward, if you have?  The attached photo is manipulated in Photoshop to illustrate my observation.  The clouds are part of the storm that hit New Orleans so bad.The object could be the same that was observed on Wednesday afternoon, July 13, 2005 in the Seattle area. It has the same memo. I never expected to see a UFO look like as described. Yours truly,   ((name deleted))  Computer Tech  57 years old male and no dreamer  ((address deleted))   Norway  Telephone: +((number deleted))  Cell +((number deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47035.html](http://www.nuforc.org/webreports/reports/047/S47035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
