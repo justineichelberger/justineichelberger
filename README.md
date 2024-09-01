@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Parrish (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>UFO sighting in parrish Florida.Driving east on golf course road in parrish Florida a faint light appeared from behind the tree line. The light proceeded to become as bright as the sun for approximately 3 seconds then immediately disappeared into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159093.html](http://www.nuforc.org/webreports/reports/159/S159093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me, my mom, and my sister were driving home south west towards Voorhees, NJ.  Above the trees, we saw a large light, to big and bright to be coming from a plane.  It was yellow, and looked like a fourescant lightbulb.  It wasn't coming from the ground, no visible ray or projector to be seen.  It had a glassy appeal, like a see through bottom.  At first it seemed like nothing, but then it appeared on the other side of the road after we made a turn.  It followed us for about 20 seconds, then vanished. I'm not sure if what we saw was an alien ship, but it definetly was an Unidentified Flying Object.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60878.html](http://www.nuforc.org/webreports/reports/060/S60878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
