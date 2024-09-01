@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Eau Claire (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Strange lights seen near the Chippewa Valley AirportDriving home from work and saw a bright light in the north sky. Thought it was a star or planet until it started to move east at a rapid speed; than came back,  and went to a higher altitude, and the lights became faint. Within 20 seconds it came back to the same altitude and the lights where bright again. I live by the Chippewa Valley Airport and saw another plane in the same vicinity, but off a ways, north of the object. The object than stayed in the same spot for about a minute, and than started to move east again. The lights suddenly disappeared, and nothing could be seen. It was a clear night, with a few low light status clouds. The object looked like lights stacked on top of each other, flashing different colors, with some lights being brighter than the others. I described the object to others as a flying Christmas tree, but that was my first impression at the time. My sighting is similar to the one seen recently in Kenosha WI near the Illinois border.! This was just reported by Ultimate Unxplained, seen by several people, described as lights stacked on top of each other, and the light suddenly go out.I have lived by this airport my entire life, have seen all kinds of aircraft, including the Good Year Blimp, but this was different. It maneuvered differently, and is why it probably caught my attention. My son-in-law told me it is illegal to fly drones at night, and never within a mile of an airport, but I believe this object was much bigger than a drone. In addition, I have never seen an aircraft turn off their safety strobe lights in the air. There is a tower at the airport with radar, but I haven't read anything about strange lights in the sky in the Eau Claire area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164588.html](http://www.nuforc.org/webreports/reports/164/S164588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Villa (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Silver spherical object emitting green flame trail traveling right past meSilver liquid sphere with long green flame trail emitting sparks as it flew past me.I knew this object was close to me because I could see the emitting sparks hit the tops of the trees just a few hundred feet from me. Knowing this distance from my position I could determaine the size and alltitude of the object. I estimate this sphere being approxamittly ten feet in diam. and two hundred feet in alt. This object flew on a flat trajectory and speed about two to three hundred miles per hour with the speed being determined by the distance traveled in the time span of the sighting.  A hissing sound was heard as it flew past. What made this object look so strange was the surface of it appeared to be made of mercury because as it passed by I could see wind resistance created by the speed of travel made it appear to wave.  Like if one was to blow air on liquid causing a rippling affect.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61598.html](http://www.nuforc.org/webreports/reports/061/S61598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
