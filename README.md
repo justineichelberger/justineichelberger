@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A VERY BRIGHT STATIONARY STAR BEGINS MOVING, THEN DIMS OUT AFTER A BRIEF RED DIM LIGHT.HELLO. I WAS OUTSIDE TONIGHT, AND HAPPENED TO LOOK UP AS I DO ALMOST EVERY NIGHT AND I SAW A VERY, VERY BRIGHT STAR UP IN THE SKY NEXT TO ANOTHER BRIGHT, BUT DIMMER STAR THAT I AM USED TO SEEING. IT IS PART OF ORIONS BELT. THE RIGHT(3RD) STAR. I NOTICED IT AS I LOOKED UP (BECAUSE) OF ITS UNUSUAL SHARP BRILLIANCE. I GAZED UPON IT FOR NO MORE THAN 5 SECONDS WHEN IT.....JUST..BEGAN MOVING STEADILY NORTH FOR @ 10-12 SECONDS AND THEN DIMMED OUT REDDISH AND...LOOKED AS THOUGH IT WENT LIKE UP, OUT OF OUR ATMOSPHERE....UNLIKE HOW A PLANE OR SATELLITE WOULD FOLLOW THE SKY/ HORIZON..  IT LOOKED LIKE IT WENT AT AN ANGLE OF APPARENT HIGHER DESCENT AS IT STOPPED AND WAS GONE FROM VIEW..I WILL TELL YOU THIS..  I AM A US NAVY VETERAN OF 6 YEARS, AS AN MA2 (NAVAL SECURITY FORCES, MP). I HAVE SERVED ON VERY HIGH PROFILE MISSILE BASES IN KAUAI, BARKING SANDS MISSILE RANGE, OR PMRF(PACIFIC MISSILE RANGE FACILITY) AT BARKING SANDS ISLAND, AND I WAS SENT THERE EVERY 2 WEEKS IN 2009. EVERY 2 WEEKS I WOULD FLY HOME TO FILE REPORTS AND TAKE CARE OF MY PERSONAL BUSINESS, AND THEN RETURN IMMEDIATELY FOR ANOTHER 2 WEEK DUTY. VERY INTERESTING RADAR AND AND OBSERVITORY AND SURVEILLANCE EQUIPMENT IS USED ON THIS BASE AND HIGH HILLTOPS ON THIS ISLAND.I HAVE SEEN SOME VERY INTERESTING THINGS DURING MY ACTIVATED DUTY TIME, NOTHING YOU PROBABLY HAVENT. BUT I CANNOT EXPLAIN ONE OF THEM........I WOULD LEAVE MY CONTACT INFO HERE IF I COULD GET SOME MORE INFO FROM THE PROFESSIONAL CIVILIAN SECTOR AS I KNOW NOTHING WILL HAPPEN OF MY QUESTIONS SENT TO ANY OF MY SUPERIORS THAT YEAR.I AM NOW OUT OF THE MILITARY AFTER A YEARLONG CAMPAIGN IN IRAQ/ KUWAIT.AND I RECEIVED MY HONORABLE DISCHARGE I THINK THEY(US SECURITY) ARE WAITING TILL WE CAN ACCEPT THE FACT(AS PEOPLE). THAT THIS IS VERY REAL AND ONCE WE LEARN OF IT, IT WILL BE NO MORE THAN AN EXCITING 2WEEK OR A MONTH CRAZY EPISODE AND THEN WE CAN ALL RETURN TO OUR WAY OF LIFE, WHILE REALIZING THE FACT THAT WE TRULY ARE NOT -ALONE.THE SAD THING IS, YOU CANNOT HIDE SOMETHING OF THIS MAGNITUDE FROM SOO MANY UNINFORMED PEOPLE WITH SOO MANY UNCONTROLLED ENTRIES AND RECOVERIES. IT IS REALLY ONLY A MATTER OF TIME.HOW HAVE THEY DONE IT THUS SO FAR?... THEY HAVE BEEN LUCKY ...AND WELL TRAINED TO RESPOND.ANYHOW SIGNING OUT FROM MONTANA.... SEE YA AROUND</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92394.html](http://www.nuforc.org/webreports/reports/092/S92394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some '' over a period of approximately Not known - Not known minutes.</sub><blockquote><sub>Small grey alien next to me and bright red light glowing behind the door</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147572.html](http://www.nuforc.org/webreports/reports/147/S147572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
