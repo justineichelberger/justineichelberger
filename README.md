@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:27 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:13 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ararat (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>looked out bedroom window, saw a rectangular shape that was colored like fireMy husband woke me up at 4:30 am Wednesday September 2.   He said, "Honey, look out the window, do you see what I see?"  I looked, a little blurry eyed at first, but I saw a rectangular shape, over the mountains, behind our house.  It was colored like fire. After a few seconds it started to dim, and disappeared.  Then I saw some light flashes and then a round globe, smoke colored object sort of bounced through the sky. We discussed the fact that no one would believe us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72061.html](http://www.nuforc.org/webreports/reports/072/S72061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Morgans Point Resort (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was leaving a small suburban community to pick my girlfriend up from work, when I was sitting at the stop sign, before turning on the highway.  I looked in my rearview mirror and seen close to a dozen round balls in the sky.  I looked at them in my rearview and turning around in my seat for 60 seconds, before I concluded that they where a ufo.  Having been in the military and living outside a military base I first checked to see if it could be a known military aircraft.  However they where not moving.  They had the appearance of big really high Street lights.  They had the same orange glow as street lights.  They really confused me at first ,this is maybe a mile long road I've drove on at least twice a day.  I was thinking maybe they just put in really high Street lights but when I thought with the bend in the road there's no need for anything that serious for a couple houses.  This all going on within 60 seconds.  Now in my rearview a cars coming so I turn right at t! he stop sign and pull off to the side of the highway to look.  The SUV that was behind me at the stop sign also took a right and pulled off to the side in front of me.  They must of saw this strange sight too.  This is a very unusual sight for a small community with only two exits.  I sat there maybe another 3 minutes, didn't want my girlfriend get on my case. When I left the ball and the SUV where still there.  I will always regret not communicating with that SUV.  Maybe they reported it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98128.html](http://www.nuforc.org/webreports/reports/098/S98128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
