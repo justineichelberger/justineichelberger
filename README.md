@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:46 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:27 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Silver Lake (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An object moving Southeast in Kansas that appeared to be a bright star but dimmed and disappeared.I was talking to a friend of mine on my front porch which faces due South. In the middle of our conversation I looked up into the sky Due South East towards the city of Topeka as I'm an avid skywatcher. The night sky was clear showcasing all the stars, milky way, and constellations. I seen an object that looked just like a star in the night sky with the exception that it was brighter than the rest of the stars out. The shape would have been round I guess since it looked exactly like a star in the night sky. The color it was emitting was a mix between white and yellow. I jokingly told my friend "Is that a UFO?". He said he didn't know what it is, maybe a space station was the only answer he could come up with. Being an avid skywatcher I quickly went through my options. Falling stars and space debris follow a trajectory and I quickly checked that off the list. The object was moving fairly fast towards the southeast. Kansas has wide open sky's and airplanes you! can usually hear and see the blinking lights on them or the red and blues on the wing.  This had neither.  Plus with the object heading southeast of my position and away from us, you wouldn't be able to see the front headlights on an airplane. About a minute into the sighting the light emitting from the object dimmed  to a more circular ball of light that would be consistent with the stars at night.  A few seconds later the object just disappeared completely, just poof and it was gone. The sighting lasted anywhere from 1 1/2 minutes to 2. I watch the night sky almost everynight, and I know what planes look like. In Kansas you can see for miles and miles and the sky is wide open.  If this was a plane I would have still seen it moving.  I'm open to suggestions of what this could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83630.html](http://www.nuforc.org/webreports/reports/083/S83630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ararat (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>looked out bedroom window, saw a rectangular shape that was colored like fireMy husband woke me up at 4:30 am Wednesday September 2.   He said, "Honey, look out the window, do you see what I see?"  I looked, a little blurry eyed at first, but I saw a rectangular shape, over the mountains, behind our house.  It was colored like fire. After a few seconds it started to dim, and disappeared.  Then I saw some light flashes and then a round globe, smoke colored object sort of bounced through the sky. We discussed the fact that no one would believe us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72061.html](http://www.nuforc.org/webreports/reports/072/S72061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
