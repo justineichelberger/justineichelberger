@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:47 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Eagle-looking object  hovering over my location for appx.  5 seconds...then darted off at high speed.Okay..this is what happened.I was layin' out in the sun on the chairs-lounge in my backyard on my back.I was just layin' there lookin' straight up...and I saw this object just hovering stationary in the sky, appx. 500-1000 feet, in the air directly above me.I remained motionless, with my sunglasses on..so maybe this object (the occupant's) thought I was asleep.. I don't know..but I must have moved my head, or arms, slightly because..  as soon as I did that,the object darted off at a VERY HIGH rate of speed..my guess 1000's of mph, behind the limb's of my tree.Thats when I lost sight of it.  The only thing I can compare it to, as far as discription, is that, to me, it looked like an eagle...with one wing spread out.That's what I originally  thought it was...until it took off.  Anyway..that's what I saw.  Has anyone seen a ufo disquised as an eagle.If so, I'd like to hear about it! ....because this thing was way TOO FAST to be that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77562.html](http://www.nuforc.org/webreports/reports/077/S77562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Boone (IA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving boomerang moves across a Central Iowa town.I was driving home from Wal-Mart. I looked up & saw these strange lights in the sky. I made a couple of turns to get a better look at it. It was shaped like a boomarang. Lots of lights on the nose. Very quiet, no noise that I could hear.  There was a slight haze around it.  It moved slowly.  The lights were very bright. I made a couple of more turns to get away from the light pollution I looked back to where I saw it & it was gone. I scanned the sky but didn´t see it anymore. I´m not one to talk about these kind of things. But this is totally FREAKY!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45973.html](http://www.nuforc.org/webreports/reports/045/S45973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
