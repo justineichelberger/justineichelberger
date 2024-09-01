@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Salonga (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object like a black bowling ball was quiet, steady and unmarked.What looked like a black bowling ball with no marking or lights on it moved quietly, slowly and steadily about high tree top level.  It crossed our back yard as it traveled east across the oak tree tops.  Our last sighting a month later through those trees was an orange fireball coming from the east around 8pm.  Too large to be a plane light. It traveled quietly northward for 30 seconds until it turned into that black ball which then receded eastward again over the trees.  Amazing.  No photos though.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148507.html](http://www.nuforc.org/webreports/reports/148/S148507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bay Village (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 or more red triangles with one light, red flashing/pulsating, trailing behindI was in our kitchen and looked out over the back yard. I saw a bright light shining down thru the trees.I though it was a helicopter for our local hospital that transports patients from the community campus to their main campus. But this light was bright and shining down.  I then thought perhaps it was a police helicopter looking for someone but in our area, I have never seen that happen.Then I saw the red lights, several of them.  I called for my husband that ran outside with me. We saw several triangles in formation.  The last light was red and appeared to be trailing behind the others that were in formation.I would have to guess that there were 7 objects that each had a formation of three lights that were at the front of the craft.Because you are in shock when you see something like this, we stood there for a moment.  Then I ran in and got my Cannon camera and was able to capture at least one of the objects on video.The entire time took maybe 5 minutes, maybe a little longer.They were coming from the South and heading across the Lake.Another person in a nearby city also reported the same thing we saw.I have a video to share.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102268.html](http://www.nuforc.org/webreports/reports/102/S102268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
