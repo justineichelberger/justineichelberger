@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 1 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Villa (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Silver spherical object emitting green flame trail traveling right past meSilver liquid sphere with long green flame trail emitting sparks as it flew past me.I knew this object was close to me because I could see the emitting sparks hit the tops of the trees just a few hundred feet from me. Knowing this distance from my position I could determaine the size and alltitude of the object. I estimate this sphere being approxamittly ten feet in diam. and two hundred feet in alt. This object flew on a flat trajectory and speed about two to three hundred miles per hour with the speed being determined by the distance traveled in the time span of the sighting.  A hissing sound was heard as it flew past. What made this object look so strange was the surface of it appeared to be made of mercury because as it passed by I could see wind resistance created by the speed of travel made it appear to wave.  Like if one was to blow air on liquid causing a rippling affect.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61598.html](http://www.nuforc.org/webreports/reports/061/S61598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Parrish (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>UFO sighting in parrish Florida.Driving east on golf course road in parrish Florida a faint light appeared from behind the tree line. The light proceeded to become as bright as the sun for approximately 3 seconds then immediately disappeared into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159093.html](http://www.nuforc.org/webreports/reports/159/S159093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
