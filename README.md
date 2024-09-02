@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object explodes entering the atmosphere.The first Wednesday of September 1992, a friend and I were disassembling a satellite dish just outside of Ashland, Oregon.  At twilight, I noticed a bright object in the southern sky moving slowly east to west.  I pointed it out to my friend.  As we watched the object it began to leave a tail like a comet.  I realized something was entering the atmosphere from space and friction was heating it up causing the tail.  The object got very bright and the tail very long when suddenly the object exploded.  It created the most amazing display not unlike a firework only much larger.  The explosion made a spherical pattern of particles tens of miles wide that twinkled brightly and then dissipated .I contacted air traffic control at the Medford Airport and San Francisco Airport.  They said there was no record of any such event.  If ATC missed it their radar was malfunctioning. That's not likely, but lying about their records wouldn't surprise me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138276.html](http://www.nuforc.org/webreports/reports/138/S138276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two metallic spheres hovering in sky then vanishing as jet plane passes nearby.We were standing in the alley at the garage of a friends house in Old Louisville on a sunny, cloudless Sunday afternoon. I happen to look north down the alley and up into the sky and noticed an object hovering about 45 degrees from the horizon. I asked my friend what he thought it might be and he said he didnt know and there was another one just like it directly above us. The one above us appeared to be larger. I immediately got my binoculars from my truck and had another look. It was a dull metallic sphere and appeared to be getting smaller or it was going straight up. About this time there was what appeared to be a jet plane flying between the objects and as it passed, the objects just simply vanished. The objects did not drift or move from thier position. I could not tell how big they were or the distance from us. However the jet plane I estimated to be around 30,000 feet up. My friend and I are middle aged and just regular guys. I was returning his ladder I had borrowed and we had just put it away in his garage and just hanging out in the alley talking when the event occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60354.html](http://www.nuforc.org/webreports/reports/060/S60354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
