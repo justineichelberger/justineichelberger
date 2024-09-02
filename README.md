@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Aqaba (Jordan) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>a strong strange light passed above my cari was driving home from the city of aqaba in the south to amman through the desert road it was so dark and u can hardly see a car at this hour , suddenly i sow a very strong white light coming from the back on my miror i could hardly open my eyes it kept coming closer and closer so fast then it passed over my car it shaked every thing i almost lost control on my car when it passed,,i have never seen any thing that fast in my life. i didnt see the shap of that thing just the light and it desapeared so fast too, i didnt hear any thing but the sound of strong wind just like the sound of a storm , i hope u dont think that im crazy like every one else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31258.html](http://www.nuforc.org/webreports/reports/031/S31258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On Saturday afternoon, Sept. 2, when approaching my house in SW Calgary AB, Canada, I spotted an object flying west accross the sky. When I spotted it I stopped my car and watched it for a maybe 20 seconds, until it began to move upwards and behind a tree from my view.  I moved my car to see it better, and when I stopped again to see where it had gone, it was gone. I was blown away, I have seen a few air shows and it was slearly not a helicopter or airplane, it was:  - "ju-jube shaped" and metallic - slow and smooth moving like you see in crazy UFO vidoes - reflected the sun's light in an almost mirror-like way - again, blew me away, nothing i've ever seen before  Thanks for hearing me out, I hope someone else saw it too.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52317.html](http://www.nuforc.org/webreports/reports/052/S52317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
