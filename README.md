@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Weston (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 06:30 - 06:30 minutes.</sub><blockquote><sub>bright light flying WEST to EASTSTRANGE LIGHT IN THE SKY.  9/2/2015 6:23 AM SW FLORIDA , Please type that heading into YOUTUBE.  There you will see what the "bright light with a ring of light around it almost like a halo" the "cloud" like substance that was left behind in the sky had at first appeared to shine and glimmer then after 40 seconds just glowed bright.((NUFORC Note:  Atlas V launch from Cape Canaveral.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121630.html](http://www.nuforc.org/webreports/reports/121/S121630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elkhorn (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I have seen a number of red lights silently go across the skies in front of my front door a number of times. I reported this sighting about a month ago. Last night, while observing them and trying to video tape them outside, I spoke with a few of my neighbors who informed me that the are lanterns, which are powered by gases, that can be purchased at a local grocery store.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92445.html](http://www.nuforc.org/webreports/reports/092/S92445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
