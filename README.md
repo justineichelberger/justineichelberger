@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Media (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>small in distance over the east sky, triangle, red and blue lights, will look tonight to get picture if possible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77582.html](http://www.nuforc.org/webreports/reports/077/S77582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hebron (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>erratic star-like light changes speed/directionWhile attending a music festival, 2 friends and I were relaxing and sitting on a hill outside, when we noticed a star-like object in the sky.  It resembeled a bright star, at about the same altitude a star would be (or so it seemed), which moved at various speeds and directions for 20-30 minutes.  The light would start in one place, then would zip across the sky to another place.  It continued to do this in different directions, at different speeds, and in different formations.  It zipped back and forth, and would stop sometimes, only to start its erratic movement again.  Sometimes it would even seem to disappear, only for a moment, before reappearing somewhere else in the sky.  It was still light outside, although it took place years ago, so the time of day listed is only an estimate. I have only talked to people of this, and have never reported it, as I only today found out about this organization. Coincidentally, my sister (who I had spoken to about the incident years ago), while attending a similar festival in Manchester, Tennessee a year or so ago, witnessed a strikingly similar unidentified flying object in the sky.  It had the same flying patterns as I mentioned above.  My sister was amazed, since she had been skeptical of my sighting years earlier, and since it was so similar, but in a different state and years later in a similar situation. This object was unlike any aircraft I've ever witnessed in terms of altitude, speed, and the way it could so abruptly stop and change directions.  Also, it remained in the same general area for a long period, which I have never witnessed in a plane before. Since many people attended both of these events, I can't help but think others witnessed these events, or if any explanations can or have been offered, and I am very curious to know.  If there is any way I could be informed of this, I would greatly appreciate it!((NUFORC Note:  Witness indicates that the date of the sighting event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46159.html](http://www.nuforc.org/webreports/reports/046/S46159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
