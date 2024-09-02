@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On Saturday afternoon, Sept. 2, when approaching my house in SW Calgary AB, Canada, I spotted an object flying west accross the sky. When I spotted it I stopped my car and watched it for a maybe 20 seconds, until it began to move upwards and behind a tree from my view.  I moved my car to see it better, and when I stopped again to see where it had gone, it was gone. I was blown away, I have seen a few air shows and it was slearly not a helicopter or airplane, it was:  - "ju-jube shaped" and metallic - slow and smooth moving like you see in crazy UFO vidoes - reflected the sun's light in an almost mirror-like way - again, blew me away, nothing i've ever seen before  Thanks for hearing me out, I hope someone else saw it too.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52317.html](http://www.nuforc.org/webreports/reports/052/S52317.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Media (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>small in distance over the east sky, triangle, red and blue lights, will look tonight to get picture if possible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77582.html](http://www.nuforc.org/webreports/reports/077/S77582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
