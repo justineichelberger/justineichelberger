@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving on 287 in Edison NJ, I saw a disk shaped crafter that disappeared after a moment.I was driving on 287 around 3:45-4:00 AM coming home from a Labor Day BBQ/Party. When I looked up in the sky and saw six white lights in a semi-circle, with red lights on the top and the bottom. I was thinking it was a few lights too many for a plane but I didn't think much of it. I looked up again not more then 5-10 seconds later and it was gone. Between the extra lights and speed of which it disappeared made me think that "Hey maybe this isn't a conventional aircraft"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92537.html](http://www.nuforc.org/webreports/reports/092/S92537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disk shape object with illuminated white lights west of Atlanta I-285Truck driver, headed south 285, to the west was a flying object went much slower than airplane, all lights were bright white approx 10-15 lights across disk shape, occasionally lights flickering intermittently.  Then it just disappeared from sight, didn’t see it fly out of sight, it just vanished.  Lasted about 30 seconds once I saw it appear and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148630.html](http://www.nuforc.org/webreports/reports/148/S148630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
