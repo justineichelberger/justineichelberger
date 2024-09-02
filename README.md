@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:27 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving on 287 in Edison NJ, I saw a disk shaped crafter that disappeared after a moment.I was driving on 287 around 3:45-4:00 AM coming home from a Labor Day BBQ/Party. When I looked up in the sky and saw six white lights in a semi-circle, with red lights on the top and the bottom. I was thinking it was a few lights too many for a plane but I didn't think much of it. I looked up again not more then 5-10 seconds later and it was gone. Between the extra lights and speed of which it disappeared made me think that "Hey maybe this isn't a conventional aircraft"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92537.html](http://www.nuforc.org/webreports/reports/092/S92537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>An elderly couple living on Bold Road, just off Buck Flats Road reported that they watched a very strange object hovering over top of Pea Cock mountain. The wife was alerted to it first, then called her husband to come and watch. They told me that lights would be seen running around the outside of the object, but it was hard to make out the actual shape of the craft. More round in shape they guessed. As the object was very close to their location, they said not a sound was heard coming from it. As they observed the object, it did move along the top of the mountain for approx: a kilometer. It stopped and dropped down behind the mountain rather quickly. That was the last time they saw the object that night. The on September 3, 2003 at approx: 11:45 p.m. the same object showed up over the mountain, but more towards the south. This time the object did not move in any direction and was observed for approx: 6 to 8 seconds before it dropped out of sight. Again no sound was heard, and the object, or light coming from it was extremely bright. Both of the witnessed said they have never witnessed anything like it before, and was really surprised to see this strange object which they have no explanation for. HBCC UFO Note: This was certainly not a star, or Mars. The second date of the sighting the object was a good height off the top ridge of the mountain, and if a star it would have taken sometime to drop down and out of sight. Also I asked the local helicopter businesses to see if they had any flying in the area at the time of this sighting. There was none flying at that time. Everything was shut down before dark. Thank you to the witnesses for their report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Phone/Fax 1 250 845 2189 Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31321.html](http://www.nuforc.org/webreports/reports/031/S31321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
