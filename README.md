@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright Copper Glowing Object, emits burst of light and debris or object is deployed and falls toward northern Orange CountyMy significant other and I were going to a friends house in the city of orange, as we were knocking their door, I looked up to check out the moon on the southern sky. (I Had read the day before in the "Orange County Register" that a European Satellite was being made to crash land on the moon and that the Impact Flash would be seen from Orange County) Since I did not see anything different with the moon, I scanned the whole night sky for any stars or planes or any other peculiar object. To my surprise, I saw a bright Star just north of 90 degrees (from the top of my head)  At first I thougt it Was Mars or Jupiter because It gave out a really bright orange, almost Copper like Glow. As I watched it, all of a sudden it got really bright, and then it seemed to have had a burst of light from one side, and something like fire or some debris seemed to be expulsed from it and began to freefall, and as it did, it began to loose its glow. If you ever seen fireworks as the sparks began to freefall and loose their fire glow, that is almost what it looked like, but this definitely was thousands of feet up in the air. My Significant other saw it too, and she thought it was high enough to have been a satellite, but neither of us have seen a satellite that stays static up in space.  I don't know if this bright object that we saw, was deploying another object or if it had been hit by something else causing it to be damaged and loose material from it. this happened just in a matter of seconds, by the time it was over, my friend had opened the door, and when we looked up again it was gone. I believe that if whatever came off that object crashed or landed on earth, it must have been happened in the Yorba linda or Fullerton Hills in Orange County.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52356.html](http://www.nuforc.org/webreports/reports/052/S52356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Same formation of lights seen again.This is a follow up to the report I posted Sunday, August 29th.  I observed the same group of lights again on Sept. 2nd  at the same time, 9:35pm.  This time they were closer when first noticed and were diving and turning before continuing on approximately the same track as before.  The maneuvering they did looked to me like they were a flock of birds that have had some kind of lights attached to them in order to track them visually at night.I have no idea who might be doing this or why.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77593.html](http://www.nuforc.org/webreports/reports/077/S77593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
