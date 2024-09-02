@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 2 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Falls Church (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Small blue dot traveling swiftly across sky.Yesterday, Friday, Sept. 02, a ring appeared around the sun over Falls Church, VA.  My daughter and I stopped the car to take a few pictures.  Today, while deleting some of the photos, I noticed something strange.  In each of three photos there is a blue dot.  This dot moved rapidly in each of the photos. The photos were taken just seconds apart.And suggestions what this might be?  I have some good photos and will attempt to to post them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129723.html](http://www.nuforc.org/webreports/reports/129/S129723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two metallic spheres hovering in sky then vanishing as jet plane passes nearby.We were standing in the alley at the garage of a friends house in Old Louisville on a sunny, cloudless Sunday afternoon. I happen to look north down the alley and up into the sky and noticed an object hovering about 45 degrees from the horizon. I asked my friend what he thought it might be and he said he didnt know and there was another one just like it directly above us. The one above us appeared to be larger. I immediately got my binoculars from my truck and had another look. It was a dull metallic sphere and appeared to be getting smaller or it was going straight up. About this time there was what appeared to be a jet plane flying between the objects and as it passed, the objects just simply vanished. The objects did not drift or move from thier position. I could not tell how big they were or the distance from us. However the jet plane I estimated to be around 30,000 feet up. My friend and I are middle aged and just regular guys. I was returning his ladder I had borrowed and we had just put it away in his garage and just hanging out in the alley talking when the event occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60354.html](http://www.nuforc.org/webreports/reports/060/S60354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
