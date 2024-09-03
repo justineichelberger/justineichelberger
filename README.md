@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Busan (South Korea) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Weather : Fine Temperature : about 28C  Description : We were taking some photographs of the landscape around the lighthouse on an bluff. After 3 or 4 hours, I came back home and I copied the image files from digital camera to notebook. The next day, as I arranged the image files in my notebook, I found something strange in the corner of an image file. It seemed a bird or an insect. It was zoomed in with image viewer program. But not the bird or the insect!!  It has dark brown color, an empennage-shaped wing above the body, but absolutely not the aircraft as far as I know. I tried to recall the time when I had taken the photograph. That time…I’m not sure, but I had gooseflesh and I had my hair stand on end little bit as I had looking the LCD monitor and operating the functional button on digital camera. But I didn’t hear any noise at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39130.html](http://www.nuforc.org/webreports/reports/039/S39130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pittsburg (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately hours - hours minutes.</sub><blockquote><sub>We seen two ufo's one was a bright light that hovered in the sky, the other was red and green it keep changing colors.45 mins on videoMy husband and I seen two ufo's one was a bright light that hovered in the sky, the other was red and green, it keep changing colors. we video taped them for over 45 mins until our camera battery died. There was also a aircraft passing by we zoomed in on to show you the difference between the UFO's and a aircraft. I was determined to get better footage of a UFO since my first sighting on 8-21-11 and I did!!! I also have picutres.((NUFORC Note:  Stars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83681.html](http://www.nuforc.org/webreports/reports/083/S83681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
