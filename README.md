@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:45 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Hollywood/Burbank (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large green ball of light dropping from sky over North Hollywood/Burbank California.I was driving home from Burbank to North Hollywood when I noticed a large green ball of light drop from the sky overlooking Burbank airport.  I thought about what I had just seen and decided to call North Hollywood Police Department to make a report.  They recommended I reach Burbank Airport/Bob Hope Airport Police department.  They, in turn, gave me your contact info.  I already left a msg with the voicemail, but, a move was mentioned so I decided to try the website as well. Thank you for being around in this random event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52298.html](http://www.nuforc.org/webreports/reports/052/S52298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The dish shaped object with 3 portholes visible followed us for approximately 5 miles and then vanished.We were driving south on a local Hwy. when I looked to my east and saw a Saucer shaped UFO flying alongside my car headed south.  It was in a green cloud and pulsated like a heart beat.  My passenger and I both saw it.  There were 3 portholes in the upper portion of the craft.  It traveled along the path of my car and at a point of about 4 miles down the road, it rotated to the left side, and within an instant was gone.  Only a small portion of the cloud was all that was left.  I called a friend of mine to tell him of the siting, and he said he knew what I had seen because he saw it as well.  He was traveling south on a Highway as much as 10 miles away heading south.  The wildest thing I have ever seen...((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45563.html](http://www.nuforc.org/webreports/reports/045/S45563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
