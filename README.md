@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:48 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Passaic (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On a research outing i heard and saw movement alongside the road i was working on, later something was found in the images.I was with my Mother and a friend, we were taking her along on a photographic search of a active area.  We are involved in regular field research and gather photo's showing the activity in our County.I was walking about half a block in front of the car, which was using its running lights so as not to  effect my pictures, I was taking pictures in sort of a panoramic effort, trying to cover as much of both sides of the road as possible.  Was using the flash, and shot 165 photo's on this road alone.There was no sound besides my feet in the gravel, But at a certain point I began hearing noise of heavy movement in the tall brush to my right. It was on a area where there was both thick brush and fence.it was on a slope that ran up to a fence line  maybe my head height.Thinking it could be a possum or racoons, or rabbit, I took  pictures in that direction  as a precaution, an off chance. I saw a shape moving I guessed  might be a big dog, its head though seemed  very thick, and there was a reflection on something light colored when the flash went off.  I was aware of it but continued since it had shown no aggression.I was moving along at a good pace figuring to inspect photo's later,  When I did I found two taken in that area, that showed a figure of some sort.  There was a light colored torso and I believe arm, and head.  This was in a spot of thick brush shoulder high, the next photo was only a bit later, and showed a muzzle and forehead of something looking around the base of a pole.It had a thick jaw full of teeth, and a yellow eye with a slit pupil, and a green cast to the skin. I could see its position due to the flash's.  By the third shot it was gone, we finished our run and went home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83737.html](http://www.nuforc.org/webreports/reports/083/S83737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Busan (South Korea) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Weather : Fine Temperature : about 28C  Description : We were taking some photographs of the landscape around the lighthouse on an bluff. After 3 or 4 hours, I came back home and I copied the image files from digital camera to notebook. The next day, as I arranged the image files in my notebook, I found something strange in the corner of an image file. It seemed a bird or an insect. It was zoomed in with image viewer program. But not the bird or the insect!!  It has dark brown color, an empennage-shaped wing above the body, but absolutely not the aircraft as far as I know. I tried to recall the time when I had taken the photograph. That time…I’m not sure, but I had gooseflesh and I had my hair stand on end little bit as I had looking the LCD monitor and operating the functional button on digital camera. But I didn’t hear any noise at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39130.html](http://www.nuforc.org/webreports/reports/039/S39130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
