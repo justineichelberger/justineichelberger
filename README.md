@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Campo (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>object moved fast and in a straight linewe saw a light moving from north to south, moving real fast, the object did'nt show any other lights, for example : lights from the cabin, from the body or frame of an aircraft, there was no exhaust given like jet aircraft. Also the flight path was straight not curving like when meteors enter the atmosphere and start to fall. There were no sparks from friction. I estimate this object to be flying about 1500-3000 ft.We lost sight of it when some hills got between us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31212.html](http://www.nuforc.org/webreports/reports/031/S31212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Elyria (OH) reported seeing craft that fit the description of some '' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I was on my way to school in 1973 when something strange happened.I was on my way to school in 1973. I was late and decided to take the rail road tracks, as us kids usually did.  The next thing I remember is wondering the hallways of my school with no memory of who I was or where I was supposed to be. I passed the girls restroom and went inside.  I splashed cold water on my face and looked at myself in the mirror.  Slowly I started to come to myself about two class periods later and was able to make it to class.  Later that evening, I told my sisters and brothers about what had happened.  They believed me. I didn't tell anyone else (until today)  My family agrees that it seems as if I was drugged.  I still have a memory block because I can not recall what happened to me on those railroad tracks.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62489.html](http://www.nuforc.org/webreports/reports/062/S62489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
