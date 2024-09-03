@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:59 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Church Point (LA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Non reflecting Cyclinder shaped craft with no light or movement or noise.The ship was not moving like a flying object but appeared overhead and I was just somehow made to look upwards. Do that a lot to view the start anyway and just had a strange like feeling i was suppose to look up. There were no lights of any form i could see and there was no noise. The craft was not complete formed when i did look up and it just sort of materialized into a full form after about 1 minute.I continued to view the object and was in hopes of some contact with its crew if able and had a small laser pen light key chain in my pocket with keys. I made a few flashes at the craft which wasn't to me very high maybe 500 yard off ground. The craft is the same shape and appeared exactly as one before happened when I was in 7th grade.The one then did not reflect sun light as it was in day light and it was only there maybe 2 minutes. This one made me think maybe they came back to communicate as it was exactly like my first sighting as a kid.  Wasn't lucky I guess!  The craft did not reflect the laser light or even show a beam from the light such as a metal object will do.  The only thing different about this sighting is that the time was much longer and to me it was only like a minute or two but when I went back into the house my wife asked what I was doing so long.  I said i just went outside to check the property and fence to be closed and didn't realize that ten minutes had elapsed.I will assume i have had my second encounter with the same craft again now.  Sure wish I could get some form of contact with them.  Has to be a reason why i now have seen this twice in my life. Guess I will never know for sure the reason but then again I might be a lucky person one day and be taken to the craft someway and fly through space with whatever life form is piloting this craft.  They have to be very intelligent to develop such a craft for great distance travel.  I don't think i was abducted but I do think I was somehow being close to the craft and observed by the craft changed in respect to time dilation of some sort as It didn't feel like the length of time I watched the craft was that long.  But it happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83913.html](http://www.nuforc.org/webreports/reports/083/S83913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metor zooming toward the ground then stops above the city and turns off all lights and moves in a straight line.Was sitting at a cafe table on the sidewalk talking with friends.  I leaned back in my chair and as I looked up and North a meteor shot down from high above and then to my surprise stopped dead above the Rupp Arena it had several lights but immediately turned them off and began to move in a straight line over the city towards Leestown Rd../ Georgetown Rd. area.  Could still see it from the city lights for just a few moments as it moved off but couldn't make out a clear shape.  Seen the same entry style with a triangular craft with orange lights on the bottom in Seattle a couple years ago.  I want to know what they are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72192.html](http://www.nuforc.org/webreports/reports/072/S72192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
