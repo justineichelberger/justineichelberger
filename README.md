@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:20 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wittmann (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately ?? - ?? minutes.</sub><blockquote><sub>scary and small about 20 by 20 ft tear shapedi was in the desart sleeping by myself i was trying to kindle a small fire,with a magnesium fire starter and then i had a small flame going then all the sudden with all the straw and dry grass the fire shot up then came down to nothing.i heard a whirring sound and i felt as if i was paralyzed,i had never felt so comforted yet i felt as if i was throwing up i was throwing up clearish pink fluid that tasted horible they(i dont quite know who greys,or whatever had me) took me into some capsule shaped like a sharpened oval type thing and they spread sticky gel on me and cut behind my ears i was awokende later that night by a monsterous headache and two small slits behind my head((NUFORC Note:  We will request that the witness, a student, submit photographic evidence in support of his claim that there are marks on his skin.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28914.html](http://www.nuforc.org/webreports/reports/028/S28914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my 2 sons were walking down Menendez st near the lions bridge my son told me to look up in the sky and we witnessed a yellow light that was flat on top rounded sides and looked like flames on bottom my other son got short video of it it seem to be stationary for a minute then gradually moved upwards and kinda faded out a car stopped next to us and ask what that was in the sky I don't know what it was I have never seen anything like it before I have seen many launches from cape canveral did not look like a rocket and we were look due north toward Jacksonville   we heard no sound and appeared to be very large it was labor day night approximately 9:30 pm and few cars stopped in the street to look at it don't know how long it was there but we saw it for approximately 2 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92623.html](http://www.nuforc.org/webreports/reports/092/S92623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
