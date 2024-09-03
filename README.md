@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Corvallis (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately not applicable - not applicable minutes.</sub><blockquote><sub>Metal sphereI thought I noticed a star in a location I was not accustomed to seeing one in, so took a couple photos in succesion of it. Downloaded them to my computer the next morning and this is what I came out.  The second photo is the best, but if you zoom in on the other two it appears that it is the same object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83707.html](http://www.nuforc.org/webreports/reports/083/S83707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Royal Oak (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fat disc shape. 3 lights. One light was red. I think other 2 were green and white. Went in different directions and hoovered.9/3/16 1am. 11 mile and main area in Royal Oak MI. Craft coming at me (north) with white lights but stopped and went east and hoovered. Looked like a fat disc shape.  3 lights.  One light was red. I think other 2 were green and white.  Than went backwards (south) and hoovered.  Than really fast to the right (west) and hoovered and than to the east again and hoovered and than to the west again really fast and I could hear a really shrill noise when it went fast to the west.  It did a few of these left and right and back and forth moves and hoovered each time.  I got my camera.  Took pic off the porch but I had my finger on the flash which is a poor feature of this camera but maybe that's a good thing.  Went to take second pic and it went behind trees and disappeared but I watched it for over 5 minutes. The picture just looks like a blur of gas since it was in motion.  I would say it was the size of a jet and at jet altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129716.html](http://www.nuforc.org/webreports/reports/129/S129716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
