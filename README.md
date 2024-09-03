@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Elyria (OH) reported seeing craft that fit the description of some '' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I was on my way to school in 1973 when something strange happened.I was on my way to school in 1973. I was late and decided to take the rail road tracks, as us kids usually did.  The next thing I remember is wondering the hallways of my school with no memory of who I was or where I was supposed to be. I passed the girls restroom and went inside.  I splashed cold water on my face and looked at myself in the mirror.  Slowly I started to come to myself about two class periods later and was able to make it to class.  Later that evening, I told my sisters and brothers about what had happened.  They believed me. I didn't tell anyone else (until today)  My family agrees that it seems as if I was drugged.  I still have a memory block because I can not recall what happened to me on those railroad tracks.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62489.html](http://www.nuforc.org/webreports/reports/062/S62489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kent City (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>White, pulsating oval shaped unidentified craft.I am a former Airman from the United States Air Force, I am 27 years old, I live in Kent City, Michigan. At 12:45 PM I was outside and I looked almost straight up and saw a white oval shaped unidentified craft moving from northeast to southwest. I saw it expand and contract slightly a few times. It was moving about as fast as a commercial airliner as far as I could tell, maybe a little faster. I could tell it was about as high as the clouds because it seemed to pass through a couple. There was no contrail, and no sound. Also from the istance that i estimated it to be from me, it must have been about the same length as a commercial airliner, maybe more, and also it looked maybe 30% to 50% wider. As I was watching it in clear view it suddenly dissapeared. I watched cover about 40% of the sky. The sighting lasted about a total of 4 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46000.html](http://www.nuforc.org/webreports/reports/046/S46000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
