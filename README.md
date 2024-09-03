@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New Smyrna Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately I WAS LOOKING OVER THE OC - I WAS LOOKING OVER THE OC minutes.</sub><blockquote><sub>RED CIRCLE TURNED TO WHITE STAYED STATIONARY FOR TEN MIN LOOKING LIKE A STAR SUDENLY MOVED LEFT THEN RIGHT THEN TO THE SAME SPOT [NOTHING MAM MADE CAN MOVE SO PERFECTMY NAME IS A?? IM A 19 YEAR OLD SURFER ME AND MY GIRLFRIEND WERE ARGUING ABOUT SOMTHIN SO I DECIDED TO GO FELL THE OCEAN BREEZ ANY WAY I SAT DOWN ENJOYING THE WIND BLOWING THROUGH MY HAIR HEARIND THE SOUND OF THE WAVES CRASHING ON THE SANDBAR AND LOOKING AT ALL THOSE BEUTIFUL STARS WHEN SUDENLY IT LOOK LIKE ABOUT A MILE OUT TO SEA AND ABOUT A THOUSAND FEET UP IN THE SKY I SAW A RED CIRCLE COMING TOARDS ME AS IT WAS COMING TOARDS ME IT FLEW DOWN A COUPLE HUNDRED FEET FINALY IT STOPED DEAD IN ITS TRACKS IVE NEVER SEEN SOMTHING IN THE SKY FLY WITH SO MUCH CONTROL WHIN IT STOPED IN ITS TRACKS IT WAS STILL ABOUT A HALF MILE OUT THEN IT TURNED WHITE LOOKED LIKE A LARGE STARE BUT IT WAS WHY TO LOW TO BE A STAR WACHED IT FOR 30 MIN GO LEFT QUICK THEN STOP THEN RIGHT QUICK THEN STOP THEN IT WOULD RETURNE TO ITS ORIGINAL POSITION AFTER A WHILE I GOT SCARED CASE IT WAS SO DARK OUT AND NO ONE WAS AROUND NOW I WISH I WOULD HAVE STAYED NOW ILL ALLWYS BELIEVE IN UFO:S</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09548.html](http://www.nuforc.org/webreports/reports/009/S09548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wittmann (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately ?? - ?? minutes.</sub><blockquote><sub>scary and small about 20 by 20 ft tear shapedi was in the desart sleeping by myself i was trying to kindle a small fire,with a magnesium fire starter and then i had a small flame going then all the sudden with all the straw and dry grass the fire shot up then came down to nothing.i heard a whirring sound and i felt as if i was paralyzed,i had never felt so comforted yet i felt as if i was throwing up i was throwing up clearish pink fluid that tasted horible they(i dont quite know who greys,or whatever had me) took me into some capsule shaped like a sharpened oval type thing and they spread sticky gel on me and cut behind my ears i was awokende later that night by a monsterous headache and two small slits behind my head((NUFORC Note:  We will request that the witness, a student, submit photographic evidence in support of his claim that there are marks on his skin.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28914.html](http://www.nuforc.org/webreports/reports/028/S28914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
