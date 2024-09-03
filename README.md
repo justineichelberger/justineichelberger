@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pittsburg (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately hours - hours minutes.</sub><blockquote><sub>We seen two ufo's one was a bright light that hovered in the sky, the other was red and green it keep changing colors.45 mins on videoMy husband and I seen two ufo's one was a bright light that hovered in the sky, the other was red and green, it keep changing colors. we video taped them for over 45 mins until our camera battery died. There was also a aircraft passing by we zoomed in on to show you the difference between the UFO's and a aircraft. I was determined to get better footage of a UFO since my first sighting on 8-21-11 and I did!!! I also have picutres.((NUFORC Note:  Stars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83681.html](http://www.nuforc.org/webreports/reports/083/S83681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marlboro (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireball moving towards us then stopped & faded away slowlyI saw a red light coming from behind some trees near my house then as it got closer we realized it looked like it was on fire it was silent and was moving to fast to be a lantern or a balloon then it stopped for about 5 min then it slowly faded away into the distance but seemed to stay in the same spot as it faded & it was gone I see strange stuff in the sky all the time but this was the best I filmed it but it just looks like a red dot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92441.html](http://www.nuforc.org/webreports/reports/092/S92441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
