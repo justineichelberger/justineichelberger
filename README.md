@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eaton (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light moving across the east sky with extremely sudden short stops.Bright light moving from south to north in the east sky rapidly with extremely sudden very very very short stops occasionally, brighter than a star w no blinking lights.  Yelled for a friend and he couldn’t believe his eyes.  We watched until it went out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143001.html](http://www.nuforc.org/webreports/reports/143/S143001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New Smyrna Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately I WAS LOOKING OVER THE OC - I WAS LOOKING OVER THE OC minutes.</sub><blockquote><sub>RED CIRCLE TURNED TO WHITE STAYED STATIONARY FOR TEN MIN LOOKING LIKE A STAR SUDENLY MOVED LEFT THEN RIGHT THEN TO THE SAME SPOT [NOTHING MAM MADE CAN MOVE SO PERFECTMY NAME IS A?? IM A 19 YEAR OLD SURFER ME AND MY GIRLFRIEND WERE ARGUING ABOUT SOMTHIN SO I DECIDED TO GO FELL THE OCEAN BREEZ ANY WAY I SAT DOWN ENJOYING THE WIND BLOWING THROUGH MY HAIR HEARIND THE SOUND OF THE WAVES CRASHING ON THE SANDBAR AND LOOKING AT ALL THOSE BEUTIFUL STARS WHEN SUDENLY IT LOOK LIKE ABOUT A MILE OUT TO SEA AND ABOUT A THOUSAND FEET UP IN THE SKY I SAW A RED CIRCLE COMING TOARDS ME AS IT WAS COMING TOARDS ME IT FLEW DOWN A COUPLE HUNDRED FEET FINALY IT STOPED DEAD IN ITS TRACKS IVE NEVER SEEN SOMTHING IN THE SKY FLY WITH SO MUCH CONTROL WHIN IT STOPED IN ITS TRACKS IT WAS STILL ABOUT A HALF MILE OUT THEN IT TURNED WHITE LOOKED LIKE A LARGE STARE BUT IT WAS WHY TO LOW TO BE A STAR WACHED IT FOR 30 MIN GO LEFT QUICK THEN STOP THEN RIGHT QUICK THEN STOP THEN IT WOULD RETURNE TO ITS ORIGINAL POSITION AFTER A WHILE I GOT SCARED CASE IT WAS SO DARK OUT AND NO ONE WAS AROUND NOW I WISH I WOULD HAVE STAYED NOW ILL ALLWYS BELIEVE IN UFO:S</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09548.html](http://www.nuforc.org/webreports/reports/009/S09548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
