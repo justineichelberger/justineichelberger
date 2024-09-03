@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:45 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The dish shaped object with 3 portholes visible followed us for approximately 5 miles and then vanished.We were driving south on a local Hwy. when I looked to my east and saw a Saucer shaped UFO flying alongside my car headed south.  It was in a green cloud and pulsated like a heart beat.  My passenger and I both saw it.  There were 3 portholes in the upper portion of the craft.  It traveled along the path of my car and at a point of about 4 miles down the road, it rotated to the left side, and within an instant was gone.  Only a small portion of the cloud was all that was left.  I called a friend of mine to tell him of the siting, and he said he knew what I had seen because he saw it as well.  He was traveling south on a Highway as much as 10 miles away heading south.  The wildest thing I have ever seen...((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45563.html](http://www.nuforc.org/webreports/reports/045/S45563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hooper (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately uncertain - uncertain minutes.</sub><blockquote><sub>Object seen and heard by 5 different witnesses.Approximately 01:30 in the morning a person observed a light over the UFO WatchTower in Hooper, Co. They observed only a white light. Four individuals in a tent at the site obseverved visual sightings, and heard noises. One visual was what looked like a roulette wheel shape up and above tent. One saw the actual object. About 30 ft. wide by 5 ft. deep. Deep sounding noise eminating around the area were heard by another. The last was sounds of chattering(talking)from outside the tent by two of the occupants.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25693.html](http://www.nuforc.org/webreports/reports/025/S25693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
