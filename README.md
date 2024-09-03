@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue-green fireballTraveling north out of Savannah, I'm not sure what road it was, we were heading home after spending the day in the old section of town. My 23 year old daughter and I. I'm a machinist, and she is a veterinary assistant. Anyway, we had stopped to get gas, and had pulled out of the station, looking for road signs to get on the interstate, when we saw a huge streak of light traveling from (at best guess)NW to SE. It actually caught our attention because of it's color, it was a beautiful greenish blue, and like I said, BIG. It was moving very fast, it didn't seem at the time to be very high up in the sky. In fact we slowed down and looked over to see if it had crashed in the wooded area to our right. A few months later I was talking to a co-worker and I mentioned it to him, and oddly enough, he had been out in his boat on Lake Greenwood at the time, and he had seen it too. Lake Greenwood is 160 or so miles from Savannah, so what we saw was either a really big UFO or an amazing meteor! I've watched meteor showers before, and none of the ones I've seen can compare. To give you an idea of it's size, I'd say that a dime held out at arm's length would be about right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36032.html](http://www.nuforc.org/webreports/reports/036/S36032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eaton (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light moving across the east sky with extremely sudden short stops.Bright light moving from south to north in the east sky rapidly with extremely sudden very very very short stops occasionally, brighter than a star w no blinking lights.  Yelled for a friend and he couldn’t believe his eyes.  We watched until it went out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143001.html](http://www.nuforc.org/webreports/reports/143/S143001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
