@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marlboro (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireball moving towards us then stopped & faded away slowlyI saw a red light coming from behind some trees near my house then as it got closer we realized it looked like it was on fire it was silent and was moving to fast to be a lantern or a balloon then it stopped for about 5 min then it slowly faded away into the distance but seemed to stay in the same spot as it faded & it was gone I see strange stuff in the sky all the time but this was the best I filmed it but it just looks like a red dot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92441.html](http://www.nuforc.org/webreports/reports/092/S92441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Hollywood/Burbank (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large green ball of light dropping from sky over North Hollywood/Burbank California.I was driving home from Burbank to North Hollywood when I noticed a large green ball of light drop from the sky overlooking Burbank airport.  I thought about what I had just seen and decided to call North Hollywood Police Department to make a report.  They recommended I reach Burbank Airport/Bob Hope Airport Police department.  They, in turn, gave me your contact info.  I already left a msg with the voicemail, but, a move was mentioned so I decided to try the website as well. Thank you for being around in this random event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52298.html](http://www.nuforc.org/webreports/reports/052/S52298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
