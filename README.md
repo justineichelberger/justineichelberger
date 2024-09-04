@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:05 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:41 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kettering (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A craft composed of two parallel outside cylinders and made of highly reflective metal flew slowly past my home at 6000 feet.I was setting up my 16-inch telescope in my driveway.  The sky was clear and very blue.  When I looked up towards my garage I saw this craft at an altitude of about 6000 feet.  It was colored aluminum and highly reflective.  The craft seemed to be stopped then moved off at a slow pace.  The craft moved off at a 45 degree angle to my position in my driveway.  According to "google," the sun set at 8:02 pm on the 4th of September in Dayton, Ohio.  The craft was composed of two outside cylinders.  Each cylinder was approximately 10 feet in diameter and approximately 40 feet long.  The cylinders were connected by two cross-members.  One cross member connected the two cylinders in the front.  The other cross-member connected the two cylinders in the back.  The top of the rear cross member sat above the top of the two cylinders.  The cross members were about forty feet wide. This made the overall appearance of the craft square.  There were no wings and there was no tail!.  I heard no sound.  I saw no contrails.  I saw no markings.  I saw no lights on the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130008.html](http://www.nuforc.org/webreports/reports/130/S130008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cone-shaped light that changes colorsSome friends and I were sitting outside on our porch drinking margaritas and taking tequila shots and we saw this huge cone-shaped white light to the north of our house. We called a friend, who is a pilot, and asked him what the hell it could be and while I was on the phone with him it turned purple and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46031.html](http://www.nuforc.org/webreports/reports/046/S46031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
