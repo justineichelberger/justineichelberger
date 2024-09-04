@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Middletown (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Object dips up and down and zig zags.I was looking into the sky when I saw an object moving through it,more of a bright light like a star due to the objects distance.  At first I thought it was a shooting star but all of a sudden the object dipped down, went back up,did a small zigzag and then straightened out and disappeared. The sighting was very brief, about 3 sec.  Probably something easily explainable but I never saw anything like it before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77640.html](http://www.nuforc.org/webreports/reports/077/S77640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Crescent City (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>big bright light coming closer 4 ufo  objects in sky pink cloud over us couldnt see where we were goingdriving home from my daughters house tuesday night the 4 th of sept. it appeared the sun was going down but it was different because it kept getting brighter and brighter i am 50 years old and ive never seen anything like this before every direction we turned it was there  it was like it was getting closer and closer to us.we had to hold a paper in front of us to be able to see  bright orange that radiated so much its hard to describe then pretty soon the bright light was gone maybe an hr then we noticed there was a cloud of pink all around us  just like when your in the fog the bottom half was veery sharp blue and on top of it was very pink we could hardly see and it appeared as though it was getting closer  we couldnt even see the trees in front of us.  then when we stopped to look to see what happened to the bright light the pink was still there and in the sky there was  4 ships they were not airplanes or vapor  they angled down ward and 2 looked a little smaller we could see a light at the part that was angled down the ships were very sharp and there was the pink clouds that were near them and they looked like clouds ive never seen before almost like a design of some kind you could see the crafts turning right  and you could almost expect them to land  when i got to my house 15 min later there was no pink clouds aand no crafts any where . i was really scared aand this is not a story  i was scared . all the time we were driving it looked like the pink clouds or mist what ever it was , could come down on us my 8 year old grand son was with me and he was really scared we sped up and got home as fast as we could</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19432.html](http://www.nuforc.org/webreports/reports/019/S19432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
