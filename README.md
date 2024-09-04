@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:05 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Stepped outside before heading to bed.  I was looking up to see if the big dipper was in view that late.  The sky was clear and cloudless.  Out of the northern horizon I caught movement.  I caught direct visual and watched a boomerang shaped craft fly from a N-NW to south path.  What I found to be unsettling: dark smoke color, no navigational lights, no sound at all - mid-low altitude, no more than 10,000 feet in altitude.  Speed was alarming as it took 5-7 seconds to cover the direct route.  The shape was nothing I have seen.  It was not a flying wing.  Chevron is close, boomerang is in my opinion the best way to describe.  Thin but congruent, rounded wingtips, no fuselage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148641.html](http://www.nuforc.org/webreports/reports/148/S148641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kettering (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A craft composed of two parallel outside cylinders and made of highly reflective metal flew slowly past my home at 6000 feet.I was setting up my 16-inch telescope in my driveway.  The sky was clear and very blue.  When I looked up towards my garage I saw this craft at an altitude of about 6000 feet.  It was colored aluminum and highly reflective.  The craft seemed to be stopped then moved off at a slow pace.  The craft moved off at a 45 degree angle to my position in my driveway.  According to "google," the sun set at 8:02 pm on the 4th of September in Dayton, Ohio.  The craft was composed of two outside cylinders.  Each cylinder was approximately 10 feet in diameter and approximately 40 feet long.  The cylinders were connected by two cross-members.  One cross member connected the two cylinders in the front.  The other cross-member connected the two cylinders in the back.  The top of the rear cross member sat above the top of the two cylinders.  The cross members were about forty feet wide. This made the overall appearance of the craft square.  There were no wings and there was no tail!.  I heard no sound.  I saw no contrails.  I saw no markings.  I saw no lights on the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130008.html](http://www.nuforc.org/webreports/reports/130/S130008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
