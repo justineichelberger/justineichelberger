@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:26 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Royalton (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle-shaped UFO, hovering with red and white lights.We saw a triangle shaped craft, with white lights along both sides and red lights along the back of the craft.  The lights were not blinking.  It hovered for several seconds above some tall trees before heading north towards Cleveland.  There was no sound heard.  We contacted the local Police and they had no other calls regarding this craft.  I am confused as to whether it was some type of drone or a UFO? It was exciting either way !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113260.html](http://www.nuforc.org/webreports/reports/113/S113260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alex Frasre Bridge (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was traveling on my birthday from Vancouver to Surrey when i saw a strange light in the sky hovering then it made a few fast manouvers up and straight down and started flashing as if it was charging up then i pulled out my phone and as soon as i did this it followed us making crazy maneuvers and stalls and then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149577.html](http://www.nuforc.org/webreports/reports/149/S149577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
