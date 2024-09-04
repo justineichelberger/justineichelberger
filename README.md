@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Farmington (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a craft in the sky that had a light on the belly of the craft that is much brighter than any light I have seen on a flying craft, it moved in a small forward motion, dipped behind a cloud for less than 5 seconds than disappeared from the sky even though it should have been visible after the cloud passed.  Object was shining a beam of light down the back of the object, moving in a way most reminded me of a hummingbird with it moving in small circular motions, no sounds like a helicopter or any other craft.  Before it dipped behind the cloud the light flared up to be much brighter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159162.html](http://www.nuforc.org/webreports/reports/159/S159162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rogersville (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>strange red lights in strange patternsA group of friends and I were standing outside having a conversation, when we saw what appeared to 3 airplanes with red and white lights blinking on bottom.  We observed these air crafts for approximately 30 to 45 minutes, moving from south east to south west and west to east repeatedly and extremtly high rates of speed and made high speed 90 degree turns. At times the craft appeared to hover in the sky and one seemed drop something in to the ground.  These flying object did not fly in any certain formation but would spread out and cover large areas of the sky and then regroup.  One witness has been in the military for 5 years and said he had never seen any military aircraft that matched the outline or flight pattern of these aircrafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113226.html](http://www.nuforc.org/webreports/reports/113/S113226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
