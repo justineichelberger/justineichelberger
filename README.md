@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Midlothian (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two objects seen flying together over Chesterfield,VAMy wife and I were fishing on a dock at Swift Creek Reservoir around 9:00 on Saturday 9/4/2021. We were looking up at the stars trying to identify which were planets and which were stars. I noticed a very small, faint object which appeared to be at a very high altitude moving at what looked to me as a very fast speed. I thought that maybe my eyes hadn’t adjusted to the darkness and maybe the object was a glare of some sort in my vision from looking up for so long. I looked away from the object and focused on a star that was nearby. The object kept going and I was able to clearly follow it across the sky (west to east). I yelled at my wife “Do you see that? She came over and could see it immediately. As we followed it, it seemed to start to “wobble”. Then a second object appeared next to the original one. They maintained the same path of flight but looked as if they were spinning around each other. The two began to change course and head north. This is when t! hey began to drift apart at the same rate of speed almost mirroring each other. As they got further away they both appeared to “wobble” again and they just flew away until we could no longer see them .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164516.html](http://www.nuforc.org/webreports/reports/164/S164516.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Plainfield (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>red orb seen in plainfield.illinois at route 126 and drudenDriving east on route 126 just east of county line I observed a red orb coming at me from the the north.This object was below the cloud cover and looked like a light from a communication tower. As this object approached I began to slow down to get a better look to see if can identify it. I crossed druden and R126 and observed this object come to a complete stop, hover and than go straight up into the cloud cover.  From what I was able to observe it seem to be no larger than a school bus except that it was circular and made no discernible sound,if there was a sound I was not able to hear it over the noise of my truck.  This entire episode last no more than 2 minutes and occurred at 3:55 this morning. And as luck would have it I was the only person on the road at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77630.html](http://www.nuforc.org/webreports/reports/077/S77630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
