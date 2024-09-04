@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 3 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my 2 sons were walking down Menendez st near the lions bridge my son told me to look up in the sky and we witnessed a yellow light that was flat on top rounded sides and looked like flames on bottom my other son got short video of it it seem to be stationary for a minute then gradually moved upwards and kinda faded out a car stopped next to us and ask what that was in the sky I don't know what it was I have never seen anything like it before I have seen many launches from cape canveral did not look like a rocket and we were look due north toward Jacksonville   we heard no sound and appeared to be very large it was labor day night approximately 9:30 pm and few cars stopped in the street to look at it don't know how long it was there but we saw it for approximately 2 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92623.html](http://www.nuforc.org/webreports/reports/092/S92623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Stepped outside before heading to bed.  I was looking up to see if the big dipper was in view that late.  The sky was clear and cloudless.  Out of the northern horizon I caught movement.  I caught direct visual and watched a boomerang shaped craft fly from a N-NW to south path.  What I found to be unsettling: dark smoke color, no navigational lights, no sound at all - mid-low altitude, no more than 10,000 feet in altitude.  Speed was alarming as it took 5-7 seconds to cover the direct route.  The shape was nothing I have seen.  It was not a flying wing.  Chevron is close, boomerang is in my opinion the best way to describe.  Thin but congruent, rounded wingtips, no fuselage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148641.html](http://www.nuforc.org/webreports/reports/148/S148641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
