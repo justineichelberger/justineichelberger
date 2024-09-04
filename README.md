@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright white/blue object followed by 3 helicopters, then disappearsOn the night of September 4th, 2012, I was headed home, down Lea Hill, in Auburn, Washington. Once I reached the bottom of the hill, I could see clearly across the Green River Valley, all the way to the West Hill, roughly 5-7 miles away. The sky was clear, crystal clear, and the moon had yet to rise above the eastern horizon( I was driving west.)  Sea-tac International Airport is located about 12 miles north of where I was looking, and it is very common to see the lights of planes taking off and landing at the airport, during all hours of the day and night.When I looked across the valley, I noticed four lights, flying lower than the peak of West Hill. Three of the lights had blinking lights, and from my experience, appeared (and sounded) like helicopters. The 4th light, which they were following, about 200 yards behind, was an incredibly bright, unblinking white/blue light, about the size of a large sized pickup.The heli's followed the object, which remained in complete and clear field of view, for nearly 3o seconds, North along (what I would assume) highway 167.  Then, the object/light turned abruptly due east, and traveled for another 15-20 seconds, before fading away and completely disappearing.I was following, as closely as possible, and could hear the helicopters clearly, but no other noise could be heard from the object.  Once the light disappeared, the helicopters began to fly in a concentric circular pattern, slowly spiraling away from the last location of the light, until the 3 were flying completely around Auburn and South Kent.  Around the same time, I noticed an unusual amount of air traffic over Auburn. I watch the commercial airliners every day and night, and am quite familiar with the lights and flight patters of these aircraft. The unusual air traffic, though, did not have the same characteristics what-so-ever of the normal every day planes. There were no lights on the tail, not the normal ACL lights flashing on the underside or wingtips. The planes appeared to be darker in coolor, and not flying the normal pattern to land at Sea-Tac. The helicopters were present for about 2 hours after the light disappeared, then around 11pm, they all flew away, in! opposite directions</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92624.html](http://www.nuforc.org/webreports/reports/092/S92624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Middletown (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Object dips up and down and zig zags.I was looking into the sky when I saw an object moving through it,more of a bright light like a star due to the objects distance.  At first I thought it was a shooting star but all of a sudden the object dipped down, went back up,did a small zigzag and then straightened out and disappeared. The sighting was very brief, about 3 sec.  Probably something easily explainable but I never saw anything like it before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77640.html](http://www.nuforc.org/webreports/reports/077/S77640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
