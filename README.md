@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Oak Grove (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was standing with my sister in her driveway when we saw what looked like an airplane with its landing lights on comming towards us from the east. The light was moving at medium speed and at a lower level than other planes that fly over her house.  Her house is not near any airports so it was unusual to see a light this low in the sky.  As the light drew nearer we did not hear any engine sounds nor did we see any other lights (like the blinking navigation lights on planes). As the light passed over our heads we still could not hear any engine noise or see any outline of a plane.  As the light moved away it didnot dim as you would expect if the lights were on the front of a plane that is now heading away from you.  I live in Omaha,NE and have seen a lot of planes with their landing lights on comming in for a landing at Epply Airfield and you can always hear the engine and see the plane as it passes over you .  The sky was clear with no wind so we should have been able to hear it and see the body if this had been a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33619.html](http://www.nuforc.org/webreports/reports/033/S33619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Livingston (NJ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.006666666666666667 - 0.006666666666666667 minutes.</sub><blockquote><sub>I was looking at the sky and saw a white thug whiz bye too close to the ground for a meteor, followed by 2 moreI was standing in my backyard playing with my brother, when suddenly I saw a white thing zoom really fast without a sonic boom followed by two more, I did not witness more because we ran back inside</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159814.html](http://www.nuforc.org/webreports/reports/159/S159814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
