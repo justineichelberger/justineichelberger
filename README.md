@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Santa Claus (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 114</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164833.html](http://www.nuforc.org/webreports/reports/164/S164833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bloomsburg (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stationary saucer with 3 bright glowing royal blue lights which sat above Columbia County Jail for less than a minute.Circle or saucer, 200-300 ft up in the air, stationary hovering no movement. 3 large royal blue lights curved to fit the saucer.  Bigger than a helicopter smaller than an airplane.  Spotted at approximately 9:30 pm in Bloomsburg, PA, over gas station by the Columbia County Jail.  The encounter was less than a minute but once we circled back around to find the hovering un-identified object it was gone.  It was higher than a drone could go but was brighter than the stars.  It looked like glowing led lights 300 ft up in the air.  Very large!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159161.html](http://www.nuforc.org/webreports/reports/159/S159161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
