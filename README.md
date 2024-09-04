@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pembroke (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 110</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148770.html](http://www.nuforc.org/webreports/reports/148/S148770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rogersville (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>strange red lights in strange patternsA group of friends and I were standing outside having a conversation, when we saw what appeared to 3 airplanes with red and white lights blinking on bottom.  We observed these air crafts for approximately 30 to 45 minutes, moving from south east to south west and west to east repeatedly and extremtly high rates of speed and made high speed 90 degree turns. At times the craft appeared to hover in the sky and one seemed drop something in to the ground.  These flying object did not fly in any certain formation but would spread out and cover large areas of the sky and then regroup.  One witness has been in the military for 5 years and said he had never seen any military aircraft that matched the outline or flight pattern of these aircrafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113226.html](http://www.nuforc.org/webreports/reports/113/S113226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
