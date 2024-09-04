@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Colchester (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a dim light flying over head then got so bright it looked like it was going to explode then dissapeard flew over in colchester essexme and my dad was in the garden looking in the sky we saw a satilite fly by then from another direction my dad said to me theres another one i said o yes there is then all of a sudden it got brighter the it got so bright it looked like it was gonna explode within 2 to 3 seconds it went out and changed course quite quickly witch led me to belive it was not a satilite and was to high to be a plane i would also like to say it scared my dad a little i look forward to hearing from you your faithfully ((name deleted))((NUFORC Note:  We assume that the date of the sighting was September 04, 2010, and we have amended the date above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77623.html](http://www.nuforc.org/webreports/reports/077/S77623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wake Forest (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Driving down a local road, we witnessed 4 bright orange lights in the sky.  They seemed circular in shape and traveling pretty fast.  They remained in a straight line as if they were connected.  They flew from north east to South west.  The lights flickered and then faded away.  Shortly after they faded, another light from the north, flew across the sky.  It soon faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121685.html](http://www.nuforc.org/webreports/reports/121/S121685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
