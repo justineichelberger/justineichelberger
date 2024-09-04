@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw two silver objects flying over Cheyenne. Performed odd maneuvers. Thought nothing of it until I got into the city & saw an AF copter searching the area.I was driving South on I-25, about 20 min north of Cheyenne, when I saw two silver cigar-shaped objects flying near and around each other over the city.  I thought they might be aircraft doing some kind of maneuvers and thought nothing of the sighting, so I only watched for a minute or so. Then I got into the city and saw an Air Force helicopter flying around in what appeared to be a search pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04753.html](http://www.nuforc.org/webreports/reports/004/S04753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Colchester (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a dim light flying over head then got so bright it looked like it was going to explode then dissapeard flew over in colchester essexme and my dad was in the garden looking in the sky we saw a satilite fly by then from another direction my dad said to me theres another one i said o yes there is then all of a sudden it got brighter the it got so bright it looked like it was gonna explode within 2 to 3 seconds it went out and changed course quite quickly witch led me to belive it was not a satilite and was to high to be a plane i would also like to say it scared my dad a little i look forward to hearing from you your faithfully ((name deleted))((NUFORC Note:  We assume that the date of the sighting was September 04, 2010, and we have amended the date above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77623.html](http://www.nuforc.org/webreports/reports/077/S77623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
