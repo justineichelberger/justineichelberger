@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:46 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:26 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Livingston (NJ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.006666666666666667 - 0.006666666666666667 minutes.</sub><blockquote><sub>I was looking at the sky and saw a white thug whiz bye too close to the ground for a meteor, followed by 2 moreI was standing in my backyard playing with my brother, when suddenly I saw a white thing zoom really fast without a sonic boom followed by two more, I did not witness more because we ran back inside</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159814.html](http://www.nuforc.org/webreports/reports/159/S159814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Royalton (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle-shaped UFO, hovering with red and white lights.We saw a triangle shaped craft, with white lights along both sides and red lights along the back of the craft.  The lights were not blinking.  It hovered for several seconds above some tall trees before heading north towards Cleveland.  There was no sound heard.  We contacted the local Police and they had no other calls regarding this craft.  I am confused as to whether it was some type of drone or a UFO? It was exciting either way !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113260.html](http://www.nuforc.org/webreports/reports/113/S113260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
