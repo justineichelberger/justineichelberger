@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Peterborough (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>very large triangle,seven lights along leading edge,no noise,sean at night,on the 5/9/99.very large triangler shape, a least seven lights on the leading edge.when i say large, i mean large. even with something so big there was no sound what ever.this was sean at 11.35 at night, while i was out with my dog.but the thing that made me notice it was that my  hair stood up,just like when you combe your hair,and hold the combe above your head it makes your hair stand up.this is the thing that made me look up</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27344.html](http://www.nuforc.org/webreports/reports/027/S27344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pottstown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At about 12:12am tonight, I was standing outside just staring at the sky, when I noticed a strange light traveling NW to NE.  It was distinguishable from a star in that it was of a greenish tint and seemed to look almost like two stars stuck together.  I kept watching it as it moved at a steady speed when I noticed 3 more trailing it, all going at the same speed. They were steady in there speed.  They covered the horizon in about a minute. As I trailed them I noticed more in different parts of the sky, all moving in the NW to NE direction.  I ran inside to grab my binoculars and when I looked up they were too high to make out and seemed very shaky.  I saw more coming from the same direction, and from the opposite direction the sky filled with instant cloud cover.  They all seemed to be travelling through the clouds. I ran in to grab my wife, and we watched for the next 10 minutes as they came through.  They seemed to travel in 3 or 4 and they all had the same look of! 2 stars stuck together, with a greenish tint.  There had to be 30 or 40 in all.  They were very high up. No sound at all. We did see a few planes during this.  The phenomena stopped and the clouds were gone. I've never seen a UFO.  I don't believe in UFO's quite frankly.  It was the most bizarre thing I've ever seen. I live within 3 miles of the Limerick Nuclear Power Plant.  We have two airports in the vicinity.  I skywatch constantly and have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121688.html](http://www.nuforc.org/webreports/reports/121/S121688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
