@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thomasville (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object seemed to rise from ground behind a group of trees, and travel in a northeast direction.  At first I thought it was someone shooting off fireworks.  The object then traveled with out sound in the north east direction until it traveled behind another tree.  It was orange, spherical and radiating light as it passed.  The event lasted a minute or less.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121713.html](http://www.nuforc.org/webreports/reports/121/S121713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Barrington (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I am a Geography teacher, former registered nurse.  I've seen some strange lights in the sky a few times, not satellites.  This was just like the first time I saw a strange light in the sky 30 years ago.  Earlier in the evening maybe 02:30, saw a bright light, not as bright as venus is now, but brighter than all the stars moving slowly upwards from  just below and to the west of the north star.  It moved slowly, about satellite speed, for only 1-2 seconds while getting much dimmer and dissapeared.  At 04:57 a little further west of the north star, slightly below it,  I think it came out from behind the tree top, nearly as bright as venus, faster than a satellite, at least twice as fast moving almost due east.  For only about 1-2 seconds it was bright, then it got dim, like a satellite and seemed to speed up.  At least twice as fast as a passenger jet.  If it was a jet fighter, it would have been not far away for that kind of speed, and loud.  There was no sou! nd.  Got very dim/disappeared near the north east tree tops.  Total of 4-5 seconds.  I'm not sure if it accelerated from the very bright to the very dim, or if it was all just very fast.  Seemed like it might have accelerated.  It was really cool.  Decided to have a second cigarette and see if another showed up.  Sure enough, 05:03, same spot below and west of polaris, same brightness and speed and direction, but after that one went dim, I couldn't see it any longer.  No sound again.I have been noticing for a few years now, maybe a dozen or so times, I'll be watching the sky and see a bright white flash, a little less bright than venus right now, but nearly as bright, not a fire-fly.  A couple of times a small rapidly fading outward type of movement before vanishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159189.html](http://www.nuforc.org/webreports/reports/159/S159189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
