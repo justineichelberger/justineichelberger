@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:10 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Parkersburg (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On 5 Sep 2001, at approx. 2049,A bright white light, that swelled and disappeared, was seen from Parkersburg, WV in the north sky.At approx. 2049, myself, mother, father, and family friend(who was out of line of sight)was setting outside. I noticed in the north sky a light that starting getting brighter and brighter, as if it was coming closer. The light was a brilliant white. I have never seen any color of light like this. I said an exploitive and my parents turned. My father saw over half of the incident. My mother witnessed it and stated it was an air plane. As she was making that statement, the light began to dim and get smaller at a slow but steady pace. It continued this unitl it loked like it went away from us, seeing the light dim to nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19430.html](http://www.nuforc.org/webreports/reports/019/S19430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing lights from a craft in an irregular patten, sometimes retracting to other areas, in Alexandria, VAI was just laying in bed on my phone, when I was alerted by bright flashing lights in the sky.  I have lived in the DC area for a long time, and know the behavior and appearances of planes and other craft in the area.  I have also lived in military towns and this event was shocking to me. Facing southwest from my apartment window, I saw flashes from an unknown craft in the sky of white-yellow light.  The light blinked quickly and unlike crafts on earth the flashes seemed to have no regular pattern.  At times the flashes would refract momentarily to a distance away (perhaps a mile or so- it's hard to know how far away this craft(s) was) and then blink back to the origin area.  This went on for about 5 minutes and then suddenly the light stopped flashing.  I have never witnessed a UFO in my life and found this event shocking in its irregularity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136037.html](http://www.nuforc.org/webreports/reports/136/S136037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
