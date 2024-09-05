@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Barrington (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I am a Geography teacher, former registered nurse.  I've seen some strange lights in the sky a few times, not satellites.  This was just like the first time I saw a strange light in the sky 30 years ago.  Earlier in the evening maybe 02:30, saw a bright light, not as bright as venus is now, but brighter than all the stars moving slowly upwards from  just below and to the west of the north star.  It moved slowly, about satellite speed, for only 1-2 seconds while getting much dimmer and dissapeared.  At 04:57 a little further west of the north star, slightly below it,  I think it came out from behind the tree top, nearly as bright as venus, faster than a satellite, at least twice as fast moving almost due east.  For only about 1-2 seconds it was bright, then it got dim, like a satellite and seemed to speed up.  At least twice as fast as a passenger jet.  If it was a jet fighter, it would have been not far away for that kind of speed, and loud.  There was no sou! nd.  Got very dim/disappeared near the north east tree tops.  Total of 4-5 seconds.  I'm not sure if it accelerated from the very bright to the very dim, or if it was all just very fast.  Seemed like it might have accelerated.  It was really cool.  Decided to have a second cigarette and see if another showed up.  Sure enough, 05:03, same spot below and west of polaris, same brightness and speed and direction, but after that one went dim, I couldn't see it any longer.  No sound again.I have been noticing for a few years now, maybe a dozen or so times, I'll be watching the sky and see a bright white flash, a little less bright than venus right now, but nearly as bright, not a fire-fly.  A couple of times a small rapidly fading outward type of movement before vanishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159189.html](http://www.nuforc.org/webreports/reports/159/S159189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright  stationary light in clear blue sky fading and reappearing in different locationsWhile driving south on 131 (St. Joseph Valley Parkway) on my way to work, the sun was just up and fully illuminating the sky.  The sky was completely clear and blue.  I noticed a very bright light brighter than a star at night to the left.  At first, I dismissed it and continued to watch the road.  Then I realized that that was not normal.  There were no stars in the sky, and it was so bright.  I looked back up to where I saw it and it was gone.  I kept watching the sky now, and then I saw it reappear on the right side of the highway.  It didn't move.  It just shone for a minute or so and then faded away.  I'd keep watching and it would reappear in a different spot but in the same general vicinity, with the exception of going to the left side of the highway twice.  This happened about five or six times.  The strangest thing about it was that it was so bright and that it didn't move.  It was stationary until it would fade and reappear somewhere else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31260.html](http://www.nuforc.org/webreports/reports/031/S31260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
