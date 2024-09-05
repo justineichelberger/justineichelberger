@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:10 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Large round red pulsating objects in the sky appeared to be on fire.  Seen by 5 people in Whittier, CA.We were walking in the evening and we noticed a large bright red circular shape light in the sky. It appeared to be on fire.  It was pulsating.  It had a white light in the middle of it.  At first we thought it was a Chinese lantern but it never lost its glow.  It remained there for a little bit, above the trees then slowly ascended into the sky then disappeared.  A few minutes later same area but a little to the left it appeared again but this time it proceeded to come down towards us, as if it saw us looking at it.  It stopped at the trees then it ascended slowly into the sky then it too disappeared.   of the witnesses took pictures with our camera phones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101966.html](http://www.nuforc.org/webreports/reports/101/S101966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Parkersburg (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On 5 Sep 2001, at approx. 2049,A bright white light, that swelled and disappeared, was seen from Parkersburg, WV in the north sky.At approx. 2049, myself, mother, father, and family friend(who was out of line of sight)was setting outside. I noticed in the north sky a light that starting getting brighter and brighter, as if it was coming closer. The light was a brilliant white. I have never seen any color of light like this. I said an exploitive and my parents turned. My father saw over half of the incident. My mother witnessed it and stated it was an air plane. As she was making that statement, the light began to dim and get smaller at a slow but steady pace. It continued this unitl it loked like it went away from us, seeing the light dim to nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19430.html](http://www.nuforc.org/webreports/reports/019/S19430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
