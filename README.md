@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Alton (NH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Possible Missile Test.The craft had a northeast heading. It sounded like a jet, looked like a jet, but it didn't have wings.  The speed was comparable other jets I've seen.  It is my belief that this was a missile test.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58611.html](http://www.nuforc.org/webreports/reports/058/S58611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 adults and 1 child saw dark orange/reddish round &quot;fireball&quot; traveling across sky, moving from South to North above McKnight2 adults and 1 child saw dark orange/reddish round "fireball" traveling across sky, moving from South to North above McKnight Rd. at approximately 11:30 pm. No sound heard. Did not flash or anything like that. It maintained a steady speed and even/equal brightness for around 2 minutes, then light dimmed (briefly) and then returned to original level of brightness, disappeared quickly traveling North. Seemed to have smokey ring around it. I haven't seen anything like it before. Very interesting. Tried to record a video clip but object wouldn't show up on video; however a still image was taken; and is somewhat visible. Would love to know what we saw! Comet? Meteor? UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113300.html](http://www.nuforc.org/webreports/reports/113/S113300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
