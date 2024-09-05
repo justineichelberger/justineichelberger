@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evanston (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFOFires burning out uintas, seen one object shooting star like that entered atmosphere and left quickly.  The other three were hovering pretty high in the atmosphere going left right and up and down.  Then there were searchlights looking from the ground up in the sky, like they were looking for something in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159210.html](http://www.nuforc.org/webreports/reports/159/S159210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Large round red pulsating objects in the sky appeared to be on fire.  Seen by 5 people in Whittier, CA.We were walking in the evening and we noticed a large bright red circular shape light in the sky. It appeared to be on fire.  It was pulsating.  It had a white light in the middle of it.  At first we thought it was a Chinese lantern but it never lost its glow.  It remained there for a little bit, above the trees then slowly ascended into the sky then disappeared.  A few minutes later same area but a little to the left it appeared again but this time it proceeded to come down towards us, as if it saw us looking at it.  It stopped at the trees then it ascended slowly into the sky then it too disappeared.   of the witnesses took pictures with our camera phones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101966.html](http://www.nuforc.org/webreports/reports/101/S101966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
