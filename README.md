@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pottstown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At about 12:12am tonight, I was standing outside just staring at the sky, when I noticed a strange light traveling NW to NE.  It was distinguishable from a star in that it was of a greenish tint and seemed to look almost like two stars stuck together.  I kept watching it as it moved at a steady speed when I noticed 3 more trailing it, all going at the same speed. They were steady in there speed.  They covered the horizon in about a minute. As I trailed them I noticed more in different parts of the sky, all moving in the NW to NE direction.  I ran inside to grab my binoculars and when I looked up they were too high to make out and seemed very shaky.  I saw more coming from the same direction, and from the opposite direction the sky filled with instant cloud cover.  They all seemed to be travelling through the clouds. I ran in to grab my wife, and we watched for the next 10 minutes as they came through.  They seemed to travel in 3 or 4 and they all had the same look of! 2 stars stuck together, with a greenish tint.  There had to be 30 or 40 in all.  They were very high up. No sound at all. We did see a few planes during this.  The phenomena stopped and the clouds were gone. I've never seen a UFO.  I don't believe in UFO's quite frankly.  It was the most bizarre thing I've ever seen. I live within 3 miles of the Limerick Nuclear Power Plant.  We have two airports in the vicinity.  I skywatch constantly and have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121688.html](http://www.nuforc.org/webreports/reports/121/S121688.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 nights - 2 nights minutes.</sub><blockquote><sub>I went on my deck to look at the night sky and noticed an odd star in the southeast that was flickering a lot.  I looked at the other stars to compare.  The other stars were not acting the same.  I stayed in one position for 45 minutes and used a very mature white pine tree as a point of reference.   It became apparent that the "star" wasn't a star but a hovering object moving very slowly in the sky.  I took a picture the first night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121733.html](http://www.nuforc.org/webreports/reports/121/S121733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
