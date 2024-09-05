@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 adults and 1 child saw dark orange/reddish round &quot;fireball&quot; traveling across sky, moving from South to North above McKnight2 adults and 1 child saw dark orange/reddish round "fireball" traveling across sky, moving from South to North above McKnight Rd. at approximately 11:30 pm. No sound heard. Did not flash or anything like that. It maintained a steady speed and even/equal brightness for around 2 minutes, then light dimmed (briefly) and then returned to original level of brightness, disappeared quickly traveling North. Seemed to have smokey ring around it. I haven't seen anything like it before. Very interesting. Tried to record a video clip but object wouldn't show up on video; however a still image was taken; and is somewhat visible. Would love to know what we saw! Comet? Meteor? UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113300.html](http://www.nuforc.org/webreports/reports/113/S113300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>It moved fast and stopped over my head. Then, it hovered for 10 sec. before it speed off like it had turned. But the object never turned. It had been stationary the whole time.The object was a triangle shape. It hovered over my head for about ten seconds, until it moved toward it's side as if it had turned. But it remaind stationary the whole time. There was one object and it was white with a red stripe on each corner. At the time I witnessed the object Iwas 10 years old. I am now 14 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12452.html](http://www.nuforc.org/webreports/reports/012/S12452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
