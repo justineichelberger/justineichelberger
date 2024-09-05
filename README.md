@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 nights - 2 nights minutes.</sub><blockquote><sub>I went on my deck to look at the night sky and noticed an odd star in the southeast that was flickering a lot.  I looked at the other stars to compare.  The other stars were not acting the same.  I stayed in one position for 45 minutes and used a very mature white pine tree as a point of reference.   It became apparent that the "star" wasn't a star but a hovering object moving very slowly in the sky.  I took a picture the first night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121733.html](http://www.nuforc.org/webreports/reports/121/S121733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laguna Woods (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>What: UFO Sited , Upon exiting from theatre, ~ 20-40 people in & around parking lots of Town Center. Shopping Center.UFO Description:  Circular Ring having blinking colored lights, hovering, doing roller-coaster type dips, turns, climbs, stops & Gos, Slow Then very fast. Difficult to discriminate as to being close & small, or afar & large.When: ~ 9 :00 PM - 9:30 PM,  FRI 9/5/08  Where:  Parking Lot outside of Edwards  Aliso Viejo Stadium 20 Theatre, 26701 Aliso Creek Road , Aliso Viejo, CA 92656 , Near Hwy 73, Orange County, CA, U.S.Best Guess: Either Military, a REAL exterrestrial, or a VERY sophisticated (prankster?)  Remote-Controlled vehicle.((NUFORC Note:  We are well aware of this phenomenon in this area.  It is explained by a person who flies a radio-controlled model airplane, which has lights on it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65569.html](http://www.nuforc.org/webreports/reports/065/S65569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
