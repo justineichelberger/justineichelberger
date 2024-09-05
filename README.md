@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright  stationary light in clear blue sky fading and reappearing in different locationsWhile driving south on 131 (St. Joseph Valley Parkway) on my way to work, the sun was just up and fully illuminating the sky.  The sky was completely clear and blue.  I noticed a very bright light brighter than a star at night to the left.  At first, I dismissed it and continued to watch the road.  Then I realized that that was not normal.  There were no stars in the sky, and it was so bright.  I looked back up to where I saw it and it was gone.  I kept watching the sky now, and then I saw it reappear on the right side of the highway.  It didn't move.  It just shone for a minute or so and then faded away.  I'd keep watching and it would reappear in a different spot but in the same general vicinity, with the exception of going to the left side of the highway twice.  This happened about five or six times.  The strangest thing about it was that it was so bright and that it didn't move.  It was stationary until it would fade and reappear somewhere else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31260.html](http://www.nuforc.org/webreports/reports/031/S31260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Large falling object that doesn't make a sound.Last night at around 22:30 I had been sitting out with my neighbors (4 of us) having a couple of drinks. I just happened to face north when I saw a large object flash. It was coming down at a very fast rate. For a second I thought it was an airplane because it seemed so large and we do live near the airport. I exclaimed to my friends to observe the object, I really thought it could be a plane crashing. By the time they turned to face the object, it had already disappeared behind one of the houses. I was scared, and they could tell I was scared. I don’t think anyone else saw it, someone said it could have been a shooting star. I think it was too large to be a shooting star.The object came by and went too fast for me to determine how far away it was. The object looked about the size of an airplane when it is closing in for landing. The flash I saw from it was white in color, but there seemed to be flames coming from behind it as it fell down, also white in color.I never heard a crash or anything of the sort and part of the reason I got scared was because I was expecting some sort of noise. I was thinking it could have been a meteor or space junk, but I was unsure if those would make a noise since the object I saw seemed so close and large.Bottom line is I don’t know what it was and was wondering if anyone else had seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92520.html](http://www.nuforc.org/webreports/reports/092/S92520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
