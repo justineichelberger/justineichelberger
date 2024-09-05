@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 4 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bloomsburg (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stationary saucer with 3 bright glowing royal blue lights which sat above Columbia County Jail for less than a minute.Circle or saucer, 200-300 ft up in the air, stationary hovering no movement. 3 large royal blue lights curved to fit the saucer.  Bigger than a helicopter smaller than an airplane.  Spotted at approximately 9:30 pm in Bloomsburg, PA, over gas station by the Columbia County Jail.  The encounter was less than a minute but once we circled back around to find the hovering un-identified object it was gone.  It was higher than a drone could go but was brighter than the stars.  It looked like glowing led lights 300 ft up in the air.  Very large!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159161.html](http://www.nuforc.org/webreports/reports/159/S159161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hurricane (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>large triangle red lights seen by manytraveling thru hurricane at intersection,the stop light was green but no cars were moving traffic was fairly heavy.everyone started getting out of cars pointing ,t aking phoyos with cell phones.i looked up and there was a triangle shape with 3 dull od colored red lights.it hovered with no sound except for a slight wooshing ,very faint.the bottom erected a white beam for about 2 seconds then it completely dissapeared.it was above and a little behind a walgreens store at the main intersection((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92521.html](http://www.nuforc.org/webreports/reports/092/S92521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
