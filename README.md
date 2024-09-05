@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Penfield (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange non-blinking ballWhile on top of Boon Mountain near Penfield, PA, my mom and I were walking through our yard at camp talking at around 9pm when suddenly I noticed a VERY bright orange, non-blinking ball flying (in a south-southwest direction) through the sky, slowly but steadily--I would guess about the rate of an airplane, maybe faster.  My mom and I excitedly called the rest of our family over to where we were so that they could see it.  By the time they got to where we were, it was nearly out of sight, but a couple of them seen it.  About an hour later (about 10pm) we were all sitting on the front porch of the camp talking, when my husband suddenly seen the SAME bright orange ball flying past again--same spot, same speed, same direction.  This time all 5 of us seen it.  We all ran out into the yard, one of the men ran out onto the dirt road to get a better look.  Every single one of us got a very clear view of it this time.  It was incredible!  We have NO CLUE what it could have been.  It was definitely not an airplane!  Every time we all get together since then we all speculate as to what it could have been.  It makes for some very interesting discussions...  We weren't ever going to report this, because all of us are very normal, intelligent, everyday kind of people who tend to scoff at the wackos who report sightings, but then when we found this site today, trying to see if anyone else reported anything during that time-period, we were shocked to see that many people reported seeing the same object, around the same time-period, around the same general area.  So here we are, for the first and maybe only time in our lives, reporting a sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72486.html](http://www.nuforc.org/webreports/reports/072/S72486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I saw a bright light in the sky that did not move and suddenly vanished.I was traveling North on the Florida turnpike and saw a very bright object in the sky.  It was still daylight, and this object was a bright, bright, white color.  It was slightly northwest of the car I was traveling in as a passenger.  I’m guessing it was about 8-10 miles north of me and 3 or 4 miles up in the air.  The object didn’t move at all in any direction.  The light never strengthened or weakened, until it vanished out of nowhere.  It was a sunny day but it sure didn’t look like a reflection of any sort.  It appeared to be a rectangular object that looked rounded because of the bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65635.html](http://www.nuforc.org/webreports/reports/065/S65635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
