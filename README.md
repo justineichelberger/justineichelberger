@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clarksville (Fort Campbell) (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>triangle ufo low flying for 4 minutes and then was gonewe were driving home from dinner in clarksville to ft campbell when we were about half a mile from base when i saw what i thought was an airplane low. it was in a triangle shape and wasnt moving thats what made me take notice. it had orange lights around its perimeter maybe 4 or 5 and had a blinking white light in the middle that was seeming to point to the ground. but not a regular blink it was staying on for about 5-10 seconds each time it was on. it stayed stationary maybe 100-200 meters in the air so we pulled out our camera and was pulling over to take a pic when it disapeared. it didnt fly away or move, it just blinked away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52359.html](http://www.nuforc.org/webreports/reports/052/S52359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evanston (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFOFires burning out uintas, seen one object shooting star like that entered atmosphere and left quickly.  The other three were hovering pretty high in the atmosphere going left right and up and down.  Then there were searchlights looking from the ground up in the sky, like they were looking for something in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159210.html](http://www.nuforc.org/webreports/reports/159/S159210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
