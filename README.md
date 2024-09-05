@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:06 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hurricane (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>large triangle red lights seen by manytraveling thru hurricane at intersection,the stop light was green but no cars were moving traffic was fairly heavy.everyone started getting out of cars pointing ,t aking phoyos with cell phones.i looked up and there was a triangle shape with 3 dull od colored red lights.it hovered with no sound except for a slight wooshing ,very faint.the bottom erected a white beam for about 2 seconds then it completely dissapeared.it was above and a little behind a walgreens store at the main intersection((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92521.html](http://www.nuforc.org/webreports/reports/092/S92521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sevierville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>very distant, small, appeared to be like an airplane from a distance, but was not moving, had alternating flashing red, blue, and green lightsI observed the light in the northern/northeastern sky approx. 25 to 30 degrees up in the night sky.  It resembled an airplane, but was not moving up, down, or side to side.  The lights were changing from red, blue, green, and possibly white or yellow.  The object was unlike any other thing that was in the night sky.  I looked at it through binoculars and it was still a speck in the sky, but the colors were very clear using the binoculars.  I am a police officer and work night shift and I have never seen anything like this before and I really am not a UFO believer, but this was something that I can not explain.  Also, I observed what appeared to be a similar object on the same date at 0545 hours, just before I got off of my shift, in Pigeon Forge, TN in the south eastern sky and several other Officers saw it as well.  My Sergeant said that it was a planet and that the atmosphere was making it change colors, but I have never seen a planet do that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09085.html](http://www.nuforc.org/webreports/reports/009/S09085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
