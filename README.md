@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:12 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 5 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Paris (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was on my way home from work, it was approximately 21:45 on the evening of 9-25-2020.  I was east bound on 82 highway West of Paris Texas approximately 15 miles, a few miles west of the Maxey turnoff. There was a triangular shaped craft with a solid red light on each corner of the craft.  The craft looked to be solid and dark in color.  It was not large but not tiny either, I would say approximately the size of a room, maybe 12 feet in each direction.  It was hovering just to the North side of the highway and approximately 75 feet in the air.  There was no sound, it was silent. I was driving and was unable to get my phone out and take a picture, but it was dark enough outside that I don’t think a picture would have been clear anyway.  As for how long it was there, I am unsure.  I saw as I was driving down the road and it was still visible in my rearview mirror until I was out of the area. I probably saw it for around 5 minutes between when I saw it ahead o! f me and when I could no longer see it after passing it. I messaged my adult son when I got home, and he suggested that I report the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159556.html](http://www.nuforc.org/webreports/reports/159/S159556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Peterborough (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>very large triangle,seven lights along leading edge,no noise,sean at night,on the 5/9/99.very large triangler shape, a least seven lights on the leading edge.when i say large, i mean large. even with something so big there was no sound what ever.this was sean at 11.35 at night, while i was out with my dog.but the thing that made me notice it was that my  hair stood up,just like when you combe your hair,and hold the combe above your head it makes your hair stand up.this is the thing that made me look up</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27344.html](http://www.nuforc.org/webreports/reports/027/S27344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
