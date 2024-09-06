@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:12 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gary (IN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At about 6:15 am 0n September 6, 2016, i was out back my house facing east,  It was very clear blue skies with only 1 cloud in the sky it was cigar shaped, I liked it it was unusual  Then a puff of smoke came out of it falling at a 45 degree angle going northeast, I could see 2 shining shapes a bit in front, the smoke disappeared very quick it was not a jet!! i went inside to get my camera to take a picture but by the time I got it the craft was in the tree line!! I figured I would report this! I do not know what it was could of been space stuff falling, i will leave it up to you the experts!!  But it was NO plane for sure!!  Thanks for listening to me!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129854.html](http://www.nuforc.org/webreports/reports/129/S129854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Winslow (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>light chasing anotherI was walking down the road through a parking lot, heading to the store, when I looked up I saw what looked to be a white satellite light, but moving in an irregular pattern changing course.  Another light appeared with a bright flash behind the path of the first and started chasing it following the same wave pattern.  Then both disappeared with a flash, the first object slightly before the second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121721.html](http://www.nuforc.org/webreports/reports/121/S121721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
