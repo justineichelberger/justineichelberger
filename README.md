@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 hrs. - 2 hrs. minutes.</sub><blockquote><sub>four white lights, one larger, three smallerDon't know how long they were there before my son noticed them when he was returning home from a neighbors house a couple of blocks away on his golf cart.  When he got out front he told me to come out and see the lights moving around in the sky in the distance.  We watched them for about 10 minutes and got in the golf cart and tried to follow to see if there was an event or something in the area that would be shining spotlights in the sky...however there was no point of origin to the lights.  They were above the cloud cover so it seemed like we were seeing the reflection of the lights off the clouds.  There were 4 lights circling around, one seemed to be larger than the other three.  They would intersect at times but were going in a circular motion.  We watched for about an hour and then went home, keeping our eye on the lights.  When we got back to the house, they were still there.  We went inside and I kept checking now and then.  Finally when I checked at! around 11:30pm they were gone.  We wished we had seen how they left.  They stayed above the cloud cover, even though there were some clear spots in the sky, they would come just to the outside of the clouds.  My son tried to get some video of it, but we're not sure how good it came out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72125.html](http://www.nuforc.org/webreports/reports/072/S72125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Coronado (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 bright flashing light seen at a very high altitude in south Coronado bay areaI was at the Coronado Cays on a gondola boat ride enjoing a romantic boat ride when I noticed  4 flashing lights out in the eastern sky they flashed on for 1 second then off, these light were close together like in an offset line. I think the object was cirgar shaped becaues of the the four lights were just offset of each other.The craft was at a very high altitude, and it moved forward, sideways and backwards when the 4 lights flashed. I used the star's in the sky to dertermin which direction the object was moving. The craft moved from the eastern sky to the west then took a 90 degree turn to the north before returning to the east the whole time of the observation was about 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46092.html](http://www.nuforc.org/webreports/reports/046/S46092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
