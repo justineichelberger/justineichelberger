@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:55 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bangor (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>let's just made no sound and had no propulsion devices.object was traveling west to eastjust barely above the Treelinein a straight pathstraight up and downglidingeven though there was wind it did not affect itwhen it met up with my line of site where I was standingon a second-floor porchcouldn't see the light you wouldn't even know it was thereand as it was going it came into view the same way as when it was coming from the other directionmy sister moved off to the east but I can't see it anymore</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129746.html](http://www.nuforc.org/webreports/reports/129/S129746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fraser (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shape with long, blunt nose; light fluorescent green; appeared suddenly, moving east.Object suddenly appeared and glided across the highway, eastbound toward the mountains; disappeared into clouds, reappeared, and then went out of sight over the mountains.  Object was fluorescent, light green; size unknown, however appeared about the size of a low-flying jetliner.  There was an appearance of sparks emanating from the right, rear of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25534.html](http://www.nuforc.org/webreports/reports/025/S25534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
