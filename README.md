@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:12 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bedford (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Small white sphere noticed in the sky on Labor day in the Hurst-Euless-Bedford area.I was shocked to see a post on here from Euless Tx around the same time I saw something in the sky, so I am filing this report. I went to visit my dad in the Hurst-Euless-Bedford area for dinner on Labor day.We went outside and we were just talking in the backyard. I was sitting on the concrete and looking up into the sky, around sunset. Suddenly I saw what appeared to be a star at first, shimmering and white, only it was still daylight. I thought that maybe it was just the first visible star in the sky at night, so i looked around to see if other stars were visible. There were none. As in the other post from euless, I too was directly under the DFW International Airport flight line. There were many planes flying in from the South, going North. I shrugged off the light/sphere as a star, and continued talking to my dad, when I happened to glance up again. The sun was shining through the clouds and casting an orange/red tint on everything, including the planes in the sky. That was when I noticed that this object glimmered just like the planes, as if the sun was casting a reflection onto it as well. At this point I called my dad over to take a look, and just as he was walking over to do so, it blinked off like a light bulb. It simply vanished. I have no idea what it was, but for a couple of days, I thought about it, found my way here, and saw the other Euless post. I would guess that the object was at least 5000 ft in the air. It seemed to be higher than the flight path of the planes, though I am certain that they would have seen this too. It was white, but not extremely bright, just bright enough to catch your eye. It would be impossible to guess the size, other than to say it appeared small in the sky compared to the planes. This entire event lasted about 1 1/2 to 2 minutes, but in the last glimpse of the object, when the sun hit it, I could see definite shadow, and shape, which is why I started doubting it was a star at all. It was just perfectly rounded sphere that put off a slight white light. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39270.html](http://www.nuforc.org/webreports/reports/039/S39270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cleveland (Shaker Heights) (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 "stars" formed a triangle and moved and then disapeared one by one.((NUFORC Note:  We suspect U. S. Navy "NOSS" satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24902.html](http://www.nuforc.org/webreports/reports/024/S24902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
