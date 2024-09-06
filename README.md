@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:55 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fraser (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shape with long, blunt nose; light fluorescent green; appeared suddenly, moving east.Object suddenly appeared and glided across the highway, eastbound toward the mountains; disappeared into clouds, reappeared, and then went out of sight over the mountains.  Object was fluorescent, light green; size unknown, however appeared about the size of a low-flying jetliner.  There was an appearance of sparks emanating from the right, rear of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25534.html](http://www.nuforc.org/webreports/reports/025/S25534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 hrs. - 2 hrs. minutes.</sub><blockquote><sub>four white lights, one larger, three smallerDon't know how long they were there before my son noticed them when he was returning home from a neighbors house a couple of blocks away on his golf cart.  When he got out front he told me to come out and see the lights moving around in the sky in the distance.  We watched them for about 10 minutes and got in the golf cart and tried to follow to see if there was an event or something in the area that would be shining spotlights in the sky...however there was no point of origin to the lights.  They were above the cloud cover so it seemed like we were seeing the reflection of the lights off the clouds.  There were 4 lights circling around, one seemed to be larger than the other three.  They would intersect at times but were going in a circular motion.  We watched for about an hour and then went home, keeping our eye on the lights.  When we got back to the house, they were still there.  We went inside and I kept checking now and then.  Finally when I checked at! around 11:30pm they were gone.  We wished we had seen how they left.  They stayed above the cloud cover, even though there were some clear spots in the sky, they would come just to the outside of the clouds.  My son tried to get some video of it, but we're not sure how good it came out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72125.html](http://www.nuforc.org/webreports/reports/072/S72125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
