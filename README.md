@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Valley Stream (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Intermittently pulsing object at very high altitude possibly low orbital, extremely slow movement, often stationary - in daylight.While coming outside to get something from my car I looked up at local plane traffic that was heading for JFK.  I happen to scan across the sky and saw a flash of something at very high altitude, possible orbital (resembling the look of a passing satellite catching sun).  After realizing for a moment that it is still very light I eliminated stars from the possibilities and started to think of a mylar balloon in the sun.  The object lit up again, looking like a star, it would intermittently pulse like this for the next 20 minutes and made a slow counter clockwise path periodically very brilliant (reiterating like looking at a star), and then no light at all.  On many occasions it was completely stationary, I eliminated the balloon theory.  I attempted to video this over 3 clips on my Samsung S5, without zooming.  So far I cannot see anything on the vids.  In my opinion this was extremely high altitude possibly low orbital altitude.  If anyone would like to analyze the video let me know.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121744.html](http://www.nuforc.org/webreports/reports/121/S121744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 hrs. - 2 hrs. minutes.</sub><blockquote><sub>four white lights, one larger, three smallerDon't know how long they were there before my son noticed them when he was returning home from a neighbors house a couple of blocks away on his golf cart.  When he got out front he told me to come out and see the lights moving around in the sky in the distance.  We watched them for about 10 minutes and got in the golf cart and tried to follow to see if there was an event or something in the area that would be shining spotlights in the sky...however there was no point of origin to the lights.  They were above the cloud cover so it seemed like we were seeing the reflection of the lights off the clouds.  There were 4 lights circling around, one seemed to be larger than the other three.  They would intersect at times but were going in a circular motion.  We watched for about an hour and then went home, keeping our eye on the lights.  When we got back to the house, they were still there.  We went inside and I kept checking now and then.  Finally when I checked at! around 11:30pm they were gone.  We wished we had seen how they left.  They stayed above the cloud cover, even though there were some clear spots in the sky, they would come just to the outside of the clouds.  My son tried to get some video of it, but we're not sure how good it came out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72125.html](http://www.nuforc.org/webreports/reports/072/S72125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
