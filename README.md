@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hanover (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Two adults and one child observe an ember glowing circular object fly across the sky.My boyfriend, daughter and I went for a late swim in the backyard.  After 20 minutes or so in the pool, my boyfriend noticed this huge ember glowing object in the sky. It was orange/yellow in color.  We noticed the object in flight on the east side of the house. It was significantly bigger than any plane or star I've ever seen in the sky.  It was as big as the biggest full moon you've ever seen... it was gliding across the sky at an extremely fast rate heading west.  We all watched it move across the sky, and slow down until it just completely disappeared into the horizon.  The whole observation was about 45 seconds or so.  It was silent, and flew very smoothly in the air.  I feel it is important to note there was no cloud cover, there are zero street lights on this block, and it is a quiet neighborhood.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121753.html](http://www.nuforc.org/webreports/reports/121/S121753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO in the vicinity of chemtrailI saw an airplane leaving a chemtrail coming over the horizon and got my camera and snapped a picture from the plane and a short piece of chemtrail forward a mile or so. The UFO (which is easy to see) is quite a way forward of the airplane.  I took the second photo behind the plane showing the UFO above the chemtrail. I am sending four photographs, one original of each shot and one enlargement of each shot.  There was no focus used in the photos. The photos were taken in an Easterly direction using an "Olympus D-460 ZOOM" digital camera. The photos were taken two or three minutes apart. I did not see the ufos until after I had downloaded the pictures into my computer.  The reason I got my camera and took the photos of the plane leaving the chemtrail is because of previous pictures I have taken of chemtrails and discovering the ufos in the photo.((NUFORC Note:  We have viewed the photographs that the witness forwarded to our Center, and we do not know what the anomalous object is.  It is little more than a speck in the sky, and the enlarged version is heavily pixelated.  Hence, we do not know what the object is, and we cannot certify that it is a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46090.html](http://www.nuforc.org/webreports/reports/046/S46090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
