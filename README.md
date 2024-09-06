@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Amagansett (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I was camping with my friend we were on the beach it was nightime right after sundown.  I noticed a light out over the water moving steadily to the west i commented to my friend that it looked like people fishing for squid.  Only after a short time  the light started moving up about 10 feet in the air and then back down close to the water surface.  More intently now we are watching only now we are amazed because as it rises it changes color multiple colors like a twinkling Christmas tree.  So all around us i notice these other lights on the field behind us sparkles of gold light as if we were at a airport landstrip .it became eerily hypnotic as waves were crashing up againt the bulkhead of a old dock  a rythmic sound ... next there were head lamps of cars ( it appeared to me that way) under the water of the bay.  Not just one but several meaning like 6 or seven even across the bay on the beach on the other side by the yacht club headlamps swirling around  we watched for this time in total awe  my friend her name is Violet turned to me and started kissing me and the Christmas tree  light thing starting moving towards us across the water, it became statiined right over our heads a blinding white beamed out of it and sent probing fingers down the left side of my body down the right side of violets body. It was rather electrifying  but nit deadly like  all i could say under my breath was'Oh my fucking God!!  At that moment not a second later the light turned off.  It appeared to be 10 in diameter a solid blackish bronze ball.  Hovered for a second  then zipped 5 feet up to the right .hovered stand still All the other light phenomena  then ceased  Then the black steel looking ball zoomed in a second out of sight.Now after that we ran our tent climbed inside wrapped in sleeping bags and fell asleep.  I dont what time it was or the duration of that sublime experience.  All i can say is When the morning came we woke uo to a noreaster fog and rain storm from hell. I basically lifted the whole tent like a pilliw case full of camping gear and dragged it to the car we bith climbed in and drove away fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156250.html](http://www.nuforc.org/webreports/reports/156/S156250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bangor (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>let's just made no sound and had no propulsion devices.object was traveling west to eastjust barely above the Treelinein a straight pathstraight up and downglidingeven though there was wind it did not affect itwhen it met up with my line of site where I was standingon a second-floor porchcouldn't see the light you wouldn't even know it was thereand as it was going it came into view the same way as when it was coming from the other directionmy sister moved off to the east but I can't see it anymore</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129746.html](http://www.nuforc.org/webreports/reports/129/S129746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
