@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:27 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple white teardrop shaped lightsAt about 8:50 pm CST in Kenosha, Wisconsin, I went to take my dog outside.  Looked up into the sky as usual, I thought I saw a searchlight.  Then instantly I noticed there was about six or seven of them.  Almost teardrop shaped.  Moving around in the sky and then they all gathered into one group.  A second later the lights formed a crescent shape in the sky and held that position for about 30 seconds.  At that time I ran in the house, yelled for my husband to get outside right away.  He saw the lights as I did in the crescent shape.  And then they took off in a North, north east direction over Lake Michigan.From the time they started to move after they formed the crescent shape, and we’re gone, was only about a second.There was absolutely no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148703.html](http://www.nuforc.org/webreports/reports/148/S148703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Valley Stream (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Intermittently pulsing object at very high altitude possibly low orbital, extremely slow movement, often stationary - in daylight.While coming outside to get something from my car I looked up at local plane traffic that was heading for JFK.  I happen to scan across the sky and saw a flash of something at very high altitude, possible orbital (resembling the look of a passing satellite catching sun).  After realizing for a moment that it is still very light I eliminated stars from the possibilities and started to think of a mylar balloon in the sun.  The object lit up again, looking like a star, it would intermittently pulse like this for the next 20 minutes and made a slow counter clockwise path periodically very brilliant (reiterating like looking at a star), and then no light at all.  On many occasions it was completely stationary, I eliminated the balloon theory.  I attempted to video this over 3 clips on my Samsung S5, without zooming.  So far I cannot see anything on the vids.  In my opinion this was extremely high altitude possibly low orbital altitude.  If anyone would like to analyze the video let me know.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121744.html](http://www.nuforc.org/webreports/reports/121/S121744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
