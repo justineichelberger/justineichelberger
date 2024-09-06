@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:12 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:00 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cleveland (Shaker Heights) (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 "stars" formed a triangle and moved and then disapeared one by one.((NUFORC Note:  We suspect U. S. Navy "NOSS" satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24902.html](http://www.nuforc.org/webreports/reports/024/S24902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Peoria (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Circular rotating solid light gets followed by solid red light, and at the same time a c130 takes off headed to same area.It all statted the first night with the kinda crappy videos i got Of what appeared to be a rotating light so much so that it was a perfect circle.  Luming from orange to red. It was very far off but still big enough to tell it was rather large. It hung in the sky for almost an hour before dissapearing off intonthe sky.  The second night 9/6/16 Walking outside at work at 10pm to do trash with a manager looking up to see the same circular light hanging in the sky in the same area but definitely a lot higher up, we looked at it for awhile and went to the dumpster, while waking back we could see it on the other side of the sky hanging there miles from where it was.  It had to have moved in the blink of your eye to have been able to get from where it was.  Once we rounded the corner of our building we noticed a larger solid red light moving in the direction of the circular light.  And then a c130 flew right over top of our building kinda gliding to the right of where ! the lights were.  It struck me as weird to see the c130 fly over ive never seen them take that path before. After watching the lights get closer and kinda dissapearing further up i had gone back into work.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129767.html](http://www.nuforc.org/webreports/reports/129/S129767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
