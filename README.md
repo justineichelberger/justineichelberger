@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Moving star light  traveling in different directionsLooking into the northern skies at 5am in the morning. Very clear and many stars.Saw a light type star traveling in various directions in the sky.  Traveled sideways and up and down until it was out of sight going in a upward direction..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83756.html](http://www.nuforc.org/webreports/reports/083/S83756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Thunder Bay (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw 3 stars formed in a long triangle moving together for 1 minute, then just suddenly stop and disappear.It was a triangle, a long triangle of 3 stars, moving in one direction.  We thought "satellite" at first cause we can see them on clear nights, but we have never seen 3 of them move in complete unison.  Then we thought it was a plane but I know there is no aircraft that is that large to be seen that high in the sky. I have seen many planes in the sky at night and none have ever even come close to that size. It would've appeared at least 5 times smaller, but these 3 stars we saw moving were very high in the sky and were clearly not a plane.  I don't know of any plane that has 3 stars attached to it at perfect angles. It moved for about one minute then just stopped.  The night was still clear and you could see all the other stars, but the 3 stars we saw stopped completely and we didn't see them again.((NUFORC Note:  We wonder whether the witnesses might have observed the three satellites that frequently are reported to our Center.  They are thought to be a "triplet of satellites, which may be associated with the U. S. Navy "NOSS" satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39163.html](http://www.nuforc.org/webreports/reports/039/S39163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
