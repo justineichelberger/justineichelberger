@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Friendswood (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large red/yellow fireball seen low in the horizon over Houston, TX  area20:10 PM   7 Sept 11   Friendswood, TX  77546  I was walking down the street and happened to look at the clear, dark sky.   Stars were just starting to be visible. I was surprised to see a large ball of light moving from South to North at an approximately 30 degree angle in front of me.  It was moving slowly from right to left as I was facing it.  It seemed to be a large round fireball of a red and yellow color with a large red and yellow tail creating no sound.  I was able to see it for about 5 seconds before it disappeared behind some trees and a house.  I had never seen anything like it except in pictures.  All the falling/shooting stars I have seen have always been high in the sky, much smaller, and of a white or blue color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83767.html](http://www.nuforc.org/webreports/reports/083/S83767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in California (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A  square flat-looking white object moved steadily not tumbling in a straight line NW to SE  as fast as alow flying plane.About 7:15 am My attention was caught by a square white object moving across the sky. It moved steadily, in a straight line, without wavering, through the sky, about 30-40 degrees above the horizon. I moved from the Northwest to the Southeast.  The sky was clear, no air moving at ground level.  The morning sun lighted it nicely, but I could not detect any shape except the square; no hint of a box.  There was no sound.  Believe it was much closer to the ground than the jets which pass over here and I can't say how large it was;  but a leaf of my maple tree would have hidden it, a leaflet of my rose bush would not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24922.html](http://www.nuforc.org/webreports/reports/024/S24922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
