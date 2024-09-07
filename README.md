@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Central Florida (FL) reported seeing craft that fit the description of some '' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Channel 9, WFTV, ran a tape of the object seen over the Central Florida area last Tuesday (?).  It was rather a good tape, so perhaps you could contact them and get a copy.  I sent this message to Art on Thursday night, but thought I would try sending it directly to you.((NUFORC Note:  Event occurred on 07SE99.  We have changed date so report conforms to other events on that date.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09712.html](http://www.nuforc.org/webreports/reports/009/S09712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Moving star light  traveling in different directionsLooking into the northern skies at 5am in the morning. Very clear and many stars.Saw a light type star traveling in various directions in the sky.  Traveled sideways and up and down until it was out of sight going in a upward direction..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83756.html](http://www.nuforc.org/webreports/reports/083/S83756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
