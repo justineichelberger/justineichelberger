@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in California (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A  square flat-looking white object moved steadily not tumbling in a straight line NW to SE  as fast as alow flying plane.About 7:15 am My attention was caught by a square white object moving across the sky. It moved steadily, in a straight line, without wavering, through the sky, about 30-40 degrees above the horizon. I moved from the Northwest to the Southeast.  The sky was clear, no air moving at ground level.  The morning sun lighted it nicely, but I could not detect any shape except the square; no hint of a box.  There was no sound.  Believe it was much closer to the ground than the jets which pass over here and I can't say how large it was;  but a leaf of my maple tree would have hidden it, a leaflet of my rose bush would not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24922.html](http://www.nuforc.org/webreports/reports/024/S24922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fireball sighted in a northerly direction from near Longmont, Colorado. (Clicking "...examples gives "Not Found")I was northbound on I-25 and was approximately at milepost 234 ( north of Exit 232 to Erie). The fireball was green and was probably a meteorite. It was at a heading of approximately 350 degrees. It descended vertically to less than 5 degrees above the horizon. The topography is relatively flat at  that location and continuing north into Wyoming. I noted some landmarks, so the accuracy of these data could be improved if necessary, especiially if triangulation is used. I cannot estimate my distance from the object. (Note: I was unable to send this report from Netscape 4.5)((NUFORC Note:  Another report received about this event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14033.html](http://www.nuforc.org/webreports/reports/014/S14033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
