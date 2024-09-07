@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Poinciana,Lake Wales,Lake Helen,Kissimmee (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw what appeared to be meteor breaking up.Changed shape to 12-24 balls of light with and with-out tails,red,yellow,green,blue.They seemed to be inside an area of haze filled with sparkling lights.Followed by a bright white light.All the lights stayed the sme in respect to their positions as they descended at an angle,and at very slow speed.My patrol partner and I thought possibly an airliner had blown up and was fallin to earth,so we headed to the general area,finding nothing.App 20 minutes later,local radio stations started getting phone calls re;this object/objects.Not a weather balloon,not Venus,don't know what  it was,but it was definitely a strange phenomonon..My partner and I are Patrol officers/emts.I am 57,she is 36.We both observed this phenomonom from our separate vehicles</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09588.html](http://www.nuforc.org/webreports/reports/009/S09588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in California (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A  square flat-looking white object moved steadily not tumbling in a straight line NW to SE  as fast as alow flying plane.About 7:15 am My attention was caught by a square white object moving across the sky. It moved steadily, in a straight line, without wavering, through the sky, about 30-40 degrees above the horizon. I moved from the Northwest to the Southeast.  The sky was clear, no air moving at ground level.  The morning sun lighted it nicely, but I could not detect any shape except the square; no hint of a box.  There was no sound.  Believe it was much closer to the ground than the jets which pass over here and I can't say how large it was;  but a leaf of my maple tree would have hidden it, a leaflet of my rose bush would not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24922.html](http://www.nuforc.org/webreports/reports/024/S24922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
