@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:31 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wells (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A pair of round Orange glowing craft several hundred feet in the air moving up the Maine Coastline silently.My wife and I were just leaving our friends house in Wells Maine along route 1 when we saw in front of us a couple hundred feet up a pair of bright orange glowing spheres traveling from south to north along the coast line and a moderate pace.  We found it strange that they emitted no noise.  Other cars stopped to observe this as well.  No one knew what these were.  They went out of site after a few minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72138.html](http://www.nuforc.org/webreports/reports/072/S72138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glowing Egg Shaped UFO with Flashing LightsUFO sighted 9/7/2017 over west end Billings, MT, at 10:00 P.M., until 11:00 P.M..  UFO was egg shaped, glowing grey-blue, with flashing lights (red, blue, green).  UFO had ring of small white lights around circumference in 3 bands.  UFO hovered in place for close to 30 minutes, then slowly moved west and north out of site.  UFO was observed with naked eye, but required spotting scope to see details mentioned above.  Skies were clear with a little smoke caused by fires in Montana.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136079.html](http://www.nuforc.org/webreports/reports/136/S136079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
