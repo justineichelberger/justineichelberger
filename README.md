@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Conyers (GA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was following us  there is no doubt I was meant to see it myself.This is the second sighting I had.  In the same  city I might add.I was driving home with my Mother and saw a cylinder shape metal object floating in the sky to my right.  I KNEW what it was as soon as I saw it.  I looked up 5 times and it was floating right there in broad daylight as clear as the sky.  I looked down and drove another 50 feet and the craft was absolutely gone.It was a perfectly blue sky that day. Nothing on earth can float like that in a stationary position and then be gone completely from the sky within 10 seconds.My mother was with me I told her look look 4 times :)((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97754.html](http://www.nuforc.org/webreports/reports/097/S97754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sipio (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>30 lighted objects in a line formation that would reach a point and vanish, one after the other in the exact same spot 2 nights in a row.  4/25/20 and 4/26/20.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155875.html](http://www.nuforc.org/webreports/reports/155/S155875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
