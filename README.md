@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Thunder Bay (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw 3 stars formed in a long triangle moving together for 1 minute, then just suddenly stop and disappear.It was a triangle, a long triangle of 3 stars, moving in one direction.  We thought "satellite" at first cause we can see them on clear nights, but we have never seen 3 of them move in complete unison.  Then we thought it was a plane but I know there is no aircraft that is that large to be seen that high in the sky. I have seen many planes in the sky at night and none have ever even come close to that size. It would've appeared at least 5 times smaller, but these 3 stars we saw moving were very high in the sky and were clearly not a plane.  I don't know of any plane that has 3 stars attached to it at perfect angles. It moved for about one minute then just stopped.  The night was still clear and you could see all the other stars, but the 3 stars we saw stopped completely and we didn't see them again.((NUFORC Note:  We wonder whether the witnesses might have observed the three satellites that frequently are reported to our Center.  They are thought to be a "triplet of satellites, which may be associated with the U. S. Navy "NOSS" satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39163.html](http://www.nuforc.org/webreports/reports/039/S39163.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Conyers (GA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was following us  there is no doubt I was meant to see it myself.This is the second sighting I had.  In the same  city I might add.I was driving home with my Mother and saw a cylinder shape metal object floating in the sky to my right.  I KNEW what it was as soon as I saw it.  I looked up 5 times and it was floating right there in broad daylight as clear as the sky.  I looked down and drove another 50 feet and the craft was absolutely gone.It was a perfectly blue sky that day. Nothing on earth can float like that in a stationary position and then be gone completely from the sky within 10 seconds.My mother was with me I told her look look 4 times :)((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97754.html](http://www.nuforc.org/webreports/reports/097/S97754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
