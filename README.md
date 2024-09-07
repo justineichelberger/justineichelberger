@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 6 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gary (IN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At about 6:15 am 0n September 6, 2016, i was out back my house facing east,  It was very clear blue skies with only 1 cloud in the sky it was cigar shaped, I liked it it was unusual  Then a puff of smoke came out of it falling at a 45 degree angle going northeast, I could see 2 shining shapes a bit in front, the smoke disappeared very quick it was not a jet!! i went inside to get my camera to take a picture but by the time I got it the craft was in the tree line!! I figured I would report this! I do not know what it was could of been space stuff falling, i will leave it up to you the experts!!  But it was NO plane for sure!!  Thanks for listening to me!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129854.html](http://www.nuforc.org/webreports/reports/129/S129854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>White diamond out over ocean in daylight... hovering  (over 2 hours)Around 12:45 p.m. today (east coast time), I was sitting on my ocean front balcony facing east.  The sky was clear blue with clouds out far over the ocean.  I noticed a white dot hovering out over the ocean...many miles out.  It was about 2-3 inches above the horizon.  It was still & not moving.  I kept watching & finally decided to get my grandfathers old binoculars.  Through them, it looked like either a square or diamond shape, but solid white.  It can be seen with the naked eye as just a white dot, but through the binocs, it had the square or diamond shape.  Definitely had 4 points. I then remembered I had newer & stronger binoculars in my Jeep.  I walked out & grabbed them, & returned to the balcony (5 min duration).  I saw the same thing through the stronger binocs, but could def. see a diamond shaped object.  With the clouds & lines in the clouds as my backdrop, I could clearly see the object wasn't moving up/down, or left/right.  I was planning on going to the beach, & after watching this for 30-40 minutes, I gathered my stuff & walked out to the beach (10 min duration).  I brought the stronger binoculars & continued watching from the beach level.  My balcony is about 20 feet above the beach FYI. I watched this object for another 30-40 minutes, when at 1 point, I looked in that direction, & it was gone.  I continued looking in the general direction of where it was for another hour or 2, but it never returned. It was very far out over the ocean, it never moved, & was still the entire time.  It was the only thing in the sky, that far out, bright white, & about the size of a pencil eraser, from where I watched from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159247.html](http://www.nuforc.org/webreports/reports/159/S159247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
