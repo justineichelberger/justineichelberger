@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>There's always different lights over the ocean here.  But tonight they formed two sets of triangles side by side wt the top of both lighting up really bright and lights coming off the top.  Usually theres a haze when they're out but tonight it's clear and they are out there for anybody to see!  Its creeping me out!  Concerned neighbor.((NUFORC Note:  We are uncertain as to whether the date is correct.  The source may have intended a date of November 7, but provides no contact information, so we are unable to contact the party.  We have received many reports from the Myrtle Beach and Surfside Beach areas.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115192.html](http://www.nuforc.org/webreports/reports/115/S115192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Central Florida (FL) reported seeing craft that fit the description of some '' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Channel 9, WFTV, ran a tape of the object seen over the Central Florida area last Tuesday (?).  It was rather a good tape, so perhaps you could contact them and get a copy.  I sent this message to Art on Thursday night, but thought I would try sending it directly to you.((NUFORC Note:  Event occurred on 07SE99.  We have changed date so report conforms to other events on that date.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09712.html](http://www.nuforc.org/webreports/reports/009/S09712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
