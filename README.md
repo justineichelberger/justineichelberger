@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:08 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:17:26 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular, buzzing, UFO, 2 green lights and 2 orange lights, speeds extremely high; non human.We heard an very loud buzzing sound above our backyard so we decided to go out and look there was a craft with 2 green lights and 2 orange lights that were buzzing.  I start to snap pictures which i have and it was like the craft spotted us doing that and it took off at extremely high non human speeds.  I will never forget this experience and definitly look forward to seeing these things again!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121778.html](http://www.nuforc.org/webreports/reports/121/S121778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Conneaut (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Northeast  Ohio dim to bright light moving west to east then going straight up at 90 degree angle very rapidly over state prisonI was talking with a fellow officer just outside my assigned housing unit when I saw what appeared to be a shooting star it started out dim got very bright moving west to east very rapidly when it got its brightest it made a 90 degree turn straight up and disappeared.the whole time it made no sound.As stated before it was over a State prison with all yard lights on.it was a very clear night.  This prison has a "no fly zone" also at this time of the day there is no movement of any persons at the institution,the other officer I was talking with had his back to the whole incident. Unfortunatly I did not file any report due to ridicule from staff.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72345.html](http://www.nuforc.org/webreports/reports/072/S72345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
