@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bedminster (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I OBSERVED A SINGLE, BRIGHTLY-LIT, FLATTENED-OVAL SHAPED OBJECT IN THE SKY ABOVE BEDMINSTER TWP. ON 09/08/03.ON SEPTEMBER 8, 2003 AT 23:05, WHILE WATCHING MARS FROM MY SECOND-FLOOR SOUTH WINDOW, I OBSERVED A BRIGHTLY LIT OBJECT IN THE SKY JUST ABOVE THE TREELINE SOUTH OF MY HOUSE IN BEDMINSTER AND ABOVE BRIDGEWATER TOWNSHIP.  THE OBJECT SUDDENDLY APPEARED IN MY VIEW AND MOVED SLOWLY FROM EAST TO WEST FOR ABOUT 10 SECONDS BEFORE DISAPPEARING.  THE HORIZONTAL OBJECT WAS A FLATTENED OVAL, AND SEEMED TO HAVE TWO STORIES OF NUMEROUS WINDOWS OR LIGHTS.  THE OBJECT APPEARED TO BE THE WIDTH AND A QUARTER WIDER THAN THE MOON ON SEPTEMBER 8.  IMMEDIATELY AFTER SEEING THE OBJECT, I MADE A SKETCH OF THE POSITION OF WHAT I HAD SEEN.  AT 23:35, I TELEPHONED THE BEDMINSTER TOWNSHIP POLICE TO REPORT WHAT I HAD SEEN AND ASKED IF ANYONE ELSE HAS REPORTED SEEING THIS OBJECT.  THE ANSWER WAS NO.  I AM A COLLEGE GRADE, AN ARTIST AND A JOURNALIST.  I HAVE NEVER WITNESSED ANYTHING LIKE THIS BEFORE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31341.html](http://www.nuforc.org/webreports/reports/031/S31341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>As I went to work at 6 :15 am, passing over I -10 and  the Sam Houston Beltway West, South bound I saw what appeared to be an airplane making a shallow left bank over the tollway.  As I closed in on the object heading south along the tollway, I noticed the object appeared to be an airplane heading into Androw Airport.  As I got closer to the object, I noticed it was larger than the normal size of aircraft for that airport, and it was stationary.  As I approached the object, instead of making a left turn into the airport, it remained stationary and became larger.  The object appeared as a cylinder with conical ends ending in very sharp points, and large red lights before the apex of the point on each end.  The object appeared to be tilted downward 10 degrees to the west.  As I faced the object, above the red light on the right side was a dimly lit dome.  On the left side above the other red light appeared to be a bright blue-white light similar to a spot light. The object looked  to be dark in color.  As I approched the object, my view was obscured as I passed under the vehicle. The size of the ufo was 150 feet in length and 15 to 20 feet in height.  It was one and one half times the size of a full moon.  It was approximately 1000-2000 feet above the tree line over a suburban area with no cellular towers  or other man made structures which could confuse the observer.  I am a geologist and have a working knowledge of areodynamics and physics. This object did not exhibit any properties which could be explained by natural or man made phenomena.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14047.html](http://www.nuforc.org/webreports/reports/014/S14047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
