@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:50 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Birch Bay (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>One right behind the other around the dipper and off towards the Milky Way.Looking up from my backyard I saw 2 ufos, one right behind the other traveling in line around the Big Dipper, then losing sight as the crafts got deeper into the Milky Way.  It was amazing seeing this.  One of my top sightings ever!  I know it wasn't satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102286.html](http://www.nuforc.org/webreports/reports/102/S102286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Bruno (Canada) (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V Shapped formation of redish orange fotsI was watching shooting stars on my backyard deck and saw a V Shaped formation of dim red/orange lights going from west to east. The speed was quite fast and made no noise whatsoever despite the appearance of behing fairly close. The V Shaped formation remained perfectly distances from each other during the whole occurance. I ran inside briefly though my patio door to get my wife, sister in law and my son. I turned back to watch the formation just in time for the lights to dim completely and then disappear. We see quite a lot of airplanes land and take off from ST-Hubert's airport, commercial and military on occasions by at the speed these thigs flew, there should have been noise like other usual take offs and the lights were not regular red/white/blue blinking position lights were used to see. Just plain orange/redish dots. Obviously, my wife and sister in law now think it's a joke buy I am certain I am not the only one who noticed as the sky was ckear and the temperature outside was quite pleasant. Don't knopw what exactly I saw but I absolutely saw with my owb eyes,  Is there any way I can find out if soneone else say this too ?  Erick</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58645.html](http://www.nuforc.org/webreports/reports/058/S58645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
