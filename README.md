@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:45 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:48 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Color Changing Light Over Sant Clarita ValleyMy mother and I were driving home on the freeway when I noticed a very bright green light that appeared to be floating about 1,000-1,500 feet above the wash next to the freeway.  The movement pattern of the light was akin to the way a balloon moves through the air, floating with mild changes in altitude.  The light then changed from green to bright violet blue at which point it became markedly brighter and appeared to grow in size by about 50 percent.  It then shrunk back to it’s normal size then changed colors again to red and then to white and back to green.  The whole time the light was moving away from us and we lost sight of it as we exited to freeway.   However as we turned of the main road down our street we saw the light which had changed back to violet blue over the trees.  As we went down the hill to our house we lost sight of the light and did not see it again even though we went back up to the main road to see if it could be seen from there.  My ! mother and I had both independently witnessed similar lights on separate occasions during the week or so proceeding this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92627.html](http://www.nuforc.org/webreports/reports/092/S92627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Farmington (NM) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Weather ballon spotted over Farmington, New Mexico by many people.At 7:05 p.m. on September 8, 2011, we were coming out of a Walgreens Pharmacy in Farmington, New Mexico when we noticed a large shiney object in the northeast sky.We had 5 people including myself in our party. There were others coming out of the Walgreens that saw the object and watched it as well. We all made comments as to whether it was a planet or a ballooon. The object did not appear to move at all or moved very slowly.The next day, NASA arrived at the Farmington Airport and rented 4 wheel drive vechicles to go and retrieve a weather balloon.  I do not believe this was anything other than a weather balloon but I wanted to file this report in case others saw this as well.  Weather balloon launches are very common in that area.  Also, I doubt NASA would make a big deal or even comment on a weather balloon if it were anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84075.html](http://www.nuforc.org/webreports/reports/084/S84075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
