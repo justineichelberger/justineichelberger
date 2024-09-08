@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Columbiana (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>About 1,500-2,000ft agl. traveling from west to east about 150knots. circular/oval in shape with red lites around perimeter and 5-10 stobes flashing all over object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46102.html](http://www.nuforc.org/webreports/reports/046/S46102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was oval and grey white with no lights traveling really fast and really low with no sound.We saw a slender oval shaped object moving at a high rate of speed over farmland then into city area and then lost visual sight of the object. This time line is only 10 to 15 seconds.  The color of  the object was a white grey.  I live in a small city of  Guadalupe which is 7miles west of  Santa Maria, CA.  Between these two cities is seven miles of farmland, very flat farmland. We were traveling east on highway 166 from Guadalupe when we saw this thing around 10am.  I was driving , my wife sitting shotgun and my three kids in the middle seat of our Suburban.  The morning was solid overcast, but very well lit.  The object was only approximately 50 ft. long.  It was flying very low only about 200 to 300 feet off the ground that is why we all noticed it.  As soon as I noticed it I immediately rolled down my window to see if I could hear it flying.  Guadalupe is only 17 miles from Vandenberg  Air Force Base, and Santa Maria has an airshow with fighter jets and they do travel fast and low.  When at the air shows those jets, traveling away from you low, make a tremendous amount of noise at high speed.  That is why when I saw the object I tried to listen to hear the noise, the kids think it’s cool.  While waiting to here some noise I notice that there wasn’t any distinct lines or features on this thing and then  it is gone over the city.   The object traveled into over the city of Santa Maria. We have a telescope, my kids and I look at stars, planets and meteor showers.  I hunt, fish and often record the rocket launches over the hill at VAFB.  I see the airshows and this did not look like any plane.   This incident happened on 9-8-2007.   The reason I haven’t  reported it until today  1-23-2008 is I just learned there was a place in which to report events like mine.  I remember the date and time because my son lost his soccer game socks and we were going to buy a new pair so he could play.  Not telling anyone of this incident really bugged me. Meaning people like you, so others could see if th! ey were not the only ones too.  I know in my case you don’t want to say anything in fear of being ridiculed.  Even though there were five of us who saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61137.html](http://www.nuforc.org/webreports/reports/061/S61137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
