@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Council Bluffs (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 133</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159637.html](http://www.nuforc.org/webreports/reports/159/S159637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bedminster (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I OBSERVED A SINGLE, BRIGHTLY-LIT, FLATTENED-OVAL SHAPED OBJECT IN THE SKY ABOVE BEDMINSTER TWP. ON 09/08/03.ON SEPTEMBER 8, 2003 AT 23:05, WHILE WATCHING MARS FROM MY SECOND-FLOOR SOUTH WINDOW, I OBSERVED A BRIGHTLY LIT OBJECT IN THE SKY JUST ABOVE THE TREELINE SOUTH OF MY HOUSE IN BEDMINSTER AND ABOVE BRIDGEWATER TOWNSHIP.  THE OBJECT SUDDENDLY APPEARED IN MY VIEW AND MOVED SLOWLY FROM EAST TO WEST FOR ABOUT 10 SECONDS BEFORE DISAPPEARING.  THE HORIZONTAL OBJECT WAS A FLATTENED OVAL, AND SEEMED TO HAVE TWO STORIES OF NUMEROUS WINDOWS OR LIGHTS.  THE OBJECT APPEARED TO BE THE WIDTH AND A QUARTER WIDER THAN THE MOON ON SEPTEMBER 8.  IMMEDIATELY AFTER SEEING THE OBJECT, I MADE A SKETCH OF THE POSITION OF WHAT I HAD SEEN.  AT 23:35, I TELEPHONED THE BEDMINSTER TOWNSHIP POLICE TO REPORT WHAT I HAD SEEN AND ASKED IF ANYONE ELSE HAS REPORTED SEEING THIS OBJECT.  THE ANSWER WAS NO.  I AM A COLLEGE GRADE, AN ARTIST AND A JOURNALIST.  I HAVE NEVER WITNESSED ANYTHING LIKE THIS BEFORE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31341.html](http://www.nuforc.org/webreports/reports/031/S31341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
