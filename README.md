@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:45 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:06 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Onalaska (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Round dimly lit object moves and appears to notice observer.As I got out of my car upon returning home from work, I looked up into the sky to see a dimly lit, round object high up above my home. It appeared to be illuminated underneath and was da dim red color barely noticeable but it could still be picked out in the light cloud cover it moved into. It moved from North West to the South East at a high rate of speed and then began to slow somewhat. My outdoor flood light which is on a motion sensor went off illuminating myself in the backyard and I then saw the object slow down and hover for about five minutes. My flood lamp timed out and shut off and I then watched the object move off to the South West. It was almost as if the thing was watching me watching it because it did not stop and hover until my flood light went off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58629.html](http://www.nuforc.org/webreports/reports/058/S58629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Translucent white/green glowing triangle.It was approximately 9:10pm EST. Boca Raton, FL.I was in my backyard on my cell phone when I happened to look up.It looked like a very large low flying craft triangular in shape. All sides were rounded with what looked like one oval shaped light on each corner. No bright lights or flashing lights. The entire craft including the oval spheres on each corner were whitish in color but seemed to be emitting a mellow green glow similar to that of which you might see with a glow in the dark plastic toy and It was completely silent.It all happened so fast that by the time I looked up again to try understand what I thought I was seeing it was already heading over my roof and out of my eye sight which left me wondering if I had really seen anything at all but I felt compelled to post here incase there are any other similar sightings in the area.((NUFORC Note:  Witness elects to remain semi-anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72209.html](http://www.nuforc.org/webreports/reports/072/S72209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
