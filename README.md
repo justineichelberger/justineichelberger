@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kent (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 ufo's were flying in a diamond shape flashing high in skyI was sitting in the garden at 09:34. Sunny clear blue sky, apart from where a plain had gone passed and left the trails that thay do ,and saw 4 silvery flashy things flying along the plain trail .luckly I had my iPhone at hand and filmed them .unfortunatey got about 10sec of footage and then ran out of memory, but was able to delete some pictures and snap a few still pictures. in the time it took me to delete the pictures . one  UFO Started to move faster at a slight angle away from the others and disappeared . And I  was able to snap a picture of it i then ran In doors and got my partner to witness it . As she saw them a plain was flying in the same line of flight as the ufo's but the ufo's where higher.when the plain passed one of the ufo's disappeared and I watch the last 2 ufo's intil I could not see them.I then contacted my friend and asked him if he could see them from where he was but he couldn't .he then rang me back to tell me he saw 3 RAF jets hi! gh up in the sky and fly off fast this was about 10 minutes later I know I've never seen anything like it in my life .it was strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92669.html](http://www.nuforc.org/webreports/reports/092/S92669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 star like objects heading east as if one directly followed otherJust happened to have walked outside to check the pool filter, looked up to see if the stars were out, pretty full night sky, the moon was not up yet.   I live on a direct e-w road, so direction is correct.   In the direct sky above me, I thought I saw a brighter than normal star at say 1 o'clock position looking north.   Shortly (within 4-5 seconds) another bright star appeared at 11 oclock position, both were moving at a faster than normal speed for any aircraft, both were direct path of each other, both moving in same north-eastern direction.  Both passed over the tree line horizon.   Far brighter than normal star(s) but far dimmer than Mars  in southern sky.((NUFORC Note:  ISS and Space Shuttle in formation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72164.html](http://www.nuforc.org/webreports/reports/072/S72164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
