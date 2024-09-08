@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 7 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hillsboro/Purceville (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Several Orange Orbs flying in formation seen travelling SE from what appeared to be the Shepherdstown AreaWhile travelling on VA Highway 9 toward Highway 7, my wife looked toward me to say something and noticed many orange glowing disk like objects flying slowly in formation of 3 to 4 at a time moving in a  generally East/Southeast direction.  We pulled over and took video footage from the intersection of Highway 9 and 611 (Purceville Road) while facing North.  Video footage capture their appearance and movement.  I also contacted the CBP Air Marine Operations Center in Riverside, CA, to report this highly unusual activity.  I have been in law enforcement for 27 years and have never seen anything like this.  I was shocked and astounded when I heard that they could not see the objects on radar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148706.html](http://www.nuforc.org/webreports/reports/148/S148706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw a low-flying line of green light in the sky for a few seconds, that looked like a meteor or something.Was driving South on 309 by the 78 junction next to Dorney park, and off to the right I saw a green line of light in the sky for just a few seconds. My immediate reaction was, "oh, a shooting star," only to realize a milisecond later that shooting stars aren't green or that low. I doubt it was a craft of any kind, but it was something.((NUFORC Note:  We believe that some meteors can give off green-colored light.  It is a result of the copper content of the meteor.  Copper ions give off green light.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52436.html](http://www.nuforc.org/webreports/reports/052/S52436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
