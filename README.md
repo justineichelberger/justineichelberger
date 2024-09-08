@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:06 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Translucent white/green glowing triangle.It was approximately 9:10pm EST. Boca Raton, FL.I was in my backyard on my cell phone when I happened to look up.It looked like a very large low flying craft triangular in shape. All sides were rounded with what looked like one oval shaped light on each corner. No bright lights or flashing lights. The entire craft including the oval spheres on each corner were whitish in color but seemed to be emitting a mellow green glow similar to that of which you might see with a glow in the dark plastic toy and It was completely silent.It all happened so fast that by the time I looked up again to try understand what I thought I was seeing it was already heading over my roof and out of my eye sight which left me wondering if I had really seen anything at all but I felt compelled to post here incase there are any other similar sightings in the area.((NUFORC Note:  Witness elects to remain semi-anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72209.html](http://www.nuforc.org/webreports/reports/072/S72209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Orchard Park (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>checking out the critters ?I was approching my street and in the sky was an object that I assumed was an airplane. But as I watched this craft I noticed that it wasn't moving so then,again,I thought that it was a helicopter or I was hoping the same UFO that I saw just a few days ago.  I pulled into my driveway and shut my headlights off and got out of my car to go around to the side of my house where the field is so that I could see this craft better. It had its "headlight": on like before but this time it was dim like a cars headlight going out.  It hung there for a few moments and when I walked out into the field and put my glasses on to get a better look, its light got bright for a few seconds like it was powering up and then it pivited and took off behind the tall trees like it did before and I couldn't see it anymore. When it turned it was sort of plane shape and it had a few colored lights on it. It was almost as if it knew that I was there like before and it didn't want me to see too much. And like the last time the field was full of deer grazing......now this field is long like a runway and it is surrounded on three sides with tall trees and my house. It is almost like this UFO is taking pictures of the deer and when I have seen this craft I feel like I am also being watched. This last sighting I felt like there was something that was actually in the field.........like some sort of presence or something.......anyway, that is my sighting.  From O.P.N.Y   P.S.There was absolutly no sound and this was only about 500 feet from me.((NUFORC Note:  One of many reports from same source.  Witness sounds sincere, but we question whether all of her reports are related to sightings of genuine UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52428.html](http://www.nuforc.org/webreports/reports/052/S52428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
