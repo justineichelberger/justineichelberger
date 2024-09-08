@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 star like objects heading east as if one directly followed otherJust happened to have walked outside to check the pool filter, looked up to see if the stars were out, pretty full night sky, the moon was not up yet.   I live on a direct e-w road, so direction is correct.   In the direct sky above me, I thought I saw a brighter than normal star at say 1 o'clock position looking north.   Shortly (within 4-5 seconds) another bright star appeared at 11 oclock position, both were moving at a faster than normal speed for any aircraft, both were direct path of each other, both moving in same north-eastern direction.  Both passed over the tree line horizon.   Far brighter than normal star(s) but far dimmer than Mars  in southern sky.((NUFORC Note:  ISS and Space Shuttle in formation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72164.html](http://www.nuforc.org/webreports/reports/072/S72164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Spruce Grove (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>very bright colors, and multiple colors, very fast moving.Hovering high in the sky, constantly flashing: red,yellow, blue & green.  The object/light multipiled into 2. The second one dissapeader unbelievably fast within seconds of looking at it.  The main one hovered for about 5 mins then flew very fast and low to houses but far enough away to not completely make the object out. only the lights. then dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83795.html](http://www.nuforc.org/webreports/reports/083/S83795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
