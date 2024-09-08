@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:50 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Bruno (Canada) (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V Shapped formation of redish orange fotsI was watching shooting stars on my backyard deck and saw a V Shaped formation of dim red/orange lights going from west to east. The speed was quite fast and made no noise whatsoever despite the appearance of behing fairly close. The V Shaped formation remained perfectly distances from each other during the whole occurance. I ran inside briefly though my patio door to get my wife, sister in law and my son. I turned back to watch the formation just in time for the lights to dim completely and then disappear. We see quite a lot of airplanes land and take off from ST-Hubert's airport, commercial and military on occasions by at the speed these thigs flew, there should have been noise like other usual take offs and the lights were not regular red/white/blue blinking position lights were used to see. Just plain orange/redish dots. Obviously, my wife and sister in law now think it's a joke buy I am certain I am not the only one who noticed as the sky was ckear and the temperature outside was quite pleasant. Don't knopw what exactly I saw but I absolutely saw with my owb eyes,  Is there any way I can find out if soneone else say this too ?  Erick</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58645.html](http://www.nuforc.org/webreports/reports/058/S58645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kent (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 ufo's were flying in a diamond shape flashing high in skyI was sitting in the garden at 09:34. Sunny clear blue sky, apart from where a plain had gone passed and left the trails that thay do ,and saw 4 silvery flashy things flying along the plain trail .luckly I had my iPhone at hand and filmed them .unfortunatey got about 10sec of footage and then ran out of memory, but was able to delete some pictures and snap a few still pictures. in the time it took me to delete the pictures . one  UFO Started to move faster at a slight angle away from the others and disappeared . And I  was able to snap a picture of it i then ran In doors and got my partner to witness it . As she saw them a plain was flying in the same line of flight as the ufo's but the ufo's where higher.when the plain passed one of the ufo's disappeared and I watch the last 2 ufo's intil I could not see them.I then contacted my friend and asked him if he could see them from where he was but he couldn't .he then rang me back to tell me he saw 3 RAF jets hi! gh up in the sky and fly off fast this was about 10 minutes later I know I've never seen anything like it in my life .it was strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92669.html](http://www.nuforc.org/webreports/reports/092/S92669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
