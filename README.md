@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 8 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Spruce Grove (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>very bright colors, and multiple colors, very fast moving.Hovering high in the sky, constantly flashing: red,yellow, blue & green.  The object/light multipiled into 2. The second one dissapeader unbelievably fast within seconds of looking at it.  The main one hovered for about 5 mins then flew very fast and low to houses but far enough away to not completely make the object out. only the lights. then dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83795.html](http://www.nuforc.org/webreports/reports/083/S83795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Hundred (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object traveled across hills at moderate speed illuminating tree tops as it passed.Object traveled from the West towards the East across US route 250 at moderate speed.  It pulsed with a red hue as it traveled and the pulsing (dull red to bright red) illuminated the tree tops as it passed overhead.  My friend and I were the only observers.  We were 14 at the time and were returning from a Boy Scout meeting.  We have slightly dissimilar memories of the object to this day, but I recall the hazing we recieved at school the next day because the first or second episode of Star Trek was on at the time of our sighting(unknown by us at the time because neither of our families received NBC broadcasts at that time) and our classmates teased us about seeing the "Enterprise."  It therefore had to be in September 1966 that we witnessed the craft.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66531.html](http://www.nuforc.org/webreports/reports/066/S66531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
