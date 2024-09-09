@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Alamogordo (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Grey Metallic Aircraft Floating Behind the Clouds.I was with two co-workers and we were traveling west on highway 70, heading to White Sands. We noticed large cloud formations to the north of us. As we were observing the clouds we all noticed a gray metallic object floating next to the clouds. We pulled over on the side of the road and took pictures. The floating object was visible for approximately 5 minutes then disapeared behind the clouds. The film was developed on 10/6/00. Two pictures show the object very clearly. It is similar to the picture on the homepage of this website. I also have to conclude that we did not hear any noise from the aircraft. Pictures will be submitted.((NUFORC Note:  Report was submitted by person who occupies a position of considerable responsibility.  We have requested copies of the photos, and will post them if we receive them.  There may have been a high-altitude helium balloon in the area at the time, but that is unconfirmed.  NUFORC receives occasional reports when balloons are launched.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14481.html](http://www.nuforc.org/webreports/reports/014/S14481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 white sometimes sparkling &/orange objects together at 5pm!4 reliable witnesses-  My 2 parents, myself (school teacher), and my 4 year old grand-niece.  Last night around 5:00 p.m. my mom discovered something in the clear bright blue sky. She told my dad and then they both called me to come outside to 'see what this strange object is'.  My mom then said 'it's not a plane but we can't figure out what it is'.I went outside and it was hard to see although it did sparkle and seem to reflect either the sun or had it's own light source.  We grabbed the binoculars.  Looking through the binoculars I could see that it at sometimes looked just white, and at others it was like an orange fire ball.  It wasn't moving quickly at all - seemingly staying in one spot for quite a while.  My mom then noticed that there were two more!  I was wondering if they were drones, skydivers, or something like that.  At one point they looked like they were triangular in shape and a ball at others.  They seemed also to be in a triangle formation- but since they were hard to see all the time we don't know if that was a pattern or not.I shot some footage with my dad's iphone- poor quality but you can see it on the iphone if someone knows how to 'zoom in' after the fact.  We weren't sure how long they would be in the sky so although we wanted to look at it through a telescope we didn't want to take our eyes off it it for too long in order to track one down.In hindsight we should have called the news!  Thought for SURE others would see it as well!  Thought we could 'google it' the next day but there was no reports that we know of!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129850.html](http://www.nuforc.org/webreports/reports/129/S129850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
