@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 white sometimes sparkling &/orange objects together at 5pm!4 reliable witnesses-  My 2 parents, myself (school teacher), and my 4 year old grand-niece.  Last night around 5:00 p.m. my mom discovered something in the clear bright blue sky. She told my dad and then they both called me to come outside to 'see what this strange object is'.  My mom then said 'it's not a plane but we can't figure out what it is'.I went outside and it was hard to see although it did sparkle and seem to reflect either the sun or had it's own light source.  We grabbed the binoculars.  Looking through the binoculars I could see that it at sometimes looked just white, and at others it was like an orange fire ball.  It wasn't moving quickly at all - seemingly staying in one spot for quite a while.  My mom then noticed that there were two more!  I was wondering if they were drones, skydivers, or something like that.  At one point they looked like they were triangular in shape and a ball at others.  They seemed also to be in a triangle formation- but since they were hard to see all the time we don't know if that was a pattern or not.I shot some footage with my dad's iphone- poor quality but you can see it on the iphone if someone knows how to 'zoom in' after the fact.  We weren't sure how long they would be in the sky so although we wanted to look at it through a telescope we didn't want to take our eyes off it it for too long in order to track one down.In hindsight we should have called the news!  Thought for SURE others would see it as well!  Thought we could 'google it' the next day but there was no reports that we know of!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129850.html](http://www.nuforc.org/webreports/reports/129/S129850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Broomfield/Lafayette (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, rectangular object seen flying in broad daylightI was driving Northbound on Hwy. 287.  What appeared to be just North of Dillon Rd., was a flying object going Westward.  Although I was not close enough to see great detail (I was about 3/4 of a mile away), it did not look like anything I have seen before; it was flying slowly at a constant altitude (approximately 100-150 ft. off of the ground).  It was going slower than an airplane and appeared far too big and rectangular to be a helicopter.  Because of its rectangular shape, I first thought it was a banner trailing behind an airplane (like the type you see at sporting events).  There was definitely no plane ahead of it though.  It was broad daylight and many cars were on the road...surely someone else saw this today?  Also, perhaps coincidentally, my car's engine timing seemed "off" for a minute...the engine reved up and down while at a stop light.NOTE:  there was a reported UFO sighting in the area (on Dillon Rd.) about two weeks ago; it was reported in The Broomfield Enterprise.  I dismissed the article at the time, but what i saw today makes me wonder…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72191.html](http://www.nuforc.org/webreports/reports/072/S72191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
