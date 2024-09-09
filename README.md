@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:14 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:23 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>A ring of light appeared, filled in with golden light, increased in brightness while moving, then gradually faded away.A thin, perfect circle of silver light appeared northeast of my position.  As I observed the circle, it began to fill in with a faint golden light.  The light filled in the circle with irregular "rivulets" of golden light until the circle glowed a uniform golden color, not unlike that of a full moon except that it was perfectly uniform with no "craters" or surface imperfections.  It was about the size of a nickle held at arm's length and about 30-35 degrees off the horizon.  I had a clear view with no obstructions.  The circle of golden light was well defined at first.  It then began to slowly increase in brightness until it appeared to "boil" with the boundaries becoming indistinct.  It then began to move in an arc toward the North maintaining a uniform elevation above the horizon.  I then began to notice that it was decreasing in brightness slowly as it moved.  It lost brightness uniformly until it was once again a distinct circle of light.  It continued to slowly move toward the North until it was no longer visible.  It moved a total of approximately 40 degrees of arc in 10 minutes or so.  No sound was apparent.(NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40925.html](http://www.nuforc.org/webreports/reports/040/S40925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Thailand (northeast) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>you can see or documented another type ball of lights which be appearing in northeast thailand soon before end of oct. 26  2002stroy 1.last month there were ball of lights hovering aboves thailand, there was a major balls in the middle while there were few small bright balls were like playing around the the bigger balls. then they joined together to form an ablong shape then it was gone. while it was taking off, it look like there were round waves. like a drop into the water waves(ring of ripples). durations: five to ten minutes.witness few malaysian saw it and take photo until it ran out of film.two or three weeks later the same balls of light appear again in malaysia. distance rough est. think should be more then 10,000 feet above sea levels.Want another living proof to witness by your eyes only? i have info, another few more weeks ufo to appear in thailand.(before end of oct)North east thailand, nearly by end of october, the sereval ball of lights will be shooting out from the long (mekong)river strait up to the sky until out of human sights and this ufo is becoming quite common in thailand & witness by several thousands of people along the river bank..according to the local thai people. this events appear every years on oct 26. the locals thai believe it a "Naga"(Dragon god). every year before the end of "pansai"(raining season retreat) period.those who want to witness the ufo or this rare occassion event. i know someone who can get us there. remember to bring along a very good video camcorder or any super high tech detector to document this event..the ball of lights is undetected by the military ground radar.((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25435.html](http://www.nuforc.org/webreports/reports/025/S25435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
