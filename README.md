@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Shasta/Sand Flat (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>ASLEEP AGAIN AFTER SEEING DISC 35 MIN PRIVIOUS.  LARGE SLOWMOVING GREEN FIREBALL 200FT AGL MOVING W.TO E. STUCK TREES MADE LOUD CRACK, VANASHEDWOKE TO VY BRIGHT FIREBALL SLOWLY CROSSING SAND FLAT WEST TO EAST. IT LIGHTED THE WHOLE FLAT UP WITH A GREEN GLOW.  THE FIREBALL WAS ABOUT 200 FT AGL ABT 300FT NORTH OF MY POSITION EST ABT 30 FT IN DIAMETER. IT WAS A PERFECT SPHERE TRANSLUCENT EXCEPT FOR THE CORE WHICH WAS MORE SOLID YELLOWISH ABT 3 FT DIA. I COULD SEE RADIATION PATTERNS LIKE FINE SPOKES OF A BICYCLE WHEEL, BUT IN 3D. THE FIREBALL VANISHED IN THE FOREST WITH A LOUD "CRACK" SOUND. THE NEXT MORNING FOUND A TREE LIMB BROKEN OFF A LARGE SNAG AND THE TOP OF AN AJACENT TREE WAS SNAPPED OFF. MY CAMERA BATTERY WAS DEAD AS WAS MY CELL PHONE BATTERY. NEXT DAY WITH A NEW BATTERY I TOOK A PHOTO OF THE TREES WITH OBVIOUSLY FRESH WOUNDS.  WHITE.((NUFORC Note:  Date changed to 09/09/99, the proesumed date of the sighting.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09769.html](http://www.nuforc.org/webreports/reports/009/S09769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looks like a guiding object...The circle origin was noticed from a man looking out his window this morning @ around 5:13 AM in Morristown,Tennessee.  Thus the object stayed stationary for a good while with different colors about it.  The colors are red,green,blue,white,yellow flickering.  The object has been recorded on video as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159270.html](http://www.nuforc.org/webreports/reports/159/S159270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
