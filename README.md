@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Napa (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately hour - hour minutes.</sub><blockquote><sub>Napa UFORemained stationary with different lights flashing hovering quite low over trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102073.html](http://www.nuforc.org/webreports/reports/102/S102073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Marathon (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were driving in a car going south on us1. just south of the airport i said look at that. My friend and his wife saw it when i pointed it out. we were traveling about 45mph and the craft seemed to be going a little faster. it was out over the gulf a little bit. it was just after dark but its silouette could be clearly seen. we tried to get ahead of it and get to the gulf and get a better look at it but we were not fast enough. when we got to the  restaurant a few minutes later we were talking about it and my friend(retired air force) said that is something you will probably never see again in your life. when i made a shape in the air with my fingers my friends wife's  eyes lighted up in recognition. my friend said to say nothing because nobody would believe you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40946.html](http://www.nuforc.org/webreports/reports/040/S40946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
