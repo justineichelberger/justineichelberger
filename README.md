@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:20 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately still occuring - still occuring minutes.</sub><blockquote><sub>Hovering object lit with red and white lights, no engine sounds, no directional movement.oval aircraft, hovering almost directly above my neighborhood.  No engine noise, flashing raspberry and white colored lights.  I left and returned an hour later.  The same aircraft is still hovering but further away, over the atlantic.  It still was not moving in any particular direction, just hovering.  Not lit like any other aircraft i've ever seen.  It appears is could be actually spinning.((NUFORC Note:  Possible sighting of a "twinkling" star, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102077.html](http://www.nuforc.org/webreports/reports/102/S102077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Napa (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately hour - hour minutes.</sub><blockquote><sub>Napa UFORemained stationary with different lights flashing hovering quite low over trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102073.html](http://www.nuforc.org/webreports/reports/102/S102073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
