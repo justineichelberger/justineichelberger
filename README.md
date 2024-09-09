@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sault Ste. Marie (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I witnessed a low-flying, flat and round, blue-lighted object travelling at a great speed.In between 20:30 and 21:30 on September 9th, 2005, 6 other people and I saw a strange object in the sky. We were facing south, towards the St. Mary's River, when a low-flying object, which appeared to be somewhat flat and round, flew quickly by. It flew extemely fast, and emitted a blue light. The light was an incredible bright blue, and it moved so fast that we only saw it for 5 to 10 seconds. There weren't many stars, and the sky was very dark. My friends thought it was a plane, but because I fly so much, I know that no plane travels that fast, or has a blue light. A few moments later, an actual plane (with it's blinking red and white lights) flew overhead at a MUCH slower speed.  I came to the conclusion then that this was a very unusual sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46145.html](http://www.nuforc.org/webreports/reports/046/S46145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Alamogordo (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Grey Metallic Aircraft Floating Behind the Clouds.I was with two co-workers and we were traveling west on highway 70, heading to White Sands. We noticed large cloud formations to the north of us. As we were observing the clouds we all noticed a gray metallic object floating next to the clouds. We pulled over on the side of the road and took pictures. The floating object was visible for approximately 5 minutes then disapeared behind the clouds. The film was developed on 10/6/00. Two pictures show the object very clearly. It is similar to the picture on the homepage of this website. I also have to conclude that we did not hear any noise from the aircraft. Pictures will be submitted.((NUFORC Note:  Report was submitted by person who occupies a position of considerable responsibility.  We have requested copies of the photos, and will post them if we receive them.  There may have been a high-altitude helium balloon in the area at the time, but that is unconfirmed.  NUFORC receives occasional reports when balloons are launched.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14481.html](http://www.nuforc.org/webreports/reports/014/S14481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
