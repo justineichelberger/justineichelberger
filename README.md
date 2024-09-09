@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looks like a guiding object...The circle origin was noticed from a man looking out his window this morning @ around 5:13 AM in Morristown,Tennessee.  Thus the object stayed stationary for a good while with different colors about it.  The colors are red,green,blue,white,yellow flickering.  The object has been recorded on video as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159270.html](http://www.nuforc.org/webreports/reports/159/S159270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Corunna (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Flying Triangle seen over a  field in Michigan,  witnessed by a family of 3.Looking east out of the patio door just over the field we spotted bright lights low on the horizon and it appeared to be heading towards us. As the lights moved closer you could make out that the craft had 3 large, round, very bright (non-flashing) white lights on the underside that formed a triangle. The craft was VERY silent, flying low and moving at a slow pace across the moonless sky. We went out in the backyard to get a better look as it flew just about directly overhead. We were able to see only a slight outline of the craft due to the lights shining so bright. We lost sight of the craft as it headed southwest in the general direction of Lansing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39210.html](http://www.nuforc.org/webreports/reports/039/S39210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
