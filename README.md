@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Navarre (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 yellow orbs chasing one another in the sky facing south towards the Gulf of Mexico.At 3:30AM CST I observed 3 yellow orbs appear in the sky facing south towards the Gulf of Mexico. They appeared independent of one another, moved around each other in organic "dancing" and playful circular chasing motions. They appeared in triangular formation at times and would break apart again. It seemed as if wind resistance and gravity were not obstacles as they moved faster and with more accuracy than any man-made flying object that I've ever witnessed. After 15 or so minutes of enjoying the performance they dimmed and disappeared, unsynchronized from one another. I had no camera or cell phone at the time and my family was asleep. I was 18 years old standing on a 3rd story apartment front balcony enjoying the ocean air. Being outside at that time was typical for me as I was avoiding the family. They were not the type to believe anything that I would tell them let alone a story like this. We lived in an apartment complex in Navarre, near Eglin Air force base. Although I knew that what I was watching did not appear to be naturally possible I believe chose to accept at the time that it had to be military involved. I'm compelled to include that watching the orbs interactions felt whimsical and intentionally playful. The speed at which they changed direction as they skimmed past one another and the lack of apparent wind resistance and gravity is what keeps the details of this experience vivid. I've never seen anything similar since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160541.html](http://www.nuforc.org/webreports/reports/160/S160541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lemitar (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>orange lights in the southeastern sky in New MexicoMe and a friend where sitting on my front porch when we saw a strange orange light in the sky (towards the southeast) when we started to look at it… it began  to fade and move across the sky and disappear a couple seconds later it reappeared along with another light  (more north east) then a row of three might orange lights appeared equal with each other( in the middle of the other two lights ) and started to move together in a line shape  ( the other two lights were still in the sky ) then all the lights disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77736.html](http://www.nuforc.org/webreports/reports/077/S77736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
