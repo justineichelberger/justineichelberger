@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alvadore (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Moving and hovering object with several colorsObject hovering in West sky toward the coastal range, above the tree line from the perspective of my back yard.  The object emitted red,blue and yellow colored lights, which could be discerned clearly through  binoculors; it appeared to move back and forth abnormally and then to hover, stationary for about 30 minutes until it receded to the edge of, and then beneath the treeline and eventually out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92634.html](http://www.nuforc.org/webreports/reports/092/S92634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Winterhaven (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Twinkling fast moving light/lights in a non-linear trajectory at high speedsStar like twinkling - multiple lights, moving in a non-linear way at very high speeds and defying typical known flight patterns of aircraft or drones.  High in the sky, could not make out any shape other than the light/lights.  Saw it in the distance for almost 90 mins, saw it in the sky close enough to record video for about 5 mins</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159312.html](http://www.nuforc.org/webreports/reports/159/S159312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
