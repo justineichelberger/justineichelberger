@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Broomfield/Lafayette (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, rectangular object seen flying in broad daylightI was driving Northbound on Hwy. 287.  What appeared to be just North of Dillon Rd., was a flying object going Westward.  Although I was not close enough to see great detail (I was about 3/4 of a mile away), it did not look like anything I have seen before; it was flying slowly at a constant altitude (approximately 100-150 ft. off of the ground).  It was going slower than an airplane and appeared far too big and rectangular to be a helicopter.  Because of its rectangular shape, I first thought it was a banner trailing behind an airplane (like the type you see at sporting events).  There was definitely no plane ahead of it though.  It was broad daylight and many cars were on the road...surely someone else saw this today?  Also, perhaps coincidentally, my car's engine timing seemed "off" for a minute...the engine reved up and down while at a stop light.NOTE:  there was a reported UFO sighting in the area (on Dillon Rd.) about two weeks ago; it was reported in The Broomfield Enterprise.  I dismissed the article at the time, but what i saw today makes me wonder…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72191.html](http://www.nuforc.org/webreports/reports/072/S72191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brockport (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>Flash and then a trail in the sky.Returned home from walking dogs.  Nearly pitch black save moonlight from half moon.  I was bent over to unleash dogs and a bright light engulfed my surroundings. I thought it might be lightening.  I looked up and saw what appeared to be a vertical stream of disturbed air in the western sky, similar to what a plane leaves behind.  The stream was much lighter in appearance to the darker surrounding sky and looked like tiny particles.  There was no airborne vehicle to be seen.  The stream faded quickly within 9 seconds or so, all together.  It did not start to fade at one end then the other, but rather the entire anomaly very uniformly.  My dogs did not seem to notice the account, especially when they would normally be frightened of lightening and the subsequent thunder.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159277.html](http://www.nuforc.org/webreports/reports/159/S159277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
